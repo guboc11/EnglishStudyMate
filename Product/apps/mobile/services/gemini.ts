@@ -1,7 +1,11 @@
 import { buildDiversitySlots } from '@/services/diversity';
 import { validateLearningBundle } from '@/services/validateBundle';
 import type { LearningBundle, LearningPageKey } from '@/types/learning';
-import type { DomainTag } from '@/types/selection';
+import type {
+  DomainTag,
+  ResolveAndGenerateResult,
+  SenseCandidate,
+} from '@/types/selection';
 
 const GEMINI_API_KEY = process.env.EXPO_PUBLIC_GEMINI_API_KEY;
 const GEMINI_MODEL = 'gemini-2.0-flash';
@@ -26,6 +30,10 @@ export type GenerateBundleParams = {
   phrase: string;
   senseLabelKo: string;
   domain: DomainTag;
+};
+
+export type ResolveAndGenerateParams = {
+  input: string;
 };
 
 function extractGeneratedText(payload: any): string | null {
@@ -53,7 +61,35 @@ function extractJsonText(raw: string): string {
   return trimmed.slice(first, last + 1);
 }
 
-function buildPrompt(params: GenerateBundleParams): string {
+function normalizeDomain(domain: string): DomainTag {
+  const value = domain.trim().toLowerCase();
+  if (value === 'tech') return 'tech';
+  if (value === 'art') return 'art';
+  if (value === 'business') return 'business';
+  if (value === 'science') return 'science';
+  if (value === 'daily') return 'daily';
+  return 'general';
+}
+
+function sanitizeCandidates(raw: any[]): SenseCandidate[] {
+  if (!Array.isArray(raw)) return [];
+
+  return raw
+    .filter((item) => item && typeof item === 'object')
+    .map((item, index) => ({
+      id: String(item.id ?? `sense_${index + 1}`),
+      phrase: String(item.phrase ?? '').trim(),
+      senseLabelKo: String(item.senseLabelKo ?? '').trim(),
+      shortHintKo: String(item.shortHintKo ?? '').trim(),
+      domains: Array.isArray(item.domains)
+        ? item.domains.map((domain: string) => normalizeDomain(String(domain)))
+        : ['general'],
+    }))
+    .filter((item) => item.phrase && item.senseLabelKo)
+    .slice(0, 6);
+}
+
+function buildBundlePrompt(params: GenerateBundleParams): string {
   const slots = buildDiversitySlots();
   const slotLines = PAGE_KEYS.map((key) => {
     const slot = slots[key];
@@ -91,12 +127,93 @@ Hard rules:
 2) Every story must naturally include the selected phrase or its grammatical variation.
 3) Each page must use a clearly different context and situation from the others.
 4) Keep all stories anchored to the selected sense and domain.
+4-1) If additional context is provided, reflect it naturally in story situations.
 5) No title, no markdown, no explanation, JSON only.
 6) "meaning" fields must be Korean-centered explanations (except shortExampleEn).
 7) shortExampleEn must include the selected phrase or its natural variation.
 8) Each meaning field should be concise (1 to 2 sentences).
 
 Use these page slots for diversity:
+${slotLines}
+`.trim();
+}
+
+function buildResolveAndGeneratePrompt(params: ResolveAndGenerateParams): string {
+  const slots = buildDiversitySlots();
+  const slotLines = PAGE_KEYS.map((key) => {
+    const slot = slots[key];
+    return `${key}: topic=${slot.topic}; mood=${slot.mood}; setting=${slot.setting}`;
+  }).join('\n');
+
+  return `
+You analyze learner input and decide whether to generate learning content immediately.
+
+Input expression: "${params.input}"
+
+Output JSON only in one of these shapes:
+
+1) invalid
+{
+  "status":"invalid",
+  "reasonKo":"string",
+  "retryHintKo":"string"
+}
+
+2) needs_selection
+{
+  "status":"needs_selection",
+  "normalizedInput":"string",
+  "candidates":[
+    {
+      "id":"string",
+      "phrase":"string",
+      "senseLabelKo":"string",
+      "shortHintKo":"string",
+      "domains":["general"|"tech"|"art"|"business"|"science"|"daily"]
+    }
+  ]
+}
+
+3) ready
+{
+  "status":"ready",
+  "selected":{
+    "phrase":"string",
+    "senseLabelKo":"string",
+    "domain":"general|tech|art|business|science|daily"
+  },
+  "bundle": {
+    "expression": "string",
+    "example1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+    "example2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+    "example3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+    "review1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+    "review2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+    "review3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+    "meaning": {
+      "literalMeaningKo":"string",
+      "realUsageKo":"string",
+      "etymologyKo":"string",
+      "nuanceKo":"string",
+      "shortExampleEn":"string",
+      "shortExampleKo":"string"
+    }
+  }
+}
+
+Rules:
+- If input is nonsense/non-existent/not practical, return invalid.
+- If sense is ambiguous, return needs_selection with 1-6 candidates.
+- If context clearly disambiguates, return ready.
+- In ready, bundle must follow the same quality rules:
+  - each story 3-4 sentences
+  - selected phrase variation included naturally
+  - contexts diverse across pages
+  - selected sense/domain must stay consistent
+  - meaning fields Korean-centered except shortExampleEn
+- No markdown, no explanation, JSON only.
+
+Use these page slots for diversity in ready mode:
 ${slotLines}
 `.trim();
 }
@@ -156,12 +273,11 @@ function toLearningBundle(parsed: any, params: GenerateBundleParams): LearningBu
   };
 }
 
-async function requestBundleFromGemini(params: GenerateBundleParams): Promise<LearningBundle> {
+async function requestJsonFromGemini(prompt: string): Promise<any> {
   if (!GEMINI_API_KEY) {
     throw new Error('Missing EXPO_PUBLIC_GEMINI_API_KEY');
   }
 
-  const prompt = buildPrompt(params);
   const response = await fetch(`${GEMINI_ENDPOINT}?key=${GEMINI_API_KEY}`, {
     method: 'POST',
     headers: {
@@ -177,7 +293,7 @@ async function requestBundleFromGemini(params: GenerateBundleParams): Promise<Le
       generationConfig: {
         temperature: 0.95,
         topP: 0.95,
-        maxOutputTokens: 1800,
+        maxOutputTokens: 2000,
         responseMimeType: 'application/json',
       },
     }),
@@ -192,8 +308,94 @@ async function requestBundleFromGemini(params: GenerateBundleParams): Promise<Le
   const raw = extractGeneratedText(payload);
   if (!raw) throw new Error('Gemini API returned empty content');
 
-  const parsed = JSON.parse(extractJsonText(raw));
+  return JSON.parse(extractJsonText(raw));
+}
+
+async function requestBundleFromGemini(params: GenerateBundleParams): Promise<LearningBundle> {
+  const parsed = await requestJsonFromGemini(buildBundlePrompt(params));
   return toLearningBundle(parsed, params);
+}
+
+export async function resolveAndGenerateLearning(
+  params: ResolveAndGenerateParams
+): Promise<ResolveAndGenerateResult> {
+  const parsed = await requestJsonFromGemini(buildResolveAndGeneratePrompt(params));
+  const status = String(parsed?.status ?? '').trim();
+
+  if (status === 'invalid') {
+    return {
+      status: 'invalid',
+      reasonKo: String(parsed?.reasonKo ?? '존재하지 않거나 학습용 표현이 아닙니다.'),
+      retryHintKo: String(parsed?.retryHintKo ?? '다른 단어/구문으로 다시 시도해 주세요.'),
+    };
+  }
+
+  if (status === 'needs_selection') {
+    const candidates = sanitizeCandidates(parsed?.candidates);
+    if (candidates.length === 0) {
+      return {
+        status: 'invalid',
+        reasonKo: '의미를 판별할 수 없는 입력입니다.',
+        retryHintKo: '학습하려는 단어/구문을 다시 입력해 주세요.',
+      };
+    }
+
+    return {
+      status: 'needs_selection',
+      normalizedInput: String(parsed?.normalizedInput ?? params.input).trim() || params.input,
+      candidates,
+    };
+  }
+
+  if (status === 'ready') {
+    const selectedPhrase = String(parsed?.selected?.phrase ?? '').trim();
+    const selectedSenseLabelKo = String(parsed?.selected?.senseLabelKo ?? '').trim();
+    const selectedDomain = normalizeDomain(String(parsed?.selected?.domain ?? 'general'));
+
+    if (!selectedPhrase || !selectedSenseLabelKo) {
+      return {
+        status: 'invalid',
+        reasonKo: '표현 의미를 확정하지 못했습니다.',
+        retryHintKo: '다시 시도해 주세요.',
+      };
+    }
+
+    const bundle = toLearningBundle(parsed?.bundle ?? {}, {
+      expression: params.input,
+      phrase: selectedPhrase,
+      senseLabelKo: selectedSenseLabelKo,
+      domain: selectedDomain,
+    });
+
+    const validation = validateLearningBundle(bundle, selectedPhrase);
+    if (!validation.valid) {
+      return {
+        status: 'needs_selection',
+        normalizedInput: params.input,
+        candidates: [
+          {
+            id: 'fallback_selected',
+            phrase: selectedPhrase,
+            senseLabelKo: selectedSenseLabelKo,
+            shortHintKo: '자동 확정 결과를 검토해 주세요.',
+            domains: [selectedDomain],
+          },
+        ],
+      };
+    }
+
+    return {
+      status: 'ready',
+      expression: selectedPhrase,
+      bundle,
+    };
+  }
+
+  return {
+    status: 'invalid',
+    reasonKo: '의미를 판별할 수 없는 입력입니다.',
+    retryHintKo: '학습하려는 단어/구문을 다시 입력해 주세요.',
+  };
 }
 
 export function buildFallbackLearningBundle(params: GenerateBundleParams): LearningBundle {

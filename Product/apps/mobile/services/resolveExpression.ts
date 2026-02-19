@@ -73,6 +73,7 @@ Return JSON only in one of these exact shapes:
 {
   "status":"valid",
   "normalizedInput":"string",
+  "autoResolvedCandidateId":"string (optional)",
   "candidates":[
     {
       "id":"string",
@@ -152,5 +153,9 @@ export async function resolveExpression(input: string): Promise<ExpressionResolu
     status: 'valid',
     normalizedInput: String(parsed?.normalizedInput ?? input).trim() || input,
     candidates,
+    autoResolvedCandidateId:
+      typeof parsed?.autoResolvedCandidateId === 'string'
+        ? parsed.autoResolvedCandidateId
+        : undefined,
   };
 }

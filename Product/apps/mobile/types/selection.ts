@@ -18,6 +18,7 @@ export type ExpressionResolution =
       status: 'valid';
       normalizedInput: string;
       candidates: SenseCandidate[];
+      autoResolvedCandidateId?: string;
     };
 
 export type SelectedMeaning = {
@@ -26,3 +27,20 @@ export type SelectedMeaning = {
   senseLabelKo: string;
   domain: DomainTag;
 };
+
+export type ResolveAndGenerateResult =
+  | {
+      status: 'invalid';
+      reasonKo: string;
+      retryHintKo: string;
+    }
+  | {
+      status: 'needs_selection';
+      normalizedInput: string;
+      candidates: SenseCandidate[];
+    }
+  | {
+      status: 'ready';
+      expression: string;
+      bundle: import('@/types/learning').LearningBundle;
+    };

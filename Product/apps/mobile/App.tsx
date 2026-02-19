@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { useState } from 'react';
 
 import { GluestackUIProvider } from '@/components/ui/gluestack-ui-provider';
 import { ExampleFlowScreen } from '@/screens/ExampleFlowScreen';
@@ -9,13 +10,19 @@ import { MeaningGateScreen } from '@/screens/MeaningGateScreen';
 import { MeaningScreen } from '@/screens/MeaningScreen';
 import { ReviewFlowScreen } from '@/screens/ReviewFlowScreen';
 import { SearchHistoryScreen } from '@/screens/SearchHistoryScreen';
+import {
+  resolveAndGenerateLearning,
+} from '@/services/gemini';
+import { addSearchHistory } from '@/services/searchHistory';
 import type { LearningBundle } from '@/types/learning';
+import type { ResolveAndGenerateResult } from '@/types/selection';
 import '@/global.css';
 
 type RootStackParamList = {
   Home: undefined;
   MeaningGate: {
     rawInput: string;
+    initialResult?: ResolveAndGenerateResult;
   };
   ExampleFlow: {
     expression: string;
@@ -35,6 +42,8 @@ type RootStackParamList = {
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 export default function App() {
+  const [isSearching, setIsSearching] = useState(false);
+
   return (
     <GluestackUIProvider mode="light">
       <NavigationContainer>
@@ -48,10 +57,38 @@ export default function App() {
           <Stack.Screen name="Home">
             {({ navigation }) => (
               <HomeScreen
-                isSearching={false}
-                onSearchPress={(rawQuery) =>
-                  navigation.navigate('MeaningGate', { rawInput: rawQuery })
-                }
+                isSearching={isSearching}
+                onSearchPress={async (rawQuery) => {
+                  const expression = rawQuery.trim();
+                  if (!expression || isSearching) return;
+
+                  setIsSearching(true);
+                  try {
+                    const result = await resolveAndGenerateLearning({
+                      input: expression,
+                    });
+
+                    if (result.status === 'ready') {
+                      await addSearchHistory(result.expression);
+                      navigation.navigate('ExampleFlow', {
+                        expression: result.expression,
+                        bundle: result.bundle,
+                      });
+                      return;
+                    }
+
+                    navigation.navigate('MeaningGate', {
+                      rawInput: expression,
+                      initialResult: result,
+                    });
+                  } catch {
+                    navigation.navigate('MeaningGate', {
+                      rawInput: expression,
+                    });
+                  } finally {
+                    setIsSearching(false);
+                  }
+                }}
                 onReviewPress={() => navigation.navigate('SearchHistory')}
               />
             )}
@@ -60,6 +97,7 @@ export default function App() {
             {({ navigation, route }) => (
               <MeaningGateScreen
                 rawInput={route.params.rawInput}
+                initialResult={route.params.initialResult}
                 onClose={() => navigation.popToTop()}
                 onResolved={(expression, bundle) =>
                   navigation.replace('ExampleFlow', {

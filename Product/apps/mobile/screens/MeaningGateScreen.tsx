@@ -7,15 +7,16 @@ import { LearningFlowLayout } from '@/screens/layouts/LearningFlowLayout';
 import {
   buildFallbackLearningBundle,
   generateLearningBundle,
+  resolveAndGenerateLearning,
   type GenerateBundleParams,
 } from '@/services/gemini';
-import { resolveExpression } from '@/services/resolveExpression';
 import { addSearchHistory } from '@/services/searchHistory';
 import type { LearningBundle } from '@/types/learning';
-import type { DomainTag, ExpressionResolution, SenseCandidate } from '@/types/selection';
+import type { DomainTag, ResolveAndGenerateResult, SenseCandidate } from '@/types/selection';
 
 type MeaningGateScreenProps = {
   rawInput: string;
+  initialResult?: ResolveAndGenerateResult;
   onClose: () => void;
   onResolved: (expression: string, bundle: LearningBundle) => void;
 };
@@ -29,30 +30,65 @@ const DOMAIN_LABEL: Record<DomainTag, string> = {
   daily: 'Daily',
 };
 
-export function MeaningGateScreen({ rawInput, onClose, onResolved }: MeaningGateScreenProps) {
-  const [resolution, setResolution] = useState<ExpressionResolution | null>(null);
+export function MeaningGateScreen({
+  rawInput,
+  initialResult,
+  onClose,
+  onResolved,
+}: MeaningGateScreenProps) {
+  const [result, setResult] = useState<ResolveAndGenerateResult | null>(null);
   const [isResolving, setIsResolving] = useState(true);
   const [isGenerating, setIsGenerating] = useState(false);
   const [selectedCandidateId, setSelectedCandidateId] = useState<string>('');
   const [selectedDomain, setSelectedDomain] = useState<DomainTag>('general');
 
   useEffect(() => {
+    const handleReadyResult = async (readyResult: Extract<ResolveAndGenerateResult, { status: 'ready' }>) => {
+      await addSearchHistory(readyResult.expression);
+      onResolved(readyResult.expression, readyResult.bundle);
+    };
+
+    if (initialResult) {
+      if (initialResult.status === 'ready') {
+        void handleReadyResult(initialResult);
+        setIsResolving(false);
+        return;
+      }
+
+      setResult(initialResult);
+      if (initialResult.status === 'needs_selection' && initialResult.candidates.length > 0) {
+        const first = initialResult.candidates[0];
+        setSelectedCandidateId(first.id);
+        setSelectedDomain(first.domains[0] ?? 'general');
+      }
+      setIsResolving(false);
+      return;
+    }
+
     let cancelled = false;
 
     const run = async () => {
       setIsResolving(true);
       try {
-        const result = await resolveExpression(rawInput);
+        const nextResult = await resolveAndGenerateLearning({
+          input: rawInput,
+        });
         if (cancelled) return;
-        setResolution(result);
-        if (result.status === 'valid' && result.candidates.length > 0) {
-          const first = result.candidates[0];
+
+        if (nextResult.status === 'ready') {
+          await handleReadyResult(nextResult);
+          return;
+        }
+
+        setResult(nextResult);
+        if (nextResult.status === 'needs_selection' && nextResult.candidates.length > 0) {
+          const first = nextResult.candidates[0];
           setSelectedCandidateId(first.id);
           setSelectedDomain(first.domains[0] ?? 'general');
         }
-      } catch (error) {
+      } catch {
         if (cancelled) return;
-        setResolution({
+        setResult({
           status: 'invalid',
           reasonKo: '표현 의미를 판별하는 중 오류가 발생했습니다.',
           retryHintKo: '잠시 후 다시 시도해 주세요.',
@@ -66,12 +102,12 @@ export function MeaningGateScreen({ rawInput, onClose, onResolved }: MeaningGate
     return () => {
       cancelled = true;
     };
-  }, [rawInput]);
+  }, [initialResult, onResolved, rawInput]);
 
   const selectedCandidate = useMemo(() => {
-    if (!resolution || resolution.status !== 'valid') return null;
-    return resolution.candidates.find((candidate) => candidate.id === selectedCandidateId) ?? null;
-  }, [resolution, selectedCandidateId]);
+    if (!result || result.status !== 'needs_selection') return null;
+    return result.candidates.find((candidate) => candidate.id === selectedCandidateId) ?? null;
+  }, [result, selectedCandidateId]);
 
   const handleCandidateSelect = (candidate: SenseCandidate) => {
     setSelectedCandidateId(candidate.id);
@@ -111,19 +147,21 @@ export function MeaningGateScreen({ rawInput, onClose, onResolved }: MeaningGate
 
         {isResolving ? (
           <Text size="md">의미를 판별하는 중...</Text>
-        ) : resolution?.status === 'invalid' ? (
+        ) : result?.status === 'invalid' ? (
           <>
-            <Text size="md">{resolution.reasonKo}</Text>
-            <Text size="sm">{resolution.retryHintKo}</Text>
+            <Text size="md">{result.reasonKo}</Text>
+            <Text size="sm">{result.retryHintKo}</Text>
             <Button size="lg" action="primary" onPress={onClose}>
               <ButtonText>다시 입력하기</ButtonText>
             </Button>
           </>
+        ) : result?.status !== 'needs_selection' ? (
+          <Text size="md">결과 페이지로 이동하는 중...</Text>
         ) : (
           <>
             <Text size="md">어떤 것과 관련된 의미인가요?</Text>
             <VStack className="gap-2">
-              {resolution?.candidates.map((candidate) => (
+              {result.candidates.map((candidate) => (
                 <Button
                   key={candidate.id}
                   size="md"
