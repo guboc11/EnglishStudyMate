@@ -5,7 +5,6 @@ import { Text } from '@/components/ui/text';
 import { VStack } from '@/components/ui/vstack';
 import { LearningFlowLayout } from '@/screens/layouts/LearningFlowLayout';
 import {
-  buildFallbackLearningBundle,
   generateLearningBundle,
   resolveAndGenerateLearning,
   type GenerateBundleParams,
@@ -39,6 +38,7 @@ export function MeaningGateScreen({
   const [result, setResult] = useState<ResolveAndGenerateResult | null>(null);
   const [isResolving, setIsResolving] = useState(true);
   const [isGenerating, setIsGenerating] = useState(false);
+  const [generateError, setGenerateError] = useState('');
   const [selectedCandidateId, setSelectedCandidateId] = useState<string>('');
   const [selectedDomain, setSelectedDomain] = useState<DomainTag>('general');
 
@@ -112,6 +112,7 @@ export function MeaningGateScreen({
   const handleCandidateSelect = (candidate: SenseCandidate) => {
     setSelectedCandidateId(candidate.id);
     setSelectedDomain(candidate.domains[0] ?? 'general');
+    setGenerateError('');
   };
 
   const handleStart = async () => {
@@ -125,13 +126,13 @@ export function MeaningGateScreen({
     };
 
     setIsGenerating(true);
+    setGenerateError('');
     try {
       await addSearchHistory(selectedCandidate.phrase);
       const bundle = await generateLearningBundle(params);
       onResolved(selectedCandidate.phrase, bundle);
     } catch {
-      const fallback = buildFallbackLearningBundle(params);
-      onResolved(selectedCandidate.phrase, fallback);
+      setGenerateError('콘텐츠 생성에 실패했습니다. 네트워크 상태를 확인한 뒤 다시 시도해 주세요.');
     } finally {
       setIsGenerating(false);
     }
@@ -185,12 +186,20 @@ export function MeaningGateScreen({
                       key={domain}
                       size="sm"
                       action={selectedDomain === domain ? 'primary' : 'secondary'}
-                      onPress={() => setSelectedDomain(domain)}
+                      onPress={() => {
+                        setSelectedDomain(domain);
+                        setGenerateError('');
+                      }}
                     >
                       <ButtonText>{DOMAIN_LABEL[domain]}</ButtonText>
                     </Button>
                   ))}
                 </VStack>
+                {generateError ? (
+                  <Text size="sm" style={{ color: '#dc2626' }}>
+                    {generateError}
+                  </Text>
+                ) : null}
               </>
             ) : null}
 

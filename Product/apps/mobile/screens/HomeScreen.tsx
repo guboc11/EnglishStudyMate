@@ -50,6 +50,12 @@ export function HomeScreen({
           width: contentWidth,
         }}
       >
+        <Text size="2xl" bold style={{ textAlign: 'center' }}>
+          English Study Mate
+        </Text>
+        <Text size="sm" style={{ textAlign: 'center' }}>
+          모바일 화면에 최적화 되어 있습니다.
+        </Text>
         <Input size="lg" variant="outline">
           <InputField
             placeholder="검색할 단어를 입력하세요"

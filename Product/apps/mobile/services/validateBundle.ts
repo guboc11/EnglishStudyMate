@@ -1,5 +1,4 @@
 import type { LearningBundle, LearningPageKey } from '@/types/learning';
-import { splitByExpressionMatch } from '@/utils/highlightExpression';
 
 const PAGE_KEYS: LearningPageKey[] = [
   'example1',
@@ -39,18 +38,13 @@ function jaccardSimilarity(a: string, b: string): number {
   return union === 0 ? 0 : intersection / union;
 }
 
-function hasExpressionMatch(text: string, expression: string): boolean {
-  return splitByExpressionMatch(text, expression).some((segment) => segment.isMatch);
-}
-
-function validatePageStory(story: string, expression: string): string | null {
+function validatePageStory(story: string): string | null {
   const count = sentenceCount(story);
   if (count < 3 || count > 4) return 'story_sentence_count_invalid';
-  if (!hasExpressionMatch(story, expression)) return 'story_expression_missing';
   return null;
 }
 
-function validateMeaning(bundle: LearningBundle, expression: string): string | null {
+function validateMeaning(bundle: LearningBundle): string | null {
   const meaning = bundle.meaning;
   if (!meaning) return 'meaning_missing';
 
@@ -60,9 +54,6 @@ function validateMeaning(bundle: LearningBundle, expression: string): string | n
   if (!meaning.nuanceKo?.trim()) return 'meaning_nuance_missing';
   if (!meaning.shortExampleEn?.trim()) return 'meaning_short_example_en_missing';
   if (!meaning.shortExampleKo?.trim()) return 'meaning_short_example_ko_missing';
-  if (!hasExpressionMatch(meaning.shortExampleEn, expression)) {
-    return 'meaning_short_example_expression_missing';
-  }
 
   return null;
 }
@@ -88,7 +79,7 @@ export function validateLearningBundle(
       return { valid: false, reason: `missing_story_${key}` };
     }
 
-    const pageIssue = validatePageStory(story, expression);
+    const pageIssue = validatePageStory(story);
     if (pageIssue) {
       return { valid: false, reason: `${pageIssue}_${key}` };
     }
@@ -105,7 +96,7 @@ export function validateLearningBundle(
     }
   }
 
-  const meaningIssue = validateMeaning(bundle, expression);
+  const meaningIssue = validateMeaning(bundle);
   if (meaningIssue) return { valid: false, reason: meaningIssue };
 
   const metaIssue = validateSelectionMeta(bundle);

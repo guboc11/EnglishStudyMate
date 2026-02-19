@@ -20,6 +20,28 @@ const PAGE_KEYS: LearningPageKey[] = [
   'review3',
 ];
 
+function getStoryPreview(story: string): string {
+  const normalized = String(story ?? '').replace(/\s+/g, ' ').trim();
+  return normalized.length <= 220 ? normalized : `${normalized.slice(0, 220)}...`;
+}
+
+function parseValidationReason(reason: string): {
+  baseReason: string;
+  pageKey?: LearningPageKey;
+} {
+  for (const pageKey of PAGE_KEYS) {
+    const suffix = `_${pageKey}`;
+    if (reason.endsWith(suffix)) {
+      return {
+        baseReason: reason.slice(0, -suffix.length),
+        pageKey,
+      };
+    }
+  }
+
+  return { baseReason: reason };
+}
+
 const BASE_FALLBACK_STORY = `A rainy afternoon, I saw a small cat outside and decided to take it in.
 I gave it warm food and a dry towel, and it slowly relaxed near the window.
 The next day, the cat followed me around the house like we had known each other for a long time.
@@ -460,12 +482,38 @@ export async function generateLearningBundle(params: GenerateBundleParams): Prom
   let lastError: unknown = null;
 
   for (let attempt = 1; attempt <= 3; attempt += 1) {
+    console.info(
+      `[generateLearningBundle] attempt=${attempt}/3 phrase="${params.phrase}" sense="${params.senseLabelKo}" domain="${params.domain}"`
+    );
+
     try {
       const bundle = await requestBundleFromGemini(params);
       const result = validateLearningBundle(bundle, params.phrase);
-      if (result.valid) return bundle;
+      if (result.valid) {
+        console.info(
+          `[generateLearningBundle] validation passed attempt=${attempt} phrase="${params.phrase}"`
+        );
+        return bundle;
+      }
+
+      const { baseReason, pageKey } = parseValidationReason(result.reason);
+      const pageStory = pageKey ? bundle[pageKey]?.story ?? '' : '';
+
+      console.warn(
+        `[generateLearningBundle] validation failed attempt=${attempt} reason="${result.reason}" baseReason="${baseReason}" page="${pageKey ?? 'n/a'}" phrase="${params.phrase}"`
+      );
+      if (pageKey) {
+        console.warn(
+          `[generateLearningBundle] failed_page_story_preview page="${pageKey}" preview="${getStoryPreview(pageStory)}"`
+        );
+      }
+
       lastError = new Error(`bundle_validation_failed:${result.reason}`);
     } catch (error) {
+      console.error(
+        `[generateLearningBundle] request failed attempt=${attempt} phrase="${params.phrase}"`,
+        error
+      );
       lastError = error;
     }
   }

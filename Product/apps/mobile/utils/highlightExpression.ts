@@ -48,16 +48,55 @@ function normalizeSpace(text: string): string {
   return text.trim().replace(/\s+/g, ' ').toLowerCase();
 }
 
+function isVowel(char: string): boolean {
+  return /[aeiou]/.test(char);
+}
+
+function countVowelGroups(word: string): number {
+  const matches = word.match(/[aeiou]+/g);
+  return matches ? matches.length : 0;
+}
+
+function shouldDoubleFinalConsonant(word: string): boolean {
+  if (word.length < 3) return false;
+
+  const last = word[word.length - 1];
+  const middle = word[word.length - 2];
+  const first = word[word.length - 3];
+
+  const isCvc =
+    /[a-z]/.test(first) &&
+    /[a-z]/.test(middle) &&
+    /[a-z]/.test(last) &&
+    !isVowel(first) &&
+    isVowel(middle) &&
+    !isVowel(last);
+
+  if (!isCvc) return false;
+  if (/[wxy]/.test(last)) return false;
+
+  // Default for short one-syllable CVC words: stop -> stopped/stopping.
+  if (word.length <= 4 && countVowelGroups(word) === 1) return true;
+
+  // Heuristic for common multi-syllable stress-on-last patterns:
+  // occur, prefer, admit, begin, etc.
+  const stressedTailPattern = /(cur|fer|mit|gin|fit|get|pel|mit)$/;
+  return stressedTailPattern.test(word);
+}
+
 function addRegularInflections(word: string, set: Set<string>) {
   if (!word) return;
   set.add(word);
+
+  const doubleFinal = shouldDoubleFinalConsonant(word);
+  const doubledStem = doubleFinal ? `${word}${word[word.length - 1]}` : word;
 
   if (word.endsWith('y') && !/[aeiou]y$/.test(word)) {
     set.add(`${word.slice(0, -1)}ies`);
     set.add(`${word.slice(0, -1)}ied`);
   } else {
     set.add(`${word}s`);
-    set.add(`${word}ed`);
+    set.add(`${doubledStem}ed`);
   }
 
   if (/(s|x|z|ch|sh)$/.test(word)) {
@@ -70,6 +109,12 @@ function addRegularInflections(word: string, set: Set<string>) {
   } else if (word.endsWith('ie')) {
     set.add(`${word.slice(0, -2)}ying`);
   } else {
+    set.add(`${doubledStem}ing`);
+  }
+
+  // Preserve non-doubling forms as additional variants for tolerant matching.
+  if (doubleFinal) {
+    set.add(`${word}ed`);
     set.add(`${word}ing`);
   }
 }
