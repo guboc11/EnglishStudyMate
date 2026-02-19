@@ -5,25 +5,33 @@ import { Button, ButtonText } from '@/components/ui/button';
 import { Text } from '@/components/ui/text';
 import { VStack } from '@/components/ui/vstack';
 import { LearningFlowLayout } from '@/screens/layouts/LearningFlowLayout';
+import type { LearningBundle } from '@/types/learning';
+import { splitByExpressionMatch } from '@/utils/highlightExpression';
 
 type ReviewFlowScreenProps = {
   onClose: () => void;
   onComplete: () => void;
+  expression: string;
+  bundle: LearningBundle;
 };
 
 type ReviewStep = 1 | 2 | 3;
 
 const REVIEW_IMAGE = require('../assets/example2.png');
 
-const REVIEW_STORY = `At first, taking the cat in felt like a small choice, but it changed my daily life.
-Every morning, it waited near the kitchen while I prepared breakfast and watched me quietly.
-When I came back late from work, it ran to the door and made the house feel less empty.
-Looking back, that rainy day became the start of a warm routine I did not expect.`;
-
-export function ReviewFlowScreen({ onClose, onComplete }: ReviewFlowScreenProps) {
+export function ReviewFlowScreen({
+  onClose,
+  onComplete,
+  expression,
+  bundle,
+}: ReviewFlowScreenProps) {
   const [step, setStep] = useState<ReviewStep>(1);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
+
+  const story =
+    step === 1 ? bundle.review1.story : step === 2 ? bundle.review2.story : bundle.review3.story;
+  const highlightedStory = splitByExpressionMatch(story, expression);
 
   const handleNext = () => {
     setStep((prev) => (prev < 3 ? ((prev + 1) as ReviewStep) : prev));
@@ -59,7 +67,13 @@ export function ReviewFlowScreen({ onClose, onComplete }: ReviewFlowScreenProps)
             }}
           />
         </View>
-        <Text size="md">{REVIEW_STORY}</Text>
+        <Text size="md">
+          {highlightedStory.map((segment, index) => (
+            <Text key={`${segment.text}-${index}`} size="md" bold={segment.isMatch}>
+              {segment.text}
+            </Text>
+          ))}
+        </Text>
         <Button
           size="lg"
           action={step === 3 ? 'secondary' : 'primary'}

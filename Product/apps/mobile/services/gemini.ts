@@ -1,6 +1,24 @@
+import { buildDiversitySlots } from '@/services/diversity';
+import { validateLearningBundle } from '@/services/validateBundle';
+import type { LearningBundle, LearningPageKey } from '@/types/learning';
+
 const GEMINI_API_KEY = process.env.EXPO_PUBLIC_GEMINI_API_KEY;
 const GEMINI_MODEL = 'gemini-2.0-flash';
 const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
+
+const PAGE_KEYS: LearningPageKey[] = [
+  'example1',
+  'example2',
+  'example3',
+  'review1',
+  'review2',
+  'review3',
+];
+
+const BASE_FALLBACK_STORY = `A rainy afternoon, I saw a small cat outside and decided to take it in.
+I gave it warm food and a dry towel, and it slowly relaxed near the window.
+The next day, the cat followed me around the house like we had known each other for a long time.
+That simple moment helped me understand what it means to take something in with care.`;
 
 function extractGeneratedText(payload: any): string | null {
   const parts = payload?.candidates?.[0]?.content?.parts;
@@ -14,21 +32,100 @@ function extractGeneratedText(payload: any): string | null {
   return text.length > 0 ? text : null;
 }
 
-export async function generateExample1Story(expression: string): Promise<string> {
+function extractJsonText(raw: string): string {
+  const trimmed = raw.trim();
+  if (trimmed.startsWith('{') && trimmed.endsWith('}')) return trimmed;
+
+  const first = trimmed.indexOf('{');
+  const last = trimmed.lastIndexOf('}');
+  if (first === -1 || last === -1 || last <= first) {
+    throw new Error('Gemini output does not contain valid JSON object');
+  }
+
+  return trimmed.slice(first, last + 1);
+}
+
+function buildPrompt(expression: string): string {
+  const slots = buildDiversitySlots();
+  const slotLines = PAGE_KEYS.map((key) => {
+    const slot = slots[key];
+    return `${key}: topic=${slot.topic}; mood=${slot.mood}; setting=${slot.setting}`;
+  }).join('\n');
+
+  return `
+You are creating learning stories for the English expression "${expression}".
+
+Output only valid JSON with this exact shape:
+{
+  "expression": "string",
+  "example1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+  "example2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+  "example3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+  "review1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+  "review2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+  "review3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]}
+}
+
+Hard rules:
+1) Every story must be 3 to 4 sentences, easy A2-B1 English.
+2) Every story must naturally include the target expression or its grammatical variation.
+3) Each page must use a clearly different context and situation from the others.
+4) Keep the meaning anchored to the same target expression across all pages.
+5) No title, no markdown, no explanation, JSON only.
+
+Use these page slots for diversity:
+${slotLines}
+`.trim();
+}
+
+function toLearningBundle(parsed: any, expression: string): LearningBundle {
+  return {
+    expression,
+    example1: {
+      story: parsed?.example1?.story ?? '',
+      topicTag: parsed?.example1?.topicTag ?? '',
+      moodTag: parsed?.example1?.moodTag ?? '',
+      usedExpressionVariants: parsed?.example1?.usedExpressionVariants ?? [],
+    },
+    example2: {
+      story: parsed?.example2?.story ?? '',
+      topicTag: parsed?.example2?.topicTag ?? '',
+      moodTag: parsed?.example2?.moodTag ?? '',
+      usedExpressionVariants: parsed?.example2?.usedExpressionVariants ?? [],
+    },
+    example3: {
+      story: parsed?.example3?.story ?? '',
+      topicTag: parsed?.example3?.topicTag ?? '',
+      moodTag: parsed?.example3?.moodTag ?? '',
+      usedExpressionVariants: parsed?.example3?.usedExpressionVariants ?? [],
+    },
+    review1: {
+      story: parsed?.review1?.story ?? '',
+      topicTag: parsed?.review1?.topicTag ?? '',
+      moodTag: parsed?.review1?.moodTag ?? '',
+      usedExpressionVariants: parsed?.review1?.usedExpressionVariants ?? [],
+    },
+    review2: {
+      story: parsed?.review2?.story ?? '',
+      topicTag: parsed?.review2?.topicTag ?? '',
+      moodTag: parsed?.review2?.moodTag ?? '',
+      usedExpressionVariants: parsed?.review2?.usedExpressionVariants ?? [],
+    },
+    review3: {
+      story: parsed?.review3?.story ?? '',
+      topicTag: parsed?.review3?.topicTag ?? '',
+      moodTag: parsed?.review3?.moodTag ?? '',
+      usedExpressionVariants: parsed?.review3?.usedExpressionVariants ?? [],
+    },
+  };
+}
+
+async function requestBundleFromGemini(expression: string): Promise<LearningBundle> {
   if (!GEMINI_API_KEY) {
     throw new Error('Missing EXPO_PUBLIC_GEMINI_API_KEY');
   }
 
-  const prompt = [
-    `Create a short story that helps the learner understand the expression "${expression}".`,
-    'Write 3 to 4 sentences.',
-    'Use very simple English that even a young child can understand.',
-    'Make the context rich, intuitive, and easy to imagine.',
-    'Include clear situation details so the meaning of the expression is naturally understood.',
-    'The output must be one connected story, not separate examples.',
-    'Do not add a title, bullets, or explanations.',
-  ].join(' ');
-
+  const prompt = buildPrompt(expression);
   const response = await fetch(`${GEMINI_ENDPOINT}?key=${GEMINI_API_KEY}`, {
     method: 'POST',
     headers: {
@@ -42,9 +139,10 @@ export async function generateExample1Story(expression: string): Promise<string>
         },
       ],
       generationConfig: {
-        temperature: 0.7,
+        temperature: 0.95,
         topP: 0.95,
-        maxOutputTokens: 220,
+        maxOutputTokens: 1800,
+        responseMimeType: 'application/json',
       },
     }),
   });
@@ -55,10 +153,68 @@ export async function generateExample1Story(expression: string): Promise<string>
   }
 
   const payload = await response.json();
-  const generated = extractGeneratedText(payload);
-  if (!generated) {
-    throw new Error('Gemini API returned empty content');
+  const raw = extractGeneratedText(payload);
+  if (!raw) throw new Error('Gemini API returned empty content');
+
+  const parsed = JSON.parse(extractJsonText(raw));
+  return toLearningBundle(parsed, expression);
+}
+
+export function buildFallbackLearningBundle(expression: string): LearningBundle {
+  return {
+    expression,
+    example1: {
+      story: BASE_FALLBACK_STORY,
+      topicTag: 'fallback_home',
+      moodTag: 'warm',
+      usedExpressionVariants: [expression],
+    },
+    example2: {
+      story: BASE_FALLBACK_STORY,
+      topicTag: 'fallback_street',
+      moodTag: 'calm',
+      usedExpressionVariants: [expression],
+    },
+    example3: {
+      story: BASE_FALLBACK_STORY,
+      topicTag: 'fallback_social',
+      moodTag: 'reflective',
+      usedExpressionVariants: [expression],
+    },
+    review1: {
+      story: BASE_FALLBACK_STORY,
+      topicTag: 'fallback_review1',
+      moodTag: 'calm',
+      usedExpressionVariants: [expression],
+    },
+    review2: {
+      story: BASE_FALLBACK_STORY,
+      topicTag: 'fallback_review2',
+      moodTag: 'encouraging',
+      usedExpressionVariants: [expression],
+    },
+    review3: {
+      story: BASE_FALLBACK_STORY,
+      topicTag: 'fallback_review3',
+      moodTag: 'warm',
+      usedExpressionVariants: [expression],
+    },
+  };
+}
+
+export async function generateLearningBundle(expression: string): Promise<LearningBundle> {
+  let lastError: unknown = null;
+
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
+    try {
+      const bundle = await requestBundleFromGemini(expression);
+      const result = validateLearningBundle(bundle, expression);
+      if (result.valid) return bundle;
+      lastError = new Error(`bundle_validation_failed:${result.reason}`);
+    } catch (error) {
+      lastError = error;
+    }
   }
 
-  return generated;
+  throw new Error(`Learning bundle generation failed: ${String(lastError)}`);
 }

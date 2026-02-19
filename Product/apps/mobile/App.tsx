@@ -7,16 +7,23 @@ import { GluestackUIProvider } from '@/components/ui/gluestack-ui-provider';
 import { ExampleFlowScreen } from '@/screens/ExampleFlowScreen';
 import { HomeScreen } from '@/screens/HomeScreen';
 import { ReviewFlowScreen } from '@/screens/ReviewFlowScreen';
-import { generateExample1Story } from '@/services/gemini';
+import {
+  buildFallbackLearningBundle,
+  generateLearningBundle,
+} from '@/services/gemini';
+import type { LearningBundle } from '@/types/learning';
 import '@/global.css';
 
 type RootStackParamList = {
   Home: undefined;
   ExampleFlow: {
     expression: string;
-    example1Story?: string;
+    bundle: LearningBundle;
   };
-  ReviewFlow: undefined;
+  ReviewFlow: {
+    expression: string;
+    bundle: LearningBundle;
+  };
 };
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -44,21 +51,27 @@ export default function App() {
 
                   setIsSearching(true);
                   try {
-                    const generated = await generateExample1Story(expression);
+                    const bundle = await generateLearningBundle(expression);
                     navigation.navigate('ExampleFlow', {
                       expression,
-                      example1Story: generated,
+                      bundle,
                     });
                   } catch (error) {
-                    console.warn('Gemini generation failed, using fallback story:', error);
+                    console.warn('Gemini generation failed, using fallback bundle:', error);
                     navigation.navigate('ExampleFlow', {
                       expression,
+                      bundle: buildFallbackLearningBundle(expression),
                     });
                   } finally {
                     setIsSearching(false);
                   }
                 }}
-                onReviewPress={() => navigation.navigate('ReviewFlow')}
+                onReviewPress={() =>
+                  navigation.navigate('ReviewFlow', {
+                    expression: 'take in',
+                    bundle: buildFallbackLearningBundle('take in'),
+                  })
+                }
               />
             )}
           </Stack.Screen>
@@ -66,17 +79,24 @@ export default function App() {
             {({ navigation, route }) => (
               <ExampleFlowScreen
                 onClose={() => navigation.popToTop()}
-                onReviewPress={() => navigation.replace('ReviewFlow')}
+                onReviewPress={() =>
+                  navigation.replace('ReviewFlow', {
+                    expression: route.params.expression,
+                    bundle: route.params.bundle,
+                  })
+                }
                 expression={route.params?.expression ?? 'take in'}
-                example1Story={route.params?.example1Story}
+                bundle={route.params.bundle}
               />
             )}
           </Stack.Screen>
           <Stack.Screen name="ReviewFlow">
-            {({ navigation }) => (
+            {({ navigation, route }) => (
               <ReviewFlowScreen
                 onClose={() => navigation.popToTop()}
                 onComplete={() => navigation.popToTop()}
+                expression={route.params?.expression ?? 'take in'}
+                bundle={route.params.bundle}
               />
             )}
           </Stack.Screen>
