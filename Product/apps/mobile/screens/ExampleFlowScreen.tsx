@@ -6,6 +6,7 @@ import { Button, ButtonText } from "@/components/ui/button";
 import { Text } from "@/components/ui/text";
 import { VStack } from "@/components/ui/vstack";
 import { LearningFlowLayout } from "@/screens/layouts/LearningFlowLayout";
+import { splitByExpressionMatch } from "@/utils/highlightExpression";
 
 type ExampleFlowScreenProps = {
   onClose: () => void;
@@ -48,6 +49,10 @@ export function ExampleFlowScreen({
     if (step === 2) return EXAMPLE_2_STORY;
     return EXAMPLE_3_STORY;
   }, [example1Story, step]);
+  const highlightedStory = useMemo(
+    () => splitByExpressionMatch(story, expression),
+    [story, expression]
+  );
 
   const handleNext = () => {
     setStep((prev) => (prev < 3 ? ((prev + 1) as ExampleStep) : prev));
@@ -108,7 +113,13 @@ export function ExampleFlowScreen({
             />
           </View>
         ) : null}
-        <Text size="md">{story}</Text>
+        <Text size="md">
+          {highlightedStory.map((segment, index) => (
+            <Text key={`${segment.text}-${index}`} size="md" bold={segment.isMatch}>
+              {segment.text}
+            </Text>
+          ))}
+        </Text>
         <Button
           size="lg"
           action="primary"
