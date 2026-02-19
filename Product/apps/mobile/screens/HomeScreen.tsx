@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useWindowDimensions } from 'react-native';
 
 import { Box } from '@/components/ui/box';
 import { Button, ButtonText } from '@/components/ui/button';
@@ -11,10 +12,17 @@ type HomeScreenProps = {
 
 export function HomeScreen({ onSearchPress }: HomeScreenProps) {
   const [query, setQuery] = useState('');
+  const { width } = useWindowDimensions();
+  const contentWidth = Math.round(width * (2 / 3));
 
   return (
     <Box className="flex-1 items-center justify-center bg-background-50 px-4">
-      <VStack className="w-full max-w-[520px] gap-3">
+      <VStack
+        className="gap-3"
+        style={{
+          width: contentWidth,
+        }}
+      >
         <Input size="lg" variant="outline">
           <InputField
             placeholder="검색할 단어를 입력하세요"
