@@ -7,7 +7,6 @@ import {
   View,
   useWindowDimensions,
 } from 'react-native';
-import { ResizeMode, Video } from 'expo-av';
 
 import { Button, ButtonText } from '@/components/ui/button';
 import { generateCartoonImage } from '@/services/geminiImage';
@@ -27,7 +26,6 @@ type ExampleFlowScreenProps = {
 
 type ExampleStep = 1 | 2 | 3;
 const EXAMPLE_2_IMAGE = require('../assets/example2.png');
-const EXAMPLE_3_VIDEO = require('../assets/example3.mp4');
 
 export function ExampleFlowScreen({
   onClose,
@@ -39,7 +37,11 @@ export function ExampleFlowScreen({
   const [example2Image, setExample2Image] = useState<GeneratedImageState>({
     status: 'idle',
   });
+  const [example3Image, setExample3Image] = useState<GeneratedImageState>({
+    status: 'idle',
+  });
   const [example2AspectRatio, setExample2AspectRatio] = useState(1.6);
+  const [example3AspectRatio, setExample3AspectRatio] = useState(1.6);
   const requestIdRef = useRef(0);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
@@ -80,9 +82,36 @@ export function ExampleFlowScreen({
     }
   };
 
+  const fetchExample3Image = async () => {
+    requestIdRef.current += 1;
+    const requestId = requestIdRef.current;
+    setExample3Image({ status: 'loading' });
+
+    try {
+      const uri = await generateCartoonImage({
+        expression,
+        story: bundle.example3.story,
+        pageKey: 'example3',
+      });
+      if (requestId !== requestIdRef.current) return;
+      setExample3Image({ status: 'ready', uri });
+    } catch (error) {
+      if (requestId !== requestIdRef.current) return;
+      setExample3Image({
+        status: 'error',
+        error: error instanceof Error ? error.message : String(error),
+      });
+    }
+  };
+
   useEffect(() => {
-    if (step !== 2) return;
-    void fetchExample2Image();
+    if (step === 2) {
+      void fetchExample2Image();
+      return;
+    }
+    if (step === 3) {
+      void fetchExample3Image();
+    }
   }, [step]);
 
   const handleExample2ImageLoad = (event: NativeSyntheticEvent<ImageLoadEventData>) => {
@@ -90,6 +119,14 @@ export function ExampleFlowScreen({
     const height = event.nativeEvent?.source?.height ?? 0;
     if (width > 0 && height > 0) {
       setExample2AspectRatio(width / height);
+    }
+  };
+
+  const handleExample3ImageLoad = (event: NativeSyntheticEvent<ImageLoadEventData>) => {
+    const width = event.nativeEvent?.source?.width ?? 0;
+    const height = event.nativeEvent?.source?.height ?? 0;
+    if (width > 0 && height > 0) {
+      setExample3AspectRatio(width / height);
     }
   };
 
@@ -153,24 +190,46 @@ export function ExampleFlowScreen({
           </>
         ) : null}
         {step === 3 ? (
-          <View
-            style={{
-              width: contentWidth,
-              height: 210,
-              borderRadius: 12,
-              overflow: 'hidden',
-              backgroundColor: '#111827',
-            }}
-          >
-            <Video
-              source={EXAMPLE_3_VIDEO}
-              style={{ width: '100%', height: '100%' }}
-              resizeMode={ResizeMode.COVER}
-              useNativeControls
-              shouldPlay
-              isLooping
-            />
-          </View>
+          <>
+            {/* TODO: Replace with video player when external video API integration is ready. */}
+            <View
+              style={{
+                width: contentWidth,
+                borderRadius: 12,
+                overflow: 'hidden',
+                backgroundColor: '#e5e7eb',
+                alignItems: 'center',
+                justifyContent: 'center',
+              }}
+            >
+              {example3Image.status === 'loading' ? (
+                <VStack className="items-center gap-2">
+                  <ActivityIndicator size="small" color="#374151" />
+                  <Text size="sm">이미지 생성중...</Text>
+                </VStack>
+              ) : (
+                <Image
+                  source={
+                    example3Image.status === 'ready' && example3Image.uri
+                      ? { uri: example3Image.uri }
+                      : EXAMPLE_2_IMAGE
+                  }
+                  defaultSource={EXAMPLE_2_IMAGE}
+                  resizeMode="contain"
+                  onLoad={handleExample3ImageLoad}
+                  style={{
+                    width: '100%',
+                    aspectRatio: example3AspectRatio,
+                  }}
+                />
+              )}
+            </View>
+            {example3Image.status === 'error' ? (
+              <Button size="sm" action="secondary" onPress={() => void fetchExample3Image()}>
+                <ButtonText>이미지 다시 생성</ButtonText>
+              </Button>
+            ) : null}
+          </>
         ) : null}
         <Text size="md">
           {highlightedStory.map((segment, index) => (
