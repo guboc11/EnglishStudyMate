@@ -1,17 +1,20 @@
-import { useMemo, useState } from 'react';
-import { Image, View, useWindowDimensions } from 'react-native';
+import { useMemo, useState } from "react";
+import { Image, View, useWindowDimensions } from "react-native";
+import { ResizeMode, Video } from "expo-av";
 
-import { Button, ButtonText } from '@/components/ui/button';
-import { Text } from '@/components/ui/text';
-import { VStack } from '@/components/ui/vstack';
-import { LearningFlowLayout } from '@/screens/layouts/LearningFlowLayout';
+import { Button, ButtonText } from "@/components/ui/button";
+import { Text } from "@/components/ui/text";
+import { VStack } from "@/components/ui/vstack";
+import { LearningFlowLayout } from "@/screens/layouts/LearningFlowLayout";
 
 type ExampleFlowScreenProps = {
   onClose: () => void;
+  onReviewPress: () => void;
 };
 
 type ExampleStep = 1 | 2 | 3;
-const EXAMPLE_2_IMAGE = require('../assets/example2.png');
+const EXAMPLE_2_IMAGE = require("../assets/example2.png");
+const EXAMPLE_3_VIDEO = require("../assets/example3.mp4");
 
 const EXAMPLE_1_STORY = `One day, I was walking home when I saw a small cat shivering in the rain.
 I hesitated for a moment, but I couldn't just leave it there, so I decided to take it in.
@@ -28,7 +31,7 @@ Friends who visited often said the cat seemed to trust people more than before.
 I realized that taking it in was not only about helping an animal, but also about changing myself.
 What began as a moment of hesitation became one of the best decisions I had made.`;
 
-export function ExampleFlowScreen({ onClose }: ExampleFlowScreenProps) {
+export function ExampleFlowScreen({ onClose, onReviewPress }: ExampleFlowScreenProps) {
   const [step, setStep] = useState<ExampleStep>(1);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
@@ -60,8 +63,8 @@ export function ExampleFlowScreen({ onClose }: ExampleFlowScreenProps) {
               width: contentWidth,
               height: 190,
               borderRadius: 12,
-              overflow: 'hidden',
-              backgroundColor: '#e5e7eb',
+              overflow: "hidden",
+              backgroundColor: "#e5e7eb",
             }}
           >
             <Image
@@ -69,9 +72,29 @@ export function ExampleFlowScreen({ onClose }: ExampleFlowScreenProps) {
               defaultSource={EXAMPLE_2_IMAGE}
               resizeMode="cover"
               style={{
-                width: '100%',
-                height: '100%',
+                width: "100%",
+                height: "100%",
               }}
+            />
+          </View>
+        ) : null}
+        {step === 3 ? (
+          <View
+            style={{
+              width: contentWidth,
+              height: 210,
+              borderRadius: 12,
+              overflow: "hidden",
+              backgroundColor: "#111827",
+            }}
+          >
+            <Video
+              source={EXAMPLE_3_VIDEO}
+              style={{ width: "100%", height: "100%" }}
+              resizeMode={ResizeMode.COVER}
+              useNativeControls
+              shouldPlay
+              isLooping
             />
           </View>
         ) : null}
@@ -84,6 +107,11 @@ export function ExampleFlowScreen({ onClose }: ExampleFlowScreenProps) {
         >
           <ButtonText>예문 더보기</ButtonText>
         </Button>
+        {step === 3 ? (
+          <Button size="lg" action="secondary" onPress={onReviewPress}>
+            <ButtonText>복습하기</ButtonText>
+          </Button>
+        ) : null}
       </VStack>
     </LearningFlowLayout>
   );
