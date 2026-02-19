@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react';
+import { Image, View, useWindowDimensions } from 'react-native';
 
 import { Button, ButtonText } from '@/components/ui/button';
 import { Text } from '@/components/ui/text';
@@ -10,6 +11,7 @@ type ExampleFlowScreenProps = {
 };
 
 type ExampleStep = 1 | 2 | 3;
+const EXAMPLE_2_IMAGE = require('../assets/example2.png');
 
 const EXAMPLE_1_STORY = `One day, I was walking home when I saw a small cat shivering in the rain.
 I hesitated for a moment, but I couldn't just leave it there, so I decided to take it in.
@@ -28,6 +30,8 @@ What began as a moment of hesitation became one of the best decisions I had made
 
 export function ExampleFlowScreen({ onClose }: ExampleFlowScreenProps) {
   const [step, setStep] = useState<ExampleStep>(1);
+  const { width } = useWindowDimensions();
+  const contentWidth = Math.min(Math.max(width - 32, 280), 360);
 
   const story = useMemo(() => {
     if (step === 1) return EXAMPLE_1_STORY;
@@ -41,10 +45,36 @@ export function ExampleFlowScreen({ onClose }: ExampleFlowScreenProps) {
 
   return (
     <LearningFlowLayout onClose={onClose}>
-      <VStack className="w-full max-w-[360px] gap-5">
+      <VStack
+        className="gap-5"
+        style={{
+          width: contentWidth,
+        }}
+      >
         <Text size="xl" bold>
           {`예문 ${step}`}
         </Text>
+        {step === 2 ? (
+          <View
+            style={{
+              width: contentWidth,
+              height: 190,
+              borderRadius: 12,
+              overflow: 'hidden',
+              backgroundColor: '#e5e7eb',
+            }}
+          >
+            <Image
+              source={EXAMPLE_2_IMAGE}
+              defaultSource={EXAMPLE_2_IMAGE}
+              resizeMode="cover"
+              style={{
+                width: '100%',
+                height: '100%',
+              }}
+            />
+          </View>
+        ) : null}
         <Text size="md">{story}</Text>
         <Button
           size="lg"
