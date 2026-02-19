@@ -1,5 +1,12 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { ActivityIndicator, Image, View, useWindowDimensions } from 'react-native';
+import {
+  ActivityIndicator,
+  Image,
+  type ImageLoadEventData,
+  type NativeSyntheticEvent,
+  View,
+  useWindowDimensions,
+} from 'react-native';
 import { ResizeMode, Video } from 'expo-av';
 
 import { Button, ButtonText } from '@/components/ui/button';
@@ -32,6 +39,7 @@ export function ExampleFlowScreen({
   const [example2Image, setExample2Image] = useState<GeneratedImageState>({
     status: 'idle',
   });
+  const [example2AspectRatio, setExample2AspectRatio] = useState(1.6);
   const requestIdRef = useRef(0);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
@@ -77,6 +85,14 @@ export function ExampleFlowScreen({
     void fetchExample2Image();
   }, [step]);
 
+  const handleExample2ImageLoad = (event: NativeSyntheticEvent<ImageLoadEventData>) => {
+    const width = event.nativeEvent?.source?.width ?? 0;
+    const height = event.nativeEvent?.source?.height ?? 0;
+    if (width > 0 && height > 0) {
+      setExample2AspectRatio(width / height);
+    }
+  };
+
   return (
     <LearningFlowLayout onClose={onClose}>
       <VStack
@@ -89,14 +105,17 @@ export function ExampleFlowScreen({
           {`예문 ${step}`}
         </Text>
         {step === 1 ? (
-          <Text size="sm">{`표현: ${expression || 'take in'}`}</Text>
+          <Text size="sm">
+            {`표현: ${bundle.selectionMeta.selectedPhrase || expression || 'take in'} | 의미: ${
+              bundle.selectionMeta.selectedSenseLabelKo
+            } | 도메인: ${bundle.selectionMeta.selectedDomain}`}
+          </Text>
         ) : null}
         {step === 2 ? (
           <>
             <View
               style={{
                 width: contentWidth,
-                height: 190,
                 borderRadius: 12,
                 overflow: 'hidden',
                 backgroundColor: '#e5e7eb',
@@ -117,10 +136,11 @@ export function ExampleFlowScreen({
                       : EXAMPLE_2_IMAGE
                   }
                   defaultSource={EXAMPLE_2_IMAGE}
-                  resizeMode="cover"
+                  resizeMode="contain"
+                  onLoad={handleExample2ImageLoad}
                   style={{
                     width: '100%',
-                    height: '100%',
+                    aspectRatio: example2AspectRatio,
                   }}
                 />
               )}

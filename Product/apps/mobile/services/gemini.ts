@@ -1,6 +1,7 @@
 import { buildDiversitySlots } from '@/services/diversity';
 import { validateLearningBundle } from '@/services/validateBundle';
 import type { LearningBundle, LearningPageKey } from '@/types/learning';
+import type { DomainTag } from '@/types/selection';
 
 const GEMINI_API_KEY = process.env.EXPO_PUBLIC_GEMINI_API_KEY;
 const GEMINI_MODEL = 'gemini-2.0-flash';
@@ -19,6 +20,13 @@ const BASE_FALLBACK_STORY = `A rainy afternoon, I saw a small cat outside and de
 I gave it warm food and a dry towel, and it slowly relaxed near the window.
 The next day, the cat followed me around the house like we had known each other for a long time.
 That simple moment helped me understand what it means to take something in with care.`;
+
+export type GenerateBundleParams = {
+  expression: string;
+  phrase: string;
+  senseLabelKo: string;
+  domain: DomainTag;
+};
 
 function extractGeneratedText(payload: any): string | null {
   const parts = payload?.candidates?.[0]?.content?.parts;
@@ -45,7 +53,7 @@ function extractJsonText(raw: string): string {
   return trimmed.slice(first, last + 1);
 }
 
-function buildPrompt(expression: string): string {
+function buildPrompt(params: GenerateBundleParams): string {
   const slots = buildDiversitySlots();
   const slotLines = PAGE_KEYS.map((key) => {
     const slot = slots[key];
@@ -53,7 +61,11 @@ function buildPrompt(expression: string): string {
   }).join('\n');
 
   return `
-You are creating learning stories for the English expression "${expression}".
+You are creating learning stories for an English expression.
+
+Selected phrase: "${params.phrase}"
+Selected sense (Korean): "${params.senseLabelKo}"
+Selected domain: "${params.domain}"
 
 Output only valid JSON with this exact shape:
 {
@@ -76,12 +88,12 @@ Output only valid JSON with this exact shape:
 
 Hard rules:
 1) Every story must be 3 to 4 sentences, easy A2-B1 English.
-2) Every story must naturally include the target expression or its grammatical variation.
+2) Every story must naturally include the selected phrase or its grammatical variation.
 3) Each page must use a clearly different context and situation from the others.
-4) Keep the meaning anchored to the same target expression across all pages.
+4) Keep all stories anchored to the selected sense and domain.
 5) No title, no markdown, no explanation, JSON only.
 6) "meaning" fields must be Korean-centered explanations (except shortExampleEn).
-7) shortExampleEn must include the target expression or its natural variation.
+7) shortExampleEn must include the selected phrase or its natural variation.
 8) Each meaning field should be concise (1 to 2 sentences).
 
 Use these page slots for diversity:
@@ -89,9 +101,9 @@ ${slotLines}
 `.trim();
 }
 
-function toLearningBundle(parsed: any, expression: string): LearningBundle {
+function toLearningBundle(parsed: any, params: GenerateBundleParams): LearningBundle {
   return {
-    expression,
+    expression: params.phrase,
     example1: {
       story: parsed?.example1?.story ?? '',
       topicTag: parsed?.example1?.topicTag ?? '',
@@ -136,15 +148,20 @@ function toLearningBundle(parsed: any, expression: string): LearningBundle {
       shortExampleEn: parsed?.meaning?.shortExampleEn ?? '',
       shortExampleKo: parsed?.meaning?.shortExampleKo ?? '',
     },
+    selectionMeta: {
+      selectedPhrase: params.phrase,
+      selectedSenseLabelKo: params.senseLabelKo,
+      selectedDomain: params.domain,
+    },
   };
 }
 
-async function requestBundleFromGemini(expression: string): Promise<LearningBundle> {
+async function requestBundleFromGemini(params: GenerateBundleParams): Promise<LearningBundle> {
   if (!GEMINI_API_KEY) {
     throw new Error('Missing EXPO_PUBLIC_GEMINI_API_KEY');
   }
 
-  const prompt = buildPrompt(expression);
+  const prompt = buildPrompt(params);
   const response = await fetch(`${GEMINI_ENDPOINT}?key=${GEMINI_API_KEY}`, {
     method: 'POST',
     headers: {
@@ -176,69 +193,74 @@ async function requestBundleFromGemini(expression: string): Promise<LearningBund
   if (!raw) throw new Error('Gemini API returned empty content');
 
   const parsed = JSON.parse(extractJsonText(raw));
-  return toLearningBundle(parsed, expression);
+  return toLearningBundle(parsed, params);
 }
 
-export function buildFallbackLearningBundle(expression: string): LearningBundle {
+export function buildFallbackLearningBundle(params: GenerateBundleParams): LearningBundle {
   return {
-    expression,
+    expression: params.phrase,
     example1: {
       story: BASE_FALLBACK_STORY,
       topicTag: 'fallback_home',
       moodTag: 'warm',
-      usedExpressionVariants: [expression],
+      usedExpressionVariants: [params.phrase],
     },
     example2: {
       story: BASE_FALLBACK_STORY,
       topicTag: 'fallback_street',
       moodTag: 'calm',
-      usedExpressionVariants: [expression],
+      usedExpressionVariants: [params.phrase],
     },
     example3: {
       story: BASE_FALLBACK_STORY,
       topicTag: 'fallback_social',
       moodTag: 'reflective',
-      usedExpressionVariants: [expression],
+      usedExpressionVariants: [params.phrase],
     },
     review1: {
       story: BASE_FALLBACK_STORY,
       topicTag: 'fallback_review1',
       moodTag: 'calm',
-      usedExpressionVariants: [expression],
+      usedExpressionVariants: [params.phrase],
     },
     review2: {
       story: BASE_FALLBACK_STORY,
       topicTag: 'fallback_review2',
       moodTag: 'encouraging',
-      usedExpressionVariants: [expression],
+      usedExpressionVariants: [params.phrase],
     },
     review3: {
       story: BASE_FALLBACK_STORY,
       topicTag: 'fallback_review3',
       moodTag: 'warm',
-      usedExpressionVariants: [expression],
+      usedExpressionVariants: [params.phrase],
     },
     meaning: {
-      literalMeaningKo: `"${expression}"는 문맥 안으로 받아들이거나 이해한다는 뜻으로 자주 쓰입니다.`,
+      literalMeaningKo: `"${params.phrase}"는 문맥 안으로 받아들이거나 이해한다는 뜻으로 자주 쓰입니다.`,
       realUsageKo:
-        '실제 대화에서는 정보, 사람, 감정, 변화 등을 받아들이는 상황에서 자연스럽게 사용됩니다.',
+        '실제 대화에서는 정보, 사람, 감정, 변화를 받아들이는 상황에서 자연스럽게 사용됩니다.',
       etymologyKo:
         '기본적으로 안으로 들이다라는 이미지에서 출발해, 물리적 수용과 추상적 이해 의미로 확장되었습니다.',
       nuanceKo:
         '단순히 본다보다 더 적극적으로 받아들여 이해하거나 수용하는 느낌이 있습니다.',
-      shortExampleEn: `I needed time to ${expression} what she said.`,
+      shortExampleEn: `I needed time to ${params.phrase} what she said.`,
       shortExampleKo: '그녀가 한 말을 이해해서 받아들이는 데 시간이 필요했다.',
+    },
+    selectionMeta: {
+      selectedPhrase: params.phrase,
+      selectedSenseLabelKo: params.senseLabelKo,
+      selectedDomain: params.domain,
     },
   };
 }
 
-export async function generateLearningBundle(expression: string): Promise<LearningBundle> {
+export async function generateLearningBundle(params: GenerateBundleParams): Promise<LearningBundle> {
   let lastError: unknown = null;
 
   for (let attempt = 1; attempt <= 3; attempt += 1) {
     try {
-      const bundle = await requestBundleFromGemini(expression);
-      const result = validateLearningBundle(bundle, expression);
+      const bundle = await requestBundleFromGemini(params);
+      const result = validateLearningBundle(bundle, params.phrase);
       if (result.valid) return bundle;
       lastError = new Error(`bundle_validation_failed:${result.reason}`);
     } catch (error) {

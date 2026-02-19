@@ -67,6 +67,15 @@ function validateMeaning(bundle: LearningBundle, expression: string): string | n
   return null;
 }
 
+function validateSelectionMeta(bundle: LearningBundle): string | null {
+  const meta = bundle.selectionMeta;
+  if (!meta) return 'selection_meta_missing';
+  if (!meta.selectedPhrase?.trim()) return 'selection_meta_phrase_missing';
+  if (!meta.selectedSenseLabelKo?.trim()) return 'selection_meta_sense_missing';
+  if (!meta.selectedDomain?.trim()) return 'selection_meta_domain_missing';
+  return null;
+}
+
 export function validateLearningBundle(
   bundle: LearningBundle,
   expression: string
@@ -98,6 +107,9 @@ export function validateLearningBundle(
 
   const meaningIssue = validateMeaning(bundle, expression);
   if (meaningIssue) return { valid: false, reason: meaningIssue };
+
+  const metaIssue = validateSelectionMeta(bundle);
+  if (metaIssue) return { valid: false, reason: metaIssue };
 
   return { valid: true };
 }

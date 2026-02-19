@@ -1,3 +1,5 @@
+import type { DomainTag } from '@/types/selection';
+
 export type LearningPageKey =
   | 'example1'
   | 'example2'
@@ -31,4 +33,9 @@ export type LearningBundle = {
   review2: GeneratedPageContent;
   review3: GeneratedPageContent;
   meaning: ExpressionMeaning;
+  selectionMeta: {
+    selectedPhrase: string;
+    selectedSenseLabelKo: string;
+    selectedDomain: DomainTag;
+  };
 };

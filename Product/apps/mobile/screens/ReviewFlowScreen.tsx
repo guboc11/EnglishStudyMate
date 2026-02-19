@@ -1,5 +1,12 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { ActivityIndicator, Image, View, useWindowDimensions } from 'react-native';
+import {
+  ActivityIndicator,
+  Image,
+  type ImageLoadEventData,
+  type NativeSyntheticEvent,
+  View,
+  useWindowDimensions,
+} from 'react-native';
 
 import { Button, ButtonText } from '@/components/ui/button';
 import { generateCartoonImage } from '@/services/geminiImage';
@@ -31,6 +38,7 @@ export function ReviewFlowScreen({
   const [reviewImage, setReviewImage] = useState<GeneratedImageState>({
     status: 'idle',
   });
+  const [reviewAspectRatio, setReviewAspectRatio] = useState(1.6);
   const requestIdRef = useRef(0);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
@@ -78,6 +86,14 @@ export function ReviewFlowScreen({
     void fetchReviewImage();
   }, [step]);
 
+  const handleReviewImageLoad = (event: NativeSyntheticEvent<ImageLoadEventData>) => {
+    const width = event.nativeEvent?.source?.width ?? 0;
+    const height = event.nativeEvent?.source?.height ?? 0;
+    if (width > 0 && height > 0) {
+      setReviewAspectRatio(width / height);
+    }
+  };
+
   return (
     <LearningFlowLayout onClose={onClose}>
       <VStack
@@ -92,7 +108,6 @@ export function ReviewFlowScreen({
         <View
           style={{
             width: contentWidth,
-            height: 190,
             borderRadius: 12,
             overflow: 'hidden',
             backgroundColor: '#e5e7eb',
@@ -113,10 +128,11 @@ export function ReviewFlowScreen({
                   : REVIEW_IMAGE
               }
               defaultSource={REVIEW_IMAGE}
-              resizeMode="cover"
+              resizeMode="contain"
+              onLoad={handleReviewImageLoad}
               style={{
                 width: '100%',
-                height: '100%',
+                aspectRatio: reviewAspectRatio,
               }}
             />
           )}
