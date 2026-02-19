@@ -7,9 +7,11 @@ import {
   View,
   useWindowDimensions,
 } from 'react-native';
+import { ResizeMode, Video } from 'expo-av';
 
 import { Button, ButtonText } from '@/components/ui/button';
 import { generateCartoonImage } from '@/services/geminiImage';
+import { generateStoryVideo } from '@/services/geminiVideo';
 import { Text } from '@/components/ui/text';
 import { VStack } from '@/components/ui/vstack';
 import { LearningFlowLayout } from '@/screens/layouts/LearningFlowLayout';
@@ -27,6 +29,13 @@ type ExampleFlowScreenProps = {
 type ExampleStep = 1 | 2 | 3;
 const EXAMPLE_2_IMAGE = require('../assets/example2.png');
 
+type GeneratedVideoState = {
+  status: 'idle' | 'loading' | 'ready' | 'error';
+  uri?: string;
+  headers?: Record<string, string>;
+  error?: string;
+};
+
 export function ExampleFlowScreen({
   onClose,
   onReviewPress,
@@ -37,12 +46,12 @@ export function ExampleFlowScreen({
   const [example2Image, setExample2Image] = useState<GeneratedImageState>({
     status: 'idle',
   });
-  const [example3Image, setExample3Image] = useState<GeneratedImageState>({
+  const [example3Video, setExample3Video] = useState<GeneratedVideoState>({
     status: 'idle',
   });
   const [example2AspectRatio, setExample2AspectRatio] = useState(1.6);
-  const [example3AspectRatio, setExample3AspectRatio] = useState(1.6);
-  const requestIdRef = useRef(0);
+  const example2RequestIdRef = useRef(0);
+  const example3RequestIdRef = useRef(0);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
 
@@ -61,8 +70,8 @@ export function ExampleFlowScreen({
   };
 
   const fetchExample2Image = async () => {
-    requestIdRef.current += 1;
-    const requestId = requestIdRef.current;
+    example2RequestIdRef.current += 1;
+    const requestId = example2RequestIdRef.current;
     setExample2Image({ status: 'loading' });
 
     try {
@@ -71,10 +80,10 @@ export function ExampleFlowScreen({
         story: bundle.example2.story,
         pageKey: 'example2',
       });
-      if (requestId !== requestIdRef.current) return;
+      if (requestId !== example2RequestIdRef.current) return;
       setExample2Image({ status: 'ready', uri });
     } catch (error) {
-      if (requestId !== requestIdRef.current) return;
+      if (requestId !== example2RequestIdRef.current) return;
       setExample2Image({
         status: 'error',
         error: error instanceof Error ? error.message : String(error),
@@ -82,22 +91,25 @@ export function ExampleFlowScreen({
     }
   };
 
-  const fetchExample3Image = async () => {
-    requestIdRef.current += 1;
-    const requestId = requestIdRef.current;
-    setExample3Image({ status: 'loading' });
+  const fetchExample3Video = async () => {
+    example3RequestIdRef.current += 1;
+    const requestId = example3RequestIdRef.current;
+    setExample3Video({ status: 'loading' });
 
     try {
-      const uri = await generateCartoonImage({
+      const video = await generateStoryVideo({
         expression,
         story: bundle.example3.story,
-        pageKey: 'example3',
       });
-      if (requestId !== requestIdRef.current) return;
-      setExample3Image({ status: 'ready', uri });
+      if (requestId !== example3RequestIdRef.current) return;
+      setExample3Video({
+        status: 'ready',
+        uri: video.uri,
+        headers: video.headers,
+      });
     } catch (error) {
-      if (requestId !== requestIdRef.current) return;
-      setExample3Image({
+      if (requestId !== example3RequestIdRef.current) return;
+      setExample3Video({
         status: 'error',
         error: error instanceof Error ? error.message : String(error),
       });
@@ -110,7 +122,7 @@ export function ExampleFlowScreen({
       return;
     }
     if (step === 3) {
-      void fetchExample3Image();
+      void fetchExample3Video();
     }
   }, [step]);
 
@@ -119,14 +131,6 @@ export function ExampleFlowScreen({
     const height = event.nativeEvent?.source?.height ?? 0;
     if (width > 0 && height > 0) {
       setExample2AspectRatio(width / height);
-    }
-  };
-
-  const handleExample3ImageLoad = (event: NativeSyntheticEvent<ImageLoadEventData>) => {
-    const width = event.nativeEvent?.source?.width ?? 0;
-    const height = event.nativeEvent?.source?.height ?? 0;
-    if (width > 0 && height > 0) {
-      setExample3AspectRatio(width / height);
     }
   };
 
@@ -191,42 +195,45 @@ export function ExampleFlowScreen({
         ) : null}
         {step === 3 ? (
           <>
-            {/* TODO: Replace with video player when external video API integration is ready. */}
             <View
               style={{
                 width: contentWidth,
+                height: 210,
                 borderRadius: 12,
                 overflow: 'hidden',
-                backgroundColor: '#e5e7eb',
+                backgroundColor: '#111827',
                 alignItems: 'center',
                 justifyContent: 'center',
               }}
             >
-              {example3Image.status === 'loading' ? (
+              {example3Video.status === 'loading' || example3Video.status === 'idle' ? (
                 <VStack className="items-center gap-2">
                   <ActivityIndicator size="small" color="#374151" />
-                  <Text size="sm">이미지 생성중...</Text>
+                  <Text size="sm" style={{ color: '#f3f4f6' }}>
+                    영상 생성중... (최대 1~2분)
+                  </Text>
                 </VStack>
-              ) : (
-                <Image
-                  source={
-                    example3Image.status === 'ready' && example3Image.uri
-                      ? { uri: example3Image.uri }
-                      : EXAMPLE_2_IMAGE
-                  }
-                  defaultSource={EXAMPLE_2_IMAGE}
-                  resizeMode="contain"
-                  onLoad={handleExample3ImageLoad}
-                  style={{
-                    width: '100%',
-                    aspectRatio: example3AspectRatio,
+              ) : example3Video.status === 'ready' && example3Video.uri ? (
+                <Video
+                  source={{
+                    uri: example3Video.uri,
+                    headers: example3Video.headers,
                   }}
+                  style={{ width: '100%', height: '100%' }}
+                  resizeMode={ResizeMode.COVER}
+                  useNativeControls
+                  shouldPlay
+                  isLooping
                 />
+              ) : (
+                <Text size="sm" style={{ color: '#f3f4f6', textAlign: 'center', paddingHorizontal: 16 }}>
+                  영상 생성에 실패했습니다. 잠시 후 다시 시도해 주세요.
+                </Text>
               )}
             </View>
-            {example3Image.status === 'error' ? (
-              <Button size="sm" action="secondary" onPress={() => void fetchExample3Image()}>
-                <ButtonText>이미지 다시 생성</ButtonText>
+            {example3Video.status === 'error' ? (
+              <Button size="sm" action="secondary" onPress={() => void fetchExample3Video()}>
+                <ButtonText>영상 다시 생성</ButtonText>
               </Button>
             ) : null}
           </>
