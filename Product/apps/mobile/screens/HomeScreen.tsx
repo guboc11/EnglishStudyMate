@@ -7,10 +7,16 @@ import { Input, InputField } from '@/components/ui/input';
 import { VStack } from '@/components/ui/vstack';
 
 type HomeScreenProps = {
-  onSearchPress: () => void;
+  onSearchPress: (query: string) => void;
+  onReviewPress: () => void;
+  isSearching: boolean;
 };
 
-export function HomeScreen({ onSearchPress }: HomeScreenProps) {
+export function HomeScreen({
+  onSearchPress,
+  onReviewPress,
+  isSearching,
+}: HomeScreenProps) {
   const [query, setQuery] = useState('');
   const { width } = useWindowDimensions();
   const contentWidth = Math.round(width * (2 / 3));
@@ -32,8 +38,16 @@ export function HomeScreen({ onSearchPress }: HomeScreenProps) {
             autoCorrect={false}
           />
         </Input>
-        <Button size="lg" action="primary" onPress={onSearchPress}>
-          <ButtonText>단어 검색</ButtonText>
+        <Button
+          size="lg"
+          action="primary"
+          onPress={() => onSearchPress(query)}
+          isDisabled={isSearching}
+        >
+          <ButtonText>{isSearching ? '생성 중...' : '단어 검색'}</ButtonText>
+        </Button>
+        <Button size="lg" action="secondary" onPress={onReviewPress}>
+          <ButtonText>복습하기</ButtonText>
         </Button>
       </VStack>
     </Box>

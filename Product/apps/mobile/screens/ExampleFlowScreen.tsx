@@ -10,6 +10,8 @@ import { LearningFlowLayout } from "@/screens/layouts/LearningFlowLayout";
 type ExampleFlowScreenProps = {
   onClose: () => void;
   onReviewPress: () => void;
+  expression: string;
+  example1Story?: string;
 };
 
 type ExampleStep = 1 | 2 | 3;
@@ -31,16 +33,21 @@ Friends who visited often said the cat seemed to trust people more than before.
 I realized that taking it in was not only about helping an animal, but also about changing myself.
 What began as a moment of hesitation became one of the best decisions I had made.`;
 
-export function ExampleFlowScreen({ onClose, onReviewPress }: ExampleFlowScreenProps) {
+export function ExampleFlowScreen({
+  onClose,
+  onReviewPress,
+  expression,
+  example1Story,
+}: ExampleFlowScreenProps) {
   const [step, setStep] = useState<ExampleStep>(1);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
 
   const story = useMemo(() => {
-    if (step === 1) return EXAMPLE_1_STORY;
+    if (step === 1) return example1Story ?? EXAMPLE_1_STORY;
     if (step === 2) return EXAMPLE_2_STORY;
     return EXAMPLE_3_STORY;
-  }, [step]);
+  }, [example1Story, step]);
 
   const handleNext = () => {
     setStep((prev) => (prev < 3 ? ((prev + 1) as ExampleStep) : prev));
@@ -57,6 +64,9 @@ export function ExampleFlowScreen({ onClose, onReviewPress }: ExampleFlowScreenP
         <Text size="xl" bold>
           {`예문 ${step}`}
         </Text>
+        {step === 1 ? (
+          <Text size="sm">{`표현: ${expression || 'take in'}`}</Text>
+        ) : null}
         {step === 2 ? (
           <View
             style={{
