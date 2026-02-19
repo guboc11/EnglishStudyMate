@@ -66,6 +66,7 @@ router.get('/video/jobs/:jobId', (req, res) => {
 
 router.get('/video/jobs/:jobId/stream', async (req, res, next) => {
   try {
+    res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
     const job = getJob(req.params.jobId);
     if (!job) {
       res.status(404).json({ error: 'job_not_found', message: 'Video job not found' });

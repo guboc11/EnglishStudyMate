@@ -11,7 +11,11 @@ const { errorHandler, notFoundHandler } = require('./middleware/errorHandler');
 const app = express();
 const port = Number(process.env.PORT || 8787);
 
-app.use(helmet());
+app.use(
+  helmet({
+    crossOriginResourcePolicy: { policy: 'cross-origin' },
+  })
+);
 app.use(buildCors());
 app.use(morgan('tiny'));
 app.use(express.json({ limit: '1mb' }));
