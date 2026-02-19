@@ -13,6 +13,15 @@ export type GeneratedPageContent = {
   usedExpressionVariants: string[];
 };
 
+export type ExpressionMeaning = {
+  literalMeaningKo: string;
+  realUsageKo: string;
+  etymologyKo: string;
+  nuanceKo: string;
+  shortExampleEn: string;
+  shortExampleKo: string;
+};
+
 export type LearningBundle = {
   expression: string;
   example1: GeneratedPageContent;
@@ -21,4 +30,5 @@ export type LearningBundle = {
   review1: GeneratedPageContent;
   review2: GeneratedPageContent;
   review3: GeneratedPageContent;
+  meaning: ExpressionMeaning;
 };

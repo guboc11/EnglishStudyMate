@@ -138,7 +138,7 @@ export function ReviewFlowScreen({
           action={step === 3 ? 'secondary' : 'primary'}
           onPress={step === 3 ? onComplete : handleNext}
         >
-          <ButtonText>{step === 3 ? '복습 완료' : '다음 복습'}</ButtonText>
+          <ButtonText>{step === 3 ? '복습 완료(뜻 보러 가기)' : '다음 복습'}</ButtonText>
         </Button>
         {step === 3 ? (
           <Button size="lg" action="primary" onPress={() => setStep(1)}>

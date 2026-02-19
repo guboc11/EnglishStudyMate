@@ -6,11 +6,14 @@ import { useState } from 'react';
 import { GluestackUIProvider } from '@/components/ui/gluestack-ui-provider';
 import { ExampleFlowScreen } from '@/screens/ExampleFlowScreen';
 import { HomeScreen } from '@/screens/HomeScreen';
+import { MeaningScreen } from '@/screens/MeaningScreen';
 import { ReviewFlowScreen } from '@/screens/ReviewFlowScreen';
+import { SearchHistoryScreen } from '@/screens/SearchHistoryScreen';
 import {
   buildFallbackLearningBundle,
   generateLearningBundle,
 } from '@/services/gemini';
+import { addSearchHistory } from '@/services/searchHistory';
 import type { LearningBundle } from '@/types/learning';
 import '@/global.css';
 
@@ -24,6 +27,11 @@ type RootStackParamList = {
     expression: string;
     bundle: LearningBundle;
   };
+  Meaning: {
+    expression: string;
+    bundle: LearningBundle;
+  };
+  SearchHistory: undefined;
 };
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -51,6 +59,7 @@ export default function App() {
 
                   setIsSearching(true);
                   try {
+                    await addSearchHistory(expression);
                     const bundle = await generateLearningBundle(expression);
                     navigation.navigate('ExampleFlow', {
                       expression,
@@ -67,10 +76,7 @@ export default function App() {
                   }
                 }}
                 onReviewPress={() =>
-                  navigation.navigate('ReviewFlow', {
-                    expression: 'take in',
-                    bundle: buildFallbackLearningBundle('take in'),
-                  })
+                  navigation.navigate('SearchHistory')
                 }
               />
             )}
@@ -94,10 +100,30 @@ export default function App() {
             {({ navigation, route }) => (
               <ReviewFlowScreen
                 onClose={() => navigation.popToTop()}
-                onComplete={() => navigation.popToTop()}
+                onComplete={() =>
+                  navigation.navigate('Meaning', {
+                    expression: route.params?.expression ?? 'take in',
+                    bundle: route.params.bundle,
+                  })
+                }
                 expression={route.params?.expression ?? 'take in'}
                 bundle={route.params.bundle}
               />
+            )}
+          </Stack.Screen>
+          <Stack.Screen name="Meaning">
+            {({ navigation, route }) => (
+              <MeaningScreen
+                expression={route.params?.expression ?? 'take in'}
+                bundle={route.params.bundle}
+                onClose={() => navigation.popToTop()}
+                onDone={() => navigation.popToTop()}
+              />
+            )}
+          </Stack.Screen>
+          <Stack.Screen name="SearchHistory">
+            {({ navigation }) => (
+              <SearchHistoryScreen onClose={() => navigation.popToTop()} />
             )}
           </Stack.Screen>
         </Stack.Navigator>

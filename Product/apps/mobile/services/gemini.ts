@@ -63,7 +63,15 @@ Output only valid JSON with this exact shape:
   "example3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
   "review1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
   "review2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-  "review3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]}
+  "review3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+  "meaning": {
+    "literalMeaningKo":"string",
+    "realUsageKo":"string",
+    "etymologyKo":"string",
+    "nuanceKo":"string",
+    "shortExampleEn":"string",
+    "shortExampleKo":"string"
+  }
 }
 
 Hard rules:
@@ -72,6 +80,9 @@ Hard rules:
 3) Each page must use a clearly different context and situation from the others.
 4) Keep the meaning anchored to the same target expression across all pages.
 5) No title, no markdown, no explanation, JSON only.
+6) "meaning" fields must be Korean-centered explanations (except shortExampleEn).
+7) shortExampleEn must include the target expression or its natural variation.
+8) Each meaning field should be concise (1 to 2 sentences).
 
 Use these page slots for diversity:
 ${slotLines}
@@ -116,6 +127,14 @@ function toLearningBundle(parsed: any, expression: string): LearningBundle {
       topicTag: parsed?.review3?.topicTag ?? '',
       moodTag: parsed?.review3?.moodTag ?? '',
       usedExpressionVariants: parsed?.review3?.usedExpressionVariants ?? [],
+    },
+    meaning: {
+      literalMeaningKo: parsed?.meaning?.literalMeaningKo ?? '',
+      realUsageKo: parsed?.meaning?.realUsageKo ?? '',
+      etymologyKo: parsed?.meaning?.etymologyKo ?? '',
+      nuanceKo: parsed?.meaning?.nuanceKo ?? '',
+      shortExampleEn: parsed?.meaning?.shortExampleEn ?? '',
+      shortExampleKo: parsed?.meaning?.shortExampleKo ?? '',
     },
   };
 }
@@ -198,6 +217,17 @@ export function buildFallbackLearningBundle(expression: string): LearningBundle 
       topicTag: 'fallback_review3',
       moodTag: 'warm',
       usedExpressionVariants: [expression],
+    },
+    meaning: {
+      literalMeaningKo: `"${expression}"는 문맥 안으로 받아들이거나 이해한다는 뜻으로 자주 쓰입니다.`,
+      realUsageKo:
+        '실제 대화에서는 정보, 사람, 감정, 변화 등을 받아들이는 상황에서 자연스럽게 사용됩니다.',
+      etymologyKo:
+        '기본적으로 안으로 들이다라는 이미지에서 출발해, 물리적 수용과 추상적 이해 의미로 확장되었습니다.',
+      nuanceKo:
+        '단순히 본다보다 더 적극적으로 받아들여 이해하거나 수용하는 느낌이 있습니다.',
+      shortExampleEn: `I needed time to ${expression} what she said.`,
+      shortExampleKo: '그녀가 한 말을 이해해서 받아들이는 데 시간이 필요했다.',
     },
   };
 }

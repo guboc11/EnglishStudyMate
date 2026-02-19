@@ -50,6 +50,23 @@ function validatePageStory(story: string, expression: string): string | null {
   return null;
 }
 
+function validateMeaning(bundle: LearningBundle, expression: string): string | null {
+  const meaning = bundle.meaning;
+  if (!meaning) return 'meaning_missing';
+
+  if (!meaning.literalMeaningKo?.trim()) return 'meaning_literal_missing';
+  if (!meaning.realUsageKo?.trim()) return 'meaning_real_usage_missing';
+  if (!meaning.etymologyKo?.trim()) return 'meaning_etymology_missing';
+  if (!meaning.nuanceKo?.trim()) return 'meaning_nuance_missing';
+  if (!meaning.shortExampleEn?.trim()) return 'meaning_short_example_en_missing';
+  if (!meaning.shortExampleKo?.trim()) return 'meaning_short_example_ko_missing';
+  if (!hasExpressionMatch(meaning.shortExampleEn, expression)) {
+    return 'meaning_short_example_expression_missing';
+  }
+
+  return null;
+}
+
 export function validateLearningBundle(
   bundle: LearningBundle,
   expression: string
@@ -78,6 +95,9 @@ export function validateLearningBundle(
       }
     }
   }
+
+  const meaningIssue = validateMeaning(bundle, expression);
+  if (meaningIssue) return { valid: false, reason: meaningIssue };
 
   return { valid: true };
 }
