@@ -1,11 +1,13 @@
-import { useMemo, useState } from 'react';
-import { Image, View, useWindowDimensions } from 'react-native';
+import { useEffect, useMemo, useRef, useState } from 'react';
+import { ActivityIndicator, Image, View, useWindowDimensions } from 'react-native';
 import { ResizeMode, Video } from 'expo-av';
 
 import { Button, ButtonText } from '@/components/ui/button';
+import { generateCartoonImage } from '@/services/geminiImage';
 import { Text } from '@/components/ui/text';
 import { VStack } from '@/components/ui/vstack';
 import { LearningFlowLayout } from '@/screens/layouts/LearningFlowLayout';
+import type { GeneratedImageState } from '@/types/image';
 import type { LearningBundle } from '@/types/learning';
 import { splitByExpressionMatch } from '@/utils/highlightExpression';
 
@@ -27,6 +29,10 @@ export function ExampleFlowScreen({
   bundle,
 }: ExampleFlowScreenProps) {
   const [step, setStep] = useState<ExampleStep>(1);
+  const [example2Image, setExample2Image] = useState<GeneratedImageState>({
+    status: 'idle',
+  });
+  const requestIdRef = useRef(0);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
 
@@ -44,6 +50,33 @@ export function ExampleFlowScreen({
     setStep((prev) => (prev < 3 ? ((prev + 1) as ExampleStep) : prev));
   };
 
+  const fetchExample2Image = async () => {
+    requestIdRef.current += 1;
+    const requestId = requestIdRef.current;
+    setExample2Image({ status: 'loading' });
+
+    try {
+      const uri = await generateCartoonImage({
+        expression,
+        story: bundle.example2.story,
+        pageKey: 'example2',
+      });
+      if (requestId !== requestIdRef.current) return;
+      setExample2Image({ status: 'ready', uri });
+    } catch (error) {
+      if (requestId !== requestIdRef.current) return;
+      setExample2Image({
+        status: 'error',
+        error: error instanceof Error ? error.message : String(error),
+      });
+    }
+  };
+
+  useEffect(() => {
+    if (step !== 2) return;
+    void fetchExample2Image();
+  }, [step]);
+
   return (
     <LearningFlowLayout onClose={onClose}>
       <VStack
@@ -59,25 +92,45 @@ export function ExampleFlowScreen({
           <Text size="sm">{`표현: ${expression || 'take in'}`}</Text>
         ) : null}
         {step === 2 ? (
-          <View
-            style={{
-              width: contentWidth,
-              height: 190,
-              borderRadius: 12,
-              overflow: "hidden",
-              backgroundColor: '#e5e7eb',
-            }}
-          >
-            <Image
-              source={EXAMPLE_2_IMAGE}
-              defaultSource={EXAMPLE_2_IMAGE}
-              resizeMode="cover"
+          <>
+            <View
               style={{
-                width: '100%',
-                height: '100%',
+                width: contentWidth,
+                height: 190,
+                borderRadius: 12,
+                overflow: 'hidden',
+                backgroundColor: '#e5e7eb',
+                alignItems: 'center',
+                justifyContent: 'center',
               }}
-            />
-          </View>
+            >
+              {example2Image.status === 'loading' ? (
+                <VStack className="items-center gap-2">
+                  <ActivityIndicator size="small" color="#374151" />
+                  <Text size="sm">이미지 생성중...</Text>
+                </VStack>
+              ) : (
+                <Image
+                  source={
+                    example2Image.status === 'ready' && example2Image.uri
+                      ? { uri: example2Image.uri }
+                      : EXAMPLE_2_IMAGE
+                  }
+                  defaultSource={EXAMPLE_2_IMAGE}
+                  resizeMode="cover"
+                  style={{
+                    width: '100%',
+                    height: '100%',
+                  }}
+                />
+              )}
+            </View>
+            {example2Image.status === 'error' ? (
+              <Button size="sm" action="secondary" onPress={() => void fetchExample2Image()}>
+                <ButtonText>이미지 다시 생성</ButtonText>
+              </Button>
+            ) : null}
+          </>
         ) : null}
         {step === 3 ? (
           <View
@@ -85,7 +138,7 @@ export function ExampleFlowScreen({
               width: contentWidth,
               height: 210,
               borderRadius: 12,
-              overflow: "hidden",
+              overflow: 'hidden',
               backgroundColor: '#111827',
             }}
           >
