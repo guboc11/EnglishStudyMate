@@ -142,6 +142,8 @@ function buildVideoPrompt(params) {
     'Show a simple daily-life scene with 1-2 people and clear action.',
     'No subtitles, no watermark, no on-screen text.',
     'Natural camera movement, realistic lighting, family-friendly tone.',
+    'Output compatibility target: web-playable MP4 (H.264/AVC video + AAC audio).',
+    'Avoid codecs that are often unsupported in browsers (for example HEVC-only output).',
     'Use this story context:',
     params.story,
   ].join('\n');

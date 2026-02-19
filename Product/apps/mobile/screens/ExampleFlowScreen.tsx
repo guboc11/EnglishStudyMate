@@ -7,9 +7,10 @@ import {
   View,
   useWindowDimensions,
 } from 'react-native';
-import { ResizeMode, Video } from 'expo-av';
+import { Asset } from 'expo-asset';
 
 import { Button, ButtonText } from '@/components/ui/button';
+import { ExampleVideoPlayer } from '@/components/media/ExampleVideoPlayer';
 import { generateCartoonImage } from '@/services/geminiImage';
 import { generateStoryVideo } from '@/services/geminiVideo';
 import { Text } from '@/components/ui/text';
@@ -28,11 +29,14 @@ type ExampleFlowScreenProps = {
 
 type ExampleStep = 1 | 2 | 3;
 const EXAMPLE_2_IMAGE = require('../assets/example2.png');
+const EXAMPLE_3_VIDEO = require('../assets/example3.mp4');
 
 type GeneratedVideoState = {
   status: 'idle' | 'loading' | 'ready' | 'error';
   uri?: string;
   headers?: Record<string, string>;
+  playback?: 'generated' | 'fallback';
+  reason?: string;
   error?: string;
 };
 
@@ -54,6 +58,8 @@ export function ExampleFlowScreen({
   const example3RequestIdRef = useRef(0);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
+
+  const fallbackWebVideoUri = useMemo(() => Asset.fromModule(EXAMPLE_3_VIDEO).uri, []);
 
   const story = useMemo(() => {
     if (step === 1) return bundle.example1.story;
@@ -106,6 +112,8 @@ export function ExampleFlowScreen({
         status: 'ready',
         uri: video.uri,
         headers: video.headers,
+        playback: video.playback,
+        reason: video.reason,
       });
     } catch (error) {
       if (requestId !== example3RequestIdRef.current) return;
@@ -213,17 +221,16 @@ export function ExampleFlowScreen({
                     영상 생성중... (최대 1~2분)
                   </Text>
                 </VStack>
-              ) : example3Video.status === 'ready' && example3Video.uri ? (
-                <Video
-                  source={{
-                    uri: example3Video.uri,
-                    headers: example3Video.headers,
+              ) : example3Video.status === 'ready' ? (
+                <ExampleVideoPlayer
+                  generatedUri={example3Video.uri}
+                  headers={example3Video.headers}
+                  fallbackModule={EXAMPLE_3_VIDEO}
+                  fallbackWebUri={fallbackWebVideoUri}
+                  useFallback={example3Video.playback === 'fallback'}
+                  onPlaybackError={(detail) => {
+                    console.warn('[ExampleVideoPlayer] playback_error', detail);
                   }}
-                  style={{ width: '100%', height: '100%' }}
-                  resizeMode={ResizeMode.COVER}
-                  useNativeControls
-                  shouldPlay
-                  isLooping
                 />
               ) : (
                 <Text size="sm" style={{ color: '#f3f4f6', textAlign: 'center', paddingHorizontal: 16 }}>
@@ -231,6 +238,13 @@ export function ExampleFlowScreen({
                 </Text>
               )}
             </View>
+            {example3Video.playback === 'fallback' ? (
+              <Text size="sm" style={{ color: '#6b7280' }}>
+                {`생성 영상이 브라우저에서 재생되지 않아 대체 영상을 보여줍니다.${
+                  example3Video.reason ? ` (${example3Video.reason})` : ''
+                }`}
+              </Text>
+            ) : null}
             {example3Video.status === 'error' ? (
               <Button size="sm" action="secondary" onPress={() => void fetchExample3Video()}>
                 <ButtonText>영상 다시 생성</ButtonText>
