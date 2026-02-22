@@ -1,0 +1,30 @@
+{
+  "id": "fall-apart_24f6fe49",
+  "expression": "fall apart",
+  "selectionMeta": {
+    "selectedPhrase": "fall apart",
+    "selectedSenseLabelKo": "무너지다, 산산이 부서지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The old chair fell apart the moment he sat down on it."
+  },
+  "step2": {
+    "story": "The wedding plans seemed to fall apart the week before the event when the venue cancelled unexpectedly. The couple had to make new arrangements in four days.",
+    "topicTag": "family routine",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "After her mother got sick, Maya tried to manage school, the household, and hospital visits all at once. For a while she held everything together. But one afternoon in the school bathroom, she sat on the floor and felt everything fall apart inside her. She stayed there quietly for ten minutes, then washed her face, stood up, and kept going.",
+    "topicTag": "family routine",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "물건이 산산이 부서지다; 계획이나 관계가 완전히 무너지다.",
+    "realUsageKo": "물체가 조각나거나, 계획이나 감정적 상황이 통제 불가능하게 무너질 때 씁니다.",
+    "etymologyKo": "fall(떨어지다)과 apart(따로따로)가 결합하여 하나로 있던 것이 각각 떨어져 흩어진다는 의미가 되었습니다.",
+    "nuanceKo": "물리적 파손과 감정적·상황적 붕괴 모두에 씁니다. 상황이 통제 불능에 빠지는 느낌을 강조합니다.",
+    "shortExampleEn": "The whole plan fell apart when the key speaker cancelled at the last minute.",
+    "shortExampleKo": "핵심 발표자가 막판에 취소하자 전체 계획이 무너졌어요."
+  }
+}

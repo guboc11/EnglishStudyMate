@@ -1,0 +1,30 @@
+{
+  "id": "come-across_9adcd01f",
+  "expression": "come across",
+  "selectionMeta": {
+    "selectedPhrase": "come across",
+    "selectedSenseLabelKo": "우연히 발견하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "While cleaning the attic, she came across a box of old letters from her grandmother."
+  },
+  "step2": {
+    "story": "He was browsing through a second-hand bookstore when he came across a first edition of his favorite novel. He could not believe his luck and bought it without hesitating.",
+    "topicTag": "store",
+    "moodTag": "surprised then relieved"
+  },
+  "step3": {
+    "story": "The researcher was reviewing years of old survey data, not expecting to find anything new. On a Tuesday afternoon, she came across a pattern that no one had noticed before. She stared at the screen for a long moment, then checked her calculations three times. When it still held up, she called her colleague in and the two of them sat in silence before realizing what they had found.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "우연히 무언가를 발견하거나 누군가를 만나다.",
+    "realUsageKo": "의도하지 않고 탐색하다가 무언가를 발견할 때 씁니다. run into의 사물 버전으로 볼 수 있습니다.",
+    "etymologyKo": "come(오다)과 across(가로질러)가 결합하여 이동하다가 무언가를 가로질러 만난다는 의미가 되었습니다.",
+    "nuanceKo": "의도하지 않은 발견의 뉘앙스가 강합니다. 책, 정보, 물건을 우연히 발견할 때 자주 씁니다.",
+    "shortExampleEn": "I came across a great article about sleep habits while scrolling online.",
+    "shortExampleKo": "온라인을 보다가 수면 습관에 관한 좋은 기사를 우연히 발견했어요."
+  }
+}

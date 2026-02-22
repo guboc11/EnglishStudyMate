@@ -1,0 +1,30 @@
+{
+  "id": "give-a-presentation_1dbb9251",
+  "expression": "give a presentation",
+  "selectionMeta": {
+    "selectedPhrase": "give a presentation",
+    "selectedSenseLabelKo": "발표하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He was nervous about giving a presentation to the full board, but the practice sessions had prepared him well."
+  },
+  "step2": {
+    "story": "She gave presentations to hundreds of people every year. What she had learned was that the question-and-answer period was almost always more valuable than the presentation itself — both for the audience, who got specific answers, and for her, who learned what she had not explained clearly enough.",
+    "topicTag": "public speaking",
+    "moodTag": "experienced and calibrated"
+  },
+  "step3": {
+    "story": "The student had been avoiding giving presentations for three years, dropping courses where they were required and choosing projects that allowed written alternatives. When a required module left no alternative, she spent a month preparing for a ten-minute talk. She over-prepared, rehearsed to the point of memorization, and built a script she could fall back on if panic arrived. The talk was not brilliant, but it was clear and it was done. The second presentation, six weeks later, was easier. She stopped dropping courses.",
+    "topicTag": "overcoming fear",
+    "moodTag": "gradually braver"
+  },
+  "meaning": {
+    "literalMeaningKo": "발표를 하다.",
+    "realUsageKo": "청중에게 정보나 아이디어를 구조적으로 전달할 때 씁니다.",
+    "etymologyKo": "present는 앞에 내놓다는 의미로, give와 결합해 발표 행위 자체를 강조합니다.",
+    "nuanceKo": "make a presentation과 동일하게 쓰이며, do a presentation은 비격식 구어에서만 씁니다.",
+    "shortExampleEn": "She will give a presentation on the new strategy next week.",
+    "shortExampleKo": "그녀는 다음 주에 새로운 전략에 대해 발표할 거예요."
+  }
+}

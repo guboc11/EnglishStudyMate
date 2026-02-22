@@ -1,0 +1,30 @@
+{
+  "id": "share-ideas_d47e88f4",
+  "expression": "share ideas",
+  "selectionMeta": {
+    "selectedPhrase": "share ideas",
+    "selectedSenseLabelKo": "아이디어를 공유하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The workshop brought people from different departments together to share ideas freely."
+  },
+  "step2": {
+    "story": "The team had a rule during brainstorming: no evaluating ideas while sharing them. The person who proposed something the wildest was often the one who unlocked something practical two steps later.",
+    "topicTag": "creative brainstorming",
+    "moodTag": "generatively open"
+  },
+  "step3": {
+    "story": "The open-source community had grown to tens of thousands of contributors precisely because it had built systems that made sharing ideas low-friction and low-risk. Anyone could propose a change. Anyone could comment. The culture discouraged personal criticism and encouraged technical specificity. The result was that people who would never have spoken up in a corporate meeting shared ideas freely and visibly, and the best ones rose through the system on merit. The lesson for conventional organizations was not that hierarchy was wrong but that sharing ideas required psychological safety that hierarchy often inadvertently suppressed.",
+    "topicTag": "collaborative culture",
+    "moodTag": "structurally insightful"
+  },
+  "meaning": {
+    "literalMeaningKo": "아이디어를 나누다.",
+    "realUsageKo": "생각이나 제안을 다른 사람들에게 공개하거나 함께 나눌 때 씁니다.",
+    "etymologyKo": "share는 나누다는 의미로, 독점하지 않고 공개적으로 개방하는 행위를 나타냅니다.",
+    "nuanceKo": "exchange ideas(상호 교환)와 유사하지만 share는 일방향 또는 다방향 모두에 씁니다.",
+    "shortExampleEn": "Please feel free to share ideas during the session.",
+    "shortExampleKo": "세션 중에 아이디어를 자유롭게 공유해 주세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rare-opportunity_83ac1299",
+  "expression": "rare opportunity",
+  "selectionMeta": {
+    "selectedPhrase": "rare opportunity",
+    "selectedSenseLabelKo": "드문 기회",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Working directly under a world-class director was a rare opportunity she could not pass up."
+  },
+  "step2": {
+    "story": "He had been offered a rare opportunity and almost said no, because it came at an inconvenient time. Later he thought about all the opportunities that had come at convenient times and how few of them had changed anything.",
+    "topicTag": "missed chance",
+    "moodTag": "retrospectively honest"
+  },
+  "step3": {
+    "story": "The archive had been sealed for decades while the estate resolved a legal dispute. When it finally opened to researchers, the manuscripts inside represented a rare opportunity to revise a significant chapter of literary history. Three scholars were granted access in the first year. Each brought a different methodology and different questions. The archive did not answer everything they had hoped — archives rarely did — but what it offered was irreplaceable, and all three published work that would not have been possible before the access. Rare opportunities, one of them noted, rewarded preparation more than luck.",
+    "topicTag": "academic research",
+    "moodTag": "gratefully seized"
+  },
+  "meaning": {
+    "literalMeaningKo": "드문 기회.",
+    "realUsageKo": "쉽게 찾을 수 없는 특별한 기회를 강조할 때 씁니다.",
+    "etymologyKo": "rare는 흔하지 않다는 의미로, 기회의 희소성을 강조합니다.",
+    "nuanceKo": "once-in-a-lifetime opportunity(일생에 한 번 오는 기회)보다는 약한 강도이며, 자주는 아니지만 가끔 찾아오는 기회를 묘사합니다.",
+    "shortExampleEn": "This conference is a rare opportunity to meet leading experts in person.",
+    "shortExampleKo": "이 컨퍼런스는 최고 전문가들을 직접 만날 수 있는 드문 기회예요."
+  }
+}

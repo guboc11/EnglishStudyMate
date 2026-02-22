@@ -1,0 +1,30 @@
+{
+  "id": "give-away_c05f648f",
+  "expression": "give away",
+  "selectionMeta": {
+    "selectedPhrase": "give away",
+    "selectedSenseLabelKo": "공짜로 주다, 누설하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She gave away most of her old books to the neighborhood library."
+  },
+  "step2": {
+    "story": "The bakery was closing early and decided to give away the leftover pastries to anyone passing by. A small crowd gathered within minutes.",
+    "topicTag": "cafe",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Jake had been planning a surprise birthday party for his wife for three weeks. He coordinated with her friends, booked the venue, and hid the decorations in the garage. But two days before the party, their daughter accidentally gave it away by asking her mom what to wear to the party. Jake had to pretend he knew nothing, and somehow kept the remaining surprise intact.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 무료로 주다; 비밀이나 정보를 무심코 누설하다.",
+    "realUsageKo": "물건을 공짜로 나눠주거나, 비밀을 의도치 않게 말해버릴 때 씁니다.",
+    "etymologyKo": "give(주다)와 away(완전히, 공짜로)가 결합하여 아무것도 받지 않고 완전히 준다는 의미가 되었습니다.",
+    "nuanceKo": "공짜로 주다와 비밀을 흘리다 두 의미 모두에 씁니다. 비밀 누설의 경우 보통 실수로 하는 것입니다.",
+    "shortExampleEn": "Try not to give away the ending of the movie to anyone.",
+    "shortExampleKo": "영화 결말을 아무에게도 누설하지 않으려고 노력해요."
+  }
+}

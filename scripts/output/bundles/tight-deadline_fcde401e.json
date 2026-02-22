@@ -1,0 +1,30 @@
+{
+  "id": "tight-deadline_fcde401e",
+  "expression": "tight deadline",
+  "selectionMeta": {
+    "selectedPhrase": "tight deadline",
+    "selectedSenseLabelKo": "촉박한 마감",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team delivered a polished product despite working under an extremely tight deadline."
+  },
+  "step2": {
+    "story": "She had always worked best under a tight deadline — the pressure clarified what actually mattered and eliminated the time she would otherwise have spent on second-guessing. What she was less honest about was the recovery cost afterward.",
+    "topicTag": "work under pressure",
+    "moodTag": "effectively tense"
+  },
+  "step3": {
+    "story": "The journalism team had forty-eight hours to verify, write, and publish an investigation that had taken three months to develop. The tight deadline was not arbitrary — another outlet was close behind with a similar story. What the deadline compressed was not the thinking, which was complete, but the writing and editing, which had to be done at a pace that made everyone uncomfortable. The piece ran on time. Two minor factual errors slipped through that a slower process would have caught. The corrections were published the next day. Speed and accuracy existed in permanent tension, and the team talked about it afterward, honestly.",
+    "topicTag": "journalism",
+    "moodTag": "honestly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "촉박한 마감.",
+    "realUsageKo": "여유가 거의 없는 빠듯한 기한을 묘사할 때 씁니다.",
+    "etymologyKo": "tight는 여유가 없이 꽉 조여있는 상태를 나타내며, deadline과 결합해 압박감을 표현합니다.",
+    "nuanceKo": "strict deadline(엄격한 마감)과 유사하지만 tight는 시간적 여유 부족을 더 강조합니다.",
+    "shortExampleEn": "We are working under a very tight deadline this week.",
+    "shortExampleKo": "이번 주는 매우 촉박한 마감 속에서 작업하고 있어요."
+  }
+}

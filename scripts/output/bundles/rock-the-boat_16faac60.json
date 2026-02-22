@@ -1,0 +1,30 @@
+{
+  "id": "rock-the-boat_16faac60",
+  "expression": "rock the boat",
+  "selectionMeta": {
+    "selectedPhrase": "rock the boat",
+    "selectedSenseLabelKo": "현 상황을 뒤흔들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He decided not to rock the boat by raising the issue at the board meeting, even though he disagreed strongly."
+  },
+  "step2": {
+    "story": "The new policy was unpopular with almost everyone, but nobody wanted to rock the boat so close to the annual review cycle. They grumbled in the hallway and stayed quiet in the room.",
+    "topicTag": "organizational silence",
+    "moodTag": "quietly frustrated"
+  },
+  "step3": {
+    "story": "For two years, the team had operated under an unspoken agreement that certain inefficiencies would be tolerated to preserve harmony. The senior members had institutional knowledge; the junior members had fresh ideas that the seniors resisted. When a new team lead arrived from outside, she asked a simple question in her first week: why do we do it this way? The room tensed. She was rocking the boat. But the question was genuine, not confrontational, and the discomfort it caused was exactly the kind of productive friction the team had been avoiding. Three months later, the process had been redesigned and two veteran team members admitted privately that the change should have happened years earlier.",
+    "topicTag": "organizational change",
+    "moodTag": "uncomfortable but necessary"
+  },
+  "meaning": {
+    "literalMeaningKo": "배를 흔들다.",
+    "realUsageKo": "안정적인 현 상황이나 기존 질서를 뒤흔들거나 문제를 제기할 때 씁니다.",
+    "etymologyKo": "같은 배에 탄 사람들의 평온함을 혼자 흔들어 위험에 빠뜨리는 이미지에서 나왔습니다.",
+    "nuanceKo": "현상 유지를 원하는 분위기에서 변화를 시도하는 사람에게 주로 씁니다.",
+    "shortExampleEn": "She was afraid to rock the boat and stayed quiet.",
+    "shortExampleKo": "그녀는 현 상황을 뒤흔들까 두려워 조용히 있었어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "let-down_1dacb6a7",
+  "expression": "let down",
+  "selectionMeta": {
+    "selectedPhrase": "let down",
+    "selectedSenseLabelKo": "실망시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He promised to come to her recital but didn't show up, and he knew he had let her down badly."
+  },
+  "step2": {
+    "story": "The team had worked incredibly hard all month for the regional championship game. Losing in the final minute let everyone down, including the coach who sat silently on the bench.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Jenny told her little brother she would teach him to ride his bike on Saturday morning. But then her friends called and invited her to a movie, and she forgot all about her promise. When she came home that evening, she saw her brother sitting alone with his untouched bike in the yard. She felt terrible for letting him down and promised to spend all of Sunday making it up to him.",
+    "topicTag": "family routine",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "기대하거나 믿고 있던 사람을 실망시키다.",
+    "realUsageKo": "약속을 지키지 못하거나 기대에 미치지 못해서 상대방을 실망시킬 때 씁니다.",
+    "etymologyKo": "let(허락하다, 놔두다)과 down(아래로)이 결합하여 상대방의 감정을 아래로 떨어뜨린다는 의미가 되었습니다.",
+    "nuanceKo": "단순한 실망보다 신뢰를 저버렸다는 느낌이 강합니다. 가까운 관계에서 더 자주 쓰입니다.",
+    "shortExampleEn": "I never want to let my team down when they are counting on me.",
+    "shortExampleKo": "팀원들이 믿고 있을 때 그들을 실망시키고 싶지 않아요."
+  }
+}

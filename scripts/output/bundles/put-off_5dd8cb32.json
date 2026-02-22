@@ -1,0 +1,30 @@
+{
+  "id": "put-off_5dd8cb32",
+  "expression": "put off",
+  "selectionMeta": {
+    "selectedPhrase": "put off",
+    "selectedSenseLabelKo": "미루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He kept putting off his dentist appointment because he was afraid of the drill."
+  },
+  "step2": {
+    "story": "Lisa had a big essay due on Friday. She put it off all week by watching TV and reorganizing her bookshelf instead.",
+    "topicTag": "school friendship",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Tom knew he needed to call his old friend and apologize for missing her birthday. But every day, he found another reason to put off the call. He told himself he would do it tomorrow, then the next day, then the one after that. Finally, after two weeks of waiting, he picked up the phone and dialed the number.",
+    "topicTag": "family routine",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "해야 할 일을 더 나중으로 미루다.",
+    "realUsageKo": "해야 할 일을 나중으로 연기할 때 쓰는 표현으로, 한국어의 미루다, 연기하다에 해당합니다.",
+    "etymologyKo": "put(놓다)과 off(나중으로)가 결합하여 일을 나중에 놓아두다, 즉 뒤로 미룬다는 의미가 되었습니다.",
+    "nuanceKo": "의도적으로 일을 피하거나 게으름으로 인해 미루는 뉘앙스가 있습니다. postpone보다 더 구어체적입니다.",
+    "shortExampleEn": "Stop putting off your homework and just do it.",
+    "shortExampleKo": "숙제 그만 미루고 지금 해요."
+  }
+}

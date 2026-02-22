@@ -1,0 +1,30 @@
+{
+  "id": "keep-on_2035a659",
+  "expression": "keep on",
+  "selectionMeta": {
+    "selectedPhrase": "keep on",
+    "selectedSenseLabelKo": "계속하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even though she was tired, she kept on working until the report was finished."
+  },
+  "step2": {
+    "story": "The climbing trail became steeper and the children started to slow down. Their father said to just keep on a little longer because the view from the top was worth it. They did, and it was.",
+    "topicTag": "family routine",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Leo applied for thirty jobs over three months and heard nothing back from most of them. Friends told him to try a different field, but he believed in what he was doing and kept on applying. In the fourth month, he received two interview invitations in one week. He got one of the jobs and started the following Monday.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "멈추지 않고 계속하다.",
+    "realUsageKo": "어떤 행동을 중단하지 않고 지속할 때 씁니다. keep on + 동명사(-ing) 형태로 씁니다.",
+    "etymologyKo": "keep(유지하다)과 on(계속)이 결합하여 행동을 계속 유지한다는 의미가 되었습니다.",
+    "nuanceKo": "carry on이나 continue와 비슷하지만, 반복적이거나 지속적인 행동을 강조할 때 더 자주 씁니다.",
+    "shortExampleEn": "Keep on practicing and you will see improvement soon.",
+    "shortExampleKo": "계속 연습하면 곧 발전하는 걸 느낄 거예요."
+  }
+}

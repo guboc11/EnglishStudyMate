@@ -1,0 +1,30 @@
+{
+  "id": "build-trust_5c67fcf2",
+  "expression": "build trust",
+  "selectionMeta": {
+    "selectedPhrase": "build trust",
+    "selectedSenseLabelKo": "신뢰를 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It takes months to build trust and only moments to lose it."
+  },
+  "step2": {
+    "story": "The new platform had a privacy policy that was actually readable. The company had invested in plain-language legal writing specifically to build trust with users who had grown skeptical of fine print.",
+    "topicTag": "user trust",
+    "moodTag": "deliberately transparent"
+  },
+  "step3": {
+    "story": "The community organizer had been working in the neighborhood for a year before she held her first public meeting. She had spent that year attending other people's events, listening without agenda, and doing small things she had promised to do. By the time she invited people to participate in something she was organizing, the room was full. Building trust, she explained to a colleague who asked how she had done it, was not a communication strategy. It was a long series of small consistent actions that accumulated into credibility. There was no shortcut because trust was, essentially, the record of what you had done before.",
+    "topicTag": "community organizing",
+    "moodTag": "patient and grounded"
+  },
+  "meaning": {
+    "literalMeaningKo": "신뢰를 쌓다.",
+    "realUsageKo": "시간과 행동을 통해 다른 사람의 믿음을 얻을 때 씁니다.",
+    "etymologyKo": "build는 하나씩 쌓아올린다는 의미로, 신뢰가 점진적으로 형성됨을 표현합니다.",
+    "nuanceKo": "earn trust(신뢰를 얻어내다)와 유사하지만 build는 상호적인 구축 과정을 강조합니다.",
+    "shortExampleEn": "It took years to build trust with that community.",
+    "shortExampleKo": "그 지역사회의 신뢰를 쌓는 데 몇 년이 걸렸어요."
+  }
+}

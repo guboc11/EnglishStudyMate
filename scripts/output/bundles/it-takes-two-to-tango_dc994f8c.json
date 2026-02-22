@@ -1,0 +1,30 @@
+{
+  "id": "it-takes-two-to-tango_dc994f8c",
+  "expression": "it takes two to tango",
+  "selectionMeta": {
+    "selectedPhrase": "it takes two to tango",
+    "selectedSenseLabelKo": "혼자서는 안 된다, 양쪽 다 책임이 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You can't blame only one side for the breakdown — it takes two to tango."
+  },
+  "step2": {
+    "story": "The mediation session began with both parties explaining why the other was entirely responsible for the failed partnership. The mediator listened patiently, then said simply: it takes two to tango. The room went quiet. Real progress started after that.",
+    "topicTag": "shared responsibility",
+    "moodTag": "sobering"
+  },
+  "step3": {
+    "story": "The post-mortem on the failed product launch identified a list of contributing factors across multiple teams. The initial reaction in each department was to point at the others. The project director printed the full list on a single page and distributed it without commentary. Every team was on it. She said one sentence before the discussion began: it takes two to tango, and in this case it took ten. The meeting shifted from defense to analysis, and the document that came out of it became the foundation of a much stronger process for the next launch.",
+    "topicTag": "shared accountability",
+    "moodTag": "honest and productive"
+  },
+  "meaning": {
+    "literalMeaningKo": "탱고는 둘이 춰야 한다.",
+    "realUsageKo": "어떤 문제나 관계에서 한쪽만의 책임이 아니라 양측 모두에게 책임이 있음을 말할 때 씁니다.",
+    "etymologyKo": "탱고는 두 사람이 함께 맞춰야 추는 춤이라는 사실에서 유래했습니다.",
+    "nuanceKo": "비난의 일방성을 지적하며, 상호 책임을 인정하도록 촉구하는 표현입니다.",
+    "shortExampleEn": "It takes two to tango — both parties share the blame.",
+    "shortExampleKo": "탱고는 둘이 춰야 해요 — 양측 모두에게 책임이 있어요."
+  }
+}

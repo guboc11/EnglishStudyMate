@@ -1,0 +1,30 @@
+{
+  "id": "point-out_fa611919",
+  "expression": "point out",
+  "selectionMeta": {
+    "selectedPhrase": "point out",
+    "selectedSenseLabelKo": "지적하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The editor pointed out three grammatical errors in the first paragraph."
+  },
+  "step2": {
+    "story": "During the tour, the guide pointed out a small carving on the wall that most visitors walked right past. Once she pointed it out, everyone stopped and leaned in to look.",
+    "topicTag": "travel day",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "At the project review meeting, Jun hesitated before raising his hand. He had noticed a calculation error in the final report that had been submitted to the client. He quietly pointed it out to the team leader after the main discussion ended. The team was briefly embarrassed but grateful. A corrected version was sent within the hour.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람이 모르거나 놓친 것을 말하거나 보여주며 알려주다.",
+    "realUsageKo": "실수, 사실, 특이한 점 등을 상대방에게 주목시킬 때 씁니다.",
+    "etymologyKo": "point(가리키다)와 out(밖으로, 드러나게)이 결합하여 숨겨진 것을 손가락으로 가리켜 드러낸다는 의미가 되었습니다.",
+    "nuanceKo": "비판적 의미보다 중립적으로 사실을 알려주는 맥락에 자주 씁니다. 문맥에 따라 부드럽거나 날카롭게 들릴 수 있습니다.",
+    "shortExampleEn": "She politely pointed out that the address on the form was incorrect.",
+    "shortExampleKo": "그녀는 양식의 주소가 틀렸다고 정중하게 지적했어요."
+  }
+}

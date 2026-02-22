@@ -1,0 +1,30 @@
+{
+  "id": "follow-up_7f11fb76",
+  "expression": "follow up",
+  "selectionMeta": {
+    "selectedPhrase": "follow up",
+    "selectedSenseLabelKo": "후속 조치를 취하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She sent a brief email to follow up on the proposal she had submitted the week before."
+  },
+  "step2": {
+    "story": "After the initial meeting with the new client, the account manager followed up with a summary email and a list of agreed next steps. The client replied within the hour.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "The doctor had mentioned at the end of the appointment that she wanted to follow up in four weeks to check the test results. It was easy to forget, but her assistant had set a reminder. The call came exactly on time, the results were reviewed, and a small adjustment was made to the treatment plan. That follow-up turned out to be the most important part of the whole process.",
+    "topicTag": "doctor visit",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "이전 연락이나 행동에 이어 확인하거나 추가 조치를 취하다.",
+    "realUsageKo": "이전 회의, 이메일, 약속 등에 대한 확인이나 추가 소통을 할 때 씁니다. 비즈니스에서 매우 자주 씁니다.",
+    "etymologyKo": "follow(따라가다)와 up(완성, 확인 방향)이 결합하여 이전 행동을 뒤따라가며 마무리한다는 의미가 되었습니다.",
+    "nuanceKo": "결과를 확인하거나 관계를 유지하기 위한 능동적 소통을 나타냅니다. 비즈니스와 의료 맥락 모두에서 핵심 표현입니다.",
+    "shortExampleEn": "I will follow up with you early next week after I have reviewed the report.",
+    "shortExampleKo": "보고서를 검토한 후 다음 주 초에 다시 연락드릴게요."
+  }
+}

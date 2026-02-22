@@ -1,0 +1,30 @@
+{
+  "id": "see-eye-to-eye_e1c270a0",
+  "expression": "see eye to eye",
+  "selectionMeta": {
+    "selectedPhrase": "see eye to eye",
+    "selectedSenseLabelKo": "의견이 일치하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My sister and I rarely see eye to eye on politics, but we always agree on food."
+  },
+  "step2": {
+    "story": "The two co-founders had very different personalities, but they saw eye to eye on the core product vision, and that shared conviction was enough to keep the company moving forward through everything else.",
+    "topicTag": "partnership",
+    "moodTag": "grounded"
+  },
+  "step3": {
+    "story": "The architecture committee had been debating the same building design for three months. Two members wanted clean modern lines; two others wanted the new structure to blend with the historic surrounding buildings. They did not see eye to eye, and the meetings were becoming circular. Eventually an independent urban designer was brought in to facilitate. She walked both sides through the site together on a Tuesday morning, physically pointing at sight lines and street-level perspectives. Standing at the same corner, looking at the same view, they finally saw eye to eye — the answer was a design that honored both intentions and belonged to neither camp exclusively.",
+    "topicTag": "creative disagreement",
+    "moodTag": "resolution through shared perspective"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈을 맞대고 보다.",
+    "realUsageKo": "누군가와 의견이나 관점이 일치할 때 씁니다.",
+    "etymologyKo": "이사야서에서 유래한 성경 표현으로, 두 사람이 같은 것을 바라보는 이미지입니다.",
+    "nuanceKo": "주로 부정형으로 씁니다: do not see eye to eye.",
+    "shortExampleEn": "We do not always see eye to eye, but we respect each other.",
+    "shortExampleKo": "우리는 항상 의견이 맞는 건 아니지만 서로를 존중해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "constant-pressure_0ef80302",
+  "expression": "constant pressure",
+  "selectionMeta": {
+    "selectedPhrase": "constant pressure",
+    "selectedSenseLabelKo": "지속적인 압박",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Athletes at the elite level perform under constant pressure that most people rarely experience."
+  },
+  "step2": {
+    "story": "The constant pressure to produce, respond, and be available had become the water she swam in — invisible until the week she took off and realized what it had felt like to not feel it. The contrast was clarifying.",
+    "topicTag": "burnout awareness",
+    "moodTag": "quietly revelatory"
+  },
+  "step3": {
+    "story": "The study examined how different industries managed constant pressure on their workforces. What distinguished the high-performing, low-burnout organizations was not the absence of pressure — the pressure was inherent to the work — but the distribution of control. Teams who had autonomy over how and when they addressed demands reported significantly lower burnout than those who experienced the same volume of demands but had no agency over their response. Constant pressure was less damaging when it came with the ability to shape one's own response to it.",
+    "topicTag": "workplace psychology",
+    "moodTag": "structurally insightful"
+  },
+  "meaning": {
+    "literalMeaningKo": "지속적인 압박.",
+    "realUsageKo": "쉼 없이 계속되는 스트레스나 기대를 묘사할 때 씁니다.",
+    "etymologyKo": "constant는 끊임없이 지속된다는 의미로, 간헐적인 압박과 구별됩니다.",
+    "nuanceKo": "under constant pressure(지속적인 압박 아래)처럼 전치사와 함께 자주 씁니다.",
+    "shortExampleEn": "The team worked under constant pressure for the entire quarter.",
+    "shortExampleKo": "팀은 한 분기 내내 지속적인 압박 속에서 일했어요."
+  }
+}

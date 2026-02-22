@@ -1,0 +1,30 @@
+{
+  "id": "look-forward-to_3260f9ed",
+  "expression": "look forward to",
+  "selectionMeta": {
+    "selectedPhrase": "look forward to",
+    "selectedSenseLabelKo": "기대하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had been looking forward to the summer concert for months and finally the day had arrived."
+  },
+  "step2": {
+    "story": "The children could barely sleep the night before the school field trip. They had been looking forward to visiting the natural history museum since the announcement was made three weeks earlier.",
+    "topicTag": "school friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "After a long and difficult winter, the neighborhood garden club began planning its spring events. Members sent messages to each other about which seeds they were planting and what they were looking forward to growing. The group chat filled up overnight with pictures of seed packets and colorful gardening gloves. Everyone agreed that after such a cold few months, spring had never felt more welcome.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞으로 일어날 일을 기쁘게 기대하다.",
+    "realUsageKo": "긍정적인 감정을 가지고 미래의 일을 기다릴 때 씁니다. 뒤에는 항상 명사나 동명사(-ing)가 옵니다.",
+    "etymologyKo": "look(보다)과 forward(앞으로)와 to(~에게)가 결합하여 앞에 있는 것을 기쁜 마음으로 바라본다는 의미입니다.",
+    "nuanceKo": "긍정적이고 설레는 기대를 나타냅니다. expect와 달리 감정적인 기쁨이 포함된 표현입니다.",
+    "shortExampleEn": "I am really looking forward to seeing you at the reunion.",
+    "shortExampleKo": "동창회에서 만나는 게 정말 기대돼요."
+  }
+}

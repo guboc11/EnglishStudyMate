@@ -1,0 +1,30 @@
+{
+  "id": "draw-attention_3220e08a",
+  "expression": "draw attention",
+  "selectionMeta": {
+    "selectedPhrase": "draw attention",
+    "selectedSenseLabelKo": "주의를 끌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The installation drew attention from visitors who had never visited the gallery before."
+  },
+  "step2": {
+    "story": "She had not intended to draw attention when she stood up at the town meeting to speak. She had intended only to ask a question. But the question was the right one at the right moment, and afterward people approached her in the parking lot wanting to continue the conversation.",
+    "topicTag": "civic participation",
+    "moodTag": "unexpectedly impactful"
+  },
+  "step3": {
+    "story": "The small research team had published findings that drew attention from several journalists. The lead researcher had expected the paper to reach specialists in her field. Instead, a science writer had translated the key finding into plain language, the article had been shared widely, and within a week the team was fielding requests for interviews from outlets they had never heard of. Drawing attention, she reflected, sometimes had less to do with the quality of the work than with one person who understood it and knew how to explain it to others.",
+    "topicTag": "science communication",
+    "moodTag": "surprised and humbled"
+  },
+  "meaning": {
+    "literalMeaningKo": "주의를 끌어당기다.",
+    "realUsageKo": "사람, 사물, 또는 이슈가 주목을 받을 때 씁니다.",
+    "etymologyKo": "draw는 여기서 끌어당기다는 의미로, attention과 결합해 자연스러운 주의 집중을 표현합니다.",
+    "nuanceKo": "의도적으로 끌 수도 있고 저절로 이끌릴 수도 있습니다. attract attention과 유사합니다.",
+    "shortExampleEn": "The protest drew attention to housing inequality.",
+    "shortExampleKo": "시위가 주거 불평등에 주의를 끌었어요."
+  }
+}

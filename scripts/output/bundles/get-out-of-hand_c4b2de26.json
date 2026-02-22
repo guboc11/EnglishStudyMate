@@ -1,0 +1,30 @@
+{
+  "id": "get-out-of-hand_c4b2de26",
+  "expression": "get out of hand",
+  "selectionMeta": {
+    "selectedPhrase": "get out of hand",
+    "selectedSenseLabelKo": "통제 불능이 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The comment section quickly got out of hand and the moderators had to shut it down."
+  },
+  "step2": {
+    "story": "What started as a friendly debate about the office coffee machine got out of hand when old workplace grievances surfaced. The manager ended the meeting early and sent a follow-up email asking everyone to cool down.",
+    "topicTag": "workplace conflict",
+    "moodTag": "unexpectedly intense"
+  },
+  "step3": {
+    "story": "The annual neighborhood block party had always been a low-key afternoon of lawn chairs and homemade potato salad. This year, someone decided to rent a sound system. Then someone else added a bouncy castle. Then two competing grill stations appeared. By four in the afternoon there were nearly two hundred people, the music was audible from four streets over, and a minor dispute had broken out over parking. The original organizer stood on the curb looking at everything she had not planned for, shaking her head. It had completely gotten out of hand — and yet everyone was having a tremendous time.",
+    "topicTag": "event chaos",
+    "moodTag": "overwhelmed but amused"
+  },
+  "meaning": {
+    "literalMeaningKo": "손에서 벗어나다.",
+    "realUsageKo": "상황이나 문제가 통제 범위를 벗어날 때 씁니다.",
+    "etymologyKo": "말을 고삐(hand)로 통제하는 이미지에서 유래했습니다.",
+    "nuanceKo": "급격히 나빠지거나 예상보다 커진 상황 모두에 씁니다.",
+    "shortExampleEn": "The rumors got out of hand very quickly.",
+    "shortExampleKo": "소문이 걷잡을 수 없이 빠르게 퍼졌어요."
+  }
+}

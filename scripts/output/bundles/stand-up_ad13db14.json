@@ -1,0 +1,30 @@
+{
+  "id": "stand-up_ad13db14",
+  "expression": "stand up",
+  "selectionMeta": {
+    "selectedPhrase": "stand up",
+    "selectedSenseLabelKo": "일어서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Everyone in the courtroom stood up respectfully when the judge entered through the side door."
+  },
+  "step2": {
+    "story": "The little boy fell off his bicycle on the gravel path and started to cry softly. His father crouched beside him, helped him stand up, and gently brushed the dirt off his knees.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "During the awards ceremony, Rosa's name was called for the volunteer of the year honor. She froze for a long second, not quite believing what she heard. Then she stood up slowly, her hands shaking, as the audience began to applaud warmly. She walked to the stage with happy tears in her eyes.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "앉거나 누운 자세에서 몸을 세워 서다.",
+    "realUsageKo": "앉은 자리에서 일어서는 동작을 나타냅니다. 존경이나 특별한 상황에서 자리에서 일어나는 경우에도 씁니다.",
+    "etymologyKo": "stand(서다)와 up(위로, 완전히)이 결합하여 완전히 서는 동작을 강조합니다.",
+    "nuanceKo": "물리적으로 일어서는 것뿐 아니라 용기 내어 나서거나 자신을 드러내는 상징적 의미로도 씁니다.",
+    "shortExampleEn": "The whole audience stood up and gave a long round of applause.",
+    "shortExampleKo": "관객 전체가 일어서서 오랫동안 박수를 쳤어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lasting-impact_e1c98a57",
+  "expression": "lasting impact",
+  "selectionMeta": {
+    "selectedPhrase": "lasting impact",
+    "selectedSenseLabelKo": "지속적인 영향",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The program was designed to have a lasting impact on the communities it served."
+  },
+  "step2": {
+    "story": "She had given the keynote to an audience of two thousand people. Over the following year, she received forty-three emails from people who had been in the room. Each one described a specific change they had made because of something she had said. Forty-three out of two thousand was a small percentage and a lasting impact.",
+    "topicTag": "public speaking",
+    "moodTag": "meaningfully humbled"
+  },
+  "step3": {
+    "story": "The urban greening initiative had planted twelve thousand trees across the city over five years. An evaluation ten years later measured what the team had expected — reduced heat island temperatures, improved air quality, higher property values in affected neighborhoods. What they had not expected to find, and what moved them most, was survey data showing that neighborhoods with the most trees also reported the highest community cohesion scores. The trees had created meeting points, shaded benches, and shared maintenance responsibilities that had built social fabric alongside the canopy. The lasting impact had exceeded the original design.",
+    "topicTag": "environmental policy",
+    "moodTag": "beyond expectations"
+  },
+  "meaning": {
+    "literalMeaningKo": "지속적인 영향.",
+    "realUsageKo": "시간이 지나도 계속 남아있는 결과나 효과를 묘사할 때 씁니다.",
+    "etymologyKo": "lasting은 오래 지속되는 상태를 나타내며, short-term impact(단기적 영향)와 대조됩니다.",
+    "nuanceKo": "enduring impact와 유사하며, 긍정적·부정적 맥락 모두에 씁니다.",
+    "shortExampleEn": "The mentor had a lasting impact on how she approached leadership.",
+    "shortExampleKo": "그 멘토는 그녀가 리더십에 접근하는 방식에 지속적인 영향을 미쳤어요."
+  }
+}

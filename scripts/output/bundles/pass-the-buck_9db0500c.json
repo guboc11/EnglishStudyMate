@@ -1,0 +1,30 @@
+{
+  "id": "pass-the-buck_9db0500c",
+  "expression": "pass the buck",
+  "selectionMeta": {
+    "selectedPhrase": "pass the buck",
+    "selectedSenseLabelKo": "책임을 떠넘기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the client complained, no one in the department wanted to own the issue — everyone just passed the buck."
+  },
+  "step2": {
+    "story": "The customer had been redirected four times before reaching someone willing to help. Each department passed the buck, citing policy or jurisdiction, until the complaint landed with a supervisor who simply solved it in ten minutes.",
+    "topicTag": "customer service failure",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "The data breach had been traced back to a misconfigured server, but whose responsibility that server fell under had become a heated internal debate. IT pointed to the vendor. The vendor pointed to implementation. The implementation team cited incomplete specifications from the project lead. The project lead referenced approvals that had supposedly come from above. A month in, no one had been held accountable, and three similar misconfigurations had been identified in other systems. The CEO eventually ended the cycle of buck-passing by naming a single accountable owner for infrastructure security. The clarity was uncomfortable for one person but immediately improved everything.",
+    "topicTag": "accountability gap",
+    "moodTag": "dysfunction then resolution"
+  },
+  "meaning": {
+    "literalMeaningKo": "책임(buck)을 넘기다.",
+    "realUsageKo": "자신의 책임이나 의무를 다른 사람에게 떠넘길 때 씁니다.",
+    "etymologyKo": "포커에서 딜러 표시물(buck knife)을 넘기는 행위에서 유래했으며, 미국 대통령 트루먼의 책상에 있던 'The Buck Stops Here' 팻말로 유명해졌습니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강하며, 책임 회피를 비판할 때 씁니다.",
+    "shortExampleEn": "Stop passing the buck — someone has to own this mistake.",
+    "shortExampleKo": "책임 떠넘기기 그만해요 — 누군가는 이 실수를 짊어져야 해요."
+  }
+}

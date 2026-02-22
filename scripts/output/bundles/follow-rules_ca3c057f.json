@@ -1,0 +1,30 @@
+{
+  "id": "follow-rules_ca3c057f",
+  "expression": "follow rules",
+  "selectionMeta": {
+    "selectedPhrase": "follow rules",
+    "selectedSenseLabelKo": "규칙을 따르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "New employees are expected to follow the rules during their probationary period."
+  },
+  "step2": {
+    "story": "The designer had always followed the rules of good typography — until a project required her to break several of them deliberately. The result was striking precisely because she understood the rules well enough to know which ones, broken in exactly this way, would produce the right effect.",
+    "topicTag": "creative craft",
+    "moodTag": "skillfully bold"
+  },
+  "step3": {
+    "story": "The children had been given a board game with twenty-three rules. Within ten minutes, they had modified seven of them. By the end of the afternoon, the game they were playing was unrecognizable from the original. The teachers watching did not intervene. They were observing something important: children who followed rules first — who understood the original structure — built more coherent modifications than those who ignored the rulebook entirely from the start. Following rules was not the opposite of creativity. It was often its prerequisite.",
+    "topicTag": "learning through play",
+    "moodTag": "observant and wise"
+  },
+  "meaning": {
+    "literalMeaningKo": "규칙을 따르다.",
+    "realUsageKo": "정해진 규칙이나 지침에 맞게 행동할 때 씁니다.",
+    "etymologyKo": "follow는 뒤를 따라간다는 의미로, 규칙이 앞서 제시한 방향을 따름을 나타냅니다.",
+    "nuanceKo": "obey rules보다 덜 복종적인 뉘앙스이며, 자발적 준수를 강조합니다.",
+    "shortExampleEn": "Everyone is expected to follow the rules of the competition.",
+    "shortExampleKo": "모든 참가자는 대회 규칙을 따라야 해요."
+  }
+}

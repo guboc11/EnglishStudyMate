@@ -1,0 +1,30 @@
+{
+  "id": "weak-point_bb0ce9cc",
+  "expression": "weak point",
+  "selectionMeta": {
+    "selectedPhrase": "weak point",
+    "selectedSenseLabelKo": "약점",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The weak point in the proposal was the financial projection, which relied on too many assumptions."
+  },
+  "step2": {
+    "story": "She had asked the panel to identify her weak point, and they had. She was grateful they had done so honestly. She had been hoping they would, because she already knew what it was, and knowing that they had seen it meant she could work on it openly rather than defensively.",
+    "topicTag": "feedback",
+    "moodTag": "honestly receptive"
+  },
+  "step3": {
+    "story": "The security audit had been comprehensive. Every system, every process, every permission layer had been reviewed. The one weak point the team had flagged as low probability but high impact was the third-party vendor integration. It had legacy authentication that the company had been planning to update for two years. The update had always been scheduled for next quarter. The breach, when it came, came through exactly that point. The post-mortem did not identify a failure of awareness — the weak point had been known. It identified a failure of prioritization.",
+    "topicTag": "security",
+    "moodTag": "avoidably painful"
+  },
+  "meaning": {
+    "literalMeaningKo": "약한 지점.",
+    "realUsageKo": "어떤 것의 가장 취약하거나 부족한 부분을 가리킵니다.",
+    "etymologyKo": "weak는 강하지 않은 상태를 의미하며, 사슬의 가장 약한 고리(weakest link) 이미지와 연결됩니다.",
+    "nuanceKo": "identify/address/exploit a weak point처럼 씁니다. weakness보다 더 구체적인 지점을 가리킵니다.",
+    "shortExampleEn": "Public speaking is his weak point, but he is working on it.",
+    "shortExampleKo": "공개 발표가 그의 약점이지만 개선 중이에요."
+  }
+}

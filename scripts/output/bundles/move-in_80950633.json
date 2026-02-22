@@ -1,0 +1,30 @@
+{
+  "id": "move-in_80950633",
+  "expression": "move in",
+  "selectionMeta": {
+    "selectedPhrase": "move in",
+    "selectedSenseLabelKo": "이사 들어오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A young family moved in next door last weekend and brought two large dogs with them."
+  },
+  "step2": {
+    "story": "After months of apartment hunting, Clara finally found a place she loved. She signed the lease on Friday and moved in with all her boxes the very next morning.",
+    "topicTag": "home",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "The old building had been empty for nearly two years. Then one spring, it was renovated into modern apartments. Within a month, young professionals and small families began moving in one after another. The hallways that had once been silent started to fill with the sound of footsteps, cooking smells, and the occasional guitar playing late in the evening.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "새로운 집이나 장소로 짐을 옮겨 들어가다.",
+    "realUsageKo": "새로 살 곳에 짐을 가져와 정착하기 시작할 때 씁니다. move out의 반대말입니다.",
+    "etymologyKo": "move(이동하다)와 in(안으로)이 결합하여 새로운 공간 안으로 짐을 가지고 들어간다는 의미가 되었습니다.",
+    "nuanceKo": "이사 들어오는 행위와 그 과정을 모두 가리킵니다. 집뿐 아니라 사무실에도 씁니다.",
+    "shortExampleEn": "When are you planning to move in to the new apartment?",
+    "shortExampleKo": "새 아파트에 언제 이사 들어갈 계획이에요?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cut-down_55024c22",
+  "expression": "cut down",
+  "selectionMeta": {
+    "selectedPhrase": "cut down",
+    "selectedSenseLabelKo": "줄이다, 베어 넘기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His doctor told him to cut down on salt and eat more vegetables."
+  },
+  "step2": {
+    "story": "The old oak tree in the backyard had grown too close to the house and was starting to damage the roof. With some regret, the family decided to have it cut down.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Ben had been drinking three or four energy drinks a day for months. After one sleepless week, he decided something had to change. He started by cutting down to one a day, then switched to green tea in the afternoons. The first two weeks were rough and he felt sluggish. But by the third week, he was sleeping better than he had in years.",
+    "topicTag": "home",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "양이나 횟수를 줄이다; 나무 등을 베어 넘어뜨리다.",
+    "realUsageKo": "음식, 습관, 활동의 양을 줄일 때, 또는 나무를 베어 쓰러뜨릴 때 씁니다.",
+    "etymologyKo": "cut(자르다)과 down(아래로)이 결합하여 아래로 잘라낸다는 의미가 되었습니다. 나무를 베는 것과 양을 줄이는 것 모두를 포함합니다.",
+    "nuanceKo": "cut back과 비슷하지만, cut down은 줄이는 정도가 더 크거나 아예 끊는 방향으로 나아가는 뉘앙스가 있습니다.",
+    "shortExampleEn": "I am trying to cut down on screen time before bed.",
+    "shortExampleKo": "잠자리에 들기 전 스크린 타임을 줄이려고 노력 중이에요."
+  }
+}

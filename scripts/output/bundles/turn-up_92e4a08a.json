@@ -1,0 +1,30 @@
+{
+  "id": "turn-up_92e4a08a",
+  "expression": "turn up",
+  "selectionMeta": {
+    "selectedPhrase": "turn up",
+    "selectedSenseLabelKo": "나타나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Nobody expected him to turn up at the class reunion after ten years of complete silence."
+  },
+  "step2": {
+    "story": "They had been searching everywhere around the house for the missing cat. Then, just as they were about to give up, he turned up meowing softly at the back door.",
+    "topicTag": "home",
+    "moodTag": "surprised then relieved"
+  },
+  "step3": {
+    "story": "Emma had planned the dinner party for three weeks and sent invitations to ten friends. As the time arrived, only a few guests had come and she began to worry quietly. Then, one by one, more people turned up at the door, smiling and apologizing for being late. By eight o'clock, the house was full of laughter and the warm smell of food.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "예상치 못하게 나타나다, 등장하다.",
+    "realUsageKo": "찾던 사람이나 물건이 갑자기 나타나거나, 사람이 예고 없이 어딘가에 등장할 때 씁니다.",
+    "etymologyKo": "turn(방향을 바꾸다)과 up(위로, 나타남)이 결합하여 어딘가에서 모습을 드러낸다는 의미가 되었습니다.",
+    "nuanceKo": "예상하지 못했거나 기다리던 대상이 갑자기 등장할 때 쓰는 표현으로, 긍정적 또는 중립적 뉘앙스입니다.",
+    "shortExampleEn": "My lost keys finally turned up in the pocket of my old coat.",
+    "shortExampleKo": "잃어버렸던 열쇠가 결국 오래된 코트 주머니에서 나왔어요."
+  }
+}

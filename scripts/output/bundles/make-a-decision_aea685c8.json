@@ -1,0 +1,30 @@
+{
+  "id": "make-a-decision_aea685c8",
+  "expression": "make a decision",
+  "selectionMeta": {
+    "selectedPhrase": "make a decision",
+    "selectedSenseLabelKo": "결정을 내리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stared at the two job offers for an hour before finally making a decision."
+  },
+  "step2": {
+    "story": "Making a decision had always been the hardest part for him — not the work that followed, but the moment of choosing. He had learned to give himself a deadline, because without one the options would circle indefinitely.",
+    "topicTag": "decision making",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "The board had been presented with three restructuring scenarios, each backed by detailed financial modeling. For six weeks they had requested more data, more projections, more comparisons. The consultant finally said, with some firmness, that they had all the information they were going to get and that more analysis would not eliminate the uncertainty ahead — only a decision would. They made one that afternoon. The clarity that followed was immediate, even before the outcome was known.",
+    "topicTag": "leadership",
+    "moodTag": "decisive"
+  },
+  "meaning": {
+    "literalMeaningKo": "결정을 만들다.",
+    "realUsageKo": "어떤 선택이나 판단을 공식적으로 내릴 때 씁니다.",
+    "etymologyKo": "decide는 라틴어 decidere(잘라내다)에서 왔으며, make와 결합해 결정 행위 자체를 강조합니다.",
+    "nuanceKo": "do a decision은 틀리고 반드시 make를 씁니다. 크고 작은 모든 결정에 쓸 수 있습니다.",
+    "shortExampleEn": "It is time to make a decision and move on.",
+    "shortExampleKo": "이제 결정을 내리고 나아갈 때예요."
+  }
+}

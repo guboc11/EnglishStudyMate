@@ -1,0 +1,30 @@
+{
+  "id": "strong-foundation_41e06a0e",
+  "expression": "strong foundation",
+  "selectionMeta": {
+    "selectedPhrase": "strong foundation",
+    "selectedSenseLabelKo": "탄탄한 기반",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Learning grammar well gives students a strong foundation for mastering any language."
+  },
+  "step2": {
+    "story": "The company had built a strong foundation during five unglamorous years of slow growth. When the market shifted in their favor, they were the only player with the operational infrastructure to scale quickly. Everyone else had to build what they had already built.",
+    "topicTag": "business strategy",
+    "moodTag": "patient and vindicated"
+  },
+  "step3": {
+    "story": "The children's literacy program had been working in the same communities for twelve years. Evaluators who visited in year twelve found outcomes that could not have been predicted in year three, when the programs still looked modest. What the long view revealed was that the program had built a strong foundation of reading habits, parental engagement, and community literacy culture that compounded over time. The returns had not been visible in annual assessments. They had been accumulating in ways the annual metrics were not designed to capture.",
+    "topicTag": "long-term investment",
+    "moodTag": "patiently proven"
+  },
+  "meaning": {
+    "literalMeaningKo": "탄탄한 기반.",
+    "realUsageKo": "어떤 것을 안정적으로 지탱하는 튼튼한 토대를 묘사할 때 씁니다.",
+    "etymologyKo": "건물의 기초(foundation)가 건물을 지탱하듯, 다른 것들을 안정되게 지지하는 기반을 표현합니다.",
+    "nuanceKo": "lay/build a strong foundation(강한 기반을 다지다)처럼 씁니다.",
+    "shortExampleEn": "Early childhood education provides a strong foundation for future learning.",
+    "shortExampleKo": "유아 교육은 미래 학습을 위한 탄탄한 기반을 제공해요."
+  }
+}

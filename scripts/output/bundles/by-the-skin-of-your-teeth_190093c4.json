@@ -1,0 +1,30 @@
+{
+  "id": "by-the-skin-of-your-teeth_190093c4",
+  "expression": "by the skin of your teeth",
+  "selectionMeta": {
+    "selectedPhrase": "by the skin of your teeth",
+    "selectedSenseLabelKo": "겨우겨우, 아슬아슬하게",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We made it to the airport by the skin of our teeth — the gate closed one minute after we boarded."
+  },
+  "step2": {
+    "story": "He passed the licensing exam by the skin of his teeth — two points above the minimum. He did not tell anyone the margin, just that he had passed, and quietly enrolled in a refresher course the following week.",
+    "topicTag": "narrow success",
+    "moodTag": "relieved and chastened"
+  },
+  "step3": {
+    "story": "The independent bookstore had been struggling for three years. Every quarter the owner would sit down with her accountant and run the numbers, and every quarter she would emerge from that meeting looking slightly pale but still standing. She made it through each holiday season by the skin of her teeth — just enough sales to cover January, just enough January sales to make it to spring. The fourth year, something shifted. A prominent author mentioned the store in a podcast interview, foot traffic doubled over two months, and for the first time the numbers came out green with room to spare. She treated her staff to dinner the night the accountant sent that report.",
+    "topicTag": "small business survival",
+    "moodTag": "hard-won relief"
+  },
+  "meaning": {
+    "literalMeaningKo": "이빨 껍질만큼의 차이로.",
+    "realUsageKo": "매우 아슬아슬하게 성공하거나 위기를 겨우 모면했을 때 씁니다.",
+    "etymologyKo": "성경의 욥기에서 유래한 표현으로, 이빨에는 실제로 껍질이 없어 매우 미세한 차이를 의미합니다.",
+    "nuanceKo": "간신히 벗어난 느낌의 강한 안도감과 긴장감을 동시에 전달합니다.",
+    "shortExampleEn": "They escaped by the skin of their teeth.",
+    "shortExampleKo": "그들은 정말 간신히 탈출했어요."
+  }
+}

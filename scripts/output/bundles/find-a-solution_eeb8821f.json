@@ -1,0 +1,30 @@
+{
+  "id": "find-a-solution_eeb8821f",
+  "expression": "find a solution",
+  "selectionMeta": {
+    "selectedPhrase": "find a solution",
+    "selectedSenseLabelKo": "해결책을 찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The engineers worked through the night to find a solution before the system went live."
+  },
+  "step2": {
+    "story": "They had been trying to find a solution for weeks when a new member of the team, who had been listening quietly, said she thought the problem itself had been framed incorrectly. Reframing it took twenty minutes. Finding the solution took two.",
+    "topicTag": "problem solving",
+    "moodTag": "reframingly effective"
+  },
+  "step3": {
+    "story": "The mediation had stalled because both parties were focused on their stated positions rather than their actual interests. The mediator shifted the conversation: instead of asking what each side wanted, she asked what each side needed. The answers were different from the stated demands, and more importantly, they were not incompatible. The solution they found within the next hour had been invisible as long as both parties had been negotiating positions. It became visible the moment they began negotiating interests.",
+    "topicTag": "conflict mediation",
+    "moodTag": "elegantly resolved"
+  },
+  "meaning": {
+    "literalMeaningKo": "해결책을 찾다.",
+    "realUsageKo": "문제를 해결할 방법을 찾을 때 씁니다.",
+    "etymologyKo": "solution은 라틴어 solutio(풀기, 해방)에서 왔습니다. find는 탐색의 과정을 강조합니다.",
+    "nuanceKo": "solve a problem(문제를 풀다)과 유사하지만 find a solution은 해결책 자체를 찾는 과정에 초점을 맞춥니다.",
+    "shortExampleEn": "We are committed to finding a solution that works for everyone.",
+    "shortExampleKo": "모두에게 맞는 해결책을 찾는 데 전념하고 있어요."
+  }
+}

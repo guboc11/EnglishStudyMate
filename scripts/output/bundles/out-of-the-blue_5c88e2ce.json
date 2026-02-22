@@ -1,0 +1,30 @@
+{
+  "id": "out-of-the-blue_5c88e2ce",
+  "expression": "out of the blue",
+  "selectionMeta": {
+    "selectedPhrase": "out of the blue",
+    "selectedSenseLabelKo": "갑자기, 예상치 못하게",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She called me out of the blue after five years of no contact, and I nearly dropped my phone."
+  },
+  "step2": {
+    "story": "The offer came completely out of the blue — no prior discussion, no signals, just an email on a Tuesday afternoon with a job title and a salary that made him sit back in his chair.",
+    "topicTag": "unexpected opportunity",
+    "moodTag": "surprised"
+  },
+  "step3": {
+    "story": "The neighborhood had been quiet for years, the old corner store standing empty with a For Lease sign gathering dust. Then out of the blue, a young baker taped a hand-drawn sign in the window announcing the opening of a pastry shop in three weeks. By opening day there was a line down the block. Nobody had expected it. The baker said later that the decision had also come to her out of the blue, one early morning when she drove past the empty storefront and thought: why not me. She had signed the lease before she could talk herself out of it.",
+    "topicTag": "spontaneous new beginning",
+    "moodTag": "delightfully surprising"
+  },
+  "meaning": {
+    "literalMeaningKo": "맑은 하늘에서 갑자기 떨어지듯.",
+    "realUsageKo": "전혀 예고 없이 갑자기 어떤 일이 발생할 때 씁니다.",
+    "etymologyKo": "맑은 하늘에서 갑자기 번개가 치는 상황을 비유한 표현입니다.",
+    "nuanceKo": "놀라움과 예상치 못함을 강조하며, 좋은 일과 나쁜 일 모두에 씁니다.",
+    "shortExampleEn": "He resigned out of the blue, shocking the entire team.",
+    "shortExampleKo": "그는 갑자기 사임해서 팀 전체를 놀라게 했어요."
+  }
+}

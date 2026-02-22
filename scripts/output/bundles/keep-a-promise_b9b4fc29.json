@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-promise_b9b4fc29",
+  "expression": "keep a promise",
+  "selectionMeta": {
+    "selectedPhrase": "keep a promise",
+    "selectedSenseLabelKo": "약속을 지키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He always kept his promises, which was why people trusted him with difficult tasks."
+  },
+  "step2": {
+    "story": "She had made a promise to her younger self at sixteen: that she would finish a degree regardless of how long it took. At thirty-four, walking across the stage, she thought about that promise and the twenty years it had taken to keep it.",
+    "topicTag": "personal commitment",
+    "moodTag": "quietly fulfilled"
+  },
+  "step3": {
+    "story": "The politician had made many promises during the campaign. Most politicians did. What distinguished her, over time, was a simple habit: she kept a public record of every commitment she had made and updated it quarterly. Citizens could see which promises had been kept, which were in progress, and which had not been started. The transparency invited accountability in a way that press releases never had. She won re-election three times. Opponents noted she had broken three promises in office. She noted publicly that she had kept forty-seven.",
+    "topicTag": "public accountability",
+    "moodTag": "principled"
+  },
+  "meaning": {
+    "literalMeaningKo": "약속을 유지하다.",
+    "realUsageKo": "한 약속을 실제로 지키거나 이행할 때 씁니다.",
+    "etymologyKo": "keep은 유지하다는 의미로, 약속을 지속적으로 붙들고 있음을 표현합니다.",
+    "nuanceKo": "반대표현은 break a promise(약속을 어기다)입니다.",
+    "shortExampleEn": "She always keeps her promises, no matter how small.",
+    "shortExampleKo": "그녀는 크고 작은 약속을 항상 지켜요."
+  }
+}

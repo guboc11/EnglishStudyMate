@@ -1,0 +1,30 @@
+{
+  "id": "go-on_b91d0191",
+  "expression": "go on",
+  "selectionMeta": {
+    "selectedPhrase": "go on",
+    "selectedSenseLabelKo": "계속하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the interruption from the fire drill, the speaker took a breath and went on with her presentation."
+  },
+  "step2": {
+    "story": "The road was blocked by a large fallen tree, but the hikers decided to go on along the smaller forest path instead. They were determined to reach the waterfall before the sun went down.",
+    "topicTag": "weekend hobby",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The power cut out halfway through the school play, and the audience began murmuring nervously in the dark. The young actors looked at each other on stage, not sure what to do. Then the lead actress cleared her throat and began speaking her lines from memory. The others followed her lead, and the play went on beautifully without a single spotlight.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "하던 일을 멈추지 않고 계속 이어나가다.",
+    "realUsageKo": "어떤 일이나 이야기를 멈추지 않고 계속할 때 씁니다. continue와 비슷하지만 더 구어체적입니다.",
+    "etymologyKo": "go(가다)와 on(계속, 앞으로)이 결합하여 계속 앞으로 나아가다는 의미가 되었습니다.",
+    "nuanceKo": "방해나 중단 후에도 계속하는 뉘앙스가 강합니다. Go on!은 상대방에게 계속 말하라고 격려하는 표현이기도 합니다.",
+    "shortExampleEn": "Please go on; I want to hear the rest of the story.",
+    "shortExampleKo": "계속하세요. 이야기의 나머지가 듣고 싶어요."
+  }
+}

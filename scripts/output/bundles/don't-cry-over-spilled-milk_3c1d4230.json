@@ -1,0 +1,30 @@
+{
+  "id": "don't-cry-over-spilled-milk_3c1d4230",
+  "expression": "don't cry over spilled milk",
+  "selectionMeta": {
+    "selectedPhrase": "don't cry over spilled milk",
+    "selectedSenseLabelKo": "이미 엎질러진 물이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Yes, we missed the deadline, but don't cry over spilled milk — let's focus on how to fix it."
+  },
+  "step2": {
+    "story": "After the file was accidentally deleted without backup, her colleague spent an hour apologizing. She put a hand on his shoulder and said not to cry over spilled milk. They spent the rest of the day recreating what they could from email threads and memory.",
+    "topicTag": "mistake recovery",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "The concert venue booking fell through two weeks before the band's biggest show ever. They lost the deposit, had to reschedule hundreds of ticket holders, and spent three sleepless nights calling every available space in the city. When they finally secured an alternative venue that was actually larger and better equipped, the drummer sat down and said not to cry over spilled milk — what had felt like a disaster had accidentally upgraded their show. They opened to a sold-out crowd and later admitted the original venue would have been too small anyway.",
+    "topicTag": "setback turned around",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "엎질러진 우유를 보고 울지 마라.",
+    "realUsageKo": "이미 일어난 일을 두고 계속 후회하거나 슬퍼하는 것은 무의미하다고 할 때 씁니다.",
+    "etymologyKo": "17세기부터 사용된 표현으로, 한번 쏟아진 우유는 되돌릴 수 없다는 단순한 사실에서 나왔습니다.",
+    "nuanceKo": "위로보다는 현실적인 충고의 뉘앙스이므로, 상대의 감정이 충분히 인정된 다음에 쓰는 것이 좋습니다.",
+    "shortExampleEn": "What is done is done — do not cry over spilled milk.",
+    "shortExampleKo": "이미 일어난 일이에요 — 엎질러진 물이에요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "as-cool-as-a-cucumber_4f9fc1da",
+  "expression": "as cool as a cucumber",
+  "selectionMeta": {
+    "selectedPhrase": "as cool as a cucumber",
+    "selectedSenseLabelKo": "매우 침착한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The pilot announced the engine trouble without raising her voice — absolutely as cool as a cucumber."
+  },
+  "step2": {
+    "story": "Everyone in the room was nervous during the live product demo when the internet cut out. The presenter paused, said 'this happens,' switched to a pre-recorded backup, and continued without missing a beat. As cool as a cucumber, and the audience loved him for it.",
+    "topicTag": "composure under pressure",
+    "moodTag": "admirably calm"
+  },
+  "step3": {
+    "story": "The surgeon was known for being unflappable in the operating room. Residents talked about a case where a power fluctuation had momentarily affected monitoring equipment during a complex procedure. Everyone else in the room tensed. She had not changed her expression, her pace, or the pressure in her hands. She calmly called for the backup equipment and continued. Afterward a resident asked how she stayed as cool as a cucumber in moments like that. She said she had spent twenty years training precisely so that training would take over when reason threatened to falter. The calm was not indifference; it was preparation made visible.",
+    "topicTag": "professional composure",
+    "moodTag": "deeply calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "오이처럼 서늘한.",
+    "realUsageKo": "어떤 압박이나 혼란스러운 상황에서도 침착하고 차분하게 대응하는 사람을 묘사할 때 씁니다.",
+    "etymologyKo": "오이는 더운 날씨에도 내부 온도가 낮게 유지된다는 사실에서 비유가 나왔습니다.",
+    "nuanceKo": "감탄이나 부러움의 뉘앙스를 담으며, 극한의 침착함을 표현합니다.",
+    "shortExampleEn": "She was as cool as a cucumber during the entire crisis.",
+    "shortExampleKo": "그녀는 위기 내내 매우 침착했어요."
+  }
+}

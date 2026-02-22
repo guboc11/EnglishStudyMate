@@ -1,0 +1,30 @@
+{
+  "id": "give-up_aaa4eef0",
+  "expression": "give up",
+  "selectionMeta": {
+    "selectedPhrase": "give up",
+    "selectedSenseLabelKo": "포기하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She refused to give up on the puzzle even after two hours of trying."
+  },
+  "step2": {
+    "story": "The patient tried to learn the piano three times before and gave up each time after a few weeks. This time, his teacher told him the secret was simply not giving up before the calluses formed.",
+    "topicTag": "weekend hobby",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "During the school science competition, Tom's project stopped working right before the judging began. Every fix he tried made it worse. His teammate told him to just give up and move on. But Tom stayed crouched on the floor, trying one more thing. Two minutes before the judges arrived, it worked. They did not win first place, but they received a special mention for persistence.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 일을 더 이상 계속하지 않고 포기하다.",
+    "realUsageKo": "시도를 멈추거나 목표를 단념할 때 씁니다. 가장 일반적인 포기 표현입니다.",
+    "etymologyKo": "give(주다)와 up(내어놓다)이 결합하여 자신의 노력이나 희망을 내어놓는다는 의미가 되었습니다.",
+    "nuanceKo": "포기하다는 뜻의 가장 직접적인 표현입니다. never give up은 절대 포기하지 말라는 격려 문구로도 씁니다.",
+    "shortExampleEn": "Don't give up now; you are so close to finishing.",
+    "shortExampleKo": "지금 포기하지 마세요. 거의 다 왔어요."
+  }
+}

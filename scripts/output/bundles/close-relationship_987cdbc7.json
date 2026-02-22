@@ -1,0 +1,30 @@
+{
+  "id": "close-relationship_987cdbc7",
+  "expression": "close relationship",
+  "selectionMeta": {
+    "selectedPhrase": "close relationship",
+    "selectedSenseLabelKo": "가까운 관계",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She maintained a close relationship with her mentor long after leaving the company."
+  },
+  "step2": {
+    "story": "The two organizations had a close relationship built on a decade of shared projects and honest disagreements. The disagreements, both sides noted, had been as important as the collaborations in building the trust that made the relationship durable.",
+    "topicTag": "organizational partnership",
+    "moodTag": "genuinely collaborative"
+  },
+  "step3": {
+    "story": "The therapist had worked with the family for three years. What she had observed, gradually, was that the family's close relationships were both its greatest strength and its most significant source of difficulty. The closeness created unconditional support and also made honest feedback nearly impossible. Family members protected each other so thoroughly that no one said the things that needed to be said. Her work was not to weaken the closeness but to help the family build the kind of honesty that closeness could sustain.",
+    "topicTag": "family dynamics",
+    "moodTag": "sensitively observed"
+  },
+  "meaning": {
+    "literalMeaningKo": "가까운 관계.",
+    "realUsageKo": "서로를 깊이 알고 신뢰하는 친밀한 관계를 묘사할 때 씁니다.",
+    "etymologyKo": "close는 거리가 가깝다는 의미로, 물리적이 아닌 정서적 거리의 가까움을 나타냅니다.",
+    "nuanceKo": "intimate relationship(더 개인적)과 strong relationship(더 견고함 강조) 사이 어딘가에 위치합니다.",
+    "shortExampleEn": "She has a close relationship with her older brother.",
+    "shortExampleKo": "그녀는 오빠와 가까운 관계를 유지하고 있어요."
+  }
+}

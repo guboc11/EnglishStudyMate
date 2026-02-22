@@ -1,0 +1,30 @@
+{
+  "id": "bite-the-bullet_6c1c9a0d",
+  "expression": "bite the bullet",
+  "selectionMeta": {
+    "selectedPhrase": "bite the bullet",
+    "selectedSenseLabelKo": "이를 악물고 견디다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I decided to bite the bullet and go to the dentist even though I was terrified."
+  },
+  "step2": {
+    "story": "Tom had been avoiding the difficult conversation with his landlord for weeks. He finally bit the bullet, knocked on the door, and brought up the mold problem directly.",
+    "topicTag": "everyday courage",
+    "moodTag": "tense then relieved"
+  },
+  "step3": {
+    "story": "Elena had been dreading the performance review meeting all month. She knew her numbers were down, and she had been rehearsing excuses in the shower every morning. On the day of the meeting, she decided to bite the bullet instead and prepared an honest self-assessment with a clear improvement plan. Her manager was surprised by her transparency and actually appreciated the maturity she showed.",
+    "topicTag": "work challenge",
+    "moodTag": "nervous then resolved"
+  },
+  "meaning": {
+    "literalMeaningKo": "총알을 깨물다.",
+    "realUsageKo": "두렵거나 불쾌하지만 피할 수 없는 일을 결심하고 해낼 때 씁니다.",
+    "etymologyKo": "마취 없이 수술을 받던 군인들이 고통을 참기 위해 총알을 입에 물었던 데서 유래했습니다.",
+    "nuanceKo": "용기와 인내 모두를 내포하며, 오래 미뤄온 어려운 결정을 내릴 때 특히 자주 씁니다.",
+    "shortExampleEn": "Just bite the bullet and make the call.",
+    "shortExampleKo": "이를 악물고 그냥 전화해요."
+  }
+}

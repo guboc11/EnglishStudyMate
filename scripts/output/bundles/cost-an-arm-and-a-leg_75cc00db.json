@@ -1,0 +1,30 @@
+{
+  "id": "cost-an-arm-and-a-leg_75cc00db",
+  "expression": "cost an arm and a leg",
+  "selectionMeta": {
+    "selectedPhrase": "cost an arm and a leg",
+    "selectedSenseLabelKo": "매우 비싸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The repairs on my old car cost an arm and a leg, so I decided to buy a new one instead."
+  },
+  "step2": {
+    "story": "Nina loved that designer jacket in the window but checked the price tag and stepped back. It cost an arm and a leg, and she walked away promising herself she would save up for it.",
+    "topicTag": "shopping decision",
+    "moodTag": "wistful"
+  },
+  "step3": {
+    "story": "James and his partner had dreamed of visiting Japan for years. When they finally sat down to budget the trip, the flights alone cost an arm and a leg. They spent an entire Saturday crunching numbers, comparing dates, and looking for deals, eventually finding a departure window that cut the cost nearly in half. It was still expensive, but they booked it anyway, agreeing that some experiences were worth every penny.",
+    "topicTag": "travel planning",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "팔 하나와 다리 하나의 값.",
+    "realUsageKo": "무언가의 가격이 터무니없이 비쌀 때 씁니다.",
+    "etymologyKo": "20세기 초 미국 속어에서 시작된 표현으로, 팔다리처럼 대체 불가능한 것을 내줄 만큼 비싸다는 의미입니다.",
+    "nuanceKo": "불만이나 놀라움을 담아 쓰는 표현으로, 가격에 압도당한 느낌을 강조합니다.",
+    "shortExampleEn": "Healthcare in this country costs an arm and a leg.",
+    "shortExampleKo": "이 나라의 의료비는 정말 어마어마해요."
+  }
+}

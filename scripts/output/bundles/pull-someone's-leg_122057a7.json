@@ -1,0 +1,30 @@
+{
+  "id": "pull-someone's-leg_122057a7",
+  "expression": "pull someone's leg",
+  "selectionMeta": {
+    "selectedPhrase": "pull someone's leg",
+    "selectedSenseLabelKo": "농담하다, 놀리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Are you serious about quitting, or are you just pulling my leg?"
+  },
+  "step2": {
+    "story": "Jake told his parents he had won a free trip to Iceland in an online contest. His mom called three relatives before she realized he was just pulling her leg — the whole family laughed, including his father who had already packed his bag.",
+    "topicTag": "playful prank",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "The professor announced, with a completely straight face, that the final exam had been moved to the last day of finals week and would now be four hours long instead of two. The lecture hall went silent. Pens stopped. Then one brave student in the front row raised her hand and said, 'You are pulling our leg, right?' The professor let the silence stretch one second longer before breaking into a grin. The relief that followed was so enormous that the class remembered it for years.",
+    "topicTag": "classroom humor",
+    "moodTag": "tense then delighted"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 다리를 잡아당기다.",
+    "realUsageKo": "장난스럽게 거짓말을 하거나 농담으로 놀릴 때 씁니다.",
+    "etymologyKo": "19세기 영국 속어에서 유래했으며, 다리를 잡아당겨 걸어 넘어뜨리는 행위에서 비롯되었다는 설이 있습니다.",
+    "nuanceKo": "악의 없는 장난의 뉘앙스이며, 상대가 깜짝 놀라거나 의아해할 때 특히 잘 어울립니다.",
+    "shortExampleEn": "You climbed Everest last year? You are pulling my leg!",
+    "shortExampleKo": "작년에 에베레스트를 올랐다고요? 농담하는 거죠?"
+  }
+}

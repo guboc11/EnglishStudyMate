@@ -1,0 +1,30 @@
+{
+  "id": "plan-ahead_a6b98b32",
+  "expression": "plan ahead",
+  "selectionMeta": {
+    "selectedPhrase": "plan ahead",
+    "selectedSenseLabelKo": "미리 계획하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you plan ahead, you will avoid most of the last-minute stress."
+  },
+  "step2": {
+    "story": "She had always planned ahead — further than most people found comfortable. What she had learned was that planning too far ahead had its own costs: plans made in ignorance of future conditions often had to be scrapped, and the effort of making them was wasted. The art was planning far enough to be ready and close enough to reality to be useful.",
+    "topicTag": "planning",
+    "moodTag": "calibrated foresight"
+  },
+  "step3": {
+    "story": "The supply chain disruption had hit their competitors hard. The company had planned ahead eighteen months earlier, identifying single-source dependencies and building buffer inventory for critical components. The decision had been unpopular at the time — it tied up capital that could have been deployed elsewhere, and the risk it was hedging against had seemed unlikely. When the disruption arrived, the company was the only player in their market segment able to fill orders. Planning ahead, the CFO noted in the quarterly letter, was expensive until it was not.",
+    "topicTag": "business foresight",
+    "moodTag": "vindicated caution"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞서 계획하다.",
+    "realUsageKo": "미래에 일어날 일을 대비해 미리 준비하거나 계획을 세울 때 씁니다.",
+    "etymologyKo": "ahead는 앞으로, 미리라는 의미로, 현재가 아닌 미래를 위해 계획함을 표현합니다.",
+    "nuanceKo": "think ahead와 유사하지만 plan ahead는 구체적 행동 계획을 세우는 것을 강조합니다.",
+    "shortExampleEn": "Always plan ahead when organizing a large event.",
+    "shortExampleKo": "대형 행사를 준비할 때는 항상 미리 계획해야 해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "stay-away_852e285d",
+  "expression": "stay away",
+  "selectionMeta": {
+    "selectedPhrase": "stay away",
+    "selectedSenseLabelKo": "거리를 두다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The doctor told him to stay away from dusty environments for at least two weeks."
+  },
+  "step2": {
+    "story": "Everyone at school knew the shortcut through the old lot was flooded after rain. The teacher reminded students to stay away from it until the city crew had drained it.",
+    "topicTag": "school friendship",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "After her knee injury, the coach told Sara to stay away from the training field completely for six weeks. The first week was the hardest. She watched practice from the stands and felt left out. But she used the time to study game strategy and strengthen the rest of her body. When she returned, she understood the game differently and played better than before.",
+    "topicTag": "school friendship",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 장소나 사람에게 가까이 가지 않고 멀리하다.",
+    "realUsageKo": "위험하거나 해로운 것에서 의도적으로 거리를 둘 때 씁니다.",
+    "etymologyKo": "stay(유지하다)와 away(멀리)가 결합하여 멀리 있는 상태를 유지한다는 의미가 되었습니다.",
+    "nuanceKo": "경고나 조언, 또는 의도적인 거리 두기 모두에 씁니다. keep away와 비슷하지만 조금 더 강한 의지를 나타냅니다.",
+    "shortExampleEn": "The vet told us to stay away from giving our dog human food.",
+    "shortExampleKo": "수의사가 개에게 사람 음식을 주지 말라고 했어요."
+  }
+}

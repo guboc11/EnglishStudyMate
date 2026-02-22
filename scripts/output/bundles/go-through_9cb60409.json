@@ -1,0 +1,30 @@
+{
+  "id": "go-through_9cb60409",
+  "expression": "go through",
+  "selectionMeta": {
+    "selectedPhrase": "go through",
+    "selectedSenseLabelKo": "겪다, 살펴보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She went through a very difficult period after her father passed away."
+  },
+  "step2": {
+    "story": "Before the presentation, the team sat down to go through every slide one more time. They wanted to make sure there were no mistakes or missing information.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "When applying for a passport for the first time, Kevin had no idea how many steps were involved. He had to go through a long checklist of documents, visit two different offices, and wait for a background check. The whole process took nearly a month. But when the little blue booklet finally arrived in the mail, he held it up like a trophy.",
+    "topicTag": "public transportation",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "힘든 상황이나 경험을 겪다; 무언가를 꼼꼼히 살펴보다.",
+    "realUsageKo": "어려운 경험을 겪을 때, 또는 서류나 내용을 처음부터 끝까지 검토할 때 씁니다.",
+    "etymologyKo": "go(이동하다)와 through(통과하여)가 결합하여 무언가를 처음부터 끝까지 통과한다는 의미가 되었습니다.",
+    "nuanceKo": "경험으로 쓸 때는 주로 어렵거나 힘든 시간을 강조하고, 검토로 쓸 때는 철저히 살펴본다는 뉘앙스입니다.",
+    "shortExampleEn": "Let's go through the report together before we send it out.",
+    "shortExampleKo": "보내기 전에 보고서를 같이 살펴봅시다."
+  }
+}

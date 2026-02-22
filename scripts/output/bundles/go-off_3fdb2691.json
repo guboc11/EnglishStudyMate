@@ -1,0 +1,30 @@
+{
+  "id": "go-off_3fdb2691",
+  "expression": "go off",
+  "selectionMeta": {
+    "selectedPhrase": "go off",
+    "selectedSenseLabelKo": "폭발하다, 울리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The smoke alarm went off when she forgot about the bread she had left in the oven."
+  },
+  "step2": {
+    "story": "They were in the middle of a quiet and serious conversation when the fire alarm suddenly went off. Everyone grabbed their bags and rushed toward the nearest exit.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "The whole town gathered in the square to watch the New Year's fireworks display. At exactly midnight, the first firework went off with a deep boom that made the youngest children jump. Then five more went off in quick bright succession, painting the dark sky with gold and red light. Children pointed upward with wide open mouths, and even the adults gasped in delight.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "알람, 경보 등이 갑자기 울리다; 폭탄이나 폭죽이 터지다.",
+    "realUsageKo": "알람, 화재 경보, 폭죽 등이 갑자기 울리거나 터지는 상황에 씁니다.",
+    "etymologyKo": "go(상태가 변하다)와 off(작동, 발동)가 결합하여 장치가 갑자기 작동하거나 무언가가 터진다는 의미가 되었습니다.",
+    "nuanceKo": "예상치 못한 순간에 갑자기 발생하는 소리나 폭발에 주로 씁니다. 알람이나 경보 장치에 매우 자주 씁니다.",
+    "shortExampleEn": "My alarm went off at 6 a.m. and I could not go back to sleep.",
+    "shortExampleKo": "오전 6시에 알람이 울려서 다시 잠들지 못했어요."
+  }
+}

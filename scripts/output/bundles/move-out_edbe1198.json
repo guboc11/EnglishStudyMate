@@ -1,0 +1,30 @@
+{
+  "id": "move-out_edbe1198",
+  "expression": "move out",
+  "selectionMeta": {
+    "selectedPhrase": "move out",
+    "selectedSenseLabelKo": "이사 나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He finally moved out of his parents' house at the age of twenty-five."
+  },
+  "step2": {
+    "story": "The old couple next door had moved out quietly one morning while most people were at work. By the time neighbors noticed, only an empty house with an overgrown garden remained.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "When Amy told her roommates she was moving out, they were upset at first. They had shared the apartment for three years and had many good memories together. But Amy had found a job in another city and the opportunity was too good to pass up. On her last day, they all had dinner together and promised to visit each other often.",
+    "topicTag": "home",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "살고 있던 집이나 장소에서 짐을 싸서 떠나다.",
+    "realUsageKo": "이전에 살던 집을 비우고 떠날 때 씁니다. move in의 반대말입니다.",
+    "etymologyKo": "move(이동하다)와 out(밖으로)이 결합하여 살던 곳에서 밖으로 이사 나간다는 의미가 되었습니다.",
+    "nuanceKo": "이사 나가는 행위 자체를 가리키며, 새 목적지보다는 현재 장소를 떠나는 것에 초점을 둡니다.",
+    "shortExampleEn": "We need to move out by the end of the month.",
+    "shortExampleKo": "이달 말까지 이사 나가야 해요."
+  }
+}

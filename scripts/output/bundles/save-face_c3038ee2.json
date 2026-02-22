@@ -1,0 +1,30 @@
+{
+  "id": "save-face_c3038ee2",
+  "expression": "save face",
+  "selectionMeta": {
+    "selectedPhrase": "save face",
+    "selectedSenseLabelKo": "체면을 지키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company revised the policy quietly to save face after the public criticism."
+  },
+  "step2": {
+    "story": "He had made a bold prediction in front of the entire team that turned out to be completely wrong. Rather than admit it directly, he reframed the outcome as an evolving situation, which let him save face without anyone pressing the point.",
+    "topicTag": "professional ego",
+    "moodTag": "carefully managed"
+  },
+  "step3": {
+    "story": "The merger had been publicly announced before the due diligence was complete. When fundamental disagreements emerged during the review, both companies needed to walk away from the deal — but neither side wanted to be seen as having failed. Their communications teams spent two weeks crafting language that emphasized a mutual decision to pursue independent growth strategies, allowing both companies to save face in front of investors and the press. The underlying reality was a collapse, but the external narrative was a considered strategic pivot. In business, the distinction mattered more than either party publicly acknowledged.",
+    "topicTag": "public relations",
+    "moodTag": "diplomatically managed"
+  },
+  "meaning": {
+    "literalMeaningKo": "얼굴을 살리다.",
+    "realUsageKo": "창피하거나 체면을 잃을 수 있는 상황에서 자존심이나 명예를 지킬 때 씁니다.",
+    "etymologyKo": "동아시아의 면(面/체면) 개념이 영어에 번역된 표현으로, 19세기부터 영어에서 사용되었습니다.",
+    "nuanceKo": "직접적 대립보다 명예로운 퇴각을 선택할 때의 선택을 표현합니다.",
+    "shortExampleEn": "The apology allowed him to save face without admitting full blame.",
+    "shortExampleKo": "사과 덕분에 그는 전적인 책임을 인정하지 않고도 체면을 지킬 수 있었어요."
+  }
+}

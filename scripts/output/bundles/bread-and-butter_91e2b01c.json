@@ -1,0 +1,30 @@
+{
+  "id": "bread-and-butter_91e2b01c",
+  "expression": "bread and butter",
+  "selectionMeta": {
+    "selectedPhrase": "bread and butter",
+    "selectedSenseLabelKo": "생계 수단, 기본",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Corporate training courses are our bread and butter — they account for 70 percent of our annual revenue."
+  },
+  "step2": {
+    "story": "The photographer shot weddings every weekend not because she loved them but because they were her bread and butter. The documentary projects she cared about most could never cover rent on their own.",
+    "topicTag": "creative livelihood",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "The jazz quartet had been together for eight years. Their bread and butter was hotel lobby gigs and corporate events — reliable, passionless, and consistent. Every fourth weekend they played an evening set at a small club on the east side for almost no money. That was where they rehearsed the difficult material, pushed each other, and remembered why they had started playing together. They needed the bread and butter to survive. They needed the club to keep being musicians rather than just entertainers.",
+    "topicTag": "art and livelihood",
+    "moodTag": "honestly balanced"
+  },
+  "meaning": {
+    "literalMeaningKo": "빵과 버터.",
+    "realUsageKo": "생계를 유지해주는 주요 수입원이나 가장 기본적인 활동을 가리킵니다.",
+    "etymologyKo": "빵과 버터가 가장 기본적인 식사를 의미한 데서 유래했습니다.",
+    "nuanceKo": "화려하지 않지만 필수적이고 신뢰할 수 있는 것을 나타냅니다.",
+    "shortExampleEn": "Small business clients are our bread and butter.",
+    "shortExampleKo": "소규모 사업 고객들이 우리의 주요 수입원이에요."
+  }
+}

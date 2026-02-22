@@ -1,0 +1,30 @@
+{
+  "id": "key-factor_4583e6ee",
+  "expression": "key factor",
+  "selectionMeta": {
+    "selectedPhrase": "key factor",
+    "selectedSenseLabelKo": "핵심 요소",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Trust was identified as a key factor in the success of the remote work policy."
+  },
+  "step2": {
+    "story": "The researcher had isolated twelve variables. Of those, three emerged as key factors that explained most of the variation in outcomes across groups. The other nine had looked important before the analysis and mattered much less than the initial model had suggested.",
+    "topicTag": "research analysis",
+    "moodTag": "empirically clear"
+  },
+  "step3": {
+    "story": "The post-mortem asked one question: what was the key factor in why this project succeeded when similar ones had failed? The answers from different team members varied and were each partially true. The project lead collated them and found a pattern beneath the variety: every answer described some form of early alignment — alignment on goals, on constraints, on what success would look like. The key factor, distilled, was that the team had spent more time at the beginning agreeing on what they were building than any previous team had. Everything else had followed from that.",
+    "topicTag": "project retrospective",
+    "moodTag": "clearly distilled"
+  },
+  "meaning": {
+    "literalMeaningKo": "핵심 요인.",
+    "realUsageKo": "여러 요소 중에서 결과에 가장 큰 영향을 미치는 중요한 요소를 가리킵니다.",
+    "etymologyKo": "key는 문을 여는 열쇠처럼 결정적이고 핵심적이라는 의미입니다.",
+    "nuanceKo": "major factor와 유사하지만 key는 다른 요소들을 열어주는 잠금장치 같은 중추성을 강조합니다.",
+    "shortExampleEn": "Communication was a key factor in the team's success.",
+    "shortExampleKo": "소통이 팀 성공의 핵심 요소였어요."
+  }
+}

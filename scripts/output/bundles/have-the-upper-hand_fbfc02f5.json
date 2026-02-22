@@ -1,0 +1,30 @@
+{
+  "id": "have-the-upper-hand_fbfc02f5",
+  "expression": "have the upper hand",
+  "selectionMeta": {
+    "selectedPhrase": "have the upper hand",
+    "selectedSenseLabelKo": "우위를 점하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With three competing offers on the table, the seller had the upper hand in negotiations."
+  },
+  "step2": {
+    "story": "In the first half the visiting team clearly had the upper hand, controlling possession and creating four clean chances. By halftime, the home crowd had gone quiet and the coach was rearranging the tactical board.",
+    "topicTag": "sports competition",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The labor negotiations had been deadlocked for six weeks. Management assumed they had the upper hand because of the difficult job market. What they had not accounted for was a viral social media post from a former employee that had changed public perception significantly. Three major clients quietly reached out to ask about labor practices, and two of them referenced the post. Suddenly the calculus shifted, and the company found itself in a much weaker position than it had imagined. By the end of the month, the workers had secured most of what they had originally asked for.",
+    "topicTag": "negotiation shift",
+    "moodTag": "power dynamic reversal"
+  },
+  "meaning": {
+    "literalMeaningKo": "위에 손이 있다.",
+    "realUsageKo": "협상, 경쟁, 또는 갈등에서 유리한 위치를 점하고 있을 때 씁니다.",
+    "etymologyKo": "막대기를 서로 잡아 올리는 힘 겨루기 게임에서 손을 더 높이 얹은 쪽이 이기는 데서 유래했습니다.",
+    "nuanceKo": "권력의 균형이나 협상 구도를 묘사할 때 자주 씁니다.",
+    "shortExampleEn": "They had the upper hand at the start but lost momentum.",
+    "shortExampleKo": "처음에는 그들이 우위를 점했지만 추진력을 잃었어요."
+  }
+}

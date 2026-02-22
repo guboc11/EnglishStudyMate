@@ -1,0 +1,30 @@
+{
+  "id": "make-a-difference_7a7b9da1",
+  "expression": "make a difference",
+  "selectionMeta": {
+    "selectedPhrase": "make a difference",
+    "selectedSenseLabelKo": "변화를 만들어내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A small act of kindness can make a difference in someone's day."
+  },
+  "step2": {
+    "story": "She had wondered, early in her teaching career, whether any of it made a real difference. Then a former student tracked her down fifteen years later to say that one conversation in ninth grade had changed the direction of his life. She had no memory of it. He remembered it precisely.",
+    "topicTag": "teaching",
+    "moodTag": "quietly profound"
+  },
+  "step3": {
+    "story": "The nonprofit evaluated every program against a simple question: does this actually make a difference in the lives of the people it serves, and can we demonstrate that? The question was harder to answer than it sounded. Many programs had evidence of activity — people served, hours delivered, events held — but far less evidence of actual change in outcomes. The organization invested in rigorous follow-up measurement and found that two of its six programs had strong evidence of impact. It redirected most of its resources to those two. It was a difficult organizational decision, and the right one.",
+    "topicTag": "social impact",
+    "moodTag": "rigorously honest"
+  },
+  "meaning": {
+    "literalMeaningKo": "차이를 만들다.",
+    "realUsageKo": "어떤 행동이나 노력이 실질적인 변화나 영향을 미칠 때 씁니다.",
+    "etymologyKo": "make a difference는 차이를 만들어낸다는 의미로, 변화의 인과성을 강조합니다.",
+    "nuanceKo": "have an impact와 유사하지만 make a difference는 더 감성적이고 사람 중심적인 뉘앙스입니다.",
+    "shortExampleEn": "Every vote makes a difference in a close election.",
+    "shortExampleKo": "접전에서는 한 표 한 표가 변화를 만들어내요."
+  }
+}

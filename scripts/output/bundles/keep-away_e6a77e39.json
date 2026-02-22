@@ -1,0 +1,30 @@
+{
+  "id": "keep-away_e6a77e39",
+  "expression": "keep away",
+  "selectionMeta": {
+    "selectedPhrase": "keep away",
+    "selectedSenseLabelKo": "멀리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sign on the fence read: Keep away from the construction zone."
+  },
+  "step2": {
+    "story": "Her doctor advised her to keep away from spicy food for at least a month after the surgery. She found it harder to follow than she had expected.",
+    "topicTag": "doctor visit",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "The park had a pond where geese gathered every afternoon. A small sign asked visitors to keep away from the nest near the old oak tree. Most people respected it. But one afternoon, a toddler waddled toward the nest before her mother could catch her. A goose spread its wings and honked loudly. The mother scooped up the child and they both backed away very quickly.",
+    "topicTag": "park",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 장소나 사람, 것에서 거리를 두다, 가까이 가지 않다.",
+    "realUsageKo": "위험한 곳이나 해로운 것으로부터 멀리 있으라고 할 때 씁니다.",
+    "etymologyKo": "keep(유지하다)과 away(멀리)가 결합하여 거리를 유지한다는 의미가 되었습니다.",
+    "nuanceKo": "경고나 조언의 형태로 자주 씁니다. 사람 또는 장소나 사물 모두에 씁니다.",
+    "shortExampleEn": "Keep away from the edge of the cliff; it is not safe.",
+    "shortExampleKo": "절벽 가장자리에서 멀리 떨어지세요. 안전하지 않아요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kick-the-habit_b20785c6",
+  "expression": "kick the habit",
+  "selectionMeta": {
+    "selectedPhrase": "kick the habit",
+    "selectedSenseLabelKo": "나쁜 습관을 끊다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He finally kicked the habit of checking his phone first thing every morning."
+  },
+  "step2": {
+    "story": "She had tried to kick the habit of late-night snacking four times before. This time she kept a simple log instead of restricting herself — just tracking, without judgment. Understanding the pattern made the change feel manageable for the first time.",
+    "topicTag": "habit change",
+    "moodTag": "gradually successful"
+  },
+  "step3": {
+    "story": "The town had run an anti-smoking program for three years with modest results. Then a pharmacist proposed something unusual: instead of focusing on the health consequences, she suggested they create a public accountability map — a wall in the community center where people could post their goal date and track streaks together. Within six months, the visible community momentum had helped more people kick the habit than the previous three years of educational campaigns combined. Behavior change, she said at the review, was social before it was medical.",
+    "topicTag": "community health",
+    "moodTag": "practically optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "습관을 발로 차다.",
+    "realUsageKo": "해롭거나 좋지 않은 습관을 성공적으로 끊을 때 씁니다.",
+    "etymologyKo": "강하게 차서 떨쳐내는 이미지를 습관 극복에 적용한 표현입니다.",
+    "nuanceKo": "주로 흡연, 음주 등 강한 중독성이 있는 습관에 많이 씁니다.",
+    "shortExampleEn": "It took her three attempts to finally kick the habit.",
+    "shortExampleKo": "그녀는 세 번의 시도 끝에 드디어 습관을 끊었어요."
+  }
+}

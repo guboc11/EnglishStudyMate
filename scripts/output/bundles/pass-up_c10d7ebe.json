@@ -1,0 +1,30 @@
+{
+  "id": "pass-up_c10d7ebe",
+  "expression": "pass up",
+  "selectionMeta": {
+    "selectedPhrase": "pass up",
+    "selectedSenseLabelKo": "기회를 놓치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided not to pass up the chance to study abroad, even though it felt scary."
+  },
+  "step2": {
+    "story": "The ticket to the sold-out concert was being offered to him for free by a friend who could not go. He nearly passed it up because he had work the next morning, but in the end he went and had an unforgettable night.",
+    "topicTag": "weekend hobby",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "For years, Leo had been cautious about every new opportunity that came his way. He would weigh the risks carefully and often end up passing them up. When the invitation to join an early-stage startup arrived, he almost did the same. But something felt different this time. He said yes, and three years later, the decision had changed his life entirely.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "주어진 기회나 제안을 이용하지 않고 그냥 넘기다.",
+    "realUsageKo": "좋은 기회나 제안을 거절하거나 이용하지 않을 때 씁니다.",
+    "etymologyKo": "pass(지나가다)와 up(포기하다, 지나치다)이 결합하여 기회를 지나쳐 보낸다는 의미가 되었습니다.",
+    "nuanceKo": "기회를 거절한다는 의미이며, 종종 아쉬움이나 후회의 뉘앙스를 동반합니다.",
+    "shortExampleEn": "I can't believe you passed up a free trip to Paris.",
+    "shortExampleKo": "파리 무료 여행을 그냥 지나치다니 믿을 수 없어요."
+  }
+}

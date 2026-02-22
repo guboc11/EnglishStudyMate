@@ -1,0 +1,30 @@
+{
+  "id": "get-a-taste-of-your-own-medicine_761e2b34",
+  "expression": "get a taste of your own medicine",
+  "selectionMeta": {
+    "selectedPhrase": "get a taste of your own medicine",
+    "selectedSenseLabelKo": "자업자득하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He was always interrupting others in meetings, and when he finally got interrupted during his own presentation, he got a taste of his own medicine."
+  },
+  "step2": {
+    "story": "The manager who gave vague feedback and changed requirements at the last minute was transferred to a project where her supervisor did exactly the same thing. It was, her colleagues agreed quietly, a textbook case of getting a taste of one's own medicine.",
+    "topicTag": "karmic justice",
+    "moodTag": "wryly satisfying"
+  },
+  "step3": {
+    "story": "The competitive firm had spent years poaching senior engineers from startups by offering salaries those startups could not match, sometimes targeting employees who had been with those companies since founding. When the firm launched a new division and aggressively recruited, it found that a larger competitor had identified its best technical architects and was doing exactly the same thing. The talent drain was significant and deeply disruptive. A junior partner said in a meeting that they had gotten a taste of their own medicine. The senior partner did not disagree. They changed their recruitment ethics within the year.",
+    "topicTag": "business ethics",
+    "moodTag": "uncomfortable recognition"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 약 맛을 보다.",
+    "realUsageKo": "다른 사람에게 하던 행동이 자신에게 돌아와 똑같이 경험할 때 씁니다.",
+    "etymologyKo": "자신이 처방한 약을 자신이 먹어야 하는 상황의 아이러니에서 나온 표현입니다.",
+    "nuanceKo": "인과응보의 뉘앙스를 담으며, 동정보다는 당연한 결과라는 시각을 표현합니다.",
+    "shortExampleEn": "After ignoring others for years, he finally got a taste of his own medicine.",
+    "shortExampleKo": "수년간 다른 사람들을 무시하더니, 결국 자업자득이 됐어요."
+  }
+}

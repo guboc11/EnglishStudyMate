@@ -1,0 +1,30 @@
+{
+  "id": "expand-knowledge_8bef8c01",
+  "expression": "expand knowledge",
+  "selectionMeta": {
+    "selectedPhrase": "expand knowledge",
+    "selectedSenseLabelKo": "지식을 넓히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Travel is one of the most effective ways to expand your knowledge of the world."
+  },
+  "step2": {
+    "story": "The reading group had been meeting monthly for eleven years. The original purpose had been to expand their literary knowledge. Over time it had expanded far more: their understanding of each other, of history, of how to disagree generously.",
+    "topicTag": "lifelong learning",
+    "moodTag": "rich and layered"
+  },
+  "step3": {
+    "story": "The hospital had introduced a cross-departmental rotation program for junior doctors specifically to expand their clinical knowledge beyond their specialty. The cardiology resident who spent a month in oncology came back with a different understanding of patient communication under uncertainty. The geriatrics resident who rotated through the ED came back with a different relationship to speed and decision-making. The knowledge they expanded was not only medical.",
+    "topicTag": "medical education",
+    "moodTag": "broadening"
+  },
+  "meaning": {
+    "literalMeaningKo": "지식을 확장하다.",
+    "realUsageKo": "알고 있는 것의 범위를 더 넓힐 때 씁니다.",
+    "etymologyKo": "expand는 라틴어 expandere(펼치다)에서 왔으며, 지식의 경계를 바깥으로 넓혀가는 이미지입니다.",
+    "nuanceKo": "increase knowledge(양적 증가)보다 broaden/expand는 범위와 다양성을 강조합니다.",
+    "shortExampleEn": "Reading widely is the best way to expand your knowledge.",
+    "shortExampleKo": "다양하게 읽는 것이 지식을 넓히는 가장 좋은 방법이에요."
+  }
+}

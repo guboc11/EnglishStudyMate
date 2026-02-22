@@ -1,0 +1,30 @@
+{
+  "id": "blow-off-steam_1a19c5b5",
+  "expression": "blow off steam",
+  "selectionMeta": {
+    "selectedPhrase": "blow off steam",
+    "selectedSenseLabelKo": "스트레스를 풀다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a frustrating day at work, she went for a long run to blow off some steam."
+  },
+  "step2": {
+    "story": "The project had been delayed for the third time, and everyone on the team was at their limit. Their manager told them to take the afternoon off and blow off some steam however they needed to. Half went to the gym; the other half went to an escape room.",
+    "topicTag": "stress release",
+    "moodTag": "needed relief"
+  },
+  "step3": {
+    "story": "Marcus had been carrying the stress of the acquisition for months — negotiations, due diligence, stakeholder calls at hours that no one should be awake. His wife noticed he had stopped laughing at his own jokes, which was always the first sign. She booked them a hiking weekend without asking. He protested mildly, then gave in. On the trail, carrying nothing but water and a light pack, he blew off steam with every steep climb and downhill scramble. By Sunday evening he was laughing again. He came back to the negotiation table the following week with a clarity he had not felt in months.",
+    "topicTag": "work-life balance",
+    "moodTag": "recharged"
+  },
+  "meaning": {
+    "literalMeaningKo": "증기를 내뿜다.",
+    "realUsageKo": "쌓인 분노, 스트레스, 긴장을 풀거나 발산할 때 씁니다.",
+    "etymologyKo": "증기 기관에서 압력이 과도할 때 증기를 배출하는 안전 밸브 작동에서 유래했습니다.",
+    "nuanceKo": "건강한 방식으로 감정을 해소하는 뉘앙스이며, 부정적이지 않습니다.",
+    "shortExampleEn": "He played basketball to blow off steam after the meeting.",
+    "shortExampleKo": "그는 회의 후 스트레스를 풀기 위해 농구를 했어요."
+  }
+}

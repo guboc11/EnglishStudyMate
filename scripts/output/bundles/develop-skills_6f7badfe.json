@@ -1,0 +1,30 @@
+{
+  "id": "develop-skills_6f7badfe",
+  "expression": "develop skills",
+  "selectionMeta": {
+    "selectedPhrase": "develop skills",
+    "selectedSenseLabelKo": "기술을 개발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The training program was designed to help employees develop skills they would use for the rest of their careers."
+  },
+  "step2": {
+    "story": "She had joined the theater group not for performance but to develop communication skills she felt she lacked. By the third season, she was directing. The skills had developed in directions she had not anticipated.",
+    "topicTag": "personal development",
+    "moodTag": "pleasantly surprised"
+  },
+  "step3": {
+    "story": "The research on skill development consistently showed that the conditions that produced the fastest learning were not the most comfortable ones. Difficulty, failure, and feedback from someone more skilled were the primary drivers. Workplaces that buffered employees from challenge in the name of support often inadvertently slowed their development. The most effective managers the researchers observed were those who stretched their people deliberately — assigning tasks just beyond current capability and then staying close enough to help when genuinely needed.",
+    "topicTag": "learning science",
+    "moodTag": "evidence-based"
+  },
+  "meaning": {
+    "literalMeaningKo": "기술을 발전시키다.",
+    "realUsageKo": "연습과 학습을 통해 능력을 향상시킬 때 씁니다.",
+    "etymologyKo": "develop는 불어 développer(펼치다)에서 왔으며, 내재된 가능성을 꺼내는 과정을 함의합니다.",
+    "nuanceKo": "build skills, improve skills와 유사하지만 develop는 성장의 과정을 더 강조합니다.",
+    "shortExampleEn": "She took evening classes to develop skills in data analysis.",
+    "shortExampleKo": "그녀는 데이터 분석 기술을 개발하려고 저녁 수업을 들었어요."
+  }
+}

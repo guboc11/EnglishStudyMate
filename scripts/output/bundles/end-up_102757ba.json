@@ -1,0 +1,30 @@
+{
+  "id": "end-up_102757ba",
+  "expression": "end up",
+  "selectionMeta": {
+    "selectedPhrase": "end up",
+    "selectedSenseLabelKo": "결국 ~이 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They took a wrong turn and ended up on the other side of the city."
+  },
+  "step2": {
+    "story": "He applied for one small role at the theater company just to try something new. Three years later, he ended up as the lead director of the annual festival.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "surprised then relieved"
+  },
+  "step3": {
+    "story": "Clara had planned a quiet weekend at home with no plans and no obligations. But a friend called with a spare ticket to a folk concert, and she said yes almost without thinking. They grabbed food from a street vendor, found a spot on the grass, and ended up staying until the last song. It was one of those evenings she had not seen coming at all.",
+    "topicTag": "weekend hobby",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "의도하지 않았거나 예상치 못한 상황이나 상태에 결국 이르다.",
+    "realUsageKo": "계획과 다르게 어떤 결과나 상황에 도달했을 때 씁니다.",
+    "etymologyKo": "end(끝나다)와 up(결과 도달)이 결합하여 어떤 과정의 끝에 특정 상태에 이른다는 의미가 되었습니다.",
+    "nuanceKo": "의도와 관계없이 어떤 결과로 귀결되는 상황을 묘사합니다. 뒤에 동명사나 형용사가 자주 옵니다.",
+    "shortExampleEn": "We missed the last bus and ended up walking home.",
+    "shortExampleKo": "막차를 놓쳐서 결국 걸어서 집에 왔어요."
+  }
+}

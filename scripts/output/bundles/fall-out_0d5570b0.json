@@ -1,0 +1,30 @@
+{
+  "id": "fall-out_0d5570b0",
+  "expression": "fall out",
+  "selectionMeta": {
+    "selectedPhrase": "fall out",
+    "selectedSenseLabelKo": "사이가 멀어지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They had been close friends for years before they fell out over a misunderstanding."
+  },
+  "step2": {
+    "story": "The two brothers fell out after arguing about how to handle their late father's belongings. They stopped talking for nearly a year before a mutual friend brought them together.",
+    "topicTag": "family routine",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Nora and her college roommate had always seemed inseparable. They studied together, cooked together, and shared everything. But in their final year, a disagreement over something small turned into a serious argument. They fell out suddenly and avoided each other for the rest of the semester. After graduation, time and distance slowly softened things, and they eventually exchanged cautious messages again.",
+    "topicTag": "school friendship",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "다툼이나 의견 충돌로 인해 사이가 나빠지다.",
+    "realUsageKo": "가까운 관계가 다툼이나 갈등으로 인해 멀어질 때 씁니다.",
+    "etymologyKo": "fall(떨어지다)과 out(밖으로)이 결합하여 친밀했던 관계에서 밖으로 떨어져 나간다는 의미가 되었습니다.",
+    "nuanceKo": "반드시 큰 싸움이 아니어도 사이가 멀어지는 상황에 씁니다. 오랜 관계의 단절을 묘사할 때 특히 자주 씁니다.",
+    "shortExampleEn": "They fell out over money and have not spoken since.",
+    "shortExampleKo": "돈 문제로 사이가 멀어진 후 연락이 끊겼어요."
+  }
+}

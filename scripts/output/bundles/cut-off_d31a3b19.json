@@ -1,0 +1,30 @@
+{
+  "id": "cut-off_d31a3b19",
+  "expression": "cut off",
+  "selectionMeta": {
+    "selectedPhrase": "cut off",
+    "selectedSenseLabelKo": "차단하다, 끊다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The storm cut off the village's electricity supply for three days."
+  },
+  "step2": {
+    "story": "He was in the middle of a sentence when the phone call was suddenly cut off. He tried calling back but kept getting a busy signal.",
+    "topicTag": "home",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "The flooded road cut off the small mountain town from the rest of the valley. Supplies could not come in and residents could not get out. Helicopters delivered essential goods for two days while crews worked to clear the water. When the road finally reopened, the whole town gathered to wave at the first cars coming through.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "연결이나 공급을 차단하다; 말이나 행동을 중단시키다.",
+    "realUsageKo": "전력, 통신, 도로 등의 연결이 끊어지거나, 말하는 도중에 끊길 때 씁니다.",
+    "etymologyKo": "cut(자르다)과 off(분리, 차단)가 결합하여 연결된 것을 잘라서 분리한다는 의미가 되었습니다.",
+    "nuanceKo": "의도적 차단과 갑작스런 중단 모두에 씁니다. 전화, 도로, 전기, 대화 등 다양한 맥락에 씁니다.",
+    "shortExampleEn": "Sorry, the signal cut off. Can you say that last part again?",
+    "shortExampleKo": "미안해요. 신호가 끊겼어요. 마지막 부분 다시 말해줄 수 있어요?"
+  }
+}

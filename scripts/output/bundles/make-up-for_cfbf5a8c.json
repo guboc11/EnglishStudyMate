@@ -1,0 +1,30 @@
+{
+  "id": "make-up-for_cfbf5a8c",
+  "expression": "make up for",
+  "selectionMeta": {
+    "selectedPhrase": "make up for",
+    "selectedSenseLabelKo": "보상하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed late at the office every day that week to make up for the time she had missed."
+  },
+  "step2": {
+    "story": "After forgetting his wife's birthday, Dan made a special dinner at home to make up for it. He cooked her favorite meal and filled the table with her favorite flowers.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "The sports team had a terrible first half and were down by three points. Their coach gathered them in the locker room and reminded them they still had thirty minutes to make up for the slow start. They returned to the field with energy. By the final whistle, they had not only caught up but won by two.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "부족했던 것이나 잘못을 보충하거나 보상하다.",
+    "realUsageKo": "실수나 부족한 점을 다른 방법으로 채우거나 보상할 때 씁니다.",
+    "etymologyKo": "make up(만들어 채우다)과 for(~에 대해)가 결합하여 부족한 부분을 채워준다는 의미가 되었습니다.",
+    "nuanceKo": "실수나 손해에 대한 보상이나 보충을 나타냅니다. compensate보다 구어체적입니다.",
+    "shortExampleEn": "He worked extra hours to make up for arriving late on Monday.",
+    "shortExampleKo": "월요일 지각을 보상하기 위해 초과근무를 했어요."
+  }
+}

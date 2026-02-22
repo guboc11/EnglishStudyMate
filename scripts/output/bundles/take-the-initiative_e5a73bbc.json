@@ -1,0 +1,30 @@
+{
+  "id": "take-the-initiative_e5a73bbc",
+  "expression": "take the initiative",
+  "selectionMeta": {
+    "selectedPhrase": "take the initiative",
+    "selectedSenseLabelKo": "주도권을 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of waiting for instructions, she took the initiative and started the project herself."
+  },
+  "step2": {
+    "story": "He was the most junior person in the room, but he took the initiative to map out the process on the whiteboard before anyone asked him to. Nobody commented on it directly. The conversation, from that point, used his framework without anyone noticing it had happened.",
+    "topicTag": "workplace confidence",
+    "moodTag": "quietly impactful"
+  },
+  "step3": {
+    "story": "The neighborhood had no formal organization when the flooding hit. Within two hours, one resident had taken the initiative to create a shared message thread, organized volunteers into three working groups, and assigned each group a specific geographic zone. She had no authority over anyone. She had simply moved first and clearly. By the time city services arrived the following morning, the informal network had already identified the households most in need and pre-staged supplies near the hardest-hit areas. Taking the initiative had filled a gap that no official structure had been designed to fill.",
+    "topicTag": "community leadership",
+    "moodTag": "urgently effective"
+  },
+  "meaning": {
+    "literalMeaningKo": "주도권을 잡다.",
+    "realUsageKo": "남이 시키기 전에 먼저 행동하거나 상황을 주도할 때 씁니다.",
+    "etymologyKo": "initiative는 라틴어 initiare(시작하다)에서 왔으며, 첫 번째로 움직이는 사람임을 강조합니다.",
+    "nuanceKo": "show initiative(주도적인 태도를 보이다)도 유사 표현입니다.",
+    "shortExampleEn": "We appreciate employees who take the initiative without being asked.",
+    "shortExampleKo": "부탁받지 않아도 먼저 나서는 직원을 높이 평가해요."
+  }
+}

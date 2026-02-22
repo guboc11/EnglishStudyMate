@@ -1,0 +1,30 @@
+{
+  "id": "hold-up_c332f06d",
+  "expression": "hold up",
+  "selectionMeta": {
+    "selectedPhrase": "hold up",
+    "selectedSenseLabelKo": "지연시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A broken traffic signal held up the morning commute for over an hour."
+  },
+  "step2": {
+    "story": "The delivery was supposed to arrive by noon, but a customs issue held it up for two extra days. The client was disappointed but understanding.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "The entire film production was held up for a week when the lead actress caught a cold. Sets were built, costumes were ready, and the crew waited with nothing to do. The director used the time to rework a few scenes in the script. When filming finally resumed, some of the changes turned out to be improvements.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "진행이나 이동을 지연시키다; 버티거나 잘 견디다.",
+    "realUsageKo": "배송, 교통, 일정 등이 지연될 때 씁니다. 또는 어려운 상황에서 잘 버틴다는 뜻으로도 씁니다.",
+    "etymologyKo": "hold(잡다, 유지하다)와 up(위로, 앞으로)이 결합하여 앞으로 나아가지 못하게 잡아두거나 버틴다는 의미가 되었습니다.",
+    "nuanceKo": "지연의 의미로 쓸 때는 수동적으로 발생하는 상황에 자주 씁니다. 잘 버티다의 뜻으로도 씁니다.",
+    "shortExampleEn": "Sorry I'm late; the traffic held me up for almost forty minutes.",
+    "shortExampleKo": "늦어서 미안해요. 교통 때문에 40분이나 지연됐어요."
+  }
+}

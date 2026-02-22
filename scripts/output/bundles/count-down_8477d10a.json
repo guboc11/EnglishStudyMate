@@ -1,0 +1,30 @@
+{
+  "id": "count-down_8477d10a",
+  "expression": "count down",
+  "selectionMeta": {
+    "selectedPhrase": "count down",
+    "selectedSenseLabelKo": "카운트다운하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The crowd began to count down from ten as midnight approached."
+  },
+  "step2": {
+    "story": "The launch control team counted down in unison as the rocket stood ready on the pad. At zero, the engines ignited and the crowd erupted in cheers.",
+    "topicTag": "school friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "On the last day before summer vacation, the students in Room 12 made a paper countdown chain with links for every day left in the school year. Each morning, one student removed a link. As the chain got shorter, the excitement in the classroom grew louder. On the final day, the last link was torn off to a roar of celebration that the neighboring classrooms could hear clearly.",
+    "topicTag": "school friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "큰 숫자에서 작은 숫자로 숫자를 세며 어떤 순간을 기다리다.",
+    "realUsageKo": "행사 시작, 발사, 새해 등 특별한 순간을 앞두고 숫자를 거꾸로 셀 때 씁니다.",
+    "etymologyKo": "count(세다)와 down(아래로)이 결합하여 숫자를 아래로 내려가며 세는 것을 나타냅니다.",
+    "nuanceKo": "설렘이나 긴장감이 내포된 표현입니다. 명사형 countdown도 자주 씁니다.",
+    "shortExampleEn": "Everyone counted down to midnight and then cheered together.",
+    "shortExampleKo": "다들 자정까지 카운트다운하다가 함께 환호했어요."
+  }
+}

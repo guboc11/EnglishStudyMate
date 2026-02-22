@@ -1,0 +1,30 @@
+{
+  "id": "through-thick-and-thin_a126378f",
+  "expression": "through thick and thin",
+  "selectionMeta": {
+    "selectedPhrase": "through thick and thin",
+    "selectedSenseLabelKo": "어떤 상황에서도",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They have been friends through thick and thin for over thirty years."
+  },
+  "step2": {
+    "story": "The business partners had survived two recessions, a failed product launch, and a public relations crisis together. Through thick and thin, they had never seriously considered dissolving the company, because neither could imagine working with anyone else.",
+    "topicTag": "enduring partnership",
+    "moodTag": "loyal"
+  },
+  "step3": {
+    "story": "When the old coach retired after twenty-two years with the regional football club, the tribute video assembled by the players was less about wins and statistics and more about the years when there were almost no wins and the funding almost ran out. Several players talked about the seasons when they were terrible — really terrible — and the coach had shown up at every practice with the same calm intensity. Through thick and thin, he had treated the worst seasons with the same seriousness as the best ones. That consistency, they said, was what had taught them to compete. It was also what had kept them playing.",
+    "topicTag": "loyalty and dedication",
+    "moodTag": "deeply warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "두껍고 얇은 것 모두를 통해.",
+    "realUsageKo": "좋을 때나 나쁠 때나 어떤 어려운 상황에서도 함께함을 나타낼 때 씁니다.",
+    "etymologyKo": "울창한 숲(thick)과 듬성한 숲(thin) 모두를 헤쳐나가는 이미지에서 유래했습니다.",
+    "nuanceKo": "깊은 충성심과 변치 않는 지지를 표현하는 따뜻한 표현입니다.",
+    "shortExampleEn": "She stood by him through thick and thin.",
+    "shortExampleKo": "그녀는 어떤 상황에서도 그의 곁을 지켰어요."
+  }
+}

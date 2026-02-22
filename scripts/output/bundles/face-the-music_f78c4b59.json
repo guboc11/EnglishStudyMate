@@ -1,0 +1,30 @@
+{
+  "id": "face-the-music_f78c4b59",
+  "expression": "face the music",
+  "selectionMeta": {
+    "selectedPhrase": "face the music",
+    "selectedSenseLabelKo": "결과에 책임지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of hiding the budget overrun, the project manager finally had to face the music."
+  },
+  "step2": {
+    "story": "He had been avoiding his landlord's calls about the overdue rent for three weeks. Finally, he decided to face the music, knock on her door, and explain his situation honestly. She was more understanding than he had expected.",
+    "topicTag": "taking responsibility",
+    "moodTag": "nervous then relieved"
+  },
+  "step3": {
+    "story": "The promising young chef had been faking a culinary certification on her resume for two years. When the restaurant group expanded and HR conducted thorough background checks for all senior staff, the discrepancy appeared. She could have hoped it would not be noticed. Instead, she asked for a private meeting, told the truth, and offered to undergo formal certification immediately. The director respected her more for coming forward than for the fabrication she had come forward about. She kept her position and completed certification within six months. Facing the music had cost her almost nothing except the weeks of dread beforehand.",
+    "topicTag": "honesty and consequences",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "음악을 마주 보다.",
+    "realUsageKo": "피하고 싶은 결과나 비판을 용감하게 직면하고 책임질 때 씁니다.",
+    "etymologyKo": "군대에서 강등 의식 시 드럼 소리를 들으며 앞으로 나가야 했던 데서 유래했다는 설이 있습니다.",
+    "nuanceKo": "용기 있는 자기 책임감을 표현하는 긍정적 뉘앙스를 담습니다.",
+    "shortExampleEn": "It is time to face the music and admit the mistake.",
+    "shortExampleKo": "이제 결과를 받아들이고 실수를 인정할 때예요."
+  }
+}

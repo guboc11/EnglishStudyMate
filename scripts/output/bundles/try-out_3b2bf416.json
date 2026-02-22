@@ -1,0 +1,30 @@
+{
+  "id": "try-out_3b2bf416",
+  "expression": "try out",
+  "selectionMeta": {
+    "selectedPhrase": "try out",
+    "selectedSenseLabelKo": "시험해보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She wanted to try out the new recipe before serving it at the dinner party."
+  },
+  "step2": {
+    "story": "The company released a beta version of the app and asked a small group of users to try it out. The feedback they received helped fix three major issues before the public launch.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Adam had been curious about rock climbing for years but never dared to start. His coworker finally convinced him to try out the indoor wall on a Saturday morning. He fell off the first route four times in a row. But by the end of the session, he had made it to the top of the beginner route and was already planning his next visit.",
+    "topicTag": "weekend hobby",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 것이 실제로 잘 작동하거나 맞는지 테스트하거나 경험해보다.",
+    "realUsageKo": "새 제품, 방법, 활동을 직접 시험해볼 때 씁니다.",
+    "etymologyKo": "try(시도하다)와 out(완전히, 실제로)이 결합하여 실제로 써보거나 경험해본다는 의미가 되었습니다.",
+    "nuanceKo": "이론이 아닌 실제 경험을 통한 시험을 강조합니다. test와 비슷하지만 더 구어체적이고 능동적인 느낌입니다.",
+    "shortExampleEn": "I got a new blender and can't wait to try it out this weekend.",
+    "shortExampleKo": "새 블렌더를 사서 이번 주말에 써보고 싶어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "come-up_dd38add4",
+  "expression": "come up",
+  "selectionMeta": {
+    "selectedPhrase": "come up",
+    "selectedSenseLabelKo": "생기다, 나타나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Something unexpected came up at work and she had to cancel her evening plans."
+  },
+  "step2": {
+    "story": "They were about to leave for the airport when a last-minute problem came up with the reservation. They spent twenty frantic minutes on the phone sorting it out.",
+    "topicTag": "travel day",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Jake had carefully planned his whole Saturday around a long bike ride with friends. He had packed his bag the night before and woken up early. But just as he was heading out the door, an urgent message came up on his phone from his neighbor asking for help. He put his bike away and went next door instead.",
+    "topicTag": "weekend hobby",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "예상치 못한 일이 갑자기 생기다, 나타나다.",
+    "realUsageKo": "계획에 없던 일이 갑자기 발생했을 때 씁니다. 특히 미리 잡은 약속을 취소해야 할 때 자주 씁니다.",
+    "etymologyKo": "come(오다)과 up(위로, 나타남)이 결합하여 상황이 표면 위로 떠오른다는 의미가 되었습니다.",
+    "nuanceKo": "대부분 예상하지 못했던 일이 생겼음을 나타냅니다. 문제나 기회가 모두 come up할 수 있습니다.",
+    "shortExampleEn": "Sorry I missed the call; something came up suddenly at the office.",
+    "shortExampleKo": "전화 못 받아서 미안해요. 사무실에서 갑자기 일이 생겼어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "throw-in-the-towel_953716bf",
+  "expression": "throw in the towel",
+  "selectionMeta": {
+    "selectedPhrase": "throw in the towel",
+    "selectedSenseLabelKo": "포기하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of rejection letters, she finally threw in the towel on her novel and started fresh with a short story collection."
+  },
+  "step2": {
+    "story": "The small restaurant had fought through two lockdowns, a broken cooler, and a staff shortage. The owners sat at the empty bar after closing one Tuesday and admitted they were close to throwing in the towel. Then a loyal regular walked by the window and waved, and somehow they decided to keep going.",
+    "topicTag": "perseverance",
+    "moodTag": "exhausted but holding on"
+  },
+  "step3": {
+    "story": "Marcus had spent four years training for professional swimming. He had made sacrifices most people his age never had to consider — no late nights, restricted diet, daily predawn practices. After failing to qualify for the national trials for the second consecutive year, his coach gently suggested he consider other options. Marcus sat with it for a week, then made his peace with it. Throwing in the towel did not mean he had failed; it meant he had pushed further than most people dared and was choosing to move forward with that behind him. He retired quietly, started coaching, and found he loved it more than he had expected.",
+    "topicTag": "athletic career",
+    "moodTag": "bittersweet and mature"
+  },
+  "meaning": {
+    "literalMeaningKo": "수건을 던지다.",
+    "realUsageKo": "어떤 일을 더 이상 계속할 수 없어 포기할 때 씁니다.",
+    "etymologyKo": "권투에서 선수 측이 경기를 포기할 때 링 안으로 수건을 던지는 전통에서 유래했습니다.",
+    "nuanceKo": "패배를 인정하는 뉘앙스가 있지만, 지혜로운 포기를 뜻하는 맥락에서도 씁니다.",
+    "shortExampleEn": "Do not throw in the towel — you are so close.",
+    "shortExampleKo": "포기하지 마요 — 거의 다 왔어요."
+  }
+}

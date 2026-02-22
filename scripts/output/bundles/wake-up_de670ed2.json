@@ -1,0 +1,30 @@
+{
+  "id": "wake-up_de670ed2",
+  "expression": "wake up",
+  "selectionMeta": {
+    "selectedPhrase": "wake up",
+    "selectedSenseLabelKo": "잠에서 깨다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She woke up to the sound of birds singing cheerfully outside her open window."
+  },
+  "step2": {
+    "story": "The loud construction noise from the building next door woke up the entire family at seven in the morning. Even the dog lifted its sleepy head and looked around in confusion.",
+    "topicTag": "home",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Chris set three alarms for his important job interview, but somehow slept through all of them. He finally woke up when his roommate knocked hard on his bedroom door. The interview was in forty-five minutes and he lived thirty minutes away by bus. He jumped out of bed, grabbed his wrinkled suit, and ran for the bus stop without breakfast.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "수면 상태에서 의식이 돌아오며 잠에서 깨다.",
+    "realUsageKo": "자다가 깨어나는 순간을 묘사할 때 씁니다. 자연스럽게 깰 때나 무언가에 의해 깰 때 모두 씁니다.",
+    "etymologyKo": "wake(깨다)와 up(완전히, 강조)이 결합하여 완전히 깨다라는 의미를 강조합니다.",
+    "nuanceKo": "get up은 신체적으로 일어나는 것, wake up은 잠에서 정신이 드는 것입니다. 보통 wake up을 한 다음에 get up을 합니다.",
+    "shortExampleEn": "I woke up at 7 and felt surprisingly refreshed.",
+    "shortExampleKo": "7시에 잠에서 깼는데 놀랍도록 상쾌했어요."
+  }
+}

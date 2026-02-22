@@ -1,0 +1,30 @@
+{
+  "id": "make-a-commitment_2ba423f2",
+  "expression": "make a commitment",
+  "selectionMeta": {
+    "selectedPhrase": "make a commitment",
+    "selectedSenseLabelKo": "헌신하다, 약속하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before starting the project, each member made a commitment to see it through to the end."
+  },
+  "step2": {
+    "story": "Making a commitment publicly had always felt risky to her. She had learned, through experience, that the exposure was actually useful — it activated a social accountability that made follow-through more likely, and it clarified for herself what she was actually willing to be bound by.",
+    "topicTag": "accountability",
+    "moodTag": "deliberately vulnerable"
+  },
+  "step3": {
+    "story": "The organization had made a public commitment to reduce its carbon footprint by forty percent over five years. Skeptics had noted the absence of a clear mechanism when the commitment was announced. The organization acknowledged this and published a quarterly progress report — including the quarters where the numbers moved in the wrong direction. Making the commitment publicly had changed how internal decisions were made: initiatives were now evaluated partly against that target. The commitment had not guaranteed success, but it had changed the culture in ways that made success more likely.",
+    "topicTag": "organizational commitment",
+    "moodTag": "accountably ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "약속을 하다, 헌신을 선언하다.",
+    "realUsageKo": "어떤 일이나 관계에 전심으로 참여하거나 의무를 지겠다고 선언할 때 씁니다.",
+    "etymologyKo": "commit은 라틴어 committere(함께 보내다)에서 왔으며, 자신을 어떤 방향으로 묶어두는 이미지입니다.",
+    "nuanceKo": "promise보다 더 공식적이고 장기적인 의지를 함의합니다.",
+    "shortExampleEn": "They made a commitment to prioritize employee wellbeing.",
+    "shortExampleKo": "그들은 직원 복지를 우선시하겠다는 약속을 했어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "live-through_2bbe506a",
+  "expression": "live through",
+  "selectionMeta": {
+    "selectedPhrase": "live through",
+    "selectedSenseLabelKo": "살아내다, 견뎌내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had lived through three major economic crises and remained optimistic through all of them."
+  },
+  "step2": {
+    "story": "The old man had lived through the war as a child and rarely spoke about it. When he did, his voice became very quiet and his eyes looked far away.",
+    "topicTag": "family routine",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "After the earthquake, the small community spent months living through uncertainty. Schools were damaged, roads were broken, and many families were sharing temporary shelters. But neighbors helped neighbors, strangers shared food, and children still found ways to play. A year later, the town had rebuilt most of what was lost and grown closer in the process.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "힘들고 어려운 시간이나 사건을 겪으며 살아내다.",
+    "realUsageKo": "전쟁, 재난, 질병, 극심한 고난 등을 경험하며 살아남을 때 씁니다.",
+    "etymologyKo": "live(살다)와 through(통과하여, 처음부터 끝까지)가 결합하여 어려운 시간을 처음부터 끝까지 살아낸다는 의미가 되었습니다.",
+    "nuanceKo": "단순한 경험이 아니라 어렵고 힘든 것을 끝까지 버텨냈다는 뉘앙스가 강합니다.",
+    "shortExampleEn": "She lived through a lot of hardship but never lost her kindness.",
+    "shortExampleKo": "그녀는 많은 고난을 견뎌냈지만 친절함을 잃지 않았어요."
+  }
+}

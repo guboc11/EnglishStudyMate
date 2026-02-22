@@ -1,0 +1,30 @@
+{
+  "id": "look-up_626cd3e1",
+  "expression": "look up",
+  "selectionMeta": {
+    "selectedPhrase": "look up",
+    "selectedSenseLabelKo": "찾아보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She looked up the word \"eloquent\" in her dictionary before writing the opening of her speech."
+  },
+  "step2": {
+    "story": "During the meeting, someone mentioned a city that Alex had never heard of. He quietly looked it up on his phone and found it was a small historic town in southern Portugal.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "When Mia visited her grandmother, she noticed an old photograph of a woman in a military uniform on the bookshelf. Her grandmother did not remember who the woman was. Mia decided to look it up using a family history website she had heard about. Three days later, she discovered the woman was a nurse who had served bravely during the Second World War.",
+    "topicTag": "family routine",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "사전, 인터넷, 목록 등에서 단어나 정보를 찾아보다.",
+    "realUsageKo": "모르는 단어나 정보를 사전이나 검색엔진으로 확인할 때 씁니다.",
+    "etymologyKo": "look(보다)과 up(위로, 찾아서)이 결합하여 정보를 찾아 올려다보다에서 유래했으며, 지금은 검색한다는 뜻으로 씁니다.",
+    "nuanceKo": "모르는 정보를 적극적으로 탐색하는 행위를 나타내며, 디지털 검색과 전통적인 사전 찾기 모두에 씁니다.",
+    "shortExampleEn": "Just look it up online if you're not sure about the answer.",
+    "shortExampleKo": "답이 확실하지 않으면 온라인에서 찾아봐요."
+  }
+}

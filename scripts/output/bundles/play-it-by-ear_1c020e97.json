@@ -1,0 +1,30 @@
+{
+  "id": "play-it-by-ear_1c020e97",
+  "expression": "play it by ear",
+  "selectionMeta": {
+    "selectedPhrase": "play it by ear",
+    "selectedSenseLabelKo": "상황에 따라 임기응변하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We don't have a strict itinerary for the trip — we are just going to play it by ear."
+  },
+  "step2": {
+    "story": "The negotiation had gone off script within the first five minutes, and the sales team had to play it by ear for the rest of the two-hour meeting. Afterward, the lead said it was one of their best sessions precisely because it had been so unscripted.",
+    "topicTag": "flexible approach",
+    "moodTag": "adaptive"
+  },
+  "step3": {
+    "story": "The conference organizers had planned every session down to the minute. But when the keynote speaker's flight was cancelled the morning of the event, they had to play it by ear entirely. They promoted a panel that had originally been a breakout to the main stage, called in a local speaker who had presented the year before, and reorganized the schedule live on the conference app. Attendees barely noticed the change, and two of the improvised sessions received the highest ratings of the day. Planning was important, they concluded, but the ability to adapt was equally valuable.",
+    "topicTag": "event improvisation",
+    "moodTag": "calm under pressure"
+  },
+  "meaning": {
+    "literalMeaningKo": "악보 없이 귀로 연주하다.",
+    "realUsageKo": "미리 계획하지 않고 상황을 보며 즉흥적으로 대처할 때 씁니다.",
+    "etymologyKo": "음악에서 악보 없이 들은 대로 연주하는 기술에서 비롯되었습니다.",
+    "nuanceKo": "유연성을 긍정적으로 표현하며, 지나친 계획을 피하고 싶을 때도 씁니다.",
+    "shortExampleEn": "Let us just play it by ear and see how the day goes.",
+    "shortExampleKo": "그냥 상황 봐가면서 하루를 보내요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "look-out_bbe4ff33",
+  "expression": "look out",
+  "selectionMeta": {
+    "selectedPhrase": "look out",
+    "selectedSenseLabelKo": "조심하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The cyclist shouted a warning as he swerved around a child who had stepped into the path."
+  },
+  "step2": {
+    "story": "The trail was narrow and wet from last night's rain. The guide kept reminding everyone to look out for slippery patches and loose stones along the edge.",
+    "topicTag": "weekend hobby",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Gran always told her grandchildren to look out for each other at school. She said it every morning when they left the house and every evening when they returned. At first they rolled their eyes at the repeated advice. But one afternoon, when a younger student was being teased, the eldest grandchild stepped in without thinking twice. That evening, Gran just smiled and said nothing.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "위험에 대비하여 조심하다; 주의를 기울이다.",
+    "realUsageKo": "위험이나 위협이 있을 때 경고하거나 주의를 촉구할 때 씁니다. Watch out과 같은 뜻입니다.",
+    "etymologyKo": "look(보다)과 out(밖으로, 경계하여)이 결합하여 밖을 내다보며 조심한다는 의미가 되었습니다.",
+    "nuanceKo": "긴급 경고와 일반적인 조심 당부 모두에 씁니다. 상황에 따라 강도가 달라집니다.",
+    "shortExampleEn": "Look out for ice on the road this morning; it rained last night.",
+    "shortExampleKo": "어젯밤에 비가 왔으니 오늘 아침 도로의 빙판을 조심하세요."
+  }
+}

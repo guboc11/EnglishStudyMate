@@ -1,0 +1,30 @@
+{
+  "id": "like-two-peas-in-a-pod_3bf30cc2",
+  "expression": "like two peas in a pod",
+  "selectionMeta": {
+    "selectedPhrase": "like two peas in a pod",
+    "selectedSenseLabelKo": "매우 닮은, 늘 함께 붙어다니는",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My grandmother always said my mother and I were like two peas in a pod — same expressions, same stubborn streak."
+  },
+  "step2": {
+    "story": "The two engineers had worked together for seven years and had developed an almost telepathic shorthand. Their colleagues joked that they were like two peas in a pod — one started a sentence and the other finished it without looking up from the whiteboard.",
+    "topicTag": "close partnership",
+    "moodTag": "warm and affectionate"
+  },
+  "step3": {
+    "story": "Nobody could explain exactly when Lily and Sam had become best friends. They had sat next to each other on the first day of first grade and had never seemed to sit anywhere else. They dressed differently, listened to completely different music, and disagreed on almost every movie — yet they were like two peas in a pod in ways that mattered more: how they handled disappointment, how seriously they took fairness, how they showed up without being asked when the other one needed them. Their mothers joked that the friendship would outlast both families combined, and there was no reason to doubt it.",
+    "topicTag": "close friendship",
+    "moodTag": "warm and enduring"
+  },
+  "meaning": {
+    "literalMeaningKo": "하나의 꼬투리 안에 있는 두 개의 완두콩.",
+    "realUsageKo": "두 사람이 매우 비슷하거나 항상 함께 붙어 다닐 때 씁니다.",
+    "etymologyKo": "같은 꼬투리 안의 완두콩들이 크기와 모양이 거의 동일한 데서 유래했습니다.",
+    "nuanceKo": "애정 어린 비유로, 주로 외모나 성격이 비슷한 사람들 또는 매우 친밀한 사이를 묘사합니다.",
+    "shortExampleEn": "Those twins are like two peas in a pod.",
+    "shortExampleKo": "저 쌍둥이는 정말 판박이예요."
+  }
+}

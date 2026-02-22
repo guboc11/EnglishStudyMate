@@ -1,0 +1,30 @@
+{
+  "id": "lose-confidence_482e133f",
+  "expression": "lose confidence",
+  "selectionMeta": {
+    "selectedPhrase": "lose confidence",
+    "selectedSenseLabelKo": "자신감을 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three failed interviews in a row, he started to lose confidence in his abilities."
+  },
+  "step2": {
+    "story": "The writer had published her first novel to warm reviews. The second had been received quietly. By the third manuscript, she had lost so much confidence in her instincts that she rewrote the opening chapter eleven times and could not tell anymore which version was best.",
+    "topicTag": "creative doubt",
+    "moodTag": "quietly unraveling"
+  },
+  "step3": {
+    "story": "The team had been performing well until a string of external setbacks — delayed supplies, a key client pulling back, a product recall that turned out to be a false alarm but consumed two months of focus. Morale had dropped, and with it individual confidence. The manager noticed the change not in output but in the conversations people were no longer having: no one was proposing new approaches, no one was pushing back in meetings. She organized a retrospective not to review the setbacks but to map what the team had handled well during them. It was the first time in months they had seen their own competence clearly. Confidence, once lost, sometimes just needed a mirror to return.",
+    "topicTag": "team morale",
+    "moodTag": "rebuilding"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신감을 잃다.",
+    "realUsageKo": "자신의 능력이나 판단에 대한 믿음이 약해질 때 씁니다.",
+    "etymologyKo": "lose는 무언가를 점차 상실하는 과정을 나타내며, confidence와 결합해 내적 확신의 감소를 표현합니다.",
+    "nuanceKo": "일시적 상태부터 장기적 위기까지 다양한 강도로 씁니다.",
+    "shortExampleEn": "It is easy to lose confidence after repeated rejections.",
+    "shortExampleKo": "반복된 거절 후에는 자신감을 잃기 쉬워요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "look-down-on_6db6eb1a",
+  "expression": "look down on",
+  "selectionMeta": {
+    "selectedPhrase": "look down on",
+    "selectedSenseLabelKo": "무시하다, 경멸하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He never looked down on people who worked in service jobs because his mother had been a cleaner."
+  },
+  "step2": {
+    "story": "Some students at the new school looked down on the kids who rode the bus instead of being dropped off by car. One teacher noticed the attitude and addressed it directly during homeroom.",
+    "topicTag": "school friendship",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "When Elena first started working at the firm, a senior colleague looked down on her because of her age and her quiet manner. He rarely included her in discussions and sometimes spoke over her in meetings. But after she delivered a flawless analysis that saved an important client, his behavior changed noticeably. He never apologized directly, but he started addressing her by name.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람을 자신보다 낮게 보며 무시하거나 경멸하다.",
+    "realUsageKo": "타인을 열등하게 여기거나 업신여기는 태도를 표현할 때 씁니다.",
+    "etymologyKo": "look(보다)과 down(아래로)과 on(~에게)이 결합하여 아래를 내려다보듯 상대를 대한다는 의미가 되었습니다.",
+    "nuanceKo": "부정적인 태도를 나타내는 표현으로, 계층적이거나 오만한 태도를 묘사할 때 씁니다.",
+    "shortExampleEn": "You should never look down on others just because they are different from you.",
+    "shortExampleKo": "자신과 다르다고 해서 다른 사람을 무시해서는 안 돼요."
+  }
+}

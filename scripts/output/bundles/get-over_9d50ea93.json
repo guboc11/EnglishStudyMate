@@ -1,0 +1,30 @@
+{
+  "id": "get-over_9d50ea93",
+  "expression": "get over",
+  "selectionMeta": {
+    "selectedPhrase": "get over",
+    "selectedSenseLabelKo": "극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took her several months to get over the shock of losing her job."
+  },
+  "step2": {
+    "story": "Danny was terrified of speaking in public and avoided it whenever he could. With his teacher's help, he slowly started to get over his fear and eventually gave a short speech at assembly.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "After the long illness, Min spent weeks in bed feeling too weak to do anything. At first, he thought he would never get over it completely. But one morning, he woke up hungry and walked to the kitchen on his own. That small moment felt like the beginning of getting over the worst of it.",
+    "topicTag": "doctor visit",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "어려움, 슬픔, 충격, 질병 등을 이겨내고 회복하다.",
+    "realUsageKo": "감정적 충격이나 신체적 질병에서 회복할 때 씁니다. 한국어의 극복하다, 회복하다에 해당합니다.",
+    "etymologyKo": "get(도달하다)과 over(넘어서)가 결합하여 어려운 상황을 넘어서 나온다는 의미가 되었습니다.",
+    "nuanceKo": "힘든 상황을 완전히 극복하고 정상 상태로 돌아왔을 때 씁니다. 감정적 회복에 특히 자주 씁니다.",
+    "shortExampleEn": "It took a while, but she finally got over the breakup.",
+    "shortExampleKo": "시간이 걸렸지만, 그녀는 결국 이별을 극복했어요."
+  }
+}

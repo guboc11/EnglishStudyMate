@@ -1,0 +1,30 @@
+{
+  "id": "cut-to-the-chase_3ae6f453",
+  "expression": "cut to the chase",
+  "selectionMeta": {
+    "selectedPhrase": "cut to the chase",
+    "selectedSenseLabelKo": "요점으로 바로 가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We are running out of time, so let me cut to the chase — we need more funding."
+  },
+  "step2": {
+    "story": "After three slides of background context, the investor leaned forward and said, 'Please cut to the chase — what is the actual ask?' The founder nodded, closed the deck, and spoke from memory for two minutes straight.",
+    "topicTag": "pitch meeting",
+    "moodTag": "direct"
+  },
+  "step3": {
+    "story": "The department head had a reputation for long preambles before delivering news, good or bad. His team had learned to brace themselves through the historical context, the industry comparisons, and the philosophical framing before the actual point arrived. One day a new hire, four weeks into the job, politely interrupted mid-context and asked him to cut to the chase. The room held its breath. He paused, then laughed — genuinely. 'Fair enough,' he said, and delivered the news in one sentence. It was the clearest announcement he had ever made, and afterward he started every team meeting with the punchline.",
+    "topicTag": "communication style",
+    "moodTag": "humorously direct"
+  },
+  "meaning": {
+    "literalMeaningKo": "추격 장면으로 건너뛰다.",
+    "realUsageKo": "불필요한 서론 없이 바로 핵심으로 가자고 할 때 씁니다.",
+    "etymologyKo": "무성 영화 시대에 지루한 연애 장면을 건너뛰고 흥미진진한 추격 장면으로 넘어가라는 편집 지시에서 유래했습니다.",
+    "nuanceKo": "시간이 없거나 핵심을 피하는 상대에게 촉구할 때 씁니다.",
+    "shortExampleEn": "Let me cut to the chase — the answer is no.",
+    "shortExampleKo": "바로 말할게요 — 대답은 아니에요."
+  }
+}

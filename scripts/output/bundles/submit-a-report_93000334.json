@@ -1,0 +1,30 @@
+{
+  "id": "submit-a-report_93000334",
+  "expression": "submit a report",
+  "selectionMeta": {
+    "selectedPhrase": "submit a report",
+    "selectedSenseLabelKo": "보고서를 제출하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "All team leaders must submit a report by the end of the month."
+  },
+  "step2": {
+    "story": "She had submitted over two hundred reports in her career. The ones she was proudest of were the ones that said difficult things clearly, without softening the findings to the point of obscuring them. The ones she regretted were the ones she had made safe when they should have been honest.",
+    "topicTag": "professional integrity",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "The regulatory body required companies to submit an annual report on environmental compliance. Most companies submitted the minimum required disclosure. One company's sustainability officer began submitting reports that went beyond requirements — including data on metrics the regulation did not yet require, and narrative explanations of failures alongside successes. The practice drew initial skepticism from legal counsel and later became an industry reference point. When the regulation expanded its requirements two years later, the company was already compliant. Submitting reports honestly, the officer found, was less about the reports than about the culture of measurement they created.",
+    "topicTag": "corporate transparency",
+    "moodTag": "principled and proactive"
+  },
+  "meaning": {
+    "literalMeaningKo": "보고서를 제출하다.",
+    "realUsageKo": "공식적인 문서나 보고서를 기한 내에 제출할 때 씁니다.",
+    "etymologyKo": "submit은 라틴어 submittere(아래로 보내다)에서 왔으며, 권위자에게 문서를 올리는 이미지입니다.",
+    "nuanceKo": "hand in a report(더 구어적)와 유사하지만 submit은 공식·전문적 맥락에서 씁니다.",
+    "shortExampleEn": "Please submit your report before five o'clock on Friday.",
+    "shortExampleKo": "금요일 오후 5시 전에 보고서를 제출해 주세요."
+  }
+}

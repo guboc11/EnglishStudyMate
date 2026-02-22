@@ -1,0 +1,30 @@
+{
+  "id": "win-an-award_e9f9b314",
+  "expression": "win an award",
+  "selectionMeta": {
+    "selectedPhrase": "win an award",
+    "selectedSenseLabelKo": "상을 받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The documentary won an award at three international film festivals."
+  },
+  "step2": {
+    "story": "Winning the industry award had meant a lot to the team when they were building the product. Now that they had won one, the founder found that what she cared about most was the customer message she had read that same morning from a user who said it had changed how they worked.",
+    "topicTag": "recognition vs impact",
+    "moodTag": "grounded"
+  },
+  "step3": {
+    "story": "The local school had entered a robotics competition every year for five years and never advanced past the regional round. In the sixth year, a student who had struggled academically proposed a mechanism design that the team initially dismissed as too complicated. The teacher encouraged them to try it. The mechanism worked. They won the national award that year. At the ceremony, the teacher made sure the student stood in the center of the photograph. Winning the award mattered. Who got the credit mattered more.",
+    "topicTag": "student achievement",
+    "moodTag": "proud and generous"
+  },
+  "meaning": {
+    "literalMeaningKo": "상을 얻다.",
+    "realUsageKo": "대회나 시상식에서 상을 받을 때 씁니다.",
+    "etymologyKo": "win은 경쟁에서 얻다는 의미이며, receive an award(수상하다)와 달리 경쟁의 뉘앙스를 담습니다.",
+    "nuanceKo": "get an award(더 구어적)와 비슷하지만 win은 경쟁을 통해 얻었다는 의미를 강조합니다.",
+    "shortExampleEn": "She was thrilled to win an award for her debut novel.",
+    "shortExampleKo": "그녀는 데뷔 소설로 상을 받아 너무 기뻤어요."
+  }
+}

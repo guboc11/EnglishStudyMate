@@ -1,0 +1,30 @@
+{
+  "id": "sleep-on-it_f3c886b0",
+  "expression": "sleep on it",
+  "selectionMeta": {
+    "selectedPhrase": "sleep on it",
+    "selectedSenseLabelKo": "하룻밤 자고 결정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't sign anything today — sleep on it and see how you feel tomorrow morning."
+  },
+  "step2": {
+    "story": "The offer was generous and the timeline was tight, but something felt off. She decided to sleep on it before responding. By seven the next morning, the hesitation had crystallized into a clear no, and she did not regret it.",
+    "topicTag": "decision timing",
+    "moodTag": "measured"
+  },
+  "step3": {
+    "story": "The argument had been sharp and quick, the kind that leaves words hanging in the air before anyone processes what was said. Both friends went home without a resolution. The next morning, one of them texted simply: I think I should not have said what I said. The other replied: me neither. They had both slept on it, and in the sleep, the heat had cleared and the actual issue — buried under the argument — had become visible. They met for coffee that afternoon and solved what the fight had been about, not what it had been over.",
+    "topicTag": "resolving conflict",
+    "moodTag": "cooler and wiser"
+  },
+  "meaning": {
+    "literalMeaningKo": "그것 위에서 자다.",
+    "realUsageKo": "중요한 결정을 서두르지 않고 하룻밤 생각한 후 결정할 때 씁니다.",
+    "etymologyKo": "수면이 판단력을 회복시키고 감정을 가라앉혀 더 나은 결정을 돕는다는 오래된 지혜에서 나왔습니다.",
+    "nuanceKo": "충동적 결정을 막는 현명한 자제를 권고하는 표현입니다.",
+    "shortExampleEn": "It is a big decision — please sleep on it first.",
+    "shortExampleKo": "중요한 결정이에요 — 먼저 하룻밤 자고 생각해봐요."
+  }
+}

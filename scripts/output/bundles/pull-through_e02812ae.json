@@ -1,0 +1,30 @@
+{
+  "id": "pull-through_e02812ae",
+  "expression": "pull through",
+  "selectionMeta": {
+    "selectedPhrase": "pull through",
+    "selectedSenseLabelKo": "위기를 넘기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The doctor reassured the family that the patient would pull through with proper rest."
+  },
+  "step2": {
+    "story": "The startup had almost no money left and two key clients had just cancelled. The founder told her team they would pull through if everyone stayed focused for one more month. They did, and a new client signed on that Friday.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "After the accident, everyone waited anxiously while the surgeon operated. The family sat together in the hallway, saying almost nothing. Then the doctor came out, removed her mask, and said simply that he had pulled through. Someone started crying quietly. Someone else let out a long breath they had been holding for hours.",
+    "topicTag": "doctor visit",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "위험하거나 어려운 상황, 특히 질병이나 위기를 극복하고 회복하다.",
+    "realUsageKo": "심각한 질병이나 위기를 이겨내고 살아남거나 회복할 때 씁니다.",
+    "etymologyKo": "pull(당기다, 힘으로 나아가다)과 through(통과하여)가 결합하여 힘겹게 어려움을 헤치고 나온다는 의미가 되었습니다.",
+    "nuanceKo": "의학적 위기나 중대한 어려움을 겨우 극복했을 때의 안도감이 담긴 표현입니다.",
+    "shortExampleEn": "It was a serious surgery, but she pulled through without any complications.",
+    "shortExampleKo": "심각한 수술이었지만 그녀는 합병증 없이 위기를 넘겼어요."
+  }
+}

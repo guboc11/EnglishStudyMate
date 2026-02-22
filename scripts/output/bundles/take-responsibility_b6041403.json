@@ -1,0 +1,30 @@
+{
+  "id": "take-responsibility_b6041403",
+  "expression": "take responsibility",
+  "selectionMeta": {
+    "selectedPhrase": "take responsibility",
+    "selectedSenseLabelKo": "책임을 지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A good manager takes responsibility for their team's outcomes, not just the successes."
+  },
+  "step2": {
+    "story": "He had made the call that led to the failed product launch. He could have distributed the blame across the team. Instead, he stood in front of the company and said it was his decision and his to own. The room was quiet. Two people sent him private messages afterward saying it was the most respected thing they had seen a leader do in years.",
+    "topicTag": "leadership accountability",
+    "moodTag": "quietly courageous"
+  },
+  "step3": {
+    "story": "The philosophy of the program was simple: you take responsibility for what you can control, and you practice releasing what you cannot. For participants recovering from various forms of crisis, this distinction was not always obvious. Many spent months unable to separate the two. The facilitators did not rush the process. They had found that the willingness to take responsibility for one's own part — even a small part, even one easily dismissed as circumstantial — was often the first movement toward recovery. Not because it assigned blame, but because it assigned agency.",
+    "topicTag": "personal recovery",
+    "moodTag": "gently transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "책임을 지다.",
+    "realUsageKo": "자신의 행동이나 결정의 결과를 짊어질 때 씁니다.",
+    "etymologyKo": "take는 능동적으로 취하다는 의미로, 책임을 회피하지 않고 가져가는 이미지입니다.",
+    "nuanceKo": "accept responsibility보다 능동성이 강하며, 자발적으로 책임을 떠안는 뉘앙스입니다.",
+    "shortExampleEn": "She took responsibility for the scheduling error immediately.",
+    "shortExampleKo": "그녀는 즉시 일정 오류에 대한 책임을 졌어요."
+  }
+}

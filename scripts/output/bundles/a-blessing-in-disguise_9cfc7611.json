@@ -1,0 +1,30 @@
+{
+  "id": "a-blessing-in-disguise_9cfc7611",
+  "expression": "a blessing in disguise",
+  "selectionMeta": {
+    "selectedPhrase": "a blessing in disguise",
+    "selectedSenseLabelKo": "전화위복",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Losing that client was a blessing in disguise — it freed us to pursue a much better opportunity."
+  },
+  "step2": {
+    "story": "The flight cancellation stranded him in Lyon for an extra day. He wandered into a bookshop, bought a novel that changed how he thought about his work, and met the person who later became his closest collaborator. The delay had been a blessing in disguise from beginning to end.",
+    "topicTag": "unexpected gift",
+    "moodTag": "grateful in hindsight"
+  },
+  "step3": {
+    "story": "She had wanted the lead role badly and had prepared for weeks. When it went to someone else, she was devastated. She accepted a smaller supporting part instead, mostly to stay involved. During production, the lead's storyline was heavily cut due to budget changes, while the supporting character she played was expanded. By the opening night, her performance was what critics focused on. The rejection had been a blessing in disguise in the most concrete possible sense. She still felt the original sting, even then, but she had stopped pretending she was not grateful for how things had turned out.",
+    "topicTag": "career reversal",
+    "moodTag": "bittersweet and grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "변장한 축복.",
+    "realUsageKo": "처음에는 불행처럼 보였지만 결국 좋은 결과로 이어진 일을 가리킵니다.",
+    "etymologyKo": "18세기 영국 시에서 유래했으며, 겉으로는 나쁜 일이지만 실은 축복이라는 역설을 담습니다.",
+    "nuanceKo": "결과를 알고 난 후에 쓰는 표현이며, 역경의 긍정적 면모를 발견했을 때 씁니다.",
+    "shortExampleEn": "Getting rejected from that company was a blessing in disguise.",
+    "shortExampleKo": "그 회사에서 거절당한 게 전화위복이었어요."
+  }
+}

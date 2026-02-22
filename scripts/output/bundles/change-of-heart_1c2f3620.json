@@ -1,0 +1,30 @@
+{
+  "id": "change-of-heart_1c2f3620",
+  "expression": "change of heart",
+  "selectionMeta": {
+    "selectedPhrase": "change of heart",
+    "selectedSenseLabelKo": "마음이 바뀜",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He had always said he didn't want children, but he had a change of heart after meeting his partner."
+  },
+  "step2": {
+    "story": "The board had voted against the merger two months ago. When new financial projections came in, three members had a change of heart, and the vote was reconvened. The outcome was different the second time.",
+    "topicTag": "position reversal",
+    "moodTag": "shifting"
+  },
+  "step3": {
+    "story": "She had submitted her resignation and mentally started a new chapter. Her last two weeks were productive and warm — she trained her replacement carefully, finished every pending project, and said genuine goodbyes. Then, on her penultimate day, the department director had a long conversation with her about a new direction for the team that had not existed when she had decided to leave. She asked for the weekend to think. She had a change of heart quietly and completely, and she withdrew the resignation on Monday morning. Two years later she was leading the new direction herself. She thought about that last conversation often.",
+    "topicTag": "second thoughts",
+    "moodTag": "reflective and open"
+  },
+  "meaning": {
+    "literalMeaningKo": "마음의 변화.",
+    "realUsageKo": "이전과 다른 생각, 감정, 또는 결정을 갖게 되었을 때 씁니다.",
+    "etymologyKo": "마음(heart)이 감정과 의지의 중심이라는 오래된 개념에서 나온 표현입니다.",
+    "nuanceKo": "긍정적 변화와 부정적 변화 모두에 중립적으로 씁니다.",
+    "shortExampleEn": "She had a change of heart and decided to stay.",
+    "shortExampleKo": "그녀는 마음이 바뀌어 남기로 했어요."
+  }
+}

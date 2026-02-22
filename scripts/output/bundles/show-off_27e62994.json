@@ -1,0 +1,30 @@
+{
+  "id": "show-off_27e62994",
+  "expression": "show off",
+  "selectionMeta": {
+    "selectedPhrase": "show off",
+    "selectedSenseLabelKo": "과시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He showed off his new sneakers by walking slowly past the school entrance so everyone could notice."
+  },
+  "step2": {
+    "story": "Dana just got her driver's license and wanted the whole neighborhood to know. She drove past the park twice, waving at people she barely knew just to show off her new skill.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "At the school science fair, Kevin had built a small robot that could stack colorful blocks. He pressed the button again and again to make it perform in front of every passing student and parent. His teacher kindly told him once was enough, but Kevin could not help himself. He loved the sound of gasps and the word wow when he showed off his creation.",
+    "topicTag": "school friendship",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 능력, 소지품, 외모 등을 남에게 자랑하며 드러내다.",
+    "realUsageKo": "남들에게 인정받고 싶어서 의도적으로 자신의 장점이나 소유물을 드러낼 때 씁니다.",
+    "etymologyKo": "show(보여주다)와 off(분리, 강조)가 결합하여 특별히 꺼내서 보여준다는 의미가 되었습니다.",
+    "nuanceKo": "보통 약간 부정적인 뉘앙스를 지니며, 자랑이 지나치다는 느낌을 줄 수 있습니다. 어린아이나 어른 모두에게 사용합니다.",
+    "shortExampleEn": "He's always showing off his latest gadgets to anyone who will listen.",
+    "shortExampleKo": "그는 항상 새 기기들을 들어줄 사람 앞에서 과시해요."
+  }
+}

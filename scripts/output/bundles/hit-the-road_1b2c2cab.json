@@ -1,0 +1,30 @@
+{
+  "id": "hit-the-road_1b2c2cab",
+  "expression": "hit the road",
+  "selectionMeta": {
+    "selectedPhrase": "hit the road",
+    "selectedSenseLabelKo": "길을 나서다, 출발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We should hit the road by seven if we want to avoid rush-hour traffic."
+  },
+  "step2": {
+    "story": "After the long family breakfast, everyone started gathering coats and bags. Grandma hugged each child twice, and then her son said it was time to hit the road before the weather turned.",
+    "topicTag": "family farewell",
+    "moodTag": "warm and a little sad"
+  },
+  "step3": {
+    "story": "Sam had been talking about a cross-country road trip for three years. He had a list of routes, a ranked playlist, a cooler packed with snacks, and a slightly nervous co-pilot in the passenger seat. On the morning of departure, he sat in the driveway for two minutes just gripping the steering wheel. Then he put the car in reverse and decided they were finally going to hit the road. The traffic out of the city was terrible and the first motel smelled like old carpet, but none of that mattered much once the highway opened up and the music played.",
+    "topicTag": "road trip",
+    "moodTag": "excited and free"
+  },
+  "meaning": {
+    "literalMeaningKo": "도로를 치다.",
+    "realUsageKo": "여행이나 외출을 위해 출발할 때 쓰는 친근한 구어 표현입니다.",
+    "etymologyKo": "1900년대 초 미국에서 자동차가 보급되면서 생겨난 표현입니다.",
+    "nuanceKo": "구어체이며 출발에 대한 활기차거나 설레는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Let us hit the road before it gets dark.",
+    "shortExampleKo": "어두워지기 전에 출발해요."
+  }
+}

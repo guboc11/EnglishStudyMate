@@ -1,0 +1,30 @@
+{
+  "id": "break-out_7a84b927",
+  "expression": "break out",
+  "selectionMeta": {
+    "selectedPhrase": "break out",
+    "selectedSenseLabelKo": "발생하다, 탈출하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A small fire broke out in the kitchen of the restaurant during the busy dinner service."
+  },
+  "step2": {
+    "story": "Chaos broke out at the concert when the sound system failed and the crowd started pushing toward the exit. Security staff quickly restored order.",
+    "topicTag": "weekend hobby",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "During the outdoor market, a sudden argument broke out between two vendors over a parking space. Voices got louder and a small crowd gathered to watch. A nearby shop owner stepped in and calmly suggested a solution. Both vendors agreed, the crowd dispersed, and the market went on as normal.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "화재, 싸움, 질병 등이 갑자기 발생하다; 갇힌 곳에서 탈출하다.",
+    "realUsageKo": "예상치 못한 사건이 갑자기 시작될 때 씁니다. 전쟁, 화재, 폭동 등 부정적인 사건에 자주 씁니다.",
+    "etymologyKo": "break(터지다, 깨다)와 out(밖으로)이 결합하여 억제되어 있던 것이 밖으로 터져나온다는 의미가 되었습니다.",
+    "nuanceKo": "갑작스러운 발생이 핵심 뉘앙스입니다. 탈출의 의미로 쓸 때는 break out of ~의 형태로 씁니다.",
+    "shortExampleEn": "A fight broke out in the parking lot after the game ended.",
+    "shortExampleKo": "경기가 끝난 후 주차장에서 싸움이 벌어졌어요."
+  }
+}

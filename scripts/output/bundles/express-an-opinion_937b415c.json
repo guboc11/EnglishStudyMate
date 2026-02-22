@@ -1,0 +1,30 @@
+{
+  "id": "express-an-opinion_937b415c",
+  "expression": "express an opinion",
+  "selectionMeta": {
+    "selectedPhrase": "express an opinion",
+    "selectedSenseLabelKo": "의견을 표현하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Everyone on the panel was invited to express an opinion before a decision was made."
+  },
+  "step2": {
+    "story": "He was known for expressing his opinions clearly and without apology, which people either found refreshing or exhausting depending on whether they agreed with him at the time.",
+    "topicTag": "personal communication",
+    "moodTag": "distinctly direct"
+  },
+  "step3": {
+    "story": "The participatory design process had been built on a simple premise: the people who would use the space should express their opinions about it before it was built, not after. The architects had found this process uncomfortable at first — feedback from non-experts was noisy and sometimes contradictory. But the building that resulted had been used differently, more intensely, and with more apparent satisfaction than any they had designed without it. The opinions expressed by future users had contained information that no expert model had captured.",
+    "topicTag": "participatory design",
+    "moodTag": "humbly validated"
+  },
+  "meaning": {
+    "literalMeaningKo": "의견을 표현하다.",
+    "realUsageKo": "자신의 생각이나 관점을 말이나 글로 나타낼 때 씁니다.",
+    "etymologyKo": "express는 라틴어 exprimere(짜내다)에서 왔으며, 내부의 생각을 외부로 표현하는 이미지입니다.",
+    "nuanceKo": "give an opinion보다 약간 더 격식적이며, 공식적인 맥락에서 자주 씁니다.",
+    "shortExampleEn": "You are always free to express an opinion in this space.",
+    "shortExampleKo": "이 자리에서는 언제든 의견을 표현할 수 있어요."
+  }
+}

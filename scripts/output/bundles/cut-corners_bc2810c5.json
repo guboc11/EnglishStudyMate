@@ -1,0 +1,30 @@
+{
+  "id": "cut-corners_bc2810c5",
+  "expression": "cut corners",
+  "selectionMeta": {
+    "selectedPhrase": "cut corners",
+    "selectedSenseLabelKo": "대충 처리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The building collapsed because the contractor had cut corners on the foundation materials."
+  },
+  "step2": {
+    "story": "Management pushed for the product to launch a month early. The engineering team warned that cutting corners on testing would lead to bugs, but the pressure was too great to resist.",
+    "topicTag": "quality vs speed",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The catering company had built its reputation on careful, hand-crafted food. When they started taking on twice the number of events per weekend, the chef noticed the team was beginning to cut corners — using pre-made sauces, skipping resting time on the meat, rushing plating. Complaints followed within a month. The owner sat the team down and made a choice: fewer events, done properly, rather than more events done badly. It cost them short-term revenue but saved the brand they had spent eight years building.",
+    "topicTag": "quality standards",
+    "moodTag": "sobering"
+  },
+  "meaning": {
+    "literalMeaningKo": "모서리를 자르다.",
+    "realUsageKo": "시간이나 비용을 아끼기 위해 품질이나 절차를 희생시킬 때 씁니다.",
+    "etymologyKo": "커브 길에서 안쪽 모서리를 가로질러 가는 지름길 운전에서 유래했습니다.",
+    "nuanceKo": "부정적인 의미가 강하며, 결과적으로 문제를 일으키는 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "We cannot cut corners when safety is at stake.",
+    "shortExampleKo": "안전이 걸린 문제에서는 대충 할 수 없어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "conduct-research_222b7125",
+  "expression": "conduct research",
+  "selectionMeta": {
+    "selectedPhrase": "conduct research",
+    "selectedSenseLabelKo": "연구를 수행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The university team conducted research on sleep patterns across different age groups."
+  },
+  "step2": {
+    "story": "Before launching the product, they conducted research with actual users rather than relying on assumptions. The findings overturned three decisions the team had been confident about, and the product that shipped was significantly better for it.",
+    "topicTag": "user research",
+    "moodTag": "grounded in evidence"
+  },
+  "step3": {
+    "story": "The journalist had spent eight months conducting research for an investigation into water quality in rural communities. Most of the work was not glamorous: document requests, phone calls that went unreturned, spreadsheets of test results, and interviews with residents who were skeptical of outside interest in their situation. The final piece ran at seven thousand words. The research file behind it was closer to a hundred thousand. She measured the value of the work not by the word count but by the policy change the piece contributed to six months after publication.",
+    "topicTag": "investigative journalism",
+    "moodTag": "patient and purposeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "연구를 수행하다.",
+    "realUsageKo": "체계적으로 정보를 조사하고 분석할 때 씁니다.",
+    "etymologyKo": "conduct는 이끌다, 수행하다는 의미이며 격식적인 활동에 씁니다. do research보다 공식적입니다.",
+    "nuanceKo": "학술·과학·저널리즘 맥락에서 주로 씁니다. do research는 더 구어적입니다.",
+    "shortExampleEn": "They conducted research in five countries over three years.",
+    "shortExampleKo": "그들은 3년에 걸쳐 5개국에서 연구를 수행했어요."
+  }
+}

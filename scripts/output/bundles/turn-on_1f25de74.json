@@ -1,0 +1,30 @@
+{
+  "id": "turn-on_1f25de74",
+  "expression": "turn on",
+  "selectionMeta": {
+    "selectedPhrase": "turn on",
+    "selectedSenseLabelKo": "켜다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She turned on the small lamp beside her bed and started reading her novel."
+  },
+  "step2": {
+    "story": "It was a cold winter morning and the entire house felt freezing. Dad turned on the heater as soon as he came downstairs in his slippers, and within a few minutes the living room grew comfortably warm.",
+    "topicTag": "home",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When the family arrived at their rented vacation cabin, everything inside looked dark and a little dusty. The kids immediately rushed around turning on every light in every room. Mom found an old radio in the kitchen and turned it on; it played a cheerful folk song. Soon the cabin felt alive and full of energy, ready for the weekend ahead.",
+    "topicTag": "travel day",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "전기 기기나 장치의 전원을 켜다.",
+    "realUsageKo": "전등, TV, 히터 등 전자기기의 전원을 켤 때 사용하는 가장 기본적인 표현입니다.",
+    "etymologyKo": "turn(돌리다)과 on(작동)이 결합하여 스위치를 돌려 전원을 넣는다는 의미가 되었습니다.",
+    "nuanceKo": "turn off의 반대말로 세트로 익히면 좋습니다. switch on과 의미가 같으며 일상에서 더 자주 씁니다.",
+    "shortExampleEn": "Could you turn on the fan? It is really hot in here.",
+    "shortExampleKo": "선풍기 좀 켜줄 수 있어요? 여기 너무 더워요."
+  }
+}

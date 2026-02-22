@@ -1,0 +1,30 @@
+{
+  "id": "steady-progress_9dc69fde",
+  "expression": "steady progress",
+  "selectionMeta": {
+    "selectedPhrase": "steady progress",
+    "selectedSenseLabelKo": "꾸준한 진전",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The rehabilitation took longer than expected, but she made steady progress every week."
+  },
+  "step2": {
+    "story": "The project manager updated the stakeholders monthly with the same phrase: steady progress. It was honest, unexciting, and reassuring in exactly the right proportion. She had learned that the updates people trusted most were the boring ones that arrived on schedule and said what was true.",
+    "topicTag": "project management",
+    "moodTag": "reliably measured"
+  },
+  "step3": {
+    "story": "The school had been labeled failing five years earlier. Test scores were low, teacher turnover was high, and the community had largely stopped expecting improvement. The new principal had not arrived with a dramatic turnaround plan. She arrived with a framework: identify what was working, protect it, and build outward from there. Five years later, the school had made steady progress on every indicator without a single dramatic intervention. Journalists who came to write the story found it harder to tell than expected — steady progress, it turned out, did not have a compelling narrative arc. It only had results.",
+    "topicTag": "school improvement",
+    "moodTag": "quietly transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "꾸준한 진전.",
+    "realUsageKo": "빠르지는 않지만 지속적으로 나아가는 상황을 묘사할 때 씁니다.",
+    "etymologyKo": "steady는 흔들리지 않고 일정하다는 의미로, 급격하지는 않지만 지속적인 전진을 표현합니다.",
+    "nuanceKo": "slow but steady progress(느리지만 꾸준한 진전)처럼 자주 씁니다.",
+    "shortExampleEn": "The team reported steady progress despite the challenges.",
+    "shortExampleKo": "팀은 어려움에도 꾸준한 진전을 보고했어요."
+  }
+}

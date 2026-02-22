@@ -1,0 +1,30 @@
+{
+  "id": "add-fuel-to-the-fire_0def0f1c",
+  "expression": "add fuel to the fire",
+  "selectionMeta": {
+    "selectedPhrase": "add fuel to the fire",
+    "selectedSenseLabelKo": "불난 데 기름 붓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His dismissive comment only added fuel to the fire and the argument escalated quickly."
+  },
+  "step2": {
+    "story": "The team was already tense after the deadline was moved. When the manager casually mentioned in the group chat that the client was also asking for a scope increase, it added fuel to the fire and the complaints flooded in.",
+    "topicTag": "team tension",
+    "moodTag": "escalating"
+  },
+  "step3": {
+    "story": "The neighborhood dispute had started over a parking spot and had grown into a months-long silent war of passive-aggressive notes and security cameras pointed at strange angles. Then one neighbor posted a photo of the other's car on the local social media group, with a pointed caption about inconsiderate parking. The comments poured in. Dozens of strangers picked sides. It added fuel to the fire so completely that the original parking issue was forgotten entirely, buried under the weight of a community feud that had taken on its own life.",
+    "topicTag": "conflict escalation",
+    "moodTag": "tense and a little absurd"
+  },
+  "meaning": {
+    "literalMeaningKo": "불에 연료를 추가하다.",
+    "realUsageKo": "이미 나쁜 상황이나 갈등을 더욱 악화시킬 때 씁니다.",
+    "etymologyKo": "불에 기름이나 연료를 더하면 더 크게 타오르는 자연적 원리에서 나온 비유입니다.",
+    "nuanceKo": "의도적으로 또는 부주의하게 상황을 악화시키는 모든 행동에 씁니다.",
+    "shortExampleEn": "Posting that comment just added fuel to the fire.",
+    "shortExampleKo": "그 댓글을 올린 건 그냥 불난 데 기름 붓는 격이었어요."
+  }
+}

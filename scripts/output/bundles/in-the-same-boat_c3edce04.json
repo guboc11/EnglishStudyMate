@@ -1,0 +1,30 @@
+{
+  "id": "in-the-same-boat_c3edce04",
+  "expression": "in the same boat",
+  "selectionMeta": {
+    "selectedPhrase": "in the same boat",
+    "selectedSenseLabelKo": "같은 처지에 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We are all in the same boat when it comes to dealing with the new regulations."
+  },
+  "step2": {
+    "story": "Every freelancer in the room had seen their project pipeline dry up during the economic slowdown. The facilitator reminded them they were all in the same boat — and that sharing strategies might help them all stay afloat.",
+    "topicTag": "shared difficulty",
+    "moodTag": "solidarity"
+  },
+  "step3": {
+    "story": "When the factory announced it would close its regional plant, three hundred families were suddenly in the same boat. They came from different shifts, departments, and backgrounds, but the uncertainty ahead united them in a way that years of working alongside each other never quite had. A small group started a mutual aid fund. Another organized retraining workshops. The closure was devastating, but the shared situation became the foundation of something genuinely collaborative.",
+    "topicTag": "community in crisis",
+    "moodTag": "difficult but united"
+  },
+  "meaning": {
+    "literalMeaningKo": "같은 배 안에 있다.",
+    "realUsageKo": "여러 사람이 동일한 어려운 상황이나 조건에 처해 있음을 나타낼 때 씁니다.",
+    "etymologyKo": "고대부터 사용된 항해 비유로, 같은 배에 탄 사람들은 같은 위험을 공유한다는 데서 유래했습니다.",
+    "nuanceKo": "공감과 연대를 표현하는 맥락에서 주로 쓰이며, 혼자가 아니라는 위로의 의미를 담습니다.",
+    "shortExampleEn": "We are all in the same boat with this deadline.",
+    "shortExampleKo": "우리 모두 이 마감 때문에 같은 처지예요."
+  }
+}

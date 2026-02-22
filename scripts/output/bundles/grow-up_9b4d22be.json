@@ -1,0 +1,30 @@
+{
+  "id": "grow-up_9b4d22be",
+  "expression": "grow up",
+  "selectionMeta": {
+    "selectedPhrase": "grow up",
+    "selectedSenseLabelKo": "성장하다, 어른이 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She grew up in a small coastal town where everyone knew everyone."
+  },
+  "step2": {
+    "story": "When people ask David what he wants to be when he grows up, he always says an astronaut. His parents smile and buy him books about space every birthday.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Growing up, Mei shared a small bedroom with her two sisters and a single bookshelf they all used together. There was never much space but somehow never a dull moment. Now that they all live in different cities, she looks back on those cramped evenings as some of the warmest memories of her life.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "어린이에서 어른으로 성장하다; 나이를 먹고 성숙해지다.",
+    "realUsageKo": "어린 시절부터 어른이 되는 과정이나 자라난 환경을 묘사할 때 씁니다.",
+    "etymologyKo": "grow(자라다)와 up(위로, 완성)이 결합하여 위로 자라 완전한 어른이 된다는 의미가 되었습니다.",
+    "nuanceKo": "어린이의 성장 과정을 나타낼 때 가장 많이 씁니다. 어른에게 철 좀 들어라는 뉘앙스로 쓰기도 합니다.",
+    "shortExampleEn": "I grew up in Seoul but moved abroad when I was eighteen.",
+    "shortExampleKo": "서울에서 자랐지만 열여덟 살 때 해외로 이사했어요."
+  }
+}

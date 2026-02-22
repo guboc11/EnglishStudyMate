@@ -1,0 +1,30 @@
+{
+  "id": "bite-the-dust_af49f16b",
+  "expression": "bite the dust",
+  "selectionMeta": {
+    "selectedPhrase": "bite the dust",
+    "selectedSenseLabelKo": "실패하다, 쓰러지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Three of the most hyped startups from last year have already bitten the dust."
+  },
+  "step2": {
+    "story": "His ambitious plan to open three restaurants in one year bit the dust when the first location failed to break even after eight months. He regrouped, closed the site quietly, and focused everything on making location two work.",
+    "topicTag": "business failure",
+    "moodTag": "deflated then regrouped"
+  },
+  "step3": {
+    "story": "The streaming platform had launched with significant fanfare and an impressive roster of original content. Within eighteen months, subscriber growth had flatlined, content costs had ballooned, and the parent company had begun quiet conversations about divestiture. When the shutdown was announced, the industry reaction was less surprise than recognition — several analysts noted that the service had entered a saturated market without a sufficiently differentiated value proposition. It had bitten the dust in the way that well-funded, well-intentioned ventures sometimes do: not from lack of effort, but from lack of a reason to exist that was compelling enough to sustain.",
+    "topicTag": "company failure",
+    "moodTag": "sobering industry lesson"
+  },
+  "meaning": {
+    "literalMeaningKo": "먼지를 물다.",
+    "realUsageKo": "어떤 사람, 계획, 또는 사업이 완전히 실패하거나 무너질 때 씁니다.",
+    "etymologyKo": "전쟁이나 결투에서 쓰러져 땅에 얼굴을 대는 이미지에서 유래했습니다.",
+    "nuanceKo": "돌이키기 어려운 실패나 종말을 묘사하며, 때로는 가볍고 유머러스하게도 씁니다.",
+    "shortExampleEn": "Another overhyped app has bitten the dust.",
+    "shortExampleKo": "또 과대평가됐던 앱 하나가 사라졌네요."
+  }
+}

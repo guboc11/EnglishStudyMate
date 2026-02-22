@@ -1,0 +1,30 @@
+{
+  "id": "the-best-of-both-worlds_a52d8577",
+  "expression": "the best of both worlds",
+  "selectionMeta": {
+    "selectedPhrase": "the best of both worlds",
+    "selectedSenseLabelKo": "두 가지 장점을 모두 누리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Working remotely with occasional office days gives me the best of both worlds."
+  },
+  "step2": {
+    "story": "The hybrid school program let students attend in person three days a week and study flexibly the other two. Parents who had been skeptical said their kids were getting the best of both worlds — structure and independence.",
+    "topicTag": "education model",
+    "moodTag": "positive"
+  },
+  "step3": {
+    "story": "After years of debate, the city approved a development plan for the old riverside district that preserved the historic warehouses as public arts space while building modern apartments above and behind them. Preservationists and developers had both expected to lose something in the compromise, but the result genuinely surprised everyone. The neighborhood retained its character and gained much-needed housing — the best of both worlds, as the mayor put it in her announcement. The phrase felt accurate for once.",
+    "topicTag": "urban planning",
+    "moodTag": "pleasantly surprised"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 세계의 최선.",
+    "realUsageKo": "두 가지 선택지의 장점을 동시에 누릴 수 있을 때 씁니다.",
+    "etymologyKo": "볼테르의 소설 캉디드에 나오는 철학적 표현에서 영향을 받았으며, 현대에는 일상적인 균형을 의미합니다.",
+    "nuanceKo": "긍정적이고 만족스러운 상황을 묘사하며, trade-off 없이 두 가지를 모두 얻을 때 씁니다.",
+    "shortExampleEn": "This location offers the best of both worlds — city access and quiet streets.",
+    "shortExampleKo": "이 위치는 두 가지 장점을 모두 누릴 수 있어요 — 도심 접근성과 조용한 거리."
+  }
+}

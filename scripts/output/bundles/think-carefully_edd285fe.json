@@ -1,0 +1,30 @@
+{
+  "id": "think-carefully_edd285fe",
+  "expression": "think carefully",
+  "selectionMeta": {
+    "selectedPhrase": "think carefully",
+    "selectedSenseLabelKo": "신중하게 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Think carefully before making any changes to the live database."
+  },
+  "step2": {
+    "story": "She had always been told to think carefully before speaking, which she did. What she had not been taught was how to think carefully while speaking — how to reason in real time in front of others without retreating into silence. That was the skill she had spent her thirties building.",
+    "topicTag": "communication",
+    "moodTag": "developing with intention"
+  },
+  "step3": {
+    "story": "The decision had seemed straightforward at first. After thinking carefully for a week, it had become less straightforward but more clearly right. The complexity that emerged during careful thought was not noise — it was information the quick assessment had missed. She had learned to distrust decisions that looked easy after only a brief look. Not every hard-looking thing was genuinely hard, but every genuinely hard thing required enough careful thought to find the real shape of the difficulty.",
+    "topicTag": "decision making",
+    "moodTag": "deliberately thorough"
+  },
+  "meaning": {
+    "literalMeaningKo": "신중하게 생각하다.",
+    "realUsageKo": "어떤 일을 하거나 말하기 전에 충분한 시간을 들여 숙고할 때 씁니다.",
+    "etymologyKo": "carefully는 care(주의, 배려)에서 나온 부사로, 서두르지 않고 주의를 기울이는 과정을 표현합니다.",
+    "nuanceKo": "consider carefully와 유사하며, 성급함의 반대를 나타냅니다.",
+    "shortExampleEn": "Think carefully about the long-term consequences before deciding.",
+    "shortExampleKo": "결정하기 전에 장기적인 결과에 대해 신중하게 생각해봐요."
+  }
+}

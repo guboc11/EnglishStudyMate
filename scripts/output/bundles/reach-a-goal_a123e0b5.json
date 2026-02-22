@@ -1,0 +1,30 @@
+{
+  "id": "reach-a-goal_a123e0b5",
+  "expression": "reach a goal",
+  "selectionMeta": {
+    "selectedPhrase": "reach a goal",
+    "selectedSenseLabelKo": "목표에 도달하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Reaching your long-term goals often requires adjusting your short-term plans along the way."
+  },
+  "step2": {
+    "story": "The charity had set an ambitious fundraising goal and reached it with three days to spare. The executive director said the real achievement was not the number but the process — the way the community had rallied around a shared target.",
+    "topicTag": "fundraising",
+    "moodTag": "collectively proud"
+  },
+  "step3": {
+    "story": "He had set the goal of reading fifty books in a year. By October he had read thirty-one and was behind pace. He considered dropping the target. Instead he reflected on what the goal had actually produced: a habit of reading daily that he had never managed before, a wider range of topics than he would have chosen without the challenge, and conversations sparked by books he would not have otherwise touched. He reached forty-four by December thirty-first. He had not reached the goal as stated. He had reached something more durable.",
+    "topicTag": "personal challenge",
+    "moodTag": "honest and content"
+  },
+  "meaning": {
+    "literalMeaningKo": "목표에 닿다.",
+    "realUsageKo": "설정한 목표를 달성했을 때 씁니다.",
+    "etymologyKo": "reach는 물리적으로 손을 뻗어 닿는 이미지에서 비유적으로 목표 달성을 표현합니다.",
+    "nuanceKo": "achieve a goal, meet a goal과 유사합니다. reach는 여정 끝에 도달하는 느낌을 강조합니다.",
+    "shortExampleEn": "She reached her fitness goal after six months of training.",
+    "shortExampleKo": "그녀는 6개월 훈련 끝에 건강 목표를 달성했어요."
+  }
+}

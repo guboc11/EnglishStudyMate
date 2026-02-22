@@ -1,0 +1,30 @@
+{
+  "id": "open-mind_ffb19285",
+  "expression": "open mind",
+  "selectionMeta": {
+    "selectedPhrase": "open mind",
+    "selectedSenseLabelKo": "열린 마음",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She approached the unfamiliar culture with an open mind and came back changed."
+  },
+  "step2": {
+    "story": "He prided himself on having an open mind until someone actually challenged a core assumption and he realized his openness had been conditional — he was receptive to new ideas that did not cost him anything significant to consider.",
+    "topicTag": "self-awareness",
+    "moodTag": "honestly humbled"
+  },
+  "step3": {
+    "story": "The design firm had a hiring criterion that rarely appeared in job descriptions: openness. Not optimism, not agreeableness, but a genuine capacity to hold one's own perspective loosely enough to revise it when evidence or argument warranted. Interviewers tested for it by describing a real past decision the firm had made and asking candidates to argue for the opposite position. Candidates who could do this fluently and without visible discomfort tended to perform better in collaborative creative environments than those who could not. An open mind, the partners had found, was not a personality trait. It was a professional skill.",
+    "topicTag": "hiring",
+    "moodTag": "practically valued"
+  },
+  "meaning": {
+    "literalMeaningKo": "열린 마음.",
+    "realUsageKo": "새로운 아이디어나 다른 관점을 기꺼이 받아들이려는 태도를 묘사합니다.",
+    "etymologyKo": "open은 닫히지 않고 접근 가능한 상태를 의미하며, 고정관념 없이 수용적인 마음을 표현합니다.",
+    "nuanceKo": "keep/have an open mind처럼 씁니다. 지적 겸손과 유연성을 나타냅니다.",
+    "shortExampleEn": "Try to keep an open mind during the presentation.",
+    "shortExampleKo": "발표 중에 열린 마음을 유지해봐요."
+  }
+}

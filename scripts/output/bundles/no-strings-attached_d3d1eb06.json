@@ -1,0 +1,30 @@
+{
+  "id": "no-strings-attached_d3d1eb06",
+  "expression": "no strings attached",
+  "selectionMeta": {
+    "selectedPhrase": "no strings attached",
+    "selectedSenseLabelKo": "아무 조건 없이",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He offered to help with the move — no strings attached — just because they were neighbors."
+  },
+  "step2": {
+    "story": "The foundation awarded grants to early-stage artists with no strings attached. No reporting requirements, no final deliverables, no expectation of credit. Just money and time, given freely, with trust that the artists would use both well.",
+    "topicTag": "unconditional support",
+    "moodTag": "generous"
+  },
+  "step3": {
+    "story": "When the startup's lead investor declined to participate in the next round, a former colleague reached out with an unusual offer: a personal bridge loan, no strings attached, at zero interest, to be repaid when and if the company was financially able to do so. The founder initially refused, uncertain of the terms beneath the simple language. But after a week of consideration and a direct conversation that confirmed there truly were no hidden conditions, she accepted. The loan kept the company alive through a difficult quarter. When it was repaid eighteen months later, with a handwritten note, the lender framed it.",
+    "topicTag": "rare generosity",
+    "moodTag": "deeply moved"
+  },
+  "meaning": {
+    "literalMeaningKo": "달린 줄이 없다.",
+    "realUsageKo": "조건이나 기대, 의무 없이 순수하게 무언가를 제공할 때 씁니다.",
+    "etymologyKo": "꼭두각시 인형을 조종하는 줄에서 비유가 나왔으며, 줄이 없으면 통제가 없다는 의미입니다.",
+    "nuanceKo": "진심 어린 무조건적 제공임을 강조하며, 의심이나 조건에 대한 투명성을 담습니다.",
+    "shortExampleEn": "She gave the donation freely, no strings attached.",
+    "shortExampleKo": "그녀는 아무 조건 없이 자유롭게 기부했어요."
+  }
+}

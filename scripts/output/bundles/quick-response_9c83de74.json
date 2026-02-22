@@ -1,0 +1,30 @@
+{
+  "id": "quick-response_9c83de74",
+  "expression": "quick response",
+  "selectionMeta": {
+    "selectedPhrase": "quick response",
+    "selectedSenseLabelKo": "빠른 반응",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The customer praised the team's quick response to her complaint."
+  },
+  "step2": {
+    "story": "The crisis team had trained specifically for quick response in ambiguous situations — not because speed was always the right answer, but because delaying action while waiting for perfect information was a predictable failure mode in fast-moving situations. They practiced deciding quickly, communicating clearly, and adjusting as new information arrived.",
+    "topicTag": "crisis response",
+    "moodTag": "trained and decisive"
+  },
+  "step3": {
+    "story": "The startup had built its reputation on quick response times — emails answered within the hour, product bugs triaged within a day. As the company grew, maintaining that standard required explicit investment in support staffing and tooling. Two competitors had faster features. Neither had the same loyalty metrics. The founder noted in an interview that quick response was not just a customer service metric. It was a signal about how much the company valued the person on the other end.",
+    "topicTag": "customer experience",
+    "moodTag": "valuably intentional"
+  },
+  "meaning": {
+    "literalMeaningKo": "빠른 반응.",
+    "realUsageKo": "어떤 요청이나 상황에 신속하게 대응할 때 씁니다.",
+    "etymologyKo": "quick은 신속함을 의미하며, response(반응)와 결합해 지연 없는 대응을 표현합니다.",
+    "nuanceKo": "fast response와 유사하지만 quick은 더 자연스럽고 일반적으로 씁니다.",
+    "shortExampleEn": "A quick response can prevent a small issue from becoming a major crisis.",
+    "shortExampleKo": "빠른 반응이 작은 문제가 큰 위기로 번지는 것을 막을 수 있어요."
+  }
+}

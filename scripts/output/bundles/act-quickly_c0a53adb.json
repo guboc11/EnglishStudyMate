@@ -1,0 +1,30 @@
+{
+  "id": "act-quickly_c0a53adb",
+  "expression": "act quickly",
+  "selectionMeta": {
+    "selectedPhrase": "act quickly",
+    "selectedSenseLabelKo": "빠르게 행동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The fire crew acted quickly and contained the blaze before it spread to neighboring buildings."
+  },
+  "step2": {
+    "story": "She had learned to act quickly and document later — in her field, delay was its own form of harm. The instinct to gather more information before acting often protected the decision-maker more than it protected the situation.",
+    "topicTag": "emergency response",
+    "moodTag": "urgently decisive"
+  },
+  "step3": {
+    "story": "The product team had built in a rapid response protocol for critical user-reported issues: act quickly, communicate the action, refine afterward. The alternative — investigate thoroughly before responding — had burned them twice when the time needed for thorough investigation allowed a small issue to compound into a significant one. Acting quickly did not mean acting blindly: the protocol included a minimum information threshold and a review cycle. It meant accepting that good-enough-to-start was better than perfect-when-it-was-too-late.",
+    "topicTag": "product management",
+    "moodTag": "pragmatically calibrated"
+  },
+  "meaning": {
+    "literalMeaningKo": "빠르게 행동하다.",
+    "realUsageKo": "지체 없이 즉시 조치를 취할 때 씁니다.",
+    "etymologyKo": "quickly는 속도를 나타내는 부사로, act(행동하다)와 결합해 신속한 대응을 표현합니다.",
+    "nuanceKo": "respond quickly와 유사하지만 act는 더 능동적인 개입을 함의합니다.",
+    "shortExampleEn": "We need to act quickly before the situation gets worse.",
+    "shortExampleKo": "상황이 악화되기 전에 빠르게 행동해야 해요."
+  }
+}

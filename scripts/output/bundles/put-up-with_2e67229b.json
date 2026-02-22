@@ -1,0 +1,30 @@
+{
+  "id": "put-up-with_2e67229b",
+  "expression": "put up with",
+  "selectionMeta": {
+    "selectedPhrase": "put up with",
+    "selectedSenseLabelKo": "참다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had put up with the noise from the construction site for three months."
+  },
+  "step2": {
+    "story": "He had been putting up with the slow internet connection for a year before finally calling the provider. The technician fixed it in twenty minutes and he wondered why he had waited so long.",
+    "topicTag": "home",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "For most of his working life, James had quietly put up with a coworker who took credit for other people's ideas. He told himself it was not worth the conflict. But one morning, during a presentation, the coworker claimed an entire project that James had built alone. For the first time, James spoke up in front of the whole team. The room went quiet, then the manager asked for the facts.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "불편하거나 화나는 상황이나 사람을 불평 없이 참고 견디다.",
+    "realUsageKo": "싫거나 성가신 상황을 어쩔 수 없이 참을 때 씁니다. tolerate보다 구어체적입니다.",
+    "etymologyKo": "put(놓다)과 up(위로, 버티다)과 with(~와 함께)가 결합하여 불편한 것을 옆에 두고도 버텨낸다는 의미가 되었습니다.",
+    "nuanceKo": "어쩔 수 없이 참는다는 뉘앙스가 강합니다. 참는 사람이 불편하거나 지쳐있다는 느낌을 줍니다.",
+    "shortExampleEn": "How do you put up with all that noise every single day?",
+    "shortExampleKo": "매일 저 소음을 어떻게 참아요?"
+  }
+}

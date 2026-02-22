@@ -1,0 +1,30 @@
+{
+  "id": "pick-up_b9e335a0",
+  "expression": "pick up",
+  "selectionMeta": {
+    "selectedPhrase": "pick up",
+    "selectedSenseLabelKo": "집어들다, 향상되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She bent down to pick up the scarf that had fallen off the chair."
+  },
+  "step2": {
+    "story": "After months of struggling with Spanish, Tom noticed his skills were finally picking up. He could now hold short conversations without checking his phone dictionary.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The little girl dropped her crayon under the table during art class and could not reach it. Her classmate quietly crawled under and picked it up for her. She smiled and said thank you in a small voice. From that day on, they always sat next to each other.",
+    "topicTag": "school friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "바닥이나 낮은 곳에 있는 것을 손으로 집어 들다; 실력이나 속도가 향상되다.",
+    "realUsageKo": "물건을 집어드는 동작과 실력, 속도, 경기 등이 나아지는 상황 모두에 씁니다.",
+    "etymologyKo": "pick(집다)과 up(위로)이 결합하여 아래에 있는 것을 위로 올린다는 의미가 되었습니다.",
+    "nuanceKo": "물리적 동작과 비유적 향상 두 가지 의미가 모두 자연스럽게 쓰이는 표현입니다.",
+    "shortExampleEn": "Business has really picked up since we opened the new location.",
+    "shortExampleKo": "새 지점을 열고 나서 영업이 정말 좋아졌어요."
+  }
+}

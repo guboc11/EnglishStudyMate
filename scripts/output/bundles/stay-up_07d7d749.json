@@ -1,0 +1,30 @@
+{
+  "id": "stay-up_07d7d749",
+  "expression": "stay up",
+  "selectionMeta": {
+    "selectedPhrase": "stay up",
+    "selectedSenseLabelKo": "안 자고 깨어있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed up until two in the morning to finish the report before the deadline."
+  },
+  "step2": {
+    "story": "The kids begged their parents to let them stay up for the meteor shower. Their dad set up chairs in the backyard and they all watched the sky together until midnight.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "During finals week, Ji and her study group stayed up together in the library for three nights in a row. By the last night, they were running on tea and determination alone. When the exam was finally over, they walked out squinting in the morning sunlight and agreed they would never do that again. They said the same thing the following semester.",
+    "topicTag": "school friendship",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "잠을 자지 않고 평소보다 늦게까지 깨어 있다.",
+    "realUsageKo": "밤 늦게까지 잠을 자지 않고 있는 상황에 씁니다.",
+    "etymologyKo": "stay(유지하다)와 up(깨어 있는 상태)이 결합하여 깨어 있는 상태를 유지한다는 의미가 되었습니다.",
+    "nuanceKo": "의도적으로 늦게까지 안 자는 것을 나타냅니다. 어린이에게는 부모가 허락해주는 특별한 일로 여겨지기도 합니다.",
+    "shortExampleEn": "I stayed up all night watching the World Cup game.",
+    "shortExampleKo": "월드컵 경기 보느라 밤새 깨어 있었어요."
+  }
+}

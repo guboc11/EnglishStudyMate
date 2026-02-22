@@ -1,0 +1,30 @@
+{
+  "id": "put-out_dcf1c521",
+  "expression": "put out",
+  "selectionMeta": {
+    "selectedPhrase": "put out",
+    "selectedSenseLabelKo": "끄다, 내놓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The firefighters arrived within minutes and put out the kitchen fire before it spread."
+  },
+  "step2": {
+    "story": "She put out a bowl of water and some crackers for the stray cat that had been sitting outside her door all morning.",
+    "topicTag": "home",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "During the camping trip, the group spent the last evening around a large fire. As midnight approached, they began telling stories and lost track of time. Eventually the guide reminded them they needed to put out the fire before sleeping. They poured water over the embers, checked them twice, and then lay back looking at the stars until they fell asleep.",
+    "topicTag": "weekend hobby",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "불이나 빛을 끄다; 음식이나 물건을 바깥에 내놓다.",
+    "realUsageKo": "불을 진화하거나 음식 등을 내어놓을 때 씁니다. 또는 정보나 콘텐츠를 발행할 때도 씁니다.",
+    "etymologyKo": "put(놓다)과 out(밖으로, 끄다)이 결합하여 밖으로 놓거나 활활 타는 것을 끈다는 의미가 되었습니다.",
+    "nuanceKo": "불을 끄다, 음식을 내놓다, 정보를 발표하다 등 여러 의미로 씁니다. 문맥이 의미를 결정합니다.",
+    "shortExampleEn": "The candle went out on its own before I could put it out.",
+    "shortExampleKo": "내가 끄기 전에 촛불이 저절로 꺼졌어요."
+  }
+}

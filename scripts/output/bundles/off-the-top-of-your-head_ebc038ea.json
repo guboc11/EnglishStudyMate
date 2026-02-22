@@ -1,0 +1,30 @@
+{
+  "id": "off-the-top-of-your-head_ebc038ea",
+  "expression": "off the top of your head",
+  "selectionMeta": {
+    "selectedPhrase": "off the top of your head",
+    "selectedSenseLabelKo": "즉석에서, 바로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Can you give me a rough estimate off the top of your head, or do you need time to check?"
+  },
+  "step2": {
+    "story": "The journalist called for a quick comment and the professor had to answer off the top of her head. Later, reviewing the transcript, she was pleased to find her instinctive answer was largely accurate.",
+    "topicTag": "spontaneous knowledge",
+    "moodTag": "impressed at oneself"
+  },
+  "step3": {
+    "story": "During the investor meeting, a question came up about third-quarter market penetration numbers that no one had specifically prepared for. The CFO paused, said she was speaking off the top of her head, and then rattled off figures that were, when checked afterward, within two percentage points of the actual data. The investors exchanged a quiet look. That kind of command of the numbers, unrehearsed, told them more about the quality of management than any polished slide deck could have.",
+    "topicTag": "business meeting",
+    "moodTag": "quietly impressive"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리 꼭대기에서.",
+    "realUsageKo": "준비나 조사 없이 즉석에서 기억에 의존해 말할 때 씁니다.",
+    "etymologyKo": "기억이 머리 위층에 저장되어 있다가 바로 꺼내진다는 이미지에서 유래했습니다.",
+    "nuanceKo": "정확성을 보장하지 않는 즉흥적 답변임을 겸손하게 인정하는 뉘앙스를 담습니다.",
+    "shortExampleEn": "Off the top of my head, I would say around fifty people attended.",
+    "shortExampleKo": "즉석에서 말하자면 약 50명 정도 참석한 것 같아요."
+  }
+}

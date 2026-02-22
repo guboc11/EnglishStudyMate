@@ -1,0 +1,30 @@
+{
+  "id": "in-the-long-run_42b343f4",
+  "expression": "in the long run",
+  "selectionMeta": {
+    "selectedPhrase": "in the long run",
+    "selectedSenseLabelKo": "장기적으로 보면",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The upfront cost is high, but in the long run, the energy savings will more than pay for it."
+  },
+  "step2": {
+    "story": "The slower approach to building the app, with thorough documentation and modular architecture, frustrated the investors who wanted to ship faster. But in the long run, the codebase was far easier to maintain, and the team avoided the rewriting cycles that had killed two of their competitors.",
+    "topicTag": "technical investment",
+    "moodTag": "patient and vindicated"
+  },
+  "step3": {
+    "story": "The nutrition counselor had worked with hundreds of clients who wanted rapid results. She could design a program that produced dramatic short-term numbers. But in the long run, she knew, the dramatic approach rarely held. The clients who sustained their results were the ones who made the smallest changes most consistently — one habit at a time, without deprivation, without a dramatic transformation story. They were also the least exciting clients to write about. She wrote about them anyway, because in the long run, honest results were the only kind worth celebrating.",
+    "topicTag": "sustained change",
+    "moodTag": "patiently wise"
+  },
+  "meaning": {
+    "literalMeaningKo": "긴 달리기에서.",
+    "realUsageKo": "당장은 아니더라도 장기적으로 봤을 때의 결과나 효과를 말할 때 씁니다.",
+    "etymologyKo": "짧은 구간이 아닌 긴 구간을 달리는 마라톤 이미지에서 유래했습니다.",
+    "nuanceKo": "단기적 불편이나 비용을 감수하는 이유를 설명할 때 자주 씁니다.",
+    "shortExampleEn": "In the long run, honesty always pays off.",
+    "shortExampleKo": "장기적으로 보면 정직함이 항상 도움이 돼요."
+  }
+}

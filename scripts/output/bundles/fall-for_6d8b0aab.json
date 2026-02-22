@@ -1,0 +1,30 @@
+{
+  "id": "fall-for_6d8b0aab",
+  "expression": "fall for",
+  "selectionMeta": {
+    "selectedPhrase": "fall for",
+    "selectedSenseLabelKo": "빠져들다, 속다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She fell for his kindness immediately and agreed to go on a date."
+  },
+  "step2": {
+    "story": "He received an email claiming he had won a prize and almost fell for it. Luckily, his friend recognized the classic scam and stopped him before he clicked the link.",
+    "topicTag": "home",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "On April Fools' Day, the office manager announced there would be a mandatory meeting at 7 a.m. the following day. Most of the team groaned and started rearranging their morning plans. Only two people suspected it might be a joke and waited. The others fell for it completely and showed up the next morning confused and slightly annoyed.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 빠져들다, 사랑에 빠지다; 속임수에 넘어가다.",
+    "realUsageKo": "감정적으로 누군가에게 끌리거나 사랑에 빠질 때, 또는 속임수에 속을 때 씁니다.",
+    "etymologyKo": "fall(빠지다)과 for(~에 대해)가 결합하여 무언가에 완전히 빠져들어간다는 의미가 되었습니다.",
+    "nuanceKo": "긍정적(사랑에 빠지다)과 부정적(속다) 두 의미를 모두 가집니다. 문맥으로 구분합니다.",
+    "shortExampleEn": "I can't believe you fell for that old trick; it was so obvious.",
+    "shortExampleKo": "그 오래된 속임수에 넘어가다니 믿을 수 없어요. 완전히 뻔했잖아요."
+  }
+}

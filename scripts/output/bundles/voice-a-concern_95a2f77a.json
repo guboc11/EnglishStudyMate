@@ -1,0 +1,30 @@
+{
+  "id": "voice-a-concern_95a2f77a",
+  "expression": "voice a concern",
+  "selectionMeta": {
+    "selectedPhrase": "voice a concern",
+    "selectedSenseLabelKo": "우려를 표명하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Several staff members voiced concerns about the new working hours during the town hall."
+  },
+  "step2": {
+    "story": "She had voiced the concern quietly and specifically, at the right moment and to the right person. That was the part people underestimated: it was not just about speaking up, but about choosing the form, the timing, and the audience carefully enough that the concern would actually be heard.",
+    "topicTag": "workplace communication",
+    "moodTag": "strategically direct"
+  },
+  "step3": {
+    "story": "The engineering team had voiced concerns about the timeline internally for three weeks before the product lead escalated them to the executive team. By the time the concerns reached the decision-makers, two weeks of development had already been committed to a direction the engineers had flagged as problematic. The lesson the company drew was organizational: voicing a concern should not require multiple escalations over multiple weeks to reach people with authority to act. The feedback loops were redesigned with that in mind.",
+    "topicTag": "organizational learning",
+    "moodTag": "structurally sobered"
+  },
+  "meaning": {
+    "literalMeaningKo": "우려를 목소리로 표현하다.",
+    "realUsageKo": "걱정이나 반대 의견을 공식적으로 말로 표현할 때 씁니다.",
+    "etymologyKo": "voice는 목소리로 표현하다는 의미로, 내면의 걱정을 공개적으로 언어화하는 행위입니다.",
+    "nuanceKo": "express a concern보다 더 격식체이며, 공식 회의나 공개적 발언에 어울립니다.",
+    "shortExampleEn": "He voiced a concern about the safety of the new procedure.",
+    "shortExampleKo": "그는 새 절차의 안전성에 대한 우려를 표명했어요."
+  }
+}

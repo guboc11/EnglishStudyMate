@@ -1,0 +1,30 @@
+{
+  "id": "mutual-respect_030c8b26",
+  "expression": "mutual respect",
+  "selectionMeta": {
+    "selectedPhrase": "mutual respect",
+    "selectedSenseLabelKo": "상호 존중",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The partnership was built on mutual respect and a genuine willingness to learn from each other."
+  },
+  "step2": {
+    "story": "They had disagreed about almost everything professionally for fifteen years and never stopped collaborating. What made it work, both said when asked, was mutual respect — not agreement, not affection, but a genuine regard for each other's competence and reasoning, even when the conclusions diverged.",
+    "topicTag": "professional relationship",
+    "moodTag": "principled and durable"
+  },
+  "step3": {
+    "story": "The cross-cultural team had been assembled with careful attention to technical skills and almost no attention to how members from different professional cultures would work together. In the first two months, friction arose around communication styles, decision-making norms, and expectations about deference to seniority. A facilitator ran a half-day session in which team members described how professional respect was expressed in their own contexts. The differences were significant and, once named, became navigable. Mutual respect, the facilitator observed, did not mean assuming the same norms. It meant being genuinely curious about what respect looked like for the other person.",
+    "topicTag": "cross-cultural teamwork",
+    "moodTag": "curiously constructive"
+  },
+  "meaning": {
+    "literalMeaningKo": "상호 존중.",
+    "realUsageKo": "서로가 서로를 동등하게 존중하는 관계를 묘사할 때 씁니다.",
+    "etymologyKo": "mutual은 양방향으로 동등하게 이루어짐을 강조하며, 일방적 존중과 구별됩니다.",
+    "nuanceKo": "동의가 아닌 존중이 핵심이며, 갈등이 있는 관계에서도 유지될 수 있습니다.",
+    "shortExampleEn": "Mutual respect is the foundation of a healthy workplace.",
+    "shortExampleKo": "상호 존중은 건강한 직장의 기반이에요."
+  }
+}

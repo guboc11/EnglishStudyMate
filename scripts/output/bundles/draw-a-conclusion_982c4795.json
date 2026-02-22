@@ -1,0 +1,30 @@
+{
+  "id": "draw-a-conclusion_982c4795",
+  "expression": "draw a conclusion",
+  "selectionMeta": {
+    "selectedPhrase": "draw a conclusion",
+    "selectedSenseLabelKo": "결론을 도출하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Based on the data, we can draw a clear conclusion about what is driving the trend."
+  },
+  "step2": {
+    "story": "The analyst warned against drawing conclusions from a sample size that small. Three data points could suggest a pattern that a hundred would refute entirely. She had learned this lesson from an early report she wished she could take back.",
+    "topicTag": "data analysis",
+    "moodTag": "carefully cautious"
+  },
+  "step3": {
+    "story": "The detective had a rule she had never broken: never draw a conclusion until all available evidence had been gathered and tested. The pressure to reach early conclusions was enormous in high-profile cases — from media, from families, from her own instinct. She had resisted it throughout her career by building a deliberate practice of holding multiple competing explanations simultaneously until the evidence reduced them to one. The cases she had solved most cleanly were the ones she had been most patient with. The ones she regretted were the ones where she had drawn a conclusion one step too early.",
+    "topicTag": "investigation methodology",
+    "moodTag": "methodically patient"
+  },
+  "meaning": {
+    "literalMeaningKo": "결론을 끌어내다.",
+    "realUsageKo": "사실이나 증거를 바탕으로 논리적 결론을 도출할 때 씁니다.",
+    "etymologyKo": "draw는 끌어내다는 의미로, 여러 정보에서 결론을 추론해내는 이미지입니다.",
+    "nuanceKo": "come to a conclusion보다 더 분석적·논리적 과정을 강조하며 학술 맥락에서 자주 씁니다.",
+    "shortExampleEn": "It is too early to draw any conclusions from these results.",
+    "shortExampleKo": "이 결과에서 결론을 도출하기엔 아직 이른 단계예요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "take-off_b6a3e3bc",
+  "expression": "take off",
+  "selectionMeta": {
+    "selectedPhrase": "take off",
+    "selectedSenseLabelKo": "이륙하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The plane took off smoothly despite the heavy rain, climbing above the dark clouds into clear blue sky."
+  },
+  "step2": {
+    "story": "Sarah gripped her armrest tightly as the engine roared louder. The plane took off, lifting her toward a new city and a new life she had been planning for months.",
+    "topicTag": "travel day",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Jake had never been on a plane before, and his heart was racing as the passengers buckled their seatbelts. He watched the runway lights blur as the aircraft sped down the tarmac. When the wheels finally left the ground and the plane took off, he felt a mix of fear and pure excitement. He pressed his nose against the cold window, smiled, and whispered \"we made it.\"",
+    "topicTag": "travel day",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "비행기 등이 지면을 떠나 하늘로 날아오르다.",
+    "realUsageKo": "비행기가 이륙하는 동작을 나타내는 가장 일반적인 표현으로, 공항이나 비행 관련 대화에서 자주 쓰입니다.",
+    "etymologyKo": "take(이동하다)와 off(분리, 이탈)가 결합하여 지면에서 떨어져 나가다라는 의미가 되었습니다.",
+    "nuanceKo": "비행기의 이륙을 묘사할 때 가장 자연스러운 표현이며, 때로는 사업 등이 빠르게 성장한다는 비유적 의미로도 씁니다.",
+    "shortExampleEn": "The flight took off right on schedule.",
+    "shortExampleKo": "비행기가 예정대로 이륙했어요."
+  }
+}

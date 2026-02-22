@@ -1,0 +1,30 @@
+{
+  "id": "set-a-goal_be6cced2",
+  "expression": "set a goal",
+  "selectionMeta": {
+    "selectedPhrase": "set a goal",
+    "selectedSenseLabelKo": "목표를 세우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She set a goal at the beginning of the year and checked in on it every month."
+  },
+  "step2": {
+    "story": "The coach set team goals collaboratively — not numbers imposed from above but targets the players had helped choose. The buy-in, he found, mattered more than the precision of the target.",
+    "topicTag": "team motivation",
+    "moodTag": "engaged"
+  },
+  "step3": {
+    "story": "The productivity researcher had studied goal-setting across cultures and industries for fifteen years. Her most consistent finding was not that people failed to reach their goals — most people who set clear, specific goals did reach them at a reasonable rate. The problem was that most people did not set goals in the first place, or set them so vaguely that achievement was unmeasurable. Setting a good goal, she had concluded, was itself a skill that required practice, and it was rarely taught anywhere formally.",
+    "topicTag": "personal productivity",
+    "moodTag": "evidence-based"
+  },
+  "meaning": {
+    "literalMeaningKo": "목표를 설정하다.",
+    "realUsageKo": "달성하려는 목표를 구체적으로 정할 때 씁니다.",
+    "etymologyKo": "set은 고정하거나 놓는다는 의미로, 목표를 앞에 세워놓는 이미지를 담습니다.",
+    "nuanceKo": "reach/achieve a goal(목표를 달성하다)과 짝을 이루는 시작 단계 표현입니다.",
+    "shortExampleEn": "Set a goal that challenges you but is still realistic.",
+    "shortExampleKo": "도전적이지만 현실적인 목표를 세워요."
+  }
+}

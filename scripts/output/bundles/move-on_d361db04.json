@@ -1,0 +1,30 @@
+{
+  "id": "move-on_d361db04",
+  "expression": "move on",
+  "selectionMeta": {
+    "selectedPhrase": "move on",
+    "selectedSenseLabelKo": "나아가다, 잊고 넘어가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the painful breakup, it took her nearly a year to finally move on."
+  },
+  "step2": {
+    "story": "The meeting had spent forty minutes on the same small issue. The chairperson finally said they needed to move on and come back to it later. Everyone agreed with visible relief.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "For a long time after his team lost the championship, David kept replaying the final moments in his head. His coach noticed and pulled him aside one afternoon. The coach said quietly that David had played well and given everything. Now it was time to move on and get ready for next season. David nodded slowly and, for the first time in weeks, felt something loosen in his chest.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "과거의 일을 뒤로하고 앞으로 나아가다; 다음 주제나 단계로 넘어가다.",
+    "realUsageKo": "실패나 슬픔, 갈등을 뒤로하고 전진하거나, 대화에서 다음 주제로 전환할 때 씁니다.",
+    "etymologyKo": "move(이동하다)와 on(계속, 앞으로)이 결합하여 멈추지 않고 앞으로 계속 이동한다는 의미가 되었습니다.",
+    "nuanceKo": "감정적으로 과거에 집착하지 않고 새 출발한다는 뉘앙스가 강합니다.",
+    "shortExampleEn": "It's hard, but you need to move on and focus on the future.",
+    "shortExampleKo": "힘들지만 앞으로 나아가며 미래에 집중해야 해요."
+  }
+}

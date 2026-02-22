@@ -1,0 +1,30 @@
+{
+  "id": "make-up_86ebdace",
+  "expression": "make up",
+  "selectionMeta": {
+    "selectedPhrase": "make up",
+    "selectedSenseLabelKo": "화해하다, 꾸며내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the argument, they took a walk and eventually made up before dinner."
+  },
+  "step2": {
+    "story": "The boy told his teacher an elaborate excuse about why his homework was late. She listened patiently, then smiled and said she was pretty sure he had made the whole story up.",
+    "topicTag": "school friendship",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "Jane and her best friend had not spoken for two weeks after a disagreement over something small. Both of them were too proud to call first. Then one evening, Jane spotted her friend sitting alone in the park looking sad. She walked over without thinking and sat down next to her. They talked quietly for an hour and made up before the streetlights came on.",
+    "topicTag": "school friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "다툰 뒤 화해하다; 사실이 아닌 것을 꾸며내다.",
+    "realUsageKo": "싸운 뒤 사이가 풀릴 때, 또는 거짓말이나 이야기를 꾸밀 때 씁니다.",
+    "etymologyKo": "make(만들다)와 up(완성, 원상복구)이 결합하여 관계를 원상태로 만들거나 무언가를 새로 만들어낸다는 의미가 되었습니다.",
+    "nuanceKo": "화해의 의미와 꾸며내다의 의미는 문맥으로 구분합니다. 두 의미 모두 일상에서 자주 씁니다.",
+    "shortExampleEn": "They had a big fight but made up the very next morning.",
+    "shortExampleKo": "크게 다퉜지만 다음 날 아침에 화해했어요."
+  }
+}

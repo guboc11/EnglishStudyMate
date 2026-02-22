@@ -1,0 +1,30 @@
+{
+  "id": "gather-information_dcdedae9",
+  "expression": "gather information",
+  "selectionMeta": {
+    "selectedPhrase": "gather information",
+    "selectedSenseLabelKo": "정보를 수집하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making any recommendations, the consultant spent two weeks gathering information from every department."
+  },
+  "step2": {
+    "story": "The detective had gathered more information than she could use in the first week. The challenge was not quantity but signal — finding the details that mattered in a large volume of details that did not.",
+    "topicTag": "investigation",
+    "moodTag": "analytically focused"
+  },
+  "step3": {
+    "story": "The aid organization had learned that gathering information directly from affected communities produced fundamentally different programs than gathering it from secondary reports and government data. The data was not wrong, exactly — it simply answered different questions than the ones the communities were asking. The shift from desk research to direct information gathering had required more time and more humility, but the programs that followed were consistently better suited to what people actually needed rather than what the organization had assumed they needed.",
+    "topicTag": "humanitarian work",
+    "moodTag": "humbly grounded"
+  },
+  "meaning": {
+    "literalMeaningKo": "정보를 모으다.",
+    "realUsageKo": "다양한 출처에서 데이터나 사실을 수집할 때 씁니다.",
+    "etymologyKo": "gather는 여러 곳에서 모아오는 이미지를 담으며, collect information과 유사합니다.",
+    "nuanceKo": "collect는 더 체계적이고, gather는 다양한 출처에서 자연스럽게 모으는 뉘앙스입니다.",
+    "shortExampleEn": "We need to gather information before jumping to conclusions.",
+    "shortExampleKo": "결론을 내리기 전에 정보를 수집해야 해요."
+  }
+}

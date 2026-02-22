@@ -1,0 +1,30 @@
+{
+  "id": "face-a-challenge_d4945a92",
+  "expression": "face a challenge",
+  "selectionMeta": {
+    "selectedPhrase": "face a challenge",
+    "selectedSenseLabelKo": "도전에 직면하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Every new parent faces the challenge of adjusting to a completely different daily rhythm."
+  },
+  "step2": {
+    "story": "The team faced a challenge they had not anticipated: their most loyal users were also the most resistant to the new interface. Solving for growth meant risking the community that had built the product's reputation.",
+    "topicTag": "product dilemma",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The rehabilitation center worked with patients who had experienced significant neurological events. Every person there faced a challenge that was different in detail but similar in structure: relearning something the brain had once done without thought. The occupational therapists knew that naming the challenge clearly — not minimizing it, not dramatizing it — was the first step toward working through it. Patients who understood what they were actually facing tended to progress faster than those who had been told to stay positive without being told why progress was hard.",
+    "topicTag": "recovery",
+    "moodTag": "steady and honest"
+  },
+  "meaning": {
+    "literalMeaningKo": "도전을 마주 보다.",
+    "realUsageKo": "어렵거나 힘든 상황에 정면으로 부딪힐 때 씁니다.",
+    "etymologyKo": "face는 얼굴을 돌려 마주 보다는 의미에서 도전을 회피하지 않고 직면한다는 뜻을 담습니다.",
+    "nuanceKo": "수동적으로 만나는 상황부터 능동적으로 맞서는 상황까지 넓게 씁니다.",
+    "shortExampleEn": "We face a new challenge every day in this industry.",
+    "shortExampleKo": "이 업계에서는 매일 새로운 도전에 직면해요."
+  }
+}

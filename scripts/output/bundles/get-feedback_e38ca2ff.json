@@ -1,0 +1,30 @@
+{
+  "id": "get-feedback_e38ca2ff",
+  "expression": "get feedback",
+  "selectionMeta": {
+    "selectedPhrase": "get feedback",
+    "selectedSenseLabelKo": "피드백을 받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always gets feedback from at least three people before finalizing her designs."
+  },
+  "step2": {
+    "story": "He had gotten feedback on the draft from twelve people. The feedback had been helpful, contradictory, and occasionally baffling. The final document was better for all of it, even the contradictory parts, because navigating disagreement had forced him to understand what he was actually trying to say.",
+    "topicTag": "writing process",
+    "moodTag": "productively messy"
+  },
+  "step3": {
+    "story": "The design team had built a systematic process for getting feedback early and often — at wireframe stage, at prototype stage, and in beta. The cost of each round of feedback had felt significant at the time. What they eventually calculated was that each round of early feedback had prevented an average of three rounds of post-launch fixes, which cost seven times more per issue to address. Getting feedback, they came to understand, was not a quality control step at the end of the process. It was the process.",
+    "topicTag": "product development",
+    "moodTag": "economically wise"
+  },
+  "meaning": {
+    "literalMeaningKo": "피드백을 받다.",
+    "realUsageKo": "자신의 작업이나 행동에 대한 다른 사람의 평가나 의견을 받을 때 씁니다.",
+    "etymologyKo": "feedback은 원래 전자공학 용어로, 출력 신호를 입력으로 돌려보내는 것을 의미했습니다.",
+    "nuanceKo": "receive feedback(더 격식체)과 유사하지만 get feedback이 더 일상적으로 씁니다.",
+    "shortExampleEn": "I need to get feedback from the team before we move forward.",
+    "shortExampleKo": "진행하기 전에 팀에서 피드백을 받아야 해요."
+  }
+}

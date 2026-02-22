@@ -1,0 +1,30 @@
+{
+  "id": "get-back_2f0de3da",
+  "expression": "get back",
+  "selectionMeta": {
+    "selectedPhrase": "get back",
+    "selectedSenseLabelKo": "돌아오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She texted her mom to say she would get back home by eight o'clock."
+  },
+  "step2": {
+    "story": "Paul had been traveling abroad for six months and missed everything about home. When he finally got back, the first thing he did was hug his dog.",
+    "topicTag": "travel day",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "The hiking trail took longer than expected and the group realized they would not make it before dark. They picked up their pace and kept walking without stopping. Just as the last bit of light faded, they got back to the trailhead parking lot. Everyone let out a long sigh of relief and sat down on the nearest bench.",
+    "topicTag": "weekend hobby",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "떠났던 곳으로 다시 돌아오다.",
+    "realUsageKo": "집, 학교, 직장 등 원래 있던 곳으로 돌아올 때 씁니다. return보다 구어체적입니다.",
+    "etymologyKo": "get(이동하여 도달하다)과 back(뒤로, 원래 위치)이 결합하여 원래 자리로 돌아온다는 의미가 되었습니다.",
+    "nuanceKo": "일상 대화에서 가장 자연스럽게 쓰는 귀환 표현입니다. 답장하다(get back to someone)로도 씁니다.",
+    "shortExampleEn": "What time do you usually get back from work?",
+    "shortExampleKo": "보통 몇 시에 퇴근해서 돌아와요?"
+  }
+}

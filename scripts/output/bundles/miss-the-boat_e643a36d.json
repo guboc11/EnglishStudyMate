@@ -1,0 +1,30 @@
+{
+  "id": "miss-the-boat_e643a36d",
+  "expression": "miss the boat",
+  "selectionMeta": {
+    "selectedPhrase": "miss the boat",
+    "selectedSenseLabelKo": "기회를 놓치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We missed the boat on investing in that startup — it was valued at ten times the price a year later."
+  },
+  "step2": {
+    "story": "The city had offered early adopters a discounted permit for the new electric vehicle lanes. Tom had meant to apply but kept putting it off. By the time he remembered, the program was full. He had completely missed the boat.",
+    "topicTag": "missed opportunity",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Five years ago, Priya had been offered a part in a small independent film that she turned down because it paid almost nothing and the script seemed too experimental. The film went on to win festival awards and launched the careers of everyone in the cast. She did not dwell on it — regret was not productive — but she made a mental note to evaluate opportunities on their potential rather than their current return. She had missed the boat once; she was not planning to make the same mistake twice.",
+    "topicTag": "career reflection",
+    "moodTag": "thoughtful and forward-looking"
+  },
+  "meaning": {
+    "literalMeaningKo": "배를 놓치다.",
+    "realUsageKo": "좋은 기회를 때를 놓쳐 잡지 못할 때 씁니다.",
+    "etymologyKo": "실제로 배를 놓치면 다음 배까지 기다려야 하는 상황에서 비유가 시작되었습니다.",
+    "nuanceKo": "아쉬움이나 후회를 담은 표현이지만, 자책보다는 사실을 인정하는 뉘앙스로도 씁니다.",
+    "shortExampleEn": "They missed the boat by waiting too long to expand.",
+    "shortExampleKo": "그들은 너무 오래 기다리다가 기회를 놓쳤어요."
+  }
+}

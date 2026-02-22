@@ -1,0 +1,30 @@
+{
+  "id": "work-out_1b761861",
+  "expression": "work out",
+  "selectionMeta": {
+    "selectedPhrase": "work out",
+    "selectedSenseLabelKo": "해결되다, 운동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite starting with many serious problems, the project worked out far better than anyone had expected."
+  },
+  "step2": {
+    "story": "They were worried that their complicated plan to travel together for a month would not work. In the end, everything worked out beautifully and they returned home with wonderful memories.",
+    "topicTag": "travel day",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Mia first opened her small neighborhood bakery, money was very tight and she struggled with almost every order. Some difficult days she thought seriously about giving up entirely. But she kept quietly improving her recipes and slowly built a loyal group of regular customers. A year later, things had worked out and the bakery had become a beloved local favorite.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "일이 잘 풀리다, 문제가 해결되다; 또는 운동하다.",
+    "realUsageKo": "상황이 좋은 방향으로 해결되거나 계획이 잘 맞아떨어질 때 씁니다. 또는 체육관 등에서 운동할 때도 씁니다.",
+    "etymologyKo": "work(일하다, 작동하다)와 out(완성, 해결)이 결합하여 문제가 완전히 해결된다는 의미가 되었습니다.",
+    "nuanceKo": "결과가 긍정적으로 나왔을 때의 안도감을 표현합니다. 운동의 의미로 쓸 때는 헬스장에서의 전체 운동 루틴을 가리킵니다.",
+    "shortExampleEn": "Don't worry; I am sure everything will work out in the end.",
+    "shortExampleKo": "걱정 마세요. 결국엔 다 잘 될 거예요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "break-a-record_83a8da99",
+  "expression": "break a record",
+  "selectionMeta": {
+    "selectedPhrase": "break a record",
+    "selectedSenseLabelKo": "기록을 깨다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The athlete broke the national record by nearly two full seconds."
+  },
+  "step2": {
+    "story": "The fundraising campaign broke every record the organization had set in its thirty-year history. What made it remarkable was not just the total amount but the number of first-time donors — people who had never given before and did so because a friend had told them to.",
+    "topicTag": "achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "She had been training for the marathon for eighteen months, rebuilding after a stress fracture had sidelined her for nearly a year. At the thirty-five kilometer mark, she checked her pace and understood that her personal best was in reach if she held it. She did not think about breaking a record. She thought about form, about breathing, about the next kilometer. The split time at the finish line was a personal best by four minutes. She found out she had broken the course record while sitting in a foil blanket eating a banana.",
+    "topicTag": "athletic achievement",
+    "moodTag": "quietly astounding"
+  },
+  "meaning": {
+    "literalMeaningKo": "기록을 깨다.",
+    "realUsageKo": "기존의 최고 기록을 넘어설 때 씁니다.",
+    "etymologyKo": "break는 여기서 초과하다, 뛰어넘다는 의미입니다. set a record(기록을 세우다)와 짝을 이룹니다.",
+    "nuanceKo": "스포츠뿐만 아니라 판매, 속도, 규모 등 다양한 맥락에서 씁니다.",
+    "shortExampleEn": "The new model broke every sales record in the first week.",
+    "shortExampleKo": "신모델이 첫 주에 모든 판매 기록을 깼어요."
+  }
+}

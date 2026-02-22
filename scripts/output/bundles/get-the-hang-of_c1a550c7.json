@@ -1,0 +1,30 @@
+{
+  "id": "get-the-hang-of_c1a550c7",
+  "expression": "get the hang of",
+  "selectionMeta": {
+    "selectedPhrase": "get the hang of",
+    "selectedSenseLabelKo": "요령을 터득하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Skateboarding looked impossible at first, but after a few weeks I started to get the hang of it."
+  },
+  "step2": {
+    "story": "The new software was confusing for the entire team on day one. By day three, most people had gotten the hang of the basic workflow. By day ten, they were faster than they had been with the old system.",
+    "topicTag": "learning a tool",
+    "moodTag": "gradual confidence"
+  },
+  "step3": {
+    "story": "She had always felt hopeless in the kitchen. Recipes seemed to require skills she could not picture, timing that felt impossible to track, and a calm she simply did not have. Then her grandmother spent a weekend teaching her to make three simple dishes — not from a recipe, but by touch and smell and adjustment. Something about the physical practice helped her get the hang of what no instruction video had managed to convey. By the end of the weekend she had cooked all three dishes twice each, and the second versions were noticeably better than the first. That was all she needed.",
+    "topicTag": "skill building",
+    "moodTag": "quietly triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "~의 매달림 방식을 얻다.",
+    "realUsageKo": "처음에는 어렵던 일을 반복을 통해 요령을 터득했을 때 씁니다.",
+    "etymologyKo": "도구나 물건을 다루는 특정 방법(hang)을 익히는 것에서 유래했습니다.",
+    "nuanceKo": "배움의 전환점이 느껴지는 순간에 주로 씁니다.",
+    "shortExampleEn": "It takes time, but you will get the hang of it.",
+    "shortExampleKo": "시간이 걸리지만 요령을 터득하게 될 거예요."
+  }
+}

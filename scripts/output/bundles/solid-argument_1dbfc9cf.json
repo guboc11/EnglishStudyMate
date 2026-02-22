@@ -1,0 +1,30 @@
+{
+  "id": "solid-argument_1dbfc9cf",
+  "expression": "solid argument",
+  "selectionMeta": {
+    "selectedPhrase": "solid argument",
+    "selectedSenseLabelKo": "탄탄한 논거",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She made a solid argument for changing the procurement process, backed by three months of data."
+  },
+  "step2": {
+    "story": "He had prepared a solid argument for the proposal, anticipating every counterargument he could think of. What he had not anticipated was the question that came from a direction he had not considered at all. That question was more useful than anything he had prepared.",
+    "topicTag": "persuasion",
+    "moodTag": "productively challenged"
+  },
+  "step3": {
+    "story": "The legal team had a solid argument. The problem was that the argument, while legally correct, was not a story that a jury would feel. The trial lawyer spent a week reshaping it — not changing the substance, which was sound, but finding the narrative thread inside the evidence that would make the logic emotionally legible. A solid argument in a court of law, he told the junior associates, needed to work in two registers simultaneously: it had to be airtight, and it had to be human.",
+    "topicTag": "legal advocacy",
+    "moodTag": "double registered"
+  },
+  "meaning": {
+    "literalMeaningKo": "탄탄한 논거.",
+    "realUsageKo": "논리적으로 견고하고 반박하기 어려운 주장을 묘사할 때 씁니다.",
+    "etymologyKo": "solid는 내부가 꽉 차 있어 흔들리지 않는다는 의미로, 논거의 견고함을 표현합니다.",
+    "nuanceKo": "strong argument와 유사하지만 solid는 구조적 완결성을 더 강조합니다.",
+    "shortExampleEn": "You need a solid argument if you want to change their minds.",
+    "shortExampleKo": "그들의 생각을 바꾸려면 탄탄한 논거가 필요해요."
+  }
+}

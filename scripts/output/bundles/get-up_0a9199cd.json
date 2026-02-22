@@ -1,0 +1,30 @@
+{
+  "id": "get-up_0a9199cd",
+  "expression": "get up",
+  "selectionMeta": {
+    "selectedPhrase": "get up",
+    "selectedSenseLabelKo": "일어나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She struggled to get up when her alarm went off at six in the morning after a short night of sleep."
+  },
+  "step2": {
+    "story": "Every morning, Ben's dog would jump on the bed and lick his face to wake him up. It was impossible to stay under the covers with a wagging tail in his face, so he always got up laughing.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "On the first day of winter vacation, Amy planned to sleep in until noon. But the sunlight poured through her thin curtains and the smell of freshly made pancakes drifted up from the kitchen below. She pulled the blanket over her head and tried to ignore both, but her stomach had other ideas. She finally got up, put on her warm slippers, and shuffled downstairs with a happy sigh.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "잠자리나 앉은 자리에서 몸을 일으켜 서다.",
+    "realUsageKo": "아침에 침대에서 일어나거나 앉은 상태에서 서는 동작을 나타낼 때 씁니다.",
+    "etymologyKo": "get(~의 상태가 되다)과 up(위로)이 결합하여 위로 가는 상태가 되다, 즉 일어서다라는 의미가 되었습니다.",
+    "nuanceKo": "기상하는 행위를 나타낼 때 가장 많이 씁니다. wake up은 잠에서 깨는 것이고, get up은 실제로 몸을 일으키는 동작입니다.",
+    "shortExampleEn": "What time do you usually get up on weekdays?",
+    "shortExampleKo": "평일에는 보통 몇 시에 일어나요?"
+  }
+}

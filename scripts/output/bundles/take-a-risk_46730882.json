@@ -1,0 +1,30 @@
+{
+  "id": "take-a-risk_46730882",
+  "expression": "take a risk",
+  "selectionMeta": {
+    "selectedPhrase": "take a risk",
+    "selectedSenseLabelKo": "위험을 감수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Starting a business means you have to be willing to take a risk."
+  },
+  "step2": {
+    "story": "She had spent a year saving and researching before deciding to take the risk of leaving her stable income behind. The fear was real, but so was the certainty that she would regret not trying.",
+    "topicTag": "personal courage",
+    "moodTag": "nervous but resolved"
+  },
+  "step3": {
+    "story": "The investment committee had a reputation for caution. When a young analyst presented an opportunity in an emerging market that most members knew little about, the instinct was to pass. But one senior member pointed out that every major gain in the fund's history had required taking a risk that felt uncomfortable at the time. They approved a small allocation, set clear loss limits, and monitored it closely. Three years later it was the best-performing position in the portfolio. The lesson, as always, was not that risks were good, but that calculated ones were necessary.",
+    "topicTag": "investment",
+    "moodTag": "carefully bold"
+  },
+  "meaning": {
+    "literalMeaningKo": "위험을 취하다.",
+    "realUsageKo": "나쁜 결과가 나올 수도 있음을 알면서도 행동할 때 씁니다.",
+    "etymologyKo": "risk는 이탈리아어 riscare(절벽을 항해하다)에서 왔습니다. take와 결합해 능동적 선택을 강조합니다.",
+    "nuanceKo": "do a risk, have a risk는 잘못된 표현입니다. take 또는 run a risk를 씁니다.",
+    "shortExampleEn": "Sometimes you have to take a risk to grow.",
+    "shortExampleKo": "때로는 성장하려면 위험을 감수해야 해요."
+  }
+}

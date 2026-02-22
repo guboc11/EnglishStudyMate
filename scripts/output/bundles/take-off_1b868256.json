@@ -1,0 +1,30 @@
+{
+  "id": "take-off_1b868256",
+  "expression": "take off",
+  "selectionMeta": {
+    "selectedPhrase": "take off",
+    "selectedSenseLabelKo": "벗다 (옷 등을)",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She took off her shoes at the entrance and placed them neatly on the rack."
+  },
+  "step2": {
+    "story": "Coming in from the cold, he took off his coat and scarf and hung them by the door. The warmth of the house hit him immediately.",
+    "topicTag": "home",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "At the swimming pool, the instructor asked the children to take off their shoes and leave them in the cubbies before entering the pool area. Most kids kicked them off quickly and ran ahead. One small boy carefully untied his laces, placed each shoe side by side, and then looked up proudly before following the others.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "입고 있던 옷이나 신발, 모자 등을 몸에서 벗어내다.",
+    "realUsageKo": "옷, 신발, 안경, 장갑 등 착용한 것을 벗는 동작에 씁니다.",
+    "etymologyKo": "take(벗기다)와 off(분리, 떼어냄)가 결합하여 몸에서 떼어낸다는 의미가 되었습니다.",
+    "nuanceKo": "이륙하다의 take off와 같은 형태이지만 맥락으로 쉽게 구분됩니다. put on의 반대말입니다.",
+    "shortExampleEn": "Please take off your hat when you enter the building.",
+    "shortExampleKo": "건물에 들어갈 때는 모자를 벗어주세요."
+  }
+}

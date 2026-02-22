@@ -1,0 +1,30 @@
+{
+  "id": "pose-a-question_1a3b0ad2",
+  "expression": "pose a question",
+  "selectionMeta": {
+    "selectedPhrase": "pose a question",
+    "selectedSenseLabelKo": "질문을 제기하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The researcher posed a question that nobody in the field had thought to ask before."
+  },
+  "step2": {
+    "story": "She posed the question near the end of the panel, when everyone assumed the session was winding down. The room, which had been politely attentive, suddenly became alert. The best questions, she had found, were the ones that made people realize they had been assuming the answer without noticing.",
+    "topicTag": "intellectual inquiry",
+    "moodTag": "sharply clarifying"
+  },
+  "step3": {
+    "story": "The teacher had a practice she called the daily question — not a test question, but one genuine question she did not know the answer to, posed to the class each morning. Students were not required to respond. Over a semester, she noticed that the students who began volunteering their own questions were the same ones whose written thinking had become noticeably more precise. Posing questions, she concluded, was a form of intellectual practice, not just a teaching method.",
+    "topicTag": "education",
+    "moodTag": "curiously structured"
+  },
+  "meaning": {
+    "literalMeaningKo": "질문을 제기하다.",
+    "realUsageKo": "특히 공식적이거나 진지한 자리에서 질문이나 논점을 제시할 때 씁니다.",
+    "etymologyKo": "pose는 프랑스어 poser(놓다)에서 왔으며, 질문을 앞에 세워놓는다는 이미지입니다.",
+    "nuanceKo": "ask a question보다 더 격식적이며, 토론이나 학술 맥락에서 자주 씁니다.",
+    "shortExampleEn": "The documentary poses important questions about modern privacy.",
+    "shortExampleKo": "그 다큐멘터리는 현대 프라이버시에 대한 중요한 질문을 제기해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "wind-up_2a698a8a",
+  "expression": "wind up",
+  "selectionMeta": {
+    "selectedPhrase": "wind up",
+    "selectedSenseLabelKo": "결국 ~하게 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He wound up spending the entire afternoon helping his neighbor fix the fence."
+  },
+  "step2": {
+    "story": "She started studying for one exam and wound up reviewing the entire semester's notes without meaning to. By midnight, she felt more prepared than she had expected.",
+    "topicTag": "school friendship",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "The business trip was supposed to last three days. Then a storm grounded all the flights on day two. Jake wound up staying five days in a city he had never planned to explore. He visited museums, ate at a local market, and made a friend at a small cafe near the hotel. He later said the delay was the best part of the whole trip.",
+    "topicTag": "travel day",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "의도하지 않게 어떤 상황이나 상태에 결국 처하게 되다.",
+    "realUsageKo": "end up과 비슷하지만 더 구어적이며 계획과 달리 어떤 결과에 이르는 상황에 씁니다.",
+    "etymologyKo": "wind(감다, 이어지다)와 up(결과)이 결합하여 이어지고 이어져 결국 어떤 상태에 다다른다는 의미가 되었습니다.",
+    "nuanceKo": "end up과 의미가 거의 같지만 조금 더 구어체적입니다. 의도치 않은 결과의 뉘앙스가 강합니다.",
+    "shortExampleEn": "We wound up at a tiny ramen shop after walking around for an hour.",
+    "shortExampleKo": "한 시간 동안 걷다가 결국 작은 라멘집에 가게 됐어요."
+  }
+}

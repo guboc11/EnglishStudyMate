@@ -1,0 +1,30 @@
+{
+  "id": "make-out_080f64ee",
+  "expression": "make out",
+  "selectionMeta": {
+    "selectedPhrase": "make out",
+    "selectedSenseLabelKo": "이해하다, 알아보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The handwriting was so small that she could barely make out what the note said."
+  },
+  "step2": {
+    "story": "The radio signal kept breaking up and they could only make out every other word. They finally gave up and switched to a podcast instead.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "The old map they found in the storage room was faded and torn at the edges. Two of the roads were completely missing and the place names were almost impossible to make out. They spread it flat on the table and used a magnifying glass. Eventually, after twenty minutes, they figured out enough to plan a rough route.",
+    "topicTag": "weekend hobby",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "희미하거나 불분명한 것을 보거나 듣고 간신히 이해하거나 알아보다.",
+    "realUsageKo": "글씨, 소리, 말 등이 불분명할 때 겨우 알아내는 상황에 씁니다.",
+    "etymologyKo": "make(이루다)와 out(완전히, 밖으로)이 결합하여 불분명한 것에서 의미를 끌어낸다는 뜻이 되었습니다.",
+    "nuanceKo": "이해하거나 식별하기가 어렵다는 어려움이 내포된 표현입니다. 완전히 이해했다기보다 겨우 파악했다는 뉘앙스입니다.",
+    "shortExampleEn": "I could just barely make out the street sign through the fog.",
+    "shortExampleKo": "안개 속에서 도로 표지판을 겨우 알아볼 수 있었어요."
+  }
+}

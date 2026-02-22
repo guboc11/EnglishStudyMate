@@ -1,0 +1,30 @@
+{
+  "id": "create-opportunities_55948321",
+  "expression": "create opportunities",
+  "selectionMeta": {
+    "selectedPhrase": "create opportunities",
+    "selectedSenseLabelKo": "기회를 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Good leaders create opportunities for their teams rather than waiting for them to appear."
+  },
+  "step2": {
+    "story": "The residency program did not just provide time and space — it created opportunities for artists to meet people they would not otherwise have encountered: scientists, engineers, journalists, and community organizers who became collaborators and sources of new material.",
+    "topicTag": "creative ecosystem",
+    "moodTag": "generative"
+  },
+  "step3": {
+    "story": "The policy had been designed to create opportunities for first-generation college students. What distinguished it from similar programs was its specificity: it did not simply offer financial support but included active placement in internships, mentorship matching, and a network that continued past graduation. The designers had understood that opportunity without access to the infrastructure around it often did not translate into outcomes. Creating opportunities, in their framework, meant building the whole pathway, not just opening a door.",
+    "topicTag": "educational equity",
+    "moodTag": "intentional and structural"
+  },
+  "meaning": {
+    "literalMeaningKo": "기회를 만들어내다.",
+    "realUsageKo": "새로운 가능성이나 가능성 있는 상황을 적극적으로 만들 때 씁니다.",
+    "etymologyKo": "create는 라틴어 creare(만들다)에서 왔으며, 기회는 생기는 것이 아니라 만드는 것임을 강조합니다.",
+    "nuanceKo": "수동적으로 기회를 기다리는 것과 대조되는 능동적 의미입니다.",
+    "shortExampleEn": "Networking helps you create opportunities you might not find on your own.",
+    "shortExampleKo": "네트워킹은 혼자서는 찾기 어려운 기회를 만드는 데 도움이 돼요."
+  }
+}

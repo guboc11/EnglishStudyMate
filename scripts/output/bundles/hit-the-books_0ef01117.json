@@ -1,0 +1,30 @@
+{
+  "id": "hit-the-books_0ef01117",
+  "expression": "hit the books",
+  "selectionMeta": {
+    "selectedPhrase": "hit the books",
+    "selectedSenseLabelKo": "열심히 공부하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Finals are in two weeks, so I really need to hit the books this weekend."
+  },
+  "step2": {
+    "story": "After a lazy summer of beach trips and late nights, Mia sat down at her desk on the first Sunday of September and hit the books for six hours straight. She felt rusty at first, then focused, then oddly peaceful.",
+    "topicTag": "back to studying",
+    "moodTag": "quietly determined"
+  },
+  "step3": {
+    "story": "The bar exam was four months away, and Jin had been telling himself he would hit the books every week since graduation. Then a holiday, then a visit from an old friend, then a minor cold that turned into a week on the couch. On November first, he finally cleared his calendar, silenced his phone, and built a study schedule he could actually commit to. The discipline was uncomfortable at first, but by December he was in a rhythm, and by the exam date he felt genuinely ready.",
+    "topicTag": "exam preparation",
+    "moodTag": "disciplined"
+  },
+  "meaning": {
+    "literalMeaningKo": "책을 치다.",
+    "realUsageKo": "열심히 공부하거나 본격적으로 책 앞에 앉을 때 쓰는 구어 표현입니다.",
+    "etymologyKo": "1930년대 미국 학생 속어에서 유래했으며, 책상에 책을 힘차게 펼치는 이미지를 담고 있습니다.",
+    "nuanceKo": "약간 가볍고 친근한 표현이며, 시험이나 마감을 앞두고 각오를 다질 때 자주 씁니다.",
+    "shortExampleEn": "Time to hit the books — the test is on Friday.",
+    "shortExampleKo": "이제 공부할 시간이에요 — 금요일에 시험이거든요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "turn-down_5f015cce",
+  "expression": "turn down",
+  "selectionMeta": {
+    "selectedPhrase": "turn down",
+    "selectedSenseLabelKo": "거절하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She politely turned down the job offer because the daily commute would have been too long."
+  },
+  "step2": {
+    "story": "Leo asked Maria to be his partner for the end-of-year dance competition. She turned him down gently, saying she had already promised the spot to someone else weeks ago.",
+    "topicTag": "school friendship",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "The young chef applied to the city's most famous cooking school three separate times. Each time, he was turned down without much explanation. Most people might have stopped trying after the second rejection. But he spent another full year improving his knife skills and recipes, then applied a fourth time with a portfolio he was proud of.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "요청, 제안, 초대 등을 거절하다.",
+    "realUsageKo": "누군가의 요청이나 제안을 정중히 또는 단호하게 거절할 때 씁니다.",
+    "etymologyKo": "turn(돌리다)과 down(아래로, 부정)이 결합하여 상대의 요청을 아래로 눌러버린다는 의미로, 거절을 뜻합니다.",
+    "nuanceKo": "refuse나 reject보다 구어체적이며 덜 딱딱합니다. 일상적인 대화에서 거절을 표현할 때 자연스럽습니다.",
+    "shortExampleEn": "I had to turn down the invitation because I was not feeling well.",
+    "shortExampleKo": "몸이 안 좋아서 초대를 거절해야 했어요."
+  }
+}

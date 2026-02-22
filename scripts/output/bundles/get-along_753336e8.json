@@ -1,0 +1,30 @@
+{
+  "id": "get-along_753336e8",
+  "expression": "get along",
+  "selectionMeta": {
+    "selectedPhrase": "get along",
+    "selectedSenseLabelKo": "잘 지내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The two roommates got along surprisingly well despite having very different personalities."
+  },
+  "step2": {
+    "story": "When the new student joined the class, everyone was curious about her. Within a week, she was getting along with everyone and even joined the drama club.",
+    "topicTag": "school friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Sam and his sister used to argue constantly when they were young. Their parents were always separating them and telling them to be kind. But as they grew older, they gradually learned to get along. Now they call each other every Sunday and often laugh about all the fights they used to have.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람과 사이좋게 잘 지내다.",
+    "realUsageKo": "사람들 사이의 관계가 원만하고 화목할 때 씁니다. 잘 지내다, 사이가 좋다에 해당합니다.",
+    "etymologyKo": "get(상태가 되다)과 along(함께, 나란히)이 결합하여 함께 잘 나아가다라는 의미가 되었습니다.",
+    "nuanceKo": "관계가 갈등 없이 순조롭다는 뉘앙스입니다. 특별히 친하다기보다 마찰 없이 지낸다는 의미가 강합니다.",
+    "shortExampleEn": "Do you get along well with your coworkers?",
+    "shortExampleKo": "동료들과 잘 지내고 있어요?"
+  }
+}

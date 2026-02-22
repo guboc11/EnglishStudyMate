@@ -1,0 +1,30 @@
+{
+  "id": "know-the-ropes_0b1673bf",
+  "expression": "know the ropes",
+  "selectionMeta": {
+    "selectedPhrase": "know the ropes",
+    "selectedSenseLabelKo": "요령을 알다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took about three months before I really knew the ropes at the new company."
+  },
+  "step2": {
+    "story": "The new volunteer was paired with someone who had been running the soup kitchen for twelve years. Within a week, she knew the ropes — which suppliers to call, which regulars needed dietary accommodations, and how to navigate the temperamental oven in the back corner.",
+    "topicTag": "learning a new role",
+    "moodTag": "gradually confident"
+  },
+  "step3": {
+    "story": "The best researchers at the archive were not always the most credentialed. The most effective ones were those who knew the ropes — who understood that certain collections were stored in auxiliary buildings with unusual access requirements, that a specific archivist could often find items not in the digital catalog, and that requesting three related items at once was more efficient than returning for each separately. These were not things you read anywhere. You learned them by showing up consistently and paying attention to how the place actually worked rather than how the website said it did.",
+    "topicTag": "institutional knowledge",
+    "moodTag": "practically savvy"
+  },
+  "meaning": {
+    "literalMeaningKo": "밧줄들을 알다.",
+    "realUsageKo": "어떤 일이나 조직의 규칙과 요령을 잘 알고 있을 때 씁니다.",
+    "etymologyKo": "항해에서 배의 밧줄(ropes) 사용법을 완전히 익힌 숙련 선원에서 유래했습니다.",
+    "nuanceKo": "경험을 통해 얻은 실용적 지식을 강조하며, 규칙이 아닌 현실적 작동 방식을 아는 것을 의미합니다.",
+    "shortExampleEn": "Ask her — she knows the ropes around here.",
+    "shortExampleKo": "그녀에게 물어봐요 — 이 곳 요령을 잘 알거든요."
+  }
+}

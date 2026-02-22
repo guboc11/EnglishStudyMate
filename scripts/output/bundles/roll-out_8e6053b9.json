@@ -1,0 +1,30 @@
+{
+  "id": "roll-out_8e6053b9",
+  "expression": "roll out",
+  "selectionMeta": {
+    "selectedPhrase": "roll out",
+    "selectedSenseLabelKo": "출시하다, 배포하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The engineering team is planning to roll out the update to all users next Thursday."
+  },
+  "step2": {
+    "story": "The new feature was first rolled out to a small group of beta testers. Their feedback helped the team fix two critical bugs before the wider release.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Rolling out a major software update across a company of five thousand employees was never going to be simple. The IT team had prepared for weeks, staged the deployment region by region, and set up a dedicated support channel for questions. On rollout day, the helpdesk saw three times the usual volume of tickets. By evening, most issues were resolved and the team celebrated quietly with takeaway coffee.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "소프트웨어, 제품, 서비스 등을 단계적으로 출시하거나 배포하다.",
+    "realUsageKo": "기술 제품이나 서비스를 전체 사용자에게 또는 단계별로 출시할 때 씁니다.",
+    "etymologyKo": "원래 펼쳐 놓다는 뜻에서 발전하여 제품이나 기능을 점진적으로 내보낸다는 의미가 되었습니다.",
+    "nuanceKo": "한 번에 전체 공개보다는 단계적 배포의 뉘앙스가 강합니다. launch보다 기술적이고 프로세스 중심적입니다.",
+    "shortExampleEn": "We are going to roll out the new dashboard to premium users first.",
+    "shortExampleKo": "새 대시보드를 먼저 프리미엄 사용자에게 배포할 예정이에요."
+  }
+}

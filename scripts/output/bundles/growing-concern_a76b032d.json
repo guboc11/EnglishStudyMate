@@ -1,0 +1,30 @@
+{
+  "id": "growing-concern_a76b032d",
+  "expression": "growing concern",
+  "selectionMeta": {
+    "selectedPhrase": "growing concern",
+    "selectedSenseLabelKo": "커지는 우려",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "There is growing concern among researchers about the long-term effects of screen time on children."
+  },
+  "step2": {
+    "story": "The growing concern among staff about the new management direction had not yet become visible in meetings, but it was fully present in hallway conversations. The manager who noticed it decided to name it in the next team meeting rather than wait for it to become louder. The conversation that followed was more useful than the one she had anticipated.",
+    "topicTag": "organizational sensing",
+    "moodTag": "proactively open"
+  },
+  "step3": {
+    "story": "The environmental agency had been tracking a growing concern about microplastic contamination in freshwater sources for four years. The data was accumulating but the regulatory threshold had not yet been crossed. Internally, scientists debated whether to communicate the concern publicly before definitive findings were available. The decision ultimately was to publish the trend data transparently, acknowledge the uncertainty, and explain what the agency was doing to improve measurement. The growing concern, they concluded, belonged to the public as much as to the scientists.",
+    "topicTag": "environmental science",
+    "moodTag": "transparently cautious"
+  },
+  "meaning": {
+    "literalMeaningKo": "커지는 우려.",
+    "realUsageKo": "시간이 갈수록 점점 강해지는 걱정이나 불안을 묘사할 때 씁니다.",
+    "etymologyKo": "growing은 증가하고 있다는 현재진행형 이미지로, 우려가 확산되고 있음을 표현합니다.",
+    "nuanceKo": "increasing concern과 유사하지만 growing은 더 유기적으로 자라나는 느낌을 줍니다.",
+    "shortExampleEn": "There is growing concern about the impact of inflation on low-income families.",
+    "shortExampleKo": "인플레이션이 저소득 가정에 미치는 영향에 대한 우려가 커지고 있어요."
+  }
+}

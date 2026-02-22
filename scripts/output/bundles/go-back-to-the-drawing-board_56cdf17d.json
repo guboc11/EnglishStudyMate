@@ -1,0 +1,30 @@
+{
+  "id": "go-back-to-the-drawing-board_56cdf17d",
+  "expression": "go back to the drawing board",
+  "selectionMeta": {
+    "selectedPhrase": "go back to the drawing board",
+    "selectedSenseLabelKo": "처음부터 다시 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The prototype failed every safety test, so the engineers had to go back to the drawing board."
+  },
+  "step2": {
+    "story": "After three rounds of user feedback, the app design team realized their navigation was fundamentally confusing. They scrapped six weeks of work and went back to the drawing board with a blank screen and fresh eyes.",
+    "topicTag": "design process",
+    "moodTag": "frustrated but focused"
+  },
+  "step3": {
+    "story": "The startup had been building its flagship product for eleven months when a competitor launched an almost identical solution — with better pricing and a larger team behind it. The founders sat in the conference room for most of the afternoon not saying much. Finally, one of them pointed at the whiteboard and said they needed to go back to the drawing board entirely — not to copy what they had, but to find the angle the competitor had missed. It was painful, but it was also the conversation that eventually led them to the pivot that made the company viable.",
+    "topicTag": "startup pivot",
+    "moodTag": "sobering then resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "설계판으로 돌아가다.",
+    "realUsageKo": "계획이나 작업이 실패해서 처음부터 다시 시작해야 할 때 씁니다.",
+    "etymologyKo": "엔지니어나 건축가가 설계도(drawing board)를 그리는 작업대로 돌아간다는 이미지에서 유래했습니다.",
+    "nuanceKo": "실망스럽지만 다시 시작할 결의가 담긴 표현으로, 자기 비판보다는 현실 직시에 가깝습니다.",
+    "shortExampleEn": "The plan was rejected, so it is back to the drawing board.",
+    "shortExampleKo": "계획이 거절됐으니 처음부터 다시 시작해야 해요."
+  }
+}

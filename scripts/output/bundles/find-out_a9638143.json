@@ -1,0 +1,30 @@
+{
+  "id": "find-out_a9638143",
+  "expression": "find out",
+  "selectionMeta": {
+    "selectedPhrase": "find out",
+    "selectedSenseLabelKo": "알아내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She found out about the surprise party by accident when she overheard her friends talking in the hallway."
+  },
+  "step2": {
+    "story": "Jake noticed a strange and unfamiliar charge on his monthly credit card statement. He called the bank right away to find out what it was and discovered someone had used his card number online.",
+    "topicTag": "grocery shopping",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "For years, Maya had wondered why her grandfather never talked about his early childhood. After he passed away peacefully, she began going carefully through his old letters and photographs. Slowly, she started to find out the truth: he had grown up during an extremely difficult time and rarely spoke about it to protect the family from sadness. The discovery made her feel both deeply sad and deeply proud of who he had been.",
+    "topicTag": "family routine",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "조사나 노력을 통해 모르던 사실이나 정보를 알게 되다.",
+    "realUsageKo": "몰랐던 정보를 직접 조사하거나 우연히 알게 되는 상황에 씁니다.",
+    "etymologyKo": "find(찾다)와 out(밖으로, 완전히)이 결합하여 숨겨진 정보를 끄집어내다라는 의미가 되었습니다.",
+    "nuanceKo": "discover보다 구어체적이며, 능동적으로 탐색하거나 우연히 알게 되는 두 경우 모두에 씁니다.",
+    "shortExampleEn": "I need to find out what time the last train leaves tonight.",
+    "shortExampleKo": "오늘 마지막 기차가 몇 시에 출발하는지 알아봐야 해요."
+  }
+}

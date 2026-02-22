@@ -1,0 +1,30 @@
+{
+  "id": "sit-down_21c18975",
+  "expression": "sit down",
+  "selectionMeta": {
+    "selectedPhrase": "sit down",
+    "selectedSenseLabelKo": "앉다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The teacher asked everyone to sit down quietly before starting the morning lesson."
+  },
+  "step2": {
+    "story": "After a long walk through the crowded city streets, they finally found a wooden bench by the river. They sat down gratefully and watched the boats drift slowly past.",
+    "topicTag": "public transportation",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Sam had been standing in line for two hours hoping to buy concert tickets at the box office. When he finally reached the front, the worker shook his head and said the show was completely sold out. Sam's legs felt weak. He sat down on the pavement beside the building and stared at the ground, wondering what to do next.",
+    "topicTag": "weekend hobby",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "서 있거나 이동하다가 자리에 앉다.",
+    "realUsageKo": "앉는 동작을 나타내는 가장 기본적인 표현으로, 교실, 회의, 일상 대화 등 어디서나 씁니다.",
+    "etymologyKo": "sit(앉다)과 down(아래로)이 결합하여 몸을 낮춰 앉는 동작을 강조합니다.",
+    "nuanceKo": "단순히 앉는 동작을 묘사하며, 지시나 요청의 형태로도 자주 쓰입니다. Have a seat보다 더 직접적인 표현입니다.",
+    "shortExampleEn": "Please sit down; the meeting will begin in just a moment.",
+    "shortExampleKo": "앉으세요. 잠시 후 회의가 시작됩니다."
+  }
+}

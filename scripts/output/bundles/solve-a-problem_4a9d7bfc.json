@@ -1,0 +1,30 @@
+{
+  "id": "solve-a-problem_4a9d7bfc",
+  "expression": "solve a problem",
+  "selectionMeta": {
+    "selectedPhrase": "solve a problem",
+    "selectedSenseLabelKo": "문제를 해결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The best engineers I know are not the smartest — they are the ones who genuinely enjoy solving problems."
+  },
+  "step2": {
+    "story": "The city council had been arguing about the parking shortage for three years without solving the problem. A citizen submitted a simple proposal in a public comment: stagger school start times by thirty minutes to reduce the morning traffic peak. It cost nothing. The council implemented it. The problem did not disappear, but it became manageable.",
+    "topicTag": "civic problem solving",
+    "moodTag": "practically elegant"
+  },
+  "step3": {
+    "story": "The design sprint had been invented specifically to compress the time between identifying a problem and testing a potential solution. The lead facilitator had run over two hundred of them. What she noticed consistently was that teams who spent more time precisely defining the problem — not brainstorming solutions, just understanding what they were actually trying to solve — tended to produce better results in the solution phase. Solving a problem well began with being ruthlessly clear about what the problem actually was.",
+    "topicTag": "design thinking",
+    "moodTag": "methodically clear"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제를 풀다.",
+    "realUsageKo": "어려운 상황이나 질문에 대한 답이나 해결책을 찾을 때 씁니다.",
+    "etymologyKo": "solve는 라틴어 solvere(풀다, 해방하다)에서 왔습니다.",
+    "nuanceKo": "fix a problem(즉각적인 수리)보다 좀 더 분석적인 과정을 함의합니다.",
+    "shortExampleEn": "We need to solve this problem before the client visits.",
+    "shortExampleKo": "클라이언트 방문 전에 이 문제를 해결해야 해요."
+  }
+}

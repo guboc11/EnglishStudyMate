@@ -1,0 +1,30 @@
+{
+  "id": "deep-understanding_28ed596d",
+  "expression": "deep understanding",
+  "selectionMeta": {
+    "selectedPhrase": "deep understanding",
+    "selectedSenseLabelKo": "깊은 이해",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Teaching a subject requires a deeper understanding of it than simply knowing the material."
+  },
+  "step2": {
+    "story": "He had read everything available on the topic and still felt he lacked a deep understanding. Then he spent a week working alongside someone who had done it for twenty years and understood in a few days what he had been unable to extract from hundreds of pages.",
+    "topicTag": "learning",
+    "moodTag": "experientially illuminated"
+  },
+  "step3": {
+    "story": "The product team had conducted extensive user research — surveys, interviews, usability tests. What they discovered in a two-day ethnographic study, watching users in their actual environment rather than asking them about it, was that their deep understanding of what the product was for had been wrong. Not completely wrong. But wrong enough that three features they had been proud of were solving problems that did not actually occur in the real context of use. The research was humbling and valuable in equal measure.",
+    "topicTag": "user research",
+    "moodTag": "humbly revelatory"
+  },
+  "meaning": {
+    "literalMeaningKo": "깊은 이해.",
+    "realUsageKo": "어떤 주제나 상황에 대해 표면적이 아닌 본질적인 수준까지 이해하고 있음을 묘사합니다.",
+    "etymologyKo": "deep은 표면 아래 깊이까지 간다는 의미로, superficial understanding(피상적 이해)과 대조됩니다.",
+    "nuanceKo": "thorough understanding(철저한 이해)과 유사하지만 deep은 직관과 통찰의 뉘앙스가 더 강합니다.",
+    "shortExampleEn": "She has a deep understanding of how markets actually behave.",
+    "shortExampleKo": "그녀는 시장이 실제로 어떻게 작동하는지 깊이 이해하고 있어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "let-the-cat-out-of-the-bag_de970284",
+  "expression": "let the cat out of the bag",
+  "selectionMeta": {
+    "selectedPhrase": "let the cat out of the bag",
+    "selectedSenseLabelKo": "비밀을 폭로하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The CEO accidentally let the cat out of the bag about the acquisition during an interview."
+  },
+  "step2": {
+    "story": "The product launch was supposed to stay under wraps until Friday. But a designer posted a teaser screenshot on social media and let the cat out of the bag two days early.",
+    "topicTag": "product launch",
+    "moodTag": "accidentally dramatic"
+  },
+  "step3": {
+    "story": "For three months, the engineering team had secretly been rebuilding the entire app from scratch. The communications team was carefully planning a big reveal campaign with press coverage and influencer posts. Everything was on track until a developer, excited about finishing a difficult feature, tweeted a screenshot with the new interface visible in the background. By morning the tech blogs had picked it up. The cat was out of the bag, and the team had to improvise a launch 72 hours ahead of schedule.",
+    "topicTag": "tech startup",
+    "moodTag": "frantic but energetic"
+  },
+  "meaning": {
+    "literalMeaningKo": "가방에서 고양이를 꺼내다.",
+    "realUsageKo": "감춰두었던 비밀이나 정보가 드러날 때 씁니다.",
+    "etymologyKo": "중세 시장에서 돼지 대신 고양이를 자루에 넣어 팔던 사기 행각이 들통나는 순간에서 유래했다는 설이 있습니다.",
+    "nuanceKo": "spill the beans보다 약간 더 공식적인 느낌이며, 이미 비밀이 드러난 사실 자체에 초점을 맞춥니다.",
+    "shortExampleEn": "She let the cat out of the bag when she mentioned the new hire.",
+    "shortExampleKo": "그녀가 새 직원 이야기를 꺼내면서 비밀이 드러났어요."
+  }
+}

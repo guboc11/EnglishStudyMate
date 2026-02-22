@@ -1,0 +1,30 @@
+{
+  "id": "pull-off_f22cd349",
+  "expression": "pull off",
+  "selectionMeta": {
+    "selectedPhrase": "pull off",
+    "selectedSenseLabelKo": "해내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Against all odds, the small team pulled off a stunning victory in the final round."
+  },
+  "step2": {
+    "story": "Planning a wedding in two weeks seemed impossible to everyone except the bride. She made call after call, called in every favor, and somehow pulled it off beautifully.",
+    "topicTag": "family routine",
+    "moodTag": "surprised then relieved"
+  },
+  "step3": {
+    "story": "The theater group had just three weeks to prepare a full production after their original show fell apart. They chose a shorter play, rehearsed every day including weekends, and built minimal but clever sets. On opening night, the audience had no idea about the chaos behind the scenes. The cast pulled off the performance with energy and focus, and received a standing ovation.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "어렵거나 불가능해 보이는 일을 성공적으로 해내다.",
+    "realUsageKo": "어려운 상황에서 성공적으로 무언가를 완수했을 때 씁니다. 놀라움이나 인상적인 성취에 자주 씁니다.",
+    "etymologyKo": "pull(당기다, 이뤄내다)과 off(완성, 성공)이 결합하여 힘들었지만 결국 성공적으로 해냈다는 의미가 되었습니다.",
+    "nuanceKo": "쉽지 않았던 일을 결국 해냈을 때의 감탄과 안도가 담긴 표현입니다.",
+    "shortExampleEn": "I can't believe you pulled off that presentation with one day's notice.",
+    "shortExampleKo": "하루 전에 통보받고도 그 발표를 해냈다니 믿을 수 없어요."
+  }
+}

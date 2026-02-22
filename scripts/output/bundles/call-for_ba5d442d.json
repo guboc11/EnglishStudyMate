@@ -1,0 +1,30 @@
+{
+  "id": "call-for_ba5d442d",
+  "expression": "call for",
+  "selectionMeta": {
+    "selectedPhrase": "call for",
+    "selectedSenseLabelKo": "요구하다, 필요로 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The situation calls for a calm and careful response, not a hasty one."
+  },
+  "step2": {
+    "story": "The residents signed a petition calling for better lighting on the main street after several incidents at night. The council agreed to review it within the month.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "After the team's second consecutive loss, some fans called for the coach to resign. The club management listened to the concerns but issued a statement saying the coach had their full support. The team went on to win the next four matches and the calls for a change quickly faded. The coach later joked that losing was the most useful thing that had happened all season.",
+    "topicTag": "school friendship",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 행동이나 조치를 요구하다; 특정 상황이 무언가를 필요로 하다.",
+    "realUsageKo": "어떤 상황에서 특정 행동이 필요하다거나, 무언가를 공식적으로 촉구할 때 씁니다.",
+    "etymologyKo": "call(요청하다)과 for(~을 위해)가 결합하여 무언가가 필요하다고 요청한다는 의미가 되었습니다.",
+    "nuanceKo": "두 가지 뜻이 있습니다. 상황이 무언가를 필요로 한다는 중립적 의미와 사람이 무언가를 요구한다는 의미로 씁니다.",
+    "shortExampleEn": "This kind of creative work calls for patience and an open mind.",
+    "shortExampleKo": "이런 창의적인 작업에는 인내심과 열린 마음이 필요해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "back-up_43f252f0",
+  "expression": "back up",
+  "selectionMeta": {
+    "selectedPhrase": "back up",
+    "selectedSenseLabelKo": "지원하다, 백업하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "She always backs up her files to an external drive at the end of every work day."
+  },
+  "step2": {
+    "story": "When the server crashed unexpectedly, the team was relieved to find that all the data had been backed up just hours before. The recovery took less than an afternoon.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "surprised then relieved"
+  },
+  "step3": {
+    "story": "Leo had been meaning to back up his laptop for months but kept putting it off. Then one morning, his screen went black and nothing would restart it. He took it to the repair shop and was told the hard drive had failed. Three years of photos and documents were gone. He left the shop in silence. The first thing he bought afterward was an external drive.",
+    "topicTag": "home",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "데이터를 복사하여 안전하게 보관하다; 누군가를 지지하거나 지원하다.",
+    "realUsageKo": "중요한 파일을 복사해 저장하거나, 사람을 돕고 지지할 때 씁니다.",
+    "etymologyKo": "back(뒤에, 후방)과 up(준비, 지원)이 결합하여 뒤에서 지원한다는 의미가 되었습니다.",
+    "nuanceKo": "기술적 백업과 사람 지원 모두에 씁니다. 기술 맥락에서는 데이터 복사를 가장 자주 가리킵니다.",
+    "shortExampleEn": "Make sure you back up your work before updating the operating system.",
+    "shortExampleKo": "운영 체제를 업데이트하기 전에 작업 내용을 꼭 백업하세요."
+  }
+}

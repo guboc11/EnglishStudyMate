@@ -1,0 +1,30 @@
+{
+  "id": "waste-time_5b71bb61",
+  "expression": "waste time",
+  "selectionMeta": {
+    "selectedPhrase": "waste time",
+    "selectedSenseLabelKo": "시간을 낭비하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Stop wasting time on apps and get back to work."
+  },
+  "step2": {
+    "story": "She had spent an entire afternoon in a meeting that could have been an email. On the walk back to her desk she thought about what wasting time actually meant: not idle moments, which were valuable, but time spent on things that produced nothing for anyone, including oneself.",
+    "topicTag": "productivity",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "The architect had a reputation for spending long hours at his desk doing what looked to others like very little. He would stare at a half-finished drawing, make a line, erase it, stare again. His junior colleagues found it maddening at first. Then one of them watched long enough to understand that what looked like wasting time was in fact the most active part of the work — the visual and spatial problem-solving that happened before the hand moved. He was not wasting time. He was spending it on the part that could not be hurried.",
+    "topicTag": "creative process",
+    "moodTag": "thoughtfully unhurried"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간을 낭비하다.",
+    "realUsageKo": "아무 성과 없이 시간을 헛되이 쓸 때 씁니다.",
+    "etymologyKo": "waste는 고대 프랑스어 waster(파괴하다, 낭비하다)에서 왔습니다.",
+    "nuanceKo": "주관적인 표현으로, 어떤 것이 시간 낭비인지는 관점에 따라 다릅니다.",
+    "shortExampleEn": "Do not waste time worrying about things you cannot control.",
+    "shortExampleKo": "통제할 수 없는 일에 시간을 낭비하지 마요."
+  }
+}

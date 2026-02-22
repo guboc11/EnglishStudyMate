@@ -1,0 +1,30 @@
+{
+  "id": "have-a-conversation_1acd3fae",
+  "expression": "have a conversation",
+  "selectionMeta": {
+    "selectedPhrase": "have a conversation",
+    "selectedSenseLabelKo": "대화를 나누다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to have a conversation about how the team is communicating right now."
+  },
+  "step2": {
+    "story": "They had worked side by side for two years without ever having a real conversation. It took a delayed flight and a shared table at the airport lounge to finally start one. By boarding time, both agreed they should have done it much sooner.",
+    "topicTag": "human connection",
+    "moodTag": "warmly overdue"
+  },
+  "step3": {
+    "story": "The curriculum director believed strongly that certain topics required more than a lesson — they required a conversation. She restructured three units to be discussion-based rather than lecture-based, trained teachers in facilitation rather than delivery, and built in time for students to reflect and respond to each other. The change was uncomfortable for teachers who were more confident in their expertise than in their ability to manage open dialogue. By year two, the courses were consistently receiving the highest student engagement scores in the school.",
+    "topicTag": "education",
+    "moodTag": "purposefully open"
+  },
+  "meaning": {
+    "literalMeaningKo": "대화를 갖다.",
+    "realUsageKo": "두 사람 이상이 서로 이야기를 나눌 때 씁니다.",
+    "etymologyKo": "have는 경험하다는 의미로, conversation과 결합해 대화 행위를 표현합니다.",
+    "nuanceKo": "격식 있는 자리에서는 hold a conversation도 씁니다. do a conversation은 틀린 표현입니다.",
+    "shortExampleEn": "Let us have a conversation about this after the meeting.",
+    "shortExampleKo": "회의 후에 이에 대해 대화를 나눠요."
+  }
+}

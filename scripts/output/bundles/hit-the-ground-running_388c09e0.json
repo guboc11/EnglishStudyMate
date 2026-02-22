@@ -1,0 +1,30 @@
+{
+  "id": "hit-the-ground-running_388c09e0",
+  "expression": "hit the ground running",
+  "selectionMeta": {
+    "selectedPhrase": "hit the ground running",
+    "selectedSenseLabelKo": "처음부터 빠르게 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She hit the ground running on her first day, already knowing the codebase and contributing to the morning standup."
+  },
+  "step2": {
+    "story": "The new director hit the ground running — within the first week she had met with every department head, reviewed the annual budget, and identified three quick wins the organization could act on immediately.",
+    "topicTag": "new role",
+    "moodTag": "energized"
+  },
+  "step3": {
+    "story": "Most people need at least a month to find their footing in a new city. Dani gave herself a week. She had researched the neighborhood before arriving, mapped her commute, identified a nearby gym and a good coffee shop, and introduced herself to her neighbors on day two. By the end of the first week she had hit the ground running so effectively that she genuinely forgot she was supposed to feel lost. She acknowledged later that the preparation had been the real work — the arrival was just execution.",
+    "topicTag": "new beginning",
+    "moodTag": "proactive and capable"
+  },
+  "meaning": {
+    "literalMeaningKo": "땅에 닿자마자 달리다.",
+    "realUsageKo": "새로운 상황이나 역할에 즉시, 준비된 상태로 적극적으로 뛰어들 때 씁니다.",
+    "etymologyKo": "공수 훈련에서 낙하산 병사가 착지하는 순간부터 달려야 하는 상황에서 유래했습니다.",
+    "nuanceKo": "준비성과 즉각적인 행동력을 칭찬하는 맥락에서 자주 씁니다.",
+    "shortExampleEn": "We need someone who can hit the ground running from day one.",
+    "shortExampleKo": "첫날부터 바로 활약할 수 있는 사람이 필요해요."
+  }
+}

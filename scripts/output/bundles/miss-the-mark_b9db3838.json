@@ -1,0 +1,30 @@
+{
+  "id": "miss-the-mark_b9db3838",
+  "expression": "miss the mark",
+  "selectionMeta": {
+    "selectedPhrase": "miss the mark",
+    "selectedSenseLabelKo": "목표를 빗나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The ad campaign generated clicks but missed the mark when it came to actual conversions."
+  },
+  "step2": {
+    "story": "The gift was thoughtful and expensive, but it missed the mark — it was something he would admire rather than use, and she had wanted to give him something he would actually carry with him every day.",
+    "topicTag": "good intentions",
+    "moodTag": "well-meaning but off"
+  },
+  "step3": {
+    "story": "The training program had been designed by a consultant who had interviewed managers but not frontline staff. When it launched, attendance was high because it was mandatory. Engagement was not. The activities were aimed at skills the participants already had; the real challenges they faced daily were never addressed. The program missed the mark by solving for what looked like the problem rather than what was actually the problem. Feedback was collected at the end, and for the first time, management read all of it. The next version was designed in collaboration with the people it was meant to serve.",
+    "topicTag": "training design",
+    "moodTag": "honest failure then improvement"
+  },
+  "meaning": {
+    "literalMeaningKo": "표적을 빗나가다.",
+    "realUsageKo": "목표, 기대, 또는 핵심을 정확히 맞추지 못했을 때 씁니다.",
+    "etymologyKo": "활쏘기나 사격에서 표적을 맞히지 못하는 상황에서 유래했습니다.",
+    "nuanceKo": "노력은 인정하지만 결과가 기대에 미치지 못했음을 표현합니다.",
+    "shortExampleEn": "The proposal missed the mark on what the client actually needed.",
+    "shortExampleKo": "그 제안서는 클라이언트가 실제로 필요한 것을 빗나갔어요."
+  }
+}

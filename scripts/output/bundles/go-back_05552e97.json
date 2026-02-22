@@ -1,0 +1,30 @@
+{
+  "id": "go-back_05552e97",
+  "expression": "go back",
+  "selectionMeta": {
+    "selectedPhrase": "go back",
+    "selectedSenseLabelKo": "돌아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She realized she had left her umbrella at the cafe and had to go back to get it."
+  },
+  "step2": {
+    "story": "After ten years in the city, Marco decided to go back to the small town where he grew up. He wanted his children to have the same quiet childhood he had enjoyed.",
+    "topicTag": "family routine",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "The hike had been going well until one member of the group twisted her ankle on a rocky section of trail. They decided they had to go back rather than continue to the summit. It was a little disappointing, but everyone agreed it was the right call. They helped her carefully down the path and found a place to rest at the trailhead.",
+    "topicTag": "weekend hobby",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "왔던 곳이나 이전에 있던 장소로 되돌아가다.",
+    "realUsageKo": "물리적으로 이전 장소로 돌아가거나, 이전 시간이나 상황으로 되돌아가는 맥락에 씁니다.",
+    "etymologyKo": "go(가다)와 back(뒤로, 원래 위치)이 결합하여 원래 있던 곳으로 되돌아가다라는 의미가 되었습니다.",
+    "nuanceKo": "come back은 화자 쪽으로 오는 방향이고, go back은 화자가 다른 곳으로 되돌아가는 방향입니다.",
+    "shortExampleEn": "I want to go back and visit my old school someday.",
+    "shortExampleKo": "언젠가 예전 학교에 다시 돌아가서 방문하고 싶어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "stay-focused_4097e655",
+  "expression": "stay focused",
+  "selectionMeta": {
+    "selectedPhrase": "stay focused",
+    "selectedSenseLabelKo": "집중을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With so many competing priorities, staying focused on the core objective became the real challenge."
+  },
+  "step2": {
+    "story": "The athlete had one technique for staying focused during high-pressure moments: she narrowed her attention to a single sensory anchor — the weight of the ball in her hand, the sound of her own breathing. Everything else contracted around that point. Focus was not the absence of distraction. It was the return to something specific.",
+    "topicTag": "performance psychology",
+    "moodTag": "precisely anchored"
+  },
+  "step3": {
+    "story": "The startup had an unusually long list of features they wanted to build. What kept the team from building all of them simultaneously — which would have been fatal — was a practice the product lead called the single sentence: at any given moment, the team could say in one sentence what they were building and why. If more than one sentence was needed, the focus had drifted. Staying focused was not a discipline imposed on the team from above. It was a shared practice the team held each other accountable to.",
+    "topicTag": "product focus",
+    "moodTag": "collectively disciplined"
+  },
+  "meaning": {
+    "literalMeaningKo": "집중을 유지하다.",
+    "realUsageKo": "방해 요소에도 불구하고 목표나 과제에 집중력을 유지할 때 씁니다.",
+    "etymologyKo": "stay는 상태를 유지하다는 의미로, 집중력이 흐트러지지 않도록 지속함을 표현합니다.",
+    "nuanceKo": "remain focused와 동의어이며, keep focused도 같은 의미로 씁니다.",
+    "shortExampleEn": "It is hard to stay focused in an open-plan office.",
+    "shortExampleKo": "오픈형 사무실에서 집중을 유지하기는 어려워요."
+  }
+}

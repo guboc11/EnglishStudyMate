@@ -1,0 +1,30 @@
+{
+  "id": "break-a-habit_604e873d",
+  "expression": "break a habit",
+  "selectionMeta": {
+    "selectedPhrase": "break a habit",
+    "selectedSenseLabelKo": "습관을 고치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Breaking a habit is much harder than forming one — most people underestimate how much."
+  },
+  "step2": {
+    "story": "She had tried to break the habit of checking her email last thing at night for two years. What finally worked was not willpower but replacement — she put a paperback novel on the nightstand and moved the phone charger to the kitchen. The habit broke not because she resisted it but because she made it inconvenient.",
+    "topicTag": "habit change",
+    "moodTag": "practically effective"
+  },
+  "step3": {
+    "story": "The behavioral researcher had spent a career studying how people broke unwanted habits. Her consistent finding contradicted popular advice: telling people to stop doing something was almost never enough. What worked was identifying the cue and the reward behind the habit, and then substituting a different routine that delivered a similar reward in response to the same cue. People did not break habits in a vacuum. They replaced them. Understanding this had changed how she thought about self-improvement in general.",
+    "topicTag": "behavioral science",
+    "moodTag": "evidence-based"
+  },
+  "meaning": {
+    "literalMeaningKo": "습관을 부수다.",
+    "realUsageKo": "반복적으로 하던 행동 패턴을 멈출 때 씁니다.",
+    "etymologyKo": "break는 단절하다는 의미로, 연속적인 습관의 고리를 끊어내는 이미지입니다.",
+    "nuanceKo": "kick a habit(더 구어적)과 유사하지만 break는 의지적 단절에 초점을 맞춥니다.",
+    "shortExampleEn": "He finally broke the habit of skipping breakfast.",
+    "shortExampleKo": "그는 마침내 아침을 거르는 습관을 고쳤어요."
+  }
+}

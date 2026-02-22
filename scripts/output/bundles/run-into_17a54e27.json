@@ -1,0 +1,30 @@
+{
+  "id": "run-into_17a54e27",
+  "expression": "run into",
+  "selectionMeta": {
+    "selectedPhrase": "run into",
+    "selectedSenseLabelKo": "우연히 만나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She ran into her old professor at the bookstore and they talked for nearly an hour."
+  },
+  "step2": {
+    "story": "James was walking home from the supermarket when he ran into a childhood friend he had not seen in over fifteen years. They stood on the sidewalk swapping stories until it got dark.",
+    "topicTag": "street",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "On her first day in the new city, Clara wandered into a small art gallery just to escape the rain. She had no plan and knew no one. Inside, she ran into a woman from her hometown who had moved there years earlier. They recognized each other immediately and laughed at the coincidence. That random meeting turned into a friendship that lasted for years.",
+    "topicTag": "travel day",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "계획 없이 우연히 누군가를 만나다.",
+    "realUsageKo": "약속 없이 예상치 못한 장소에서 아는 사람을 만났을 때 씁니다.",
+    "etymologyKo": "run(이동하다)과 into(안으로, ~와 충돌하여)가 결합하여 예상치 못하게 마주친다는 의미가 되었습니다.",
+    "nuanceKo": "우연의 요소가 핵심입니다. 계획된 만남에는 쓰지 않습니다. bump into와 같은 뜻입니다.",
+    "shortExampleEn": "I ran into my neighbor at the gym this morning.",
+    "shortExampleKo": "오늘 아침 헬스장에서 이웃을 우연히 만났어요."
+  }
+}

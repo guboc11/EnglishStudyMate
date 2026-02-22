@@ -1,0 +1,30 @@
+{
+  "id": "clear-message_27261336",
+  "expression": "clear message",
+  "selectionMeta": {
+    "selectedPhrase": "clear message",
+    "selectedSenseLabelKo": "명확한 메시지",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The campaign needed a clear message that resonated with voters across different regions."
+  },
+  "step2": {
+    "story": "The press release had seventeen key points. The communications director cut it to three. The pushback from her team was immediate. The coverage the next day quoted exactly the three points she had kept, and none of the fourteen she had removed. A clear message, she said at the debrief, was not a summary. It was a choice.",
+    "topicTag": "communications",
+    "moodTag": "decisively clear"
+  },
+  "step3": {
+    "story": "The organization had spent considerable resources developing a brand platform that included a mission statement, a vision statement, four values statements, and an eight-word tagline. When they surveyed employees on what message they took away from it all, no two answers were the same. The brand strategist they brought in made a simple observation: the clearest message in the room was the one that could be repeated without looking at a document. They started over with a single sentence that could survive a hallway conversation. Six months later, internal surveys showed consistent alignment for the first time.",
+    "topicTag": "brand strategy",
+    "moodTag": "clarifyingly simple"
+  },
+  "meaning": {
+    "literalMeaningKo": "명확한 메시지.",
+    "realUsageKo": "오해 없이 의도가 분명하게 전달되는 소통 내용을 묘사할 때 씁니다.",
+    "etymologyKo": "clear는 투명하고 모호함이 없다는 의미로, 이해하기 쉬운 메시지를 수식합니다.",
+    "nuanceKo": "send a clear message(명확한 신호를 보내다)처럼 비유적으로도 씁니다.",
+    "shortExampleEn": "The manager sent a clear message that punctuality was non-negotiable.",
+    "shortExampleKo": "매니저는 시간 엄수는 협상 불가임을 명확한 메시지로 전달했어요."
+  }
+}

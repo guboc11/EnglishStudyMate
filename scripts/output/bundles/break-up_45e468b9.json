@@ -1,0 +1,30 @@
+{
+  "id": "break-up_45e468b9",
+  "expression": "break up",
+  "selectionMeta": {
+    "selectedPhrase": "break up",
+    "selectedSenseLabelKo": "헤어지다, 해체하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She heard through a mutual friend that they had broken up after two years together."
+  },
+  "step2": {
+    "story": "The school band that had performed together for three years announced it was breaking up after the final concert. Each member had decided to pursue different paths after graduation.",
+    "topicTag": "school friendship",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "When Ana and her partner broke up, she kept it to herself for a week before telling her closest friends. She was not sad in the way she expected to be. In fact, after a few days, she felt lighter and more like herself. She spent the following weekend rearranging her apartment and hanging new photos on the wall.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "연인 사이가 끝나다; 그룹이나 조직이 해체되다.",
+    "realUsageKo": "연인 관계가 끝날 때, 또는 그룹이나 팀이 해체될 때 씁니다.",
+    "etymologyKo": "break(깨다)와 up(완전히)이 결합하여 관계나 조직이 완전히 깨진다는 의미가 되었습니다.",
+    "nuanceKo": "연인 사이 이별을 가장 자연스럽게 표현하는 단어입니다. split up과도 비슷한 뜻입니다.",
+    "shortExampleEn": "They broke up quietly after realizing they wanted different things.",
+    "shortExampleKo": "서로가 다른 것을 원한다는 것을 깨닫고 조용히 헤어졌어요."
+  }
+}

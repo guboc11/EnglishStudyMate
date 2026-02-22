@@ -1,0 +1,30 @@
+{
+  "id": "go-the-extra-mile_1509db70",
+  "expression": "go the extra mile",
+  "selectionMeta": {
+    "selectedPhrase": "go the extra mile",
+    "selectedSenseLabelKo": "각별한 노력을 기울이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The hotel staff went the extra mile, leaving a personalized welcome note and flowers in our room."
+  },
+  "step2": {
+    "story": "Most candidates submitted their portfolio as a PDF link. Hana went the extra mile and built a custom interactive website that loaded differently depending on which role she was applying for. She got three callbacks from four applications.",
+    "topicTag": "job application",
+    "moodTag": "impressed"
+  },
+  "step3": {
+    "story": "The small repair shop had modest equipment and a modest reputation. What kept customers returning year after year was the owner's habit of going the extra mile in small, unscripted ways — calling to check in a week after a repair, noticing a different problem and fixing it for free, or simply remembering a customer's name and the story behind the item they had brought in. None of these things cost much money. Taken together, they built a loyalty that no marketing budget could replicate. When a chain competitor opened a block away, not a single regular customer switched.",
+    "topicTag": "customer service",
+    "moodTag": "warmly loyal"
+  },
+  "meaning": {
+    "literalMeaningKo": "여분의 1마일을 더 가다.",
+    "realUsageKo": "기대 이상의 노력이나 배려를 기울일 때 씁니다.",
+    "etymologyKo": "성경 마태복음에서 유래한 표현으로, 1마일을 강제로 가야 할 때 2마일을 자발적으로 가라는 가르침에서 나왔습니다.",
+    "nuanceKo": "특별한 헌신이나 서비스 정신을 칭찬할 때 자주 씁니다.",
+    "shortExampleEn": "She always goes the extra mile for her students.",
+    "shortExampleKo": "그녀는 항상 학생들을 위해 특별한 노력을 기울여요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "raise-awareness_ec59b021",
+  "expression": "raise awareness",
+  "selectionMeta": {
+    "selectedPhrase": "raise awareness",
+    "selectedSenseLabelKo": "인식을 높이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The campaign was designed to raise awareness about food waste among young people."
+  },
+  "step2": {
+    "story": "The organization had raised awareness effectively for three years — their content reached millions of people. What they had not done as well was convert awareness into action. They started treating those as two separate problems, and the results improved.",
+    "topicTag": "social campaign",
+    "moodTag": "strategically honest"
+  },
+  "step3": {
+    "story": "The documentary had been made explicitly to raise awareness about deep-sea mining. It reached a large audience. The filmmakers tracked not just viewership but downstream impact — whether the audience had changed their behavior, contacted representatives, or engaged with related organizations. The numbers were humbling: awareness had increased measurably; behavior change had not. The experience reshaped how the filmmakers thought about their next project. Raising awareness was necessary but not sufficient. What happened after the awareness was raised mattered at least as much.",
+    "topicTag": "advocacy",
+    "moodTag": "honestly sobered"
+  },
+  "meaning": {
+    "literalMeaningKo": "인식을 높이다.",
+    "realUsageKo": "어떤 이슈에 대해 더 많은 사람들이 알고 관심 갖게 만들 때 씁니다.",
+    "etymologyKo": "raise는 높이다는 의미로, 낮게 깔려있는 인식의 수준을 끌어올리는 이미지입니다.",
+    "nuanceKo": "인식 제고 자체가 목적이 되기보다 행동 변화를 위한 첫 단계로 보는 시각이 일반적입니다.",
+    "shortExampleEn": "The event helped raise awareness about mental health in the community.",
+    "shortExampleKo": "그 행사는 지역사회에서 정신 건강에 대한 인식을 높이는 데 도움이 됐어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "gain-experience_eaf35835",
+  "expression": "gain experience",
+  "selectionMeta": {
+    "selectedPhrase": "gain experience",
+    "selectedSenseLabelKo": "경험을 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Volunteering abroad is an excellent way to gain experience while giving back."
+  },
+  "step2": {
+    "story": "The internship paid almost nothing, but she took it because she needed to gain experience in a field where credentials alone opened very few doors. By the end of the summer she had three portfolio pieces, two professional references, and a clearer sense of what she actually wanted to do next.",
+    "topicTag": "career development",
+    "moodTag": "purposeful"
+  },
+  "step3": {
+    "story": "The junior surgeon had completed all the required procedures for certification, but completing and mastering were not the same thing. Her attending made this distinction clearly: the paperwork said she was ready; gaining experience was the work of the next decade. She operated alongside him for another year by choice, taking every opportunity she could find, asking questions after every case. The confidence that came with experience was different from the confidence that came with credentials, and she had wanted both before she stepped back from supervision.",
+    "topicTag": "professional growth",
+    "moodTag": "patient and deliberate"
+  },
+  "meaning": {
+    "literalMeaningKo": "경험을 얻다.",
+    "realUsageKo": "실제 활동을 통해 지식이나 기술을 쌓을 때 씁니다.",
+    "etymologyKo": "gain은 무언가를 얻거나 획득하는 의미이며, experience와 결합해 능동적 축적을 강조합니다.",
+    "nuanceKo": "get experience보다 약간 더 격식체이며, 이력서나 공식 상황에서 자주 씁니다.",
+    "shortExampleEn": "She moved abroad to gain experience in international markets.",
+    "shortExampleKo": "그녀는 국제 시장에서 경험을 쌓으려고 해외로 이주했어요."
+  }
+}

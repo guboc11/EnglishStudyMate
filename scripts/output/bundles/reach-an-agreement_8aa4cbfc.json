@@ -1,0 +1,30 @@
+{
+  "id": "reach-an-agreement_8aa4cbfc",
+  "expression": "reach an agreement",
+  "selectionMeta": {
+    "selectedPhrase": "reach an agreement",
+    "selectedSenseLabelKo": "합의에 도달하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three rounds of negotiation, both sides finally reached an agreement."
+  },
+  "step2": {
+    "story": "They had been trying to reach an agreement for months. What finally moved the conversation was one side asking the other what a good outcome would look like for them — not what they wanted, but what they actually needed. The answer surprised both parties and made the agreement possible within a week.",
+    "topicTag": "negotiation breakthrough",
+    "moodTag": "unexpectedly simple"
+  },
+  "step3": {
+    "story": "The labor agreement had taken fourteen months to reach. Observers who had watched only the public statements had assumed it was a story of two sides with incompatible positions. What the lead negotiator on each side knew was that the public statements were a different negotiation entirely — a performance for different audiences — and that the actual agreement had been built through a hundred small private exchanges, each one narrowing the distance between what was possible and what was acceptable. Reaching an agreement was rarely one moment. It was usually the accumulation of many smaller ones.",
+    "topicTag": "labor relations",
+    "moodTag": "process-aware"
+  },
+  "meaning": {
+    "literalMeaningKo": "합의에 닿다.",
+    "realUsageKo": "협상이나 논의를 통해 서로 동의하는 결론에 이를 때 씁니다.",
+    "etymologyKo": "reach는 물리적 도달의 비유로, 협상을 통해 양측이 합의점에 다가가는 과정을 표현합니다.",
+    "nuanceKo": "come to an agreement와 유사하지만 reach는 여정과 노력을 더 강조합니다.",
+    "shortExampleEn": "The two countries reached an agreement on trade terms.",
+    "shortExampleKo": "두 나라가 무역 조건에 대한 합의에 도달했어요."
+  }
+}

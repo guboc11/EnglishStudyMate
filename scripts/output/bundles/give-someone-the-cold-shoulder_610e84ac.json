@@ -1,0 +1,30 @@
+{
+  "id": "give-someone-the-cold-shoulder_610e84ac",
+  "expression": "give someone the cold shoulder",
+  "selectionMeta": {
+    "selectedPhrase": "give someone the cold shoulder",
+    "selectedSenseLabelKo": "냉대하다, 무시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Ever since their argument last month, she has been giving him the cold shoulder at every meeting."
+  },
+  "step2": {
+    "story": "He showed up to the reunion hoping to reconnect with his old friend, but she gave him the cold shoulder all evening. He left early, wondering what he had done without realizing it.",
+    "topicTag": "social tension",
+    "moodTag": "awkward and sad"
+  },
+  "step3": {
+    "story": "In the weeks after the controversial company reorg, two directors who had been close collaborators for years stopped speaking. One had supported the restructuring; the other had openly opposed it and lost resources in the process. At department meetings they sat at opposite ends of the table. In the hallway they gave each other the cold shoulder with practiced efficiency. Their teams, watching from the sides, mirrored the tension in their own interactions. A mediator was eventually brought in, and in a private session, both admitted they had missed working together. The cold shoulder had cost both of them more than either had intended.",
+    "topicTag": "workplace relationship",
+    "moodTag": "sad and somewhat self-defeating"
+  },
+  "meaning": {
+    "literalMeaningKo": "차가운 어깨를 보여주다.",
+    "realUsageKo": "누군가를 의도적으로 냉담하게 대하거나 무시할 때 씁니다.",
+    "etymologyKo": "스코틀랜드에서 반갑지 않은 손님에게 따뜻한 음식 대신 차가운 어깨 고기를 내놓았다는 데서 유래했다는 설이 있습니다.",
+    "nuanceKo": "말 없는 거절이나 의도적 무시를 나타내며, 화가 났거나 상처받은 감정을 표현하는 방식입니다.",
+    "shortExampleEn": "Why is she giving you the cold shoulder?",
+    "shortExampleKo": "그녀가 왜 당신을 냉대하는 거예요?"
+  }
+}

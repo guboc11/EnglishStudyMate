@@ -1,0 +1,30 @@
+{
+  "id": "significant-change_f833e620",
+  "expression": "significant change",
+  "selectionMeta": {
+    "selectedPhrase": "significant change",
+    "selectedSenseLabelKo": "중요한 변화",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The policy introduced significant changes to how data was handled across the organization."
+  },
+  "step2": {
+    "story": "The significant change in her perspective had not come from a single event but from an accumulation of small observations over three years that finally arranged themselves into a different picture. She could not point to the moment it happened — only to the morning she realized it already had.",
+    "topicTag": "perspective shift",
+    "moodTag": "gradually realized"
+  },
+  "step3": {
+    "story": "The CEO had announced that significant change was coming to the organizational structure without providing specifics, in an attempt to prepare people without causing premature alarm. The effect was the opposite: in the absence of specifics, the rumor mill provided its own specifics, each version more dramatic than the last. By the time the actual changes were announced three weeks later, they were more modest than almost any version that had circulated. The lesson was durable: when significant change is coming, vagueness does not reduce anxiety. It amplifies it.",
+    "topicTag": "change management",
+    "moodTag": "instructive communication failure"
+  },
+  "meaning": {
+    "literalMeaningKo": "중요한 변화.",
+    "realUsageKo": "눈에 띄게 크거나 중요한 수준의 변화를 묘사할 때 씁니다.",
+    "etymologyKo": "significant는 의미 있는, 중요한 정도의라는 의미로, 사소한 변화와 구별됩니다.",
+    "nuanceKo": "major change와 유사하지만 significant는 영향의 중요성을 더 강조합니다.",
+    "shortExampleEn": "The merger brought significant change to the company culture.",
+    "shortExampleKo": "합병은 회사 문화에 중요한 변화를 가져왔어요."
+  }
+}

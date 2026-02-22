@@ -1,0 +1,30 @@
+{
+  "id": "start-fresh_b36c57b7",
+  "expression": "start fresh",
+  "selectionMeta": {
+    "selectedPhrase": "start fresh",
+    "selectedSenseLabelKo": "새로 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the failed launch, the team decided to start fresh with a completely different approach."
+  },
+  "step2": {
+    "story": "She had moved to a city where she knew nobody and had no professional reputation. Starting fresh was disorienting for the first three months and liberating for the next three years. The absence of a prior narrative had left space for a different one.",
+    "topicTag": "new beginning",
+    "moodTag": "disorienting then freeing"
+  },
+  "step3": {
+    "story": "The codebase had accumulated five years of incremental changes, each made with good intentions, none made with a view of the whole. Technical debt had grown to the point where adding new features required navigating around so many legacy constraints that progress had nearly stalled. The engineering team proposed starting fresh — not abandoning existing functionality, but rebuilding the architecture cleanly from current requirements rather than historical ones. The rewrite took eight months. The resulting system was faster, cleaner, and the team's velocity on new features doubled. Starting fresh had been the most conservative decision available.",
+    "topicTag": "software engineering",
+    "moodTag": "counter-intuitively wise"
+  },
+  "meaning": {
+    "literalMeaningKo": "새롭게 시작하다.",
+    "realUsageKo": "과거를 뒤로 하고 새로운 출발점에서 다시 시작할 때 씁니다.",
+    "etymologyKo": "fresh는 새롭고 오염되지 않은 상태를 의미하며, 이전의 것에 구애받지 않는 새 출발을 표현합니다.",
+    "nuanceKo": "start over와 유사하지만 start fresh는 새로움과 청정함의 뉘앙스를 더 담습니다.",
+    "shortExampleEn": "The new year felt like a chance to start fresh.",
+    "shortExampleKo": "새해는 새롭게 시작할 기회처럼 느껴졌어요."
+  }
+}

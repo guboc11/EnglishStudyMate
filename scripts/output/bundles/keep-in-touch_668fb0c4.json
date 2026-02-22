@@ -1,0 +1,30 @@
+{
+  "id": "keep-in-touch_668fb0c4",
+  "expression": "keep in touch",
+  "selectionMeta": {
+    "selectedPhrase": "keep in touch",
+    "selectedSenseLabelKo": "연락을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We promised to keep in touch after the conference, and we actually have."
+  },
+  "step2": {
+    "story": "She had kept in touch with her former professor for twelve years — an email every few months, occasional coffee when she was in the city. The relationship had shaped her career in ways she could not have predicted when she had written the first awkward message after graduation.",
+    "topicTag": "long-term connection",
+    "moodTag": "warmly sustained"
+  },
+  "step3": {
+    "story": "The alumni network had been redesigned not as a fundraising mechanism but as a professional community that people actually wanted to stay part of. The key change was simple: the organization did things to keep in touch with alumni rather than only reaching out when it needed something. It sent genuinely useful resources, facilitated introductions between members, and recognized contributions publicly. Engagement increased significantly. When the fundraising campaigns came, they converted at three times the previous rate — not because the asks had changed, but because the relationship had.",
+    "topicTag": "community building",
+    "moodTag": "relationally generous"
+  },
+  "meaning": {
+    "literalMeaningKo": "접촉을 유지하다.",
+    "realUsageKo": "떨어져 있어도 연락을 주고받으며 관계를 이어갈 때 씁니다.",
+    "etymologyKo": "touch는 접촉을 의미하며, keep in touch는 관계의 연결이 끊기지 않도록 유지한다는 의미입니다.",
+    "nuanceKo": "stay in touch와 동의어입니다. 헤어지면서 인사할 때 관용적으로 많이 씁니다.",
+    "shortExampleEn": "Let us keep in touch and catch up properly soon.",
+    "shortExampleKo": "연락 유지하면서 곧 제대로 만나요."
+  }
+}

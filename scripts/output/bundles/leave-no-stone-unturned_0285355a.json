@@ -1,0 +1,30 @@
+{
+  "id": "leave-no-stone-unturned_0285355a",
+  "expression": "leave no stone unturned",
+  "selectionMeta": {
+    "selectedPhrase": "leave no stone unturned",
+    "selectedSenseLabelKo": "모든 수단을 동원하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The investigators left no stone unturned in their search for the missing files."
+  },
+  "step2": {
+    "story": "After the prototype went missing from the lab, the team left no stone unturned — they reviewed every security camera log, interviewed every badge-holder, and searched every drawer and storage room on two floors.",
+    "topicTag": "thorough search",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the rare manuscript was reported stolen from the university archive, the archivist took it personally. She contacted every specialist dealer, scanned auction house databases going back fifteen years, posted in five academic forums, and eventually flew to a conference specifically to speak with an expert who had once seen a similar piece. Three months later, the manuscript appeared at an estate sale in another country — found because she had left no stone unturned and built a network of people who knew to contact her. The recovery made local news, but she considered it simply the minimum that her collection deserved.",
+    "topicTag": "dedicated search",
+    "moodTag": "resolute and meticulous"
+  },
+  "meaning": {
+    "literalMeaningKo": "뒤집지 않은 돌을 남기지 마라.",
+    "realUsageKo": "목표 달성을 위해 가능한 모든 방법과 수단을 철저히 동원할 때 씁니다.",
+    "etymologyKo": "고대 그리스 신탁에서 보물을 찾으려면 모든 돌을 뒤집어 보라는 조언에서 유래했다는 설이 있습니다.",
+    "nuanceKo": "철저함과 집요함을 강조하며, 중요한 목표를 위한 완전한 노력을 묘사합니다.",
+    "shortExampleEn": "She left no stone unturned to find a solution.",
+    "shortExampleKo": "그녀는 해결책을 찾기 위해 모든 수단을 동원했어요."
+  }
+}

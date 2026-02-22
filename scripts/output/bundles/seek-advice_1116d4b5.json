@@ -1,0 +1,30 @@
+{
+  "id": "seek-advice_1116d4b5",
+  "expression": "seek advice",
+  "selectionMeta": {
+    "selectedPhrase": "seek advice",
+    "selectedSenseLabelKo": "조언을 구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before signing the contract, she sought advice from two experienced lawyers."
+  },
+  "step2": {
+    "story": "He had always found it difficult to seek advice — it felt like admitting he did not know something he should. Eventually he reframed it: the people he most respected were the ones who sought input constantly and made better decisions because of it.",
+    "topicTag": "professional growth",
+    "moodTag": "humbly reframed"
+  },
+  "step3": {
+    "story": "The entrepreneur had sought advice from fourteen people before launching her second company. What she noticed, looking back, was that the most useful advice had come from two people who had specifically failed at what she was attempting, not from those who had succeeded. Success stories were easy to tell and hard to replicate. Failure stories contained the specific friction points she needed to plan around. Seeking advice, she concluded, meant being intentional about whose experience was actually relevant.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "strategically curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "조언을 구하다.",
+    "realUsageKo": "어떤 상황에서 어떻게 해야 할지 다른 사람의 의견을 적극적으로 요청할 때 씁니다.",
+    "etymologyKo": "seek는 적극적으로 찾아나선다는 의미로, ask for advice보다 능동성이 강합니다.",
+    "nuanceKo": "seek advice from someone처럼 출처를 함께 씁니다. 공식·격식 맥락에 어울립니다.",
+    "shortExampleEn": "Always seek advice before making a major financial decision.",
+    "shortExampleKo": "큰 재정적 결정을 내리기 전에 항상 조언을 구하세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "look-back_784f494e",
+  "expression": "look back",
+  "selectionMeta": {
+    "selectedPhrase": "look back",
+    "selectedSenseLabelKo": "돌이켜보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When she looks back on her college years, she always smiles at the memories."
+  },
+  "step2": {
+    "story": "Now retired, the architect liked to look back at the buildings she had designed over forty years. She felt proud of some and amused by others, especially the ones from her very first projects.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "At the end of every year, Marcus spent an evening looking back at everything that had happened. He kept a simple notebook where he wrote one sentence for each month. Some entries were short and quiet, others were full of unexpected turns. Looking back helped him see how far he had come, even in years that had felt difficult and slow.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "과거를 회상하거나 지나온 일을 되돌아보다.",
+    "realUsageKo": "과거의 경험이나 결정을 다시 생각할 때 씁니다. reflect on과 비슷한 뜻입니다.",
+    "etymologyKo": "look(보다)과 back(뒤로)이 결합하여 뒤를 돌아본다, 즉 과거를 되짚어본다는 의미가 되었습니다.",
+    "nuanceKo": "주로 긍정적으로 과거를 회상하는 뉘앙스가 있지만, 후회나 교훈을 떠올릴 때도 씁니다.",
+    "shortExampleEn": "Looking back, I think that decision was the right one after all.",
+    "shortExampleKo": "돌이켜보면, 그 결정이 결국 옳았던 것 같아요."
+  }
+}

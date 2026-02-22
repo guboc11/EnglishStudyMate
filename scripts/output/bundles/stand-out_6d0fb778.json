@@ -1,0 +1,30 @@
+{
+  "id": "stand-out_6d0fb778",
+  "expression": "stand out",
+  "selectionMeta": {
+    "selectedPhrase": "stand out",
+    "selectedSenseLabelKo": "두드러지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her bright red jacket made her stand out in the crowd of grey coats."
+  },
+  "step2": {
+    "story": "Among the hundreds of job applications, only a handful stood out to the hiring team. The ones that did shared one thing: they told a specific, honest story about the applicant.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "At the science fair, most of the displays followed the expected format with neat boards and printed graphs. One project stood out immediately: a student had built a working model of a water filter using only materials found in her backyard. It was messy and imperfect, but it actually worked. The judges spent the longest time at her table.",
+    "topicTag": "school friendship",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "주변과 달리 눈에 띄게 두드러지다.",
+    "realUsageKo": "다른 사람이나 사물보다 뚜렷하게 눈에 띄거나 특별히 인상적일 때 씁니다.",
+    "etymologyKo": "stand(서다)와 out(밖으로, 두드러지게)이 결합하여 다른 것들 사이에서 밖으로 튀어나와 보인다는 의미가 되었습니다.",
+    "nuanceKo": "외모, 능력, 작품 등이 다른 것들 사이에서 특별히 눈에 띌 때 씁니다. 긍정적 뉘앙스가 강합니다.",
+    "shortExampleEn": "Her performance really stood out compared to the other candidates.",
+    "shortExampleKo": "그녀의 발표는 다른 지원자들에 비해 정말 두드러졌어요."
+  }
+}

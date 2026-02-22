@@ -1,0 +1,30 @@
+{
+  "id": "give-advice_9f1d4cc4",
+  "expression": "give advice",
+  "selectionMeta": {
+    "selectedPhrase": "give advice",
+    "selectedSenseLabelKo": "조언을 주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was always careful about giving advice unless someone explicitly asked for it."
+  },
+  "step2": {
+    "story": "The mentor had given advice to dozens of early-career professionals over the years. What he had learned was that the most useful advice was specific and honest, not reassuring. Reassurance was easy to give and easy to dismiss. Honest specifics were harder to hear and harder to forget.",
+    "topicTag": "mentorship",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "The hotline received thousands of calls a year. Volunteers were trained carefully not to give advice in the conventional sense — not to tell callers what to do, not to impose their own judgment, not to solve on behalf of the person on the other end of the line. Instead they were trained to listen, to reflect, and occasionally to ask questions that helped the caller hear their own thinking more clearly. The callers who found it most helpful often said the volunteer had given them great advice. The volunteers knew they had given almost none.",
+    "topicTag": "listening and support",
+    "moodTag": "quietly wise"
+  },
+  "meaning": {
+    "literalMeaningKo": "조언을 주다.",
+    "realUsageKo": "어떤 상황에서 어떻게 할지 의견이나 방향을 제시할 때 씁니다.",
+    "etymologyKo": "advice는 셀 수 없는 명사이므로 give an advice는 틀리고, give advice 또는 give a piece of advice를 씁니다.",
+    "nuanceKo": "상대가 요청한 경우에 씁니다. 부탁받지 않은 조언은 unsolicited advice라고 합니다.",
+    "shortExampleEn": "He gave advice freely but never pushed anyone to follow it.",
+    "shortExampleKo": "그는 조언을 아낌없이 해줬지만 따르라고 강요하지는 않았어요."
+  }
+}

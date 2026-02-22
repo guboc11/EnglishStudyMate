@@ -1,0 +1,30 @@
+{
+  "id": "the-last-straw_0b4626cf",
+  "expression": "the last straw",
+  "selectionMeta": {
+    "selectedPhrase": "the last straw",
+    "selectedSenseLabelKo": "인내의 한계",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When they cancelled my reservation without notice for the third time, that was the last straw."
+  },
+  "step2": {
+    "story": "The commute delays, the shrinking budget, the broken office printer — she had managed each one individually. But when management rejected her request to work from home one day a week, it was the last straw. She updated her resume that evening.",
+    "topicTag": "workplace frustration",
+    "moodTag": "resigned"
+  },
+  "step3": {
+    "story": "The relationship between the two roommates had been strained for months. Dishes left in the sink, shared expenses paid late, guests arriving at midnight on weeknights — each issue had been raised and met with partial improvement that never quite held. Then one roommate used the other's headphones without asking and returned them with a cracked band. It was a small thing in isolation. As the last straw, it carried the weight of everything before it. The conversation that followed was long overdue, and by the end of it, they had agreed to part ways in two months. The headphones had nothing to do with it. They had everything to do with it.",
+    "topicTag": "relationship breaking point",
+    "moodTag": "tense and inevitable"
+  },
+  "meaning": {
+    "literalMeaningKo": "낙타의 등을 부러뜨리는 마지막 지푸라기.",
+    "realUsageKo": "오랫동안 쌓인 문제들 끝에 마침내 인내의 한계를 넘게 만드는 마지막 사건을 가리킵니다.",
+    "etymologyKo": "무거운 짐을 진 낙타에게 지푸라기 하나를 더 얹으면 등이 부러진다는 이미지에서 유래했습니다.",
+    "nuanceKo": "마지막 사건 자체가 아니라 그것이 촉발한 한계 초과를 강조합니다.",
+    "shortExampleEn": "That rude comment was the last straw — I walked out.",
+    "shortExampleKo": "그 무례한 말이 인내의 한계였어요 — 저는 나와버렸어요."
+  }
+}

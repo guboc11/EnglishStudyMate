@@ -1,0 +1,30 @@
+{
+  "id": "break-through_9c55eeda",
+  "expression": "break through",
+  "selectionMeta": {
+    "selectedPhrase": "break through",
+    "selectedSenseLabelKo": "돌파하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She finally broke through the language barrier after six months of daily practice."
+  },
+  "step2": {
+    "story": "The protesters pushed forward and broke through the barrier that had been set up at the entrance of the square. Officers quickly moved in to restore order.",
+    "topicTag": "street",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "For three years, the young scientist had been working on a protein folding problem that had stumped researchers for decades. She tried dozens of approaches without success. Then one Tuesday afternoon, she adjusted one variable on a hunch and ran the simulation again. The result broke through the wall she had been facing. She sat very still for a moment, then called her supervisor.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "surprised then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "장벽이나 방해물을 뚫고 나아가다; 중요한 장애물을 극복하다.",
+    "realUsageKo": "물리적 장벽이나 오랫동안 막혀있던 문제를 마침내 돌파할 때 씁니다.",
+    "etymologyKo": "break(깨다, 뚫다)와 through(통과하여)가 결합하여 막고 있는 것을 뚫고 지나간다는 의미가 되었습니다.",
+    "nuanceKo": "물리적 돌파와 비유적 돌파(연구, 기술 등의 전환점) 모두에 씁니다. breakthrough라는 명사형도 자주 씁니다.",
+    "shortExampleEn": "The team finally broke through and found a solution after weeks of effort.",
+    "shortExampleKo": "팀은 수 주간의 노력 끝에 마침내 해결책을 찾아냈어요."
+  }
+}

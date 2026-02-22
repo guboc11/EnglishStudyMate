@@ -1,0 +1,30 @@
+{
+  "id": "on-thin-ice_404c021f",
+  "expression": "on thin ice",
+  "selectionMeta": {
+    "selectedPhrase": "on thin ice",
+    "selectedSenseLabelKo": "위태로운 상황에 있는",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After missing three deadlines in a row, he knew he was on thin ice with his manager."
+  },
+  "step2": {
+    "story": "The startup was on thin ice financially — runway was down to six weeks and the term sheet from the only interested investor had not yet been signed. The founding team kept working without discussing the number aloud.",
+    "topicTag": "startup pressure",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The diplomatic talks had been going smoothly for two days when one delegation introduced a clause that the other side had previously refused to consider. The room temperature dropped without anyone touching the thermostat. Both sides knew the negotiation was suddenly on thin ice. The lead mediator called a recess, walked both parties into separate rooms, and spent ninety minutes going back and forth before finding language that let everyone exit the impasse without either side losing face. By evening, the agreement was back on track.",
+    "topicTag": "delicate negotiation",
+    "moodTag": "tense and careful"
+  },
+  "meaning": {
+    "literalMeaningKo": "얇은 얼음 위에 있다.",
+    "realUsageKo": "위험하거나 불안정한 상황에 처해 있을 때 씁니다.",
+    "etymologyKo": "얇은 얼음 위를 걷는 것이 언제 깨질지 모르는 위험한 상황임을 비유합니다.",
+    "nuanceKo": "한 발짝 잘못 디디면 상황이 악화될 수 있다는 긴장감을 담습니다.",
+    "shortExampleEn": "With two warnings already, he is on very thin ice.",
+    "shortExampleKo": "경고를 두 번이나 받은 상태라 그는 매우 위태로운 처지예요."
+  }
+}

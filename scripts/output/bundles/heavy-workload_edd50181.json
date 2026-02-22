@@ -1,0 +1,30 @@
+{
+  "id": "heavy-workload_edd50181",
+  "expression": "heavy workload",
+  "selectionMeta": {
+    "selectedPhrase": "heavy workload",
+    "selectedSenseLabelKo": "무거운 업무량",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team handled a heavy workload during the product launch month without missing a single deadline."
+  },
+  "step2": {
+    "story": "The manager noticed the heavy workload before her team did — or before they were willing to name it. She restructured two projects, delayed one non-urgent delivery, and redistributed three tasks. Nobody thanked her directly. Nobody needed to.",
+    "topicTag": "workload management",
+    "moodTag": "quietly protective"
+  },
+  "step3": {
+    "story": "The hospital staffing report had identified a heavy workload as the leading factor in nurse burnout, which was the leading factor in error rates, which was the leading factor in adverse patient events. The chain was clear in the data and had been for years. What had not been clear until the report was how far the financial cost of that chain — in legal liability, staff turnover, and re-training — exceeded the cost of hiring sufficient staff. The administration reviewed the numbers twice before changing the staffing model. The heavy workload had not been sustainable. Neither had the alternative.",
+    "topicTag": "healthcare staffing",
+    "moodTag": "soberly systemic"
+  },
+  "meaning": {
+    "literalMeaningKo": "무거운 업무량.",
+    "realUsageKo": "처리해야 할 일이 과도하게 많은 상태를 묘사할 때 씁니다.",
+    "etymologyKo": "heavy는 무겁다는 의미로, workload(업무량)의 과중함을 표현합니다.",
+    "nuanceKo": "light workload(가벼운 업무량)의 반대 표현입니다. manage/handle/cope with a heavy workload처럼 씁니다.",
+    "shortExampleEn": "She managed the heavy workload without showing any signs of stress.",
+    "shortExampleKo": "그녀는 스트레스 기색 없이 무거운 업무량을 소화했어요."
+  }
+}

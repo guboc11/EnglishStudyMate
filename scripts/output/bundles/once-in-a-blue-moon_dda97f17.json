@@ -1,0 +1,30 @@
+{
+  "id": "once-in-a-blue-moon_dda97f17",
+  "expression": "once in a blue moon",
+  "selectionMeta": {
+    "selectedPhrase": "once in a blue moon",
+    "selectedSenseLabelKo": "아주 드물게",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My brother only calls me once in a blue moon, so I was surprised to hear from him twice this week."
+  },
+  "step2": {
+    "story": "The old bakery on Fifth Street was always packed, but Sarah only stopped by once in a blue moon. When she finally did, she always ordered the same almond croissant she had loved since childhood.",
+    "topicTag": "nostalgic habit",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "Alex was not the kind of person who cooked elaborate meals. Most nights it was pasta or a sandwich eaten over the sink. But once in a blue moon, he would spend an entire Sunday in the kitchen — chopping vegetables, simmering sauces, and baking bread from scratch. Those days felt like a different version of himself, slower and more deliberate, and he always ended them satisfied in a way that takeout never quite managed.",
+    "topicTag": "rare ritual",
+    "moodTag": "quietly content"
+  },
+  "meaning": {
+    "literalMeaningKo": "블루문 때 한 번 — 블루문은 한 달에 두 번째로 뜨는 보름달.",
+    "realUsageKo": "어떤 일이 매우 드물게 일어남을 강조할 때 씁니다.",
+    "etymologyKo": "실제로 한 달에 보름달이 두 번 뜨는 현상(blue moon)이 드물다는 사실에서 유래했습니다.",
+    "nuanceKo": "부정적이지 않고 그냥 드물다는 빈도만 나타내며, 어떤 맥락에서도 사용 가능합니다.",
+    "shortExampleEn": "She visits her hometown once in a blue moon.",
+    "shortExampleKo": "그녀는 아주 드물게 고향을 방문해요."
+  }
+}

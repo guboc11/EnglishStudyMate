@@ -1,0 +1,30 @@
+{
+  "id": "set-up_53746625",
+  "expression": "set up",
+  "selectionMeta": {
+    "selectedPhrase": "set up",
+    "selectedSenseLabelKo": "설치하다, 준비하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took him over an hour to set up the new printer in the home office."
+  },
+  "step2": {
+    "story": "The volunteers arrived early to set up the chairs and tables for the community dinner. By the time the guests arrived, everything was perfectly in place.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Nina had always dreamed of running her own small business. She spent three months researching and saving money. One afternoon, she finally set up a simple website and posted her first product. That evening, she got her first order and could not stop smiling.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "기기나 장치를 설치하다; 행사나 모임 등을 준비하고 정리하다.",
+    "realUsageKo": "기술 장비 설치나 행사 준비, 또는 새로운 무언가를 시작할 때 씁니다.",
+    "etymologyKo": "set(놓다, 배치하다)과 up(위로, 완성 방향)이 결합하여 무언가를 제 위치에 놓아 완성한다는 의미가 되었습니다.",
+    "nuanceKo": "물리적 설치뿐 아니라 사업이나 시스템을 새로 구축할 때도 자주 씁니다.",
+    "shortExampleEn": "Can you help me set up the projector before the meeting starts?",
+    "shortExampleKo": "회의 시작 전에 프로젝터 설치 좀 도와줄 수 있어요?"
+  }
+}

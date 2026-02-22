@@ -1,0 +1,30 @@
+{
+  "id": "call-off_0de5975c",
+  "expression": "call off",
+  "selectionMeta": {
+    "selectedPhrase": "call off",
+    "selectedSenseLabelKo": "취소하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They had to call off the outdoor concert because of the approaching storm."
+  },
+  "step2": {
+    "story": "The search for the missing hiker was called off after three days when conditions became too dangerous for the rescue team. Authorities said they would resume as soon as weather permitted.",
+    "topicTag": "weekend hobby",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "The two families had been planning a joint camping trip for months. They had booked the site, packed the equipment, and told the children the night before. But a severe weather warning came through early that morning. They called off the trip, explained it to the disappointed kids, and improvised a camping setup in the living room instead. Everyone agreed the indoor version was actually more fun.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "예정된 일을 중단하거나 취소하다.",
+    "realUsageKo": "이미 계획된 행사, 회의, 약속 등을 취소할 때 씁니다. cancel과 같은 뜻입니다.",
+    "etymologyKo": "call(부르다, 명하다)과 off(중단)가 결합하여 진행을 중단시키라고 명한다는 의미가 되었습니다.",
+    "nuanceKo": "미리 계획된 것을 취소할 때 씁니다. cancel보다 구어체적이며 자연스럽습니다.",
+    "shortExampleEn": "The game was called off due to heavy rain and rescheduled for next week.",
+    "shortExampleKo": "폭우로 인해 경기가 취소되고 다음 주로 재일정이 잡혔어요."
+  }
+}

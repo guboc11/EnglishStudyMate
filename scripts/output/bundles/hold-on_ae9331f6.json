@@ -1,0 +1,30 @@
+{
+  "id": "hold-on_ae9331f6",
+  "expression": "hold on",
+  "selectionMeta": {
+    "selectedPhrase": "hold on",
+    "selectedSenseLabelKo": "잠깐 기다리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He asked her to hold on for a moment while he found something to write with."
+  },
+  "step2": {
+    "story": "The bus started moving before the elderly man had found his seat. He grabbed the handrail and called out that he was not seated yet. The driver immediately slowed down and apologized.",
+    "topicTag": "bus or subway",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Grace was in the middle of cooking when her phone rang. She turned the heat to low and answered, then realized it was a complicated question from a colleague. She asked her colleague to hold on, set the phone down to take the pot off the stove. She picked it up again, settled into a chair, and gave the problem her full attention.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "잠깐 기다리다; 무언가를 단단히 잡다.",
+    "realUsageKo": "잠시 기다려 달라고 요청할 때 가장 자주 씁니다. 전화에서 잠깐만요에 해당합니다.",
+    "etymologyKo": "hold(잡다, 유지하다)와 on(계속)이 결합하여 현재 상태를 잠시 유지해 달라는 의미가 되었습니다.",
+    "nuanceKo": "전화 통화 중이거나 움직임이 있는 상황에서 일시 정지를 요청할 때 매우 자주 씁니다.",
+    "shortExampleEn": "Hold on, I will be right with you in just one second.",
+    "shortExampleKo": "잠깐만요. 바로 갈게요."
+  }
+}

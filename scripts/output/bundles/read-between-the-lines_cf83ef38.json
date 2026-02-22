@@ -1,0 +1,30 @@
+{
+  "id": "read-between-the-lines_cf83ef38",
+  "expression": "read between the lines",
+  "selectionMeta": {
+    "selectedPhrase": "read between the lines",
+    "selectedSenseLabelKo": "행간을 읽다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her email was polite, but if you read between the lines, she was clearly unhappy with the outcome."
+  },
+  "step2": {
+    "story": "The official statement said the partnership was being restructured for strategic reasons. Anyone who could read between the lines understood that the deal had collapsed and neither party wanted to say so publicly.",
+    "topicTag": "reading subtext",
+    "moodTag": "perceptive"
+  },
+  "step3": {
+    "story": "The feedback form results showed overwhelmingly positive ratings — four and five stars across almost every category. The project manager was about to close the report when a colleague suggested reading between the lines of the written comments. The free-text responses were polite, even complimentary, but a pattern emerged: multiple respondents used phrases like 'quite good for a first attempt' and 'shows promise.' The subtext was unmistakable once you looked for it. The team was being rated generously on the number scale while the qualitative feedback quietly communicated that there was significant room to grow.",
+    "topicTag": "feedback analysis",
+    "moodTag": "insightful"
+  },
+  "meaning": {
+    "literalMeaningKo": "줄과 줄 사이를 읽다.",
+    "realUsageKo": "직접적으로 표현되지 않은 숨겨진 의미나 의도를 파악할 때 씁니다.",
+    "etymologyKo": "글의 행 사이에 보이지 않는 잉크로 쓰인 내용을 읽어낸다는 데서 유래했습니다.",
+    "nuanceKo": "예리한 통찰력을 발휘해 표면 아래를 꿰뚫어 볼 때 씁니다.",
+    "shortExampleEn": "You have to read between the lines to understand what he really wants.",
+    "shortExampleKo": "그가 진짜 원하는 것을 알려면 행간을 읽어야 해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "give-in_ea048d17",
+  "expression": "give in",
+  "selectionMeta": {
+    "selectedPhrase": "give in",
+    "selectedSenseLabelKo": "굴복하다, 양보하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After arguing for an hour, she finally gave in and agreed to watch his favorite movie."
+  },
+  "step2": {
+    "story": "The children begged their father for ice cream all afternoon, pulling his sleeve and making sad eyes. He tried to say no three times, but eventually gave in with a smile.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "Mark was determined to stick to his diet and turned down every snack at the party. His friends kept offering him a slice of birthday cake, saying just one bite would not hurt. He held firm for a while, but the smell of chocolate frosting was impossible to ignore. In the end, he gave in, took a big forkful, and decided the diet could wait until tomorrow.",
+    "topicTag": "weekend hobby",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "저항하거나 버티다가 결국 상대방의 요구나 압력에 따르다.",
+    "realUsageKo": "논쟁이나 압박에서 결국 상대의 뜻을 받아들일 때 사용합니다. 굴복하다, 양보하다에 해당합니다.",
+    "etymologyKo": "give(주다)와 in(안으로)이 결합하여 자신의 입장을 상대에게 넘겨준다는 의미가 되었습니다.",
+    "nuanceKo": "처음에는 반대하다가 설득되거나 지쳐서 받아들이는 상황에 씁니다. 부정적이거나 중립적인 뉘앙스가 모두 가능합니다.",
+    "shortExampleEn": "She never gives in to peer pressure, no matter what.",
+    "shortExampleKo": "그녀는 어떤 상황에서도 친구들의 압력에 굴복하지 않아요."
+  }
+}

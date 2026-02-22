@@ -1,0 +1,30 @@
+{
+  "id": "beat-around-the-bush_093ac91d",
+  "expression": "beat around the bush",
+  "selectionMeta": {
+    "selectedPhrase": "beat around the bush",
+    "selectedSenseLabelKo": "핵심을 피하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Stop beating around the bush and tell me exactly what you think of my proposal."
+  },
+  "step2": {
+    "story": "The supervisor had been hinting at performance concerns for ten minutes without naming the issue. Frustrated, the employee finally said, 'Please stop beating around the bush — what is the actual problem?'",
+    "topicTag": "direct communication",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Tom needed to tell his business partner that their current direction was unsustainable. He had drafted the conversation in his head a dozen times, each version getting softer and more indirect. At their weekly coffee, he caught himself talking about market trends and industry challenges for twenty minutes, carefully beating around the bush. Finally his partner set down his cup and said simply, 'Tom, just say what you need to say.' Tom took a breath and did exactly that — and the conversation that followed was the most productive they had ever had.",
+    "topicTag": "honest conversation",
+    "moodTag": "relieved after tension"
+  },
+  "meaning": {
+    "literalMeaningKo": "덤불 주변을 치다.",
+    "realUsageKo": "하고 싶은 말을 빙빙 돌려 말하거나 핵심을 계속 피할 때 씁니다.",
+    "etymologyKo": "사냥에서 새를 덤불 밖으로 몰기 위해 주변을 치는 행동에서 유래했습니다.",
+    "nuanceKo": "직접 말하기 어려운 상황에서 자주 나타나며, 듣는 사람은 답답함을 느낄 수 있습니다.",
+    "shortExampleEn": "Do not beat around the bush — tell me the real reason.",
+    "shortExampleKo": "빙빙 돌리지 말고 진짜 이유를 말해줘요."
+  }
+}

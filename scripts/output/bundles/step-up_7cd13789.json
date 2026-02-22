@@ -1,0 +1,30 @@
+{
+  "id": "step-up_7cd13789",
+  "expression": "step up",
+  "selectionMeta": {
+    "selectedPhrase": "step up",
+    "selectedSenseLabelKo": "나서다, 향상시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the team leader fell ill, Rosa stepped up and managed the project herself."
+  },
+  "step2": {
+    "story": "The charity event needed someone to handle logistics at the last minute. Three volunteers stepped up immediately without being asked, and the event ran smoothly.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "For the first two seasons on the team, Daniel was a reliable but not exceptional player. When a key teammate got injured before the regional finals, the coach pulled Daniel aside and told him it was his moment. Daniel stepped up in a way no one had seen before. He did not win the game alone, but his energy lifted everyone around him.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "필요한 상황에서 자진해서 나서다; 수준이나 노력을 높이다.",
+    "realUsageKo": "책임을 자처하거나 기대 이상으로 행동할 때 씁니다.",
+    "etymologyKo": "step(발걸음을 내딛다)과 up(위로, 앞으로)이 결합하여 앞으로 나서거나 한 단계 올라간다는 의미가 되었습니다.",
+    "nuanceKo": "어려운 상황에서 자발적으로 나서는 행동을 칭찬하거나 격려할 때 자주 씁니다.",
+    "shortExampleEn": "When nobody else volunteered, she stepped up and took charge.",
+    "shortExampleKo": "아무도 자원하지 않았을 때, 그녀가 나서서 책임을 맡았어요."
+  }
+}

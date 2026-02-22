@@ -1,0 +1,30 @@
+{
+  "id": "the-tip-of-the-iceberg_7c005507",
+  "expression": "the tip of the iceberg",
+  "selectionMeta": {
+    "selectedPhrase": "the tip of the iceberg",
+    "selectedSenseLabelKo": "빙산의 일각",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The few complaints we received are probably just the tip of the iceberg."
+  },
+  "step2": {
+    "story": "The audit found two instances of accounting irregularities. The lead auditor cautioned the board that these were likely just the tip of the iceberg and recommended a full forensic review of the past three years.",
+    "topicTag": "uncovering problems",
+    "moodTag": "ominous"
+  },
+  "step3": {
+    "story": "The documentary covered one small coastal village affected by the oil spill. The footage was heartbreaking: blackened shorelines, fishing boats idle for the third month in a row, and a fishing community facing economic collapse. The director acknowledged in the closing segment that this village was the tip of the iceberg — that fourteen other communities along the coast faced similar or worse conditions, and that most of their stories had not been told. The film generated significant funding for environmental recovery. The director went back the following year and made four more films.",
+    "topicTag": "scale of a problem",
+    "moodTag": "sobering and urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "빙산의 꼭대기 부분.",
+    "realUsageKo": "드러난 문제나 현상이 실제로 존재하는 더 큰 문제의 일부에 불과할 때 씁니다.",
+    "etymologyKo": "빙산은 전체의 약 10%만 수면 위에 드러나는 사실에서 유래했습니다.",
+    "nuanceKo": "문제의 규모가 생각보다 훨씬 크다는 경고의 뉘앙스를 담습니다.",
+    "shortExampleEn": "The layoffs announced today are just the tip of the iceberg.",
+    "shortExampleKo": "오늘 발표된 해고는 빙산의 일각에 불과해요."
+  }
+}

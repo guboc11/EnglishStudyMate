@@ -1,0 +1,30 @@
+{
+  "id": "burn-bridges_b2fb00e6",
+  "expression": "burn bridges",
+  "selectionMeta": {
+    "selectedPhrase": "burn bridges",
+    "selectedSenseLabelKo": "관계를 완전히 끊다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She quit loudly and publicly, burning bridges with every senior colleague in the department."
+  },
+  "step2": {
+    "story": "He was furious with his old employer and considered sending a scathing farewell email. His mentor talked him out of it, reminding him not to burn bridges in an industry where everyone knows everyone.",
+    "topicTag": "career advice",
+    "moodTag": "cautionary"
+  },
+  "step3": {
+    "story": "After the contract dispute, Lisa had every right to be angry with her former client. She wrote a detailed account of their unprofessional behavior and nearly posted it on her professional blog. A colleague read the draft and suggested she sleep on it. The next morning, Lisa realized that burning bridges publicly would only make her look reactive, not wronged. She filed the post away, sent a polite closing email instead, and moved on — a decision that paid off two years later when that same client referred her to their largest account.",
+    "topicTag": "professional judgment",
+    "moodTag": "quietly wise"
+  },
+  "meaning": {
+    "literalMeaningKo": "다리를 태워버리다.",
+    "realUsageKo": "돌이킬 수 없는 방식으로 관계나 기회를 끊어버릴 때 씁니다.",
+    "etymologyKo": "전쟁에서 후퇴한 군대가 적의 추격을 막기 위해 다리를 불태웠던 전술에서 유래했습니다.",
+    "nuanceKo": "주로 다시 돌아올 수 없게 된 상황을 경고하는 맥락에서 씁니다.",
+    "shortExampleEn": "Try not to burn bridges when you leave a job.",
+    "shortExampleKo": "직장을 그만둘 때 관계를 끊어버리지 않도록 해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bring-up_d89752fd",
+  "expression": "bring up",
+  "selectionMeta": {
+    "selectedPhrase": "bring up",
+    "selectedSenseLabelKo": "언급하다, 키우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She did not want to bring up the argument again, so she changed the subject."
+  },
+  "step2": {
+    "story": "During dinner, the youngest child brought up a question that made everyone at the table go quiet. She had asked simply why some of their neighbors had moved away last year.",
+    "topicTag": "family routine",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "At the team meeting, everyone was focused on the project deadline. Then a new employee named Ray brought up a concern about the budget that nobody had thought to mention. At first, some people looked slightly annoyed at the interruption. But after a few minutes of discussion, everyone agreed it was an important point that needed to be addressed.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "화제나 문제를 말 중에 언급하다; 아이를 양육하다.",
+    "realUsageKo": "대화나 회의 중에 새로운 주제나 문제를 꺼낼 때, 또는 아이를 기른다는 뜻으로 씁니다.",
+    "etymologyKo": "bring(가져오다)과 up(위로, 앞으로)이 결합하여 무언가를 대화의 앞으로 끌어온다는 의미가 되었습니다.",
+    "nuanceKo": "언급하다는 뜻으로 쓸 때는 이전에 논의되지 않은 새로운 주제를 꺼낼 때 자주 씁니다.",
+    "shortExampleEn": "He brought up a really good point about the project timeline.",
+    "shortExampleKo": "그는 프로젝트 일정에 대해 정말 좋은 지적을 했어요."
+  }
+}

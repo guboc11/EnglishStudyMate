@@ -1,0 +1,30 @@
+{
+  "id": "carry-on_6c03b3e6",
+  "expression": "carry on",
+  "selectionMeta": {
+    "selectedPhrase": "carry on",
+    "selectedSenseLabelKo": "계속하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when the rain started, they carried on with the outdoor wedding ceremony without a moment of hesitation."
+  },
+  "step2": {
+    "story": "The teacher lost her voice completely halfway through the afternoon lesson. She wrote notes on the board in large letters and carried on without saying a single word.",
+    "topicTag": "school friendship",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "After the storm knocked out the power, the library staff lit candles and placed them on every table. They carried on helping visitors find books using flashlights and handwritten lists. The readers stayed too, quietly turning pages by the warm candlelight. Nobody wanted to leave, and the silence felt comfortable and full of calm.",
+    "topicTag": "library",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "방해가 되는 상황이 있어도 하던 일을 멈추지 않고 계속하다.",
+    "realUsageKo": "어려움이나 장애물에도 불구하고 하던 일을 지속할 때 씁니다. 계속하다와 비슷하지만 더 강한 의지를 내포합니다.",
+    "etymologyKo": "carry(운반하다, 유지하다)와 on(계속)이 결합하여 계속 앞으로 나아가다라는 뜻이 되었습니다.",
+    "nuanceKo": "특히 어려운 상황에서 포기하지 않고 꿋꿋이 나아가는 의지를 강조할 때 자주 씁니다.",
+    "shortExampleEn": "Please carry on with your work; I'll be right back.",
+    "shortExampleKo": "계속 일하고 있어요. 금방 돌아올게요."
+  }
+}

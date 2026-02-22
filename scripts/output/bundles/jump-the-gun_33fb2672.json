@@ -1,0 +1,30 @@
+{
+  "id": "jump-the-gun_33fb2672",
+  "expression": "jump the gun",
+  "selectionMeta": {
+    "selectedPhrase": "jump the gun",
+    "selectedSenseLabelKo": "성급하게 행동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We jumped the gun by announcing the product before finishing the beta test, and now we are getting questions we cannot answer."
+  },
+  "step2": {
+    "story": "She jumped the gun and bought concert tickets before confirming her partner could get the night off work. When the conflict appeared, she had to sell the tickets at a loss.",
+    "topicTag": "hasty decision",
+    "moodTag": "mildly regretful"
+  },
+  "step3": {
+    "story": "The marketing team had been planning the campaign reveal for months. Everything was sequenced carefully — teaser content first, then a media briefing, then the public launch. But someone on the social media team, confused about time zones, scheduled the full campaign post to go live twelve hours too early. By the time anyone noticed, it had been live for four hours and had thousands of engagements. They had jumped the gun badly. After the initial scramble, the team had to decide whether to pull the content or lean into it. They leaned in, and the early release actually generated more coverage than the planned launch would have.",
+    "topicTag": "marketing mishap",
+    "moodTag": "chaotic then opportunistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "총소리 전에 뛰다.",
+    "realUsageKo": "준비가 완전히 되기 전에 또는 때를 기다리지 않고 성급하게 행동할 때 씁니다.",
+    "etymologyKo": "육상 경기에서 출발 총성 이전에 먼저 달리는 부정 출발(false start)에서 유래했습니다.",
+    "nuanceKo": "서두름이 결국 문제를 만드는 상황에서 자주 씁니다.",
+    "shortExampleEn": "Do not jump the gun — wait for the full report first.",
+    "shortExampleKo": "성급하게 움직이지 마요 — 전체 보고서를 먼저 기다려요."
+  }
+}

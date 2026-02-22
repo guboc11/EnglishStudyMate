@@ -1,0 +1,30 @@
+{
+  "id": "accept-responsibility_b1135f2c",
+  "expression": "accept responsibility",
+  "selectionMeta": {
+    "selectedPhrase": "accept responsibility",
+    "selectedSenseLabelKo": "책임을 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The CEO publicly accepted responsibility for the data breach and outlined the steps being taken."
+  },
+  "step2": {
+    "story": "It would have been easy to blame the supplier. The delay had originated there. But the project lead accepted responsibility at the client call, because her team had not built enough buffer into the schedule to absorb a supplier failure, and that planning gap was hers to own.",
+    "topicTag": "professional accountability",
+    "moodTag": "honest"
+  },
+  "step3": {
+    "story": "The study had found that teams whose leaders accepted responsibility publicly — specifically, named what they had done wrong rather than speaking in vague institutional language — reported higher trust scores and recovered from setbacks faster than teams with leaders who deflected. The researchers had expected the opposite: that visible accountability from leaders would signal weakness. Instead it signaled safety. If the leader could own a mistake, team members felt they could too. The culture of accountability started at the top, and it traveled downward by example.",
+    "topicTag": "leadership culture",
+    "moodTag": "evidence-based warmth"
+  },
+  "meaning": {
+    "literalMeaningKo": "책임을 받아들이다.",
+    "realUsageKo": "자신의 행동이나 결정의 결과에 대한 책임을 인정하고 질 때 씁니다.",
+    "etymologyKo": "accept는 수용하다는 의미로, 책임이라는 무게를 회피하지 않고 받아안음을 표현합니다.",
+    "nuanceKo": "take responsibility와 유사하지만 accept는 외부에서 귀속된 책임을 인정하는 뉘앙스가 강합니다.",
+    "shortExampleEn": "She accepted responsibility without making excuses.",
+    "shortExampleKo": "그녀는 변명 없이 책임을 받아들였어요."
+  }
+}

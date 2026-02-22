@@ -1,0 +1,30 @@
+{
+  "id": "give-it-a-shot_20245b29",
+  "expression": "give it a shot",
+  "selectionMeta": {
+    "selectedPhrase": "give it a shot",
+    "selectedSenseLabelKo": "한번 해보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I have never cooked Thai food before, but I figured I would give it a shot."
+  },
+  "step2": {
+    "story": "The painting class had seemed intimidating for weeks. One Tuesday she ran out of excuses and signed up, telling herself she was simply going to give it a shot. By the end of the second session, she had stopped thinking about being good at it and started just enjoying it.",
+    "topicTag": "trying something new",
+    "moodTag": "tentatively open"
+  },
+  "step3": {
+    "story": "The company had always sourced its software from established vendors. When a developer on the team proposed building a key internal tool from scratch instead, the idea was received with skepticism. The project would take time, carry risk, and require learning. The manager said she would give it a shot — a narrow pilot with a clear end date and measurable criteria. The pilot ran six weeks over schedule, cost more than estimated, and produced a tool that was faster and more adaptable than anything they could have licensed. The risk had been real. So had the payoff.",
+    "topicTag": "calculated risk",
+    "moodTag": "cautiously brave then rewarded"
+  },
+  "meaning": {
+    "literalMeaningKo": "한 번 쏴보다.",
+    "realUsageKo": "결과를 모르더라도 한번 시도해 볼 때 씁니다.",
+    "etymologyKo": "총을 한 번 쏘아보는 이미지에서 나온 구어 표현입니다.",
+    "nuanceKo": "낮은 기대와 열린 마음을 함께 담은, 가볍고 실용적인 시도를 표현합니다.",
+    "shortExampleEn": "Why not give it a shot — you have nothing to lose.",
+    "shortExampleKo": "한번 해봐요 — 잃을 게 없잖아요."
+  }
+}

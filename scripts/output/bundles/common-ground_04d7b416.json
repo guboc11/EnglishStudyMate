@@ -1,0 +1,30 @@
+{
+  "id": "common-ground_04d7b416",
+  "expression": "common ground",
+  "selectionMeta": {
+    "selectedPhrase": "common ground",
+    "selectedSenseLabelKo": "공통된 기반",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The mediator's first task was to help both sides find common ground before addressing the contentious issues."
+  },
+  "step2": {
+    "story": "The two researchers had been in competing labs for a decade. When they were seated next to each other at a conference dinner and actually talked, they discovered common ground in their methodology that neither had suspected. Two months later they were co-authoring a paper.",
+    "topicTag": "unexpected collaboration",
+    "moodTag": "pleasantly surprised"
+  },
+  "step3": {
+    "story": "The facilitated dialogue between the two communities had been scheduled for a single afternoon. By the end of the first hour, it was clear that the stated positions were far apart. The facilitator shifted her approach: instead of addressing the positions directly, she began asking both groups what they hoped for their children, what they had valued in their own upbringing, what they wanted the neighborhood to look like in twenty years. The common ground that emerged from those answers was substantial. The political disagreement did not disappear. But it became legible in a way that made conversation possible.",
+    "topicTag": "community dialogue",
+    "moodTag": "humanly connecting"
+  },
+  "meaning": {
+    "literalMeaningKo": "공통의 땅.",
+    "realUsageKo": "서로 다른 입장을 가진 사람들이 동의하거나 공유하는 부분을 가리킵니다.",
+    "etymologyKo": "여러 사람이 함께 서 있을 수 있는 공유된 땅의 이미지에서 비롯되었습니다.",
+    "nuanceKo": "협상, 대화, 화해의 맥락에서 find/establish common ground처럼 씁니다.",
+    "shortExampleEn": "Despite their differences, they found plenty of common ground.",
+    "shortExampleKo": "견해 차이에도 불구하고 그들은 많은 공통점을 발견했어요."
+  }
+}

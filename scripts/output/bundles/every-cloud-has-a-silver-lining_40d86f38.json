@@ -1,0 +1,30 @@
+{
+  "id": "every-cloud-has-a-silver-lining_40d86f38",
+  "expression": "every cloud has a silver lining",
+  "selectionMeta": {
+    "selectedPhrase": "every cloud has a silver lining",
+    "selectedSenseLabelKo": "모든 일에는 좋은 면이 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Losing that job was painful, but every cloud has a silver lining — it pushed me to start my own business."
+  },
+  "step2": {
+    "story": "The festival was cancelled due to heavy rain, and everyone was disappointed. But the organizers decided to use the venue and time for a free community workshop — and twice as many people showed up as any ticketed event.",
+    "topicTag": "unexpected good",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When the city announced it would demolish the old warehouse district, the artists and small business owners who had called it home were devastated. Petitions were signed, protests were held, and ultimately the decision stood. But the attention the neighborhood received brought investors who proposed converting a nearby abandoned lot into a proper arts center with subsidized studios. It took two years, but what emerged was better than what was lost. Every cloud, it turned out, really did have a silver lining.",
+    "topicTag": "community resilience",
+    "moodTag": "bittersweet then hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "모든 구름에는 은빛 테두리가 있다.",
+    "realUsageKo": "힘든 상황에서도 긍정적인 면이 있다고 위로하거나 희망을 나눌 때 씁니다.",
+    "etymologyKo": "1840년대 영국 문학에서 처음 등장했으며, 구름 뒤에서 빛이 비치는 자연 현상에서 비유했습니다.",
+    "nuanceKo": "위로와 격려의 표현이지만, 너무 가볍게 쓰면 상대방의 어려움을 축소하는 느낌을 줄 수 있습니다.",
+    "shortExampleEn": "Every cloud has a silver lining — you learned a lot from that failure.",
+    "shortExampleKo": "모든 일에는 좋은 면이 있어요 — 그 실패에서 많이 배웠잖아요."
+  }
+}

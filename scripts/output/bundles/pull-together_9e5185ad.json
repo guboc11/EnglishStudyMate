@@ -1,0 +1,30 @@
+{
+  "id": "pull-together_9e5185ad",
+  "expression": "pull together",
+  "selectionMeta": {
+    "selectedPhrase": "pull together",
+    "selectedSenseLabelKo": "협력하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the storm hit the town, neighbors pulled together to help each other clear the damage."
+  },
+  "step2": {
+    "story": "The event was a complete mess until the entire volunteer team decided to pull together and divide the work clearly. Within an hour, the chaos had turned into something that actually looked organized.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The school soccer team had lost four games in a row and morale was low. At practice on Wednesday, the coach said nothing about tactics. Instead, he asked everyone to sit in a circle and talk honestly about what was going wrong. The players pulled together, addressed their issues directly, and came back the following weekend to win by three goals.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "어려운 상황에서 모두가 힘을 모아 함께 노력하다.",
+    "realUsageKo": "위기나 어려운 상황에서 사람들이 협력하고 단결할 때 씁니다.",
+    "etymologyKo": "pull(당기다, 힘쓰다)과 together(함께)가 결합하여 모두가 같은 방향으로 함께 힘을 쓴다는 의미가 되었습니다.",
+    "nuanceKo": "특히 위기나 어려운 상황에서의 협력을 강조합니다. 단순한 팀워크보다 더 절박하고 단결된 느낌을 줍니다.",
+    "shortExampleEn": "The whole community pulled together to support the families affected by the flood.",
+    "shortExampleKo": "지역 사회 전체가 홍수 피해 가족들을 돕기 위해 힘을 모았어요."
+  }
+}

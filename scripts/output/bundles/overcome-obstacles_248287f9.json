@@ -1,0 +1,30 @@
+{
+  "id": "overcome-obstacles_248287f9",
+  "expression": "overcome obstacles",
+  "selectionMeta": {
+    "selectedPhrase": "overcome obstacles",
+    "selectedSenseLabelKo": "장애물을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The project faced serious funding cuts, but the team found ways to overcome the obstacles."
+  },
+  "step2": {
+    "story": "She had overcome obstacles that would have stopped many people earlier in the process. What kept her moving was not optimism — she was not particularly optimistic — but a specific kind of stubbornness that refused to accept any individual obstacle as the final word.",
+    "topicTag": "persistence",
+    "moodTag": "quietly tenacious"
+  },
+  "step3": {
+    "story": "The study of people who overcame significant obstacles revealed a consistent pattern that researchers had not expected: most did not describe themselves as unusually resilient. They described themselves as having found one thing — one person, one skill, one reason — that made the obstacle feel surmountable rather than final. Resilience, in this framing, was less a character trait and more a structural advantage: access to something that made the next step possible. The intervention implications were significant.",
+    "topicTag": "resilience research",
+    "moodTag": "reframingly hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "장애물을 극복하다.",
+    "realUsageKo": "어려움이나 방해물을 이겨내고 앞으로 나아갈 때 씁니다.",
+    "etymologyKo": "overcome은 come over(넘어오다)에서 발전한 표현으로, 장애물 위를 넘어서는 이미지입니다.",
+    "nuanceKo": "surmount obstacles(더 격식체)와 유사하지만 overcome이 더 일반적으로 씁니다.",
+    "shortExampleEn": "She overcame every obstacle on the path to her goal.",
+    "shortExampleKo": "그녀는 목표를 향한 길에서 모든 장애물을 극복했어요."
+  }
+}

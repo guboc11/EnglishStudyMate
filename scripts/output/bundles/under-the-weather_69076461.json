@@ -1,0 +1,30 @@
+{
+  "id": "under-the-weather_69076461",
+  "expression": "under the weather",
+  "selectionMeta": {
+    "selectedPhrase": "under the weather",
+    "selectedSenseLabelKo": "몸이 좋지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I'm feeling a bit under the weather today, so I'll be working from home."
+  },
+  "step2": {
+    "story": "Chris skipped the Monday team lunch, saying he was under the weather. He spent the day on the couch with soup, a blanket, and three episodes of a nature documentary.",
+    "topicTag": "sick day",
+    "moodTag": "cozy and slow"
+  },
+  "step3": {
+    "story": "Rachel had been pushing herself through twelve-hour workdays for the past month. On Wednesday morning she woke up with a scratchy throat, a headache, and no appetite. She texted her manager that she was under the weather and would take the day off. It was the first time in four years she had called in sick, and she felt a strange mix of guilt and relief as she finally got the rest her body had been asking for.",
+    "topicTag": "health and rest",
+    "moodTag": "quietly vulnerable"
+  },
+  "meaning": {
+    "literalMeaningKo": "날씨 아래에 있다.",
+    "realUsageKo": "몸 상태가 좋지 않거나 가볍게 아플 때 씁니다.",
+    "etymologyKo": "항해 중 배멀미나 추위로 아픈 선원이 갑판 아래로 내려가 쉬던 데서 유래했습니다.",
+    "nuanceKo": "심각한 병보다는 가벼운 컨디션 저하에 어울리는 부드러운 표현입니다.",
+    "shortExampleEn": "She felt under the weather all week but kept going.",
+    "shortExampleKo": "그녀는 일주일 내내 몸이 안 좋았지만 계속 일했어요."
+  }
+}

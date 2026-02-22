@@ -1,0 +1,30 @@
+{
+  "id": "save-money_8f93e90e",
+  "expression": "save money",
+  "selectionMeta": {
+    "selectedPhrase": "save money",
+    "selectedSenseLabelKo": "돈을 절약하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Cooking at home instead of eating out is one of the easiest ways to save money."
+  },
+  "step2": {
+    "story": "They had both agreed to save money for a year before the wedding — nothing extravagant, just enough to avoid starting their marriage in debt. The discipline required saying no to a lot of small things that individually seemed harmless.",
+    "topicTag": "financial planning",
+    "moodTag": "practical"
+  },
+  "step3": {
+    "story": "The city's energy efficiency program had been framed as an environmental initiative, but what drove adoption was the message that participating households could save money on their utility bills. The environmental framing had generated awareness. The financial framing generated sign-ups. The program manager had learned an uncomfortable but useful truth: leading with values attracted attention, but leading with direct personal benefit drove action. The city saved money too, in ways it had not initially projected, by reducing peak demand on the grid.",
+    "topicTag": "behavioral economics",
+    "moodTag": "pragmatically insightful"
+  },
+  "meaning": {
+    "literalMeaningKo": "돈을 저축하다 / 절약하다.",
+    "realUsageKo": "지출을 줄이거나 돈을 모아 둘 때 모두 씁니다.",
+    "etymologyKo": "save는 라틴어 salvare(안전하게 지키다)에서 왔으며, 돈을 안전하게 보관한다는 의미입니다.",
+    "nuanceKo": "문맥에 따라 절약(spending less)과 저축(putting money aside) 모두를 의미할 수 있습니다.",
+    "shortExampleEn": "We are trying to save money for a down payment.",
+    "shortExampleKo": "우리는 계약금을 위해 돈을 모으고 있어요."
+  }
+}

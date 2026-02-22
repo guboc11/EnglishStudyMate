@@ -1,0 +1,30 @@
+{
+  "id": "on-the-fence_1a42431e",
+  "expression": "on the fence",
+  "selectionMeta": {
+    "selectedPhrase": "on the fence",
+    "selectedSenseLabelKo": "어느 쪽도 결정하지 못한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I'm still on the fence about whether to accept the job offer — both options have real advantages."
+  },
+  "step2": {
+    "story": "The survey showed that 40 percent of voters were still on the fence two weeks before the election. Both campaigns began targeting them intensely with very different messages.",
+    "topicTag": "decision making",
+    "moodTag": "undecided"
+  },
+  "step3": {
+    "story": "For three months, Soo-yeon had been on the fence about leaving her stable government job to join the early-stage startup. She had made every pros-and-cons list imaginable. She had spoken to mentors, read case studies, and calculated risk scenarios. The decision kept returning to the same unresolvable uncertainty: she could not know. In the end, she chose not by calculating but by asking herself which version of the future she would regret more. The answer arrived quickly, and she was surprised by how clearly it came.",
+    "topicTag": "career decision",
+    "moodTag": "thoughtful and unresolved then clear"
+  },
+  "meaning": {
+    "literalMeaningKo": "울타리 위에 있다.",
+    "realUsageKo": "두 가지 선택지 사이에서 결정을 내리지 못하고 있을 때 씁니다.",
+    "etymologyKo": "울타리는 두 영역의 경계이므로, 울타리 위에 앉아 있으면 어느 쪽에도 속하지 않음을 나타냅니다.",
+    "nuanceKo": "우유부단하다기보다 신중하게 결정을 유보하는 상태를 묘사합니다.",
+    "shortExampleEn": "She is still on the fence about the renovation plans.",
+    "shortExampleKo": "그녀는 아직도 리모델링 계획에 대해 결정을 못 하고 있어요."
+  }
+}

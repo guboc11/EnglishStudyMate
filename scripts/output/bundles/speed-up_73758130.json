@@ -1,0 +1,30 @@
+{
+  "id": "speed-up_73758130",
+  "expression": "speed up",
+  "selectionMeta": {
+    "selectedPhrase": "speed up",
+    "selectedSenseLabelKo": "속도를 높이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The driver sped up to merge onto the highway before the lane ended."
+  },
+  "step2": {
+    "story": "The production line was running too slowly to meet the deadline. The manager asked the team to speed up without cutting corners on quality.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Halfway through the marathon, Nina felt her energy returning after a long flat section. She decided to speed up and started passing runners who had gone out too fast at the start. By the final kilometer, she had moved up a dozen places. She crossed the finish line with her best time ever.",
+    "topicTag": "weekend hobby",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "속도를 더 빠르게 하다.",
+    "realUsageKo": "이동 속도, 작업 속도, 또는 진행 속도를 높일 때 씁니다. slow down의 반대말입니다.",
+    "etymologyKo": "speed(속도)와 up(강조, 증가)이 결합하여 속도를 높인다는 의미가 되었습니다.",
+    "nuanceKo": "신체적 이동뿐 아니라 프로세스나 작업이 빨라질 때도 씁니다. 촉구하거나 격려할 때도 씁니다.",
+    "shortExampleEn": "Could you speed up a little? We are going to be late.",
+    "shortExampleKo": "조금 더 빨리 해줄 수 있어요? 늦을 것 같아요."
+  }
+}

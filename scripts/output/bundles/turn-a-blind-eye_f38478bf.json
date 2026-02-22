@@ -1,0 +1,30 @@
+{
+  "id": "turn-a-blind-eye_f38478bf",
+  "expression": "turn a blind eye",
+  "selectionMeta": {
+    "selectedPhrase": "turn a blind eye",
+    "selectedSenseLabelKo": "모른 척하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Management turned a blind eye to the safety violations for years before the accident finally forced a review."
+  },
+  "step2": {
+    "story": "She noticed her colleague taking long personal calls during work hours, but she turned a blind eye because she knew he was dealing with a family illness and the manager had not said anything.",
+    "topicTag": "deliberate inaction",
+    "moodTag": "quiet compassion"
+  },
+  "step3": {
+    "story": "The neighborhood association had a rule against short-term holiday rentals in residential properties. When three properties on one street began operating visibly as tourist rentals, some neighbors sent formal complaints while others turned a blind eye, reasoning that the rentals were quiet and the owners were struggling financially. The debate at the next association meeting was less about the rule and more about what kind of community they wanted to be — one that enforced uniformly or one that made exceptions based on context. Neither position won easily. The conversation continued for months, and it turned out to be more interesting than the original complaint.",
+    "topicTag": "community ethics",
+    "moodTag": "morally complex"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈 먼 눈을 돌리다.",
+    "realUsageKo": "알면서도 의도적으로 못 본 척하거나 무시할 때 씁니다.",
+    "etymologyKo": "넬슨 제독이 퇴각 신호를 망원경을 눈 먼 쪽 눈에 대고 보지 못했다고 선언한 일화에서 유래했습니다.",
+    "nuanceKo": "비윤리적 묵인을 비판할 때도, 동정심 어린 묵과를 표현할 때도 씁니다.",
+    "shortExampleEn": "They turned a blind eye to the missing funds for too long.",
+    "shortExampleKo": "그들은 너무 오랫동안 사라진 자금에 대해 모른 척했어요."
+  }
+}

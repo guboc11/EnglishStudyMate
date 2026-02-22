@@ -1,0 +1,30 @@
+{
+  "id": "take-it-with-a-grain-of-salt_a556d706",
+  "expression": "take it with a grain of salt",
+  "selectionMeta": {
+    "selectedPhrase": "take it with a grain of salt",
+    "selectedSenseLabelKo": "그대로 믿지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Online reviews can be helpful, but I always take them with a grain of salt."
+  },
+  "step2": {
+    "story": "The analyst's projection showed explosive growth for three consecutive years. The CFO listened carefully, then said everyone should take the numbers with a grain of salt — the model assumed conditions that had never all occurred simultaneously.",
+    "topicTag": "healthy skepticism",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "The travel blogger had raved about the restaurant in an enthusiastic post with beautiful photographs. When the couple arrived on their anniversary dinner, the lighting was different, the menu had changed, and the signature dish the blogger had praised had been removed. They enjoyed the evening anyway, mostly by adjusting expectations. On the way home, they agreed that they would keep reading travel recommendations but would always take them with a grain of salt — the experience of a place and the story of a place were often usefully different things.",
+    "topicTag": "managing expectations",
+    "moodTag": "pleasantly realistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "소금 한 알과 함께 받아들이다.",
+    "realUsageKo": "어떤 정보나 주장을 무조건 믿지 않고 약간의 의심을 갖고 받아들일 때 씁니다.",
+    "etymologyKo": "로마 시대에 해독제를 음식과 함께 먹었던 데서 유래했다는 설이 있으며, 소금이 쓴 것을 중화한다는 이미지입니다.",
+    "nuanceKo": "전면 불신이 아닌 건강한 비판적 수용을 나타냅니다.",
+    "shortExampleEn": "Take his advice with a grain of salt — he tends to exaggerate.",
+    "shortExampleKo": "그의 조언을 곧이곧대로 믿지 마요 — 그는 과장하는 경향이 있거든요."
+  }
+}

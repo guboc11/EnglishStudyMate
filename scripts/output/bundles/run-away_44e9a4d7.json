@@ -1,0 +1,30 @@
+{
+  "id": "run-away_44e9a4d7",
+  "expression": "run away",
+  "selectionMeta": {
+    "selectedPhrase": "run away",
+    "selectedSenseLabelKo": "도망치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The cat ran away the moment she heard the sound of the vacuum cleaner."
+  },
+  "step2": {
+    "story": "The children spotted a large spider on the wall of the classroom. Before the teacher could do anything, half the class had already run away into the hallway, laughing.",
+    "topicTag": "school friendship",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "When Leo was twelve, he had a big argument with his parents and decided dramatically to run away from home. He packed a backpack with snacks and his favorite book. He made it as far as the end of the street before it started raining. He came back soaking wet, sat in the kitchen, and his mom gave him hot chocolate without saying a word.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "위험하거나 불편한 상황에서 재빨리 도망치다.",
+    "realUsageKo": "무서운 것, 위험한 상황, 또는 어려운 문제에서 달아날 때 씁니다.",
+    "etymologyKo": "run(달리다)과 away(멀리)가 결합하여 달려서 멀리 도망간다는 의미가 되었습니다.",
+    "nuanceKo": "무서움이나 갈등으로 인해 실제로 달아나거나 문제를 회피하는 두 경우 모두에 씁니다.",
+    "shortExampleEn": "You cannot just run away from your problems every time.",
+    "shortExampleKo": "매번 문제에서 도망칠 수만은 없어요."
+  }
+}

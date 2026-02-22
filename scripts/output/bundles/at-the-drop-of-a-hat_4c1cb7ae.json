@@ -1,0 +1,30 @@
+{
+  "id": "at-the-drop-of-a-hat_4c1cb7ae",
+  "expression": "at the drop of a hat",
+  "selectionMeta": {
+    "selectedPhrase": "at the drop of a hat",
+    "selectedSenseLabelKo": "즉시, 망설임 없이",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He would drop everything and help a friend at the drop of a hat."
+  },
+  "step2": {
+    "story": "The volunteer team was extraordinary — they could mobilize forty people at the drop of a hat whenever the shelter needed extra hands on short notice. The director said she had never worked with a more responsive group.",
+    "topicTag": "community commitment",
+    "moodTag": "impressed and grateful"
+  },
+  "step3": {
+    "story": "Her reputation in the newsroom was built on availability. When a story broke at two in the morning, she was there. When an assignment fell through an hour before deadline, she could file something credible at the drop of a hat. Colleagues marveled at it; editors counted on it. What they did not always see was the preparation behind the readiness — the notebooks filled with half-formed ideas, the source relationships built over quiet years, the habit of knowing three times more than any one story required. The speed was real, but it was the product of work done in advance.",
+    "topicTag": "professional readiness",
+    "moodTag": "reliably capable"
+  },
+  "meaning": {
+    "literalMeaningKo": "모자를 떨어뜨리는 순간에.",
+    "realUsageKo": "어떤 자극이나 신호가 있으면 즉시, 망설임 없이 행동할 때 씁니다.",
+    "etymologyKo": "과거에 모자를 신호로 사용해 경주나 싸움을 시작했던 데서 유래했습니다.",
+    "nuanceKo": "빠른 반응이나 즉각적인 의지를 강조하며, 긍정적으로도 부정적으로도 씁니다.",
+    "shortExampleEn": "She is ready to travel at the drop of a hat.",
+    "shortExampleKo": "그녀는 언제든 즉시 여행을 떠날 준비가 되어 있어요."
+  }
+}

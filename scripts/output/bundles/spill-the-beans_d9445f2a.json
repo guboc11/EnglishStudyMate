@@ -1,0 +1,30 @@
+{
+  "id": "spill-the-beans_d9445f2a",
+  "expression": "spill the beans",
+  "selectionMeta": {
+    "selectedPhrase": "spill the beans",
+    "selectedSenseLabelKo": "비밀을 누설하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't spill the beans about the surprise party — Amy has no idea it's happening."
+  },
+  "step2": {
+    "story": "The whole office had kept the retirement party a secret for two weeks. Then Kevin accidentally spilled the beans in the elevator by asking if anyone had confirmed the cake order.",
+    "topicTag": "surprise party",
+    "moodTag": "playfully tense"
+  },
+  "step3": {
+    "story": "Lily and her three best friends had planned the most elaborate birthday surprise for their roommate Jess. They booked a rooftop, hired Jess's favorite local band, and coordinated a fake errand to get her out of the apartment. The plan was flawless until Lily mentioned on a group video call that she was running late for the rooftop setup — not realizing Jess was visible in the background. Jess did not say a word, but she wore the biggest smile when she arrived.",
+    "topicTag": "friendship surprise",
+    "moodTag": "warmly chaotic"
+  },
+  "meaning": {
+    "literalMeaningKo": "콩을 쏟다.",
+    "realUsageKo": "의도치 않게 또는 실수로 비밀을 발설할 때 씁니다.",
+    "etymologyKo": "고대 그리스 투표에서 콩으로 찬반을 표시하던 비밀 항아리를 쏟으면 결과가 드러났던 데서 유래했다는 설이 있습니다.",
+    "nuanceKo": "실수나 부주의로 비밀이 새어나갈 때 쓰는 표현으로, 의도적 폭로보다는 실수에 더 잘 어울립니다.",
+    "shortExampleEn": "He spilled the beans about the merger before the official announcement.",
+    "shortExampleKo": "그는 공식 발표 전에 합병 소식을 새어나가게 했어요."
+  }
+}

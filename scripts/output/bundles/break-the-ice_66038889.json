@@ -1,0 +1,30 @@
+{
+  "id": "break-the-ice_66038889",
+  "expression": "break the ice",
+  "selectionMeta": {
+    "selectedPhrase": "break the ice",
+    "selectedSenseLabelKo": "분위기를 풀다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Jake told a funny story about his dog to break the ice at the team meeting."
+  },
+  "step2": {
+    "story": "Nobody knew each other at the new project kickoff. Jake stood up and shared an embarrassing travel story, and suddenly everyone was laughing.",
+    "topicTag": "office life",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "The company retreat brought together forty strangers from four different countries. For the first hour, people stared at their phones and spoke only to colleagues they already knew. Then Min-ji pulled out a deck of cards and suggested a quick game, breaking the ice for the entire room. By dinner, it felt like everyone had known each other for years.",
+    "topicTag": "team building",
+    "moodTag": "gradually warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "얼음을 깨다.",
+    "realUsageKo": "어색한 분위기나 긴장감을 없애고 대화를 시작할 때 씁니다.",
+    "etymologyKo": "과거 선박이 얼어붙은 강을 통과하기 위해 먼저 작은 배(icebreaker)로 얼음을 깼던 데서 유래했습니다.",
+    "nuanceKo": "새로운 만남이나 공식적인 자리에서 자주 쓰며, 가벼운 농담이나 게임 등이 도구가 됩니다.",
+    "shortExampleEn": "She broke the ice by complimenting everyone's name tags.",
+    "shortExampleKo": "그녀는 모두의 명찰을 칭찬하며 분위기를 풀었어요."
+  }
+}

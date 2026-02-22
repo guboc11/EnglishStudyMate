@@ -1,0 +1,30 @@
+{
+  "id": "bend-over-backwards_fca877a2",
+  "expression": "bend over backwards",
+  "selectionMeta": {
+    "selectedPhrase": "bend over backwards",
+    "selectedSenseLabelKo": "최선을 다하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team bent over backwards to accommodate the client's last-minute requests."
+  },
+  "step2": {
+    "story": "She bent over backwards to make the visiting researcher feel welcome — arranging housing, setting up equipment, and personally introducing him to every relevant colleague in the first three days.",
+    "topicTag": "hospitality and effort",
+    "moodTag": "generous"
+  },
+  "step3": {
+    "story": "The small bookshop had a policy of special-ordering any book a customer wanted, even if it meant ordering a single copy from overseas with lengthy delivery times. They bent over backwards to source out-of-print editions, contacted publishers directly for advance copies when readers were excited about a new release, and maintained a handwritten list of customer preferences to alert regulars when something arrived that they might like. None of it was strictly profitable. All of it was why the shop had survived three decades and four economic downturns while chains around them had closed.",
+    "topicTag": "exceptional service",
+    "moodTag": "warm and determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "뒤로 몸을 굽히다.",
+    "realUsageKo": "상대방을 위해 최대한의 노력과 수고를 기울일 때 씁니다.",
+    "etymologyKo": "뒤로 몸을 굽히는 체조 동작처럼 극한의 노력을 기울이는 이미지에서 나왔습니다.",
+    "nuanceKo": "과도한 배려나 노력이 담겨 있으며, 때로는 지나친 순응을 비판할 때도 씁니다.",
+    "shortExampleEn": "They bent over backwards to make the event perfect.",
+    "shortExampleKo": "그들은 행사를 완벽하게 만들기 위해 최선을 다했어요."
+  }
+}

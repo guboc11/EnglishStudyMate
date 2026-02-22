@@ -1,0 +1,30 @@
+{
+  "id": "on-the-ball_5cb9b5ed",
+  "expression": "on the ball",
+  "selectionMeta": {
+    "selectedPhrase": "on the ball",
+    "selectedSenseLabelKo": "유능하고 민첩한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new coordinator is really on the ball — she caught three errors before the documents even left the office."
+  },
+  "step2": {
+    "story": "The hotel staff were clearly on the ball that evening — every small request was handled within minutes, and guests' names were remembered from the check-in.",
+    "topicTag": "service excellence",
+    "moodTag": "impressed"
+  },
+  "step3": {
+    "story": "When the supplier called to say a key component would arrive three days late, most of the production schedule would have collapsed under the delay. But the operations manager was on the ball — she had already identified a backup supplier the week before, just in case. Within two hours, replacement parts were confirmed and the line kept moving without interruption. The director mentioned it at the all-hands meeting the following Monday, and the manager shrugged it off. She simply never assumed things would go to plan.",
+    "topicTag": "workplace competence",
+    "moodTag": "quietly impressive"
+  },
+  "meaning": {
+    "literalMeaningKo": "공 위에 있다.",
+    "realUsageKo": "상황을 잘 파악하고 신속하고 유능하게 대응하는 사람을 표현할 때 씁니다.",
+    "etymologyKo": "스포츠에서 공을 항상 주시하며 즉각적으로 반응하는 선수의 이미지에서 유래했습니다.",
+    "nuanceKo": "칭찬의 표현으로, 예상치 못한 상황에서 특히 빛을 발하는 사람에게 씁니다.",
+    "shortExampleEn": "She is really on the ball — never misses a detail.",
+    "shortExampleKo": "그녀는 정말 유능해요 — 세부 사항 하나도 놓치지 않아요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "open-up_f377e8cb",
+  "expression": "open up",
+  "selectionMeta": {
+    "selectedPhrase": "open up",
+    "selectedSenseLabelKo": "열다, 마음을 털어놓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took months before he finally opened up about what had been bothering him."
+  },
+  "step2": {
+    "story": "The art class turned out to be more than a hobby for many students. Something about painting side by side made people open up and share stories they had never told anyone.",
+    "topicTag": "weekend hobby",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Mia had always been very private, even with her closest friends. But after her grandmother passed away, she found herself sitting with her sister on the back porch one evening. She started talking about the visits, the shared recipes, and the way her grandmother always smelled of cinnamon. Once she began, she could not stop. Her sister listened without interrupting, and when Mia finally finished, they sat together in comfortable silence.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "닫힌 것을 열다; 감정이나 속마음을 털어놓다.",
+    "realUsageKo": "가게나 공간이 영업을 시작하거나, 개인이 감정을 솔직하게 표현하기 시작할 때 씁니다.",
+    "etymologyKo": "open(열다)과 up(완전히)이 결합하여 완전히 열린다는 의미가 되었습니다.",
+    "nuanceKo": "감정적으로 씁니다. 평소에 속마음을 잘 드러내지 않던 사람이 처음으로 솔직하게 말할 때 자주 씁니다.",
+    "shortExampleEn": "He rarely opens up about his feelings, so this was a big step.",
+    "shortExampleKo": "그는 감정을 좀처럼 털어놓지 않아서, 이번 건 큰 변화였어요."
+  }
+}

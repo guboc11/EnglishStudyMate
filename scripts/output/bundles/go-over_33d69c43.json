@@ -1,0 +1,30 @@
+{
+  "id": "go-over_33d69c43",
+  "expression": "go over",
+  "selectionMeta": {
+    "selectedPhrase": "go over",
+    "selectedSenseLabelKo": "검토하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The teacher asked students to go over their answers before handing in the test."
+  },
+  "step2": {
+    "story": "Before the big presentation, Mark went over his notes three times and rehearsed in front of his mirror. By the time he stood in front of the audience, he felt completely ready.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The contract had been prepared by a lawyer, but Sara wanted to go over every page herself before signing. She spread the documents across the kitchen table after dinner. Some clauses confused her and she wrote down three questions. The next morning, she called the lawyer and went over those points carefully before putting pen to paper.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "내용, 계획, 서류 등을 꼼꼼히 살펴보고 검토하다.",
+    "realUsageKo": "문서, 계획, 시험 답안 등을 확인하거나 복습할 때 씁니다.",
+    "etymologyKo": "go(이동하다)와 over(위로, 전체에 걸쳐)가 결합하여 전체를 처음부터 끝까지 살핀다는 의미가 되었습니다.",
+    "nuanceKo": "전체적으로 확인하는 행위를 나타냅니다. go through보다 더 빠른 검토에 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "Can we go over the schedule one more time before the event?",
+    "shortExampleKo": "행사 전에 일정을 한 번 더 검토해볼 수 있을까요?"
+  }
+}

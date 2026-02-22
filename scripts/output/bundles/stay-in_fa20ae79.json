@@ -1,0 +1,30 @@
+{
+  "id": "stay-in_fa20ae79",
+  "expression": "stay in",
+  "selectionMeta": {
+    "selectedPhrase": "stay in",
+    "selectedSenseLabelKo": "집에 있다, 나가지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It was raining heavily, so they decided to stay in and watch a movie."
+  },
+  "step2": {
+    "story": "All her friends were going out to celebrate the weekend, but Emma felt exhausted. She chose to stay in, made herself soup, and read her book in bed. By Sunday morning she felt completely restored.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "The whole city had been on edge after a week of intense heat warnings. Most people chose to stay in as much as possible and close their curtains during the hottest hours. The park that was usually full on weekends was nearly empty. But by evening, when the temperature dropped, families quietly emerged and the streets filled with people walking slowly and enjoying the cooler air.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "외출하지 않고 집이나 실내에 머물다.",
+    "realUsageKo": "나가지 않고 집에 있기로 선택할 때 씁니다. go out의 반대말입니다.",
+    "etymologyKo": "stay(머물다)와 in(안에)이 결합하여 안에 머문다는 의미가 되었습니다.",
+    "nuanceKo": "날씨, 피로, 건강 등의 이유로 집에 있기로 선택하는 상황에 자주 씁니다.",
+    "shortExampleEn": "Let's just stay in tonight and cook something simple.",
+    "shortExampleKo": "오늘 밤은 그냥 집에 있으면서 간단하게 뭔가 요리합시다."
+  }
+}

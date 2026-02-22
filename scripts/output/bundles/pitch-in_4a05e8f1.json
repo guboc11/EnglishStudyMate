@@ -1,0 +1,30 @@
+{
+  "id": "pitch-in_4a05e8f1",
+  "expression": "pitch in",
+  "selectionMeta": {
+    "selectedPhrase": "pitch in",
+    "selectedSenseLabelKo": "힘을 보태다, 협력하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "When the catering team was short-staffed, several colleagues pitched in to help set up the tables."
+  },
+  "step2": {
+    "story": "The office renovation ran over budget by a small amount. Rather than delay the project, a few team members pitched in with ideas for cutting costs in other areas, and the work was completed on time.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The community garden had not been tended properly all summer and was overgrown by September. One Saturday morning, a notice went out asking anyone free to come and help. By nine o'clock, fourteen people had shown up with gloves and tools. Nobody organized it formally; everyone just pitched in where they saw something that needed doing. By afternoon, the garden looked better than it had in years.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "공동의 목표를 위해 자발적으로 돕거나 기여하다.",
+    "realUsageKo": "특별한 지시 없이 스스로 나서서 도움을 줄 때 씁니다.",
+    "etymologyKo": "야구에서 피칭(던지다)에서 유래하여 자신의 몫을 던져 넣는다는 의미가 되었습니다.",
+    "nuanceKo": "자발성과 협력이 핵심 뉘앙스입니다. 특히 여러 사람이 함께 나서는 상황에 잘 어울립니다.",
+    "shortExampleEn": "Everyone pitched in to get the office ready before the client visit.",
+    "shortExampleKo": "고객 방문 전에 모두가 힘을 보태서 사무실을 준비했어요."
+  }
+}

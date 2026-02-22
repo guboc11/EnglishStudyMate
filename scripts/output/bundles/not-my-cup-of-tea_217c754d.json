@@ -1,0 +1,30 @@
+{
+  "id": "not-my-cup-of-tea_217c754d",
+  "expression": "not my cup of tea",
+  "selectionMeta": {
+    "selectedPhrase": "not my cup of tea",
+    "selectedSenseLabelKo": "내 취향이 아니다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Horror films are really not my cup of tea — I end up covering my eyes half the time anyway."
+  },
+  "step2": {
+    "story": "He tried the fusion restaurant his colleague kept recommending. The food was interesting, but the combination of flavors was not his cup of tea at all. He thanked her genuinely and quietly returned to his favorite noodle place on the next block.",
+    "topicTag": "personal taste",
+    "moodTag": "politely honest"
+  },
+  "step3": {
+    "story": "When her friends planned a white-water rafting trip for the long weekend, she went along with the initial excitement. As the departure date approached, she admitted to herself that extreme outdoor activities were simply not her cup of tea. She told them as much, booked a quiet cabin with a fireplace instead, and offered to have dinner ready when they returned. Everyone had a perfect weekend, and no one pretended otherwise.",
+    "topicTag": "knowing your preferences",
+    "moodTag": "self-aware and comfortable"
+  },
+  "meaning": {
+    "literalMeaningKo": "내 차 한 잔이 아니다.",
+    "realUsageKo": "어떤 것이 자신의 취향이나 흥미와 맞지 않을 때 쓰는 부드러운 표현입니다.",
+    "etymologyKo": "영국의 차 문화에서 비롯된 표현으로, 개인의 선호를 정중하게 표현하는 데 씁니다.",
+    "nuanceKo": "비판보다는 개인적 취향의 차이를 정중히 표현하는 온화한 거절입니다.",
+    "shortExampleEn": "Classical music is not really my cup of tea.",
+    "shortExampleKo": "클래식 음악은 솔직히 제 취향이 아니에요."
+  }
+}

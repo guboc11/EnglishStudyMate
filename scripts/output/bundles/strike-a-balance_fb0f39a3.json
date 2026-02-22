@@ -1,0 +1,30 @@
+{
+  "id": "strike-a-balance_fb0f39a3",
+  "expression": "strike a balance",
+  "selectionMeta": {
+    "selectedPhrase": "strike a balance",
+    "selectedSenseLabelKo": "균형을 맞추다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It is hard to strike a balance between being honest and being kind."
+  },
+  "step2": {
+    "story": "The editor had to strike a balance between preserving the author's voice and making the text accessible to a general audience. Too much intervention erased the writer. Too little left readers behind. The skill was knowing exactly where the tension lived and adjusting one sentence at a time.",
+    "topicTag": "editorial craft",
+    "moodTag": "precisely calibrated"
+  },
+  "step3": {
+    "story": "The new policy aimed to strike a balance between flexibility for employees and predictability for managers. Achieving it in practice was harder than drafting it on paper. Some departments interpreted flexibility broadly and predictability loosely. Others did the reverse. After six months of inconsistent application, the HR team facilitated a series of conversations in which managers and employees jointly defined what both terms actually meant in their specific context. The policy did not change. The shared understanding of it did, and that made more difference.",
+    "topicTag": "workplace policy",
+    "moodTag": "practically nuanced"
+  },
+  "meaning": {
+    "literalMeaningKo": "균형을 맞추다.",
+    "realUsageKo": "두 가지 상충하는 요소 사이에서 적절한 균형점을 찾을 때 씁니다.",
+    "etymologyKo": "strike는 여기서 달성하다는 의미로, 저울의 두 접시가 균형점을 찾는 이미지입니다.",
+    "nuanceKo": "find a balance와 유사하지만 strike는 노력과 기술이 요구됨을 강조합니다.",
+    "shortExampleEn": "Parents need to strike a balance between freedom and structure.",
+    "shortExampleKo": "부모는 자유와 규율 사이에서 균형을 맞춰야 해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "get-away_c5ca86bd",
+  "expression": "get away",
+  "selectionMeta": {
+    "selectedPhrase": "get away",
+    "selectedSenseLabelKo": "도망치다, 떠나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She just needed to get away from the city noise for a few days to clear her head."
+  },
+  "step2": {
+    "story": "The thief grabbed the bag and ran, but a bystander chased him and blocked his path. He could not get away and the police arrived within minutes.",
+    "topicTag": "street",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "After three months of nonstop deadlines, the team decided they all needed a break. Their manager agreed and told everyone to get away for the long weekend. Some went hiking, others visited family. On Monday, they all returned to the office looking visibly refreshed and ready to work again.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 장소나 상황에서 벗어나 떠나다; 도망치다.",
+    "realUsageKo": "일상이나 바쁜 상황에서 잠깐 벗어나거나, 쫓기는 상황에서 달아날 때 씁니다.",
+    "etymologyKo": "get(이동하다)과 away(멀리)가 결합하여 현재 위치에서 멀리 이동한다는 의미가 되었습니다.",
+    "nuanceKo": "일상 탈출처럼 긍정적 의미로도, 도주처럼 부정적 의미로도 씁니다. 맥락에 따라 뉘앙스가 달라집니다.",
+    "shortExampleEn": "We decided to get away for the weekend and booked a small cabin.",
+    "shortExampleKo": "주말에 잠깐 떠나기로 하고 작은 오두막을 예약했어요."
+  }
+}

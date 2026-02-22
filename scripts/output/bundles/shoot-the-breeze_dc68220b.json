@@ -1,0 +1,30 @@
+{
+  "id": "shoot-the-breeze_dc68220b",
+  "expression": "shoot the breeze",
+  "selectionMeta": {
+    "selectedPhrase": "shoot the breeze",
+    "selectedSenseLabelKo": "잡담하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We spent the whole afternoon on the porch just shooting the breeze about nothing in particular."
+  },
+  "step2": {
+    "story": "The two neighbors had lived across the street from each other for a decade, mostly exchanging waves. One afternoon a power outage cut off all screens, and they ended up on their stoops shooting the breeze for three hours. It turned out to be one of the better conversations either of them had had in years.",
+    "topicTag": "unexpected connection",
+    "moodTag": "warm and leisurely"
+  },
+  "step3": {
+    "story": "The veteran mechanic worked fast and charged fairly, but what his regulars really came back for was the conversation. Between oil changes and tire rotations, he would shoot the breeze about the game last night, neighborhood gossip, his customers' kids, and anything else that wandered into the garage. People would sometimes show up on a Saturday without a car problem at all, just because they had time to kill and he was good company. He had never tried to build a community. He had just stayed curious and kept talking.",
+    "topicTag": "local community",
+    "moodTag": "easy and warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "바람을 쏘다.",
+    "realUsageKo": "특별한 주제 없이 가볍고 즐겁게 잡담을 나눌 때 씁니다.",
+    "etymologyKo": "20세기 초 미국 속어에서 유래했으며, 아무 것도 맞히지 못하는 허공에 총을 쏘는 이미지와 연결됩니다.",
+    "nuanceKo": "목적 없이 편하게 대화를 즐기는 분위기를 담으며, 친밀한 사이에서 씁니다.",
+    "shortExampleEn": "We were just shooting the breeze after the meeting.",
+    "shortExampleKo": "회의 후에 그냥 잡담하고 있었어요."
+  }
+}

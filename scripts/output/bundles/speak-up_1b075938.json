@@ -1,0 +1,30 @@
+{
+  "id": "speak-up_1b075938",
+  "expression": "speak up",
+  "selectionMeta": {
+    "selectedPhrase": "speak up",
+    "selectedSenseLabelKo": "크게 말하다, 솔직히 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The teacher asked the students to speak up so that everyone in the room could hear."
+  },
+  "step2": {
+    "story": "During the meeting, Maya noticed an important error in the proposal but hesitated to mention it. After a moment, she decided to speak up and everyone was glad she did.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "At the community meeting, the agenda moved forward without addressing the drainage issue that had been flooding some residents' yards for years. An elderly woman near the back of the room slowly stood up and spoke up for the first time in her life at a public gathering. Her voice was quiet but steady. By the time she sat down, the chairman had already added the issue to the official agenda.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "더 크게 말하다; 자신의 의견이나 불만을 솔직하게 표현하다.",
+    "realUsageKo": "목소리를 높여서 말하거나, 용기 있게 자신의 의견을 말할 때 씁니다.",
+    "etymologyKo": "speak(말하다)와 up(위로, 강조)이 결합하여 더 크게 또는 더 적극적으로 말한다는 의미가 되었습니다.",
+    "nuanceKo": "단순히 목소리 크기를 높이는 것과 용기 있게 의사를 표현하는 두 뜻 모두에 씁니다.",
+    "shortExampleEn": "If you disagree, please speak up; your opinion matters.",
+    "shortExampleKo": "동의하지 않으면 솔직히 말해주세요. 당신의 의견은 중요해요."
+  }
+}

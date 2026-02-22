@@ -1,0 +1,30 @@
+{
+  "id": "spark-interest_75904f64",
+  "expression": "spark interest",
+  "selectionMeta": {
+    "selectedPhrase": "spark interest",
+    "selectedSenseLabelKo": "흥미를 불러일으키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The documentary sparked interest in astronomy among a generation of young viewers."
+  },
+  "step2": {
+    "story": "The pop-up exhibit had been designed to spark interest in local history among people who would never visit a traditional museum. It took three objects and five sentences of text, placed in the middle of a busy market. People stopped, read, and asked questions the curators had not anticipated.",
+    "topicTag": "public engagement",
+    "moodTag": "unexpectedly effective"
+  },
+  "step3": {
+    "story": "The science teacher had spent a decade trying to spark interest in chemistry among students who arrived in her classroom convinced it was not for them. She had tried demonstrations, videos, and real-world applications. What finally worked consistently was something simpler: she started the year by asking each student what they were already curious about, and then spent the semester showing them how chemistry was present in exactly those things. The interest was already there. She just needed to connect it to the subject rather than the other way around.",
+    "topicTag": "education",
+    "moodTag": "illuminatingly effective"
+  },
+  "meaning": {
+    "literalMeaningKo": "관심에 불꽃을 일으키다.",
+    "realUsageKo": "누군가의 흥미나 관심을 처음으로 불러일으킬 때 씁니다.",
+    "etymologyKo": "spark는 불꽃의 이미지로, 아직 타오르지 않은 관심에 처음 점화하는 순간을 표현합니다.",
+    "nuanceKo": "generate interest(더 중립적)보다 첫 번째 촉발의 뉘앙스가 강합니다.",
+    "shortExampleEn": "Her talk sparked interest in renewable energy across the whole team.",
+    "shortExampleKo": "그녀의 강연이 팀 전체에 재생에너지에 대한 관심을 불러일으켰어요."
+  }
+}

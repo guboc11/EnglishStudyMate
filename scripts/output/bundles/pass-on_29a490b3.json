@@ -1,0 +1,30 @@
+{
+  "id": "pass-on_29a490b3",
+  "expression": "pass on",
+  "selectionMeta": {
+    "selectedPhrase": "pass on",
+    "selectedSenseLabelKo": "전달하다, 물려주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She asked him to pass on her thanks to everyone who had helped with the event."
+  },
+  "step2": {
+    "story": "The grandfather had a set of handmade tools he had used his whole working life. On his retirement day, he passed them on to his youngest daughter, who had become a carpenter herself.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "The school had a tradition where graduating students passed on one piece of advice to the incoming class. Some wrote about study habits, others about friendship. One student wrote simply that kindness is never wasted. The sheet was laminated and pinned to the school bulletin board for the rest of the year.",
+    "topicTag": "school friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "정보나 메시지를 다른 사람에게 전달하다; 물건이나 가치를 물려주다.",
+    "realUsageKo": "정보를 전달하거나, 물건 또는 전통 등을 다음 사람에게 이어줄 때 씁니다.",
+    "etymologyKo": "pass(전달하다)와 on(계속, 다음으로)이 결합하여 한 사람에서 다음 사람으로 이어준다는 의미가 되었습니다.",
+    "nuanceKo": "유산처럼 세대 간 전달에 쓰이기도 하고, 일상에서 단순히 메시지를 전달할 때도 씁니다.",
+    "shortExampleEn": "Please pass on the message that the meeting has been moved to Thursday.",
+    "shortExampleKo": "회의가 목요일로 변경됐다는 메시지 좀 전달해주세요."
+  }
+}

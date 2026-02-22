@@ -1,0 +1,30 @@
+{
+  "id": "communicate-effectively_ad80239c",
+  "expression": "communicate effectively",
+  "selectionMeta": {
+    "selectedPhrase": "communicate effectively",
+    "selectedSenseLabelKo": "효과적으로 소통하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Leaders who communicate effectively build more trust and achieve better results."
+  },
+  "step2": {
+    "story": "She had been told she needed to communicate more effectively, which was useful feedback that did not include any guidance about what more effectively meant. She asked for a specific example. The specific example was more useful than ten workshops would have been.",
+    "topicTag": "feedback quality",
+    "moodTag": "specifically helpful"
+  },
+  "step3": {
+    "story": "The organization had invested in communication training every year for a decade. The evaluation data was consistent: short-term improvement, long-term reversion. The training director eventually proposed a different model — not training, but coaching: targeted, one-on-one support for specific communication challenges that real people were facing in real situations. The change in format required fewer people and more skill from the coaches. The behavior change that followed was more durable than anything the annual workshops had produced. Communicating effectively, it turned out, was best developed in the context of actual communication rather than instruction about it.",
+    "topicTag": "organizational development",
+    "moodTag": "effectively redesigned"
+  },
+  "meaning": {
+    "literalMeaningKo": "효과적으로 소통하다.",
+    "realUsageKo": "의도한 메시지를 상대방이 정확히 이해하도록 전달할 때 씁니다.",
+    "etymologyKo": "effectively는 결과를 낸다는 의미로, 단순히 말하는 것이 아닌 이해를 이끌어내는 소통을 강조합니다.",
+    "nuanceKo": "effective communication(효과적인 소통)을 능동적으로 행한다는 표현입니다.",
+    "shortExampleEn": "Managers who communicate effectively tend to lead higher-performing teams.",
+    "shortExampleKo": "효과적으로 소통하는 매니저가 성과 높은 팀을 이끄는 경향이 있어요."
+  }
+}

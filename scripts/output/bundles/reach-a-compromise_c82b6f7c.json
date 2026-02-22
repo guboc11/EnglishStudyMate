@@ -1,0 +1,30 @@
+{
+  "id": "reach-a-compromise_c82b6f7c",
+  "expression": "reach a compromise",
+  "selectionMeta": {
+    "selectedPhrase": "reach a compromise",
+    "selectedSenseLabelKo": "타협에 이르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hours of discussion, the two sides finally reached a compromise everyone could live with."
+  },
+  "step2": {
+    "story": "They had reached a compromise on the budget, but both felt vaguely dissatisfied — which the mediator told them was actually a good sign. A deal where one side won entirely rarely held. A deal where both sides gave something tended to.",
+    "topicTag": "negotiation",
+    "moodTag": "mutually workable"
+  },
+  "step3": {
+    "story": "The city council had been divided over the waterfront development for two years. Preservationists wanted nothing built. Developers wanted maximum density. Residents wanted affordable housing. The planning commission brought in a facilitated process that spent three months mapping what each group needed versus what they wanted. From the needs — not the positions — a compromise emerged that no single group had proposed. It preserved the historic structures, allowed moderate development, and included a community housing allocation. Everyone had given something. The project broke ground the following spring.",
+    "topicTag": "urban planning",
+    "moodTag": "painstakingly collaborative"
+  },
+  "meaning": {
+    "literalMeaningKo": "타협에 도달하다.",
+    "realUsageKo": "서로 양보하여 모두가 받아들일 수 있는 중간 지점에 이를 때 씁니다.",
+    "etymologyKo": "compromise는 라틴어 compromissum(함께 약속하다)에서 왔습니다. reach는 노력 끝에 도달함을 강조합니다.",
+    "nuanceKo": "both sides give something이라는 상호 양보의 뉘앙스가 핵심입니다.",
+    "shortExampleEn": "It took weeks, but they reached a compromise on the contract terms.",
+    "shortExampleKo": "몇 주가 걸렸지만 계약 조건에 대한 타협에 이르렀어요."
+  }
+}

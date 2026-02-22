@@ -1,0 +1,30 @@
+{
+  "id": "slow-down_fe49f5a0",
+  "expression": "slow down",
+  "selectionMeta": {
+    "selectedPhrase": "slow down",
+    "selectedSenseLabelKo": "속도를 줄이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The driver slowed down when he saw the school crossing sign ahead."
+  },
+  "step2": {
+    "story": "The doctor told her she needed to slow down and rest more. She had been working twelve-hour days for three months and her body was showing the strain.",
+    "topicTag": "doctor visit",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "At sixty-seven, Harold still jogged every morning and kept a packed schedule. His daughter gently suggested he slow down and enjoy more quiet time. He resisted at first, saying he felt fine. But one Sunday, he tried sitting on the porch with just a cup of tea and no phone. He stayed there for two hours and admitted afterward it was the most peaceful he had felt in years.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "이동 속도나 활동 속도를 줄이다.",
+    "realUsageKo": "차량, 사람, 상황의 속도를 줄일 때 씁니다. 너무 빠르게 살아가고 있는 사람에게 쉬어가라는 뜻으로도 씁니다.",
+    "etymologyKo": "slow(느리게 하다)와 down(아래로, 줄이다)이 결합하여 속도를 아래로 낮춘다는 의미가 되었습니다.",
+    "nuanceKo": "물리적 속도 감소와 삶의 속도를 낮추라는 조언 두 경우 모두에 씁니다.",
+    "shortExampleEn": "You need to slow down or you are going to burn yourself out.",
+    "shortExampleKo": "속도를 줄여야 해요. 그러지 않으면 완전히 지쳐버릴 거예요."
+  }
+}

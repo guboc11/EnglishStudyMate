@@ -1,0 +1,30 @@
+{
+  "id": "kick-off_90df9d53",
+  "expression": "kick off",
+  "selectionMeta": {
+    "selectedPhrase": "kick off",
+    "selectedSenseLabelKo": "시작하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The CEO took the stage to kick off the annual company conference."
+  },
+  "step2": {
+    "story": "The project kicked off with a two-hour planning session where everyone shared their ideas openly. By the end, the team had a clear roadmap and a shared sense of purpose.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The new product launch had been months in the making. On the morning it was set to kick off, the marketing team gathered early to review the campaign one final time. Emails were queued, ads were scheduled, and the landing page was live. When the clock hit nine, they clicked send and watched the first numbers start to come in. The room went quiet with focused attention.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "회의, 행사, 프로젝트 등을 공식적으로 시작하다.",
+    "realUsageKo": "비즈니스 맥락에서 프로젝트, 회의, 캠페인 등을 시작할 때 자주 씁니다.",
+    "etymologyKo": "축구에서 킥오프(경기 시작 킥)에서 유래하여, 무언가를 공식적으로 시작한다는 의미가 되었습니다.",
+    "nuanceKo": "공식적이고 에너지 있는 시작의 느낌을 줍니다. 비즈니스와 스포츠 맥락 모두에 씁니다.",
+    "shortExampleEn": "We will kick off the new campaign with a press event next Monday.",
+    "shortExampleKo": "다음 주 월요일 기자간담회로 새 캠페인을 시작할 거예요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "have-a-ball_aa0876b8",
+  "expression": "have a ball",
+  "selectionMeta": {
+    "selectedPhrase": "have a ball",
+    "selectedSenseLabelKo": "신나게 즐기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had a ball at the festival — the food, the music, and the crowd were all perfect."
+  },
+  "step2": {
+    "story": "The kids had a ball at the science museum, running from exhibit to exhibit and pressing every button they were allowed to press — and a few they were not.",
+    "topicTag": "family outing",
+    "moodTag": "energetic and joyful"
+  },
+  "step3": {
+    "story": "Nobody expected the office holiday party to be memorable. Last year's had been stiff and awkward in a rented conference room with warm wine and a DJ nobody had asked for. This year, someone on the planning committee booked a rooftop venue, hired a local jazz trio, and organized a competitive cooking challenge instead of a sit-down dinner. People who had never spoken to each other outside of meetings were laughing and plating food together by eight. Everyone agreed they had a ball, and the planning committee was already getting requests about next year before midnight.",
+    "topicTag": "social event",
+    "moodTag": "unexpectedly delightful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무도회를 가지다.",
+    "realUsageKo": "어떤 행사나 경험을 매우 즐겁고 신나게 보낼 때 씁니다.",
+    "etymologyKo": "grand ball이라는 화려한 무도회에서 유래했으며, 즐거운 사교 행사의 이미지를 담고 있습니다.",
+    "nuanceKo": "긍정적이고 들뜬 감정을 강하게 표현하는 구어 표현입니다.",
+    "shortExampleEn": "We had a ball at the reunion — it was so good to see everyone.",
+    "shortExampleKo": "동창회에서 정말 신나게 즐겼어요 — 다들 반가웠어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "back-to-square-one_fccc4d89",
+  "expression": "back to square one",
+  "selectionMeta": {
+    "selectedPhrase": "back to square one",
+    "selectedSenseLabelKo": "원점으로 돌아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The prototype was rejected by the client, so we are back to square one."
+  },
+  "step2": {
+    "story": "After two rounds of revisions, the branding agency and the client realized they had fundamentally different visions for the logo. They went back to square one together, this time starting with a shared mood board before drawing a single line.",
+    "topicTag": "creative reset",
+    "moodTag": "frustrated but focused"
+  },
+  "step3": {
+    "story": "The team had spent eleven months building the recommendation algorithm. When A/B testing showed it performed worse than the existing system for 65 percent of users, the data was clear. They were back to square one — not because the work had been bad, but because the original hypothesis had been wrong. The product lead spent the rest of the day quiet, then gathered the team the next morning and said they had just learned more about what did not work than most teams ever get to learn. They redesigned the approach from the ground up, and the second version performed well enough to ship.",
+    "topicTag": "product iteration",
+    "moodTag": "sobered but resolved"
+  },
+  "meaning": {
+    "literalMeaningKo": "첫 번째 칸으로 돌아가다.",
+    "realUsageKo": "계획이나 작업이 실패하거나 막혀서 처음 시작 지점으로 돌아가야 할 때 씁니다.",
+    "etymologyKo": "보드 게임에서 첫 번째 칸으로 돌아가야 하는 벌칙에서 유래했습니다.",
+    "nuanceKo": "go back to the drawing board와 비슷하지만 더 구어적이고 가볍습니다.",
+    "shortExampleEn": "The deal fell through — we are back to square one.",
+    "shortExampleKo": "거래가 깨졌어요 — 다시 원점이에요."
+  }
+}

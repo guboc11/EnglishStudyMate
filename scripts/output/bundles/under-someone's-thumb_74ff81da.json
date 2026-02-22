@@ -1,0 +1,30 @@
+{
+  "id": "under-someone's-thumb_74ff81da",
+  "expression": "under someone's thumb",
+  "selectionMeta": {
+    "selectedPhrase": "under someone's thumb",
+    "selectedSenseLabelKo": "누군가의 통제 아래 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The regional manager felt completely under the CEO's thumb and had no room to make independent decisions."
+  },
+  "step2": {
+    "story": "The deputy had been talented enough to run the organization herself for years. But she remained under the director's thumb, and her best initiatives were repeatedly scaled back or credited to others. She eventually left for a smaller organization where she led without interference.",
+    "topicTag": "workplace control",
+    "moodTag": "constrained"
+  },
+  "step3": {
+    "story": "The franchise had grown quickly, which the parent company had assumed meant stronger control. Instead, the most successful franchisees were those given the most autonomy. The ones kept strictly under the company's thumb — required to use only approved suppliers, prohibited from regional menu variations, subject to frequent compliance audits — performed below average and reported lower staff morale. When the data was presented at the annual leadership summit, the head of franchise operations sat with it for a long moment before acknowledging that control and performance had been negatively correlated. The franchising model was redesigned the following quarter.",
+    "topicTag": "organizational autonomy",
+    "moodTag": "revelatory"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 엄지손가락 아래 있다.",
+    "realUsageKo": "누군가의 강한 통제나 영향력 아래에 놓여 자유롭게 행동하지 못할 때 씁니다.",
+    "etymologyKo": "엄지로 무언가를 눌러 통제하는 이미지에서 나온 표현입니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강하며, 개인의 자율성이 억압된 상황을 묘사합니다.",
+    "shortExampleEn": "He has always been under his boss's thumb.",
+    "shortExampleKo": "그는 항상 상사의 통제 아래 놓여 있었어요."
+  }
+}

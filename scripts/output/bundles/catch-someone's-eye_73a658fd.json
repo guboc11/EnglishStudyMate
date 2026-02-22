@@ -1,0 +1,30 @@
+{
+  "id": "catch-someone's-eye_73a658fd",
+  "expression": "catch someone's eye",
+  "selectionMeta": {
+    "selectedPhrase": "catch someone's eye",
+    "selectedSenseLabelKo": "눈길을 끌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A bright yellow cover caught her eye in the bookstore window."
+  },
+  "step2": {
+    "story": "He had been standing at the edge of the networking event for twenty minutes when someone across the room caught his eye and nodded — not a wave, just a nod that said: I see you over there. He walked over, and it turned out to be the most useful conversation of the evening.",
+    "topicTag": "social connection",
+    "moodTag": "quietly noticed"
+  },
+  "step3": {
+    "story": "The portfolio review had forty submissions. The curator moved through them quickly, giving each roughly thirty seconds before turning the page. Then one stopped her. She could not immediately say why — the technique was not the most polished, the subject matter was familiar. But something in the composition caught her eye in a way that made her set it aside and return to it three times before the end of the session. It was selected. When she met the artist and described the experience, the artist said the piece had taken six months of reworking. Whatever had made the curator stop was the sixth version of a first idea.",
+    "topicTag": "art selection",
+    "moodTag": "instinctively drawn"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 눈을 사로잡다.",
+    "realUsageKo": "무언가나 누군가가 시선을 붙잡거나 주목을 받을 때 씁니다.",
+    "etymologyKo": "눈(eye)이 무언가에 '걸린다(caught)'는 시각적 이미지에서 나왔습니다.",
+    "nuanceKo": "의도적으로 눈빛을 교환할 때도, 물건이 시선을 사로잡을 때도 모두 씁니다.",
+    "shortExampleEn": "The red dress caught everyone's eye in the room.",
+    "shortExampleKo": "그 빨간 드레스가 방 안 모든 사람의 눈길을 끌었어요."
+  }
+}

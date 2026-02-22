@@ -1,0 +1,30 @@
+{
+  "id": "barking-up-the-wrong-tree_32e60354",
+  "expression": "barking up the wrong tree",
+  "selectionMeta": {
+    "selectedPhrase": "barking up the wrong tree",
+    "selectedSenseLabelKo": "헛다리 짚다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you think I leaked the report, you are barking up the wrong tree."
+  },
+  "step2": {
+    "story": "The investigators had focused their attention on the financial department for six weeks. When they finally checked the server logs, they realized they had been barking up the wrong tree — the breach had originated from a third-party vendor.",
+    "topicTag": "investigation",
+    "moodTag": "redirected"
+  },
+  "step3": {
+    "story": "The startup spent its first year building an elaborate solution for small business invoicing, convinced from the beginning that the problem was the software itself. They launched, marketed aggressively, and got almost no traction. A consultant they hired looked at their churn data and told them plainly that they had been barking up the wrong tree — small businesses were not switching tools because of features; they were staying with old tools because of habits and fear of data migration. The product was not the issue. The onboarding and migration support were. The team pivoted within a quarter and retention improved immediately.",
+    "topicTag": "startup learning",
+    "moodTag": "humbled and redirected"
+  },
+  "meaning": {
+    "literalMeaningKo": "잘못된 나무에 대고 짖다.",
+    "realUsageKo": "잘못된 가정이나 대상을 바탕으로 노력하거나 비난할 때 씁니다.",
+    "etymologyKo": "사냥개가 동물이 도망간 나무와 다른 나무를 향해 짖는 상황에서 유래했습니다.",
+    "nuanceKo": "근거 없는 의심이나 방향을 잘못 잡은 노력을 지적할 때 씁니다.",
+    "shortExampleEn": "The police were barking up the wrong tree from the start.",
+    "shortExampleKo": "경찰은 처음부터 헛다리를 짚고 있었어요."
+  }
+}

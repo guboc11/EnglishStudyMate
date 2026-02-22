@@ -1,0 +1,30 @@
+{
+  "id": "cross-that-bridge-when-you-come-to-it_06164a5a",
+  "expression": "cross that bridge when you come to it",
+  "selectionMeta": {
+    "selectedPhrase": "cross that bridge when you come to it",
+    "selectedSenseLabelKo": "때가 되면 해결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I don't know what to do if they reject the permit — I'll cross that bridge when I come to it."
+  },
+  "step2": {
+    "story": "The young architect was worried about every possible complication before the groundbreaking had even happened. Her mentor told her to cross each bridge when she came to it, and to save her energy for problems that had actually arrived.",
+    "topicTag": "managing anxiety",
+    "moodTag": "gently wise"
+  },
+  "step3": {
+    "story": "The expedition team had planned for most foreseeable challenges: terrain, weather, equipment failure, altitude sickness. But one member kept raising increasingly improbable scenarios during planning meetings, and the discussions had begun consuming time that could have gone toward actual preparation. The team leader finally said, with some firmness, that they would cross each bridge when they came to it. Some risks were worth anticipating. Others were worth acknowledging and releasing. Knowing the difference, she said, was a skill as important as any other on the mountain.",
+    "topicTag": "expedition planning",
+    "moodTag": "practical and calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "그 다리에 다가왔을 때 건너다.",
+    "realUsageKo": "아직 오지 않은 문제를 미리 걱정하지 말고, 실제로 닥쳤을 때 해결하자고 할 때 씁니다.",
+    "etymologyKo": "길을 걷다가 다리에 실제로 도달했을 때 그것을 건너는 실용적 이미지에서 나왔습니다.",
+    "nuanceKo": "지나친 걱정을 줄이고 현재에 집중하도록 권고하는 표현입니다.",
+    "shortExampleEn": "If that problem comes up, we will cross that bridge when we come to it.",
+    "shortExampleKo": "그 문제가 생기면 그때 가서 해결해요."
+  }
+}

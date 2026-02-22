@@ -1,0 +1,30 @@
+{
+  "id": "log-in_d18d183f",
+  "expression": "log in",
+  "selectionMeta": {
+    "selectedPhrase": "log in",
+    "selectedSenseLabelKo": "로그인하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "She tried to log in to her email but kept getting an incorrect password message."
+  },
+  "step2": {
+    "story": "The remote team logged in to the video call from three different time zones. Once everyone was connected, the meeting started with a quick round of greetings.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "After the website migration, thousands of users tried to log in and found their credentials were no longer working. The support team was flooded with tickets within the first hour. The engineers identified the authentication error quickly and pushed a fix before noon. A message was sent to all affected users with instructions. By end of day, the login rate had returned to normal.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "아이디와 비밀번호를 입력하여 시스템이나 서비스에 접속하다.",
+    "realUsageKo": "웹사이트, 앱, 컴퓨터 시스템 등에 접속할 때 씁니다. log out의 반대말입니다.",
+    "etymologyKo": "컴퓨터 시스템 기록(log)에 이름을 올리면서(in) 접속한다는 의미에서 유래했습니다.",
+    "nuanceKo": "log in과 login 모두 씁니다. log in은 동사, login은 명사 또는 형용사로 구분하여 씁니다.",
+    "shortExampleEn": "You need to log in with your student ID to access the portal.",
+    "shortExampleKo": "포털에 접속하려면 학생증 번호로 로그인해야 해요."
+  }
+}

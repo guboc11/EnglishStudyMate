@@ -1,0 +1,30 @@
+{
+  "id": "pass-out_9118d541",
+  "expression": "pass out",
+  "selectionMeta": {
+    "selectedPhrase": "pass out",
+    "selectedSenseLabelKo": "기절하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He passed out briefly during the blood test and woke up on the floor of the clinic."
+  },
+  "step2": {
+    "story": "It was the hottest day of the summer and the parade had been going for over two hours. A young man near the front of the crowd passed out from the heat and was helped by bystanders who called for water.",
+    "topicTag": "street",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "During the school play rehearsal, the student playing the lead role had not eaten all day due to nerves. Halfway through the final act, she suddenly felt dizzy and passed out on stage. The drama teacher rushed over, the rehearsal stopped, and someone brought orange juice and crackers. She recovered quickly, sat up laughing at herself, and insisted on finishing the scene.",
+    "topicTag": "school friendship",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "갑자기 의식을 잃고 쓰러지다.",
+    "realUsageKo": "피로, 더위, 충격 등으로 갑자기 의식을 잃는 상황에 씁니다. faint보다 구어체적입니다.",
+    "etymologyKo": "pass(지나가다)와 out(밖으로, 의식 밖으로)이 결합하여 의식이 밖으로 빠져나간다는 의미가 되었습니다.",
+    "nuanceKo": "갑자기 잠이 들다의 뜻으로도 구어체에서 씁니다. 맥락으로 구분합니다.",
+    "shortExampleEn": "She passed out right after giving blood and needed to sit down.",
+    "shortExampleKo": "헌혈 직후 기절해서 앉아야 했어요."
+  }
+}

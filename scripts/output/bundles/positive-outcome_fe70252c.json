@@ -1,0 +1,30 @@
+{
+  "id": "positive-outcome_fe70252c",
+  "expression": "positive outcome",
+  "selectionMeta": {
+    "selectedPhrase": "positive outcome",
+    "selectedSenseLabelKo": "긍정적인 결과",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The negotiation ended with a positive outcome for all parties involved."
+  },
+  "step2": {
+    "story": "She had gone into the difficult conversation hoping for a positive outcome and prepared to handle the opposite. Preparing for both had, paradoxically, made the positive outcome more likely — she had been less anxious, more present, and easier to be honest with.",
+    "topicTag": "difficult conversation",
+    "moodTag": "prepared and calm"
+  },
+  "step3": {
+    "story": "The evaluation framework required programs to define what a positive outcome looked like before delivering services, not after. This sequencing had been controversial initially — outcomes were complex and varied — but the discipline of definition had improved program design significantly. When staff were required to name what success looked like in advance, they made different choices during delivery than when they defined success retrospectively. The positive outcomes that followed were more frequent and more consistent than before the framework was introduced.",
+    "topicTag": "program evaluation",
+    "moodTag": "structurally improved"
+  },
+  "meaning": {
+    "literalMeaningKo": "긍정적인 결과.",
+    "realUsageKo": "어떤 과정이나 사건이 좋은 결과로 마무리될 때 씁니다.",
+    "etymologyKo": "positive는 라틴어 positivus(확정된, 좋은 방향의)에서 왔으며, outcome과 결합해 바람직한 결말을 표현합니다.",
+    "nuanceKo": "achieve/produce/lead to a positive outcome처럼 씁니다.",
+    "shortExampleEn": "Both sides worked hard to ensure a positive outcome.",
+    "shortExampleKo": "양측은 긍정적인 결과를 보장하기 위해 열심히 노력했어요."
+  }
+}

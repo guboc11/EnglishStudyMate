@@ -1,0 +1,30 @@
+{
+  "id": "let-sleeping-dogs-lie_31b544a5",
+  "expression": "let sleeping dogs lie",
+  "selectionMeta": {
+    "selectedPhrase": "let sleeping dogs lie",
+    "selectedSenseLabelKo": "긁어 부스럼 만들지 마라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The argument happened five years ago — just let sleeping dogs lie and move on."
+  },
+  "step2": {
+    "story": "Mark wanted to send a follow-up email demanding an explanation from his old business partner. His wife poured him a cup of tea and quietly suggested letting sleeping dogs lie. He put the phone down and felt his shoulders drop.",
+    "topicTag": "conflict resolution",
+    "moodTag": "calm and wise"
+  },
+  "step3": {
+    "story": "The two families had not spoken since a property dispute over a shared fence seven years ago. Things had settled down, and both sides had moved past it in their daily lives. When a new neighbor suggested organizing a block party and casually asked if the families got along, someone warned her to let sleeping dogs lie. The neighbor nodded and simply assigned the two families to separate sections of the potluck sign-up sheet. The party was pleasant, and the fence was never mentioned.",
+    "topicTag": "old conflict",
+    "moodTag": "gently cautious"
+  },
+  "meaning": {
+    "literalMeaningKo": "자는 개를 내버려 두다.",
+    "realUsageKo": "이미 가라앉은 갈등이나 문제를 굳이 다시 꺼내지 말라고 조언할 때 씁니다.",
+    "etymologyKo": "14세기부터 사용된 오래된 표현으로, 자는 개를 건드리면 물릴 수 있다는 실용적 교훈에서 나왔습니다.",
+    "nuanceKo": "현명한 자제를 권고하는 조언으로, 싸움보다 평화를 우선시하는 맥락에서 씁니다.",
+    "shortExampleEn": "Do not bring up that old argument — just let sleeping dogs lie.",
+    "shortExampleKo": "그 오래된 말다툼 꺼내지 마요 — 그냥 내버려 두는 게 나아요."
+  }
+}

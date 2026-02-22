@@ -1,0 +1,30 @@
+{
+  "id": "weigh-options_9919a33d",
+  "expression": "weigh options",
+  "selectionMeta": {
+    "selectedPhrase": "weigh options",
+    "selectedSenseLabelKo": "선택지를 저울질하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Take your time to weigh your options before committing to either path."
+  },
+  "step2": {
+    "story": "She had weighed her options carefully for two weeks and arrived at the same place she had started. Eventually she realized the weighing itself had become a way of not deciding, and that the decision was less about the options and more about what she was willing to risk.",
+    "topicTag": "decision making",
+    "moodTag": "honestly circular then clear"
+  },
+  "step3": {
+    "story": "The team had been asked to weigh the options for the office relocation. They gathered data on commute times, cost per square foot, proximity to clients, and team preferences. What the data could not weigh was the intangible — the character of a space, the likelihood that a particular neighborhood would feel like somewhere people wanted to spend time. They presented both the quantitative analysis and an honest note about its limits. The executive made the final call with both sets of information in hand and later said the acknowledgment of uncertainty had been as useful as the data.",
+    "topicTag": "strategic decision",
+    "moodTag": "analytically honest"
+  },
+  "meaning": {
+    "literalMeaningKo": "선택지를 저울질하다.",
+    "realUsageKo": "각 선택지의 장단점을 신중하게 비교·검토할 때 씁니다.",
+    "etymologyKo": "weigh는 저울로 무게를 달다는 의미에서, 선택지들을 비교 검토하는 이미지로 확장되었습니다.",
+    "nuanceKo": "consider options보다 비교와 평가의 과정을 더 강조합니다.",
+    "shortExampleEn": "We need to weigh all our options before making a final decision.",
+    "shortExampleKo": "최종 결정을 내리기 전에 모든 선택지를 저울질해야 해요."
+  }
+}

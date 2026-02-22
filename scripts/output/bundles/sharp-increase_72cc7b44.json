@@ -1,0 +1,30 @@
+{
+  "id": "sharp-increase_72cc7b44",
+  "expression": "sharp increase",
+  "selectionMeta": {
+    "selectedPhrase": "sharp increase",
+    "selectedSenseLabelKo": "급격한 증가",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "There has been a sharp increase in demand for online learning tools since last year."
+  },
+  "step2": {
+    "story": "The sharp increase in energy prices had forced the organization to rethink decisions it had assumed were settled. What had seemed like a stable operating environment had changed in a matter of months, and the planning assumptions that had guided the last three years were no longer valid.",
+    "topicTag": "economic disruption",
+    "moodTag": "urgently recalibrating"
+  },
+  "step3": {
+    "story": "The public health team was tracking a sharp increase in respiratory cases in three districts simultaneously. The data alone did not explain the cause — seasonal patterns, new pathogen, or environmental factor were all possible. They dispatched field teams to gather qualitative data alongside the epidemiological data. The field teams found, within forty-eight hours, that all three districts shared a water source that had recently had a maintenance disruption. The sharp increase had an environmental cause that the surveillance data alone would not have identified for another three weeks.",
+    "topicTag": "public health",
+    "moodTag": "urgently investigative"
+  },
+  "meaning": {
+    "literalMeaningKo": "급격한 증가.",
+    "realUsageKo": "수치나 수준이 갑자기 크게 올랐을 때 씁니다.",
+    "etymologyKo": "sharp는 날카롭고 급격하다는 의미로, 꾸준한 증가가 아닌 갑작스러운 상승을 표현합니다.",
+    "nuanceKo": "sudden increase와 유사하지만 sharp는 그래프에서 날카롭게 꺾이는 이미지를 강조합니다.",
+    "shortExampleEn": "The report noted a sharp increase in customer complaints last quarter.",
+    "shortExampleKo": "보고서는 지난 분기 고객 불만의 급격한 증가를 지적했어요."
+  }
+}

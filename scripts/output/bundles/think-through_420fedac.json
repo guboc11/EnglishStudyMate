@@ -1,0 +1,30 @@
+{
+  "id": "think-through_420fedac",
+  "expression": "think through",
+  "selectionMeta": {
+    "selectedPhrase": "think through",
+    "selectedSenseLabelKo": "충분히 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making any changes, she sat down and thought through all the possible consequences."
+  },
+  "step2": {
+    "story": "The plan sounded exciting but had several gaps. The team spent the whole afternoon thinking through each step carefully before agreeing to move forward.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Sam had the idea for the app during a walk home and immediately wanted to start coding. But his mentor told him to think it through first: who was it for, what problem did it solve, and what would make someone use it again. Sam sat with those questions for a week. When he came back with answers, his plan was far more focused and realistic.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제나 계획을 처음부터 끝까지 충분히 따져보며 생각하다.",
+    "realUsageKo": "계획이나 문제를 단계별로 꼼꼼하게 분석하고 검토할 때 씁니다.",
+    "etymologyKo": "think(생각하다)와 through(처음부터 끝까지 통과하여)가 결합하여 어떤 문제를 처음부터 끝까지 완전히 생각한다는 의미가 되었습니다.",
+    "nuanceKo": "think over보다 더 체계적이고 완전한 분석의 뉘앙스가 있습니다. 계획이나 전략을 세울 때 자주 씁니다.",
+    "shortExampleEn": "Have you thought through what happens if the plan does not work?",
+    "shortExampleKo": "계획이 잘 안 될 경우에 대해서도 충분히 생각해봤어요?"
+  }
+}

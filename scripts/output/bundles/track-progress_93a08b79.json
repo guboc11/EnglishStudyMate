@@ -1,0 +1,30 @@
+{
+  "id": "track-progress_93a08b79",
+  "expression": "track progress",
+  "selectionMeta": {
+    "selectedPhrase": "track progress",
+    "selectedSenseLabelKo": "진행 상황을 추적하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We use a shared dashboard to track progress across all active projects."
+  },
+  "step2": {
+    "story": "He had started tracking his progress on the training plan in a simple notebook — nothing digital, just a date and a number each day. After four months, he looked back at the early entries and understood for the first time how far he had actually come. The visible evidence changed how he thought about the next four months.",
+    "topicTag": "habit tracking",
+    "moodTag": "quietly motivating"
+  },
+  "step3": {
+    "story": "The school district had begun tracking student progress in literacy using weekly assessments rather than quarterly ones. The shift had been uncomfortable for teachers initially — it felt like surveillance rather than support. What changed their view was seeing the data used differently than they had feared: to identify students who needed additional attention early enough to help, rather than to evaluate teacher performance. Tracking progress, they found, was only as valuable as the actions the tracking made possible.",
+    "topicTag": "education data",
+    "moodTag": "purposefully designed"
+  },
+  "meaning": {
+    "literalMeaningKo": "진행 상황을 추적하다.",
+    "realUsageKo": "어떤 일의 진행 상황을 지속적으로 확인하고 기록할 때 씁니다.",
+    "etymologyKo": "track은 자국이나 경로를 따라가다는 의미로, 시간에 따른 변화를 추적하는 이미지입니다.",
+    "nuanceKo": "monitor progress와 유사하지만 track은 기록을 남긴다는 의미가 더 강합니다.",
+    "shortExampleEn": "Use this app to track your progress toward your goals.",
+    "shortExampleKo": "이 앱으로 목표를 향한 진행 상황을 추적해봐요."
+  }
+}

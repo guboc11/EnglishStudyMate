@@ -1,0 +1,30 @@
+{
+  "id": "make-ends-meet_a9b6fb67",
+  "expression": "make ends meet",
+  "selectionMeta": {
+    "selectedPhrase": "make ends meet",
+    "selectedSenseLabelKo": "겨우 생활비를 충당하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With rent increasing every year, many young professionals struggle to make ends meet in the city."
+  },
+  "step2": {
+    "story": "She worked two part-time jobs and sold handmade candles on weekends, but she was still just barely making ends meet. It was exhausting, but she refused to move back to her hometown.",
+    "topicTag": "financial struggle",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After the factory closure, the Torres family sat down together and listed every expense against every source of income. The gap was not large, but it was real. They cancelled their streaming subscriptions, started growing vegetables in the backyard, and took on evening cleaning shifts at a local office building. Making ends meet required everyone to contribute, and for a time, the shared effort quietly brought the family closer together than comfortable years had.",
+    "topicTag": "family finances",
+    "moodTag": "quietly resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "양 끝을 이어 붙이다.",
+    "realUsageKo": "수입으로 지출을 간신히 감당하며 살아갈 때 씁니다.",
+    "etymologyKo": "회계 장부에서 수입과 지출의 양 끝을 일치시키는 데서 유래했습니다.",
+    "nuanceKo": "경제적 어려움을 담담하게 표현하는 데 쓰이며, 자기 연민보다는 현실 직시의 뉘앙스입니다.",
+    "shortExampleEn": "She works two jobs just to make ends meet.",
+    "shortExampleKo": "그녀는 생활비를 충당하려고 직업을 두 개나 갖고 있어요."
+  }
+}

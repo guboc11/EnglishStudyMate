@@ -1,0 +1,30 @@
+{
+  "id": "provide-support_f826aa40",
+  "expression": "provide support",
+  "selectionMeta": {
+    "selectedPhrase": "provide support",
+    "selectedSenseLabelKo": "지원을 제공하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The organization was founded to provide support for first-generation college students."
+  },
+  "step2": {
+    "story": "He had asked for help twice and been turned down both times, not unkindly but vaguely. When the team lead finally asked what support would actually look like for him specifically, the answer was simple and immediately actionable. Providing support that helped, she reflected, started with asking the right question.",
+    "topicTag": "workplace support",
+    "moodTag": "specifically helpful"
+  },
+  "step3": {
+    "story": "The crisis line provided support to callers at all hours. Volunteers were trained not to solve problems but to be present — to listen without judgment, to acknowledge without minimizing, and to stay on the line as long as the caller needed. The training made clear that most callers did not need answers. They needed to feel less alone. Providing that kind of support was harder to measure than a task completed, but the follow-up data consistently showed it made a difference.",
+    "topicTag": "mental health support",
+    "moodTag": "quietly impactful"
+  },
+  "meaning": {
+    "literalMeaningKo": "지원을 제공하다.",
+    "realUsageKo": "누군가에게 필요한 도움, 자원, 또는 격려를 줄 때 씁니다.",
+    "etymologyKo": "provide는 라틴어 providere(미리 보살피다)에서 왔습니다. offer support보다 더 체계적인 뉘앙스입니다.",
+    "nuanceKo": "공식적·조직적 맥락에서 자주 씁니다. 개인적 상황에서는 offer support가 더 자연스럽습니다.",
+    "shortExampleEn": "The program provides support to families during the transition.",
+    "shortExampleKo": "이 프로그램은 전환기 동안 가족들에게 지원을 제공해요."
+  }
+}

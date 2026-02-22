@@ -1,0 +1,30 @@
+{
+  "id": "hang-out_a0541cf5",
+  "expression": "hang out",
+  "selectionMeta": {
+    "selectedPhrase": "hang out",
+    "selectedSenseLabelKo": "어울리다, 시간을 보내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They used to hang out at the same cafe every Friday after school."
+  },
+  "step2": {
+    "story": "Since moving to the new neighborhood, she had not made many friends yet. One weekend, her next-door neighbor knocked and asked if she wanted to hang out at the community barbecue. She said yes and ended up staying for four hours.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Ben and his old school friends got together for the first time in five years, they were not sure how it would feel. Everyone had changed in different ways. But within an hour of hanging out, the conversation felt exactly like it always had. They laughed at old memories, talked about new ones, and agreed without saying so that nothing had really changed between them.",
+    "topicTag": "weekend hobby",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "친구나 아는 사람과 특별한 목적 없이 느긋하게 시간을 보내다.",
+    "realUsageKo": "편하게 함께 시간을 보낼 때 씁니다. 주로 친구들 사이에서 가장 자연스럽게 씁니다.",
+    "etymologyKo": "hang(매달리다, 머물다)과 out(밖에서)이 결합하여 밖에서 어울린다는 의미가 되었습니다.",
+    "nuanceKo": "계획 없이 편하게 어울리는 뉘앙스가 강합니다. 형식적인 만남보다는 캐주얼한 만남에 씁니다.",
+    "shortExampleEn": "Do you want to hang out this weekend and try that new cafe?",
+    "shortExampleKo": "이번 주말에 만나서 새로 생긴 카페 가볼래요?"
+  }
+}

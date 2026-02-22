@@ -1,0 +1,30 @@
+{
+  "id": "pay-attention_a9065beb",
+  "expression": "pay attention",
+  "selectionMeta": {
+    "selectedPhrase": "pay attention",
+    "selectedSenseLabelKo": "주의를 기울이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you pay attention to the small details, the big picture usually takes care of itself."
+  },
+  "step2": {
+    "story": "The coach had one rule above all others: pay attention to the player with the ball and the player who wants it. Everything else, he said, was commentary.",
+    "topicTag": "coaching wisdom",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "The scientist had been studying the migration patterns of a particular bird species for eleven years. Her colleagues admired her patience. What she privately understood was that most of her best insights had come not from analysis but from paying attention to anomalies — the birds that did not behave as expected, the seasons that broke the pattern. Data confirmed trends. Attention found exceptions. The exceptions, she had found, were usually where the real information lived.",
+    "topicTag": "scientific observation",
+    "moodTag": "quietly attentive"
+  },
+  "meaning": {
+    "literalMeaningKo": "주의를 지불하다.",
+    "realUsageKo": "어떤 것에 의식적으로 집중하거나 주목할 때 씁니다.",
+    "etymologyKo": "pay는 여기서 give와 유사한 의미로, 주의라는 자원을 지불하듯 쏟아붓는 이미지입니다.",
+    "nuanceKo": "give attention과 유사하지만 pay attention이 더 일상적이고 자주 씁니다.",
+    "shortExampleEn": "Pay attention to how people react, not just what they say.",
+    "shortExampleKo": "사람들이 말하는 것뿐만 아니라 반응하는 방식에도 주의를 기울여요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "come-to-a-conclusion_d3091e06",
+  "expression": "come to a conclusion",
+  "selectionMeta": {
+    "selectedPhrase": "come to a conclusion",
+    "selectedSenseLabelKo": "결론에 이르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After reviewing all the evidence, the committee came to a clear conclusion."
+  },
+  "step2": {
+    "story": "They had been debating the proposal for ninety minutes without coming to a conclusion. The facilitator suggested a pause, asked each person to write their position in one sentence, and then read them aloud. The written clarity revealed more agreement than the conversation had suggested.",
+    "topicTag": "group decision making",
+    "moodTag": "productively redirected"
+  },
+  "step3": {
+    "story": "The philosophical question the seminar had been wrestling with for three weeks was whether it was possible to come to a conclusion about something inherently uncertain. One student argued that reaching a conclusion in the face of uncertainty was not intellectually dishonest but practically necessary — that action required commitment to a position, even a provisional one. Another argued that the discomfort of unresolved questions was more honest than the false certainty of premature conclusions. The professor did not arbitrate. She let the tension remain, which was, she later noted in her teaching journal, the most productive thing a seminar could do.",
+    "topicTag": "philosophical discussion",
+    "moodTag": "productively uncertain"
+  },
+  "meaning": {
+    "literalMeaningKo": "결론에 이르다.",
+    "realUsageKo": "생각하거나 논의한 끝에 최종적인 판단에 도달할 때 씁니다.",
+    "etymologyKo": "conclude는 라틴어 concludere(완전히 닫다)에서 왔습니다. come to는 도달 과정을 강조합니다.",
+    "nuanceKo": "reach a conclusion, draw a conclusion과 유사하지만 come to는 점진적 도달의 뉘앙스입니다.",
+    "shortExampleEn": "After much deliberation, we came to the same conclusion.",
+    "shortExampleKo": "오랜 숙고 끝에 우리는 같은 결론에 이르렀어요."
+  }
+}

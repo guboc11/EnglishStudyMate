@@ -1,0 +1,30 @@
+{
+  "id": "add-insult-to-injury_64a40f93",
+  "expression": "add insult to injury",
+  "selectionMeta": {
+    "selectedPhrase": "add insult to injury",
+    "selectedSenseLabelKo": "설상가상으로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She missed her train, and to add insult to injury, it started pouring rain when she stepped outside."
+  },
+  "step2": {
+    "story": "The event was cancelled after months of planning. To add insult to injury, the venue refused to refund the deposit, citing a clause buried deep in the contract that nobody had noticed.",
+    "topicTag": "compounding bad luck",
+    "moodTag": "exasperated"
+  },
+  "step3": {
+    "story": "The software update had corrupted files on several thousand user accounts — already a serious crisis. The communications team drafted a careful apology email and sent it immediately. Then someone noticed that the apology email had been sent from a no-reply address and contained a broken unsubscribe link, making it technically a spam violation. To add insult to injury, the story about the broken apology email attracted more press attention than the original incident. The company spent the following week managing two disasters instead of one, and rebuilt its communication protocol from scratch afterward.",
+    "topicTag": "compounding crisis",
+    "moodTag": "grimly ironic"
+  },
+  "meaning": {
+    "literalMeaningKo": "상처에 모욕을 더하다.",
+    "realUsageKo": "이미 나쁜 상황에 더 나쁜 일이 겹칠 때 씁니다.",
+    "etymologyKo": "라틴어 속담에서 유래했으며, 상처를 입은 사람에게 모욕까지 주는 최악의 상황을 표현합니다.",
+    "nuanceKo": "불행이 겹치는 상황에서 분노, 놀라움, 또는 쓴웃음을 담아 씁니다.",
+    "shortExampleEn": "They raised the price — and to add insult to injury, reduced the portion size.",
+    "shortExampleKo": "가격도 올리고 — 설상가상으로 양까지 줄였어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cause-problems_e101a84b",
+  "expression": "cause problems",
+  "selectionMeta": {
+    "selectedPhrase": "cause problems",
+    "selectedSenseLabelKo": "문제를 일으키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Poor communication between departments consistently causes problems down the line."
+  },
+  "step2": {
+    "story": "The new software update had caused problems that nobody had anticipated during testing. The edge cases that broke the system were exactly the ones the QA team had not thought to check, which was itself a useful lesson about the limits of imagination in quality assurance.",
+    "topicTag": "software failure",
+    "moodTag": "instructive"
+  },
+  "step3": {
+    "story": "The well-meaning policy had been designed to increase fairness in access to resources. In practice, it caused problems for exactly the group it had intended to help, because it had been designed without consulting them. The committee that had built it had relied on survey data and expert input. What it had not gathered was a direct account of how the existing system was actually being navigated by the people inside it. The redesign process started with listening sessions rather than policy drafts. The revised version caused far fewer problems and was adopted with significantly less resistance.",
+    "topicTag": "policy design",
+    "moodTag": "sobering and corrective"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제를 야기하다.",
+    "realUsageKo": "어떤 행동이나 상황이 문제나 어려움을 발생시킬 때 씁니다.",
+    "etymologyKo": "cause는 원인이 되다는 의미이며, problems와 결합해 부정적 결과를 만들어내는 상황을 표현합니다.",
+    "nuanceKo": "create problems와 유사하지만 cause는 의도치 않은 결과에 더 자주 씁니다.",
+    "shortExampleEn": "This misunderstanding could cause serious problems later.",
+    "shortExampleKo": "이 오해가 나중에 심각한 문제를 일으킬 수 있어요."
+  }
+}

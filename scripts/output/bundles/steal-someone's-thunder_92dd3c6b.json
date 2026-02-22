@@ -1,0 +1,30 @@
+{
+  "id": "steal-someone's-thunder_92dd3c6b",
+  "expression": "steal someone's thunder",
+  "selectionMeta": {
+    "selectedPhrase": "steal someone's thunder",
+    "selectedSenseLabelKo": "공을 가로채다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She announced her promotion at her sister's engagement party and completely stole her thunder."
+  },
+  "step2": {
+    "story": "The product manager had spent weeks preparing the demo for the board presentation. Just before she could present, a board member mentioned they had already seen a competitor version at a conference. Her thunder was stolen before she even clicked to the first slide.",
+    "topicTag": "upstaged moment",
+    "moodTag": "deflated"
+  },
+  "step3": {
+    "story": "The new employee had been at the company for six weeks when he proposed a workflow change at the team meeting — a change that the department lead had been planning to introduce in her quarterly review presentation two weeks later. She did not react visibly. She said the suggestion was interesting and she would look into it. What she did not say was that seeing a new hire arrive at the same solution independently validated the idea in a way she had not expected. She featured the suggestion in her presentation anyway, named him by name, and let the credit land where it belonged. Stealing thunder, she had learned, was less effective than sharing the stage.",
+    "topicTag": "workplace credit",
+    "moodTag": "graceful under pressure"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 천둥을 훔치다.",
+    "realUsageKo": "다른 사람의 성과나 관심을 가로채거나 그 사람이 받아야 할 주목을 빼앗을 때 씁니다.",
+    "etymologyKo": "18세기 극작가 존 데니스가 자신이 발명한 천둥 효과 장치를 자신의 허락 없이 다른 연극에서 사용한 것에 분개한 데서 유래했습니다.",
+    "nuanceKo": "의도적이든 비의도적이든 누군가의 순간을 빼앗는 상황에 씁니다.",
+    "shortExampleEn": "His early announcement stole the CEO's thunder.",
+    "shortExampleKo": "그의 조기 발표가 CEO의 스포트라이트를 빼앗았어요."
+  }
+}

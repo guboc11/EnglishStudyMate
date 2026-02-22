@@ -1,0 +1,30 @@
+{
+  "id": "on-the-same-page_839dee3f",
+  "expression": "on the same page",
+  "selectionMeta": {
+    "selectedPhrase": "on the same page",
+    "selectedSenseLabelKo": "같은 생각이다, 동의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before we move forward, I want to make sure we are all on the same page about the project scope."
+  },
+  "step2": {
+    "story": "The two teams had been working in parallel for a month before anyone realized they had fundamentally different assumptions about the target user. Getting on the same page required a full-day workshop and a shared document that everyone actually read.",
+    "topicTag": "team alignment",
+    "moodTag": "realigning"
+  },
+  "step3": {
+    "story": "The merger integration had involved dozens of meetings, hundreds of emails, and two all-hands events. Yet when the combined company launched its first joint product, three departments had made incompatible decisions based on assumptions none of them had explicitly shared with the others. The launch had to be delayed by six weeks. The CEO used the delay not to assign blame but to design a standing alignment process — brief, written, and shared before decisions were finalized. Getting on the same page, she said, was not a meeting you held once. It was a practice you maintained.",
+    "topicTag": "organizational alignment",
+    "moodTag": "sobering and structural"
+  },
+  "meaning": {
+    "literalMeaningKo": "같은 페이지에 있다.",
+    "realUsageKo": "모두가 같은 이해, 계획, 또는 목표를 공유하고 있을 때 씁니다.",
+    "etymologyKo": "같은 책의 같은 페이지를 읽고 있어야 같은 내용을 이해할 수 있다는 이미지에서 나왔습니다.",
+    "nuanceKo": "업무 환경에서 매우 자주 쓰이는 표현으로, 불일치를 예방하고 확인하는 맥락에서 씁니다.",
+    "shortExampleEn": "Let us get on the same page before the meeting starts.",
+    "shortExampleKo": "회의 시작 전에 우리 모두 같은 이해를 공유해요."
+  }
+}

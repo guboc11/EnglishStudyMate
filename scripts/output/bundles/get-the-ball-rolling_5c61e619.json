@@ -1,0 +1,30 @@
+{
+  "id": "get-the-ball-rolling_5c61e619",
+  "expression": "get the ball rolling",
+  "selectionMeta": {
+    "selectedPhrase": "get the ball rolling",
+    "selectedSenseLabelKo": "시작하다, 일을 추진하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me get the ball rolling by sharing the agenda for today's session."
+  },
+  "step2": {
+    "story": "The committee had been talking about launching the community garden initiative for almost two years. Then one member quietly rented a small plot and planted the first seeds herself, just to get the ball rolling.",
+    "topicTag": "initiative taking",
+    "moodTag": "energizing"
+  },
+  "step3": {
+    "story": "The nonprofit had a strong mission but a history of planning fatigue — beautiful strategic documents that sat unchanged in shared drives while nothing moved forward. When the new executive director joined, she did not start with a new plan. She identified three small actions that could be completed within a week, assigned them to individuals with clear deadlines, and got the ball rolling in the most literal sense. By the end of the month, there were visible results. By the quarter's end, momentum had built in a way the organization had not felt in years. She said later that starting was always the hardest part.",
+    "topicTag": "organizational momentum",
+    "moodTag": "activating"
+  },
+  "meaning": {
+    "literalMeaningKo": "공을 굴리기 시작하다.",
+    "realUsageKo": "프로젝트나 토론 등을 시작하거나 추진력을 만들어낼 때 씁니다.",
+    "etymologyKo": "멈춰 있는 공을 굴리면 속도가 붙는 물리적 원리에서 비롯되었습니다.",
+    "nuanceKo": "첫 행동의 중요성을 강조하며, 팀이나 회의를 시작할 때 자주 씁니다.",
+    "shortExampleEn": "Who wants to get the ball rolling on the proposal?",
+    "shortExampleKo": "제안서 작업을 시작해볼 사람 있나요?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hit-the-sack_04421c68",
+  "expression": "hit the sack",
+  "selectionMeta": {
+    "selectedPhrase": "hit the sack",
+    "selectedSenseLabelKo": "잠자리에 들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It's already midnight — I'm going to hit the sack."
+  },
+  "step2": {
+    "story": "After the long family dinner and two rounds of board games, Grandpa announced he was hitting the sack. He said goodnight to each grandchild by name before shuffling down the hall.",
+    "topicTag": "family evening",
+    "moodTag": "warm and sleepy"
+  },
+  "step3": {
+    "story": "The camping trip had been more exhausting than anyone anticipated. They had hiked ten miles, set up tents in the rain, and spent the evening trading ghost stories by the fire. By nine-thirty, even the most energetic member of the group was yawning. One by one, people announced they were hitting the sack until only the fire remained crackling in the dark, and the stars had the campground all to themselves.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "peacefully tired"
+  },
+  "meaning": {
+    "literalMeaningKo": "자루를 치다.",
+    "realUsageKo": "잠자리에 들거나 잘 준비를 할 때 쓰는 구어 표현입니다.",
+    "etymologyKo": "과거 사람들이 짚이나 옷가지를 채운 자루(sack)를 매트리스 대신 사용했던 데서 유래했습니다.",
+    "nuanceKo": "친근한 구어체 표현으로, 격식 없는 상황에서 잠자러 간다고 말할 때 씁니다.",
+    "shortExampleEn": "I need to hit the sack early — big day tomorrow.",
+    "shortExampleKo": "일찍 자야 해요 — 내일 중요한 날이거든요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kill-two-birds-with-one-stone_5da034eb",
+  "expression": "kill two birds with one stone",
+  "selectionMeta": {
+    "selectedPhrase": "kill two birds with one stone",
+    "selectedSenseLabelKo": "일석이조",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I combined my gym visit with a podcast catch-up session to kill two birds with one stone."
+  },
+  "step2": {
+    "story": "She needed to return books to the library and pick up groceries in the same part of town. Killing two birds with one stone, she parked in the middle and walked to both places in twenty minutes.",
+    "topicTag": "efficient errand",
+    "moodTag": "practical"
+  },
+  "step3": {
+    "story": "The marketing manager realized that their annual client dinner and their team-building retreat had always been scheduled a week apart. This year she proposed combining them into a two-day offsite event with clients. The client relationships deepened because people actually got to spend real time together, and the team bonded more naturally than any forced activity had ever managed. It was a textbook case of killing two birds with one stone, and the format became a company tradition.",
+    "topicTag": "smart planning",
+    "moodTag": "satisfying"
+  },
+  "meaning": {
+    "literalMeaningKo": "돌 하나로 새 두 마리를 잡다.",
+    "realUsageKo": "한 번의 행동으로 두 가지 목적을 동시에 달성할 때 씁니다.",
+    "etymologyKo": "17세기 영어에서 처음 사용된 표현으로, 효율적인 사냥을 비유로 씁니다.",
+    "nuanceKo": "효율성을 강조하는 긍정적 표현이며, 일상과 업무 모두에서 자유롭게 씁니다.",
+    "shortExampleEn": "Walking to work kills two birds with one stone — exercise and commute.",
+    "shortExampleKo": "걸어서 출근하면 운동과 통근을 한꺼번에 해결할 수 있어요."
+  }
+}

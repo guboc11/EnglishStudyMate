@@ -1,0 +1,30 @@
+{
+  "id": "place-an-order_37134f0e",
+  "expression": "place an order",
+  "selectionMeta": {
+    "selectedPhrase": "place an order",
+    "selectedSenseLabelKo": "주문하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You can place an order online and pick it up in store the same day."
+  },
+  "step2": {
+    "story": "The bakery required customers to place orders at least forty-eight hours in advance for custom cakes. The policy had reduced stress for the kitchen, improved quality, and, unexpectedly, made the cakes feel more special to customers who had planned ahead for them.",
+    "topicTag": "small business",
+    "moodTag": "thoughtfully structured"
+  },
+  "step3": {
+    "story": "The supply chain consultant had been called in after a production stoppage revealed that the company had been placing orders reactively rather than predictively. Suppliers were given unpredictable demand signals, which led to either overstocking or shortages depending on the week. The fix was less a technology solution than a discipline change: planning procurement cycles further in advance, sharing demand forecasts with key suppliers, and treating ordering as a coordination activity rather than a transaction. The stoppage had been expensive. The lesson it forced was worth more.",
+    "topicTag": "supply chain",
+    "moodTag": "corrective and systematic"
+  },
+  "meaning": {
+    "literalMeaningKo": "주문을 놓다.",
+    "realUsageKo": "제품이나 서비스를 공식적으로 요청하거나 구매 요청을 넣을 때 씁니다.",
+    "etymologyKo": "place는 특정 위치에 놓다는 의미로, 주문을 시스템에 접수시키는 이미지입니다.",
+    "nuanceKo": "make an order는 어색한 표현입니다. place an order가 정확한 표현입니다.",
+    "shortExampleEn": "Please place your order before midnight to get next-day delivery.",
+    "shortExampleKo": "다음 날 배송을 받으려면 자정 전에 주문하세요."
+  }
+}

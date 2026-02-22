@@ -1,0 +1,30 @@
+{
+  "id": "the-ball-is-in-your-court_db815db6",
+  "expression": "the ball is in your court",
+  "selectionMeta": {
+    "selectedPhrase": "the ball is in your court",
+    "selectedSenseLabelKo": "이제 당신이 결정할 차례다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I have made my offer — the ball is in your court now."
+  },
+  "step2": {
+    "story": "After months of negotiating the partnership terms, the legal team sent their final revised contract to the other company. There was nothing more to do on their side. The ball was firmly in the other company's court.",
+    "topicTag": "negotiation",
+    "moodTag": "patient"
+  },
+  "step3": {
+    "story": "Hana had spent three weeks working up the courage to tell her friend how much the falling-out had hurt her. When she finally did, she wrote a long, honest message and hit send before she could second-guess herself. The response did not come that day, or the day after. She reminded herself that she had done what she could — the ball was in the other person's court now. Whether the friendship repaired was no longer something she could control, and that realization, while uncomfortable, was also oddly freeing.",
+    "topicTag": "personal conflict",
+    "moodTag": "vulnerable but at peace"
+  },
+  "meaning": {
+    "literalMeaningKo": "공이 당신의 코트에 있다.",
+    "realUsageKo": "자신이 할 수 있는 것은 다 했으니 이제 상대방이 결정하거나 행동해야 할 차례라는 의미입니다.",
+    "etymologyKo": "테니스에서 공이 상대편 코트에 있으면 그쪽이 쳐야 하는 상황에서 유래했습니다.",
+    "nuanceKo": "상황의 주도권이 상대에게 넘어갔음을 명확히 하는 표현입니다.",
+    "shortExampleEn": "I submitted my application — the ball is in their court.",
+    "shortExampleKo": "지원서를 제출했어요 — 이제 그쪽이 결정할 차례예요."
+  }
+}

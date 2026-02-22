@@ -1,0 +1,30 @@
+{
+  "id": "lose-track-of-time_6a2480ba",
+  "expression": "lose track of time",
+  "selectionMeta": {
+    "selectedPhrase": "lose track of time",
+    "selectedSenseLabelKo": "시간 가는 줄 모르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I completely lost track of time reading that novel and didn't realize it was past midnight."
+  },
+  "step2": {
+    "story": "The two old friends had planned a quick coffee. Three hours later, they were still talking, the cups long empty. They had lost track of time in the way that only happens with people you genuinely love being around.",
+    "topicTag": "meaningful connection",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "The game designer had been in the zone for six hours. She had told herself she would stop at noon, eat something, and go for a walk. At two-thirty she looked up from the screen and realized she had completely lost track of time again. She stretched, went to the kitchen, and found herself immediately thinking about the design problem she had just been solving. The work had its own pull when it was going well — not compulsion, she told herself, but absorption. She ate standing at the counter and went back to the desk within ten minutes. The walk happened the next morning instead.",
+    "topicTag": "creative flow",
+    "moodTag": "absorbed and content"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간의 흐름을 놓치다.",
+    "realUsageKo": "무언가에 몰두하여 시간이 얼마나 지났는지 의식하지 못할 때 씁니다.",
+    "etymologyKo": "추적(track)을 잃는다는 이미지에서 나왔으며, 시간의 흐름을 인식하지 못하는 상태를 표현합니다.",
+    "nuanceKo": "즐겁거나 몰입도 높은 활동 중에 자주 일어나며, 긍정적인 뉘앙스가 강합니다.",
+    "shortExampleEn": "I lose track of time whenever I start painting.",
+    "shortExampleKo": "그림 그리기 시작하면 시간 가는 줄을 몰라요."
+  }
+}

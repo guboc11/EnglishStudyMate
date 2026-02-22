@@ -1,0 +1,30 @@
+{
+  "id": "count-on_09223135",
+  "expression": "count on",
+  "selectionMeta": {
+    "selectedPhrase": "count on",
+    "selectedSenseLabelKo": "의지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You can always count on her to be honest, even when the truth is hard to hear."
+  },
+  "step2": {
+    "story": "Before the final match, the coach told the team that she was counting on every single player to give their best. The players looked at each other and nodded.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "After his father passed away, Min took over the small family repair shop. It was overwhelming at first. But the longtime customers kept coming, and many of them told him they had counted on his father for years. They said they hoped to count on him the same way. He wrote that phrase down and taped it to the wall behind the counter.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가나 무언가를 믿고 의지하다.",
+    "realUsageKo": "신뢰할 수 있다고 믿고 의존할 때 씁니다. rely on과 같은 뜻입니다.",
+    "etymologyKo": "count(계산하다, 포함시키다)와 on(~에 기반하여)이 결합하여 그 사람을 계획 안에 포함시켜 의존한다는 의미가 되었습니다.",
+    "nuanceKo": "신뢰와 의존 모두를 포함하며, 상대방에 대한 높은 믿음을 나타냅니다.",
+    "shortExampleEn": "I am counting on you to be there on time tomorrow.",
+    "shortExampleKo": "내일 제 시간에 와줄 거라고 믿고 있어요."
+  }
+}

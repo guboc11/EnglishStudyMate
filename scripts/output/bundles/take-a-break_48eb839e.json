@@ -1,0 +1,30 @@
+{
+  "id": "take-a-break_48eb839e",
+  "expression": "take a break",
+  "selectionMeta": {
+    "selectedPhrase": "take a break",
+    "selectedSenseLabelKo": "휴식을 취하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three hours of studying, she took a break to walk around the block."
+  },
+  "step2": {
+    "story": "The surgeon took a break between long procedures. Not because the hospital required it, but because she had learned that the errors that happened in surgery rarely came from lack of skill — they came from degraded attention. Rest was not a luxury; it was part of the technique.",
+    "topicTag": "professional wellbeing",
+    "moodTag": "disciplined"
+  },
+  "step3": {
+    "story": "He had been the primary caregiver for his father for two years. Friends and family had repeatedly told him to take a break. He had nodded and continued. Then one afternoon, after a minor misunderstanding with his father had escalated into something sharper than it needed to be, he sat in the car in the driveway for forty minutes and finally understood what the breaks were for — not for him to recover, but for both of them to continue. He called a respite care service the next morning.",
+    "topicTag": "caregiving",
+    "moodTag": "hard-won realization"
+  },
+  "meaning": {
+    "literalMeaningKo": "휴식을 취하다.",
+    "realUsageKo": "하던 일을 잠시 멈추고 쉴 때 씁니다.",
+    "etymologyKo": "break는 연속적인 활동에서의 단절을 의미합니다. take와 결합해 의도적인 휴식 선택을 표현합니다.",
+    "nuanceKo": "have a break(영국 영어)와 take a break(미국 영어) 모두 쓰입니다.",
+    "shortExampleEn": "Let us take a break and come back to this in ten minutes.",
+    "shortExampleKo": "잠깐 쉬고 10분 후에 다시 시작해요."
+  }
+}

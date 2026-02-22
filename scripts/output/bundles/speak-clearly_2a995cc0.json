@@ -1,0 +1,30 @@
+{
+  "id": "speak-clearly_2a995cc0",
+  "expression": "speak clearly",
+  "selectionMeta": {
+    "selectedPhrase": "speak clearly",
+    "selectedSenseLabelKo": "명확하게 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spoke clearly and without jargon, making the technical content accessible to everyone."
+  },
+  "step2": {
+    "story": "The brief was to speak clearly to a non-specialist audience about a complex topic. He had prepared for days. The draft ran to forty slides. The night before, he cut it to twelve. The talk was the best he had ever given, not despite the cuts but because of them.",
+    "topicTag": "public communication",
+    "moodTag": "usefully simplified"
+  },
+  "step3": {
+    "story": "The management training had covered many communication skills, but the facilitator always returned to one: speak clearly about what you expect, and speak clearly about why. Managers who left expectations implicit — who assumed people would infer what was needed — consistently reported more frustration with performance than those who named expectations explicitly from the start. Speaking clearly, she emphasized, was not a soft skill. It was the primary mechanism by which intentions became outcomes in organizational life.",
+    "topicTag": "management",
+    "moodTag": "practically essential"
+  },
+  "meaning": {
+    "literalMeaningKo": "명확하게 말하다.",
+    "realUsageKo": "발음도 알아듣기 쉽게, 내용도 이해하기 쉽게 말할 때 씁니다.",
+    "etymologyKo": "clearly는 clear(모호함 없이 투명한)에서 나온 부사로, 음성적 명료성과 내용적 명료성 모두를 포함합니다.",
+    "nuanceKo": "발음(pronunciation)과 표현(expression) 두 측면 모두에 적용됩니다.",
+    "shortExampleEn": "Please speak clearly so everyone in the room can hear you.",
+    "shortExampleKo": "방 안의 모두가 들을 수 있도록 명확하게 말해줘요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "piece-of-cake_8788ddc2",
+  "expression": "piece of cake",
+  "selectionMeta": {
+    "selectedPhrase": "piece of cake",
+    "selectedSenseLabelKo": "매우 쉬운 일",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Once you learn the shortcut keys, editing the spreadsheet is a piece of cake."
+  },
+  "step2": {
+    "story": "Maya had been nervous about the driving test for weeks. When it was over and she had passed, she laughed and said it was a piece of cake — mostly to reassure her younger sister who was next in line.",
+    "topicTag": "skill test",
+    "moodTag": "relieved and light"
+  },
+  "step3": {
+    "story": "Owen had never baked anything more complex than boxed brownies. When his flatmate dared him to make a layered birthday cake from scratch, he almost said no. But after watching a few tutorial videos, he realized the steps were simpler than they looked. By Saturday evening, a lopsided but genuinely delicious chocolate layer cake sat on the kitchen counter. It was, he admitted to himself, not exactly a piece of cake — but close enough that he was already planning to bake again.",
+    "topicTag": "learning a skill",
+    "moodTag": "playfully confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "케이크 한 조각.",
+    "realUsageKo": "어떤 일이 매우 쉽거나 별 노력 없이 해낼 수 있을 때 씁니다.",
+    "etymologyKo": "1930년대 미국에서 쉽고 즐거운 것을 비유하는 표현으로 정착했습니다.",
+    "nuanceKo": "자신감이나 약간의 자랑 뉘앙스가 담길 수 있으며, 다른 사람을 안심시킬 때도 씁니다.",
+    "shortExampleEn": "Installing the app is a piece of cake.",
+    "shortExampleKo": "앱 설치는 식은 죽 먹기예요."
+  }
+}

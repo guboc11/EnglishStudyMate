@@ -1,0 +1,30 @@
+{
+  "id": "come-out_c9286e88",
+  "expression": "come out",
+  "selectionMeta": {
+    "selectedPhrase": "come out",
+    "selectedSenseLabelKo": "나오다, 밝혀지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The truth about the missing money finally came out during the investigation."
+  },
+  "step2": {
+    "story": "Everyone was waiting to see how the group photo would come out after the wedding. When they finally saw it, they burst out laughing because someone had blinked at exactly the wrong moment.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "The small town had been talking for weeks about what really happened the night the old factory closed. Rumors spread in every direction. Then one afternoon, a former worker gave a long interview to the local newspaper and everything came out. By evening, everyone in town knew the full story and the talk finally settled down.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "숨겨진 사실이 드러나다; 무언가가 공개되거나 출시되다.",
+    "realUsageKo": "비밀이나 진실이 밝혀지거나, 책이나 음악이 공개될 때 씁니다.",
+    "etymologyKo": "come(오다)과 out(밖으로)이 결합하여 숨어 있던 것이 밖으로 나온다는 의미가 되었습니다.",
+    "nuanceKo": "결과물이 나오다, 사실이 드러나다 등 다양한 상황에서 씁니다. 문맥이 의미를 결정합니다.",
+    "shortExampleEn": "The documentary finally came out after years of production.",
+    "shortExampleKo": "다큐멘터리가 수년간의 제작 끝에 마침내 나왔어요."
+  }
+}

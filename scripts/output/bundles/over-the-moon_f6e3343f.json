@@ -1,0 +1,30 @@
+{
+  "id": "over-the-moon_f6e3343f",
+  "expression": "over the moon",
+  "selectionMeta": {
+    "selectedPhrase": "over the moon",
+    "selectedSenseLabelKo": "매우 기쁜",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When she found out she got the scholarship, she was absolutely over the moon."
+  },
+  "step2": {
+    "story": "He had applied to the competitive residency program four times over six years. When the acceptance letter finally arrived, his hands shook as he read it. He called his parents before he had even put the letter down. He was over the moon.",
+    "topicTag": "long-awaited success",
+    "moodTag": "elated"
+  },
+  "step3": {
+    "story": "The small community theater had submitted their original production to a regional competition without much expectation — they were a group of volunteers with no budget and a borrowed rehearsal space. When the results were announced and they had won Best Original Script, the director had to ask the announcer to repeat it. The cast had been over the moon for days afterward, not because of the trophy, which was modest, but because something they had made together from nothing had been recognized as worth making.",
+    "topicTag": "unexpected recognition",
+    "moodTag": "joyfully overwhelmed"
+  },
+  "meaning": {
+    "literalMeaningKo": "달 너머에 있다.",
+    "realUsageKo": "매우 행복하거나 기뻐서 어쩔 줄 모를 때 씁니다.",
+    "etymologyKo": "너무 기뻐서 달까지 날아갈 것 같다는 과장된 이미지에서 나왔습니다.",
+    "nuanceKo": "진심 어린 강한 기쁨을 표현하며, 격식 없는 상황에서 자주 씁니다.",
+    "shortExampleEn": "The kids were over the moon when they heard about the trip.",
+    "shortExampleKo": "아이들은 여행 소식을 듣고 너무나 기뻐했어요."
+  }
+}

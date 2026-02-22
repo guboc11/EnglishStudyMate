@@ -1,0 +1,30 @@
+{
+  "id": "let-the-dust-settle_27f64407",
+  "expression": "let the dust settle",
+  "selectionMeta": {
+    "selectedPhrase": "let the dust settle",
+    "selectedSenseLabelKo": "상황이 진정되기를 기다리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the merger announcement, management decided to let the dust settle before making any structural changes."
+  },
+  "step2": {
+    "story": "The news hit the community hard. The principal recommended that teachers let the dust settle before holding formal discussions in class, and instead just be present and available for students who needed to process the news at their own pace.",
+    "topicTag": "emotional space",
+    "moodTag": "gently patient"
+  },
+  "step3": {
+    "story": "The negotiation had ended without a clear agreement, and both sides had left the room frustrated. Several team members wanted to send a follow-up communication immediately to clarify their position. The senior negotiator suggested letting the dust settle for at least 48 hours. She had seen too many deals unravel in the hours after a tense session, damaged by reactive communications sent before anyone had stepped back from the emotion of the room. They waited. The other side reached out first, in a softer tone, and the conversation that followed reached a resolution that the session itself had not.",
+    "topicTag": "negotiation patience",
+    "moodTag": "measured and strategic"
+  },
+  "meaning": {
+    "literalMeaningKo": "먼지가 가라앉도록 두다.",
+    "realUsageKo": "혼란스럽거나 격한 상황이 자연스럽게 가라앉을 때까지 기다릴 때 씁니다.",
+    "etymologyKo": "격렬한 활동 후 공중에 떠오른 먼지가 시간이 지나면 가라앉는 자연 현상에서 유래했습니다.",
+    "nuanceKo": "성급한 판단이나 행동을 피하고 상황이 명확해지기를 기다리는 지혜를 표현합니다.",
+    "shortExampleEn": "Let the dust settle before making any big decisions.",
+    "shortExampleKo": "상황이 진정되기를 기다린 후 큰 결정을 해요."
+  }
+}

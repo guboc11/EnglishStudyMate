@@ -1,0 +1,30 @@
+{
+  "id": "put-your-foot-in-your-mouth_7f526b60",
+  "expression": "put your foot in your mouth",
+  "selectionMeta": {
+    "selectedPhrase": "put your foot in your mouth",
+    "selectedSenseLabelKo": "실언하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He put his foot in his mouth by asking when the baby was due — she was not pregnant."
+  },
+  "step2": {
+    "story": "She had meant to compliment the new logo, but the words came out wrong and she ended up criticizing the color instead. She realized immediately that she had put her foot in her mouth and spent the rest of the meeting trying to walk it back gracefully.",
+    "topicTag": "awkward moment",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "At the company farewell dinner for a retiring colleague, the new manager gave a well-intentioned speech. Partway through, trying to be funny, he referenced a past mistake the colleague had made early in his career. The table went quiet. He had put his foot squarely in his mouth — the story was not widely known, the colleague looked stricken, and the other senior leaders shifted in their seats. The manager recovered as best he could, pivoting quickly to genuine praise, but the moment had already landed. He apologized privately afterward, and the colleague, to his credit, shook his hand and said it was forgotten. It was not entirely forgotten, but it was forgiven.",
+    "topicTag": "social blunder",
+    "moodTag": "uncomfortable and humbling"
+  },
+  "meaning": {
+    "literalMeaningKo": "발을 입에 넣다.",
+    "realUsageKo": "부주의하게 잘못된 말을 해서 상황을 어색하게 만들거나 상대를 불쾌하게 했을 때 씁니다.",
+    "etymologyKo": "19세기 영어에서 유래했으며, 발처럼 불필요한 것을 입에 넣는 실수의 이미지입니다.",
+    "nuanceKo": "의도치 않은 실언에 쓰이며, 본인도 말하고 나서 바로 후회하는 상황에 잘 맞습니다.",
+    "shortExampleEn": "I really put my foot in my mouth by mentioning his ex.",
+    "shortExampleKo": "그의 전 여자친구 이야기를 꺼내서 정말 실언했어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "weather-the-storm_69d35564",
+  "expression": "weather the storm",
+  "selectionMeta": {
+    "selectedPhrase": "weather the storm",
+    "selectedSenseLabelKo": "어려움을 헤쳐 나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company weathered the storm of the economic downturn and emerged stronger than before."
+  },
+  "step2": {
+    "story": "The first year of the restaurant was brutal — wrong location, slow build, a kitchen fire in month four. But the couple refused to close, weathered the storm, and eventually found their loyal customer base in year two.",
+    "topicTag": "small business survival",
+    "moodTag": "perseverant"
+  },
+  "step3": {
+    "story": "The hospital had been underfunded and understaffed for a decade before the pandemic arrived. What followed was a period that tested every person inside it — nurses working double shifts, administrators improvising supply chains, doctors making decisions with insufficient information. The hospital weathered the storm not because it had the best resources, but because its people had built over years a culture of doing more with less and trusting each other under pressure. When the crisis eased, the hospital was recognized nationally. The staff were pleased but not surprised. They had always known what they were capable of.",
+    "topicTag": "crisis endurance",
+    "moodTag": "hard-earned pride"
+  },
+  "meaning": {
+    "literalMeaningKo": "폭풍을 견뎌내다.",
+    "realUsageKo": "어렵고 힘든 시기를 포기하지 않고 끝까지 버텨낼 때 씁니다.",
+    "etymologyKo": "항해에서 배가 폭풍을 이겨내고 안전하게 항해하는 이미지에서 유래했습니다.",
+    "nuanceKo": "적극적 투쟁보다는 인내와 버팀의 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "We have weathered tougher storms than this.",
+    "shortExampleKo": "우리는 이것보다 더 힘든 시기도 이겨냈어요."
+  }
+}

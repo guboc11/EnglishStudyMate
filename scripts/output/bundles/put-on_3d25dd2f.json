@@ -1,0 +1,30 @@
+{
+  "id": "put-on_3d25dd2f",
+  "expression": "put on",
+  "selectionMeta": {
+    "selectedPhrase": "put on",
+    "selectedSenseLabelKo": "입다, 더해지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She put on her coat and gloves before stepping out into the cold."
+  },
+  "step2": {
+    "story": "The children asked their dad to put on some music while they did their homework. He chose an old playlist from his college days and they ended up listening together long after the homework was finished.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "The school drama club decided to put on a musical for the first time in its ten-year history. Finding students willing to sing on stage was the hardest part. But the director held extra rehearsals, built confidence slowly, and created a genuine sense of excitement. On the night of the show, the auditorium was packed and the cast performed with unexpected joy.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "옷이나 액세서리 등을 몸에 걸치다; 공연이나 행사를 개최하다.",
+    "realUsageKo": "옷을 입거나 음악을 틀거나 공연을 올릴 때 씁니다. 다양한 맥락에서 씁니다.",
+    "etymologyKo": "put(놓다)과 on(위에, 작동)이 결합하여 몸 위에 놓거나 무언가를 작동시킨다는 의미가 되었습니다.",
+    "nuanceKo": "문맥에 따라 의미가 매우 달라집니다. 옷 입기, 음악 틀기, 공연 개최, 체중 증가 등에 씁니다.",
+    "shortExampleEn": "Could you put on the kettle? I would love some tea.",
+    "shortExampleKo": "주전자 올려줄 수 있어요? 차가 마시고 싶어요."
+  }
+}

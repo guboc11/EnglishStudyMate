@@ -1,0 +1,30 @@
+{
+  "id": "cut-back_16983d38",
+  "expression": "cut back",
+  "selectionMeta": {
+    "selectedPhrase": "cut back",
+    "selectedSenseLabelKo": "줄이다, 삭감하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to cut back on coffee after her doctor warned her about her blood pressure."
+  },
+  "step2": {
+    "story": "The company had a difficult year and announced it would have to cut back on expenses starting next month. Several perks and subscriptions would be removed first.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "When Jake and his partner added up their monthly spending, they were shocked at how much was going to eating out. They decided to cut back and cook at home at least five nights a week. It was harder than they expected at first, especially on tired weeknights. But after a month, they had saved enough for a weekend trip they had been planning for years.",
+    "topicTag": "home",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "지출, 소비, 생산 등을 줄이거나 삭감하다.",
+    "realUsageKo": "예산, 소비, 습관 등을 의도적으로 줄일 때 씁니다. reduce보다 구어체적입니다.",
+    "etymologyKo": "cut(자르다)과 back(뒤로, 줄여서)이 결합하여 소비 등의 양을 잘라내어 줄인다는 의미가 되었습니다.",
+    "nuanceKo": "절약이나 절제의 의도적 행동을 나타냅니다. 개인적 습관부터 기업 예산까지 폭넓게 씁니다.",
+    "shortExampleEn": "We need to cut back on spending until the project is funded.",
+    "shortExampleKo": "프로젝트 자금이 확보될 때까지 지출을 줄여야 해요."
+  }
+}

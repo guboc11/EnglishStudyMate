@@ -1,0 +1,30 @@
+{
+  "id": "visible-progress_7ec22044",
+  "expression": "visible progress",
+  "selectionMeta": {
+    "selectedPhrase": "visible progress",
+    "selectedSenseLabelKo": "눈에 띄는 진전",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three months of effort, visible progress on the renovation finally gave the team a boost."
+  },
+  "step2": {
+    "story": "The early phase of any long project was the hardest, she had found — not because the work was most difficult, but because visible progress was slowest. Once the foundations were laid and the structure became apparent, momentum built. The challenge was sustaining belief during the invisible phase.",
+    "topicTag": "long-term project",
+    "moodTag": "patiently knowing"
+  },
+  "step3": {
+    "story": "The city's housing affordability initiative had been running for two years with little visible progress. Critics were loud. The team was beginning to feel the weight of sustained negative attention. Then the first three developments completed simultaneously in the same month — four hundred units, a completed community center, and a newly opened transit connection. The visible progress that had been accumulating invisibly became suddenly apparent. The team had not changed course. The work had simply become visible.",
+    "topicTag": "urban development",
+    "moodTag": "finally apparent"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈에 보이는 진전.",
+    "realUsageKo": "노력의 결과가 외부에서 명확하게 확인될 때 씁니다.",
+    "etymologyKo": "visible은 눈으로 볼 수 있다는 의미로, 실제로 존재하지만 아직 드러나지 않은 진전과 구별됩니다.",
+    "nuanceKo": "tangible progress(구체적인 진전)와 유사하며, 팀 사기에 특히 중요합니다.",
+    "shortExampleEn": "Visible progress in the first week encouraged the whole team.",
+    "shortExampleKo": "첫 주에 눈에 띄는 진전이 팀 전체에 활력을 불어넣었어요."
+  }
+}

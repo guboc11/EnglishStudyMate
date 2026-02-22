@@ -1,0 +1,30 @@
+{
+  "id": "hit-the-jackpot_da4b19cc",
+  "expression": "hit the jackpot",
+  "selectionMeta": {
+    "selectedPhrase": "hit the jackpot",
+    "selectedSenseLabelKo": "대박을 터뜨리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the podcast sponsor offered a three-year contract, they knew they had hit the jackpot."
+  },
+  "step2": {
+    "story": "The thrift store had a rotating dollar bin near the door. On a slow Sunday, a collector reached in and pulled out a first-edition novel with a handwritten inscription from the author. She had hit the jackpot in the most literal and least dramatic possible way.",
+    "topicTag": "unexpected windfall",
+    "moodTag": "delighted"
+  },
+  "step3": {
+    "story": "The food truck had operated for three years at modest profit, building a loyal but slow-growing following. Then a video of their signature sandwich was shared by a food account with four million followers. By the next morning they had received over two hundred event booking requests and their existing social media followers had tripled. They had hit the jackpot — and immediately realized they had no infrastructure to handle it. The following month was chaotic, and several early enthusiasts were disappointed by long wait times. But by month three, they had hired, expanded, and turned a windfall into a foundation.",
+    "topicTag": "viral success",
+    "moodTag": "excited then quickly practical"
+  },
+  "meaning": {
+    "literalMeaningKo": "잭팟을 치다.",
+    "realUsageKo": "예상치 못한 큰 행운이나 성공을 경험할 때 씁니다.",
+    "etymologyKo": "포커에서 큰 상금 풀(jackpot)을 획득하는 상황에서 유래했습니다.",
+    "nuanceKo": "우연성과 행운의 요소를 포함하며, 노력보다 운이 강조될 때 씁니다.",
+    "shortExampleEn": "They hit the jackpot with that investment.",
+    "shortExampleKo": "그 투자로 대박을 터뜨렸어요."
+  }
+}

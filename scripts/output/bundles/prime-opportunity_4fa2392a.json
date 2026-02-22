@@ -1,0 +1,30 @@
+{
+  "id": "prime-opportunity_4fa2392a",
+  "expression": "prime opportunity",
+  "selectionMeta": {
+    "selectedPhrase": "prime opportunity",
+    "selectedSenseLabelKo": "절호의 기회",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The industry conference was a prime opportunity to meet investors and potential partners."
+  },
+  "step2": {
+    "story": "The vacancy in the market was a prime opportunity, but seizing it required moving faster than the organization was comfortable moving. The question was not whether the opportunity was real — everyone agreed it was — but whether speed or caution would define the response.",
+    "topicTag": "business opportunity",
+    "moodTag": "urgent and considered"
+  },
+  "step3": {
+    "story": "The environmental coalition had identified the upcoming election as a prime opportunity to advance climate legislation that had stalled for years. The political conditions were the most favorable they had been in over a decade. They organized deliberately — not broadly, but precisely, targeting the specific districts and specific conversations where their effort would have the most effect. When the legislation passed, it did so with a narrower margin than anyone had hoped. It passed. The prime opportunity had been recognized, prepared for, and used.",
+    "topicTag": "political organizing",
+    "moodTag": "strategically seized"
+  },
+  "meaning": {
+    "literalMeaningKo": "절호의 기회.",
+    "realUsageKo": "놓치기 아까운 매우 좋은 타이밍이나 상황을 묘사할 때 씁니다.",
+    "etymologyKo": "prime은 최상의, 최적의라는 의미로, 기회의 질과 타이밍이 모두 최적임을 강조합니다.",
+    "nuanceKo": "golden opportunity(황금 같은 기회)와 유사하지만 prime은 더 격식적입니다.",
+    "shortExampleEn": "This is a prime opportunity to expand into the Asian market.",
+    "shortExampleKo": "이것은 아시아 시장에 진출할 절호의 기회예요."
+  }
+}

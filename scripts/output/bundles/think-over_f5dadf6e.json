@@ -1,0 +1,30 @@
+{
+  "id": "think-over_f5dadf6e",
+  "expression": "think over",
+  "selectionMeta": {
+    "selectedPhrase": "think over",
+    "selectedSenseLabelKo": "깊이 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She asked for a day to think over the job offer before giving her answer."
+  },
+  "step2": {
+    "story": "The proposal looked good on paper, but the director said he needed to think it over before committing any resources. He came back the next morning with three specific questions.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "After the argument with her best friend, Yuna did not call back right away. She spent the evening thinking over what had been said and what she truly meant. She wrote some thoughts in her journal, crossed out half of them, and wrote again. By the next morning, she had a clear idea of what she wanted to say and called with a calm and honest voice.",
+    "topicTag": "school friendship",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "결정하기 전에 무언가를 천천히 신중하게 생각하다.",
+    "realUsageKo": "결정이나 제안을 즉시 받아들이지 않고 충분히 고려할 때 씁니다.",
+    "etymologyKo": "think(생각하다)와 over(전체적으로, 완전히)가 결합하여 어떤 문제를 전체적으로 꼼꼼히 생각한다는 의미가 되었습니다.",
+    "nuanceKo": "시간을 두고 신중하게 고민한다는 뉘앙스입니다. consider나 reflect on과 비슷하지만 더 구어체적입니다.",
+    "shortExampleEn": "Let me think it over and get back to you by end of day.",
+    "shortExampleKo": "생각해보고 오늘 내로 다시 연락드릴게요."
+  }
+}

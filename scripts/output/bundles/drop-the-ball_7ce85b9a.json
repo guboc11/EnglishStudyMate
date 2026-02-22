@@ -1,0 +1,30 @@
+{
+  "id": "drop-the-ball_7ce85b9a",
+  "expression": "drop the ball",
+  "selectionMeta": {
+    "selectedPhrase": "drop the ball",
+    "selectedSenseLabelKo": "실수하다, 책임을 다하지 못하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We really dropped the ball on client communication this month — three complaints came in about unanswered emails."
+  },
+  "step2": {
+    "story": "The event coordinator dropped the ball on confirming the catering order. By the time anyone noticed, there were no meals for the afternoon breakout session and a very difficult call to make to the client.",
+    "topicTag": "event planning",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "During the product rollout, every team had a clear checklist and an assigned owner. The customer success team had prepared extensively. Legal had signed off. But nobody had confirmed that the payment gateway vendor was ready for the increased load — a task that had somehow fallen between two teams, neither of whom realized they were responsible. When the launch traffic came in and payments started failing, fingers pointed briefly in both directions. The post-mortem was uncomfortable but honest. The company dropped the ball on their accountability matrix, and they spent the next month redesigning it.",
+    "topicTag": "product launch failure",
+    "moodTag": "accountable"
+  },
+  "meaning": {
+    "literalMeaningKo": "공을 떨어뜨리다.",
+    "realUsageKo": "책임이나 역할을 다하지 못하고 실수를 저질렀을 때 씁니다.",
+    "etymologyKo": "스포츠에서 공을 잡아야 할 선수가 놓치는 상황에서 비롯된 표현입니다.",
+    "nuanceKo": "자신의 실수를 인정하거나 다른 사람의 실수를 지적할 때 모두 씁니다.",
+    "shortExampleEn": "I dropped the ball on the meeting — I forgot to send the invite.",
+    "shortExampleKo": "내가 미팅 준비를 소홀히 했어요 — 초대장 보내는 걸 깜빡했거든요."
+  }
+}

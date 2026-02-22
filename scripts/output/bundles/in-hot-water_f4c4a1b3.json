@@ -1,0 +1,30 @@
+{
+  "id": "in-hot-water_f4c4a1b3",
+  "expression": "in hot water",
+  "selectionMeta": {
+    "selectedPhrase": "in hot water",
+    "selectedSenseLabelKo": "곤경에 처하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He got into hot water for sharing confidential company data in a public forum."
+  },
+  "step2": {
+    "story": "The intern had accidentally sent a draft email to the entire client list instead of the internal team. She was in hot water before she even realized what had happened. Her manager closed the office door and took a deep breath.",
+    "topicTag": "workplace mistake",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The journalist had published the story trusting a source who, it later emerged, had provided partially fabricated documents. When the errors surfaced, she was immediately in hot water with her editor and the publication's legal team. She spent the next two weeks correcting the record, issuing a transparent correction notice, and cooperating fully with the review. Her reputation took a hit, but the way she handled it — without deflecting blame and without minimizing the impact — ultimately preserved more credibility than the original mistake had cost her.",
+    "topicTag": "crisis management",
+    "moodTag": "accountability under pressure"
+  },
+  "meaning": {
+    "literalMeaningKo": "뜨거운 물 속에 있다.",
+    "realUsageKo": "심각한 문제나 어려운 상황에 처했을 때 씁니다.",
+    "etymologyKo": "16세기 영어에서 시작된 표현으로, 뜨거운 물이 불쾌하고 위험한 상황을 비유합니다.",
+    "nuanceKo": "주로 누군가의 잘못이나 실수로 인한 어려움을 가리킵니다.",
+    "shortExampleEn": "She found herself in hot water after the email incident.",
+    "shortExampleKo": "이메일 사건 이후 그녀는 곤경에 빠졌어요."
+  }
+}

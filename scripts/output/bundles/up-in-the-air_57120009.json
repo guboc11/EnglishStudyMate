@@ -1,0 +1,30 @@
+{
+  "id": "up-in-the-air_57120009",
+  "expression": "up in the air",
+  "selectionMeta": {
+    "selectedPhrase": "up in the air",
+    "selectedSenseLabelKo": "미결정인, 불확실한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The launch date is still up in the air — we are waiting for final approval from the legal team."
+  },
+  "step2": {
+    "story": "The merger talks had been going on for months but everything remained up in the air. Employees were anxious, rumors were spreading, and management kept giving non-answers at town halls.",
+    "topicTag": "organizational uncertainty",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Clara had applied to three graduate programs across two countries and was waiting to hear back from all of them simultaneously. Her plans for September were completely up in the air. She had made tentative arrangements with her landlord, booked a refundable flight, and kept her savings liquid just in case. Her friends admired how calm she seemed. What they did not see was the notebook she kept on her nightstand, where she wrote out scenarios every night to manage the uncertainty one page at a time.",
+    "topicTag": "life decision",
+    "moodTag": "uncertain but measured"
+  },
+  "meaning": {
+    "literalMeaningKo": "공중에 떠 있다.",
+    "realUsageKo": "아직 결정되지 않았거나 불확실한 상황을 묘사할 때 씁니다.",
+    "etymologyKo": "땅에 발을 딛지 못하고 공중에 떠 있는 이미지에서 비롯되었습니다.",
+    "nuanceKo": "결과를 알 수 없어 불안하거나 기다리는 상황에서 자주 씁니다.",
+    "shortExampleEn": "Our travel plans are still up in the air.",
+    "shortExampleKo": "우리 여행 계획은 아직 미정이에요."
+  }
+}

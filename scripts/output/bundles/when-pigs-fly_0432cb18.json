@@ -1,0 +1,30 @@
+{
+  "id": "when-pigs-fly_0432cb18",
+  "expression": "when pigs fly",
+  "selectionMeta": {
+    "selectedPhrase": "when pigs fly",
+    "selectedSenseLabelKo": "절대 일어나지 않을 일",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He'll apologize when pigs fly — I know him too well to expect that."
+  },
+  "step2": {
+    "story": "When the new policy was announced, someone at the back of the room muttered that management would change it when pigs fly. The comment got a quiet laugh from the people around them, which was all the agreement anyone was willing to show openly.",
+    "topicTag": "cynical humor",
+    "moodTag": "wry"
+  },
+  "step3": {
+    "story": "For years, the two rival tech companies had traded barbs through press releases, lawsuits, and competing keynote presentations. Industry analysts had predicted at various points that the two would eventually collaborate. Every time the idea came up, insiders from both camps dismissed it: when pigs fly. Then a regulatory shift created unexpected mutual interest in a standards body. The collaboration announcement was brief, technical, and almost without fanfare. One journalist dug up a five-year-old quote from a senior executive at one company who had used exactly the phrase. He declined to comment for the follow-up story.",
+    "topicTag": "impossible becoming possible",
+    "moodTag": "drily amusing"
+  },
+  "meaning": {
+    "literalMeaningKo": "돼지가 날 때.",
+    "realUsageKo": "절대로 일어나지 않을 것임을 강조할 때 씁니다.",
+    "etymologyKo": "돼지가 날 수 없다는 불가능한 조건을 붙여 절대 일어나지 않을 일을 표현한 오래된 관용구입니다.",
+    "nuanceKo": "유머러스하거나 냉소적인 방식으로 불가능함을 단정지을 때 씁니다.",
+    "shortExampleEn": "He will clean his room when pigs fly.",
+    "shortExampleKo": "그가 방을 치운다면 그건 돼지가 날 때나 가능한 일이에요."
+  }
+}

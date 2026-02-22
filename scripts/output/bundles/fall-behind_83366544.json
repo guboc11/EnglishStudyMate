@@ -1,0 +1,30 @@
+{
+  "id": "fall-behind_83366544",
+  "expression": "fall behind",
+  "selectionMeta": {
+    "selectedPhrase": "fall behind",
+    "selectedSenseLabelKo": "뒤처지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After missing two weeks of class, he fell behind and had to work hard to catch up."
+  },
+  "step2": {
+    "story": "The construction project fell behind schedule when heavy rain delayed outdoor work for a full week. The company brought in extra workers to make up the lost time.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "In the group cycling race, one rider's tire pressure dropped and she began to fall behind the main group. She shouted to her teammate ahead, who slowed down and waited. Together, they fixed the tire at the side of the road as quickly as possible. They started again at full speed and caught up with the group just before the final bend.",
+    "topicTag": "weekend hobby",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람이나 목표보다 뒤처지다; 일정이나 속도를 따라가지 못하다.",
+    "realUsageKo": "학업, 일정, 경쟁 등에서 뒤처질 때 씁니다.",
+    "etymologyKo": "fall(떨어지다)과 behind(뒤로)가 결합하여 앞서 있어야 할 위치에서 뒤로 떨어진다는 의미가 되었습니다.",
+    "nuanceKo": "기대 수준이나 속도를 따라가지 못하는 상황을 나타냅니다. 따라잡으려면 노력이 필요하다는 뉘앙스가 있습니다.",
+    "shortExampleEn": "I fell behind on my reading over the holidays and now I have a lot to catch up on.",
+    "shortExampleKo": "휴일 동안 독서를 미뤄서 이제 따라잡을 게 많아요."
+  }
+}

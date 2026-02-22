@@ -1,0 +1,30 @@
+{
+  "id": "turn-off_8a3c5761",
+  "expression": "turn off",
+  "selectionMeta": {
+    "selectedPhrase": "turn off",
+    "selectedSenseLabelKo": "끄다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He turned off the kitchen light and locked the door before heading to bed."
+  },
+  "step2": {
+    "story": "The horror movie was so frightening that her little brother asked her three times to turn off the TV. She finally agreed, and they ended up playing board games for the rest of the evening.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "During a three-day camping trip, the group made a rule to turn off all phones at sundown every night. At first, some people felt a little nervous without their screens and notifications. But as the fire crackled and the stars appeared above the trees, everyone gradually relaxed. By the end of the last night, they all agreed that turning off the phones had been the best part of the trip.",
+    "topicTag": "weekend hobby",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "전기 기기나 장치의 전원을 끄다.",
+    "realUsageKo": "전등, TV, 에어컨 등 전자기기의 전원을 끌 때 사용하는 가장 일반적인 표현입니다.",
+    "etymologyKo": "turn(돌리다)과 off(작동 정지)가 결합하여 스위치를 돌려 전원을 끈다는 의미가 되었습니다.",
+    "nuanceKo": "전자기기나 조명에 주로 씁니다. 비유적으로 흥미나 호감을 잃게 만든다는 뜻으로도 씁니다.",
+    "shortExampleEn": "Don't forget to turn off the lights when you leave the room.",
+    "shortExampleKo": "방을 나갈 때 불 끄는 것 잊지 마세요."
+  }
+}

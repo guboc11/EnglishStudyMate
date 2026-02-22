@@ -1,0 +1,30 @@
+{
+  "id": "wear-out_9cfc8c6e",
+  "expression": "wear out",
+  "selectionMeta": {
+    "selectedPhrase": "wear out",
+    "selectedSenseLabelKo": "닳다, 지치게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He wore out three pairs of running shoes during the training season."
+  },
+  "step2": {
+    "story": "Chasing after her two-year-old twins all day wore her out completely. By seven o'clock, she was asleep on the couch before the children were.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "The hiking boots had served Tom faithfully for six years across mountains and city trails alike. He had re-soled them twice and stitched the laces back on once. But on a steep descent last autumn, the inner sole finally gave way and the boot was completely worn out. He held the boot in his hands for a moment before tossing it, feeling oddly grateful.",
+    "topicTag": "weekend hobby",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "오래 사용하여 닳거나 낡다; 사람을 지치게 하다.",
+    "realUsageKo": "물건이 사용으로 인해 닳아 없어지거나, 사람이 완전히 지칠 때 씁니다.",
+    "etymologyKo": "wear(닳게 하다)와 out(완전히)이 결합하여 완전히 닳아 버린다는 의미가 되었습니다.",
+    "nuanceKo": "물건의 마모와 사람의 피로 두 경우 모두에 씁니다. 완전히 닳거나 지쳐서 더 이상 못 쓰거나 못 움직인다는 느낌입니다.",
+    "shortExampleEn": "The kids wore me out completely at the amusement park.",
+    "shortExampleKo": "놀이공원에서 아이들 때문에 완전히 지쳐버렸어요."
+  }
+}

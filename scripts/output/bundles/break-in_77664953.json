@@ -1,0 +1,30 @@
+{
+  "id": "break-in_77664953",
+  "expression": "break in",
+  "selectionMeta": {
+    "selectedPhrase": "break in",
+    "selectedSenseLabelKo": "침입하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Someone had broken in while they were on holiday and stolen the laptop."
+  },
+  "step2": {
+    "story": "The security camera footage showed a person trying to break in through the back window at three in the morning. The alarm had scared them off before they got inside.",
+    "topicTag": "home",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "Thieves had broken in to the small community library during the night. In the morning, the librarian arrived to find the door unlocked and the petty cash drawer open. Strangely, none of the books had been touched. The police came, took notes, and left. By noon, a local resident had already started a fundraiser to replace the stolen cash.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "허락 없이 강제로 건물이나 장소에 들어가다.",
+    "realUsageKo": "자물쇠나 문을 부수거나 몰래 열어 건물에 들어가는 불법 행위를 가리킵니다.",
+    "etymologyKo": "break(깨다)와 in(안으로)이 결합하여 잠긴 것을 부수고 안으로 들어간다는 의미가 되었습니다.",
+    "nuanceKo": "범죄 행위를 가리키는 경우가 대부분입니다. 대화를 갑자기 끼어들다는 뜻으로도 씁니다.",
+    "shortExampleEn": "Two people tried to break in to the store last night but set off the alarm.",
+    "shortExampleKo": "어젯밤 두 명이 가게에 침입하려 했지만 경보가 울렸어요."
+  }
+}

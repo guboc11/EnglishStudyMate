@@ -1,0 +1,30 @@
+{
+  "id": "come-back_8574dae5",
+  "expression": "come back",
+  "selectionMeta": {
+    "selectedPhrase": "come back",
+    "selectedSenseLabelKo": "돌아오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After living abroad for three years, she finally came back to her hometown."
+  },
+  "step2": {
+    "story": "The team had lost five games in a row and everyone thought the season was over. But they came back in the second half of the tournament and won three straight matches.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The old neighborhood bakery had closed two years earlier when the owner retired. Everyone missed it but accepted it was gone. Then one spring morning, a sign appeared in the window saying it was coming back under new management. By opening day, there was a line stretching around the block and the smell of fresh bread filled the whole street again.",
+    "topicTag": "neighbor interaction",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "떠났던 곳으로 다시 돌아오다; 다시 나타나거나 복귀하다.",
+    "realUsageKo": "사람이 원래 있던 장소로 돌아오거나, 유행 또는 팀이 부진 후 복귀할 때 씁니다.",
+    "etymologyKo": "come(오다)과 back(뒤로, 원래 위치)이 결합하여 원래 있던 곳으로 돌아온다는 의미가 되었습니다.",
+    "nuanceKo": "get back이 이동의 결과에 초점을 두는 반면, come back은 돌아오는 방향 자체를 강조합니다.",
+    "shortExampleEn": "She came back from vacation looking completely rested.",
+    "shortExampleKo": "그녀는 휴가에서 돌아왔을 때 완전히 쉰 것처럼 보였어요."
+  }
+}

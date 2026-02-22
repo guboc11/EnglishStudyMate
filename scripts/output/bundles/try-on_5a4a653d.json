@@ -1,0 +1,30 @@
+{
+  "id": "try-on_5a4a653d",
+  "expression": "try on",
+  "selectionMeta": {
+    "selectedPhrase": "try on",
+    "selectedSenseLabelKo": "입어보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She tried on four different dresses before choosing the one she wore to the event."
+  },
+  "step2": {
+    "story": "The kids found their grandmother's old clothes in a storage box and spent an entire afternoon trying them on and laughing at the photos they took.",
+    "topicTag": "family routine",
+    "moodTag": "lightly funny"
+  },
+  "step3": {
+    "story": "Noah had never owned a suit and was nervous about choosing one for his first job interview. The shop assistant guided him through several options. He tried on five suits in different cuts and colors. The assistant gave honest feedback each time. The final choice was simple and fitted perfectly. When Noah wore it to the interview, he felt more confident than he expected.",
+    "topicTag": "store",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "옷이나 신발 등을 실제로 착용해보며 맞는지 확인하다.",
+    "realUsageKo": "옷, 신발, 액세서리 등을 구매 전에 실제로 입거나 신어볼 때 씁니다.",
+    "etymologyKo": "try(시도하다)와 on(몸에 걸쳐서)이 결합하여 몸에 걸쳐보며 시험한다는 의미가 되었습니다.",
+    "nuanceKo": "의류나 액세서리에 특화된 표현입니다. 쇼핑 상황에서 가장 자연스럽게 씁니다.",
+    "shortExampleEn": "Would you like to try on the jacket in a smaller size?",
+    "shortExampleKo": "재킷 더 작은 사이즈로 입어보시겠어요?"
+  }
+}

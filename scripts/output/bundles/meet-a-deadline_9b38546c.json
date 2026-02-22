@@ -1,0 +1,30 @@
+{
+  "id": "meet-a-deadline_9b38546c",
+  "expression": "meet a deadline",
+  "selectionMeta": {
+    "selectedPhrase": "meet a deadline",
+    "selectedSenseLabelKo": "마감을 맞추다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team worked through the weekend to meet the client deadline."
+  },
+  "step2": {
+    "story": "She had always met her deadlines, not because she worked faster than others but because she treated them as fixed points rather than targets. The deadline was not a suggestion to aim for — it was the moment the work had to be done, and she planned backward from there accordingly.",
+    "topicTag": "time management",
+    "moodTag": "disciplined"
+  },
+  "step3": {
+    "story": "The publishing house had a reputation for reliability that other publishers noticed and envied. Books came out when announced. Authors were held to schedules. This reputation had not been built easily — it required difficult conversations, contract clauses with real teeth, and occasionally declining to work with authors whose work was beautiful but whose relationship with time was not. Meeting deadlines, the managing editor explained, was not a constraint on creativity. It was the condition that made the business sustainable and the relationships trustworthy.",
+    "topicTag": "publishing",
+    "moodTag": "principled and structured"
+  },
+  "meaning": {
+    "literalMeaningKo": "마감을 맞추다.",
+    "realUsageKo": "정해진 기한 안에 작업을 완료할 때 씁니다.",
+    "etymologyKo": "deadline은 원래 인쇄 작업에서 그 선을 넘으면 작업을 진행할 수 없는 경계선을 의미했습니다.",
+    "nuanceKo": "miss a deadline(마감을 놓치다)의 반대 표현입니다. hit a deadline도 같은 의미로 씁니다.",
+    "shortExampleEn": "We always meet our deadlines — it is a point of pride.",
+    "shortExampleKo": "우리는 항상 마감을 맞춰요 — 자부심이에요."
+  }
+}

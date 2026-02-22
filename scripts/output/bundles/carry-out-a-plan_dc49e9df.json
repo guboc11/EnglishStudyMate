@@ -1,0 +1,30 @@
+{
+  "id": "carry-out-a-plan_dc49e9df",
+  "expression": "carry out a plan",
+  "selectionMeta": {
+    "selectedPhrase": "carry out a plan",
+    "selectedSenseLabelKo": "계획을 실행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team had an excellent plan; the challenge was carrying it out under pressure."
+  },
+  "step2": {
+    "story": "She had carried out the plan exactly as designed, which was the problem. No plan survives contact with reality entirely intact, and the ones who adapted on the fly had produced better outcomes than the ones who adhered strictly to the original document.",
+    "topicTag": "execution vs planning",
+    "moodTag": "instructive"
+  },
+  "step3": {
+    "story": "The emergency response team trained constantly so that when the time came to carry out a plan under stress, the procedures would be automatic. The training director was clear about why: in high-stakes situations, cognitive load increased and decision-making capacity dropped. The plan had to be practiced enough to become reflex. When the actual emergency arrived three years into the program, the team operated cleanly. Afterward, several members said they had not thought at all — they had simply done what they had practiced. That was exactly the design.",
+    "topicTag": "emergency preparedness",
+    "moodTag": "precisely trained"
+  },
+  "meaning": {
+    "literalMeaningKo": "계획을 이행하다.",
+    "realUsageKo": "세운 계획을 실제로 실행에 옮길 때 씁니다.",
+    "etymologyKo": "carry out은 짐을 들고 나간다는 이미지에서 비유적으로 계획을 실제 세계로 끌어내는 행위를 표현합니다.",
+    "nuanceKo": "implement a plan(더 격식체)과 유사하지만 carry out은 더 일상적으로 씁니다.",
+    "shortExampleEn": "We need three more people to carry out this plan effectively.",
+    "shortExampleKo": "이 계획을 효과적으로 실행하려면 세 명이 더 필요해요."
+  }
+}

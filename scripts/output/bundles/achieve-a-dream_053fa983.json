@@ -1,0 +1,30 @@
+{
+  "id": "achieve-a-dream_053fa983",
+  "expression": "achieve a dream",
+  "selectionMeta": {
+    "selectedPhrase": "achieve a dream",
+    "selectedSenseLabelKo": "꿈을 이루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He had worked for fifteen years to achieve his dream of opening his own restaurant."
+  },
+  "step2": {
+    "story": "She had achieved her dream of becoming a published author, and the first thing she felt was not joy but a strange loss — the absence of the long, sustaining pursuit itself. It took a few months to understand that the dream had been fuel, and now she needed a new one.",
+    "topicTag": "goal achievement",
+    "moodTag": "surprisingly complex"
+  },
+  "step3": {
+    "story": "The program paired retired athletes with young people in low-income communities. Many of the athletes had achieved their dreams through sport and now wanted to help others do the same — but through any path, not just athletics. What they found they offered was not a blueprint but proof: that sustained effort over time could close the gap between where you were and where you wanted to be. The young participants often said the most valuable thing was not the mentorship itself but knowing someone who had actually done it.",
+    "topicTag": "mentorship",
+    "moodTag": "purposeful and warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "꿈을 성취하다.",
+    "realUsageKo": "오랫동안 바라온 목표나 열망을 마침내 이룰 때 씁니다.",
+    "etymologyKo": "achieve는 라틴어 ad caput venire(머리(끝)에 이르다)에서 왔으며, 완성에 이르는 여정을 함의합니다.",
+    "nuanceKo": "fulfill a dream(꿈을 충족하다)과 유사하지만 achieve는 노력의 과정을 더 강조합니다.",
+    "shortExampleEn": "It took decades, but she finally achieved her dream.",
+    "shortExampleKo": "수십 년이 걸렸지만 그녀는 마침내 꿈을 이뤘어요."
+  }
+}

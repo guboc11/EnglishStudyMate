@@ -1,0 +1,30 @@
+{
+  "id": "look-on-the-bright-side_d5a5f69f",
+  "expression": "look on the bright side",
+  "selectionMeta": {
+    "selectedPhrase": "look on the bright side",
+    "selectedSenseLabelKo": "긍정적인 면을 보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I know the trip was cancelled, but look on the bright side — you saved a lot of money."
+  },
+  "step2": {
+    "story": "The renovation took four months longer than expected. His partner suggested looking on the bright side — they had discovered a structural issue that would have cost twice as much to fix if it had been found after they moved in.",
+    "topicTag": "unexpected positive",
+    "moodTag": "optimistic reframing"
+  },
+  "step3": {
+    "story": "The team had missed the funding deadline by three days due to a technical error on the application portal. The setback was real and the window would not reopen for a full year. At the debrief, one researcher tried to look on the bright side — the additional year gave them time to strengthen the pilot data, which had gaps they had been quietly aware of but had not fully addressed. The framing was not immediately welcomed. But three months later, with stronger data in hand and a clearer research question, the team submitted a significantly improved application. Whether they got the grant or not, the proposal was better. That mattered.",
+    "topicTag": "reframing setback",
+    "moodTag": "genuine optimism under difficulty"
+  },
+  "meaning": {
+    "literalMeaningKo": "밝은 면을 보다.",
+    "realUsageKo": "나쁜 상황에서도 긍정적인 측면을 찾으려 할 때 씁니다.",
+    "etymologyKo": "어두운 상황에도 빛이 비치는 밝은 쪽이 있다는 이미지에서 나왔습니다.",
+    "nuanceKo": "every cloud has a silver lining과 비슷하지만 더 가볍고 즉흥적으로 씁니다.",
+    "shortExampleEn": "Look on the bright side — at least no one was hurt.",
+    "shortExampleKo": "긍정적으로 봐요 — 적어도 다친 사람은 없잖아요."
+  }
+}

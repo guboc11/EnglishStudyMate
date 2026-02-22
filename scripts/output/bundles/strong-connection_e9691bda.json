@@ -1,0 +1,30 @@
+{
+  "id": "strong-connection_e9691bda",
+  "expression": "strong connection",
+  "selectionMeta": {
+    "selectedPhrase": "strong connection",
+    "selectedSenseLabelKo": "강한 유대",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team had a strong connection built on years of working through difficult projects together."
+  },
+  "step2": {
+    "story": "She had tried to explain the strong connection she felt to the city to people who had never lived there. The words were always insufficient. It was not the landmarks or the food but something that accumulated from ordinary daily experience over time.",
+    "topicTag": "sense of belonging",
+    "moodTag": "quietly rooted"
+  },
+  "step3": {
+    "story": "The research on organizational resilience found that teams with strong connections — specifically, teams whose members had personal knowledge of each other beyond job titles and project roles — performed significantly better under pressure than teams with equivalent technical skill but shallow interpersonal relationships. The difference showed up most clearly in crisis situations, where coordination required trust that could not be built in the moment. The researchers recommended that organizations invest in conditions for genuine connection before they needed it, not during.",
+    "topicTag": "team resilience",
+    "moodTag": "evidence-grounded"
+  },
+  "meaning": {
+    "literalMeaningKo": "강한 연결.",
+    "realUsageKo": "사람, 장소, 또는 개념 사이의 깊고 의미 있는 유대를 묘사할 때 씁니다.",
+    "etymologyKo": "strong은 힘이 강하다는 의미로, connection(연결)의 강도와 깊이를 수식합니다.",
+    "nuanceKo": "close connection과 유사하지만 strong은 견고함과 내구성을 강조합니다.",
+    "shortExampleEn": "There is a strong connection between sleep quality and productivity.",
+    "shortExampleKo": "수면의 질과 생산성 사이에는 강한 유대가 있어요."
+  }
+}

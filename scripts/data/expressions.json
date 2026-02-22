@@ -1,0 +1,17 @@
+[
+  { "phrase": "take off", "senseLabelKo": "이륙하다", "domain": "general" },
+  { "phrase": "take off", "senseLabelKo": "벗다 (옷 등을)", "domain": "daily" },
+  { "phrase": "put off", "senseLabelKo": "미루다", "domain": "general" },
+  { "phrase": "burn out", "senseLabelKo": "극도로 지치다", "domain": "daily" },
+  { "phrase": "break down", "senseLabelKo": "고장나다", "domain": "daily" },
+  { "phrase": "give in", "senseLabelKo": "굴복하다, 양보하다", "domain": "general" },
+  { "phrase": "kick off", "senseLabelKo": "시작하다", "domain": "business" },
+  { "phrase": "roll out", "senseLabelKo": "출시하다, 배포하다", "domain": "tech" },
+  { "phrase": "back up", "senseLabelKo": "지원하다, 백업하다", "domain": "tech" },
+  { "phrase": "log in", "senseLabelKo": "로그인하다", "domain": "tech" },
+  { "phrase": "pitch in", "senseLabelKo": "힘을 보태다, 협력하다", "domain": "business" },
+  { "phrase": "follow up", "senseLabelKo": "후속 조치를 취하다", "domain": "business" },
+  { "phrase": "show off", "senseLabelKo": "과시하다", "domain": "general" },
+  { "phrase": "carry on", "senseLabelKo": "계속하다", "domain": "general" },
+  { "phrase": "let down", "senseLabelKo": "실망시키다", "domain": "general" }
+]

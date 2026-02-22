@@ -1,0 +1,30 @@
+{
+  "id": "high-expectations_e44353d0",
+  "expression": "high expectations",
+  "selectionMeta": {
+    "selectedPhrase": "high expectations",
+    "selectedSenseLabelKo": "높은 기대",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The program attracted students who came with high expectations and left having exceeded them."
+  },
+  "step2": {
+    "story": "She had grown up with high expectations placed on her from every direction and had spent her twenties learning to distinguish which ones she had genuinely internalized from which ones she was performing. The distinction had taken longer to make than she had expected.",
+    "topicTag": "personal identity",
+    "moodTag": "honestly examined"
+  },
+  "step3": {
+    "story": "The research on student performance consistently found that teacher expectations were among the most significant predictors of student outcomes — more predictive than prior grades, family income, or school resources in some studies. Teachers with high expectations for all students, regardless of background, produced different results than those whose expectations were calibrated to assumed ceilings. The implication was uncomfortable for educators: the expectations held in a teacher's mind shaped the opportunities offered in the classroom, often in ways neither party was aware of.",
+    "topicTag": "education research",
+    "moodTag": "compellingly evidence-based"
+  },
+  "meaning": {
+    "literalMeaningKo": "높은 기대.",
+    "realUsageKo": "어떤 사람이나 상황에 대해 매우 높은 수준을 기대할 때 씁니다.",
+    "etymologyKo": "high는 수준이 높다는 의미로, expectations(기대치)의 정도를 수식합니다.",
+    "nuanceKo": "meet/exceed high expectations처럼 씁니다. 동기부여도 되지만 압박이 될 수도 있습니다.",
+    "shortExampleEn": "She entered the role with high expectations and delivered.",
+    "shortExampleKo": "그녀는 높은 기대를 안고 그 역할을 맡아 결과를 냈어요."
+  }
+}

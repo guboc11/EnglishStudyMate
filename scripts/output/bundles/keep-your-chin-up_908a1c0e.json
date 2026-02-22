@@ -1,0 +1,30 @@
+{
+  "id": "keep-your-chin-up_908a1c0e",
+  "expression": "keep your chin up",
+  "selectionMeta": {
+    "selectedPhrase": "keep your chin up",
+    "selectedSenseLabelKo": "용기를 잃지 마라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I know things are hard right now, but keep your chin up — it will get better."
+  },
+  "step2": {
+    "story": "After the third rejection email that week, she sat quietly at her kitchen table. Her roommate set a cup of tea beside her and said nothing for a moment. Then she simply said: keep your chin up. Sometimes that is exactly the right thing to say.",
+    "topicTag": "encouragement",
+    "moodTag": "gently hopeful"
+  },
+  "step3": {
+    "story": "The youth basketball team had lost eight consecutive games. Morale was shaky, practices had become quieter, and two players had mentioned to their parents that they were thinking about quitting. The coach called a meeting before the ninth game — not to talk strategy, but to talk about the team. She told them that losing was data, not destiny, and that the players who kept their chins up in stretches like this were exactly the kind of players who built real resilience. They lost the ninth game too, by three points, but the body language on the court was different. They played the next one to a win.",
+    "topicTag": "youth sports",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "턱을 들어 올리다.",
+    "realUsageKo": "어려운 상황에서도 낙담하지 말고 용기를 갖으라고 격려할 때 씁니다.",
+    "etymologyKo": "고개를 떨구지 않고 당당하게 앞을 보는 자세에서 유래한 표현입니다.",
+    "nuanceKo": "상대의 어려움을 인정하면서도 희망을 북돋는 따뜻한 격려 표현입니다.",
+    "shortExampleEn": "Keep your chin up — this is not the end.",
+    "shortExampleKo": "용기를 잃지 마요 — 이게 끝이 아니에요."
+  }
+}

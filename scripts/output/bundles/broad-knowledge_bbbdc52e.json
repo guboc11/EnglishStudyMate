@@ -1,0 +1,30 @@
+{
+  "id": "broad-knowledge_bbbdc52e",
+  "expression": "broad knowledge",
+  "selectionMeta": {
+    "selectedPhrase": "broad knowledge",
+    "selectedSenseLabelKo": "폭넓은 지식",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The consultant's broad knowledge of the industry made her valuable across multiple client engagements."
+  },
+  "step2": {
+    "story": "He had pursued broad knowledge deliberately, reading outside his specialty every month. Colleagues sometimes questioned the investment of time. The connections he made between unrelated fields, however, were consistently where his best ideas originated.",
+    "topicTag": "intellectual breadth",
+    "moodTag": "curiously generative"
+  },
+  "step3": {
+    "story": "The debate about whether to hire specialists or generalists was longstanding in the organization. What the HR director had found, over fifteen years of observation, was that neither was universally better — context determined fit. Projects with stable, well-defined problems benefited from deep specialization. Projects at intersections, or in rapidly changing domains, consistently benefited from people with broad knowledge who could synthesize across disciplines and recognize when a solution from an adjacent field applied. The organization eventually built teams that included both, intentionally.",
+    "topicTag": "hiring strategy",
+    "moodTag": "evidence-balanced"
+  },
+  "meaning": {
+    "literalMeaningKo": "폭넓은 지식.",
+    "realUsageKo": "다양한 분야에 걸쳐 폭넓게 알고 있는 상태를 묘사할 때 씁니다.",
+    "etymologyKo": "broad는 가로 방향으로 넓다는 의미로, deep knowledge(깊은 지식)와 대조됩니다.",
+    "nuanceKo": "generalist(다방면 전문가)의 특징을 표현하는 데 자주 씁니다.",
+    "shortExampleEn": "His broad knowledge of history helped him understand the political context.",
+    "shortExampleKo": "그의 폭넓은 역사 지식은 정치적 맥락을 이해하는 데 도움이 됐어요."
+  }
+}

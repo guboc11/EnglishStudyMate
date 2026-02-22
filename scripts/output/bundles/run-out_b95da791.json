@@ -1,0 +1,30 @@
+{
+  "id": "run-out_b95da791",
+  "expression": "run out",
+  "selectionMeta": {
+    "selectedPhrase": "run out",
+    "selectedSenseLabelKo": "다 떨어지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They ran out of sugar in the middle of baking the birthday cake."
+  },
+  "step2": {
+    "story": "The car started making strange noises on the highway. They pulled over and realized they had run out of gas, even though the gauge had looked fine.",
+    "topicTag": "travel day",
+    "moodTag": "slightly tense"
+  },
+  "step3": {
+    "story": "The small cafe had been offering free coffee every Friday morning as a goodwill gesture to the neighborhood. One week, a crowd showed up that was three times larger than usual. By nine o'clock they had completely run out of both coffee and cups. The owner laughed, apologized, and promised to order more supplies for next time.",
+    "topicTag": "cafe",
+    "moodTag": "lightly funny"
+  },
+  "meaning": {
+    "literalMeaningKo": "물자나 공급품이 모두 소진되어 더 이상 남아 있지 않다.",
+    "realUsageKo": "식품, 연료, 시간 등 어떤 자원이 다 떨어졌을 때 씁니다.",
+    "etymologyKo": "run(흐르다, 소진되다)과 out(밖으로, 완전히)이 결합하여 자원이 완전히 빠져나갔다는 의미가 되었습니다.",
+    "nuanceKo": "갑자기 혹은 예상치 못하게 바닥났을 때의 느낌이 강합니다. 시간이 다 됐을 때도 씁니다.",
+    "shortExampleEn": "We ran out of time before we could finish the last question.",
+    "shortExampleKo": "마지막 문제를 끝내기 전에 시간이 다 됐어요."
+  }
+}

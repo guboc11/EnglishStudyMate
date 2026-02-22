@@ -1,0 +1,30 @@
+{
+  "id": "critical-thinking_c948ca4c",
+  "expression": "critical thinking",
+  "selectionMeta": {
+    "selectedPhrase": "critical thinking",
+    "selectedSenseLabelKo": "비판적 사고",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Critical thinking is one of the most valued skills in any profession."
+  },
+  "step2": {
+    "story": "She had been praised throughout school for good answers. It was only in her first job, where good questions mattered more than prepared answers, that she realized her critical thinking skills had never really been tested.",
+    "topicTag": "skills gap",
+    "moodTag": "humbly recalibrating"
+  },
+  "step3": {
+    "story": "The course had been redesigned with one explicit goal: to develop critical thinking skills rather than content knowledge. Students were evaluated not on what they knew but on how they reasoned — whether they identified assumptions, considered alternative explanations, and engaged honestly with evidence that contradicted their initial position. Faculty found the redesign uncomfortable because it required them to be genuinely uncertain in front of students. Students found it uncomfortable because it removed the option of giving a correct answer to avoid thinking. By the end of the semester, both groups reported it was the hardest and most useful course they had been part of.",
+    "topicTag": "education redesign",
+    "moodTag": "productively uncomfortable"
+  },
+  "meaning": {
+    "literalMeaningKo": "비판적 사고.",
+    "realUsageKo": "정보를 무조건 수용하지 않고 논리적으로 분석·평가하는 사고 방식을 말합니다.",
+    "etymologyKo": "critical은 그리스어 kritikos(판단하는)에서 왔으며, 단순 비판이 아닌 분석적 평가를 의미합니다.",
+    "nuanceKo": "교육·직업 역량으로 자주 언급되며, analytical thinking(분석적 사고)과 유사합니다.",
+    "shortExampleEn": "The job listing required strong critical thinking and problem-solving skills.",
+    "shortExampleKo": "채용 공고는 강한 비판적 사고와 문제 해결 능력을 요구했어요."
+  }
+}

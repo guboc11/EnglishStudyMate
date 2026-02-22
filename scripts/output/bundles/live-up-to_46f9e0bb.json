@@ -1,0 +1,30 @@
+{
+  "id": "live-up-to_46f9e0bb",
+  "expression": "live up to",
+  "selectionMeta": {
+    "selectedPhrase": "live up to",
+    "selectedSenseLabelKo": "기대에 부응하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sequel failed to live up to the expectations set by the original film."
+  },
+  "step2": {
+    "story": "Everyone said the new restaurant was the best in the city. When they finally visited, they were relieved to find that it fully lived up to the hype.",
+    "topicTag": "restaurant service",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "From a young age, Min had been told he was gifted. Teachers praised him, relatives had high hopes, and everyone expected great things. For years, he felt the pressure to live up to all of it. It was only in university that he realized his own definition of success mattered more than anyone else's expectations.",
+    "topicTag": "school friendship",
+    "moodTag": "slightly tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "기대, 기준, 약속 등에 걸맞게 행동하거나 결과를 내다.",
+    "realUsageKo": "다른 사람의 기대나 자신이 세운 기준을 충족할 때 씁니다.",
+    "etymologyKo": "live(살다, 행동하다)와 up to(~의 수준에 맞게)가 결합하여 어떤 기준의 수준에 맞게 살아가다라는 의미가 되었습니다.",
+    "nuanceKo": "기대나 평판에 미치는지 여부를 다룰 때 씁니다. live up to + 기대/명성/약속 형태로 자주 씁니다.",
+    "shortExampleEn": "The hotel lived up to every single one of its five-star reviews.",
+    "shortExampleKo": "그 호텔은 모든 별 다섯 개 리뷰에 걸맞았어요."
+  }
+}

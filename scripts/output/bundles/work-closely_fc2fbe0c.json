@@ -1,0 +1,30 @@
+{
+  "id": "work-closely_fc2fbe0c",
+  "expression": "work closely",
+  "selectionMeta": {
+    "selectedPhrase": "work closely",
+    "selectedSenseLabelKo": "긴밀하게 협력하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The two departments had to work closely together to deliver the integrated product on time."
+  },
+  "step2": {
+    "story": "They had never worked closely before despite being in adjacent offices for six years. When the project required it, the proximity turned out to be less about physical closeness than about shared information and aligned expectations — both of which had to be built, regardless of office layout.",
+    "topicTag": "cross-functional work",
+    "moodTag": "newly collaborative"
+  },
+  "step3": {
+    "story": "The urban planning office worked closely with community organizations, public health departments, school boards, and transit authorities on the neighborhood redevelopment project. Each stakeholder group had its own priorities, timelines, and definition of success. Working closely did not mean everyone agreed. It meant everyone stayed informed of the others' decisions early enough to raise concerns before those decisions became irreversible. The coordination cost was significant. The outcome was a plan that held up through four years of implementation because none of the stakeholders had been surprised by any part of it.",
+    "topicTag": "urban planning",
+    "moodTag": "coordinately effective"
+  },
+  "meaning": {
+    "literalMeaningKo": "긴밀하게 협력하다.",
+    "realUsageKo": "누군가와 밀접하게 소통하고 협력하며 일할 때 씁니다.",
+    "etymologyKo": "closely는 거리가 가깝다는 의미에서 비유적으로 협력의 밀도를 표현합니다.",
+    "nuanceKo": "work together와 유사하지만 work closely는 긴밀한 소통과 조율을 더 강조합니다.",
+    "shortExampleEn": "She worked closely with the design team to refine the product.",
+    "shortExampleKo": "그녀는 디자인 팀과 긴밀하게 협력해 제품을 개선했어요."
+  }
+}

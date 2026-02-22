@@ -1,0 +1,30 @@
+{
+  "id": "wrap-your-head-around_d132c922",
+  "expression": "wrap your head around",
+  "selectionMeta": {
+    "selectedPhrase": "wrap your head around",
+    "selectedSenseLabelKo": "이해하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took me all weekend to finally wrap my head around how blockchain actually works."
+  },
+  "step2": {
+    "story": "The astrophysics lecture was brilliant, but the student admitted afterward that she still could not wrap her head around the concept of time dilation in practical terms. The professor smiled and said that was perfectly normal.",
+    "topicTag": "learning",
+    "moodTag": "curious and humble"
+  },
+  "step3": {
+    "story": "When the architect showed the clients the 3D model of their future home, they nodded politely but could not quite wrap their heads around how the floor plan would actually feel to live in. The architect had seen this many times. She printed a life-size floor grid on paper and taped it out on the grass in their backyard. The family walked through each room in the open air, and something clicked. The father stood in what would be the kitchen, looked through the imaginary window toward the imaginary garden, and finally said he understood.",
+    "topicTag": "visualization",
+    "moodTag": "thoughtful then illuminated"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리를 감싸다.",
+    "realUsageKo": "복잡하거나 이해하기 어려운 개념을 이해하려고 애쓰거나 마침내 이해했을 때 씁니다.",
+    "etymologyKo": "머릿속으로 개념을 끌어안는다는 인지적 이미지에서 나온 표현입니다.",
+    "nuanceKo": "어렵거나 낯선 개념에 대해 겸손하게 인정하는 뉘앙스가 담깁니다.",
+    "shortExampleEn": "I cannot wrap my head around why this keeps happening.",
+    "shortExampleKo": "왜 이런 일이 계속 생기는지 이해가 안 가요."
+  }
+}

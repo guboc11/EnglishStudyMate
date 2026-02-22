@@ -1,0 +1,30 @@
+{
+  "id": "with-flying-colors_2c2ee695",
+  "expression": "with flying colors",
+  "selectionMeta": {
+    "selectedPhrase": "with flying colors",
+    "selectedSenseLabelKo": "훌륭하게, 눈부시게",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She passed the certification exam with flying colors on her very first attempt."
+  },
+  "step2": {
+    "story": "The product launch had seemed risky on paper — new market, new format, smaller budget. But it succeeded with flying colors, exceeding first-month targets by sixty percent and generating press coverage they had not paid for.",
+    "topicTag": "successful launch",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "The mentorship program had been running as a quiet internal experiment for eighteen months before the HR director formally evaluated it. She had expected to find modest improvements in retention and satisfaction scores — enough to justify continuation. What the data showed instead was that mentored employees had been promoted at nearly twice the rate of the control group, and that the pairs who had met the most consistently showed the strongest gains. The program had passed its assessment with flying colors, and she immediately proposed scaling it company-wide. The story spread across the industry within a year.",
+    "topicTag": "program success",
+    "moodTag": "proud and validated"
+  },
+  "meaning": {
+    "literalMeaningKo": "펄럭이는 깃발들과 함께.",
+    "realUsageKo": "어떤 시험이나 도전을 훌륭하게 통과하거나 성공했을 때 씁니다.",
+    "etymologyKo": "항해에서 승리한 배가 깃발을 높이 올리고 당당하게 귀환하는 모습에서 유래했습니다.",
+    "nuanceKo": "단순한 통과가 아닌 뛰어난 결과를 강조하는 표현입니다.",
+    "shortExampleEn": "He completed the training program with flying colors.",
+    "shortExampleKo": "그는 훈련 프로그램을 눈부시게 완료했어요."
+  }
+}

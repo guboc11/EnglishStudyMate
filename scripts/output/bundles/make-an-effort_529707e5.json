@@ -1,0 +1,30 @@
+{
+  "id": "make-an-effort_529707e5",
+  "expression": "make an effort",
+  "selectionMeta": {
+    "selectedPhrase": "make an effort",
+    "selectedSenseLabelKo": "노력하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He could have left early, but he made an effort to stay and help clean up."
+  },
+  "step2": {
+    "story": "She had not particularly liked her new neighbor at first. But she made an effort — a small one — to say good morning whenever they crossed paths. Over a year, the small efforts accumulated into something that surprised her: a friendship she had not planned.",
+    "topicTag": "building relationships",
+    "moodTag": "gently persistent"
+  },
+  "step3": {
+    "story": "The accessibility review found that the building met minimum legal requirements but fell short of being genuinely usable for many visitors with mobility challenges. The facilities team made an effort to go beyond compliance — widening pathways, adding tactile guides, redesigning the main entrance to eliminate a step that the law did not technically require them to remove. The changes cost more than required. Attendance from visitors with disabilities increased noticeably the following year. Making an effort beyond the minimum, the director observed, had turned a building that tolerated everyone into one that welcomed them.",
+    "topicTag": "inclusion",
+    "moodTag": "meaningfully intentional"
+  },
+  "meaning": {
+    "literalMeaningKo": "노력을 기울이다.",
+    "realUsageKo": "무언가를 하기 위해 의식적으로 힘을 쏟을 때 씁니다.",
+    "etymologyKo": "effort는 라틴어 exfortia(힘을 내다)에서 왔습니다. make와 결합해 능동적 노력 행위를 강조합니다.",
+    "nuanceKo": "do an effort는 틀린 표현입니다. make an effort 또는 put in effort를 씁니다.",
+    "shortExampleEn": "Please make an effort to arrive on time.",
+    "shortExampleKo": "제 시간에 도착하려고 노력해줘요."
+  }
+}

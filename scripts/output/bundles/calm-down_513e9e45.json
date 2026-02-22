@@ -1,0 +1,30 @@
+{
+  "id": "calm-down_513e9e45",
+  "expression": "calm down",
+  "selectionMeta": {
+    "selectedPhrase": "calm down",
+    "selectedSenseLabelKo": "진정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She took a few deep breaths to calm down before walking back into the meeting room."
+  },
+  "step2": {
+    "story": "The toddler burst into tears in the middle of the supermarket. His father knelt down and spoke softly until the boy calmed down and agreed to get back in the cart.",
+    "topicTag": "grocery shopping",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When the school bus broke down on the way to the field trip, some of the younger students began to panic. The teacher stood at the front and clapped her hands once to get their attention. She said with a steady voice that everyone should take a breath and calm down. She told them help was on the way. The children settled, and by the time the new bus arrived, most of them had started playing card games.",
+    "topicTag": "bus or subway",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "흥분하거나 화난 상태에서 차분한 상태로 돌아오다.",
+    "realUsageKo": "감정이 격해진 상태에서 진정하라고 할 때, 또는 스스로 진정할 때 씁니다.",
+    "etymologyKo": "calm(고요하게 하다)과 down(아래로, 줄이다)이 결합하여 격한 감정을 아래로 낮춘다는 의미가 되었습니다.",
+    "nuanceKo": "다른 사람에게 calm down이라고 말하면 오히려 더 화나게 할 수 있으므로 상황에 따라 주의가 필요합니다.",
+    "shortExampleEn": "Take a moment to calm down before you respond to that email.",
+    "shortExampleKo": "그 이메일에 답장하기 전에 잠깐 진정하세요."
+  }
+}

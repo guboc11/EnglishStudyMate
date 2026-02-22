@@ -1,0 +1,30 @@
+{
+  "id": "figure-out_e7514d7e",
+  "expression": "figure out",
+  "selectionMeta": {
+    "selectedPhrase": "figure out",
+    "selectedSenseLabelKo": "이해하다, 알아내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took him nearly twenty minutes to figure out how to use the new espresso machine in the break room."
+  },
+  "step2": {
+    "story": "The jigsaw puzzle had been sitting on the table for a whole week with nobody making progress. Finally, on a rainy Sunday afternoon, the whole family sat down together and figured it out piece by piece.",
+    "topicTag": "family routine",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Anna moved to a new city and had absolutely no idea how the subway system worked. The color-coded maps were confusing and the station signs were in a different language. She tried several wrong routes and ended up in unexpected neighborhoods. But after two determined weeks of trial and error, she had figured out the system and could navigate it like a local.",
+    "topicTag": "public transportation",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "복잡하거나 어려운 것을 생각하거나 노력해서 이해하거나 알아내다.",
+    "realUsageKo": "문제를 풀거나 이해하기 어려운 것을 파악할 때 씁니다. find out보다 더 적극적인 사고 과정을 내포합니다.",
+    "etymologyKo": "figure(계산하다, 파악하다)와 out(완전히, 해결)이 결합하여 답을 완전히 도출해낸다는 의미가 되었습니다.",
+    "nuanceKo": "단순히 정보를 찾는 find out과 달리, 생각하고 분석해서 이해하는 과정을 강조합니다. 문제 해결 상황에 잘 맞습니다.",
+    "shortExampleEn": "I cannot figure out why the printer is not working at all.",
+    "shortExampleKo": "왜 프린터가 전혀 작동하지 않는지 이해가 안 돼요."
+  }
+}

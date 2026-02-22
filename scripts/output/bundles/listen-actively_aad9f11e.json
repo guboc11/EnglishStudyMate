@@ -1,0 +1,30 @@
+{
+  "id": "listen-actively_aad9f11e",
+  "expression": "listen actively",
+  "selectionMeta": {
+    "selectedPhrase": "listen actively",
+    "selectedSenseLabelKo": "적극적으로 듣다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Good therapists are trained to listen actively rather than waiting for their turn to speak."
+  },
+  "step2": {
+    "story": "He had always thought he was a good listener, until he took a communication workshop and was asked to summarize what the previous speaker had said. He had retained almost nothing. He had been present, nodding, looking attentive. He had not been listening actively — he had been performing listening.",
+    "topicTag": "self-awareness",
+    "moodTag": "humblingly honest"
+  },
+  "step3": {
+    "story": "The community forum had been designed for residents to give input on the proposed transit plan. The transit authority had listened passively for years — holding meetings, collecting comment cards, and largely proceeding with plans already made. This time, the project lead required every staff member present to listen actively — to take notes, to reflect what they heard back to the speaker, and to ask follow-up questions. Three decisions the transit authority had considered settled were reopened based on what emerged. The process took longer. The resulting plan required fewer revisions after approval.",
+    "topicTag": "civic engagement",
+    "moodTag": "genuinely participatory"
+  },
+  "meaning": {
+    "literalMeaningKo": "적극적으로 듣다.",
+    "realUsageKo": "단순히 소리를 듣는 것이 아니라 집중하여 이해하고 반응하며 듣는 방식을 말합니다.",
+    "etymologyKo": "active listening은 심리학에서 나온 개념으로, 의식적이고 참여적인 듣기 방식을 나타냅니다.",
+    "nuanceKo": "passive listening(수동적 듣기)의 반대이며, 고개 끄덕임, 질문, 요약 등이 포함됩니다.",
+    "shortExampleEn": "She listened actively, reflecting back what each speaker said.",
+    "shortExampleKo": "그녀는 각 발언자의 말을 되짚어가며 적극적으로 들었어요."
+  }
+}

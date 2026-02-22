@@ -1,0 +1,30 @@
+{
+  "id": "vital-role_70595c45",
+  "expression": "vital role",
+  "selectionMeta": {
+    "selectedPhrase": "vital role",
+    "selectedSenseLabelKo": "중요한 역할",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Community volunteers play a vital role in keeping the local food bank running."
+  },
+  "step2": {
+    "story": "The coordinator had always been told she played a vital role, which was true, but she noticed it was most often said when something had gone wrong in her absence. Recognition, she reflected, had a way of arriving most clearly through absence rather than presence.",
+    "topicTag": "appreciation",
+    "moodTag": "wryly observed"
+  },
+  "step3": {
+    "story": "The study had set out to identify which interventions had the most impact on patient recovery outcomes. The result that generated the most discussion was unexpected: the vital role was not played by any single clinical intervention but by the consistency of one named nurse who communicated daily with each patient about their care plan and their concerns. The named nurse model had been standard practice for decades; the data now showed what it actually contributed. The obvious things, clearly measured, sometimes revealed themselves as the most important.",
+    "topicTag": "healthcare",
+    "moodTag": "evidentially revealing"
+  },
+  "meaning": {
+    "literalMeaningKo": "중요한 역할.",
+    "realUsageKo": "어떤 시스템이나 과정에서 빠질 수 없는 핵심적인 역할을 묘사할 때 씁니다.",
+    "etymologyKo": "vital은 라틴어 vita(생명)에서 왔으며, 없으면 기능할 수 없는 필수적인 것을 의미합니다.",
+    "nuanceKo": "important role보다 강도가 높으며, 없으면 안 되는 필수불가결함을 강조합니다.",
+    "shortExampleEn": "Teachers play a vital role in shaping the next generation.",
+    "shortExampleKo": "교사는 다음 세대를 형성하는 데 중요한 역할을 해요."
+  }
+}

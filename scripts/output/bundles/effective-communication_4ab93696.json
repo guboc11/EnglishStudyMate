@@ -1,0 +1,30 @@
+{
+  "id": "effective-communication_4ab93696",
+  "expression": "effective communication",
+  "selectionMeta": {
+    "selectedPhrase": "effective communication",
+    "selectedSenseLabelKo": "효과적인 소통",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Effective communication is the foundation of any successful team."
+  },
+  "step2": {
+    "story": "The project had failed not for lack of talent or effort but for lack of effective communication. Everyone had been working hard in the same direction, but in the wrong direction, because three different teams had been operating on three different assumptions that no one had surfaced and aligned.",
+    "topicTag": "project failure",
+    "moodTag": "preventably sobering"
+  },
+  "step3": {
+    "story": "The communication training program had been running for three years. The evaluation showed strong satisfaction scores but weak behavioral transfer — employees rated the workshops highly and changed their communication habits rarely. The program designer revised the approach entirely: instead of workshops on principles, the new format used real situations from participants' actual work, had managers practice specific feedback conversations rather than learn frameworks, and built in peer observation and reflection cycles. The behavioral transfer rates doubled within six months. Effective communication, it turned out, was a practice, not a concept.",
+    "topicTag": "training design",
+    "moodTag": "pragmatically redesigned"
+  },
+  "meaning": {
+    "literalMeaningKo": "효과적인 소통.",
+    "realUsageKo": "의도한 메시지가 명확하고 적절하게 전달되는 소통 방식을 묘사합니다.",
+    "etymologyKo": "effective는 라틴어 effectivus(효과를 내는)에서 왔으며, communication과 결합해 결과를 내는 소통을 표현합니다.",
+    "nuanceKo": "가장 자주 언급되는 직장 내 역량 중 하나이며, 결과 중심적인 소통을 의미합니다.",
+    "shortExampleEn": "Effective communication requires both speaking clearly and listening actively.",
+    "shortExampleKo": "효과적인 소통은 명확하게 말하는 것과 적극적으로 듣는 것 모두를 요구해요."
+  }
+}

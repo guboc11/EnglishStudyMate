@@ -1,0 +1,30 @@
+{
+  "id": "stand-up-for_6da9a7f9",
+  "expression": "stand up for",
+  "selectionMeta": {
+    "selectedPhrase": "stand up for",
+    "selectedSenseLabelKo": "옹호하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always stood up for her younger siblings whenever they were treated unfairly."
+  },
+  "step2": {
+    "story": "When a new policy at work seemed unfair to the junior staff, Marcus was the only senior employee who stood up for them in the management meeting. His colleagues respected him more for it afterward.",
+    "topicTag": "workplace teamwork",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "In the middle of the playground, a group of older students was mocking a boy for the way he spoke. Most of the other kids watched and said nothing. Then a girl named Hana walked over and stood up for him, clearly and without raising her voice. The older students backed away. The boy looked at her with wide eyes and said a quiet thank you. They became friends that day.",
+    "topicTag": "school friendship",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "부당한 대우를 받는 사람이나 중요한 가치를 지지하고 변호하다.",
+    "realUsageKo": "부당한 상황에서 누군가를 두둔하거나 자신의 권리를 주장할 때 씁니다.",
+    "etymologyKo": "stand up(일어서다, 나서다)과 for(~을 위해)가 결합하여 누군가를 위해 나선다는 의미가 되었습니다.",
+    "nuanceKo": "용기 있는 행동을 강조하며 긍정적 의미로 씁니다. stand up for yourself는 자신의 권리를 주장하다는 뜻입니다.",
+    "shortExampleEn": "It takes courage to stand up for what you believe is right.",
+    "shortExampleKo": "옳다고 믿는 것을 옹호하려면 용기가 필요해요."
+  }
+}

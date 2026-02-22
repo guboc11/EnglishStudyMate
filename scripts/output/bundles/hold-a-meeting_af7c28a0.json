@@ -1,0 +1,30 @@
+{
+  "id": "hold-a-meeting_af7c28a0",
+  "expression": "hold a meeting",
+  "selectionMeta": {
+    "selectedPhrase": "hold a meeting",
+    "selectedSenseLabelKo": "회의를 열다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We will hold a meeting on Friday to review the quarterly results."
+  },
+  "step2": {
+    "story": "The team held a meeting to resolve the conflict between two members. The manager had prepared talking points, but the most productive part of the hour was ten minutes she had not planned — silence followed by an honest question nobody had thought to ask before.",
+    "topicTag": "conflict resolution",
+    "moodTag": "unexpectedly productive"
+  },
+  "step3": {
+    "story": "The organization held over two hundred meetings a year. An internal audit found that fewer than a third had clear outcomes, and fewer than half ended with agreed next steps. The operations lead proposed a simple protocol: every meeting needed a one-sentence purpose statement shared in advance, and every meeting ended with a written summary of decisions and actions. Adoption was slow at first. A year later, meeting duration had dropped by twenty percent and follow-through on decisions had increased significantly. The organization was holding fewer meetings and holding better ones.",
+    "topicTag": "meeting culture",
+    "moodTag": "practically improved"
+  },
+  "meaning": {
+    "literalMeaningKo": "회의를 개최하다.",
+    "realUsageKo": "공식적이거나 비공식적인 모임을 조직하고 진행할 때 씁니다.",
+    "etymologyKo": "hold는 유지하다, 개최하다는 의미로, have a meeting보다 약간 더 격식 있는 표현입니다.",
+    "nuanceKo": "have a meeting(더 구어적)과 비슷하지만 hold는 계획된 공식 회의에 더 어울립니다.",
+    "shortExampleEn": "They hold a meeting every Monday to review the week ahead.",
+    "shortExampleKo": "그들은 매주 월요일에 한 주를 점검하는 회의를 열어요."
+  }
+}

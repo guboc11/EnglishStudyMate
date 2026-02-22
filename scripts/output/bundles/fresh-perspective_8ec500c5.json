@@ -1,0 +1,30 @@
+{
+  "id": "fresh-perspective_8ec500c5",
+  "expression": "fresh perspective",
+  "selectionMeta": {
+    "selectedPhrase": "fresh perspective",
+    "selectedSenseLabelKo": "새로운 관점",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Bringing in someone from outside the industry gave us a fresh perspective on the problem."
+  },
+  "step2": {
+    "story": "She had been staring at the same design for six weeks. She showed it to a friend who knew nothing about the field. The friend asked why the most important element was in the corner. She had no answer. Fresh perspective, she noted, sometimes came wrapped in ignorance.",
+    "topicTag": "creative problem solving",
+    "moodTag": "unexpectedly clarifying"
+  },
+  "step3": {
+    "story": "The hospital had been dealing with a recurring bottleneck in patient discharge timing for years. Multiple internal working groups had analyzed it. The consultants they finally hired spent the first week doing something the internal teams had not done: they followed individual patients through the entire discharge process from the patient's point of view, not the hospital's. The fresh perspective revealed that three of the four delays occurred at handoffs between departments that each assumed the other had information they did not. The solution had been invisible from inside any single department and obvious from outside all of them.",
+    "topicTag": "process improvement",
+    "moodTag": "outsider insight"
+  },
+  "meaning": {
+    "literalMeaningKo": "신선한 관점.",
+    "realUsageKo": "기존의 사고방식에서 벗어난 새롭고 편견 없는 시각을 묘사합니다.",
+    "etymologyKo": "fresh는 새롭고 오염되지 않은 상태를 의미하며, perspective(관점)와 결합해 선입견 없는 시각을 표현합니다.",
+    "nuanceKo": "new perspective와 유사하지만 fresh는 더 활기차고 편견 없음을 강조합니다.",
+    "shortExampleEn": "A fresh perspective from a new team member helped us see the issue differently.",
+    "shortExampleKo": "새 팀원의 새로운 관점 덕분에 문제를 다르게 볼 수 있었어요."
+  }
+}

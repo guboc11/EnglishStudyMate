@@ -1,0 +1,30 @@
+{
+  "id": "move-forward_38415358",
+  "expression": "move forward",
+  "selectionMeta": {
+    "selectedPhrase": "move forward",
+    "selectedSenseLabelKo": "앞으로 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the setback, the team took a day to regroup and then moved forward with renewed focus."
+  },
+  "step2": {
+    "story": "The hardest part of the project was not a technical problem but a relational one: two key members could not agree, and the disagreement was keeping everyone stuck. When the project lead finally named this directly, the room exhaled. Moving forward required naming what was blocking the path first.",
+    "topicTag": "team dynamics",
+    "moodTag": "naming enables movement"
+  },
+  "step3": {
+    "story": "The reconciliation process had taken three years. Both communities had carried grievances, some going back decades, and the formal process had included extensive documentation, testimony, and acknowledgment. When the final report was published, the question that followed was not whether justice had been done — that remained contested — but how to move forward without either forgetting or remaining bound. The community leaders who navigated this best were those who held both: they named the past precisely and oriented toward the future deliberately. Moving forward, in their framing, was not the same as moving on.",
+    "topicTag": "reconciliation",
+    "moodTag": "carefully forward-facing"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞으로 나아가다.",
+    "realUsageKo": "어려움이나 지체 이후에 계속 진행하거나 발전할 때 씁니다.",
+    "etymologyKo": "forward는 진행 방향을 나타내며, 과거에 머물지 않고 앞을 향해 나아가는 의지를 표현합니다.",
+    "nuanceKo": "move on(잊고 넘어가다)보다 덜 부정적이며, 성장과 진전을 향한 적극적인 움직임을 강조합니다.",
+    "shortExampleEn": "Despite the setback, we are ready to move forward.",
+    "shortExampleKo": "좌절에도 불구하고 우리는 앞으로 나아갈 준비가 되어 있어요."
+  }
+}
