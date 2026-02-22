@@ -2,10 +2,11 @@ import { apiPost } from '@/services/apiClient';
 import type { LearningBundle } from '@/types/learning';
 import type { DomainTag, ResolveAndGenerateResult } from '@/types/selection';
 
-const BASE_FALLBACK_STORY = `A rainy afternoon, I saw a small cat outside and decided to take it in.
-I gave it warm food and a dry towel, and it slowly relaxed near the window.
-The next day, the cat followed me around the house like we had known each other for a long time.
-That simple moment helped me understand what it means to take something in with care.`;
+const BASE_FALLBACK_SENTENCE = `A rainy afternoon, I saw a small cat outside and decided to take it in.`;
+
+const BASE_FALLBACK_SHORT_STORY = `A rainy afternoon, I saw a small cat outside and decided to take it in. I gave it warm food and a dry towel, and it slowly relaxed near the window.`;
+
+const BASE_FALLBACK_RICH_STORY = `A rainy afternoon, I saw a small cat outside and decided to take it in. I gave it warm food and a dry towel, and it slowly relaxed near the window. The next day, the cat followed me around the house like we had known each other for a long time. That simple moment helped me understand what it means to take something in with care.`;
 
 export type GenerateBundleParams = {
   expression: string;
@@ -31,41 +32,14 @@ export async function generateLearningBundle(params: GenerateBundleParams): Prom
 export function buildFallbackLearningBundle(params: GenerateBundleParams): LearningBundle {
   return {
     expression: params.phrase,
-    example1: {
-      story: BASE_FALLBACK_STORY,
-      topicTag: 'fallback_home',
-      moodTag: 'warm',
-      usedExpressionVariants: [params.phrase],
+    step1: {
+      sentence: BASE_FALLBACK_SENTENCE,
     },
-    example2: {
-      story: BASE_FALLBACK_STORY,
-      topicTag: 'fallback_street',
-      moodTag: 'calm',
-      usedExpressionVariants: [params.phrase],
+    step2: {
+      story: BASE_FALLBACK_SHORT_STORY,
     },
-    example3: {
-      story: BASE_FALLBACK_STORY,
-      topicTag: 'fallback_social',
-      moodTag: 'reflective',
-      usedExpressionVariants: [params.phrase],
-    },
-    review1: {
-      story: BASE_FALLBACK_STORY,
-      topicTag: 'fallback_review1',
-      moodTag: 'calm',
-      usedExpressionVariants: [params.phrase],
-    },
-    review2: {
-      story: BASE_FALLBACK_STORY,
-      topicTag: 'fallback_review2',
-      moodTag: 'encouraging',
-      usedExpressionVariants: [params.phrase],
-    },
-    review3: {
-      story: BASE_FALLBACK_STORY,
-      topicTag: 'fallback_review3',
-      moodTag: 'warm',
-      usedExpressionVariants: [params.phrase],
+    step3: {
+      story: BASE_FALLBACK_RICH_STORY,
     },
     meaning: {
       literalMeaningKo: `"${params.phrase}"는 문맥 안으로 받아들이거나 이해한다는 뜻으로 자주 쓰입니다.`,

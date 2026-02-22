@@ -7,12 +7,9 @@ import {
   View,
   useWindowDimensions,
 } from 'react-native';
-import { Asset } from 'expo-asset';
 
 import { Button, ButtonText } from '@/components/ui/button';
-import { ExampleVideoPlayer } from '@/components/media/ExampleVideoPlayer';
 import { generateCartoonImage } from '@/services/geminiImage';
-import { generateStoryVideo } from '@/services/geminiVideo';
 import { Text } from '@/components/ui/text';
 import { VStack } from '@/components/ui/vstack';
 import { LearningFlowLayout } from '@/screens/layouts/LearningFlowLayout';
@@ -22,102 +19,60 @@ import { splitByExpressionMatch } from '@/utils/highlightExpression';
 
 type ExampleFlowScreenProps = {
   onClose: () => void;
-  onReviewPress: () => void;
+  onMeaningPress: () => void;
   expression: string;
   bundle: LearningBundle;
 };
 
 type ExampleStep = 1 | 2 | 3;
-const EXAMPLE_2_IMAGE = require('../assets/example2.png');
-const EXAMPLE_3_VIDEO = require('../assets/example3.mp4');
 
-type GeneratedVideoState = {
-  status: 'idle' | 'loading' | 'ready' | 'error';
-  uri?: string;
-  headers?: Record<string, string>;
-  playback?: 'generated' | 'fallback';
-  reason?: string;
-  error?: string;
+const FALLBACK_IMAGE = require('../assets/example2.png');
+
+const STEP_LABEL: Record<ExampleStep, string> = {
+  1: '맥락 문장',
+  2: '짧은 이야기',
+  3: '심화 이야기',
 };
 
 export function ExampleFlowScreen({
   onClose,
-  onReviewPress,
+  onMeaningPress,
   expression,
   bundle,
 }: ExampleFlowScreenProps) {
   const [step, setStep] = useState<ExampleStep>(1);
-  const [example2Image, setExample2Image] = useState<GeneratedImageState>({
-    status: 'idle',
-  });
-  const [example3Video, setExample3Video] = useState<GeneratedVideoState>({
-    status: 'idle',
-  });
-  const [example2AspectRatio, setExample2AspectRatio] = useState(1.6);
-  const example2RequestIdRef = useRef(0);
-  const example3RequestIdRef = useRef(0);
+  const [stepImage, setStepImage] = useState<GeneratedImageState>({ status: 'idle' });
+  const [imageAspectRatio, setImageAspectRatio] = useState(1.6);
+  const imageRequestIdRef = useRef(0);
   const { width } = useWindowDimensions();
   const contentWidth = Math.min(Math.max(width - 32, 280), 360);
 
-  const fallbackWebVideoUri = useMemo(() => Asset.fromModule(EXAMPLE_3_VIDEO).uri, []);
-
-  const story = useMemo(() => {
-    if (step === 1) return bundle.example1.story;
-    if (step === 2) return bundle.example2.story;
-    return bundle.example3.story;
+  const currentText = useMemo(() => {
+    if (step === 1) return bundle.step1.sentence;
+    if (step === 2) return bundle.step2.story;
+    return bundle.step3.story;
   }, [bundle, step]);
-  const highlightedStory = useMemo(
-    () => splitByExpressionMatch(story, expression),
-    [story, expression]
+
+  const highlightedText = useMemo(
+    () => splitByExpressionMatch(currentText, expression),
+    [currentText, expression]
   );
 
-  const handleNext = () => {
-    setStep((prev) => (prev < 3 ? ((prev + 1) as ExampleStep) : prev));
-  };
+  const fetchStepImage = async (stepNum: 2 | 3) => {
+    imageRequestIdRef.current += 1;
+    const requestId = imageRequestIdRef.current;
+    setStepImage({ status: 'loading' });
 
-  const fetchExample2Image = async () => {
-    example2RequestIdRef.current += 1;
-    const requestId = example2RequestIdRef.current;
-    setExample2Image({ status: 'loading' });
-
-    try {
-      const uri = await generateCartoonImage({
-        expression,
-        story: bundle.example2.story,
-        pageKey: 'example2',
-      });
-      if (requestId !== example2RequestIdRef.current) return;
-      setExample2Image({ status: 'ready', uri });
-    } catch (error) {
-      if (requestId !== example2RequestIdRef.current) return;
-      setExample2Image({
-        status: 'error',
-        error: error instanceof Error ? error.message : String(error),
-      });
-    }
-  };
-
-  const fetchExample3Video = async () => {
-    example3RequestIdRef.current += 1;
-    const requestId = example3RequestIdRef.current;
-    setExample3Video({ status: 'loading' });
+    const story = stepNum === 2 ? bundle.step2.story : bundle.step3.story;
+    const pageKey = stepNum === 2 ? 'step2' : 'step3';
 
     try {
-      const video = await generateStoryVideo({
-        expression,
-        story: bundle.example3.story,
-      });
-      if (requestId !== example3RequestIdRef.current) return;
-      setExample3Video({
-        status: 'ready',
-        uri: video.uri,
-        headers: video.headers,
-        playback: video.playback,
-        reason: video.reason,
-      });
+      const uri = await generateCartoonImage({ expression, story, pageKey });
+      if (requestId !== imageRequestIdRef.current) return;
+      setStepImage({ status: 'ready', uri });
     } catch (error) {
-      if (requestId !== example3RequestIdRef.current) return;
-      setExample3Video({
+      if (requestId !== imageRequestIdRef.current) return;
+      setStepImage({
         status: 'error',
         error: error instanceof Error ? error.message : String(error),
       });
@@ -125,42 +80,46 @@ export function ExampleFlowScreen({
   };
 
   useEffect(() => {
-    if (step === 2) {
-      void fetchExample2Image();
+    if (step === 1) {
+      setStepImage({ status: 'idle' });
       return;
     }
-    if (step === 3) {
-      void fetchExample3Video();
+
+    const preloadedUrl = step === 2 ? bundle.step2.imageUrl : bundle.step3.imageUrl;
+    if (preloadedUrl) {
+      setStepImage({ status: 'ready', uri: preloadedUrl });
+    } else {
+      void fetchStepImage(step);
     }
   }, [step]);
 
-  const handleExample2ImageLoad = (event: NativeSyntheticEvent<ImageLoadEventData>) => {
-    const width = event.nativeEvent?.source?.width ?? 0;
-    const height = event.nativeEvent?.source?.height ?? 0;
-    if (width > 0 && height > 0) {
-      setExample2AspectRatio(width / height);
+  const handleImageLoad = (event: NativeSyntheticEvent<ImageLoadEventData>) => {
+    const w = event.nativeEvent?.source?.width ?? 0;
+    const h = event.nativeEvent?.source?.height ?? 0;
+    if (w > 0 && h > 0) {
+      setImageAspectRatio(w / h);
     }
   };
+
+  const showImage = step === 2 || step === 3;
 
   return (
     <LearningFlowLayout onClose={onClose}>
       <VStack
         className="gap-5"
-        style={{
-          width: contentWidth,
-        }}
+        style={{ width: contentWidth }}
       >
         <Text size="xl" bold>
-          {`예문 ${step}`}
+          {STEP_LABEL[step]}
         </Text>
         {step === 1 ? (
           <Text size="sm">
-            {`표현: ${bundle.selectionMeta.selectedPhrase || expression || 'take in'} | 의미: ${
+            {`표현: ${bundle.selectionMeta.selectedPhrase || expression} | 의미: ${
               bundle.selectionMeta.selectedSenseLabelKo
             } | 도메인: ${bundle.selectionMeta.selectedDomain}`}
           </Text>
         ) : null}
-        {step === 2 ? (
+        {showImage ? (
           <>
             <View
               style={{
@@ -172,7 +131,7 @@ export function ExampleFlowScreen({
                 justifyContent: 'center',
               }}
             >
-              {example2Image.status === 'loading' ? (
+              {stepImage.status === 'loading' ? (
                 <VStack className="items-center gap-2">
                   <ActivityIndicator size="small" color="#374151" />
                   <Text size="sm">이미지 생성중...</Text>
@@ -180,98 +139,44 @@ export function ExampleFlowScreen({
               ) : (
                 <Image
                   source={
-                    example2Image.status === 'ready' && example2Image.uri
-                      ? { uri: example2Image.uri }
-                      : EXAMPLE_2_IMAGE
+                    stepImage.status === 'ready' && stepImage.uri
+                      ? { uri: stepImage.uri }
+                      : FALLBACK_IMAGE
                   }
-                  defaultSource={EXAMPLE_2_IMAGE}
+                  defaultSource={FALLBACK_IMAGE}
                   resizeMode="contain"
-                  onLoad={handleExample2ImageLoad}
-                  style={{
-                    width: '100%',
-                    aspectRatio: example2AspectRatio,
-                  }}
+                  onLoad={handleImageLoad}
+                  style={{ width: '100%', aspectRatio: imageAspectRatio }}
                 />
               )}
             </View>
-            {example2Image.status === 'error' ? (
-              <Button size="sm" action="secondary" onPress={() => void fetchExample2Image()}>
+            {stepImage.status === 'error' ? (
+              <Button size="sm" action="secondary" onPress={() => void fetchStepImage(step as 2 | 3)}>
                 <ButtonText>이미지 다시 생성</ButtonText>
               </Button>
             ) : null}
           </>
         ) : null}
-        {step === 3 ? (
-          <>
-            <View
-              style={{
-                width: contentWidth,
-                height: 210,
-                borderRadius: 12,
-                overflow: 'hidden',
-                backgroundColor: '#111827',
-                alignItems: 'center',
-                justifyContent: 'center',
-              }}
-            >
-              {example3Video.status === 'loading' || example3Video.status === 'idle' ? (
-                <VStack className="items-center gap-2">
-                  <ActivityIndicator size="small" color="#374151" />
-                  <Text size="sm" style={{ color: '#f3f4f6' }}>
-                    영상 생성중... (최대 1~2분)
-                  </Text>
-                </VStack>
-              ) : example3Video.status === 'ready' ? (
-                <ExampleVideoPlayer
-                  generatedUri={example3Video.uri}
-                  headers={example3Video.headers}
-                  fallbackModule={EXAMPLE_3_VIDEO}
-                  fallbackWebUri={fallbackWebVideoUri}
-                  useFallback={example3Video.playback === 'fallback'}
-                  onPlaybackError={(detail) => {
-                    console.warn('[ExampleVideoPlayer] playback_error', detail);
-                  }}
-                />
-              ) : (
-                <Text size="sm" style={{ color: '#f3f4f6', textAlign: 'center', paddingHorizontal: 16 }}>
-                  영상 생성에 실패했습니다. 잠시 후 다시 시도해 주세요.
-                </Text>
-              )}
-            </View>
-            {example3Video.playback === 'fallback' ? (
-              <Text size="sm" style={{ color: '#6b7280' }}>
-                {`생성 영상이 브라우저에서 재생되지 않아 대체 영상을 보여줍니다.${
-                  example3Video.reason ? ` (${example3Video.reason})` : ''
-                }`}
-              </Text>
-            ) : null}
-            {example3Video.status === 'error' ? (
-              <Button size="sm" action="secondary" onPress={() => void fetchExample3Video()}>
-                <ButtonText>영상 다시 생성</ButtonText>
-              </Button>
-            ) : null}
-          </>
-        ) : null}
         <Text size="md">
-          {highlightedStory.map((segment, index) => (
+          {highlightedText.map((segment, index) => (
             <Text key={`${segment.text}-${index}`} size="md" bold={segment.isMatch}>
               {segment.text}
             </Text>
           ))}
         </Text>
-        <Button
-          size="lg"
-          action="primary"
-          onPress={handleNext}
-          isDisabled={step === 3}
-        >
-          <ButtonText>예문 더보기</ButtonText>
-        </Button>
-        {step === 3 ? (
-          <Button size="lg" action="secondary" onPress={onReviewPress}>
-            <ButtonText>복습하기</ButtonText>
+        {step < 3 ? (
+          <Button
+            size="lg"
+            action="primary"
+            onPress={() => setStep((prev) => (prev + 1) as ExampleStep)}
+          >
+            <ButtonText>다음</ButtonText>
           </Button>
-        ) : null}
+        ) : (
+          <Button size="lg" action="secondary" onPress={onMeaningPress}>
+            <ButtonText>뜻 보러 가기</ButtonText>
+          </Button>
+        )}
       </VStack>
     </LearningFlowLayout>
   );

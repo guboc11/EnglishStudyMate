@@ -1,4 +1,4 @@
-export type ImagePageKey = 'example2' | 'example3' | 'review1' | 'review2' | 'review3';
+export type ImagePageKey = 'step2' | 'step3';
 
 export type GeneratedImageState = {
   status: 'idle' | 'loading' | 'ready' | 'error';

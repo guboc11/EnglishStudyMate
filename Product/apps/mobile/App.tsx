@@ -8,7 +8,6 @@ import { ExampleFlowScreen } from '@/screens/ExampleFlowScreen';
 import { HomeScreen } from '@/screens/HomeScreen';
 import { MeaningGateScreen } from '@/screens/MeaningGateScreen';
 import { MeaningScreen } from '@/screens/MeaningScreen';
-import { ReviewFlowScreen } from '@/screens/ReviewFlowScreen';
 import { SearchHistoryScreen } from '@/screens/SearchHistoryScreen';
 import {
   resolveAndGenerateLearning,
@@ -25,10 +24,6 @@ type RootStackParamList = {
     initialResult?: ResolveAndGenerateResult;
   };
   ExampleFlow: {
-    expression: string;
-    bundle: LearningBundle;
-  };
-  ReviewFlow: {
     expression: string;
     bundle: LearningBundle;
   };
@@ -112,24 +107,9 @@ export default function App() {
             {({ navigation, route }) => (
               <ExampleFlowScreen
                 onClose={() => navigation.popToTop()}
-                onReviewPress={() =>
-                  navigation.replace('ReviewFlow', {
-                    expression: route.params.expression,
-                    bundle: route.params.bundle,
-                  })
-                }
-                expression={route.params?.expression ?? 'take in'}
-                bundle={route.params.bundle}
-              />
-            )}
-          </Stack.Screen>
-          <Stack.Screen name="ReviewFlow">
-            {({ navigation, route }) => (
-              <ReviewFlowScreen
-                onClose={() => navigation.popToTop()}
-                onComplete={() =>
+                onMeaningPress={() =>
                   navigation.navigate('Meaning', {
-                    expression: route.params?.expression ?? 'take in',
+                    expression: route.params.expression,
                     bundle: route.params.bundle,
                   })
                 }

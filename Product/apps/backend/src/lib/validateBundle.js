@@ -1,5 +1,3 @@
-const { PAGE_KEYS } = require('./constants');
-
 const MAX_PAIR_SIMILARITY = 0.62;
 
 function sentenceCount(text) {
@@ -29,12 +27,6 @@ function jaccardSimilarity(a, b) {
   return union === 0 ? 0 : intersection / union;
 }
 
-function validatePageStory(story) {
-  const count = sentenceCount(story);
-  if (count < 3 || count > 4) return 'story_sentence_count_invalid';
-  return null;
-}
-
 function validateMeaning(bundle) {
   const meaning = bundle.meaning;
   if (!meaning) return 'meaning_missing';
@@ -57,25 +49,26 @@ function validateSelectionMeta(bundle) {
 }
 
 function validateLearningBundle(bundle) {
-  const stories = [];
+  // step1: exactly 1 sentence
+  const step1Sentence = String(bundle?.step1?.sentence || '').trim();
+  if (!step1Sentence) return { valid: false, reason: 'step1_sentence_missing' };
+  if (sentenceCount(step1Sentence) !== 1) return { valid: false, reason: 'step1_sentence_count_invalid' };
 
-  for (const key of PAGE_KEYS) {
-    const story = String(bundle?.[key]?.story || '').trim();
-    if (!story) return { valid: false, reason: `missing_story_${key}` };
+  // step2: exactly 2 sentences
+  const step2Story = String(bundle?.step2?.story || '').trim();
+  if (!step2Story) return { valid: false, reason: 'step2_story_missing' };
+  if (sentenceCount(step2Story) !== 2) return { valid: false, reason: 'step2_sentence_count_invalid' };
 
-    const pageIssue = validatePageStory(story);
-    if (pageIssue) return { valid: false, reason: `${pageIssue}_${key}` };
+  // step3: 3-4 sentences
+  const step3Story = String(bundle?.step3?.story || '').trim();
+  if (!step3Story) return { valid: false, reason: 'step3_story_missing' };
+  const step3Count = sentenceCount(step3Story);
+  if (step3Count < 3 || step3Count > 4) return { valid: false, reason: 'step3_sentence_count_invalid' };
 
-    stories.push(story);
-  }
-
-  for (let i = 0; i < stories.length; i += 1) {
-    for (let j = i + 1; j < stories.length; j += 1) {
-      const score = jaccardSimilarity(stories[i], stories[j]);
-      if (score > MAX_PAIR_SIMILARITY) {
-        return { valid: false, reason: 'stories_too_similar' };
-      }
-    }
+  // diversity check between step2 and step3
+  const score = jaccardSimilarity(step2Story, step3Story);
+  if (score > MAX_PAIR_SIMILARITY) {
+    return { valid: false, reason: 'stories_too_similar' };
   }
 
   const meaningIssue = validateMeaning(bundle);

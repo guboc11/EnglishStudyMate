@@ -1,19 +1,6 @@
 import type { DomainTag } from '@/types/selection';
 
-export type LearningPageKey =
-  | 'example1'
-  | 'example2'
-  | 'example3'
-  | 'review1'
-  | 'review2'
-  | 'review3';
-
-export type GeneratedPageContent = {
-  story: string;
-  topicTag: string;
-  moodTag: string;
-  usedExpressionVariants: string[];
-};
+export type LearningPageKey = 'step1' | 'step2' | 'step3';
 
 export type ExpressionMeaning = {
   literalMeaningKo: string;
@@ -26,12 +13,9 @@ export type ExpressionMeaning = {
 
 export type LearningBundle = {
   expression: string;
-  example1: GeneratedPageContent;
-  example2: GeneratedPageContent;
-  example3: GeneratedPageContent;
-  review1: GeneratedPageContent;
-  review2: GeneratedPageContent;
-  review3: GeneratedPageContent;
+  step1: { sentence: string };
+  step2: { story: string; imageUrl?: string };
+  step3: { story: string; imageUrl?: string; videoUrl?: string };
   meaning: ExpressionMeaning;
   selectionMeta: {
     selectedPhrase: string;

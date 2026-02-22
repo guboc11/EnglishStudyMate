@@ -9,7 +9,7 @@ function buildSlotLines(slots) {
 
 function buildBundlePrompt(params, slots) {
   return `
-You are creating learning stories for an English expression.
+You are creating progressive learning content for an English expression.
 
 Selected phrase: "${params.phrase}"
 Selected sense (Korean): "${params.senseLabelKo}"
@@ -18,12 +18,9 @@ Selected domain: "${params.domain}"
 Output only valid JSON with this exact shape:
 {
   "expression": "string",
-  "example1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-  "example2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-  "example3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-  "review1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-  "review2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-  "review3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+  "step1": { "sentence": "string" },
+  "step2": { "story": "string", "topicTag": "string", "moodTag": "string" },
+  "step3": { "story": "string", "topicTag": "string", "moodTag": "string" },
   "meaning": {
     "literalMeaningKo":"string",
     "realUsageKo":"string",
@@ -35,14 +32,15 @@ Output only valid JSON with this exact shape:
 }
 
 Hard rules:
-1) Every story must be 3 to 4 sentences, easy A2-B1 English.
-2) Every story must naturally include the selected phrase or its grammatical variation.
-3) Each page must use a clearly different context and situation from the others.
-4) Keep all stories anchored to the selected sense and domain.
-5) No title, no markdown, no explanation, JSON only.
-6) "meaning" fields must be Korean-centered explanations (except shortExampleEn).
-7) shortExampleEn must include the selected phrase or its natural variation.
-8) Each meaning field should be concise (1 to 2 sentences).
+1) step1.sentence: exactly 1 sentence; rich natural context; expression used naturally.
+2) step2.story: exactly 2 sentences; short story with a clear scene; different context from step1.
+3) step3.story: 3 to 4 sentences; richer story from yet another angle; different context from step2.
+4) All steps must anchor to the selected sense and domain.
+5) English level A2-B1 throughout.
+6) No title, no markdown, no explanation, JSON only.
+7) "meaning" fields must be Korean-centered explanations (except shortExampleEn).
+8) shortExampleEn must include the selected phrase or its natural variation.
+9) Each meaning field should be concise (1 to 2 sentences).
 
 Use these page slots for diversity:
 ${buildSlotLines(slots)}
@@ -89,12 +87,9 @@ Output JSON only in one of these shapes:
   },
   "bundle": {
     "expression": "string",
-    "example1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-    "example2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-    "example3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-    "review1": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-    "review2": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
-    "review3": {"story":"string","topicTag":"string","moodTag":"string","usedExpressionVariants":["string"]},
+    "step1": { "sentence": "string" },
+    "step2": { "story": "string", "topicTag": "string", "moodTag": "string" },
+    "step3": { "story": "string", "topicTag": "string", "moodTag": "string" },
     "meaning": {
       "literalMeaningKo":"string",
       "realUsageKo":"string",
@@ -111,9 +106,11 @@ Rules:
 - If sense is ambiguous, return needs_selection with 1-6 candidates.
 - If context clearly disambiguates, return ready.
 - In ready, bundle must follow the same quality rules:
-  - each story 3-4 sentences
-  - selected phrase variation included naturally
-  - contexts diverse across pages
+  - step1: exactly 1 sentence, rich context
+  - step2: exactly 2 sentences, short story
+  - step3: 3-4 sentences, richer story from a different angle
+  - selected phrase variation included naturally in each step
+  - contexts diverse across steps
   - selected sense/domain must stay consistent
   - meaning fields Korean-centered except shortExampleEn
 - No markdown, no explanation, JSON only.

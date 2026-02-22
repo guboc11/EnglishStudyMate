@@ -1,11 +1,4 @@
-const PAGE_KEYS = [
-  'example1',
-  'example2',
-  'example3',
-  'review1',
-  'review2',
-  'review3',
-];
+const PAGE_KEYS = ['step1', 'step2', 'step3'];
 
 module.exports = {
   PAGE_KEYS,

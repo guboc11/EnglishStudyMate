@@ -25,41 +25,18 @@ function getEndpoint() {
 function toLearningBundle(parsed, params) {
   return {
     expression: params.phrase,
-    example1: {
-      story: parsed?.example1?.story || '',
-      topicTag: parsed?.example1?.topicTag || '',
-      moodTag: parsed?.example1?.moodTag || '',
-      usedExpressionVariants: parsed?.example1?.usedExpressionVariants || [],
+    step1: {
+      sentence: parsed?.step1?.sentence || '',
     },
-    example2: {
-      story: parsed?.example2?.story || '',
-      topicTag: parsed?.example2?.topicTag || '',
-      moodTag: parsed?.example2?.moodTag || '',
-      usedExpressionVariants: parsed?.example2?.usedExpressionVariants || [],
+    step2: {
+      story: parsed?.step2?.story || '',
+      topicTag: parsed?.step2?.topicTag || '',
+      moodTag: parsed?.step2?.moodTag || '',
     },
-    example3: {
-      story: parsed?.example3?.story || '',
-      topicTag: parsed?.example3?.topicTag || '',
-      moodTag: parsed?.example3?.moodTag || '',
-      usedExpressionVariants: parsed?.example3?.usedExpressionVariants || [],
-    },
-    review1: {
-      story: parsed?.review1?.story || '',
-      topicTag: parsed?.review1?.topicTag || '',
-      moodTag: parsed?.review1?.moodTag || '',
-      usedExpressionVariants: parsed?.review1?.usedExpressionVariants || [],
-    },
-    review2: {
-      story: parsed?.review2?.story || '',
-      topicTag: parsed?.review2?.topicTag || '',
-      moodTag: parsed?.review2?.moodTag || '',
-      usedExpressionVariants: parsed?.review2?.usedExpressionVariants || [],
-    },
-    review3: {
-      story: parsed?.review3?.story || '',
-      topicTag: parsed?.review3?.topicTag || '',
-      moodTag: parsed?.review3?.moodTag || '',
-      usedExpressionVariants: parsed?.review3?.usedExpressionVariants || [],
+    step3: {
+      story: parsed?.step3?.story || '',
+      topicTag: parsed?.step3?.topicTag || '',
+      moodTag: parsed?.step3?.moodTag || '',
     },
     meaning: {
       literalMeaningKo: parsed?.meaning?.literalMeaningKo || '',

@@ -53,14 +53,7 @@ function shuffle<T>(items: T[]): T[] {
 }
 
 export function buildDiversitySlots(): Record<LearningPageKey, DiversitySlot> {
-  const keys: LearningPageKey[] = [
-    'example1',
-    'example2',
-    'example3',
-    'review1',
-    'review2',
-    'review3',
-  ];
+  const keys: LearningPageKey[] = ['step1', 'step2', 'step3'];
 
   const topics = shuffle(TOPIC_POOL);
   const moods = shuffle(MOOD_POOL);
