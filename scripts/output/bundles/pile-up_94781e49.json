@@ -1,0 +1,30 @@
+{
+  "id": "pile-up_94781e49",
+  "expression": "pile up",
+  "selectionMeta": {
+    "selectedPhrase": "pile up",
+    "selectedSenseLabelKo": "쌓이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you keep ignoring your emails, they will pile up quickly and become overwhelming."
+  },
+  "step2": {
+    "story": "After two weeks of vacation, Jake returned to his desk and found that unread reports had piled up into a towering stack. He sighed, grabbed a coffee, and started working through them one by one. By evening, the pile was finally gone, and he felt a wave of relief.",
+    "topicTag": "work overload",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "Mina had always been the organized one in her family, but after starting her new job, things began to change. Dirty dishes piled up in the sink, and unopened mail covered the kitchen table. Every evening she told herself she would catch up on the weekend, but the weekend never seemed long enough. One Saturday morning, she finally snapped and spent the entire day cleaning. As she scrubbed the last plate, she realized she needed a better routine. From that day on, she made it a rule to deal with small tasks immediately before they could pile up again.",
+    "topicTag": "daily routine",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "물건이나 일 등이 하나씩 위로 쌓여 올라가는 것을 의미합니다.",
+    "realUsageKo": "실제로는 해결하지 않고 방치한 일이나 물건이 점점 많아지는 상황에 자주 사용합니다. 'Work is piling up'처럼 업무가 밀려 있을 때 많이 씁니다.",
+    "etymologyKo": "'pile'은 라틴어 'pila(기둥, 더미)'에서 유래했으며, 'up'과 결합하여 위로 쌓아 올리는 동작을 나타내는 구동사가 되었습니다.",
+    "nuanceKo": "대개 부정적인 뉘앙스로, 감당하기 어려울 정도로 많아지는 느낌을 줍니다. 빚, 업무, 설거지 등 처리해야 할 것이 밀릴 때 주로 사용합니다.",
+    "shortExampleEn": "The bills are starting to pile up on the counter.",
+    "shortExampleKo": "청구서들이 카운터 위에 쌓이기 시작하고 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "buy-time_55149206",
+  "expression": "buy time",
+  "selectionMeta": {
+    "selectedPhrase": "buy time",
+    "selectedSenseLabelKo": "시간을 벌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to buy time until the backup team arrives, so keep the client talking."
+  },
+  "step2": {
+    "story": "The server crashed right before the product launch. Sarah quickly posted a 'maintenance update' on social media to buy time while the engineers fixed the issue. Thanks to her quick thinking, most users never noticed the downtime.",
+    "topicTag": "crisis management",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "Daniel's startup was running out of funding, and the investors wanted results by Friday. He knew the prototype wasn't ready, but giving up wasn't an option. He scheduled an impressive demo of the features they had completed to buy time for another two weeks. Meanwhile, his team worked around the clock to finish the remaining modules. The strategy paid off — the investors were impressed enough to extend the deadline. Sometimes, buying time is the smartest move you can make.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '시간을 산다'는 뜻으로, 돈을 주고 시간을 구매한다는 이미지입니다.",
+    "realUsageKo": "실제로는 어떤 일을 지연시키거나 임시 조치를 취해서 필요한 시간을 확보한다는 의미로 사용됩니다. 급한 상황에서 본질적인 해결책을 마련할 여유를 만들 때 주로 씁니다.",
+    "etymologyKo": "상업 거래에서 유래한 표현으로, 시간이라는 무형의 자원도 돈처럼 얻을 수 있다는 비유에서 발전했습니다.",
+    "nuanceKo": "긍정적·전략적 뉘앙스가 강합니다. 단순히 미루는 것이 아니라 목적을 갖고 시간을 확보하는 능동적 행위를 강조합니다.",
+    "shortExampleEn": "He asked extra questions just to buy time before the deadline.",
+    "shortExampleKo": "그는 마감 전에 시간을 벌기 위해 일부러 추가 질문을 했다."
+  }
+}

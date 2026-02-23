@@ -1,0 +1,30 @@
+{
+  "id": "play-down_8f62eda4",
+  "expression": "play down",
+  "selectionMeta": {
+    "selectedPhrase": "play down",
+    "selectedSenseLabelKo": "대수롭지 않게 여기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager tried to play down the seriousness of the data breach so the clients wouldn't panic."
+  },
+  "step2": {
+    "story": "When reporters asked about the budget shortfall, the mayor chose to play down the issue, calling it a minor adjustment. But behind closed doors, his staff scrambled to find a solution before the public caught on. The gap between his calm words and the frantic reality grew wider by the day.",
+    "topicTag": "public relations",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Jina had always been the type to play down her achievements, even when they were remarkable. When she won the national science competition, she told her friends it was just luck. Her mother noticed this pattern and sat her down one evening. She explained that constantly minimizing her own success could make others undervalue her too. Jina listened quietly, realizing she had been playing down her talents out of fear of standing out. From that day on, she practiced owning her accomplishments with quiet confidence.",
+    "topicTag": "self-worth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'play'(놀다/행동하다)와 'down'(아래로)이 합쳐져, 어떤 것을 아래로 끌어내리듯 축소하여 표현한다는 뜻입니다.",
+    "realUsageKo": "어떤 문제나 성과, 사건의 중요성을 실제보다 작게 말하거나 대수롭지 않은 것처럼 다룰 때 사용합니다. 의도적으로 축소하는 뉘앙스가 강합니다.",
+    "etymologyKo": "20세기 초 영어에서 등장한 표현으로, 연극(play)에서 역할을 축소(down)하듯 어떤 것의 비중을 줄인다는 비유에서 유래했습니다.",
+    "nuanceKo": "단순히 겸손한 것이 아니라, 전략적이거나 방어적으로 중요성을 깎아내리는 느낌이 있습니다. 긍정적 맥락(겸손)과 부정적 맥락(은폐) 모두에서 쓰입니다.",
+    "shortExampleEn": "She played down her role in the project, but everyone knew she was the key contributor.",
+    "shortExampleKo": "그녀는 프로젝트에서 자신의 역할을 대수롭지 않게 여겼지만, 모두가 그녀가 핵심 기여자라는 걸 알고 있었다."
+  }
+}

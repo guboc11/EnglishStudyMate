@@ -1,0 +1,30 @@
+{
+  "id": "pursue-a-goal_1df86a2b",
+  "expression": "pursue a goal",
+  "selectionMeta": {
+    "selectedPhrase": "pursue a goal",
+    "selectedSenseLabelKo": "목표를 추구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of working in finance, she decided to pursue a goal she had always dreamed of — becoming a wildlife photographer."
+  },
+  "step2": {
+    "story": "Marcus had spent ten years climbing the corporate ladder, but something always felt missing. One evening, he sat down and wrote out a plan to pursue a goal that truly mattered to him: opening a community center in his hometown. Within six months, he had quit his job and started raising funds.",
+    "topicTag": "life change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jina first told her family she wanted to pursue a goal of studying marine biology abroad, they were skeptical. She had grown up in a landlocked city and had never even seen the ocean in person. But Jina spent every evening after her factory shift studying English and saving money. She applied to twelve universities and got rejected by eleven. The twelfth, a small college on the coast of Oregon, offered her a partial scholarship. Standing on the beach for the first time, saltwater spraying her face, she realized that every sacrifice had been worth it.",
+    "topicTag": "education and dreams",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'pursue'는 '뒤쫓다, 추구하다'라는 뜻이고, 'a goal'은 '목표'이므로, 직역하면 '목표를 뒤쫓다/추구하다'입니다.",
+    "realUsageKo": "단순히 목표가 있다는 것이 아니라, 그 목표를 이루기 위해 적극적으로 노력하고 행동한다는 뉘앙스로 사용됩니다. 'have a goal'보다 훨씬 능동적이고 의지가 담긴 표현입니다.",
+    "etymologyKo": "'pursue'는 고대 프랑스어 'poursuir(뒤쫓다)'에서 유래했으며, 라틴어 'prosequi(앞으로 따라가다)'가 어원입니다. 원래 물리적으로 쫓아가는 것을 의미했지만, 현대 영어에서는 추상적인 목표나 꿈을 향해 나아가는 것으로 확장되었습니다.",
+    "nuanceKo": "격식 있고 진지한 느낌의 표현으로, 일상 대화보다는 면접, 에세이, 연설 등에서 자주 쓰입니다. 'chase a dream'보다 더 계획적이고 성숙한 어감을 줍니다.",
+    "shortExampleEn": "It takes courage to pursue a goal when everyone around you doubts your abilities.",
+    "shortExampleKo": "주변 모든 사람이 당신의 능력을 의심할 때 목표를 추구하는 것은 용기가 필요합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "generate-revenue_65c9b6e8",
+  "expression": "generate revenue",
+  "selectionMeta": {
+    "selectedPhrase": "generate revenue",
+    "selectedSenseLabelKo": "수익을 창출하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The marketing team launched a new campaign to generate revenue from their untapped overseas market."
+  },
+  "step2": {
+    "story": "After months of declining sales, the startup pivoted its business model to focus on subscription services. The new approach helped them generate revenue consistently, even during slow seasons. Within a quarter, the company was finally breaking even.",
+    "topicTag": "business strategy",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Nina had been running her small bakery for three years, but foot traffic alone wasn't enough to keep the lights on. She decided to partner with local cafés and office buildings to supply pastries wholesale. The move allowed her to generate revenue through multiple channels instead of relying on a single storefront. Her accountant was impressed when the quarterly numbers came in—profits had nearly doubled. Encouraged by the results, Nina began exploring an online ordering system as well. She realized that diversifying income streams was the key to long-term survival in a competitive market.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'generate'는 '만들어내다', 'revenue'는 '수익'으로, 직역하면 '수익을 만들어내다'입니다.",
+    "realUsageKo": "사업이나 프로젝트가 돈을 벌어들이는 것을 뜻합니다. 주로 기업, 조직, 또는 특정 활동이 수입을 창출하는 맥락에서 사용됩니다.",
+    "etymologyKo": "'generate'는 라틴어 'generare(낳다, 생산하다)'에서 유래했고, 'revenue'는 프랑스어 'revenu(돌아온 것)'에서 온 말로 원래 투자한 것이 돌아오는 수입을 의미합니다.",
+    "nuanceKo": "일상적인 '돈을 벌다(make money)'보다 격식 있고 비즈니스적인 톤입니다. 보고서, 회의, 투자 발표 등 전문적인 상황에서 자주 쓰입니다.",
+    "shortExampleEn": "We need to find new ways to generate revenue this fiscal year.",
+    "shortExampleKo": "우리는 이번 회계연도에 수익을 창출할 새로운 방법을 찾아야 합니다."
+  }
+}

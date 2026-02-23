@@ -1,0 +1,30 @@
+{
+  "id": "all-thumbs_ae5f2f3a",
+  "expression": "all thumbs",
+  "selectionMeta": {
+    "selectedPhrase": "all thumbs",
+    "selectedSenseLabelKo": "손재주가 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I tried to thread the needle, but I was all thumbs and kept missing the eye."
+  },
+  "step2": {
+    "story": "Jake volunteered to wrap the birthday presents, but he was all thumbs with the tape and scissors. Every gift ended up looking like a crumpled ball of wrapping paper. His sister finally took over, laughing at his hopeless attempts.",
+    "topicTag": "daily tasks",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Emma had always been all thumbs when it came to anything requiring fine motor skills. During her pottery class, while everyone else shaped elegant bowls, her clay kept collapsing into shapeless lumps. The instructor tried to guide her hands, but even with help, her fingers refused to cooperate. After three classes, she decided to switch to painting instead. Her best friend joked that at least with a big brush, there was less room for disaster. Emma laughed and admitted that some people are just born with ten thumbs instead of two.",
+    "topicTag": "hobbies",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "손가락이 전부 엄지인 것처럼 서투르다는 뜻입니다.",
+    "realUsageKo": "손재주가 없거나 세밀한 작업을 잘 못할 때 사용합니다. 자기 자신이나 다른 사람의 서투른 모습을 가볍게 표현할 때 자주 쓰입니다.",
+    "etymologyKo": "엄지손가락만 다섯 개라면 섬세한 작업이 불가능하다는 비유에서 유래했습니다. 16세기 영어에서부터 사용된 오래된 관용 표현입니다.",
+    "nuanceKo": "심각한 비난보다는 가볍고 유머러스한 뉘앙스로 사용됩니다. 자기 비하적으로 쓸 때가 많으며, 친근한 분위기에서 자주 등장합니다.",
+    "shortExampleEn": "Don't let me fix your phone — I'm all thumbs with tiny screws.",
+    "shortExampleKo": "내 폰 수리는 맡기지 마 — 나는 작은 나사 같은 건 정말 서툴러."
+  }
+}

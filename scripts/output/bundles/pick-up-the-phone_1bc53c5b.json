@@ -1,0 +1,30 @@
+{
+  "id": "pick-up-the-phone_1bc53c5b",
+  "expression": "pick up the phone",
+  "selectionMeta": {
+    "selectedPhrase": "pick up the phone",
+    "selectedSenseLabelKo": "전화를 받다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I heard the phone ringing in the kitchen, so I rushed over to pick up the phone before it went to voicemail."
+  },
+  "step2": {
+    "story": "Emily was cooking dinner when her phone started buzzing on the counter. She wiped her hands on a towel and hurried to pick up the phone. It was her mom calling to share some exciting news about her upcoming visit.",
+    "topicTag": "family connection",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Jake had been ignoring calls from unknown numbers all week. But on Friday evening, his phone rang again while he was watching TV. Something told him this time was different, so he decided to pick up the phone. On the other end was a recruiter from his dream company, offering him an interview. His heart raced as he grabbed a pen to write down the details. That one decision to answer changed the direction of his entire career.",
+    "topicTag": "unexpected opportunity",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "전화기를 들어 올리다라는 뜻으로, 물리적으로 수화기를 집어 드는 동작을 나타냅니다.",
+    "realUsageKo": "전화가 올 때 받는 행위를 뜻합니다. 또한 직접 전화를 걸 때도 'pick up the phone and call someone'처럼 사용합니다.",
+    "etymologyKo": "과거 유선전화 시절 수화기(receiver)를 거치대에서 들어 올려야(pick up) 통화가 시작되던 것에서 유래했습니다.",
+    "nuanceKo": "일상적이고 자연스러운 표현으로, 격식 없이 누구에게나 쓸 수 있습니다. 'Answer the phone'과 같은 뜻이지만 더 구어체적입니다.",
+    "shortExampleEn": "Can you pick up the phone? I think it's the delivery guy.",
+    "shortExampleKo": "전화 좀 받아줄래? 배달 기사인 것 같아."
+  }
+}

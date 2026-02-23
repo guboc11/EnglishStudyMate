@@ -1,0 +1,30 @@
+{
+  "id": "sort-out_3803231f",
+  "expression": "sort out",
+  "selectionMeta": {
+    "selectedPhrase": "sort out",
+    "selectedSenseLabelKo": "해결하다 / 정리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to sort out all these invoices before the end of the month."
+  },
+  "step2": {
+    "story": "Emma's desk was buried under a mountain of paperwork, receipts, and sticky notes. She took a deep breath and decided to sort out the mess once and for all. By lunchtime, everything was neatly filed and she finally felt in control again.",
+    "topicTag": "organization",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jake had been avoiding his overflowing email inbox for weeks, and it was starting to cause real problems at work. Important client messages were getting lost among hundreds of newsletters and spam. One rainy Sunday afternoon, he made himself a strong coffee and sat down to sort out the chaos. He created folders, set up filters, and replied to every urgent message he had missed. It took him nearly four hours, but when he finally closed his laptop, his inbox was down to zero. He promised himself he would never let things pile up like that again.",
+    "topicTag": "work productivity",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'sort(분류하다)'와 'out(밖으로/완전히)'가 합쳐져 '완전히 분류해내다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 단순한 분류뿐 아니라 '문제를 해결하다', '혼란스러운 상황을 정리하다'라는 의미로 폭넓게 쓰입니다. 일상 대화에서 매우 자주 사용되는 표현입니다.",
+    "etymologyKo": "'sort'는 라틴어 'sors(제비, 운명)'에서 유래했으며, 중세 영어에서 '종류별로 나누다'라는 뜻으로 발전했습니다. 'out'이 붙어 '완전히 해결하다'라는 뉘앙스가 더해졌습니다.",
+    "nuanceKo": "격식체보다는 일상 대화에서 자연스럽게 쓰이며, 'resolve'나 'organize'보다 캐주얼한 느낌입니다. 영국 영어에서 특히 자주 사용됩니다.",
+    "shortExampleEn": "Don't worry, I'll sort it out by tomorrow.",
+    "shortExampleKo": "걱정 마, 내일까지 내가 해결해 놓을게."
+  }
+}

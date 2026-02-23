@@ -1,0 +1,30 @@
+{
+  "id": "fight-fire-with-fire_22bfd415",
+  "expression": "fight fire with fire",
+  "selectionMeta": {
+    "selectedPhrase": "fight fire with fire",
+    "selectedSenseLabelKo": "맞불을 놓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the rival company launched a smear campaign, our CEO decided to fight fire with fire and released our own aggressive ad."
+  },
+  "step2": {
+    "story": "Marcus had always been the quiet type at work, letting his results speak for themselves. But when a jealous colleague started spreading rumors about him to management, Marcus decided to fight fire with fire — he gathered proof of his accomplishments and presented them directly to the board. Sometimes, matching aggression with confidence is the only way to survive office politics.",
+    "topicTag": "office politics",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena's small bakery had been thriving for years until a large chain opened right across the street, offering steep discounts and flashy promotions. At first, she tried to ignore the competition, hoping her loyal customers would stay. But week after week, she watched foot traffic decline. Her daughter suggested they fight fire with fire — so Elena launched a social media campaign highlighting her handmade recipes and local ingredients. She offered tasting events every weekend and partnered with nearby cafés for cross-promotions. Within two months, the bakery was busier than ever, proving that bold action could overcome even the toughest competition.",
+    "topicTag": "small business competition",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "불을 불로 맞서 싸운다는 뜻입니다.",
+    "realUsageKo": "상대방이 공격적이거나 부당한 수단을 사용할 때, 같은 방식으로 대응한다는 의미로 쓰입니다. 방어적으로 가만히 있지 않고 적극적으로 맞대응할 때 자주 사용합니다.",
+    "etymologyKo": "산불 진화 시 의도적으로 맞불을 놓아 연료를 제거하는 실제 소방 기법에서 유래했습니다. 셰익스피어의 작품에서도 비유적으로 사용된 기록이 있습니다.",
+    "nuanceKo": "약간 공격적이고 전투적인 뉘앙스가 있습니다. 정당방위처럼 '어쩔 수 없이 같은 방법으로 대응한다'는 느낌이며, 긍정적으로도 부정적으로도 쓸 수 있습니다.",
+    "shortExampleEn": "If they're going to play dirty, we'll just have to fight fire with fire.",
+    "shortExampleKo": "그들이 비열하게 나온다면, 우리도 맞불을 놓을 수밖에 없어."
+  }
+}

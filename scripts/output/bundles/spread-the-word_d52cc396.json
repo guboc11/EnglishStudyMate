@@ -1,0 +1,30 @@
+{
+  "id": "spread-the-word_d52cc396",
+  "expression": "spread the word",
+  "selectionMeta": {
+    "selectedPhrase": "spread the word",
+    "selectedSenseLabelKo": "소식을 퍼뜨리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to spread the word about the charity event before tickets run out."
+  },
+  "step2": {
+    "story": "Mina discovered a small bakery tucked away in a quiet alley that made the most incredible sourdough bread. She told every coworker and posted about it online to spread the word. Within a week, the bakery had a line out the door every morning.",
+    "topicTag": "community support",
+    "moodTag": "enthusiastic"
+  },
+  "step3": {
+    "story": "When the local animal shelter announced it would have to close due to lack of funding, volunteer coordinator Jaeho refused to let it happen. He organized a social media campaign and asked everyone he knew to spread the word about the shelter's situation. Friends shared the posts, local news picked up the story, and donations began pouring in from across the city. Within just ten days, the shelter had raised enough money to stay open for another full year. Jaeho learned that sometimes all it takes is one person willing to speak up and a community ready to listen. The shelter even adopted a new motto: 'Every voice counts.'",
+    "topicTag": "community action",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "말(word)을 퍼뜨리다(spread)라는 뜻으로, 정보나 소식을 널리 알린다는 의미입니다.",
+    "realUsageKo": "어떤 소식, 정보, 이벤트 등을 주변 사람들에게 널리 알려달라고 부탁하거나, 자발적으로 홍보할 때 사용합니다. '입소문을 내다', '소문을 퍼뜨리다'와 비슷합니다.",
+    "etymologyKo": "중세 영어에서 'word'는 소식이나 메시지를 뜻했고, 'spread'는 넓게 펼친다는 의미로, 소식을 사방으로 전파한다는 이미지에서 유래했습니다.",
+    "nuanceKo": "긍정적인 맥락에서 주로 사용되며, 좋은 소식이나 중요한 정보를 알리는 느낌입니다. 부정적인 소문을 퍼뜨릴 때는 잘 쓰지 않습니다.",
+    "shortExampleEn": "Help us spread the word about the free coding workshop this Saturday.",
+    "shortExampleKo": "이번 토요일 무료 코딩 워크숍 소식을 주변에 알려주세요."
+  }
+}

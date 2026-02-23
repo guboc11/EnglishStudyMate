@@ -1,0 +1,30 @@
+{
+  "id": "maintain-focus_0d62b889",
+  "expression": "maintain focus",
+  "selectionMeta": {
+    "selectedPhrase": "maintain focus",
+    "selectedSenseLabelKo": "집중력을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the constant noise from the construction site next door, she managed to maintain focus on her final exam preparation."
+  },
+  "step2": {
+    "story": "The open-plan office buzzed with chatter and ringing phones, but Jiwon put on her noise-canceling headphones and forced herself to maintain focus on the quarterly report. By noon, she had finished the entire draft while her coworkers were still distracted. Her manager noticed and praised her ability to stay locked in under pressure.",
+    "topicTag": "work productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Minho had been studying for the bar exam for over six months, and the final week before the test was the hardest. His phone kept lighting up with messages from friends going out for the weekend. The café was packed with loud conversations, and his eyelids felt heavier with every passing hour. Still, he reminded himself why he had started this journey and pushed himself to maintain focus on the practice questions in front of him. When the exam day arrived, he walked into the hall feeling calm and prepared. All those moments of resisting distractions had paid off — he passed on his first attempt.",
+    "topicTag": "exam preparation",
+    "moodTag": "persevering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'집중(focus)을 유지하다(maintain)'라는 뜻으로, 주의력을 흐트러뜨리지 않고 계속 한 가지에 집중하는 것을 의미합니다.",
+    "realUsageKo": "방해 요소가 있는 상황에서도 하던 일에 계속 집중한다는 뉘앙스로 자주 사용됩니다. 공부, 업무, 운동 등 목표 지향적인 활동에서 흔히 쓰입니다.",
+    "etymologyKo": "'maintain'은 라틴어 'manu tenere(손으로 잡다)'에서 유래했고, 'focus'는 라틴어로 '화덕, 중심점'을 뜻합니다. 두 단어가 합쳐져 '중심점을 놓지 않고 잡고 있다'는 의미가 됩니다.",
+    "nuanceKo": "'keep focus'보다 약간 더 격식 있고 의지적인 느낌을 줍니다. 단순히 집중하는 것이 아니라, 의식적으로 노력해서 집중 상태를 이어간다는 뉘앙스가 있습니다.",
+    "shortExampleEn": "It's hard to maintain focus when you're running on three hours of sleep.",
+    "shortExampleKo": "세 시간밖에 못 잤을 때 집중력을 유지하기란 쉽지 않다."
+  }
+}

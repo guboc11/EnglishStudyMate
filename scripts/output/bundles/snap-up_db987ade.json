@@ -1,0 +1,30 @@
+{
+  "id": "snap-up_db987ade",
+  "expression": "snap up",
+  "selectionMeta": {
+    "selectedPhrase": "snap up",
+    "selectedSenseLabelKo": "낚아채다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The limited-edition sneakers were snapped up within minutes of going on sale."
+  },
+  "step2": {
+    "story": "When the company announced it was closing down, a rival firm quickly snapped up their best engineers. Within a week, the entire R&D team had new contracts. It was the fastest talent acquisition anyone in the industry had ever seen.",
+    "topicTag": "business competition",
+    "moodTag": "opportunistic"
+  },
+  "step3": {
+    "story": "Maya had been eyeing the vintage leather jacket at the thrift store for weeks, but she kept hesitating over the price. One Saturday morning, she finally decided to buy it, only to find it was gone. Another shopper had snapped it up just an hour earlier. Devastated, she vowed never to wait again when she found something she truly wanted. The next weekend, she spotted a rare vinyl record at a flea market and snapped it up without a second thought. Walking home with her prize, she smiled, knowing she had learned her lesson.",
+    "topicTag": "seizing opportunities",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'snap'은 딱 소리를 내며 빠르게 잡는 동작이고, 'up'은 완전히 가져간다는 의미를 더해, 무언가를 재빨리 낚아채듯 사는 것을 뜻합니다.",
+    "realUsageKo": "좋은 물건이나 기회를 남들보다 빠르게 차지할 때 사용합니다. 주로 세일 상품, 부동산, 인재 채용 등 경쟁이 있는 상황에서 '재빨리 사다/차지하다'라는 뜻으로 쓰입니다.",
+    "etymologyKo": "'snap'은 원래 개가 먹이를 덥석 무는 동작에서 유래했습니다. 16세기부터 '빠르게 잡다'라는 의미로 확장되어, 'snap up'은 기회나 물건을 놓치지 않고 재빨리 차지하는 행위를 묘사하게 되었습니다.",
+    "nuanceKo": "긍정적이고 적극적인 뉘앙스를 가집니다. 좋은 기회를 빠르게 잡는 똑똑한 행동이라는 느낌이 강하며, 약간의 경쟁적 긴장감도 담겨 있습니다.",
+    "shortExampleEn": "Shoppers snapped up all the bargains before noon.",
+    "shortExampleKo": "쇼핑객들이 정오가 되기 전에 모든 할인 상품을 낚아챘다."
+  }
+}

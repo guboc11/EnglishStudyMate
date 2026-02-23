@@ -1,0 +1,30 @@
+{
+  "id": "all-ears_bdf7629a",
+  "expression": "all ears",
+  "selectionMeta": {
+    "selectedPhrase": "all ears",
+    "selectedSenseLabelKo": "귀 기울여 듣다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Go ahead and tell me what happened — I'm all ears."
+  },
+  "step2": {
+    "story": "My best friend called me late at night, sounding upset. I told her I was all ears and ready to listen. She spent an hour sharing everything, and by the end, she felt much better.",
+    "topicTag": "friendship",
+    "moodTag": "supportive"
+  },
+  "step3": {
+    "story": "During the team meeting, our manager announced a major restructuring plan. Everyone looked nervous, whispering to each other about what it could mean. When the manager asked if anyone had questions, the room fell silent. Finally, Jake raised his hand and said he was all ears if the manager could explain how the changes would affect their department. The manager smiled and spent the next thirty minutes walking them through every detail. By the end, the whole team felt relieved and ready to move forward.",
+    "topicTag": "workplace communication",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '온통 귀'라는 뜻으로, 온 몸이 귀가 된 것처럼 집중해서 듣는 모습을 표현합니다.",
+    "realUsageKo": "상대방의 이야기를 적극적으로, 집중해서 들을 준비가 되어 있다는 뜻으로 사용됩니다. '말해 봐, 다 듣고 있어'라는 느낌입니다.",
+    "etymologyKo": "18세기 영어에서 유래한 표현으로, 누군가의 말에 온전히 주의를 기울이는 모습을 귀가 온 몸을 차지한 것에 비유한 것입니다.",
+    "nuanceKo": "친근하고 따뜻한 톤의 표현으로, 격식 없는 대화에서 주로 사용됩니다. 상대방에게 안심하고 이야기해도 된다는 신호를 줄 때 자주 씁니다.",
+    "shortExampleEn": "If you need someone to talk to, I'm all ears.",
+    "shortExampleKo": "이야기할 사람이 필요하면, 내가 다 들어줄게."
+  }
+}

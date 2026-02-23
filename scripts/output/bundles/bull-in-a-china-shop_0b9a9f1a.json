@@ -1,0 +1,30 @@
+{
+  "id": "bull-in-a-china-shop_0b9a9f1a",
+  "expression": "bull in a china shop",
+  "selectionMeta": {
+    "selectedPhrase": "bull in a china shop",
+    "selectedSenseLabelKo": "부주의한 사람",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My brother is like a bull in a china shop whenever he tries to help in the kitchen — he's already broken three plates this month."
+  },
+  "step2": {
+    "story": "Tom volunteered to help set up the art exhibition, but he knocked over two sculptures within the first ten minutes. The curator whispered to her assistant, \"He's a real bull in a china shop.\" After that, they politely asked Tom to handle the outdoor signage instead.",
+    "topicTag": "social awkwardness",
+    "moodTag": "humorous"
+  },
+  "step3": {
+    "story": "Rachel had always been confident and direct, which served her well in sales but not so much in delicate situations. When her best friend asked for advice about a struggling marriage, Rachel blurted out every harsh truth she could think of without pausing to consider her friend's feelings. Her friend burst into tears and left the café without finishing her coffee. Later that evening, Rachel's husband gently told her she had been like a bull in a china shop. She realized that sometimes people don't need brutal honesty — they need someone who listens first. The next morning, she called her friend to apologize and simply asked, \"How are you really feeling?\"",
+    "topicTag": "friendship",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "도자기 가게에 들어간 황소라는 뜻으로, 좁고 섬세한 공간에서 거대한 동물이 난동을 부리는 모습을 묘사합니다.",
+    "realUsageKo": "상황이나 감정을 섬세하게 다루지 못하고 거칠거나 부주의하게 행동하는 사람을 묘사할 때 사용합니다. 물리적인 서투름뿐 아니라 말이나 태도가 무신경한 경우에도 쓰입니다.",
+    "etymologyKo": "17세기 영국에서 유래한 표현으로, 실제로 도자기 가게에 소가 들어가면 벌어질 혼란을 상상한 비유에서 나왔습니다. 1834년 Frederick Marryat의 소설에서 처음 문헌에 등장했습니다.",
+    "nuanceKo": "부정적이지만 심각하기보다는 가벼운 비판이나 유머러스한 어감으로 자주 사용됩니다. 악의보다는 서투름이나 무신경함을 지적할 때 씁니다.",
+    "shortExampleEn": "Be careful with the negotiations — don't go in there like a bull in a china shop.",
+    "shortExampleKo": "협상할 때 조심해 — 거기 가서 부주의하게 굴지 마."
+  }
+}

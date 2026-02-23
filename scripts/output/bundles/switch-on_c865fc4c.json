@@ -1,0 +1,30 @@
+{
+  "id": "switch-on_c865fc4c",
+  "expression": "switch on",
+  "selectionMeta": {
+    "selectedPhrase": "switch on",
+    "selectedSenseLabelKo": "켜다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Could you switch on the living room light? It's getting dark in here."
+  },
+  "step2": {
+    "story": "The power had been out all afternoon, and Maya sat in the dim kitchen reading by candlelight. When the electricity finally came back, she rushed to switch on every lamp in the house. The sudden brightness made her squint, but she laughed with relief.",
+    "topicTag": "daily routine",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jake stumbled into his new apartment after a fourteen-hour moving day, boxes stacked everywhere and furniture still wrapped in plastic. He fumbled along the unfamiliar wall until his fingers found the panel. He managed to switch on the overhead light, and the bare room flickered to life. A sleeping bag lay unrolled in the center of the floor—his bed for the night. He plugged in the portable speaker and let soft jazz fill the empty space. Standing there among the chaos, he smiled; this place already felt like it could become home.",
+    "topicTag": "new beginnings",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "스위치를 올려서 작동 상태로 전환하다라는 뜻입니다.",
+    "realUsageKo": "전자기기, 조명, 기계 등을 켤 때 사용합니다. 'turn on'과 거의 같은 의미이지만, 물리적 스위치가 있는 기기에 더 자주 쓰입니다.",
+    "etymologyKo": "'switch'는 원래 '가느다란 막대기'를 뜻하는 단어에서 유래했고, 전기 스위치를 조작하는 동작으로 의미가 확장되었습니다. 'on'은 작동 상태를 나타냅니다.",
+    "nuanceKo": "일상적이고 중립적인 표현입니다. 영국 영어에서 특히 자주 쓰이며, 미국 영어에서는 'turn on'을 더 선호하는 경향이 있습니다.",
+    "shortExampleEn": "Don't forget to switch on the heater before you go to bed.",
+    "shortExampleKo": "자기 전에 히터 켜는 거 잊지 마."
+  }
+}

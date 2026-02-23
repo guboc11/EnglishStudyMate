@@ -1,0 +1,30 @@
+{
+  "id": "fall-asleep_671dac0d",
+  "expression": "fall asleep",
+  "selectionMeta": {
+    "selectedPhrase": "fall asleep",
+    "selectedSenseLabelKo": "잠들다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I was so exhausted after the hike that I fell asleep on the couch before dinner."
+  },
+  "step2": {
+    "story": "Mina had been studying for her finals all week. On Friday night, she sat down to watch a movie with her roommate but fell asleep within the first ten minutes. Her roommate smiled and draped a blanket over her.",
+    "topicTag": "student life",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "After three days of back-to-back meetings and late-night report writing, Joon finally wrapped up his quarterly presentation. He dragged himself home, heated up some leftover soup, and collapsed onto the sofa. He meant to call his mom, but his phone slipped from his hand as he fell asleep mid-thought. When he woke up at 3 a.m., the TV was still on and his soup sat untouched on the table. He chuckled to himself, turned everything off, and crawled into bed properly. Sometimes the body just decides it's had enough.",
+    "topicTag": "work exhaustion",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'fall(떨어지다) + asleep(잠든 상태)'로, 잠든 상태로 빠져드는 것을 의미합니다.",
+    "realUsageKo": "의도하지 않게 잠이 드는 상황에서 자주 쓰입니다. 'go to sleep'이 의도적으로 잠자리에 드는 것이라면, 'fall asleep'은 피곤하거나 지루해서 자기도 모르게 잠들어 버리는 느낌이 강합니다.",
+    "etymologyKo": "'fall'은 고대 영어 'feallan(떨어지다)'에서 유래했으며, 의식이 깨어 있는 상태에서 잠이라는 상태로 '빠져든다'는 비유적 표현입니다.",
+    "nuanceKo": "일상 대화에서 매우 자연스럽고 빈도 높은 표현입니다. 격식체/비격식체 모두 자유롭게 사용되며, 부정적 뉘앙스 없이 중립적입니다.",
+    "shortExampleEn": "The baby fell asleep in my arms.",
+    "shortExampleKo": "아기가 내 품에서 잠들었다."
+  }
+}

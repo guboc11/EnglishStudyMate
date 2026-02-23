@@ -1,0 +1,30 @@
+{
+  "id": "fill-up_87fd0910",
+  "expression": "fill up",
+  "selectionMeta": {
+    "selectedPhrase": "fill up",
+    "selectedSenseLabelKo": "가득 채우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to fill up the car with gas before the road trip."
+  },
+  "step2": {
+    "story": "Jenny stopped at a gas station on her way to the mountains. She needed to fill up the tank because the fuel gauge was nearly on empty. With a full tank, she felt ready for the long drive ahead.",
+    "topicTag": "road trip",
+    "moodTag": "prepared"
+  },
+  "step3": {
+    "story": "Mark had been driving for hours through the countryside when his dashboard warning light flickered on. He pulled into a small roadside gas station and asked the attendant to fill up the tank. While waiting, he grabbed a coffee and a sandwich from the tiny shop next door. The attendant smiled and said the tank was completely full. Mark paid, climbed back into his car, and felt a wave of relief knowing he had enough fuel to reach his grandmother's house before sunset.",
+    "topicTag": "travel",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'fill'(채우다)과 'up'(위로/완전히)이 결합하여 '가득 채우다'라는 뜻입니다.",
+    "realUsageKo": "주유소에서 기름을 가득 넣을 때 가장 흔히 쓰이며, 컵이나 그릇 등을 가득 채울 때도 널리 사용합니다. 음식으로 배를 채운다는 의미로도 자주 쓰입니다.",
+    "etymologyKo": "'fill'은 고대 영어 'fyllan'에서 유래했으며, 'up'은 동작의 완료를 강조하는 부사로 쓰여 '완전히 채우다'라는 의미를 만듭니다.",
+    "nuanceKo": "일상적이고 친근한 표현으로, 격식 없는 대화에서 자연스럽게 사용됩니다. 'fill'만 써도 되지만 'up'을 붙이면 '완전히, 끝까지'라는 느낌이 강해집니다.",
+    "shortExampleEn": "Can you fill up my glass with water, please?",
+    "shortExampleKo": "제 컵에 물 좀 가득 채워 주시겠어요?"
+  }
+}

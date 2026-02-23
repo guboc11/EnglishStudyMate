@@ -1,0 +1,30 @@
+{
+  "id": "nothing-to-write-home-about_33869260",
+  "expression": "nothing to write home about",
+  "selectionMeta": {
+    "selectedPhrase": "nothing to write home about",
+    "selectedSenseLabelKo": "특별할 것 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The hotel was clean but nothing to write home about — just a basic room with a bed and a desk."
+  },
+  "step2": {
+    "story": "Jake tried the new Italian restaurant everyone had been raving about. The pasta was decent and the service was fine, but honestly, the whole experience was nothing to write home about. He decided he'd stick with his usual spot down the street.",
+    "topicTag": "food and dining",
+    "moodTag": "underwhelmed"
+  },
+  "step3": {
+    "story": "Mia had been looking forward to her weekend getaway for months. She booked a seaside hotel that looked stunning in the photos online. When she arrived, the lobby was plain, the room smelled faintly of cleaning products, and the so-called ocean view was blocked by a parking garage. The beach itself was narrow and crowded with tourists. She sat on a plastic chair, sipping lukewarm coffee, and texted her friend: 'Honestly, this place is nothing to write home about.' Next time, she would do more research before booking.",
+    "topicTag": "travel disappointment",
+    "moodTag": "resigned"
+  },
+  "meaning": {
+    "literalMeaningKo": "집에 편지를 써서 알릴 만한 것이 없다는 뜻입니다.",
+    "realUsageKo": "어떤 것이 평범하거나 특별하지 않아서 굳이 언급할 가치가 없을 때 사용합니다. 기대에 못 미치거나 그저 그런 경험을 표현할 때 자주 씁니다.",
+    "etymologyKo": "옛날 여행 중에 가족에게 편지를 보내던 시절, 정말 인상적인 일이 있어야 편지를 썼던 관습에서 유래했습니다.",
+    "nuanceKo": "부정적이라기보다는 '그냥 평범하다'는 가벼운 실망감을 담은 표현입니다. 격식 없는 일상 대화에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "The movie was nothing to write home about, so I wouldn't recommend it.",
+    "shortExampleKo": "그 영화는 특별할 것 없어서 추천하지 않을 거야."
+  }
+}

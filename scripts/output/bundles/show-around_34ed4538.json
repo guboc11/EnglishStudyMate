@@ -1,0 +1,30 @@
+{
+  "id": "show-around_34ed4538",
+  "expression": "show around",
+  "selectionMeta": {
+    "selectedPhrase": "show around",
+    "selectedSenseLabelKo": "안내하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me show you around the office before your first meeting."
+  },
+  "step2": {
+    "story": "On her first day at the new company, Sarah felt nervous standing in the lobby. A friendly colleague named James walked up and offered to show her around the entire building. By the time the tour ended, she already felt like she belonged there.",
+    "topicTag": "new beginnings",
+    "moodTag": "welcoming"
+  },
+  "step3": {
+    "story": "When my cousin visited Seoul for the first time, I took a whole week off work to show him around the city. We started with the bustling streets of Myeongdong, where the neon signs and street food stalls amazed him. I showed him around Gyeongbokgung Palace, explaining the history behind every gate and courtyard. On the last day, we wandered through the narrow alleys of Bukchon Hanok Village, and he said it was the highlight of his trip. He told me that having someone show him around made the experience completely different from traveling alone. I realized then that being a good guide is really about sharing the places you love with someone who matters.",
+    "topicTag": "travel and hospitality",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "'보여주다(show)' + '주변을(around)' — 누군가에게 주변 장소를 직접 보여주며 이동하는 것을 뜻합니다.",
+    "realUsageKo": "새로운 장소에 온 사람을 데리고 다니며 이곳저곳을 안내해 줄 때 사용합니다. 회사, 학교, 도시, 집 등 다양한 장소에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'show'는 고대 영어 'scēawian(보다, 관찰하다)'에서 유래했고, 'around'와 결합하여 '주변을 두루 보여주다'라는 구동사가 되었습니다.",
+    "nuanceKo": "격식·비격식 모두 자연스럽게 쓰이며, 친절하고 환대하는 느낌을 줍니다. 'give a tour'보다 일상적이고 따뜻한 뉘앙스입니다.",
+    "shortExampleEn": "I'd be happy to show you around the campus after lunch.",
+    "shortExampleKo": "점심 후에 캠퍼스를 안내해 드릴게요."
+  }
+}

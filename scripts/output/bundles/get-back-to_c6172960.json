@@ -1,0 +1,30 @@
+{
+  "id": "get-back-to_c6172960",
+  "expression": "get back to",
+  "selectionMeta": {
+    "selectedPhrase": "get back to",
+    "selectedSenseLabelKo": "다시 연락하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I'll get back to you once I've confirmed the meeting time with my manager."
+  },
+  "step2": {
+    "story": "Sarah received an unexpected job offer while she was at lunch. She told the recruiter she needed a day to think it over and promised to get back to them by Friday. That evening, she weighed the pros and cons carefully before making her decision.",
+    "topicTag": "career decision",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "David had been waiting all week for a response from the apartment landlord. Every morning he checked his phone, hoping for a message. On Thursday, he finally decided to call and ask directly. The landlord apologized and said he had been swamped with work but would get back to him by the end of the day. True to his word, the landlord called that evening with good news — the apartment was his. David felt a wave of relief wash over him as he started planning his move.",
+    "topicTag": "housing search",
+    "moodTag": "anxious then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'돌아가서 ~에게 다시 가다'라는 뜻으로, 누군가에게 나중에 다시 연락하겠다는 의미입니다.",
+    "realUsageKo": "답변이나 결정이 필요할 때 '나중에 다시 연락하겠다'는 뜻으로 사용합니다. 비즈니스 이메일이나 일상 대화에서 모두 자주 쓰이는 표현입니다.",
+    "etymologyKo": "'get back'은 '되돌아가다'라는 의미의 구동사이고, 여기에 'to(~에게)'가 붙어 '누군가에게 다시 돌아가서 연락하다'라는 뜻이 되었습니다.",
+    "nuanceKo": "정중하면서도 자연스러운 표현으로, 즉답을 피하면서 나중에 확인 후 연락하겠다는 뉘앙스를 줍니다. 격식과 비격식 모두에서 사용 가능합니다.",
+    "shortExampleEn": "Let me check the schedule and get back to you tomorrow.",
+    "shortExampleKo": "일정을 확인하고 내일 다시 연락드릴게요."
+  }
+}

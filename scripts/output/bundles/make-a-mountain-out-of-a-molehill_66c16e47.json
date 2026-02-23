@@ -1,0 +1,30 @@
+{
+  "id": "make-a-mountain-out-of-a-molehill_66c16e47",
+  "expression": "make a mountain out of a molehill",
+  "selectionMeta": {
+    "selectedPhrase": "make a mountain out of a molehill",
+    "selectedSenseLabelKo": "침소봉대하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You're making a mountain out of a molehill — it was just a small typo in the email, not a career-ending mistake."
+  },
+  "step2": {
+    "story": "Jake spent the entire evening panicking because he accidentally sent a meeting invite for the wrong time. His coworker Sarah laughed and said, \"You're making a mountain out of a molehill — just send a quick correction and nobody will even remember.\" Jake took a deep breath, fixed the invite in two clicks, and realized she was right.",
+    "topicTag": "workplace anxiety",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "When Mia noticed a tiny scratch on her brand-new laptop, she immediately called customer support demanding a full replacement. She spent forty-five minutes on hold, wrote a lengthy complaint email, and even considered returning the entire device. Her roommate finally walked over, squinted at the barely visible mark, and said, \"Mia, you're making a mountain out of a molehill.\" Mia looked at the scratch again under normal lighting and could hardly even see it. She hung up the phone, laughed at herself, and decided to put a sticker over the spot instead. Sometimes the simplest solutions are the best ones.",
+    "topicTag": "perfectionism",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "두더지가 파놓은 작은 흙더미를 산으로 만든다는 뜻입니다.",
+    "realUsageKo": "사소한 문제를 지나치게 과장하거나 크게 부풀릴 때 사용합니다. 누군가가 별것 아닌 일에 호들갑을 떨 때 \"침소봉대하지 마\"라는 의미로 자주 쓰입니다.",
+    "etymologyKo": "16세기 영국에서 유래한 표현으로, 두더지가 땅을 팔 때 만드는 작은 흙무더기(molehill)를 거대한 산(mountain)에 비유한 것입니다. 1548년 니콜라스 우달의 글에서 최초로 기록되었습니다.",
+    "nuanceKo": "상대방의 과잉 반응을 지적할 때 쓰이며, 약간의 핀잔이나 충고의 뉘앙스가 있습니다. 친한 사이에서는 가볍게 쓰이지만, 격식 있는 상황에서는 다소 직설적으로 들릴 수 있습니다.",
+    "shortExampleEn": "Don't make a mountain out of a molehill — the deadline was only pushed back by one day.",
+    "shortExampleKo": "침소봉대하지 마 — 마감이 하루 늦춰진 것뿐이야."
+  }
+}

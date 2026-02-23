@@ -1,0 +1,30 @@
+{
+  "id": "seek-balance_6c0358b1",
+  "expression": "seek balance",
+  "selectionMeta": {
+    "selectedPhrase": "seek balance",
+    "selectedSenseLabelKo": "균형을 추구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of working overtime, she decided to seek balance between her career and personal life."
+  },
+  "step2": {
+    "story": "James had been pouring every waking hour into his startup for two years straight. When his doctor warned him about dangerously high blood pressure, he realized he needed to seek balance before it was too late. He started blocking off evenings for family dinners and weekend hikes.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mina was the top performer at her law firm, but she couldn't remember the last time she'd slept more than five hours. Her friends had stopped inviting her out because she always cancelled. One rainy Sunday, she sat alone in her apartment staring at a wall of case files and felt something crack inside her. She called her mentor, who told her bluntly: 'You need to seek balance, or this career will consume everything you love.' That week, Mina enrolled in a pottery class and committed to leaving the office by seven. It wasn't easy, but slowly she began to feel like herself again.",
+    "topicTag": "burnout recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'균형을 찾다/추구하다'라는 뜻으로, 삶의 여러 영역 사이에서 조화를 이루려고 노력하는 것을 의미합니다.",
+    "realUsageKo": "일과 삶, 건강과 성과, 감정과 이성 등 상충하는 요소들 사이에서 적절한 중간 지점을 찾으려 할 때 사용합니다. 특히 한쪽에 치우쳐 있던 사람이 의식적으로 균형을 잡으려는 상황에서 자주 쓰입니다.",
+    "etymologyKo": "'seek'는 고대 영어 'sēcan(찾다, 추구하다)'에서, 'balance'는 라틴어 'bilanx(두 개의 접시가 달린 저울)'에서 유래했습니다. 저울의 양쪽이 수평을 이루는 상태를 능동적으로 추구한다는 의미가 결합된 표현입니다.",
+    "nuanceKo": "단순히 균형이 '있다'가 아니라 적극적으로 '추구한다'는 뉘앙스가 강합니다. 현재 불균형한 상태를 인지하고 의지를 갖고 변화하려는 진지한 태도를 내포합니다.",
+    "shortExampleEn": "Many professionals seek balance by setting clear boundaries at work.",
+    "shortExampleKo": "많은 직장인들이 업무에서 명확한 경계를 설정함으로써 균형을 추구합니다."
+  }
+}

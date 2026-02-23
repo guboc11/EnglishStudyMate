@@ -1,0 +1,30 @@
+{
+  "id": "sort-through_7a1a758b",
+  "expression": "sort through",
+  "selectionMeta": {
+    "selectedPhrase": "sort through",
+    "selectedSenseLabelKo": "분류하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to sort through all these old emails before I can find the contract."
+  },
+  "step2": {
+    "story": "After her grandmother passed away, Mia spent the weekend sorting through boxes of photographs and letters in the attic. Each item brought back a flood of memories, making it hard to decide what to keep. By Sunday evening, she had organized everything into neat piles and felt a quiet sense of peace.",
+    "topicTag": "family memories",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When the company announced a major restructuring, Jason was tasked with sorting through hundreds of project files to determine which initiatives would survive the budget cuts. He locked himself in the conference room with stacks of folders and a laptop full of spreadsheets. Some projects were obvious keepers, but many fell into a gray area that required careful judgment. He called department heads one by one, asking tough questions about deliverables and timelines. After three exhausting days, he finally had a clear shortlist to present to the executive team. The process was draining, but it gave him a deeper understanding of how every piece of the organization fit together.",
+    "topicTag": "corporate restructuring",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 하나하나 살펴보며 정리하거나 분류한다는 뜻입니다.",
+    "realUsageKo": "물건, 서류, 정보 등을 꼼꼼히 검토하면서 필요한 것과 불필요한 것을 구분할 때 사용합니다. 단순히 정리하는 것이 아니라 판단을 수반하는 분류 작업을 강조합니다.",
+    "etymologyKo": "'sort'는 프랑스어 'sorte(종류)'에서 유래했으며, 'through'와 결합하여 '~을 처음부터 끝까지 훑어보며 분류하다'라는 의미의 구동사가 되었습니다.",
+    "nuanceKo": "단순 정리보다는 시간과 노력이 드는 꼼꼼한 검토의 뉘앙스가 있습니다. 양이 많거나 복잡한 대상을 다룰 때 자주 쓰이며, 약간의 수고로움이 내포되어 있습니다.",
+    "shortExampleEn": "She sorted through the pile of resumes to find the best candidates.",
+    "shortExampleKo": "그녀는 최고의 후보자를 찾기 위해 이력서 더미를 하나하나 살펴보았다."
+  }
+}

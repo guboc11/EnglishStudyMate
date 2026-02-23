@@ -1,0 +1,30 @@
+{
+  "id": "spring-up_abd1b802",
+  "expression": "spring up",
+  "selectionMeta": {
+    "selectedPhrase": "spring up",
+    "selectedSenseLabelKo": "갑자기 생기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "New coffee shops have been springing up all over the neighborhood lately."
+  },
+  "step2": {
+    "story": "After the tech company announced its new headquarters, dozens of restaurants and cafes sprang up around the area almost overnight. Local residents were amazed at how quickly the quiet street transformed into a bustling food district. It seemed like a new place would spring up every week.",
+    "topicTag": "urban change",
+    "moodTag": "surprised"
+  },
+  "step3": {
+    "story": "Mina had lived in the same small town for over twenty years, and nothing ever seemed to change. Then one spring, a famous university opened a satellite campus just outside town. Within months, bookstores, study cafes, and co-working spaces began to spring up along the main road. Streets that used to be empty after sunset now buzzed with students and young professionals. Her elderly neighbor joked that new buildings were sprouting faster than the weeds in his garden. Mina smiled, realizing her quiet hometown was quietly becoming a place full of energy and possibility.",
+    "topicTag": "community growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'spring(용수철처럼 튀어오르다) + up(위로)'으로, 무언가가 갑자기 튀어나오듯 나타나는 것을 의미합니다.",
+    "realUsageKo": "건물, 가게, 문제, 아이디어 등이 예상치 못하게 빠르게 생겨나거나 등장할 때 사용합니다. 주로 복수의 것들이 여러 곳에서 동시에 나타나는 느낌을 줍니다.",
+    "etymologyKo": "spring은 고대 영어 'springan(뛰어오르다)'에서 유래했으며, 식물이 땅에서 싹을 틔우듯 갑자기 솟아나는 이미지에서 비롯된 표현입니다.",
+    "nuanceKo": "빠르고 예상치 못한 등장을 강조하는 표현으로, 긍정적(새 가게가 생기다)이든 부정적(문제가 불거지다)이든 모두 쓸 수 있습니다. 다소 캐주얼한 톤입니다.",
+    "shortExampleEn": "Problems kept springing up right before the product launch.",
+    "shortExampleKo": "제품 출시 직전에 문제들이 계속 불거져 나왔다."
+  }
+}

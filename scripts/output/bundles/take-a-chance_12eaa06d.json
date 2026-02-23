@@ -1,0 +1,30 @@
+{
+  "id": "take-a-chance_12eaa06d",
+  "expression": "take a chance",
+  "selectionMeta": {
+    "selectedPhrase": "take a chance",
+    "selectedSenseLabelKo": "기회를 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I decided to take a chance and apply for the job even though I didn't meet all the requirements."
+  },
+  "step2": {
+    "story": "Maya had been working at the same company for five years and felt stuck. One evening, she saw a listing for her dream role at a startup. She decided to take a chance and submit her application, knowing she had nothing to lose.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For months, Jake had been sketching restaurant concepts in his notebook during lunch breaks. His coworkers thought he was crazy to leave a stable engineering job. But when a small space opened up on the corner of his street, something clicked. He decided to take a chance and signed the lease that same week. The first few months were brutal — long hours, empty tables, and dwindling savings. But by the end of the year, his tiny bistro had a loyal following and a waiting list every Friday night.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "기회를 하나 잡다, 즉 불확실한 상황에서 시도해 보다라는 뜻입니다.",
+    "realUsageKo": "결과가 확실하지 않지만 용기를 내어 도전하거나 시도할 때 사용합니다. '한번 해보다', '모험을 걸다'와 비슷한 느낌입니다.",
+    "etymologyKo": "chance는 라틴어 cadentia(떨어지다)에서 유래했으며, 주사위가 떨어지는 것처럼 운에 맡긴다는 의미가 담겨 있습니다. take a chance는 그 불확실한 운명을 기꺼이 받아들인다는 뜻으로 발전했습니다.",
+    "nuanceKo": "긍정적이고 용기 있는 뉘앙스를 가집니다. 무모한 도박보다는 계산된 위험을 감수한다는 느낌이 강하며, 격려의 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "You should take a chance and ask her out.",
+    "shortExampleKo": "용기 내서 그녀에게 데이트 신청해 봐."
+  }
+}

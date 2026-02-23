@@ -1,0 +1,30 @@
+{
+  "id": "tickle-someone's-fancy_5bd0d5fe",
+  "expression": "tickle someone's fancy",
+  "selectionMeta": {
+    "selectedPhrase": "tickle someone's fancy",
+    "selectedSenseLabelKo": "관심을 끌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The quirky little bookshop on the corner really tickled her fancy, so she ended up spending the entire afternoon browsing its shelves."
+  },
+  "step2": {
+    "story": "Maya was scrolling through travel blogs when a hidden village in Portugal tickled her fancy. She booked a spontaneous flight that same evening and spent a week wandering cobblestone streets. It turned out to be the most refreshing trip she had ever taken.",
+    "topicTag": "spontaneous travel",
+    "moodTag": "adventurous"
+  },
+  "step3": {
+    "story": "Daniel had been searching for a new hobby for months, trying everything from pottery to rock climbing, but nothing stuck. One rainy Saturday, he wandered into a jazz club tucked away in a basement downtown. The smoky atmosphere and the sound of a saxophone solo immediately tickled his fancy. He signed up for beginner saxophone lessons the very next day. Within weeks, he was practicing every evening after work, completely absorbed. His friends joked that they had never seen him so passionate about anything before.",
+    "topicTag": "discovering a passion",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 기호(fancy)를 간지럽히다(tickle)라는 뜻으로, 직역하면 '취향을 살짝 자극하다'입니다.",
+    "realUsageKo": "어떤 것이 흥미를 끌거나 마음에 들 때 사용합니다. '그게 좀 구미가 당기네' 또는 '관심이 확 끌리네'와 비슷한 느낌으로 쓰입니다.",
+    "etymologyKo": "17세기 영국 영어에서 유래했으며, 'fancy'는 당시 '상상력' 또는 '기호'를 뜻했고, 'tickle'은 가볍게 자극한다는 의미로 결합되어 '흥미를 유발하다'라는 관용 표현이 되었습니다.",
+    "nuanceKo": "격식 없이 가볍고 유쾌한 느낌의 표현입니다. 주로 무언가가 흥미롭거나 매력적으로 다가올 때 사용하며, 강한 열정보다는 호기심이나 가벼운 끌림을 나타냅니다.",
+    "shortExampleEn": "Does anything on the menu tickle your fancy?",
+    "shortExampleKo": "메뉴에서 마음에 드는 거 있어?"
+  }
+}

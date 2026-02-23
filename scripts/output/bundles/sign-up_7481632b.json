@@ -1,0 +1,30 @@
+{
+  "id": "sign-up_7481632b",
+  "expression": "sign up",
+  "selectionMeta": {
+    "selectedPhrase": "sign up",
+    "selectedSenseLabelKo": "가입하다 / 신청하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I signed up for a free trial of the streaming service to see if I liked it."
+  },
+  "step2": {
+    "story": "Mia had been meaning to take a yoga class for months. When she finally saw a flyer at the community center, she signed up right away. She felt proud of herself for taking the first step.",
+    "topicTag": "new beginnings",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Jake had always wanted to learn how to cook properly, but he kept putting it off. One evening, his coworker mentioned a weekend cooking workshop downtown. That night, Jake went online and signed up before he could change his mind. The class was small, just eight people gathered around a kitchen island. By the end of the session, he had made a full three-course meal from scratch. He couldn't believe he had waited so long to sign up for something that brought him so much joy.",
+    "topicTag": "personal growth",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "서명(sign)을 해서 위로(up) 올린다는 뜻으로, 명부에 이름을 올리는 행위를 나타냅니다.",
+    "realUsageKo": "서비스, 수업, 행사 등에 등록하거나 가입할 때 사용합니다. 온라인 계정을 만들 때도 'sign up'을 씁니다.",
+    "etymologyKo": "과거 군대나 단체에 입대·입회할 때 문서에 서명(sign)하던 관습에서 유래했습니다. 'up'은 목록에 이름이 추가되는 느낌을 더합니다.",
+    "nuanceKo": "자발적으로 참여하거나 등록하는 뉘앙스가 강합니다. 'register'보다 캐주얼하고 일상적인 느낌이며, 특히 구어체에서 자주 쓰입니다.",
+    "shortExampleEn": "Have you signed up for the newsletter yet?",
+    "shortExampleKo": "뉴스레터에 가입했어?"
+  }
+}

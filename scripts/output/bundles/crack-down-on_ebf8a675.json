@@ -1,0 +1,30 @@
+{
+  "id": "crack-down-on_ebf8a675",
+  "expression": "crack down on",
+  "selectionMeta": {
+    "selectedPhrase": "crack down on",
+    "selectedSenseLabelKo": "단속하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The city government decided to crack down on illegal parking near school zones to protect children's safety."
+  },
+  "step2": {
+    "story": "After several complaints from residents, the local police began to crack down on noise violations in the downtown area. Officers patrolled the streets every weekend night, issuing fines to bars and clubs that exceeded the noise limit. Within a month, the neighborhood became noticeably quieter.",
+    "topicTag": "law enforcement",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "For years, the online marketplace had been flooded with counterfeit products, and customers were losing trust. The company's new CEO announced a bold plan to crack down on fake sellers by implementing stricter verification processes. A dedicated team of investigators was hired to review suspicious listings around the clock. Sellers caught violating the policy faced permanent bans and legal action. At first, some vendors resisted the changes, but the results spoke for themselves. Within six months, customer satisfaction scores reached an all-time high, proving that the crackdown was worth the effort.",
+    "topicTag": "business ethics",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'crack down'은 직역하면 '세게 내리치다'라는 뜻으로, 강하게 억누르는 이미지를 담고 있습니다.",
+    "realUsageKo": "실제로는 규칙 위반이나 불법 행위에 대해 엄격하게 단속하거나 처벌을 강화한다는 의미로 사용됩니다. 주로 정부, 경찰, 기관 등이 주어로 오며, 'on' 뒤에 단속 대상이 옵니다.",
+    "etymologyKo": "19세기 미국 영어에서 유래했으며, 'crack'이 '강하게 치다'라는 의미에서 '엄격히 대응하다'로 확장되었습니다. 'crack the whip(채찍을 휘두르다)'과 비슷한 어감입니다.",
+    "nuanceKo": "단순히 '금지하다'보다 훨씬 강한 어감으로, 기존에 느슨했던 규제를 갑자기 강화하거나 본격적으로 단속에 나서는 뉘앙스입니다. 공식적이고 권위 있는 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "The school is cracking down on students who use their phones during class.",
+    "shortExampleKo": "학교에서 수업 중 휴대폰을 사용하는 학생들을 강력히 단속하고 있다."
+  }
+}

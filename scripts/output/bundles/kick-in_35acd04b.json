@@ -1,0 +1,30 @@
+{
+  "id": "kick-in_35acd04b",
+  "expression": "kick in",
+  "selectionMeta": {
+    "selectedPhrase": "kick in",
+    "selectedSenseLabelKo": "효력이 나타나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The painkillers should kick in within about twenty minutes, so just try to relax until then."
+  },
+  "step2": {
+    "story": "Maya had been staring at her laptop for hours, struggling to write a single paragraph. She brewed a strong cup of coffee and waited. About fifteen minutes later, the caffeine started to kick in, and suddenly the words flowed effortlessly onto the screen.",
+    "topicTag": "productivity",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Daniel had always been skeptical about meditation. His therapist kept recommending it, but sitting still felt like a waste of time. Still, he committed to ten minutes every morning for a month. The first two weeks were painful — his mind raced and his back ached. But somewhere around day eighteen, something shifted. The calm started to kick in not just during the sessions, but throughout his entire day. He found himself responding to stressful emails with patience instead of frustration, and sleeping more soundly than he had in years.",
+    "topicTag": "mental health",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'발로 차서 안으로 들어가다'라는 직역적 의미를 가집니다.",
+    "realUsageKo": "약, 카페인, 정책, 규칙 등이 '효력을 발휘하다' 또는 '작동하기 시작하다'라는 뜻으로 쓰입니다. 어떤 것이 시간이 지난 후 본격적으로 효과가 나타날 때 사용합니다.",
+    "etymologyKo": "원래 '문을 발로 차서 열다'라는 물리적 행위에서 유래했으며, 이것이 비유적으로 '무언가가 작동을 시작하다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "주로 시간 지연 후에 효과가 나타나는 상황에서 자연스럽게 쓰이며, 일상 대화에서 매우 흔하게 사용되는 캐주얼한 표현입니다.",
+    "shortExampleEn": "Give the medicine some time to kick in before you take another dose.",
+    "shortExampleKo": "한 알 더 먹기 전에 약효가 나타날 때까지 좀 기다려 보세요."
+  }
+}

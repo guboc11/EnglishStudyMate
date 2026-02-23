@@ -1,0 +1,30 @@
+{
+  "id": "have-a-good-time_894c910f",
+  "expression": "have a good time",
+  "selectionMeta": {
+    "selectedPhrase": "have a good time",
+    "selectedSenseLabelKo": "좋은 시간을 보내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We really had a good time at the beach last weekend."
+  },
+  "step2": {
+    "story": "Sarah hadn't taken a vacation in over two years. She finally booked a trip to Jeju Island with her college friends, and they had a good time exploring cafés, hiking Hallasan, and watching the sunset by the shore.",
+    "topicTag": "vacation",
+    "moodTag": "joyful"
+  },
+  "step3": {
+    "story": "Mark had been dreading his company's annual retreat. He barely knew anyone outside his own team, and small talk wasn't his strength. But when the icebreaker games started, he found himself laughing harder than he had in months. By the end of the evening, he was sharing stories with people from three different departments. He texted his wife: \"I'm actually having a good time.\" Sometimes the things you resist the most turn out to be exactly what you needed.",
+    "topicTag": "social connection",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "좋은 시간을 가지다, 즐거운 시간을 보내다라는 뜻입니다.",
+    "realUsageKo": "어떤 활동이나 이벤트에서 즐겁게 시간을 보냈다는 것을 표현할 때 사용합니다. 파티, 여행, 모임 등 다양한 상황에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'have'는 경험하다, 'a good time'은 즐거운 시간이라는 의미로, 영어에서 오랫동안 자연스럽게 결합되어 사용되어 온 기본 연어 표현입니다.",
+    "nuanceKo": "격식 없이 일상적으로 널리 쓰이는 표현으로, 톤이 가볍고 긍정적입니다. 헤어질 때 \"Have a good time!\"이라고 인사처럼 쓰기도 합니다.",
+    "shortExampleEn": "Did you have a good time at the party last night?",
+    "shortExampleKo": "어젯밤 파티에서 좋은 시간 보냈어?"
+  }
+}

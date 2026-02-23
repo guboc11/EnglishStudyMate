@@ -1,0 +1,30 @@
+{
+  "id": "run-a-test_196df599",
+  "expression": "run a test",
+  "selectionMeta": {
+    "selectedPhrase": "run a test",
+    "selectedSenseLabelKo": "테스트를 실행하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "Before deploying the new feature, the engineer decided to run a test on the authentication module to make sure everything worked correctly."
+  },
+  "step2": {
+    "story": "Maya pushed her latest code changes and opened the terminal. She needed to run a test before the sprint review in thirty minutes. The results came back green across the board, and she leaned back in her chair with a relieved sigh.",
+    "topicTag": "software development",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "It was nearly midnight when Jake noticed a strange bug in the payment system. Transactions were silently failing for a small percentage of users, and no one had caught it yet. He pulled up the test suite and began to run a test targeting the payment gateway integration. The first round revealed a timeout issue buried deep in the retry logic. He patched the code, ran the test again, and watched every case pass. By morning, the fix was live, and thousands of users completed their purchases without ever knowing something had gone wrong.",
+    "topicTag": "debugging",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'테스트를 돌리다'라는 뜻으로, 소프트웨어나 시스템이 제대로 작동하는지 확인하기 위해 검사를 실행하는 것을 의미합니다.",
+    "realUsageKo": "개발 환경에서 코드 변경 후 기능이 정상 동작하는지 확인할 때 주로 사용합니다. 'run unit tests', 'run integration tests'처럼 테스트 종류와 함께 쓰이는 경우가 많습니다.",
+    "etymologyKo": "'run'은 '실행하다'라는 뜻의 동사이고, 'test'는 라틴어 'testum(시험용 그릇)'에서 유래했습니다. 컴퓨터 과학에서 프로그램을 '돌린다(run)'는 표현이 테스트와 결합된 콜로케이션입니다.",
+    "nuanceKo": "일상 대화에서도 쓰이지만, 특히 기술/개발 분야에서 매우 빈번하게 사용됩니다. 'do a test'보다 'run a test'가 소프트웨어 맥락에서 훨씬 자연스럽고 전문적으로 들립니다.",
+    "shortExampleEn": "Let me run a test before we merge this pull request.",
+    "shortExampleKo": "이 풀 리퀘스트를 머지하기 전에 테스트를 돌려볼게요."
+  }
+}

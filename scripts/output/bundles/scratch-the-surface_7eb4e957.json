@@ -1,0 +1,30 @@
+{
+  "id": "scratch-the-surface_7eb4e957",
+  "expression": "scratch the surface",
+  "selectionMeta": {
+    "selectedPhrase": "scratch the surface",
+    "selectedSenseLabelKo": "표면만 긁다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We've only scratched the surface of what this technology can do."
+  },
+  "step2": {
+    "story": "After three months of studying Korean, Mia realized she had barely scratched the surface. There were entire grammar patterns and thousands of vocabulary words she hadn't even encountered yet. Still, the small progress she'd made kept her motivated to dive deeper.",
+    "topicTag": "language learning",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Professor Kim spent thirty years researching deep-sea ecosystems, yet he often told his students they had only scratched the surface of understanding ocean life. On his latest expedition, the team discovered three previously unknown species living near volcanic vents. The finding confirmed what he had always believed — the ocean held far more secrets than science had uncovered. Back in the lab, his graduate students eagerly analyzed the samples, each one revealing new questions. Kim smiled as he watched them work, knowing that every answer would lead to ten more mysteries. That was the beauty of science: no matter how deep you went, there was always more beneath the surface.",
+    "topicTag": "scientific discovery",
+    "moodTag": "wonder"
+  },
+  "meaning": {
+    "literalMeaningKo": "표면을 긁다, 즉 겉부분만 살짝 건드린다는 뜻입니다.",
+    "realUsageKo": "어떤 주제나 문제의 아주 일부분만 다루었을 때 사용합니다. '아직 시작에 불과하다', '빙산의 일각이다'와 비슷한 의미로, 더 깊이 파고들 여지가 많다는 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "물체의 표면(surface)을 손톱으로 긁는(scratch) 행위에서 유래했습니다. 표면만 긁으면 내부는 전혀 드러나지 않듯이, 본질에 도달하지 못했다는 비유적 표현입니다.",
+    "nuanceKo": "부정적인 비판보다는 '아직 갈 길이 멀다'는 중립적·겸손한 톤으로 많이 쓰입니다. 학술, 비즈니스, 일상 대화 등 폭넓은 상황에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "This report barely scratches the surface of the issue.",
+    "shortExampleKo": "이 보고서는 그 문제의 표면만 긁은 수준이다."
+  }
+}

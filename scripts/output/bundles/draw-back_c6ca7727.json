@@ -1,0 +1,30 @@
+{
+  "id": "draw-back_c6ca7727",
+  "expression": "draw back",
+  "selectionMeta": {
+    "selectedPhrase": "draw back",
+    "selectedSenseLabelKo": "주저하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was about to sign the contract, but something made her draw back at the last moment."
+  },
+  "step2": {
+    "story": "The startup founder was offered a massive deal with a corporate giant. But when she read the fine print, she drew back, sensing the partnership would strip away her creative freedom. Sometimes hesitation is the wisest move you can make.",
+    "topicTag": "business decisions",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Marcus had trained for months to do a bungee jump off the bridge. He stood at the edge, feeling the wind rush past his face. His legs began to tremble, and every instinct screamed at him to draw back. The instructor noticed his hesitation and placed a calm hand on his shoulder. 'It's okay to be afraid,' she said. 'But don't let fear make the choice for you.' He took a deep breath, and this time he didn't draw back.",
+    "topicTag": "overcoming fear",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'뒤로 끌어당기다'라는 뜻으로, 물리적으로 몸을 뒤로 빼는 동작을 의미합니다.",
+    "realUsageKo": "실제로는 어떤 행동이나 결정 앞에서 망설이거나 주저하며 한 발 물러서는 것을 뜻합니다. 겁이 나거나 확신이 없어서 진행하던 일을 멈추는 상황에 주로 쓰입니다.",
+    "etymologyKo": "'draw'는 끌다, 'back'은 뒤로라는 의미로, 중세 영어에서 활시위를 뒤로 당기는 동작에서 유래하여 '움츠러들다, 주저하다'의 뜻으로 확장되었습니다.",
+    "nuanceKo": "단순히 거절하는 것이 아니라, 하려던 마음이 있었으나 두려움이나 불안감 때문에 뒤로 물러서는 뉘앙스를 담고 있습니다. 'hesitate'보다 더 적극적으로 한 발 물러나는 느낌입니다.",
+    "shortExampleEn": "He drew back from making such a risky investment.",
+    "shortExampleKo": "그는 그렇게 위험한 투자를 하는 것에 주저했다."
+  }
+}

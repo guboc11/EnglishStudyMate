@@ -1,0 +1,30 @@
+{
+  "id": "call-out_f65b47ea",
+  "expression": "call out",
+  "selectionMeta": {
+    "selectedPhrase": "call out",
+    "selectedSenseLabelKo": "지적하다 / 큰 소리로 부르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the meeting, she decided to call out her colleague's repeated mistakes in front of the team."
+  },
+  "step2": {
+    "story": "Jake noticed his manager had been taking credit for the team's work for months. During the all-hands meeting, he finally called out the behavior calmly but clearly. The room went silent, and for the first time, the issue was out in the open.",
+    "topicTag": "workplace fairness",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Maya had watched her classmate spread misinformation during class discussions for weeks, and she knew she couldn't stay quiet any longer. When it happened again on Tuesday, she raised her hand and calmly called out the inaccuracies, citing the sources she had studied. The professor nodded in agreement, and several students exchanged surprised glances. At first Maya felt her heart pounding, worried about how people would react. But after class, two of her peers came up to thank her for speaking up. She realized that calling out something wrong, even when it felt uncomfortable, was exactly the right thing to do.",
+    "topicTag": "academic integrity",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 큰 소리로 부르거나, 잘못된 점을 공개적으로 지적한다는 뜻입니다.",
+    "realUsageKo": "주로 누군가의 잘못된 행동이나 발언을 공개적으로 문제 삼을 때 사용합니다. 직장, 학교, SNS 등 다양한 상황에서 쓰이며, 비판적이지만 용기 있는 행동을 가리킵니다.",
+    "etymologyKo": "'call'(부르다)과 'out'(밖으로)이 결합한 표현으로, 숨겨진 문제를 밖으로 끄집어내어 드러낸다는 이미지에서 유래했습니다.",
+    "nuanceKo": "단순한 비판보다 공개적·직접적인 지적의 뉘앙스가 강합니다. 용기 있는 행동으로 여겨질 수도 있지만, 상황에 따라 대립적으로 느껴질 수도 있습니다.",
+    "shortExampleEn": "He called out the politician's contradictory statements during the debate.",
+    "shortExampleKo": "그는 토론 중에 그 정치인의 모순된 발언을 공개적으로 지적했다."
+  }
+}

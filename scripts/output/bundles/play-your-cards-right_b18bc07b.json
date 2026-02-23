@@ -1,0 +1,30 @@
+{
+  "id": "play-your-cards-right_b18bc07b",
+  "expression": "play your cards right",
+  "selectionMeta": {
+    "selectedPhrase": "play your cards right",
+    "selectedSenseLabelKo": "현명하게 처신하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you play your cards right during the interview, you might land the promotion you've been eyeing."
+  },
+  "step2": {
+    "story": "Mia had been working at the company for three years without a raise. Her mentor told her, \"If you play your cards right and present your results at the quarterly meeting, they won't be able to ignore you.\" She followed the advice, and by the end of the month, she had a new title and a bigger paycheck.",
+    "topicTag": "career advancement",
+    "moodTag": "strategic"
+  },
+  "step3": {
+    "story": "Daniel had always dreamed of opening his own restaurant, but he knew the food industry was brutal. Instead of rushing in, he spent two years working under a famous chef, learning every detail of the business. He saved aggressively, built relationships with local suppliers, and studied what made other restaurants fail. His friends thought he was being too cautious, but Daniel believed that if he played his cards right, he'd only need one shot. When he finally opened his doors on a quiet street corner, the restaurant was fully booked within a week. Sometimes patience and strategy beat raw ambition.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "patient"
+  },
+  "meaning": {
+    "literalMeaningKo": "카드를 올바르게 플레이하다 — 카드 게임에서 패를 잘 쓰다라는 뜻입니다.",
+    "realUsageKo": "어떤 상황에서 현명하게 행동하고 전략적으로 처신하면 원하는 결과를 얻을 수 있다는 의미로 사용됩니다. 주로 기회를 잘 활용하라는 조언이나 격려의 맥락에서 쓰입니다.",
+    "etymologyKo": "카드 게임(특히 포커)에서 유래한 표현으로, 좋은 패든 나쁜 패든 전략적으로 잘 활용하면 이길 수 있다는 개념에서 비롯되었습니다.",
+    "nuanceKo": "긍정적이고 격려하는 뉘앙스로, 능력보다는 전략과 처세가 중요하다는 느낌을 줍니다. 격식·비격식 모두 사용 가능하며, 주로 'if' 조건절과 함께 씁니다.",
+    "shortExampleEn": "Play your cards right and you could be running the whole department someday.",
+    "shortExampleKo": "현명하게 처신하면 언젠가 부서 전체를 이끌게 될 수도 있어."
+  }
+}

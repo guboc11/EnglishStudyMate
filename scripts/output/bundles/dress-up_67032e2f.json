@@ -1,0 +1,30 @@
+{
+  "id": "dress-up_67032e2f",
+  "expression": "dress up",
+  "selectionMeta": {
+    "selectedPhrase": "dress up",
+    "selectedSenseLabelKo": "차려입다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to dress up for the company dinner tonight."
+  },
+  "step2": {
+    "story": "Emma opened her closet and picked out her favorite black dress. She wanted to dress up for her best friend's wedding reception. With her silver earrings and matching heels, she felt absolutely stunning.",
+    "topicTag": "special occasion",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Jake usually wore jeans and sneakers to work, but today was different. The CEO was visiting from headquarters, and everyone in the office had been told to dress up. He ironed his only dress shirt and paired it with his navy blazer. As he walked into the building, he barely recognized his coworkers, all looking sharp in their formal attire. His manager gave him an approving nod as he passed by. Sometimes a little effort in appearance could make a big impression.",
+    "topicTag": "workplace culture",
+    "moodTag": "professional"
+  },
+  "meaning": {
+    "literalMeaningKo": "옷을 위로(up) 올려 입는다는 뜻으로, 평소보다 격식 있게 차려입는 것을 의미합니다.",
+    "realUsageKo": "파티, 결혼식, 면접 등 특별한 자리에서 평소보다 더 멋지고 격식 있게 옷을 입을 때 사용합니다. 또한 할로윈 등에서 코스튬을 입고 변장하는 것도 dress up이라고 합니다.",
+    "etymologyKo": "'dress'는 옷을 입다, 'up'은 수준을 높이다라는 의미로, 16세기부터 '평소보다 격식을 차려 입다'라는 뜻으로 사용되었습니다.",
+    "nuanceKo": "캐주얼한 표현으로, 일상 대화에서 자주 쓰입니다. 반대말은 dress down(캐주얼하게 입다)이며, 문맥에 따라 '변장하다'의 뉘앙스도 있습니다.",
+    "shortExampleEn": "You don't need to dress up — it's just a casual get-together.",
+    "shortExampleKo": "차려입을 필요 없어 — 그냥 가벼운 모임이야."
+  }
+}

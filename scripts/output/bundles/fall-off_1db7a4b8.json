@@ -1,0 +1,30 @@
+{
+  "id": "fall-off_1db7a4b8",
+  "expression": "fall off",
+  "selectionMeta": {
+    "selectedPhrase": "fall off",
+    "selectedSenseLabelKo": "감소하다 / 떨어지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Sales started to fall off sharply after the holiday season ended."
+  },
+  "step2": {
+    "story": "The café on Main Street used to have a line out the door every morning. But after a new coffee shop opened across the street, their customer numbers began to fall off. The owner knew she had to come up with something fresh to win people back.",
+    "topicTag": "business competition",
+    "moodTag": "concerned"
+  },
+  "step3": {
+    "story": "For years, the small bookstore had been the heart of the neighborhood. Regulars would stop by every weekend, browse the shelves, and chat with the owner, Mr. Lee. But when a massive online retailer started offering next-day delivery, foot traffic began to fall off dramatically. At first, Mr. Lee tried to ignore the trend, hoping loyal customers would stick around. Month after month, though, the numbers told a painful story. He finally decided to reinvent the shop as a community reading space with live author events, and slowly, the crowds started coming back.",
+    "topicTag": "adapting to change",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'떨어져 나가다'라는 뜻으로, 물리적으로 어떤 곳에서 떨어지는 것을 의미합니다.",
+    "realUsageKo": "실제로는 수량, 관심, 품질 등이 점차 줄어들거나 감소할 때 자주 사용됩니다. 예를 들어 매출이 줄거나 참석률이 떨어질 때 씁니다.",
+    "etymologyKo": "'fall'(떨어지다)과 'off'(~에서 벗어나)의 결합으로, 원래 물리적으로 떨어지는 것에서 비유적으로 감소하다는 의미로 확장되었습니다.",
+    "nuanceKo": "갑작스러운 급감보다는 점진적인 감소를 나타내는 경우가 많으며, 부정적인 뉘앙스를 담고 있습니다. 비즈니스, 통계, 일상 대화에서 두루 쓰입니다.",
+    "shortExampleEn": "Attendance at the gym tends to fall off after January.",
+    "shortExampleKo": "헬스장 출석률은 1월이 지나면 떨어지는 경향이 있다."
+  }
+}

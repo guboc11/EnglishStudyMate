@@ -1,0 +1,30 @@
+{
+  "id": "at-a-loss_1e56f1bb",
+  "expression": "at a loss",
+  "selectionMeta": {
+    "selectedPhrase": "at a loss",
+    "selectedSenseLabelKo": "어쩔 줄 모르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the client suddenly changed all the requirements, the entire team was at a loss for how to proceed."
+  },
+  "step2": {
+    "story": "Maya stared at the rejection email, completely at a loss. She had prepared for months, rehearsed every answer, and still didn't get the job. Sitting in silence, she wondered what she could have done differently.",
+    "topicTag": "career setback",
+    "moodTag": "defeated"
+  },
+  "step3": {
+    "story": "Daniel had always been the go-to person for fixing things around the house. But when water started pouring from the ceiling at 2 a.m., he stood in the hallway completely at a loss. His wife handed him towels while he frantically searched for the main shutoff valve. Every tool he grabbed seemed wrong for the job. After twenty minutes of chaos, he finally called a plumber and admitted he was in over his head. Sometimes knowing when to ask for help is the smartest move you can make.",
+    "topicTag": "unexpected crisis",
+    "moodTag": "overwhelmed"
+  },
+  "meaning": {
+    "literalMeaningKo": "'손실 상태에 있다'라는 뜻으로, 무언가를 잃어버린 상태를 직역적으로 나타냅니다.",
+    "realUsageKo": "어떻게 해야 할지 모르거나, 무슨 말을 해야 할지 모를 때 사용합니다. 'at a loss for words'처럼 뒤에 for를 붙여 구체적으로 무엇에 대해 막막한지 표현할 수도 있습니다.",
+    "etymologyKo": "원래 상업에서 '손해를 보는 상태(at a loss)'라는 뜻에서 유래했으며, 이후 비유적으로 '방향을 잃은, 어쩔 줄 모르는' 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 모른다는 뜻보다는 당황하거나 막막한 감정이 담겨 있습니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "I'm at a loss for words after hearing the news.",
+    "shortExampleKo": "그 소식을 듣고 할 말을 잃었어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fulfill-a-promise_fee8ff61",
+  "expression": "fulfill a promise",
+  "selectionMeta": {
+    "selectedPhrase": "fulfill a promise",
+    "selectedSenseLabelKo": "약속을 이행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the difficulties, she managed to fulfill a promise she had made to her late grandmother years ago."
+  },
+  "step2": {
+    "story": "When Jake was twelve, he promised his younger sister he would take her to Paris one day. Ten years later, after saving every spare dollar from his first real job, he finally booked two plane tickets. Standing together beneath the Eiffel Tower, he knew he had fulfilled a promise that truly mattered.",
+    "topicTag": "family bonds",
+    "moodTag": "heartwarming"
+  },
+  "step3": {
+    "story": "Maria's father had always dreamed of opening a small bakery in their hometown, but he passed away before he could make it happen. On his last day, Maria held his hand and told him she would carry on his dream. For five years, she worked double shifts, attended baking classes on weekends, and slowly saved enough money. When the doors of 'Papa's Kitchen' finally opened on a rainy Tuesday morning, the entire neighborhood lined up outside. Maria wiped her tears and whispered to herself that she had fulfilled a promise worth every sacrifice. Her father's recipes, handwritten on yellowed cards, now filled the shop with the warmth he had always imagined.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "emotional"
+  },
+  "meaning": {
+    "literalMeaningKo": "약속을 충족시키다, 즉 했던 약속을 실제로 지키고 실행에 옮기는 것을 의미합니다.",
+    "realUsageKo": "단순히 약속을 '지키다(keep a promise)'보다 더 무게감 있는 표현으로, 오랜 시간이 걸리거나 상당한 노력이 필요한 약속을 끝까지 이행했을 때 주로 사용합니다. 비즈니스 계약이나 인생의 중요한 서약 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "fulfill은 고대 영어 'fullfyllan(완전히 채우다)'에서 유래했으며, promise는 라틴어 'promissum(앞으로 보내다)'에서 왔습니다. 합쳐서 '약속한 것을 완전히 채우다'라는 의미가 됩니다.",
+    "nuanceKo": "keep a promise가 일상적인 약속을 지키는 뉘앙스라면, fulfill a promise는 더 격식 있고 무게감 있는 표현으로, 중대한 약속이나 책임을 완수했다는 성취감이 담겨 있습니다.",
+    "shortExampleEn": "The company fulfilled its promise to donate 10% of profits to charity.",
+    "shortExampleKo": "그 회사는 수익의 10%를 자선단체에 기부하겠다는 약속을 이행했다."
+  }
+}

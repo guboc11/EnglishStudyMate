@@ -1,0 +1,30 @@
+{
+  "id": "answer-a-question_ae61f322",
+  "expression": "answer a question",
+  "selectionMeta": {
+    "selectedPhrase": "answer a question",
+    "selectedSenseLabelKo": "질문에 답하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The professor paused for a moment before answering a question from a student in the back row."
+  },
+  "step2": {
+    "story": "During the town hall meeting, the mayor promised to answer every question from the audience. A young woman stood up and asked about the new park project. The mayor smiled and gave a detailed, honest response that impressed everyone in the room.",
+    "topicTag": "public engagement",
+    "moodTag": "sincere"
+  },
+  "step3": {
+    "story": "Jake had always been the quiet kid in class who never raised his hand. One day, his history teacher asked about the causes of World War I, and nobody volunteered. Jake knew the answer perfectly from last night's reading. His heart pounded as he slowly raised his hand and answered the question in a clear, confident voice. The whole class turned to look at him in surprise. His teacher nodded with a proud smile, and from that day on, Jake never hesitated to speak up again.",
+    "topicTag": "personal growth",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 질문에 대해 답변을 제공하다.",
+    "realUsageKo": "수업, 면접, 회의, 일상 대화 등에서 상대방이 궁금해하는 점에 대해 설명하거나 응답할 때 폭넓게 사용됩니다.",
+    "etymologyKo": "'answer'는 고대 영어 'andswaru'에서 유래했으며, 'and-(반대로)' + 'swaru(맹세, 말)'이 결합된 형태로 '상대의 말에 응답하다'라는 뜻입니다.",
+    "nuanceKo": "격식·비격식 모두에서 자연스럽게 쓰이는 기본 연어 표현으로, 'reply to a question'보다 일상적이고 직접적인 느낌을 줍니다.",
+    "shortExampleEn": "Can you answer a question about today's homework?",
+    "shortExampleKo": "오늘 숙제에 대해 질문 하나 답해줄 수 있어?"
+  }
+}

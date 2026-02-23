@@ -1,0 +1,30 @@
+{
+  "id": "inspire-change_5fafa2e8",
+  "expression": "inspire change",
+  "selectionMeta": {
+    "selectedPhrase": "inspire change",
+    "selectedSenseLabelKo": "변화에 영감을 주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her powerful speech at the conference inspired change across the entire organization."
+  },
+  "step2": {
+    "story": "Maya had been volunteering at a community center for years, quietly helping families in need. When she shared her experiences in a local newspaper interview, her words inspired change throughout the neighborhood. Within months, three new programs were launched to support struggling families.",
+    "topicTag": "community impact",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had spent twenty years working in corporate finance, but he always felt something was missing. One evening, he attended a talk by a former colleague who had left the industry to build schools in rural areas. The stories she told about children getting their first textbooks moved him deeply. That night, Daniel couldn't sleep — her passion had inspired change in how he saw his own purpose. He began volunteering on weekends, using his financial expertise to help nonprofits manage their budgets. A year later, he made the leap full-time, and he never looked back.",
+    "topicTag": "career transformation",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "변화를 불어넣다, 즉 누군가 또는 무언가가 변화하도록 영감을 주는 것을 의미합니다.",
+    "realUsageKo": "어떤 사람의 말이나 행동, 또는 사건이 계기가 되어 사람들이 기존의 방식을 바꾸거나 새로운 행동을 시작하게 될 때 사용합니다. 주로 긍정적이고 의미 있는 변화를 이끌어낸다는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "'inspire'는 라틴어 'inspirare(숨을 불어넣다)'에서 유래했으며, 'change'와 결합하여 '변화의 숨결을 불어넣다'라는 의미를 형성합니다.",
+    "nuanceKo": "단순한 변경이 아니라 감동이나 동기 부여를 통해 자발적으로 이루어지는 긍정적 변화를 강조하는 표현입니다. 리더십, 사회운동, 자기계발 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "Great leaders inspire change by leading with empathy and vision.",
+    "shortExampleKo": "훌륭한 리더는 공감과 비전으로 변화에 영감을 줍니다."
+  }
+}

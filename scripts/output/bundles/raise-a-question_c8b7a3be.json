@@ -1,0 +1,30 @@
+{
+  "id": "raise-a-question_c8b7a3be",
+  "expression": "raise a question",
+  "selectionMeta": {
+    "selectedPhrase": "raise a question",
+    "selectedSenseLabelKo": "의문을 제기하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the meeting, the new intern raised a question about the company's environmental policy that no one had considered before."
+  },
+  "step2": {
+    "story": "The town hall meeting was nearly over when a retired teacher stood up and raised a question about the proposed budget cuts to the local library. The room fell silent as the mayor struggled to respond. It was clear that no one on the council had thought about the impact on children who depended on the library for after-school programs.",
+    "topicTag": "community issues",
+    "moodTag": "thought-provoking"
+  },
+  "step3": {
+    "story": "Sarah had been working at the pharmaceutical company for only three months, but something about the clinical trial data didn't sit right with her. She spent two sleepless nights reviewing the numbers before finally deciding to raise a question at the next team meeting. Her voice trembled slightly as she pointed out the discrepancy between the reported side effects and the raw patient data. The lead researcher's face turned pale. The room erupted into whispered conversations, and by the end of the week, an independent review board had been called in. Sarah's single question ultimately led to a complete overhaul of the company's data reporting procedures. Sometimes the courage to speak up is what separates good science from dangerous shortcuts.",
+    "topicTag": "workplace ethics",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "'질문을 들어 올리다'라는 직역으로, 논의할 사안을 공식적으로 꺼내다는 뜻입니다.",
+    "realUsageKo": "회의, 토론, 공식적인 자리에서 중요한 의문이나 문제를 공식적으로 제기할 때 사용합니다. 단순히 질문하는 'ask a question'과 달리, 깊이 있는 논점이나 우려를 표면 위로 끌어올린다는 뉘앙스가 있습니다.",
+    "etymologyKo": "'raise'는 고대 노르드어 'reisa(일으키다)'에서 유래했으며, 물리적으로 무언가를 들어 올리는 행위가 추상적으로 '화제를 꺼내다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "'ask a question'이 일상적인 질문이라면, 'raise a question'은 좀 더 심각하거나 중요한 의문을 격식 있게 제기하는 느낌입니다. 비즈니스, 학술, 공적 맥락에서 주로 쓰입니다.",
+    "shortExampleEn": "The audit report raised a question about how the funds were allocated.",
+    "shortExampleKo": "감사 보고서는 자금이 어떻게 배분되었는지에 대한 의문을 제기했다."
+  }
+}

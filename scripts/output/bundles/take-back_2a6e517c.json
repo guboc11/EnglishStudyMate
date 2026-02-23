@@ -1,0 +1,30 @@
+{
+  "id": "take-back_2a6e517c",
+  "expression": "take back",
+  "selectionMeta": {
+    "selectedPhrase": "take back",
+    "selectedSenseLabelKo": "취소하다 / 돌려받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I didn't mean what I said — I take it back."
+  },
+  "step2": {
+    "story": "During the meeting, Jake blurted out a harsh comment about his colleague's proposal. Seeing the hurt on her face, he immediately said, \"I'm sorry — I take that back. Your idea actually has a lot of potential.\" The tension in the room slowly faded as she accepted his apology.",
+    "topicTag": "workplace communication",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Mia had been furious when she found out her roommate had borrowed her favorite jacket without asking. She stormed into the kitchen and said things she didn't really mean — calling her roommate selfish and inconsiderate. But later that evening, sitting alone in her room, guilt crept in. She realized her reaction had been way too extreme over a jacket. The next morning, Mia knocked on her roommate's door and said quietly, \"I want to take back what I said yesterday. I was angry, but none of those words were fair.\" Her roommate smiled and handed the jacket back, and they both laughed it off over coffee.",
+    "topicTag": "friendship and conflict",
+    "moodTag": "apologetic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'뒤로 가져가다'라는 뜻으로, 말이나 물건을 원래 상태로 되돌리는 것을 의미합니다.",
+    "realUsageKo": "주로 두 가지 의미로 쓰입니다. 첫째, 한 말을 취소하거나 철회할 때 ('I take it back'), 둘째, 구매한 물건을 반품하거나 빌린 것을 돌려받을 때 사용합니다.",
+    "etymologyKo": "'take'(가져가다)와 'back'(뒤로)의 결합으로, 무언가를 원래 있던 곳으로 되돌린다는 직관적인 의미에서 출발해 발언 철회의 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "말을 취소할 때 쓰면 진심으로 후회하는 뉘앙스가 강하며, 단순한 사과보다 자신의 발언 자체를 없었던 것으로 하고 싶다는 의지를 담고 있습니다. 일상 대화에서 매우 자주 쓰이는 자연스러운 표현입니다.",
+    "shortExampleEn": "That was rude of me — I take it back.",
+    "shortExampleKo": "내가 무례했어 — 그 말 취소할게."
+  }
+}

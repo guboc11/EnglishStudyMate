@@ -1,0 +1,30 @@
+{
+  "id": "touch-base_6c017872",
+  "expression": "touch base",
+  "selectionMeta": {
+    "selectedPhrase": "touch base",
+    "selectedSenseLabelKo": "연락하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I just wanted to touch base with you before the meeting to make sure we're on the same page."
+  },
+  "step2": {
+    "story": "Sarah hadn't heard from her project partner in over a week. She sent a quick message saying she wanted to touch base about the upcoming deadline. They scheduled a short call and resolved everything in ten minutes.",
+    "topicTag": "teamwork",
+    "moodTag": "proactive"
+  },
+  "step3": {
+    "story": "After moving to a new city for work, Kevin realized he had been so busy that he lost track of his old colleagues. One Friday afternoon, he decided to touch base with his former manager, who had always been a great mentor. He picked up the phone and called, half expecting voicemail. To his surprise, she answered right away and sounded genuinely happy to hear from him. They caught up for twenty minutes, sharing updates about their careers and families. Before hanging up, they promised to touch base at least once a month going forward.",
+    "topicTag": "maintaining relationships",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '베이스(기지)를 터치하다'로, 야구에서 주자가 베이스를 밟는 동작에서 유래했습니다.",
+    "realUsageKo": "실제로는 '간단히 연락하다', '안부를 확인하다'라는 뜻으로 사용됩니다. 주로 업무나 관계 유지를 위해 짧게 소통할 때 씁니다.",
+    "etymologyKo": "미국 야구에서 주자가 베이스를 밟아야 안전한 것에서 유래했습니다. 1960년대부터 비즈니스 영어에서 '연락하다'는 의미로 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "격식과 비격식 모두에서 쓰이며, 특히 비즈니스 상황에서 자주 사용됩니다. 가볍고 부담 없는 연락을 의미하므로 심각한 논의보다는 간단한 확인이나 안부에 적합합니다.",
+    "shortExampleEn": "Let's touch base next week to review the progress.",
+    "shortExampleKo": "진행 상황을 확인하기 위해 다음 주에 연락합시다."
+  }
+}

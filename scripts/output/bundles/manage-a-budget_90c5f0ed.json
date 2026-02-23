@@ -1,0 +1,30 @@
+{
+  "id": "manage-a-budget_90c5f0ed",
+  "expression": "manage a budget",
+  "selectionMeta": {
+    "selectedPhrase": "manage a budget",
+    "selectedSenseLabelKo": "예산을 관리하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "As a new team leader, one of the first things I had to learn was how to manage a budget without overspending on unnecessary resources."
+  },
+  "step2": {
+    "story": "After getting promoted to department head, Jina realized she had never been taught how to manage a budget properly. She spent the first week reviewing every expense line by line, cutting costs where she could. By the end of the quarter, her department came in under budget for the first time in two years.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Hyunwoo launched his small café, he thought making great coffee was all that mattered. Within three months, he was bleeding money on supplies he didn't need and rent he could barely cover. His older sister, a finance manager, sat him down one evening and showed him how to manage a budget using a simple spreadsheet. She taught him to separate fixed costs from variable ones and to always keep a reserve fund. Slowly, Hyunwoo gained control over his finances and started turning a modest profit. Looking back, he realized that learning to manage a budget was just as important as perfecting his latte art.",
+    "topicTag": "small business",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "예산(budget)을 관리하다(manage)라는 뜻으로, 정해진 돈의 범위 안에서 수입과 지출을 계획하고 통제하는 것을 의미합니다.",
+    "realUsageKo": "회사, 프로젝트, 가정 등 다양한 상황에서 한정된 자금을 효율적으로 배분하고 지출을 통제할 때 사용합니다. '예산 관리를 하다'와 같은 맥락으로 쓰입니다.",
+    "etymologyKo": "manage는 이탈리아어 maneggiare(다루다)에서 유래했고, budget은 프랑스어 bougette(작은 가방)에서 유래하여 원래 돈을 담는 주머니를 뜻했습니다.",
+    "nuanceKo": "단순히 돈을 아끼는 것이 아니라, 계획적으로 자원을 배분하고 모니터링한다는 전문적이고 책임감 있는 뉘앙스를 담고 있습니다. 비즈니스 환경에서 자주 사용되는 실무 표현입니다.",
+    "shortExampleEn": "She learned to manage a budget early in her career, which helped her avoid unnecessary debt.",
+    "shortExampleKo": "그녀는 커리어 초기에 예산 관리를 배워서 불필요한 빚을 피할 수 있었다."
+  }
+}

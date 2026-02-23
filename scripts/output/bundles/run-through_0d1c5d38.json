@@ -1,0 +1,30 @@
+{
+  "id": "run-through_0d1c5d38",
+  "expression": "run through",
+  "selectionMeta": {
+    "selectedPhrase": "run through",
+    "selectedSenseLabelKo": "빠르게 검토하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me run through the main points before the meeting starts."
+  },
+  "step2": {
+    "story": "Sarah had ten minutes before her big client presentation. She grabbed her notes and quickly ran through every slide, whispering the key figures to herself. By the time the conference room doors opened, she felt completely ready.",
+    "topicTag": "presentation prep",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "The product launch was scheduled for Monday morning, and the entire marketing team gathered in the war room on Friday afternoon. Jake, the team lead, projected the campaign timeline on the screen and asked everyone to run through each phase together. They checked the social media posts, the email sequences, and the press release drafts one by one. Midway through, someone spotted a broken link in the landing page. Jake smiled and said that was exactly why they always ran through everything before going live. The team fixed the issue in minutes and left the office feeling confident about Monday.",
+    "topicTag": "product launch",
+    "moodTag": "collaborative"
+  },
+  "meaning": {
+    "literalMeaningKo": "'달려서 통과하다'라는 뜻으로, 무언가를 처음부터 끝까지 빠르게 훑어본다는 의미입니다.",
+    "realUsageKo": "문서, 발표 자료, 계획 등을 처음부터 끝까지 빠르게 검토하거나 점검할 때 사용합니다. 회의 전 안건을 훑거나, 리허설을 할 때도 자주 쓰입니다.",
+    "etymologyKo": "run(달리다)과 through(통과하여)의 결합으로, 무언가를 빠른 속도로 처음부터 끝까지 지나간다는 물리적 이미지에서 '빠르게 검토하다'라는 추상적 의미로 확장되었습니다.",
+    "nuanceKo": "꼼꼼한 정밀 검토보다는 전체를 빠르게 훑어보는 가벼운 느낌입니다. 비즈니스와 일상 모두에서 자연스럽게 쓰이며, 격식과 비격식 상황 모두에 적합합니다.",
+    "shortExampleEn": "Can we run through the agenda before the call?",
+    "shortExampleKo": "통화 전에 안건을 빠르게 검토해볼 수 있을까요?"
+  }
+}

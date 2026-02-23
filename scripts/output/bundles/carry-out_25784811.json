@@ -1,0 +1,30 @@
+{
+  "id": "carry-out_25784811",
+  "expression": "carry out",
+  "selectionMeta": {
+    "selectedPhrase": "carry out",
+    "selectedSenseLabelKo": "수행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team was asked to carry out a thorough investigation before making any final decisions."
+  },
+  "step2": {
+    "story": "Mina's manager assigned her a critical audit last Monday. She had only three days to carry out the entire review, but she organized her notes and tackled each section methodically. By Thursday morning, her detailed report impressed the whole department.",
+    "topicTag": "workplace responsibility",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the city announced plans to renovate the old library, nobody expected a small volunteer group to lead the effort. Jisoo, a retired architect, stepped forward and promised to carry out the restoration with care. She gathered a team of twenty locals, each bringing different skills to the table. Over six weekends, they stripped old paint, reinforced shelves, and installed new lighting. Neighbors who had walked past the building for years stopped to watch the transformation unfold. On opening day, the mayor handed Jisoo a key to the building, calling it the most meaningful project the community had ever carried out together.",
+    "topicTag": "community project",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'carry'(나르다)와 'out'(밖으로)이 결합하여, 무언가를 밖으로 가져간다는 뜻에서 유래했습니다.",
+    "realUsageKo": "계획, 조사, 임무 등을 실제로 실행하거나 수행할 때 사용합니다. '실행하다', '이행하다'의 의미로 일상 및 업무 상황에서 매우 자주 쓰입니다.",
+    "etymologyKo": "중세 영어에서 물건을 들고 밖으로 나간다는 물리적 행위에서 비롯되어, 점차 추상적인 '실행하다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '하다(do)'보다 더 공식적이고 책임감 있는 느낌을 줍니다. 주로 계획적이고 체계적인 행동에 어울리며, 비즈니스나 공식 문서에서 특히 자주 사용됩니다.",
+    "shortExampleEn": "We need to carry out the plan before the deadline.",
+    "shortExampleKo": "마감 전에 그 계획을 수행해야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "make-an-exception_3e828e23",
+  "expression": "make an exception",
+  "selectionMeta": {
+    "selectedPhrase": "make an exception",
+    "selectedSenseLabelKo": "예외를 두다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The professor doesn't usually accept late assignments, but she agreed to make an exception for students affected by the power outage."
+  },
+  "step2": {
+    "story": "The restaurant had a strict no-pets policy, but when an elderly woman arrived with her small service dog on a rainy evening, the manager decided to make an exception. He guided her to a quiet corner table and even brought a bowl of water for the dog. Sometimes bending the rules is simply the right thing to do.",
+    "topicTag": "kindness",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Jenna had been working at the library for over a decade, and she always enforced the two-week borrowing limit without fail. One afternoon, a high school student approached the desk looking desperate. He explained that his family couldn't afford to buy the textbook he needed for his final exams, and two weeks wouldn't be enough time. Jenna glanced at the worn book in his hands and felt something shift inside her. She decided to make an exception and extended his borrowing period to six weeks. As the student walked away with a relieved smile, she realized that rules exist to serve people — not the other way around.",
+    "topicTag": "empathy",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '예외를 만들다'로, 정해진 규칙이나 기준에서 벗어나는 경우를 허용한다는 뜻입니다.",
+    "realUsageKo": "보통 규칙이나 원칙이 있지만, 특별한 사정이나 상황을 고려해 한 번만 봐주거나 융통성을 발휘할 때 사용합니다. '이번만 특별히 허락하다'라는 느낌으로 자주 쓰입니다.",
+    "etymologyKo": "'exception'은 라틴어 'exceptio(제외, 배제)'에서 유래했으며, 'make'와 결합해 '규칙에서 제외되는 경우를 만들다'라는 의미가 되었습니다.",
+    "nuanceKo": "단순히 규칙을 어기는 것이 아니라, 합당한 이유가 있어서 의도적으로 규칙을 완화한다는 뉘앙스입니다. 긍정적이고 배려 있는 어감을 가집니다.",
+    "shortExampleEn": "We don't normally allow refunds, but we'll make an exception this time.",
+    "shortExampleKo": "보통은 환불을 허용하지 않지만, 이번에는 예외를 두겠습니다."
+  }
+}

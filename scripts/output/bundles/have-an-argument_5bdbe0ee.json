@@ -1,0 +1,30 @@
+{
+  "id": "have-an-argument_5bdbe0ee",
+  "expression": "have an argument",
+  "selectionMeta": {
+    "selectedPhrase": "have an argument",
+    "selectedSenseLabelKo": "논쟁하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had an argument about whose turn it was to do the dishes, but we made up before bedtime."
+  },
+  "step2": {
+    "story": "Lisa and her roommate had an argument over the thermostat setting again. Neither wanted to back down, and the tension filled their small apartment. Eventually, they agreed to alternate control every other day.",
+    "topicTag": "roommate conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Daniel had been looking forward to a quiet Saturday, but his brother called with a plan to sell their late father's car. Daniel wanted to keep it for sentimental reasons. They had an argument that lasted nearly an hour, voices rising and falling like waves. Their mother finally stepped in, reminding them that their father would have hated seeing them fight. Embarrassed, both brothers apologized and decided to take a week before making any decision. Sometimes the things we argue about matter less than the people we argue with.",
+    "topicTag": "family disagreement",
+    "moodTag": "emotional"
+  },
+  "meaning": {
+    "literalMeaningKo": "'논쟁을 가지다'라는 뜻으로, 서로 다른 의견을 놓고 말다툼을 하는 것을 의미합니다.",
+    "realUsageKo": "일상에서 누군가와 의견 충돌로 언쟁을 벌일 때 사용합니다. 'fight'보다는 가볍고, 주로 말로 하는 다툼을 가리킵니다.",
+    "etymologyKo": "'argument'는 라틴어 'argumentum(증거, 주장)'에서 유래했으며, 'have'와 결합하여 '논쟁을 경험하다'라는 연어 표현이 되었습니다.",
+    "nuanceKo": "물리적 싸움이 아닌 언어적 다툼을 뜻하며, 친한 사이에서도 자연스럽게 쓰입니다. 심각한 갈등부터 사소한 말다툼까지 폭넓게 사용됩니다.",
+    "shortExampleEn": "They had an argument about money, but they sorted it out quickly.",
+    "shortExampleKo": "그들은 돈 문제로 논쟁을 했지만, 금방 해결했다."
+  }
+}

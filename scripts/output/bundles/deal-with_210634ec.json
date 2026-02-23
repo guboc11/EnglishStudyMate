@@ -1,0 +1,30 @@
+{
+  "id": "deal-with_210634ec",
+  "expression": "deal with",
+  "selectionMeta": {
+    "selectedPhrase": "deal with",
+    "selectedSenseLabelKo": "처리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had to deal with a stack of urgent emails before the meeting started."
+  },
+  "step2": {
+    "story": "The customer complained loudly at the front desk, and Mark had to deal with the situation calmly. He listened carefully, apologized, and offered a full refund. By the end, the customer left with a smile.",
+    "topicTag": "customer service",
+    "moodTag": "composed"
+  },
+  "step3": {
+    "story": "It had been one of those mornings where everything went wrong at once. The server crashed, two team members called in sick, and a client was demanding answers by noon. Sarah took a deep breath and decided to deal with each problem one at a time. She rerouted the server traffic, reassigned tasks to the remaining staff, and drafted a clear status update for the client. By the time lunch rolled around, the chaos had turned into order. Her team was relieved, and even the client replied with a thank-you note.",
+    "topicTag": "workplace crisis",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 직접 다루거나 처리하다.",
+    "realUsageKo": "문제, 상황, 사람 등을 책임지고 해결하거나 대응할 때 폭넓게 사용된다. 업무, 갈등, 감정 등 다양한 상황에 적용된다.",
+    "etymologyKo": "'deal'은 고대 영어 'dǣlan(나누다, 분배하다)'에서 유래했으며, 시간이 지나면서 '거래하다', '처리하다'의 의미로 발전했다. 'with'와 결합해 특정 대상을 처리하는 방향성을 나타낸다.",
+    "nuanceKo": "단순한 해결보다는 책임감 있게 맞서 처리하는 뉘앙스가 강하다. 회피하지 않고 정면으로 대응한다는 느낌을 준다.",
+    "shortExampleEn": "You need to deal with this complaint before it escalates.",
+    "shortExampleKo": "이 불만이 더 커지기 전에 처리해야 해."
+  }
+}

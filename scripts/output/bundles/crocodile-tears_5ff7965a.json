@@ -1,0 +1,30 @@
+{
+  "id": "crocodile-tears_5ff7965a",
+  "expression": "crocodile tears",
+  "selectionMeta": {
+    "selectedPhrase": "crocodile tears",
+    "selectedSenseLabelKo": "거짓 눈물",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She shed crocodile tears at the meeting, pretending to be upset about the layoffs while secretly hoping for a promotion."
+  },
+  "step2": {
+    "story": "When the company announced budget cuts, the manager wiped her eyes and expressed deep concern for the affected employees. But her colleagues noticed she was already drafting a plan to absorb their projects. Everyone could see those were nothing but crocodile tears.",
+    "topicTag": "office politics",
+    "moodTag": "cynical"
+  },
+  "step3": {
+    "story": "David had been competing with his coworker, Rachel, for the team lead position for months. When Rachel was suddenly transferred to another department, David stood up at the farewell lunch and gave an emotional speech about how much he would miss working with her. His voice cracked as he talked about their partnership. But the rest of the team exchanged knowing glances — David had been lobbying for Rachel's transfer behind the scenes. His crocodile tears fooled no one, and the awkward silence that followed his speech said everything.",
+    "topicTag": "workplace rivalry",
+    "moodTag": "ironic"
+  },
+  "meaning": {
+    "literalMeaningKo": "악어의 눈물이라는 뜻으로, 겉으로만 흘리는 가짜 눈물을 의미합니다.",
+    "realUsageKo": "진심이 아닌 거짓 슬픔이나 동정을 표현할 때 사용합니다. 누군가가 속으로는 전혀 슬프지 않으면서 겉으로만 우는 척할 때 이 표현을 씁니다.",
+    "etymologyKo": "악어가 먹이를 먹을 때 눈물을 흘린다는 중세 유럽의 전설에서 유래했습니다. 악어가 사냥감을 잡아먹으면서 울음을 터뜨린다고 믿었기 때문에 위선적인 슬픔을 나타내게 되었습니다.",
+    "nuanceKo": "상대방의 감정 표현이 위선적이거나 진실되지 않다는 부정적 뉘앙스가 강합니다. 비꼬거나 비판할 때 주로 사용되며, 일상 대화와 뉴스 모두에서 쓰입니다.",
+    "shortExampleEn": "Don't believe his crocodile tears — he's the one who caused the problem in the first place.",
+    "shortExampleKo": "그의 거짓 눈물에 속지 마세요 — 애초에 문제를 일으킨 건 그 사람이에요."
+  }
+}

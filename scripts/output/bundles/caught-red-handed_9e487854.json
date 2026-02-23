@@ -1,0 +1,30 @@
+{
+  "id": "caught-red-handed_9e487854",
+  "expression": "caught red-handed",
+  "selectionMeta": {
+    "selectedPhrase": "caught red-handed",
+    "selectedSenseLabelKo": "현행범으로 잡히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The employee was caught red-handed taking office supplies home in his backpack."
+  },
+  "step2": {
+    "story": "Mark had been sneaking snacks from the break room fridge for weeks, thinking no one noticed. One afternoon, his manager walked in and caught him red-handed stuffing a coworker's lunch into his bag. He turned bright red and stammered out an apology.",
+    "topicTag": "workplace honesty",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "For months, strange things had been happening at the small bookshop on Pine Street. Rare first editions kept disappearing from the locked display case, and the owner, Mrs. Chen, was losing sleep over it. She decided to install a hidden camera behind the front counter. The very next morning, she reviewed the footage and caught her most trusted employee red-handed, carefully sliding a signed Hemingway novel into his coat during the closing shift. Her heart sank as she watched him whistle casually on his way out the door. She picked up the phone and dialed the police, feeling both furious and deeply betrayed.",
+    "topicTag": "trust and betrayal",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "빨간 손을 한 채로 잡히다, 즉 범행 현장에서 바로 잡히다라는 뜻입니다.",
+    "realUsageKo": "누군가가 나쁜 일이나 잘못을 하는 바로 그 순간에 발각되었을 때 사용합니다. 변명의 여지가 없이 현장에서 딱 걸린 상황을 강조합니다.",
+    "etymologyKo": "중세 시대에 동물을 불법으로 도살한 사람이 손에 피가 묻은 채로(red-handed) 발각된 데서 유래했습니다. 스코틀랜드 법률 용어에서 처음 사용되었습니다.",
+    "nuanceKo": "부정적인 행위를 하다가 딱 걸린 상황에 주로 쓰이며, 가벼운 장난부터 심각한 범죄까지 폭넓게 사용됩니다. 유머러스한 톤으로도 자주 쓰입니다.",
+    "shortExampleEn": "She was caught red-handed cheating on the exam.",
+    "shortExampleKo": "그녀는 시험에서 커닝하다가 현장에서 딱 걸렸다."
+  }
+}

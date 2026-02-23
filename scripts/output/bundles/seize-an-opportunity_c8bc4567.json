@@ -1,0 +1,30 @@
+{
+  "id": "seize-an-opportunity_c8bc4567",
+  "expression": "seize an opportunity",
+  "selectionMeta": {
+    "selectedPhrase": "seize an opportunity",
+    "selectedSenseLabelKo": "기회를 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the company announced an opening for a leadership role, Maria decided to seize the opportunity and submit her application that same afternoon."
+  },
+  "step2": {
+    "story": "James had been waiting years for a chance to study abroad. When a fully funded scholarship appeared online with only three days left to apply, he dropped everything to seize the opportunity. He stayed up all night perfecting his essay and submitted it just before the deadline.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For months, Soyeon had been running a small bakery from her kitchen, selling cakes through social media. One day, a popular food blogger walked into her pop-up stall at a local market and loved everything she tasted. She handed Soyeon her card and said she wanted to feature the bakery on her channel. Soyeon knew she had to seize the opportunity — moments like this didn't come twice. She stayed up until 3 a.m. preparing her best recipes for the filming day. The video went viral, and within a week, orders were pouring in from all over the city.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "기회를 움켜잡다라는 뜻으로, seize는 '힘껏 잡다, 붙잡다'라는 의미입니다.",
+    "realUsageKo": "좋은 기회가 왔을 때 망설이지 않고 적극적으로 행동에 옮기는 상황에서 사용합니다. 단순히 '기회를 갖다'가 아니라 능동적으로 '기회를 놓치지 않고 잡다'라는 뉘앙스가 강합니다.",
+    "etymologyKo": "seize는 고대 프랑스어 seisir(소유하다, 붙잡다)에서 유래했으며, 법적으로 재산을 압류하다라는 뜻에서 일상적으로 '힘껏 붙잡다'로 확장되었습니다.",
+    "nuanceKo": "단순히 기회를 인지하는 것이 아니라 즉각적이고 과감한 행동을 강조하는 표현입니다. 비즈니스, 커리어, 자기계발 맥락에서 긍정적이고 적극적인 어감으로 자주 쓰입니다.",
+    "shortExampleEn": "You should seize every opportunity to practice speaking English.",
+    "shortExampleKo": "영어 말하기를 연습할 수 있는 모든 기회를 잡아야 해요."
+  }
+}

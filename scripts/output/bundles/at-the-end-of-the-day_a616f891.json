@@ -1,0 +1,30 @@
+{
+  "id": "at-the-end-of-the-day_a616f891",
+  "expression": "at the end of the day",
+  "selectionMeta": {
+    "selectedPhrase": "at the end of the day",
+    "selectedSenseLabelKo": "결국",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "At the end of the day, what matters most is whether you stayed true to yourself."
+  },
+  "step2": {
+    "story": "Mia spent weeks agonizing over which university to attend, comparing rankings and scholarships late into the night. Her father sat beside her and said, \"At the end of the day, you should pick the place where you feel you can grow.\" She closed her laptop, smiled, and finally made her choice.",
+    "topicTag": "life decisions",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "Jordan had been working sixty-hour weeks trying to impress his new manager. He skipped dinners with friends, canceled weekend plans, and even missed his sister's birthday party. One evening, sitting alone in the empty office, he stared at a photo of his family on his desk. His colleague Priya walked by and noticed his tired face. \"You know,\" she said gently, \"at the end of the day, no promotion is worth losing the people who actually care about you.\" Jordan shut down his computer, grabbed his jacket, and drove straight to his sister's house to apologize.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '하루의 끝에'라는 뜻으로, 하루가 마무리되는 시점을 가리킵니다.",
+    "realUsageKo": "실제로는 '결국', '궁극적으로'라는 의미로, 여러 가지 논의나 고려 사항을 정리하고 최종적인 결론이나 핵심을 말할 때 사용합니다. 다양한 요소를 따져봤지만 가장 중요한 것은 이것이다, 라는 뉘앙스입니다.",
+    "etymologyKo": "원래는 말 그대로 '하루가 끝날 때'라는 시간적 의미였으나, 20세기 중반부터 비유적으로 '모든 것을 고려했을 때'라는 뜻으로 확장되어 관용 표현으로 자리잡았습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 널리 쓰이며, 대화를 마무리하거나 핵심 주장을 강조할 때 자주 등장합니다. 다소 상투적이라는 인식도 있어 격식 있는 글에서는 'ultimately'로 대체하기도 합니다.",
+    "shortExampleEn": "We argued about it for hours, but at the end of the day, we all agreed to move forward.",
+    "shortExampleKo": "우리는 몇 시간 동안 논쟁했지만, 결국 모두 앞으로 나아가기로 합의했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cope-with_54da4f33",
+  "expression": "cope with",
+  "selectionMeta": {
+    "selectedPhrase": "cope with",
+    "selectedSenseLabelKo": "대처하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She learned to cope with the pressure of deadlines by breaking her work into smaller tasks."
+  },
+  "step2": {
+    "story": "After losing his job, Marcus struggled to cope with the uncertainty of his future. He started journaling every evening to process his thoughts and keep anxiety at bay. Slowly, he found that small routines helped him regain a sense of control.",
+    "topicTag": "job loss",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "When the flood damaged half the town, residents had to find ways to cope with the sudden loss of their homes and belongings. Community centers opened their doors, offering shelter, warm meals, and a place to talk. Yuna, a local teacher, organized a support group where neighbors shared their fears and encouraged one another. She had always been good at coping with adversity, having faced a difficult childhood herself. Week by week, people began to rebuild—not just their houses, but their sense of security. The experience taught them that coping with hardship was far easier when you didn't have to do it alone.",
+    "topicTag": "community resilience",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'cope'는 '대응하다', 'with'는 '~에 대해'를 뜻하여, 직역하면 '~에 대응하다'가 됩니다.",
+    "realUsageKo": "어려운 상황, 스트레스, 감정 등을 잘 버티거나 해결해 나가는 능력을 표현할 때 씁니다. 완전히 극복했다기보다 '어떻게든 해나가고 있다'는 뉘앙스가 강합니다.",
+    "etymologyKo": "'cope'는 고대 프랑스어 'colper'(치다, 맞서다)에서 유래했으며, 중세 영어에서 '맞서 싸우다'는 의미로 쓰이다가 점차 '어려움을 감당하다'는 의미로 발전했습니다.",
+    "nuanceKo": "단순히 문제를 '해결한다'는 뜻이 아니라, 힘든 상황을 '버텨내거나 감당해 나간다'는 느낌입니다. 완전한 극복보다는 지속적인 적응 과정을 암시합니다.",
+    "shortExampleEn": "It's hard to cope with the loss of a loved one.",
+    "shortExampleKo": "사랑하는 사람을 잃은 슬픔에 대처하기란 쉽지 않다."
+  }
+}

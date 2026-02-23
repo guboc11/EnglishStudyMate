@@ -1,0 +1,30 @@
+{
+  "id": "check-in_9d49a5bd",
+  "expression": "check in",
+  "selectionMeta": {
+    "selectedPhrase": "check in",
+    "selectedSenseLabelKo": "체크인하다 / 안부를 묻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She texted her mom to check in after arriving safely at the airport."
+  },
+  "step2": {
+    "story": "After a long day of traveling, Marcus finally reached his hotel and went to the front desk to check in. The receptionist handed him his key card with a warm smile. He felt a wave of relief as he headed toward the elevator.",
+    "topicTag": "travel",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "It had been three weeks since Lily moved to a new city for work, and her best friend Jamie hadn't heard from her in days. Worried, Jamie picked up the phone to check in and make sure everything was okay. Lily answered on the first ring, her voice tired but warm. She explained that the new job had been overwhelming, but hearing a familiar voice made all the difference. They talked for an hour, laughing about old memories and making plans to visit soon. By the time they hung up, Lily felt grounded again — reminded that someone always cared enough to check in.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "호텔이나 공항 등에서 도착을 알리고 등록하다, 또는 누군가에게 연락해 안부를 확인하다.",
+    "realUsageKo": "호텔·항공·병원 등에서 '체크인하다'는 의미로 쓰이며, 일상에서는 친구나 가족에게 '잘 지내는지 확인하다'는 뜻으로도 자주 사용됩니다.",
+    "etymologyKo": "'check'는 14세기 체스 용어에서 유래해 '확인·점검'의 의미로 발전했으며, 'in'과 결합해 어딘가에 '들어와 등록하다'는 뜻이 됐습니다.",
+    "nuanceKo": "공식적인 상황(호텔, 공항)과 비공식적인 상황(친구에게 연락) 모두에 쓰이며, 비공식적으로 쓸 때는 배려와 따뜻함의 뉘앙스가 담겨 있습니다.",
+    "shortExampleEn": "I just wanted to check in and see how you've been doing lately.",
+    "shortExampleKo": "요즘 어떻게 지내는지 안부 좀 물어보고 싶어서 연락했어."
+  }
+}

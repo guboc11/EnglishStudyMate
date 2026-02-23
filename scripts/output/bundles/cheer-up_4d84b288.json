@@ -1,0 +1,30 @@
+{
+  "id": "cheer-up_4d84b288",
+  "expression": "cheer up",
+  "selectionMeta": {
+    "selectedPhrase": "cheer up",
+    "selectedSenseLabelKo": "기운을 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I brought you some coffee to cheer you up after that rough meeting."
+  },
+  "step2": {
+    "story": "Mina had been staring at her rejection email for an hour. Her roommate walked in with a box of donuts and said, \"Hey, cheer up — there are ten more companies on your list.\" Mina smiled for the first time that day and reached for a chocolate one.",
+    "topicTag": "job search",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel sat alone on a park bench, replaying the argument with his best friend over and over. The gray sky matched his mood perfectly. Then his phone buzzed — it was a photo from his younger sister, her dog wearing a tiny birthday hat. She had typed, \"Thought this might cheer you up.\" He laughed out loud despite himself. A woman passing by glanced at him and smiled, and suddenly the world felt a little less heavy. He texted his friend an apology before he could overthink it.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'cheer'는 환호·응원, 'up'은 위로 올라간다는 뜻으로, 기분을 위로 끌어올린다는 의미입니다.",
+    "realUsageKo": "기분이 가라앉은 사람에게 '기운 내'라고 격려하거나, 무언가가 누군가의 기분을 좋게 만들 때 사용합니다. 'Cheer up!'처럼 명령형으로도, 'cheer someone up'처럼 타동사구로도 씁니다.",
+    "etymologyKo": "'cheer'는 중세 영어에서 '얼굴, 표정'을 뜻하던 단어로, 고대 프랑스어 'chiere'(얼굴)에서 유래했습니다. 시간이 지나며 '좋은 표정 → 기분 좋음 → 응원'으로 의미가 확장되었습니다.",
+    "nuanceKo": "친근하고 따뜻한 톤의 표현입니다. 다만 상대가 정말 힘든 상황일 때 'Cheer up!'이라고 직접 말하면 감정을 가볍게 여기는 것처럼 들릴 수 있어, 행동으로 cheer someone up 하는 것이 더 자연스럽습니다.",
+    "shortExampleEn": "This song always cheers me up when I'm feeling down.",
+    "shortExampleKo": "이 노래는 기분이 가라앉을 때 항상 나를 기운 나게 해 줘."
+  }
+}

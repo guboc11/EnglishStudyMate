@@ -1,0 +1,30 @@
+{
+  "id": "step-out-of-your-comfort-zone_a08bb689",
+  "expression": "step out of your comfort zone",
+  "selectionMeta": {
+    "selectedPhrase": "step out of your comfort zone",
+    "selectedSenseLabelKo": "편안함에서 벗어나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Moving to a new country forced me to step out of my comfort zone and learn how to navigate daily life in a completely unfamiliar culture."
+  },
+  "step2": {
+    "story": "Jina had always ordered the same dish at every restaurant. One evening, her friend dared her to step out of her comfort zone and try the spiciest item on the menu. She took one bite, tears streaming down her face, but couldn't stop smiling.",
+    "topicTag": "trying new things",
+    "moodTag": "adventurous"
+  },
+  "step3": {
+    "story": "For three years, Marcus had worked quietly at his desk, never once volunteering for a presentation. When his manager announced the company's annual conference, something shifted inside him. He decided it was finally time to step out of his comfort zone. He spent every evening rehearsing in front of his bathroom mirror, his voice shaking at first but growing steadier each night. On the day of the conference, he walked onto the stage with sweaty palms and a pounding heart. By the time he finished, the audience was on their feet — and Marcus realized the only thing scarier than failing was never trying at all.",
+    "topicTag": "personal growth",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 '안전 구역(comfort zone)' 바깥으로 발을 내딛다라는 뜻입니다.",
+    "realUsageKo": "익숙하고 편안한 상황에서 벗어나 새롭거나 도전적인 일을 시도할 때 사용합니다. 성장이나 변화를 위해 두려움을 감수한다는 뉘앙스가 담겨 있습니다.",
+    "etymologyKo": "심리학에서 유래한 표현으로, 1991년 경영학 논문에서 'comfort zone'이라는 개념이 대중화되었습니다. 익숙한 영역을 넘어서야 성장할 수 있다는 심리학적 원리에 기반합니다.",
+    "nuanceKo": "긍정적이고 격려하는 뉘앙스로, 주로 자기계발이나 동기부여 맥락에서 사용됩니다. 약간의 두려움이나 불편함을 감수하더라도 시도해볼 가치가 있다는 의미를 내포합니다.",
+    "shortExampleEn": "You should step out of your comfort zone and apply for that job abroad.",
+    "shortExampleKo": "편안함에서 벗어나 해외 취업에 지원해 봐."
+  }
+}

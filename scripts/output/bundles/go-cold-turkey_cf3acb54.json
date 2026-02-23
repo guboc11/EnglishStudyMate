@@ -1,0 +1,30 @@
+{
+  "id": "go-cold-turkey_cf3acb54",
+  "expression": "go cold turkey",
+  "selectionMeta": {
+    "selectedPhrase": "go cold turkey",
+    "selectedSenseLabelKo": "단번에 끊다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of smoking, he decided to go cold turkey and never touched a cigarette again."
+  },
+  "step2": {
+    "story": "Mark had been drinking six cups of coffee every day for a decade. One morning, after a terrible night of insomnia, he decided to go cold turkey. The first week was brutal — headaches, fatigue, irritability — but he pushed through.",
+    "topicTag": "health habits",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jenna stared at the notification on her phone: seven hours of screen time yesterday. She had promised herself she'd cut back, but the numbers kept climbing. That night, she told her roommate she was going to go cold turkey — no social media for thirty days. Her roommate laughed, but Jenna was serious. She deleted every app, tucked her phone in a drawer, and picked up a paperback novel instead. By the end of the first week, she felt like she had an extra three hours in every day, and the anxious buzzing in her chest had finally gone quiet.",
+    "topicTag": "digital detox",
+    "moodTag": "liberating"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '차가운 칠면조로 가다'라는 뜻으로, 문자 그대로의 의미는 거의 사용되지 않습니다.",
+    "realUsageKo": "나쁜 습관이나 중독성 있는 것을 점진적으로 줄이지 않고 한꺼번에 완전히 끊는 것을 의미합니다. 주로 담배, 술, 약물, 카페인 등을 갑자기 중단할 때 사용합니다.",
+    "etymologyKo": "약물이나 중독 물질을 갑자기 끊으면 금단 증상으로 피부에 소름이 돋고 창백해지는데, 그 모습이 털을 뽑은 차가운 칠면조 껍질과 비슷하다는 데서 유래했다는 설이 유력합니다.",
+    "nuanceKo": "강한 의지와 결단력을 내포하는 표현입니다. 점진적 감량이 아닌 즉각적이고 완전한 중단을 강조하며, 그 과정이 힘들 수 있다는 뉘앙스도 담고 있습니다.",
+    "shortExampleEn": "She went cold turkey on sugar and lost five kilos in a month.",
+    "shortExampleKo": "그녀는 설탕을 단번에 끊고 한 달 만에 5킬로를 뺐다."
+  }
+}

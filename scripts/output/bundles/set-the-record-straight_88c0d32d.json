@@ -1,0 +1,30 @@
+{
+  "id": "set-the-record-straight_88c0d32d",
+  "expression": "set the record straight",
+  "selectionMeta": {
+    "selectedPhrase": "set the record straight",
+    "selectedSenseLabelKo": "사실을 바로잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of rumors spreading through the office, Maya decided it was time to set the record straight and explain what really happened at the meeting."
+  },
+  "step2": {
+    "story": "A viral blog post accused Chef Daniel of using frozen ingredients at his restaurant. He invited the journalist to tour his kitchen, showing her the fresh produce delivered every morning from local farms. Standing among crates of vegetables, he calmly set the record straight, and the journalist published a full correction the next day.",
+    "topicTag": "reputation",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "For months, Sarah's former business partner had been telling investors that she was the one who mismanaged their startup's funds. The whispers followed Sarah everywhere, damaging her reputation in the tight-knit tech community. She gathered every financial document, every email, and every transaction receipt from the past three years. At an industry conference, she requested five minutes on stage and laid out the evidence for everyone to see. Her voice was steady as she set the record straight, showing exactly where every dollar had gone. By the end of her presentation, the room was silent, and her former partner quietly slipped out the back door.",
+    "topicTag": "trust and honesty",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "기록을 바르게 세우다, 즉 잘못된 정보를 정정하여 사실대로 바로잡는다는 뜻입니다.",
+    "realUsageKo": "누군가에 대한 오해, 루머, 잘못된 정보가 퍼졌을 때 진실을 밝혀 상황을 바로잡을 때 사용합니다. 공식적인 해명이나 개인적인 대화 모두에서 쓸 수 있습니다.",
+    "etymologyKo": "'record'는 공식 기록이나 문서를 의미하며, 'straight'는 올바른·정확한이라는 뜻입니다. 원래 법적·공식적 기록을 정정한다는 의미에서 유래하여, 일상에서도 잘못된 사실을 바로잡는다는 뜻으로 확장되었습니다.",
+    "nuanceKo": "단순한 설명이 아니라, 잘못 알려진 사실에 대해 적극적으로 진실을 밝히겠다는 의지가 담긴 표현입니다. 약간의 단호함과 정의감이 느껴지며, 격식체·비격식체 모두 사용 가능합니다.",
+    "shortExampleEn": "I need to set the record straight — I never agreed to that deal.",
+    "shortExampleKo": "사실을 바로잡아야겠어 — 나는 그 거래에 동의한 적이 없어."
+  }
+}

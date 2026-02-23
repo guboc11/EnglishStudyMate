@@ -1,0 +1,30 @@
+{
+  "id": "get-on-someone's-nerves_ac8f2c7c",
+  "expression": "get on someone's nerves",
+  "selectionMeta": {
+    "selectedPhrase": "get on someone's nerves",
+    "selectedSenseLabelKo": "신경을 건드리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My coworker's constant pen-clicking really gets on my nerves during meetings."
+  },
+  "step2": {
+    "story": "Jake shared an office with someone who hummed the same tune all day long. At first he tried to ignore it, but after three weeks it was seriously getting on his nerves. He finally bought noise-canceling headphones just to survive the workday.",
+    "topicTag": "office annoyance",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Mia had always considered herself a patient person, but her new neighbor was testing that belief. Every night at eleven, he would start practicing drums in his apartment, the muffled thumping vibrating through her bedroom wall. She left polite notes, but nothing changed. It was getting on her nerves so badly that she started losing sleep and snapping at people at work. One evening she knocked on his door, ready for a confrontation, only to discover he was a teenager preparing for his first school concert. They worked out a practice schedule together, and the drumming never bothered her again.",
+    "topicTag": "neighbor conflict",
+    "moodTag": "irritated then understanding"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '누군가의 신경 위에 올라타다'라는 뜻입니다.",
+    "realUsageKo": "누군가의 행동이나 습관이 반복적으로 짜증을 유발할 때 사용합니다. 단순한 불쾌감보다는 지속적이고 점점 커지는 짜증을 표현할 때 자주 쓰입니다.",
+    "etymologyKo": "19세기 영국 영어에서 유래했으며, 'nerve'는 감각 신경을 의미합니다. 신경을 자극한다는 물리적 이미지에서 '짜증나게 하다'라는 비유적 의미로 발전했습니다.",
+    "nuanceKo": "일상 대화에서 매우 자주 쓰이는 자연스러운 표현입니다. 'annoy'보다 감정적이고, 반복적인 짜증을 강조하는 뉘앙스가 있습니다. 격식 없는 상황에서 주로 사용합니다.",
+    "shortExampleEn": "Stop tapping the table — it's getting on my nerves!",
+    "shortExampleKo": "테이블 두드리는 거 그만해 — 진짜 신경에 거슬려!"
+  }
+}

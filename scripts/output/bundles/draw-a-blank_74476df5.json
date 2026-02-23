@@ -1,0 +1,30 @@
+{
+  "id": "draw-a-blank_74476df5",
+  "expression": "draw a blank",
+  "selectionMeta": {
+    "selectedPhrase": "draw a blank",
+    "selectedSenseLabelKo": "기억이 나지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I tried to remember her phone number, but I completely drew a blank."
+  },
+  "step2": {
+    "story": "The professor called on Jake to answer a question about last week's lecture. He had studied for hours, but standing in front of the whole class, he drew a blank. His mind went completely empty, and all he could do was stare at the board in silence.",
+    "topicTag": "academic pressure",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Maria had been preparing for the job interview for weeks, rehearsing answers to every possible question. She walked into the conference room feeling confident, shook hands with the panel, and sat down with a smile. But when the interviewer asked her to describe her greatest achievement, she drew a blank. The words she had practiced so many times simply vanished from her mind. She took a deep breath, asked for a moment to collect her thoughts, and slowly the answer came back to her. It wasn't perfect, but her honesty about the brief freeze actually impressed the interviewers.",
+    "topicTag": "job interview",
+    "moodTag": "nervous but resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '빈 것을 끌어내다'로, 아무것도 떠올리지 못하는 상황을 뜻합니다.",
+    "realUsageKo": "무언가를 기억하려 하거나 대답을 해야 하는데 전혀 생각이 나지 않을 때 사용합니다. '머리가 하얘지다'와 비슷한 느낌입니다.",
+    "etymologyKo": "원래 복권에서 당첨되지 않은 빈 티켓(blank)을 뽑는(draw) 것에서 유래했습니다. 아무 결과도 얻지 못한다는 의미가 '기억이 나지 않다'로 확장되었습니다.",
+    "nuanceKo": "일상 대화에서 자주 쓰이며, 부끄럽거나 당혹스러운 뉘앙스가 있습니다. 격식체보다는 친구나 동료 사이에서 편하게 쓰는 표현입니다.",
+    "shortExampleEn": "I studied all night, but when I saw the exam, I drew a blank.",
+    "shortExampleKo": "밤새 공부했는데 시험지를 보자마자 머리가 하얘졌어."
+  }
+}

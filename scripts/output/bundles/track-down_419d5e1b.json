@@ -1,0 +1,30 @@
+{
+  "id": "track-down_419d5e1b",
+  "expression": "track down",
+  "selectionMeta": {
+    "selectedPhrase": "track down",
+    "selectedSenseLabelKo": "추적하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The detective spent weeks trying to track down the missing witness before the trial began."
+  },
+  "step2": {
+    "story": "Sarah's vintage watch had been stolen from her apartment. She hired a private investigator who managed to track down the thief through security camera footage. Within a week, she had her grandmother's watch back in her hands.",
+    "topicTag": "personal belongings",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When journalist Emily Park received an anonymous tip about corporate fraud, she knew the story could change everything. She spent months combing through financial records and interviewing former employees. Her biggest challenge was to track down the company's ex-accountant, who had moved abroad without leaving a forwarding address. After dozens of dead-end leads, a chance conversation at a coffee shop pointed her to a small coastal town in Portugal. She flew there the next morning and found him living under a different name. His testimony became the centerpiece of an investigation that brought down one of the largest financial schemes in the country.",
+    "topicTag": "investigative journalism",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "발자취(track)를 따라 아래로(down) 쫓아간다는 뜻입니다.",
+    "realUsageKo": "사람, 물건, 정보 등을 열심히 찾아서 결국 발견할 때 씁니다. 단순히 '찾다'보다 노력과 시간이 들어간 수색의 느낌이 강합니다.",
+    "etymologyKo": "사냥에서 동물의 발자국(track)을 따라가 결국 잡아낸다(down)는 데서 유래했습니다.",
+    "nuanceKo": "쉽게 찾을 수 없는 것을 끈질기게 추적해서 찾아낸다는 뉘앙스입니다. 경찰 수사, 기자의 취재, 오래된 물건 찾기 등 다양한 맥락에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I finally tracked down the book I'd been looking for at a used bookstore.",
+    "shortExampleKo": "헌책방에서 그동안 찾고 있던 책을 마침내 찾아냈다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "navigate-challenges_0578a123",
+  "expression": "navigate challenges",
+  "selectionMeta": {
+    "selectedPhrase": "navigate challenges",
+    "selectedSenseLabelKo": "어려움을 헤쳐나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Starting a new business forced me to navigate challenges I never expected, from funding issues to finding the right team."
+  },
+  "step2": {
+    "story": "After relocating to a foreign country alone, Jina had to navigate challenges at every turn — from opening a bank account to understanding local customs. Some days felt overwhelming, but each small victory built her confidence. By the end of the year, she realized the struggles had shaped her into a stronger person.",
+    "topicTag": "personal growth",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "When the company announced a complete restructuring, every department was thrown into chaos. Minho, a mid-level manager, suddenly had to navigate challenges he had never trained for — reassigning teams, calming anxious employees, and meeting impossible deadlines all at once. His boss offered little guidance, saying only, \"Figure it out.\" Late nights became routine, and doubt crept in more than once. But Minho leaned on his colleagues, asked for help when he needed it, and slowly found a rhythm. Months later, when the dust settled, his team had not only survived the transition but come out more united than before.",
+    "topicTag": "workplace leadership",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'도전들을 항해하다'라는 뜻으로, 어려운 상황 속을 방향을 잡아가며 나아간다는 의미입니다.",
+    "realUsageKo": "어려움이나 복잡한 상황을 하나씩 헤쳐나가며 극복한다는 뜻으로 사용됩니다. 단순히 '어려움을 겪다'보다는 능동적으로 대처하며 길을 찾아간다는 뉘앙스가 강합니다.",
+    "etymologyKo": "'navigate'는 라틴어 'navigare(배를 몰다)'에서 유래했으며, 현대 영어에서는 물리적 항해뿐 아니라 복잡한 상황을 헤쳐나간다는 비유적 의미로 널리 쓰입니다.",
+    "nuanceKo": "격식체와 일상 대화 모두에서 자연스럽게 쓰이며, 단순히 문제를 '겪는' 것이 아니라 주체적으로 '해결해 나간다'는 능동적이고 긍정적인 어감을 줍니다.",
+    "shortExampleEn": "She learned to navigate challenges with grace under pressure.",
+    "shortExampleKo": "그녀는 압박 속에서도 침착하게 어려움을 헤쳐나가는 법을 배웠다."
+  }
+}

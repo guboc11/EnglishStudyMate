@@ -1,0 +1,30 @@
+{
+  "id": "pass-down_d6a0357d",
+  "expression": "pass down",
+  "selectionMeta": {
+    "selectedPhrase": "pass down",
+    "selectedSenseLabelKo": "전수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My grandmother used to pass down her secret cookie recipe to each generation of our family."
+  },
+  "step2": {
+    "story": "Chef Marco learned everything he knows from his father, who passed down decades of culinary wisdom in their tiny kitchen. Now, with his own son showing interest in cooking, Marco feels the weight of keeping that tradition alive. Every Sunday morning, they stand side by side at the stove, and the knowledge flows naturally from one generation to the next.",
+    "topicTag": "family tradition",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Hana's grandfather fell ill, she rushed home to spend time with him. He had always been the keeper of their family's history — the stories, the songs, the old ways of making kimchi that no cookbook could capture. Sitting by his bedside, he began to pass down everything he remembered, story by story, recipe by recipe. Hana recorded every word on her phone, afraid of losing even a single detail. Her grandfather smiled and said these memories were the most valuable inheritance he could leave behind. By the time spring arrived, Hana had filled three notebooks and felt a deep responsibility to continue sharing what she had received.",
+    "topicTag": "heritage",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'아래로 건네주다'라는 뜻으로, 위 세대에서 아래 세대로 무언가를 전달하는 것을 의미합니다.",
+    "realUsageKo": "지식, 전통, 기술, 가보 등을 다음 세대에게 물려주거나 전수할 때 사용합니다. 물리적인 물건뿐 아니라 무형의 가치나 이야기를 전하는 데에도 널리 쓰입니다.",
+    "etymologyKo": "'pass'(건네다)와 'down'(아래로)의 결합으로, 세대 간 위에서 아래로 내려보내는 이미지에서 유래했습니다.",
+    "nuanceKo": "단순히 '주다'보다 세대 간 전승이라는 무게감이 있으며, 전통이나 유산을 소중히 이어간다는 긍정적 뉘앙스를 가집니다.",
+    "shortExampleEn": "These traditions have been passed down for centuries.",
+    "shortExampleKo": "이 전통들은 수세기에 걸쳐 전해져 내려왔습니다."
+  }
+}

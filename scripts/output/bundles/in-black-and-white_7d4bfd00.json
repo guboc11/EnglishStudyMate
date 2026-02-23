@@ -1,0 +1,30 @@
+{
+  "id": "in-black-and-white_7d4bfd00",
+  "expression": "in black and white",
+  "selectionMeta": {
+    "selectedPhrase": "in black and white",
+    "selectedSenseLabelKo": "명확하게 / 문서로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to see the agreement in black and white before I sign anything."
+  },
+  "step2": {
+    "story": "After weeks of verbal promises, Maya finally asked her landlord to put the rental terms in black and white. He emailed her a formal lease agreement that afternoon. With everything written down clearly, she felt confident enough to move forward.",
+    "topicTag": "housing agreement",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Jordan had been negotiating a freelance contract with a new client for over a month. Every meeting ended with friendly handshakes and vague assurances, but nothing was ever documented. One morning, Jordan sat down and drafted a detailed proposal, listing every deliverable, deadline, and payment term. He sent it over with a simple note: 'Let's get this in black and white so we're both protected.' The client appreciated the professionalism and signed the contract within two days. From that point on, their working relationship ran smoothly because both sides knew exactly what was expected.",
+    "topicTag": "freelance business",
+    "moodTag": "professional"
+  },
+  "meaning": {
+    "literalMeaningKo": "검은색과 흰색으로, 즉 글자(잉크)와 종이의 색을 의미합니다.",
+    "realUsageKo": "구두가 아닌 문서로 명확하게 기록된 상태를 뜻합니다. 계약, 약속, 규칙 등이 공식적으로 서면화되어 누구나 확인할 수 있을 때 사용합니다.",
+    "etymologyKo": "인쇄술이 발달하면서 흰 종이 위에 검은 잉크로 쓴 글이 공식적이고 변경 불가능한 기록을 상징하게 되었습니다. 16세기경부터 영어에서 '명확하게 문서화된'이라는 의미로 쓰이기 시작했습니다.",
+    "nuanceKo": "구두 약속만으로는 불안하거나, 확실한 증거가 필요할 때 사용하는 표현입니다. 약간 단호하거나 신중한 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Could you put that offer in black and white?",
+    "shortExampleKo": "그 제안을 문서로 작성해 주시겠어요?"
+  }
+}

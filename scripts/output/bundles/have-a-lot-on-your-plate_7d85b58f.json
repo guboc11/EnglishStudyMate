@@ -1,0 +1,30 @@
+{
+  "id": "have-a-lot-on-your-plate_7d85b58f",
+  "expression": "have a lot on your plate",
+  "selectionMeta": {
+    "selectedPhrase": "have a lot on your plate",
+    "selectedSenseLabelKo": "할 일이 많다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I know you have a lot on your plate right now, so I'll handle the presentation myself."
+  },
+  "step2": {
+    "story": "Sarah glanced at her overflowing task list and sighed. Her manager walked over with yet another project folder, but paused when he saw her desk. \"I can see you already have a lot on your plate — let me assign this to someone else.\"",
+    "topicTag": "work stress",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "David hadn't taken a proper lunch break in two weeks. Between the quarterly report, the new client onboarding, and his daughter's school play rehearsals, he genuinely had a lot on his plate. His colleague, Min-ji, noticed the dark circles under his eyes and quietly placed a coffee on his desk. \"You need to delegate some of this,\" she said gently. David shook his head with a tired smile. \"I keep telling myself the same thing, but somehow the pile just keeps growing.\" That evening, he finally sat down and made a list of tasks he could hand off — it was the first step toward breathing again.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "접시 위에 많은 것이 올려져 있다는 뜻으로, 처리해야 할 일이 잔뜩 쌓여 있는 상태를 비유합니다.",
+    "realUsageKo": "업무, 과제, 개인적인 일 등이 한꺼번에 몰려서 바쁘고 부담스러운 상황을 표현할 때 씁니다. \"요즘 할 일이 너무 많아\"라는 뉘앙스입니다.",
+    "etymologyKo": "식사 때 접시(plate)에 음식을 많이 담으면 다 먹기 힘든 것에서 유래한 비유 표현으로, 20세기 중반부터 영어권에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "부정적이거나 동정적인 톤으로 주로 쓰이며, 상대방의 바쁜 상황을 이해하거나 배려할 때 자주 사용됩니다. 격식·비격식 모두 가능합니다.",
+    "shortExampleEn": "She has a lot on her plate with the move and the new job.",
+    "shortExampleKo": "이사에 새 직장까지, 그녀는 할 일이 정말 많다."
+  }
+}

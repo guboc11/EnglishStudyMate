@@ -1,0 +1,30 @@
+{
+  "id": "pay-a-compliment_cbf1ec6a",
+  "expression": "pay a compliment",
+  "selectionMeta": {
+    "selectedPhrase": "pay a compliment",
+    "selectedSenseLabelKo": "칭찬을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always makes it a point to pay a compliment when someone does a great job at work."
+  },
+  "step2": {
+    "story": "During the team meeting, Jake noticed that his coworker had redesigned the entire dashboard over the weekend. He decided to pay a compliment in front of everyone, saying the new layout was incredibly intuitive. His coworker's face lit up, and the whole team felt a boost of positive energy.",
+    "topicTag": "workplace recognition",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Mina had always been the quiet one in her office, rarely speaking up unless absolutely necessary. One morning, she noticed that the new intern had stayed late to organize all the project files that had been a mess for months. Nobody else seemed to have noticed the effort. Mina walked over to the intern's desk and decided to pay a compliment, telling her that the reorganization had saved the entire team hours of searching. The intern looked surprised at first, then smiled with genuine gratitude. From that day on, they became close colleagues who always supported each other's work.",
+    "topicTag": "building connections",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "'칭찬을 지불하다'라는 뜻으로, 누군가에게 좋은 말을 건네는 행위를 의미합니다.",
+    "realUsageKo": "누군가의 외모, 능력, 성과 등을 칭찬할 때 사용합니다. 단순히 '칭찬하다'보다 격식 있고 의도적인 칭찬의 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "'pay'는 원래 '만족시키다, 기쁘게 하다'라는 의미의 라틴어 'pacare'에서 유래했으며, 'compliment'는 예의를 갖추어 하는 칭찬을 뜻합니다. 칭찬을 일종의 '선물'처럼 건넨다는 비유에서 pay와 결합되었습니다.",
+    "nuanceKo": "일상 대화에서 자연스럽게 쓰이며, 진심 어린 칭찬을 정중하게 전달할 때 적합합니다. 'compliment someone'보다 약간 더 격식 있고 의도적인 느낌을 줍니다.",
+    "shortExampleEn": "He paid her a compliment on her presentation skills.",
+    "shortExampleKo": "그는 그녀의 발표 능력에 대해 칭찬을 했다."
+  }
+}

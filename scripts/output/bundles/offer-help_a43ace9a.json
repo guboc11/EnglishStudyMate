@@ -1,0 +1,30 @@
+{
+  "id": "offer-help_a43ace9a",
+  "expression": "offer help",
+  "selectionMeta": {
+    "selectedPhrase": "offer help",
+    "selectedSenseLabelKo": "도움을 제공하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When she saw the new employee struggling with the printer, she walked over to offer help."
+  },
+  "step2": {
+    "story": "Jake noticed his neighbor carrying heavy boxes up the stairs alone. He put down his bag and ran over to offer help. Together, they finished moving everything in under twenty minutes.",
+    "topicTag": "community kindness",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "On her first day at the new office, Mina felt completely lost. The software was unfamiliar, and nobody seemed to notice her confusion. Then a coworker named David stopped by her desk to offer help with the system. He spent thirty minutes walking her through every step without rushing. By the end of the day, Mina felt confident enough to handle things on her own. She made a mental note to offer help to the next newcomer, just as David had done for her.",
+    "topicTag": "workplace support",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "도움을 제안하다, 즉 상대방에게 도움을 주겠다고 말하거나 행동으로 나서는 것을 뜻합니다.",
+    "realUsageKo": "누군가 어려움에 처해 있을 때 자발적으로 나서서 돕겠다고 할 때 사용합니다. 'Can I help you?'보다 좀 더 적극적이고 진심 어린 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "'offer'는 라틴어 'offerre(~을 향해 내밀다)'에서 유래했고, 'help'는 고대 영어 'helpan'에서 왔습니다. 두 단어가 결합하여 '도움을 내밀다'라는 자연스러운 연어를 형성합니다.",
+    "nuanceKo": "격식/비격식 상관없이 널리 쓰이며, 자발성과 선의를 강조하는 표현입니다. 비즈니스 이메일부터 일상 대화까지 폭넓게 활용됩니다.",
+    "shortExampleEn": "He was the first person to offer help after the accident.",
+    "shortExampleKo": "그는 사고 후 가장 먼저 도움을 제공한 사람이었다."
+  }
+}

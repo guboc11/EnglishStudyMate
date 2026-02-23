@@ -1,0 +1,30 @@
+{
+  "id": "meet-a-deadline_a87cf905",
+  "expression": "meet a deadline",
+  "selectionMeta": {
+    "selectedPhrase": "meet a deadline",
+    "selectedSenseLabelKo": "마감일을 지키다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "We need to work overtime this week if we want to meet the deadline for the client's project."
+  },
+  "step2": {
+    "story": "Sarah glanced at the calendar and felt her stomach drop — only three days left. She canceled her weekend plans and rallied her team for a final push. Against all odds, they managed to meet the deadline and delivered the proposal on Friday morning.",
+    "topicTag": "work pressure",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The marketing team had been working on the product launch campaign for weeks, but unexpected design changes threw their schedule into chaos. Every morning, the project manager reminded everyone that the client expected the final deliverables by March 1st. Late nights became the norm, with coffee cups piling up on every desk. On the last day, the copywriter finished the final draft just two hours before the submission window closed. The whole team cheered when they confirmed the files had been sent — they had managed to meet the deadline. It was a small victory, but it reminded them what they could accomplish when they pulled together.",
+    "topicTag": "teamwork under pressure",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'deadline(마감 기한)을 meet(만나다/충족하다)한다'는 뜻으로, 정해진 기한 안에 과제를 완료한다는 의미입니다.",
+    "realUsageKo": "직장이나 학교에서 정해진 마감일까지 업무나 과제를 제출하거나 완료할 때 사용합니다. 'meet'은 여기서 '충족시키다, 맞추다'라는 뜻으로 쓰입니다.",
+    "etymologyKo": "'deadline'은 원래 미국 남북전쟁 시대 포로수용소에서 넘으면 사살당하는 경계선을 뜻했으며, 이후 '넘기면 안 되는 기한'이라는 의미로 확장되었습니다.",
+    "nuanceKo": "비즈니스 환경에서 매우 자주 쓰이는 표현으로, 프로페셔널한 느낌을 줍니다. 반대 표현으로 'miss a deadline(마감을 놓치다)'이 있습니다.",
+    "shortExampleEn": "I always try to meet deadlines, even when the workload is heavy.",
+    "shortExampleKo": "업무량이 많을 때도 저는 항상 마감일을 지키려고 노력합니다."
+  }
+}

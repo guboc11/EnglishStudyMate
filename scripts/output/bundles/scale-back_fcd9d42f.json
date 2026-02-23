@@ -1,0 +1,30 @@
+{
+  "id": "scale-back_fcd9d42f",
+  "expression": "scale back",
+  "selectionMeta": {
+    "selectedPhrase": "scale back",
+    "selectedSenseLabelKo": "줄이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company decided to scale back its marketing budget after disappointing quarterly results."
+  },
+  "step2": {
+    "story": "After reviewing the monthly expenses, Jenna realized her team was spending far beyond their limits. She proposed a plan to scale back on non-essential projects and redirect funds to their core product. Her manager appreciated the honest assessment and approved the changes immediately.",
+    "topicTag": "budget management",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "For years, the Harrison family ran a bustling catering business that served events across the entire state. But when food costs skyrocketed and bookings slowed down, they knew something had to change. David, the eldest son, suggested they scale back their operations to focus only on local events within a thirty-mile radius. At first, his mother resisted the idea, worried it would look like failure. However, within six months, the smaller operation was actually more profitable because they saved so much on transportation and staffing. Sometimes, doing less truly means achieving more.",
+    "topicTag": "family business",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'규모(scale)를 뒤로(back) 돌리다'라는 뜻으로, 무언가의 크기나 양을 줄이는 것을 의미합니다.",
+    "realUsageKo": "지출, 생산량, 계획 등의 규모를 의도적으로 축소할 때 사용합니다. 단순히 '줄이다'보다 전략적이고 계획적인 축소의 뉘앙스가 있습니다.",
+    "etymologyKo": "'scale'은 원래 저울이나 눈금을 뜻하며, 여기서는 규모·수준을 나타냅니다. 'back'이 결합되어 '규모를 되돌리다, 낮추다'라는 구동사가 되었습니다.",
+    "nuanceKo": "무작정 줄이는 것이 아니라, 현실적인 판단 하에 신중하게 규모를 축소한다는 느낌입니다. 비즈니스·재정 맥락에서 특히 자주 쓰이며, 부정적이기보다는 현명한 결정이라는 톤을 담는 경우가 많습니다.",
+    "shortExampleEn": "We need to scale back our spending until the economy improves.",
+    "shortExampleKo": "경기가 나아질 때까지 지출을 줄여야 합니다."
+  }
+}

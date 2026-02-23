@@ -1,0 +1,30 @@
+{
+  "id": "get-in_459051e9",
+  "expression": "get in",
+  "selectionMeta": {
+    "selectedPhrase": "get in",
+    "selectedSenseLabelKo": "들어오다 / 도착하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She finally got in after waiting outside in the rain for twenty minutes."
+  },
+  "step2": {
+    "story": "The train was delayed, but Tom got in just before midnight. He dropped his bag by the door and collapsed onto the couch, exhausted from the long journey.",
+    "topicTag": "travel",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Maya had been traveling for over twelve hours when her flight finally landed. She rushed through customs, eager to get in before the shuttle stopped running for the night. Her family was waiting just beyond the arrival gate, waving as soon as they spotted her. She ran toward them, laughing and breathless. It felt like forever since she had been home, but the moment she got in through the front door, the familiar smell of her mother's cooking made everything feel right again.",
+    "topicTag": "homecoming",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "안으로 들어오다, 또는 어떤 장소에 도착하다.",
+    "realUsageKo": "주로 탈것(차, 기차, 비행기 등)에서 내려 목적지에 도달하거나, 집·건물 안으로 들어오는 상황에서 사용한다. '몇 시에 도착했어?'처럼 도착 시각을 물을 때도 자연스럽게 쓰인다.",
+    "etymologyKo": "'get'은 고대 노르드어 'geta(얻다, 이르다)'에서 유래했으며, 'in'과 결합해 '안쪽으로 이동하다'는 방향성을 더했다. 기본 동사 'get'이 방향 전치사와 결합하는 구동사의 전형적인 형태다.",
+    "nuanceKo": "단순한 'enter(들어가다)'보다 구어적이고 편안한 느낌을 준다. 도착의 안도감이나 귀환의 반가움을 자연스럽게 담을 수 있으며, 일상 대화에서 매우 빈번하게 쓰인다.",
+    "shortExampleEn": "What time did you get in last night?",
+    "shortExampleKo": "어젯밤 몇 시에 들어왔어?"
+  }
+}

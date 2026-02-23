@@ -1,0 +1,30 @@
+{
+  "id": "resolve-a-conflict_317495f8",
+  "expression": "resolve a conflict",
+  "selectionMeta": {
+    "selectedPhrase": "resolve a conflict",
+    "selectedSenseLabelKo": "갈등을 해결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of tension between the two departments, the manager finally stepped in to resolve a conflict over shared resources."
+  },
+  "step2": {
+    "story": "Jenna and Marco had been avoiding each other ever since they disagreed about the project timeline. Their team lead noticed the awkward silence during meetings and decided it was time to resolve a conflict before it affected the whole team. She set up a private meeting where both could share their concerns openly.",
+    "topicTag": "workplace relationships",
+    "moodTag": "constructive"
+  },
+  "step3": {
+    "story": "The neighborhood had been divided for months over whether to convert the old parking lot into a community garden or a playground. Heated arguments broke out at every town hall meeting, and some neighbors had stopped speaking to each other entirely. Finally, a retired mediator named Susan offered to help resolve a conflict that had gone on far too long. She spent a week listening to both sides individually, taking careful notes about their underlying concerns. At the next meeting, she proposed a compromise: half the space would become a garden and the other half a small play area with benches for parents. By the end of the evening, neighbors who hadn't spoken in weeks were shaking hands and even exchanging phone numbers.",
+    "topicTag": "community life",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'갈등을 해결하다'라는 뜻으로, resolve는 '풀다, 결정하다'를, conflict는 '충돌, 갈등'을 의미합니다.",
+    "realUsageKo": "두 사람 이상 사이에서 의견 차이나 감정적 대립이 생겼을 때, 대화나 협상을 통해 문제를 해소하는 상황에서 사용합니다. 직장, 가정, 국제 관계 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "resolve는 라틴어 resolvere(풀다, 녹이다)에서 유래했고, conflict는 라틴어 confligere(서로 부딪치다)에서 왔습니다. 두 단어가 결합되어 '부딪힌 것을 풀어낸다'는 의미를 형성합니다.",
+    "nuanceKo": "단순히 싸움을 멈추는 것이 아니라, 근본적인 원인을 다루어 양측이 수용할 수 있는 결론에 이르는 뉘앙스를 담고 있습니다. 격식 있고 성숙한 표현으로, 비즈니스나 공식적 상황에서 자주 사용됩니다.",
+    "shortExampleEn": "We need to sit down and resolve this conflict before it gets worse.",
+    "shortExampleKo": "상황이 더 나빠지기 전에 앉아서 이 갈등을 해결해야 합니다."
+  }
+}

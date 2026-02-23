@@ -1,0 +1,30 @@
+{
+  "id": "go-out_11be8749",
+  "expression": "go out",
+  "selectionMeta": {
+    "selectedPhrase": "go out",
+    "selectedSenseLabelKo": "나가다 / 외출하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let's go out for dinner tonight instead of cooking at home."
+  },
+  "step2": {
+    "story": "After spending all weekend studying for exams, Mina desperately needed a break. Her roommate suggested they go out to the new café downtown. The fresh air and good coffee made them both feel alive again.",
+    "topicTag": "relaxation",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "Jaeho had been working from home for three months straight, barely leaving his apartment. His friend Soyeon called one Friday evening and insisted they go out for a walk along the Han River. At first, he made excuses about being too tired, but she wouldn't take no for an answer. They ended up grabbing street food from a vendor near the bridge and watching the sunset over the water. By the time they headed back, Jaeho realized how much he had missed simply being outside. From that night on, he made it a habit to go out at least once every evening.",
+    "topicTag": "lifestyle change",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "'go(가다)'와 'out(밖으로)'가 합쳐져 '밖으로 나가다'라는 뜻입니다.",
+    "realUsageKo": "집이나 실내에서 밖으로 나가는 행위를 뜻하며, 특히 외식, 산책, 놀러 가기 등 여가 활동을 위해 외출할 때 자주 사용합니다. 'go out for ~' 형태로 목적을 함께 말하는 경우가 많습니다.",
+    "etymologyKo": "고대 영어 'gān'(가다)과 'ūt'(밖으로)에서 유래한 가장 기본적인 구동사 중 하나로, 중세 영어 시대부터 '외출하다'의 의미로 널리 쓰였습니다.",
+    "nuanceKo": "매우 일상적이고 캐주얼한 표현입니다. 격식 있는 자리에서는 'step out'이나 'head out'을 쓰기도 하지만, 친구나 가족 사이에서는 'go out'이 가장 자연스럽습니다.",
+    "shortExampleEn": "Do you want to go out for coffee this afternoon?",
+    "shortExampleKo": "오늘 오후에 커피 마시러 나갈래?"
+  }
+}

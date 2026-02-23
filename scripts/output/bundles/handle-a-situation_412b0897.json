@@ -1,0 +1,30 @@
+{
+  "id": "handle-a-situation_412b0897",
+  "expression": "handle a situation",
+  "selectionMeta": {
+    "selectedPhrase": "handle a situation",
+    "selectedSenseLabelKo": "상황을 처리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the power went out during the presentation, Sarah stayed calm and handled the situation by switching to her backup notes on paper."
+  },
+  "step2": {
+    "story": "The hotel lobby was in chaos — a pipe had burst and water was flooding the entrance. The new manager, Jenna, took a deep breath and handled the situation with surprising composure, directing staff to reroute guests through the side entrance while calling maintenance. By the time the regional director arrived, everything was under control.",
+    "topicTag": "workplace crisis",
+    "moodTag": "composed"
+  },
+  "step3": {
+    "story": "Marcus had only been a flight attendant for three months when the turbulence hit. Overhead bins popped open, a child started crying, and several passengers began pressing their call buttons at once. His senior colleague was in the back galley, too far away to help immediately. Marcus stood up, steadied himself against a seat, and spoke in a firm but reassuring voice, asking everyone to fasten their seatbelts. He walked down the aisle checking on each worried passenger, offering water and quiet words of comfort. His trainer later told him she was impressed by how naturally he handled the situation, as if he had been flying for years.",
+    "topicTag": "overcoming fear",
+    "moodTag": "reassuring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'상황을 다루다'라는 뜻으로, handle은 원래 손으로 잡고 조작한다는 의미입니다.",
+    "realUsageKo": "문제가 생겼거나 까다로운 상황에서 적절하게 대처하고 해결한다는 의미로 사용됩니다. 침착하게 잘 처리했다는 뉘앙스가 강합니다.",
+    "etymologyKo": "handle은 고대 영어 'handlian(손으로 만지다, 다루다)'에서 유래했으며, 시간이 지나면서 물리적 조작뿐 아니라 추상적인 상황 관리의 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '처리하다'보다는 어려운 상황에서 능숙하게 대응한다는 긍정적 어감이 있습니다. 'deal with'보다 좀 더 능동적이고 주도적인 느낌입니다.",
+    "shortExampleEn": "Don't worry — I can handle the situation from here.",
+    "shortExampleKo": "걱정 마세요 — 여기서부터는 제가 상황을 처리할 수 있습니다."
+  }
+}

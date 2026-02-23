@@ -1,0 +1,30 @@
+{
+  "id": "see-through_f27bbbdc",
+  "expression": "see through",
+  "selectionMeta": {
+    "selectedPhrase": "see through",
+    "selectedSenseLabelKo": "꿰뚫어 보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She could see through his cheerful act and knew he was hiding something painful."
+  },
+  "step2": {
+    "story": "Marcus kept insisting the project was going fine, but his manager could see through the optimistic updates. The numbers didn't add up, and missed deadlines told a different story. She called a meeting to address the real issues before it was too late.",
+    "topicTag": "workplace honesty",
+    "moodTag": "perceptive"
+  },
+  "step3": {
+    "story": "Jenna had always been good at reading people. When her new business partner started making excuses about delayed payments, she didn't panic — she simply paid closer attention. Within a week, she could see through his elaborate stories about cash flow problems and overseas transfers. The bank statements he provided had subtle inconsistencies that most people would miss. She quietly gathered evidence and consulted a lawyer before confronting him. Her ability to see through deception saved her company from a devastating financial loss.",
+    "topicTag": "trust and deception",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'통해서 보다'라는 뜻으로, 무언가를 관통하여 그 너머를 본다는 의미입니다.",
+    "realUsageKo": "누군가의 거짓말이나 속임수를 간파하다, 본질을 꿰뚫어 보다라는 의미로 사용됩니다. 상대방이 숨기려는 진실이나 의도를 알아챌 때 씁니다.",
+    "etymologyKo": "물리적으로 투명한 것을 '통해서(through) 보다(see)'에서 비유적으로 확장되어, 겉모습 너머의 진실을 파악한다는 뜻이 되었습니다.",
+    "nuanceKo": "단순히 '알다'보다 더 강한 표현으로, 상대가 숨기려 했지만 그것을 꿰뚫었다는 뉘앙스가 있습니다. 약간의 비판적 시선이 담겨 있는 경우가 많습니다.",
+    "shortExampleEn": "I can see through your excuses — just tell me the truth.",
+    "shortExampleKo": "네 변명을 다 꿰뚫어 보고 있어 — 그냥 사실대로 말해."
+  }
+}

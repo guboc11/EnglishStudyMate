@@ -1,0 +1,30 @@
+{
+  "id": "nod-off_9f2ee75f",
+  "expression": "nod off",
+  "selectionMeta": {
+    "selectedPhrase": "nod off",
+    "selectedSenseLabelKo": "졸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I almost nodded off during the afternoon meeting because the room was so warm."
+  },
+  "step2": {
+    "story": "Jake had been working double shifts all week, and by Friday his body was running on fumes. During the team lunch, he nodded off right at the table, his chin slowly dropping toward his chest. His coworker gently nudged him awake, trying not to laugh.",
+    "topicTag": "exhaustion",
+    "moodTag": "weary"
+  },
+  "step3": {
+    "story": "Sunday afternoons at Grandma's house always followed the same routine. After a massive home-cooked meal, everyone would settle into the living room while she put on an old black-and-white movie. Within fifteen minutes, Uncle David would nod off in the recliner, his newspaper still clutched in his hands. The kids would giggle and place crackers on his chest to see how many they could stack before he woke up. Grandma would smile from her chair, pretending not to notice. It was one of those small, silly traditions that made every visit feel like home.",
+    "topicTag": "family traditions",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "고개를 끄덕이듯 떨어지다, 즉 졸면서 머리가 앞으로 꾸벅꾸벅 숙여지는 모습을 뜻합니다.",
+    "realUsageKo": "의도치 않게 잠이 드는 상황에서 사용합니다. 특히 수업, 회의, TV 시청 중 깜빡 졸 때 자주 쓰이며, 계획적으로 자는 것이 아니라 자기도 모르게 잠드는 뉘앙스입니다.",
+    "etymologyKo": "'nod'는 고개를 끄덕이는 동작에서 유래했으며, 졸음이 올 때 머리가 앞으로 꾸벅 떨어지는 모습을 묘사합니다. 'off'는 의식이 꺼지듯 사라지는 것을 나타냅니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 가볍고 유머러스한 느낌이 있습니다. 'fall asleep'보다 더 구어적이고, 짧고 얕은 졸음을 암시하는 경우가 많습니다.",
+    "shortExampleEn": "She nodded off on the couch while watching TV.",
+    "shortExampleKo": "그녀는 TV를 보다가 소파에서 깜빡 졸았다."
+  }
+}

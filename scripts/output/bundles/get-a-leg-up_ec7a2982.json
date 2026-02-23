@@ -1,0 +1,30 @@
+{
+  "id": "get-a-leg-up_ec7a2982",
+  "expression": "get a leg up",
+  "selectionMeta": {
+    "selectedPhrase": "get a leg up",
+    "selectedSenseLabelKo": "우위를 차지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Taking that online certification course really helped me get a leg up on the other applicants."
+  },
+  "step2": {
+    "story": "Maria spent every weekend studying data analysis while her coworkers relaxed. When the senior position opened up, her extra skills gave her a leg up over the competition. She landed the promotion within a week.",
+    "topicTag": "career advancement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had always felt behind his peers in the tech industry. While they had graduated from prestigious universities, he had taught himself to code through free online resources. Determined to close the gap, he started contributing to open-source projects every night after work. Within a year, his GitHub profile was impressive enough to catch a recruiter's eye. That self-taught portfolio gave him a leg up in the interview process, and he received an offer from a company that had rejected him twice before. Sometimes the unconventional path is exactly what sets you apart.",
+    "topicTag": "self-improvement",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '다리 하나를 올리다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 경쟁에서 유리한 위치를 차지하거나 남보다 앞서 나갈 수 있는 이점을 얻는다는 의미로 사용됩니다. 취업, 학업, 사업 등 다양한 경쟁 상황에서 폭넓게 쓰입니다.",
+    "etymologyKo": "말을 탈 때 누군가가 다리를 받쳐주어 안장에 오르기 쉽게 도와주던 데서 유래했습니다. 즉, 누군가의 도움이나 특정 이점 덕분에 더 높은 곳에 올라갈 수 있다는 의미가 담겨 있습니다.",
+    "nuanceKo": "긍정적인 뉘앙스로, 노력이나 전략을 통해 정당하게 얻은 이점을 강조할 때 주로 사용됩니다. 비격식적이면서도 비즈니스 상황에서도 자연스럽게 쓸 수 있는 표현입니다.",
+    "shortExampleEn": "Learning a second language can give you a leg up in the job market.",
+    "shortExampleKo": "제2외국어를 배우면 취업 시장에서 유리한 위치를 차지할 수 있습니다."
+  }
+}

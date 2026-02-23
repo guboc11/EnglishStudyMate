@@ -1,0 +1,30 @@
+{
+  "id": "sharpen-skills_e07fdee9",
+  "expression": "sharpen skills",
+  "selectionMeta": {
+    "selectedPhrase": "sharpen skills",
+    "selectedSenseLabelKo": "기술을 갈고닦다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to sharpen her skills in data analysis before applying for the promotion."
+  },
+  "step2": {
+    "story": "After receiving feedback from his manager, Jake enrolled in an advanced coding bootcamp to sharpen his skills. He spent every evening practicing algorithms and building side projects. Within three months, his confidence at work had completely transformed.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina had been working as a graphic designer for five years, but she felt stuck in a creative rut. One afternoon, she stumbled upon an online masterclass taught by a designer she admired. She signed up immediately, eager to sharpen her skills and explore new techniques. Over the following weeks, she experimented with bold color palettes and unfamiliar layouts. Her colleagues began noticing a fresh energy in her work. By the end of the course, Mina had not only regained her passion but also landed her first freelance client.",
+    "topicTag": "creative development",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "기술을 날카롭게 하다, 즉 능력을 더 뾰족하고 정교하게 만든다는 뜻입니다.",
+    "realUsageKo": "특정 분야의 실력을 의식적으로 연습하고 향상시킬 때 사용합니다. 직장에서의 전문성 개발, 취미 실력 향상 등 폭넓은 맥락에서 쓰입니다.",
+    "etymologyKo": "sharpen은 칼이나 도구를 '갈다, 벼리다'에서 유래했으며, 비유적으로 능력을 갈고닦는다는 의미로 확장되었습니다.",
+    "nuanceKo": "이미 어느 정도 기본기가 있는 사람이 더 나은 수준으로 올라가기 위해 노력한다는 뉘앙스입니다. 초보자가 처음 배우는 것보다는 기존 실력을 다듬는 느낌이 강합니다.",
+    "shortExampleEn": "I took an online course to sharpen my skills in public speaking.",
+    "shortExampleKo": "프레젠테이션 실력을 갈고닦기 위해 온라인 강좌를 수강했습니다."
+  }
+}

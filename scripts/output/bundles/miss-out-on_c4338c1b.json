@@ -1,0 +1,30 @@
+{
+  "id": "miss-out-on_c4338c1b",
+  "expression": "miss out on",
+  "selectionMeta": {
+    "selectedPhrase": "miss out on",
+    "selectedSenseLabelKo": "놓치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I didn't want to miss out on the chance to study abroad, so I submitted my application early."
+  },
+  "step2": {
+    "story": "All of Jina's coworkers signed up for the company workshop in Jeju, but she hesitated because of her busy schedule. By the time she decided to go, registration had already closed. She couldn't help feeling frustrated that she had missed out on such a great opportunity.",
+    "topicTag": "regret",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "David had been so focused on finishing his project that he barely noticed weeks slipping by. His friends kept inviting him to weekend hikes, birthday dinners, and even a road trip to the coast, but he always said he was too busy. One evening, scrolling through their group chat full of photos and inside jokes, he realized how much he had missed out on. The project was done, but the memories his friends had made together could never be recreated. He promised himself he would never let work consume him like that again. The next time an invitation came, he said yes without hesitation.",
+    "topicTag": "work-life balance",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'miss out on'은 직역하면 '~을 빗나가서 빠지다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 좋은 기회나 경험, 즐거운 일 등을 참여하지 못하거나 누리지 못할 때 사용합니다. '놓치다', '빠지다'에 해당하며, 아쉬움의 감정이 담겨 있습니다.",
+    "etymologyKo": "'miss'(빗나가다)에 'out on'(~에서 벗어나다)이 결합된 구동사로, 무언가에서 제외되었다는 의미가 자연스럽게 형성되었습니다.",
+    "nuanceKo": "단순히 '못 하다'보다 아쉬움과 후회의 뉘앙스가 강합니다. 주로 긍정적인 것(기회, 재미, 경험)을 놓쳤을 때 씁니다.",
+    "shortExampleEn": "You'll miss out on the early-bird discount if you don't register today.",
+    "shortExampleKo": "오늘 등록하지 않으면 얼리버드 할인을 놓치게 될 거예요."
+  }
+}

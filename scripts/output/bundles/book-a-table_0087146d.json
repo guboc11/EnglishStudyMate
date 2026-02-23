@@ -1,0 +1,30 @@
+{
+  "id": "book-a-table_0087146d",
+  "expression": "book a table",
+  "selectionMeta": {
+    "selectedPhrase": "book a table",
+    "selectedSenseLabelKo": "테이블을 예약하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to book a table for four at the Italian restaurant before they fill up for the weekend."
+  },
+  "step2": {
+    "story": "Sarah wanted to surprise her husband on their anniversary. She called the fancy French bistro downtown and booked a table for two by the window. When they arrived, the candlelit setting was exactly what she had hoped for.",
+    "topicTag": "anniversary dinner",
+    "moodTag": "romantic"
+  },
+  "step3": {
+    "story": "James had been looking forward to trying the new sushi place everyone was raving about. He tried to walk in on Friday night, but the hostess told him they were fully booked. Determined not to miss out, he went online and booked a table for the following Saturday. He even requested a seat at the counter so he could watch the chef work. When the evening finally came, the omakase exceeded all his expectations. He made a mental note to always book a table in advance at popular spots.",
+    "topicTag": "dining out",
+    "moodTag": "excited"
+  },
+  "meaning": {
+    "literalMeaningKo": "'테이블을 예약하다'라는 뜻으로, 레스토랑 등에서 자리를 미리 확보하는 것을 말합니다.",
+    "realUsageKo": "레스토랑이나 카페에서 방문 전에 미리 좌석을 예약할 때 사용합니다. 전화, 온라인, 앱 등 예약 방법에 관계없이 널리 쓰이는 표현입니다.",
+    "etymologyKo": "'book'은 원래 '기록하다'라는 뜻에서 파생되어 '예약하다'라는 의미로 확장되었습니다. 예약 내용을 장부(book)에 적어두던 관행에서 유래했습니다.",
+    "nuanceKo": "격식과 비격식 모두 자연스럽게 쓰이며, 'reserve a table'보다 일상적이고 구어적인 느낌입니다. 영국 영어에서 특히 자주 사용됩니다.",
+    "shortExampleEn": "Could you book a table for tonight? I heard the place gets crowded.",
+    "shortExampleKo": "오늘 저녁 테이블 예약해 줄 수 있어? 거기 사람 많다던데."
+  }
+}

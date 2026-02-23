@@ -1,0 +1,30 @@
+{
+  "id": "cave-in_0cf0fd38",
+  "expression": "cave in",
+  "selectionMeta": {
+    "selectedPhrase": "cave in",
+    "selectedSenseLabelKo": "굴복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of heated negotiations, the company finally caved in and agreed to the workers' demands for better benefits."
+  },
+  "step2": {
+    "story": "The marketing team pushed back hard against the budget cuts for three straight meetings. But when the CEO personally stepped in and laid out the financial reality, even the most stubborn directors caved in. By Friday, everyone had signed off on the revised plan without further protest.",
+    "topicTag": "workplace negotiation",
+    "moodTag": "resigned"
+  },
+  "step3": {
+    "story": "Julia had been holding firm on her position for days. She believed the project timeline was unrealistic and told her manager she wouldn't commit to it. Her colleagues started dropping hints that upper management was growing impatient. One by one, other team members who had shared her concern quietly caved in and accepted the deadline. Julia stood alone in the conference room, feeling the weight of everyone's eyes on her. In the end, she too caved in, knowing that fighting a losing battle would only damage her reputation.",
+    "topicTag": "peer pressure at work",
+    "moodTag": "conflicted"
+  },
+  "meaning": {
+    "literalMeaningKo": "동굴이 안으로 무너지듯이, 외부 압력에 의해 안으로 무너져 내리다.",
+    "realUsageKo": "압력이나 설득에 못 이겨 결국 상대의 요구를 받아들이거나 자신의 입장을 포기할 때 사용합니다. '결국 굴복하다', '항복하다'의 의미로 쓰입니다.",
+    "etymologyKo": "동굴(cave)이 내부로(in) 붕괴되는 물리적 이미지에서 유래했습니다. 외부 압력을 견디지 못하고 구조물이 무너지듯, 사람의 의지가 꺾이는 모습을 비유적으로 표현합니다.",
+    "nuanceKo": "단순히 동의하는 것이 아니라, 저항하다가 결국 포기했다는 뉘앙스가 강합니다. 약간의 부정적이거나 아쉬운 감정이 담겨 있으며, 자발적 동의보다는 어쩔 수 없이 받아들인 느낌을 줍니다.",
+    "shortExampleEn": "He didn't want to lend his car, but he caved in when his sister kept begging.",
+    "shortExampleKo": "그는 차를 빌려주고 싶지 않았지만, 여동생이 계속 부탁하자 결국 굴복했다."
+  }
+}

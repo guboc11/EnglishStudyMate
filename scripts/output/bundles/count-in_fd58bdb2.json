@@ -1,0 +1,30 @@
+{
+  "id": "count-in_fd58bdb2",
+  "expression": "count in",
+  "selectionMeta": {
+    "selectedPhrase": "count in",
+    "selectedSenseLabelKo": "포함시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you're ordering pizza for the team, count me in — I'm starving."
+  },
+  "step2": {
+    "story": "When Sarah announced a weekend hiking trip, everyone hesitated at first. But once Jake said he'd go, the rest of the group quickly asked to be counted in. By Friday, twelve people had signed up for the adventure.",
+    "topicTag": "friendship",
+    "moodTag": "enthusiastic"
+  },
+  "step3": {
+    "story": "Marcus had been running a small book club for months, but attendance was dwindling. One evening, his coworker Priya overheard him talking about the next reading selection and said, \"That sounds amazing — count me in.\" Her excitement was contagious, and soon two more colleagues asked to join as well. Marcus couldn't believe how quickly the group was growing again. He decided to move the meetings to a bigger café to fit everyone. Sometimes all it takes is one person's enthusiasm to turn things around.",
+    "topicTag": "community building",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'안에 세다'라는 뜻으로, 숫자를 셀 때 누군가를 포함시킨다는 의미입니다.",
+    "realUsageKo": "어떤 활동이나 계획에 참여하겠다고 할 때, 또는 누군가를 참여시키고 싶을 때 사용합니다. 'Count me in!'은 '나도 끼워줘!'라는 뜻으로 매우 자주 쓰입니다.",
+    "etymologyKo": "count(세다)와 in(안에)의 결합으로, 인원수를 셀 때 그 안에 포함시킨다는 직관적인 표현에서 유래했습니다.",
+    "nuanceKo": "긍정적이고 적극적인 참여 의사를 나타내는 캐주얼한 표현입니다. 격식 없는 상황에서 주로 쓰이며, 반대말은 'count out'입니다.",
+    "shortExampleEn": "We're going to the concert tonight — should I count you in?",
+    "shortExampleKo": "우리 오늘 밤 콘서트에 갈 건데 — 너도 포함시킬까?"
+  }
+}

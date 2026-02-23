@@ -1,0 +1,30 @@
+{
+  "id": "bring-home-the-bacon_459a3edb",
+  "expression": "bring home the bacon",
+  "selectionMeta": {
+    "selectedPhrase": "bring home the bacon",
+    "selectedSenseLabelKo": "생계를 책임지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing his office job, Michael started freelancing as a graphic designer to bring home the bacon for his young family."
+  },
+  "step2": {
+    "story": "Jenna had always been the one to bring home the bacon while her husband stayed home with the kids. When her company announced layoffs, she spent every evening applying to new positions. Within two weeks, she landed a role with even better pay and finally exhaled with relief.",
+    "topicTag": "family responsibility",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Growing up, David watched his mother work double shifts at the hospital to bring home the bacon after his father left. She never once complained, always greeting him with a warm smile when she finally got home. That memory stuck with him through college and into his career. Now a successful engineer, David sends money home every month without being asked. His mother tells him he doesn't have to, but he knows what it feels like to struggle. For him, bringing home the bacon isn't just about money — it's about showing love through sacrifice.",
+    "topicTag": "gratitude and sacrifice",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '베이컨을 집으로 가져오다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '생계를 꾸리다', '돈을 벌어오다'라는 의미로 사용됩니다. 가족이나 가정을 경제적으로 부양하는 상황에서 주로 쓰입니다.",
+    "etymologyKo": "12세기 영국 던모우 마을에서 결혼 1년 동안 싸우지 않은 부부에게 베이컨을 상으로 주던 전통에서 유래했다는 설이 있습니다. 이후 '상을 타오다'에서 '돈을 벌어오다'로 의미가 확장되었습니다.",
+    "nuanceKo": "약간 구어적이고 친근한 느낌의 표현으로, 진지한 비즈니스 상황보다는 일상 대화에서 자주 쓰입니다. 가정 내 경제적 역할을 강조할 때 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Someone has to bring home the bacon, so I picked up extra shifts this month.",
+    "shortExampleKo": "누군가는 생계를 책임져야 하니까, 이번 달에 추가 근무를 잡았어."
+  }
+}

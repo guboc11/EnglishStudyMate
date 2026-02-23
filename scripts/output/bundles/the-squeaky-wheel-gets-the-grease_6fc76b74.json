@@ -1,0 +1,30 @@
+{
+  "id": "the-squeaky-wheel-gets-the-grease_6fc76b74",
+  "expression": "the squeaky wheel gets the grease",
+  "selectionMeta": {
+    "selectedPhrase": "the squeaky wheel gets the grease",
+    "selectedSenseLabelKo": "우는 아이가 떡을 받는다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of silence, Jamie finally complained about the broken heater in her apartment, proving once again that the squeaky wheel gets the grease."
+  },
+  "step2": {
+    "story": "Three employees had been quietly frustrated about the outdated software for months. When Marcus finally brought it up at the all-hands meeting, management approved a budget for new tools within a week. His coworkers learned the hard way that the squeaky wheel gets the grease.",
+    "topicTag": "workplace advocacy",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "Nora had been waiting patiently for a room transfer at her university dormitory since September. Her roommate played loud music at all hours, but Nora kept telling herself things would improve. Meanwhile, her friend Priya, who had a much smaller complaint about a flickering light, emailed the housing office three times and even showed up in person. Priya got moved to a brand-new suite within two weeks. Frustrated, Nora finally marched into the housing office herself and laid out her situation in detail. The coordinator apologized and fast-tracked her transfer, reminding Nora that the squeaky wheel gets the grease — and that staying silent had only hurt her own cause.",
+    "topicTag": "self-advocacy",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "삐걱거리는 바퀴가 기름칠을 받는다는 뜻으로, 문제를 소리 내어 알리는 쪽이 관심과 해결을 얻는다는 의미입니다.",
+    "realUsageKo": "불만이나 필요를 적극적으로 표현하는 사람이 결국 원하는 것을 얻게 된다는 의미로 사용됩니다. 조용히 참기보다는 목소리를 내야 한다는 조언으로 자주 쓰입니다.",
+    "etymologyKo": "19세기 미국에서 유래한 속담으로, 마차 바퀴가 삐걱거리면 윤활유를 발라 주듯이, 문제를 알리는 쪽이 먼저 조치를 받는다는 경험에서 비롯되었습니다.",
+    "nuanceKo": "긍정적으로는 자기 주장의 중요성을 강조하지만, 때로는 시끄럽게 불평하는 사람만 혜택을 본다는 약간의 비꼬는 뉘앙스도 있습니다. 격식 없는 대화에서 주로 사용됩니다.",
+    "shortExampleEn": "If you want a raise, speak up — the squeaky wheel gets the grease.",
+    "shortExampleKo": "인상을 원하면 말을 해야 해 — 우는 아이가 떡을 받는 법이잖아."
+  }
+}

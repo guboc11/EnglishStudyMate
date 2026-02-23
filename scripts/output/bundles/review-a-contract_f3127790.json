@@ -1,0 +1,30 @@
+{
+  "id": "review-a-contract_f3127790",
+  "expression": "review a contract",
+  "selectionMeta": {
+    "selectedPhrase": "review a contract",
+    "selectedSenseLabelKo": "계약서를 검토하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before signing anything, our legal team needs to review the contract carefully to make sure all the terms are fair."
+  },
+  "step2": {
+    "story": "Sarah had been excited about the new partnership deal until her lawyer asked her to slow down. He spent the entire afternoon reviewing the contract and found several hidden clauses that could have cost her company thousands. She was grateful she hadn't rushed into signing.",
+    "topicTag": "business caution",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "James had just been promoted to head of procurement, and his first major task was negotiating a supply agreement with an overseas manufacturer. The initial draft looked promising, but his mentor reminded him to never skip due diligence. James sat down with the legal department to review the contract line by line. They discovered that the penalty clauses were heavily one-sided, and the delivery timeline had no built-in flexibility. After two rounds of revisions, they reached terms that protected both parties. It was a valuable lesson — reviewing a contract thoroughly was just as important as landing the deal itself.",
+    "topicTag": "professional growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "계약서를 검토하다 — 말 그대로 계약 문서의 내용을 꼼꼼히 살펴보는 것을 의미합니다.",
+    "realUsageKo": "비즈니스 상황에서 계약 조건, 법적 조항, 의무 사항 등을 서명 전에 면밀히 확인하는 과정을 뜻합니다. 변호사나 법무팀이 하는 경우가 많지만, 일반 비즈니스 맥락에서도 널리 쓰입니다.",
+    "etymologyKo": "'review'는 프랑스어 'revue'에서 유래하여 '다시 보다'라는 뜻이고, 'contract'는 라틴어 'contractus(함께 끌어당기다)'에서 온 말로, 양측이 합의한 약속 문서를 의미합니다.",
+    "nuanceKo": "단순히 읽는 것이 아니라, 문제점이나 불리한 조건이 없는지 비판적으로 분석한다는 뉘앙스가 있습니다. 격식 있는 비즈니스 표현으로, 전문적이고 신중한 인상을 줍니다.",
+    "shortExampleEn": "Please have your lawyer review the contract before you sign it.",
+    "shortExampleKo": "서명하기 전에 변호사에게 계약서를 검토해 달라고 하세요."
+  }
+}

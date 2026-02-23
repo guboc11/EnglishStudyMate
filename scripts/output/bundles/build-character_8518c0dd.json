@@ -1,0 +1,30 @@
+{
+  "id": "build-character_8518c0dd",
+  "expression": "build character",
+  "selectionMeta": {
+    "selectedPhrase": "build character",
+    "selectedSenseLabelKo": "인격을 키우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My grandmother always said that facing hardship early in life helps you build character."
+  },
+  "step2": {
+    "story": "After losing the championship game, the young athlete felt crushed. His coach sat beside him and said, 'Wins are great, but losses like this build character.' Years later, he realized that defeat taught him more than any trophy ever could.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Jisoo first moved abroad for university, everything felt overwhelming. She struggled with the language, missed her family, and failed her first midterm exam. Her roommate, noticing her frustration, shared her own story of arriving with nothing and slowly finding her way. 'These tough moments build character,' she said with a warm smile. Jisoo took those words to heart and began embracing each challenge as a lesson rather than a setback. By graduation, she looked back and understood that the hardest semester had shaped her into the resilient person she had become.",
+    "topicTag": "studying abroad",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '성격/인격을 쌓다'라는 뜻입니다.",
+    "realUsageKo": "어려운 경험이나 도전이 사람의 내면을 강하고 성숙하게 만든다는 의미로 사용됩니다. 주로 힘든 상황을 긍정적으로 바라볼 때 쓰입니다.",
+    "etymologyKo": "'build'는 '쌓다, 건설하다'라는 뜻이고, 'character'는 그리스어 'kharaktēr(각인된 표시)'에서 유래하여 한 사람의 본질적 성품을 의미합니다.",
+    "nuanceKo": "격려나 위로의 맥락에서 자주 사용되며, 고난을 통한 성장이라는 긍정적 뉘앙스를 담고 있습니다. 때로는 힘든 상황을 가볍게 넘기려는 유머러스한 톤으로도 쓰입니다.",
+    "shortExampleEn": "Volunteering in difficult conditions really builds character.",
+    "shortExampleKo": "힘든 환경에서의 봉사활동은 정말로 인격을 키워줍니다."
+  }
+}

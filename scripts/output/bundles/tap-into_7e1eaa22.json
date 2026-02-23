@@ -1,0 +1,30 @@
+{
+  "id": "tap-into_7e1eaa22",
+  "expression": "tap into",
+  "selectionMeta": {
+    "selectedPhrase": "tap into",
+    "selectedSenseLabelKo": "활용하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to tap into her savings to fund a trip abroad after years of working nonstop."
+  },
+  "step2": {
+    "story": "Maya had been feeling stuck at her marketing job for months. One evening, she signed up for an improv comedy class, hoping to tap into her creative side. Within weeks, her fresh ideas at work started turning heads.",
+    "topicTag": "career growth",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Jordan stared at the blank canvas in his garage studio, frustrated that nothing was coming to him. He had quit his accounting job six months ago to pursue art full-time, but the inspiration he once felt had dried up. His neighbor, an elderly jazz musician, suggested he try listening to music while painting. That night, Jordan put on a Miles Davis record, closed his eyes, and let the melody guide his brush. For the first time in weeks, he managed to tap into that deep well of emotion he thought he had lost. By morning, the canvas held something raw and honest — his best work yet.",
+    "topicTag": "artistic struggle",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'tap'은 수도꼭지를 열다, 'into'는 안으로라는 뜻으로, 무언가 안에 있는 자원을 꼭지를 틀어 꺼내는 이미지입니다.",
+    "realUsageKo": "숨겨진 능력, 자원, 감정, 시장 등을 적극적으로 활용하거나 접근할 때 사용합니다. '잠재력을 끌어내다', '자원을 활용하다'라는 뉘앙스입니다.",
+    "etymologyKo": "원래 나무에 꼭지를 박아 수액을 빼내는 행위(tap a tree)에서 유래했으며, 보이지 않는 곳에 저장된 것을 끌어낸다는 비유로 확장되었습니다.",
+    "nuanceKo": "단순히 '사용하다(use)'보다 훨씬 적극적이고 전략적인 느낌입니다. 아직 활용되지 않은 잠재적 자원에 접근한다는 뉘앙스가 강합니다.",
+    "shortExampleEn": "The company plans to tap into the Asian market next year.",
+    "shortExampleKo": "그 회사는 내년에 아시아 시장을 공략할 계획이다."
+  }
+}

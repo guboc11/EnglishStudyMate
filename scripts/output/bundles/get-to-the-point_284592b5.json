@@ -1,0 +1,30 @@
+{
+  "id": "get-to-the-point_284592b5",
+  "expression": "get to the point",
+  "selectionMeta": {
+    "selectedPhrase": "get to the point",
+    "selectedSenseLabelKo": "본론으로 들어가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Stop rambling and get to the point — we only have five minutes left in the meeting."
+  },
+  "step2": {
+    "story": "My manager kept glancing at his watch during the presentation. I realized I was spending too much time on background details, so I decided to get to the point and share the key findings right away. He nodded with relief and the meeting ended on time.",
+    "topicTag": "workplace communication",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Sarah had been preparing her pitch for weeks, filling her slides with charts, statistics, and long introductions. When she finally stood before the investors, she noticed their eyes glazing over after the third slide. One of them leaned forward and said, \"Could you please get to the point?\" Sarah paused, took a deep breath, and skipped ahead to her core idea — a subscription model that could triple their revenue. The room instantly came alive with questions. She learned that day that brevity is the soul of persuasion.",
+    "topicTag": "business pitch",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '요점에 도달하다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 불필요한 말을 줄이고 핵심 내용을 말하라는 의미로 사용됩니다. 회의, 대화, 발표 등에서 상대방이 너무 장황하게 말할 때 자주 쓰입니다.",
+    "etymologyKo": "중세 영어에서 'point'는 논쟁이나 이야기의 핵심 주제를 뜻했으며, 'get to'는 도달하다라는 의미로 결합되어 '본론에 이르다'라는 표현이 되었습니다.",
+    "nuanceKo": "상황에 따라 정중한 요청이 될 수도 있고, 상대방의 장황한 말에 대한 짜증이나 조급함을 표현할 수도 있습니다. 직접적인 표현이므로 격식 있는 자리에서는 'Could you get to the point?'처럼 완곡하게 사용합니다.",
+    "shortExampleEn": "I appreciate the context, but can you get to the point?",
+    "shortExampleKo": "배경 설명은 고맙지만, 본론으로 들어가 주시겠어요?"
+  }
+}

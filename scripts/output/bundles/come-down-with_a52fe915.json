@@ -1,0 +1,30 @@
+{
+  "id": "come-down-with_a52fe915",
+  "expression": "come down with",
+  "selectionMeta": {
+    "selectedPhrase": "come down with",
+    "selectedSenseLabelKo": "병에 걸리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I think I'm coming down with the flu — my throat's been sore since this morning."
+  },
+  "step2": {
+    "story": "Jake had been pushing himself all week with late nights at the office. By Friday morning, his body finally gave in — he came down with a terrible cold. He spent the entire weekend wrapped in blankets, regretting every skipped meal and lost hour of sleep.",
+    "topicTag": "health and rest",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Mina had been excited about her trip to Jeju for months. She packed her bags the night before, double-checked her flight time, and set three alarms. But when she woke up, her head was pounding and her body ached everywhere. She had come down with a nasty stomach bug overnight. Her mom brought her ginger tea and insisted she cancel the trip. Mina stared at her suitcase by the door, feeling defeated. She promised herself she'd rebook the moment she recovered.",
+    "topicTag": "travel plans disrupted",
+    "moodTag": "disappointed"
+  },
+  "meaning": {
+    "literalMeaningKo": "'come down with'는 직역하면 '~와 함께 내려오다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 감기, 독감, 복통 등 병에 걸리기 시작할 때 사용합니다. 'I came down with a cold'처럼 증상이 나타나기 시작하는 순간을 표현합니다.",
+    "etymologyKo": "병이 몸을 '내리누르다(come down)'라는 비유에서 유래했으며, 'with' 뒤에 병명을 붙여 사용하게 된 구동사입니다.",
+    "nuanceKo": "일상 대화에서 자연스럽게 쓰이는 표현으로, 'get sick'보다 구체적이고 구어적인 느낌입니다. 주로 감기, 독감 등 비교적 가벼운 질병에 많이 사용합니다.",
+    "shortExampleEn": "She came down with a cold right before the interview.",
+    "shortExampleKo": "그녀는 면접 직전에 감기에 걸렸다."
+  }
+}

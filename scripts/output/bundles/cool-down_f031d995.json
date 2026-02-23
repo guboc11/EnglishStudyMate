@@ -1,0 +1,30 @@
+{
+  "id": "cool-down_f031d995",
+  "expression": "cool down",
+  "selectionMeta": {
+    "selectedPhrase": "cool down",
+    "selectedSenseLabelKo": "식히다 / 진정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the intense argument, she stepped outside to cool down before saying something she'd regret."
+  },
+  "step2": {
+    "story": "Mark slammed his laptop shut after reading the unfair performance review. His colleague noticed and suggested they grab coffee. 'You need to cool down before you reply to that email,' she said wisely.",
+    "topicTag": "work stress",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "The kitchen was a disaster. Burnt pasta stuck to the pot, smoke filled the air, and the fire alarm was screaming. Jina's roommate had tried to cook dinner as a surprise but clearly things had gone wrong. Jina felt her blood pressure rising as she surveyed the mess. She took a deep breath and walked to the balcony to cool down. After five minutes of fresh air, she came back inside with a calmer mind and simply said, 'Next time, let's cook together.'",
+    "topicTag": "daily life",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "온도가 내려가다, 차갑게 식다라는 뜻입니다.",
+    "realUsageKo": "실제로는 화가 나거나 흥분한 감정을 가라앉히다, 진정하다라는 의미로 많이 씁니다. 물리적으로 뜨거운 것이 식는 상황에서도 사용합니다.",
+    "etymologyKo": "cool(차가운)과 down(아래로)이 결합된 구동사로, 열기가 아래로 내려간다는 물리적 이미지에서 감정이 가라앉는다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "일상 대화에서 매우 자연스럽게 쓰이는 표현으로, 'calm down'보다 부드럽고 덜 명령적인 느낌입니다. 상대방에게 진정하라고 할 때 좀 더 편하게 쓸 수 있습니다.",
+    "shortExampleEn": "Let's cool down and talk about this later.",
+    "shortExampleKo": "일단 진정하고 나중에 이야기하자."
+  }
+}

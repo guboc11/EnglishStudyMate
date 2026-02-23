@@ -1,0 +1,30 @@
+{
+  "id": "establish-trust_56c2f31a",
+  "expression": "establish trust",
+  "selectionMeta": {
+    "selectedPhrase": "establish trust",
+    "selectedSenseLabelKo": "신뢰를 구축하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It takes consistent effort and honesty to establish trust with a new team."
+  },
+  "step2": {
+    "story": "When Mina joined the remote startup, nobody knew her work style yet. She made a point of delivering every task on time and being transparent about challenges. Within two months, she had managed to establish trust with the entire team.",
+    "topicTag": "workplace relationships",
+    "moodTag": "earnest"
+  },
+  "step3": {
+    "story": "David had been appointed as the new project manager, replacing someone the team deeply respected. From day one, he felt the quiet resistance in every meeting. Rather than demanding authority, he chose to listen carefully and follow through on every promise he made. He stayed late to help teammates debug issues that weren't even his responsibility. Slowly, people began coming to him for advice instead of avoiding him. It had taken months of patience, but David finally managed to establish trust — not through his title, but through his actions.",
+    "topicTag": "leadership",
+    "moodTag": "patient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'establish'는 '확립하다/세우다', 'trust'는 '신뢰'로, 직역하면 '신뢰를 확립하다'입니다.",
+    "realUsageKo": "새로운 관계나 환경에서 상대방과 믿음을 쌓아가는 과정을 표현할 때 사용합니다. 비즈니스, 팀워크, 개인 관계 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "'establish'는 라틴어 'stabilire(안정시키다)'에서 유래했고, 'trust'는 고대 노르드어 'traust(신뢰, 보호)'에서 왔습니다. 두 단어의 결합은 '신뢰라는 기반을 단단히 세운다'는 의미를 담고 있습니다.",
+    "nuanceKo": "단순히 '믿다(trust someone)'와 달리, establish trust는 시간과 노력을 들여 신뢰를 '구축'하는 과정을 강조합니다. 격식 있는 표현으로 비즈니스 및 전문적인 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "The new CEO worked hard to establish trust with employees after the scandal.",
+    "shortExampleKo": "새 CEO는 스캔들 이후 직원들과 신뢰를 구축하기 위해 열심히 노력했다."
+  }
+}

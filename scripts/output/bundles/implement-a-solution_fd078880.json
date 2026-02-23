@@ -1,0 +1,30 @@
+{
+  "id": "implement-a-solution_fd078880",
+  "expression": "implement a solution",
+  "selectionMeta": {
+    "selectedPhrase": "implement a solution",
+    "selectedSenseLabelKo": "해결책을 실행하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After weeks of brainstorming, the team finally decided to implement a solution that would streamline the entire workflow."
+  },
+  "step2": {
+    "story": "The server kept crashing every Friday afternoon, and the engineering team was under pressure from management. After analyzing the root cause, Sarah proposed a database optimization plan, and the team worked through the weekend to implement a solution before Monday's product launch.",
+    "topicTag": "problem solving",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For months, the customer service department had been drowning in complaints about delayed shipments. Every week, the same issue appeared in reports, but no one took ownership. Finally, the new operations manager, Jinho, gathered data from every department involved in the supply chain. He identified three critical bottlenecks and presented his findings to the executive board. With their approval, he was able to implement a solution that automated order tracking and reduced delivery times by forty percent. Within a quarter, customer satisfaction scores reached an all-time high.",
+    "topicTag": "operational efficiency",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'해결책을 실행하다'라는 뜻으로, 문제를 해결하기 위한 방안을 실제로 적용하고 실행에 옮기는 것을 의미합니다.",
+    "realUsageKo": "비즈니스나 기술 분야에서 문제를 분석한 후 구체적인 해결 방안을 실제로 도입하거나 적용할 때 사용합니다. 단순히 아이디어를 내는 것이 아니라, 실질적으로 행동에 옮기는 단계를 강조합니다.",
+    "etymologyKo": "implement는 라틴어 'implere(채우다, 이행하다)'에서 유래했으며, solution은 라틴어 'solutio(풀기, 해결)'에서 왔습니다. 두 단어가 결합되어 '해결책을 실제로 이행하다'라는 비즈니스 핵심 표현이 되었습니다.",
+    "nuanceKo": "격식 있는 비즈니스 표현으로, 회의나 보고서에서 자주 사용됩니다. 'fix the problem'보다 체계적이고 전문적인 느낌을 줍니다. 주로 계획과 분석이 선행된 후의 실행 단계를 나타냅니다.",
+    "shortExampleEn": "We need to implement a solution before the end of this quarter.",
+    "shortExampleKo": "이번 분기가 끝나기 전에 해결책을 실행해야 합니다."
+  }
+}

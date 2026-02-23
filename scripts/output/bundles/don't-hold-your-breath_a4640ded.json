@@ -1,0 +1,30 @@
+{
+  "id": "don't-hold-your-breath_a4640ded",
+  "expression": "don't hold your breath",
+  "selectionMeta": {
+    "selectedPhrase": "don't hold your breath",
+    "selectedSenseLabelKo": "기대하지 마라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He promised to pay me back by Friday, but don't hold your breath — he's never on time with money."
+  },
+  "step2": {
+    "story": "Lisa asked her manager about the promotion she was promised six months ago. Her coworker whispered, \"Don't hold your breath — they said the same thing to me two years ago.\" Lisa sighed and started updating her resume that evening.",
+    "topicTag": "career frustration",
+    "moodTag": "cynical"
+  },
+  "step3": {
+    "story": "Jake had been waiting for the city to fix the pothole on his street for over a year. Every month, he called the municipal office and got the same answer: \"It's on the list.\" His neighbor Mrs. Chen laughed when he mentioned it. \"Don't hold your breath,\" she said, pointing to a crack in the sidewalk. \"I reported that one when my daughter was in elementary school. She's in college now.\" Jake stared at the crumbling concrete and realized some battles weren't worth fighting. He bought a bag of cold patch from the hardware store and filled the pothole himself that weekend.",
+    "topicTag": "bureaucracy",
+    "moodTag": "resigned"
+  },
+  "meaning": {
+    "literalMeaningKo": "숨을 참지 마라 — 말 그대로 숨을 멈추고 기다리지 말라는 뜻입니다.",
+    "realUsageKo": "어떤 일이 일어날 가능성이 매우 낮으니 기대하지 말라는 뜻으로 사용됩니다. 상대방의 희망에 찬물을 끼얹는 느낌으로 쓰입니다.",
+    "etymologyKo": "숨을 참고 기다린다는 것은 결과가 곧 나올 거라 기대하며 긴장하는 모습을 비유한 것입니다. 그렇게 하지 말라는 것은 곧 오래 기다려도 소용없다는 의미로 발전했습니다.",
+    "nuanceKo": "비꼬는 톤이나 현실적인 조언의 느낌으로 주로 사용됩니다. 친한 사이에서 농담처럼 쓰이기도 하지만, 상황에 따라 냉소적으로 들릴 수 있습니다.",
+    "shortExampleEn": "They said they'd call back, but don't hold your breath.",
+    "shortExampleKo": "다시 전화준다고 했지만, 기대하지 마."
+  }
+}

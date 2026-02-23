@@ -1,0 +1,30 @@
+{
+  "id": "run-a-risk_d781d802",
+  "expression": "run a risk",
+  "selectionMeta": {
+    "selectedPhrase": "run a risk",
+    "selectedSenseLabelKo": "위험을 감수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "By investing all her savings into the startup, she knew she was running a risk, but the potential reward was too great to ignore."
+  },
+  "step2": {
+    "story": "David had a stable job at a bank, but he dreamed of opening his own restaurant. His friends warned him that he'd be running a risk by quitting, especially with a mortgage to pay. Still, he handed in his resignation the very next Monday, determined to chase what truly mattered to him.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the pharmaceutical company discovered a flaw in their new drug's trial data, the board faced a difficult decision. Releasing the drug on schedule would mean running a risk with patients' health, but delaying it would cost millions and disappoint investors. Dr. Park, the lead researcher, stood up during the meeting and laid out the facts plainly. She argued that no profit was worth gambling with people's lives. After a tense silence, the CEO agreed to postpone the launch and rerun the trials. It was a costly choice, but one that ultimately saved the company's reputation and, more importantly, protected countless patients.",
+    "topicTag": "ethical dilemma",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'위험을 달리다(run)'라는 뜻으로, 위험한 상황에 자발적으로 뛰어드는 것을 의미합니다.",
+    "realUsageKo": "어떤 행동이 부정적 결과를 초래할 가능성이 있음을 알면서도 그 행동을 선택하거나 감수할 때 사용합니다. 'take a risk'와 비슷하지만, run a risk는 좀 더 격식 있는 표현이며 부정적 결과에 초점을 맞추는 경향이 있습니다.",
+    "etymologyKo": "'run'은 중세 영어에서 '경로를 따라가다, 진행하다'라는 의미로 쓰였고, 여기서 '위험이라는 경로 위를 걸어가다'라는 비유적 표현이 파생되었습니다. 17세기경부터 'run a risk'로 정착했습니다.",
+    "nuanceKo": "일상 대화보다는 비즈니스, 뉴스, 공식적인 맥락에서 더 자주 쓰입니다. 'take a risk'가 도전적·긍정적 뉘앙스라면, 'run a risk'는 위험이나 손실 가능성을 좀 더 경고하는 톤입니다.",
+    "shortExampleEn": "If you don't back up your files, you run a risk of losing everything.",
+    "shortExampleKo": "파일을 백업하지 않으면 모든 것을 잃을 위험을 감수하는 셈이다."
+  }
+}

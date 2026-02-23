@@ -1,0 +1,30 @@
+{
+  "id": "cook-a-meal_d9702260",
+  "expression": "cook a meal",
+  "selectionMeta": {
+    "selectedPhrase": "cook a meal",
+    "selectedSenseLabelKo": "식사를 요리하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After a long day at work, I decided to cook a meal from scratch instead of ordering takeout."
+  },
+  "step2": {
+    "story": "Jina had been eating instant noodles all week because of her busy schedule. On Saturday morning, she finally had time to cook a meal for herself — a warm bowl of doenjang-jjigae with fresh vegetables. As the kitchen filled with a familiar aroma, she felt recharged and proud of herself.",
+    "topicTag": "self-care",
+    "moodTag": "comforting"
+  },
+  "step3": {
+    "story": "When David moved abroad for university, he realized he had no idea how to cook a meal on his own. His first attempt at making pasta ended with burnt noodles and a smoke alarm going off. Embarrassed but determined, he called his mother on video chat and asked her to teach him step by step. Over the next few months, he practiced every weekend, slowly building his confidence in the kitchen. By the end of the semester, his roommates were lining up whenever he decided to cook a meal. What started as a survival skill had become his favorite way to unwind after exams.",
+    "topicTag": "independence",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "음식을 요리하여 한 끼 식사를 만들다.",
+    "realUsageKo": "직접 재료를 준비하고 조리하여 식사를 만드는 행위를 뜻합니다. 외식이나 배달 대신 직접 요리한다는 뉘앙스로 자주 사용됩니다.",
+    "etymologyKo": "'cook'은 라틴어 'coquere(익히다)'에서 유래했고, 'meal'은 고대 영어 'mǣl(정해진 시간, 식사)'에서 왔습니다.",
+    "nuanceKo": "일상적이고 중립적인 표현으로 격식 없이 널리 쓰입니다. 'prepare a meal'보다 캐주얼하고 'make dinner'와 비슷한 느낌입니다.",
+    "shortExampleEn": "She cooks a meal for her family every evening.",
+    "shortExampleKo": "그녀는 매일 저녁 가족을 위해 식사를 요리한다."
+  }
+}

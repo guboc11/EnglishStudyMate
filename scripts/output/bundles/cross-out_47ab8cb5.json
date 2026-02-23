@@ -1,0 +1,30 @@
+{
+  "id": "cross-out_47ab8cb5",
+  "expression": "cross out",
+  "selectionMeta": {
+    "selectedPhrase": "cross out",
+    "selectedSenseLabelKo": "줄을 그어 지우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She crossed out the wrong answer and wrote the correct one above it."
+  },
+  "step2": {
+    "story": "Tom reviewed his grocery list before heading to the store. He noticed he had written 'butter' twice, so he crossed out the duplicate. With his clean list in hand, he grabbed his keys and headed out the door.",
+    "topicTag": "daily errands",
+    "moodTag": "organized"
+  },
+  "step3": {
+    "story": "Maya sat at her desk, staring at the draft of her resignation letter. She had rewritten it three times already, but nothing felt right. She crossed out the overly formal opening line and replaced it with something more honest. Her pen moved faster now, fueled by months of frustration she had kept bottled up. By the time she finished, the page was covered in crossed-out words and scribbled corrections, but the message was finally clear. She folded the letter, slipped it into an envelope, and felt a weight lift from her shoulders.",
+    "topicTag": "career change",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가 위에 선을 그어서 지우거나 삭제한다는 뜻입니다.",
+    "realUsageKo": "글씨나 항목 위에 줄을 그어 삭제 표시를 할 때 사용합니다. 완전히 지우는 것이 아니라 줄을 그어 '이건 취소/삭제'라는 표시를 하는 행위를 말합니다.",
+    "etymologyKo": "'cross'는 십자(X) 표시에서 유래했으며, 'out'은 제거·배제를 나타냅니다. 글자 위에 X나 줄을 긋는 동작에서 비롯된 표현입니다.",
+    "nuanceKo": "주로 손으로 직접 쓴 글씨를 지울 때 쓰며, 디지털 문서보다는 종이 위 필기 상황에서 자연스럽습니다. 'delete'보다 물리적이고 일상적인 느낌입니다.",
+    "shortExampleEn": "Please cross out any items you don't need on the list.",
+    "shortExampleKo": "목록에서 필요 없는 항목은 줄을 그어 지워 주세요."
+  }
+}

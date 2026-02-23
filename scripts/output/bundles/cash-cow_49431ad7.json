@@ -1,0 +1,30 @@
+{
+  "id": "cash-cow_49431ad7",
+  "expression": "cash cow",
+  "selectionMeta": {
+    "selectedPhrase": "cash cow",
+    "selectedSenseLabelKo": "수익 창출원",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The mobile gaming division has become the company's biggest cash cow, generating over half of its total revenue."
+  },
+  "step2": {
+    "story": "When Sarah joined the struggling publishing house, she noticed that their children's book series was a reliable cash cow. While other departments barely broke even, those colorful picture books kept the entire company afloat. She decided to expand the series rather than chase risky new ventures.",
+    "topicTag": "business strategy",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "Marcus had spent years building his small coffee roasting business from scratch. While he experimented with cold brews, flavored syrups, and seasonal blends, it was his simple house blend that turned out to be the real cash cow. Every month, subscription orders for that one blend outsold everything else combined. His investors kept pushing him to innovate, but Marcus knew better than to neglect what was working. He reinvested the steady profits into improving the supply chain for his best seller. Sometimes the smartest move in business is to protect the golden goose rather than chase the next shiny idea.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '돈을 만들어내는 소'라는 뜻입니다.",
+    "realUsageKo": "꾸준히 큰 수익을 창출하는 제품, 사업부, 또는 자산을 가리킬 때 사용합니다. 특별한 추가 투자 없이도 안정적으로 돈을 벌어다 주는 효자 상품이라는 뉘앙스입니다.",
+    "etymologyKo": "보스턴 컨설팅 그룹(BCG)의 성장-점유율 매트릭스에서 유래한 경영 용어로, 시장 점유율은 높지만 성장률이 낮아 꾸준히 현금을 창출하는 사업 단위를 소에 비유한 것입니다.",
+    "nuanceKo": "긍정적인 의미로 주로 쓰이지만, 때로는 '혁신 없이 기존 수익에만 의존한다'는 약간의 비판적 뉘앙스를 담기도 합니다. 비즈니스 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "Their flagship product is a real cash cow that funds all their new projects.",
+    "shortExampleKo": "그들의 주력 제품은 모든 신규 프로젝트에 자금을 대는 진정한 수익 창출원이다."
+  }
+}

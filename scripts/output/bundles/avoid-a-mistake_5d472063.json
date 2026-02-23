@@ -1,0 +1,30 @@
+{
+  "id": "avoid-a-mistake_5d472063",
+  "expression": "avoid a mistake",
+  "selectionMeta": {
+    "selectedPhrase": "avoid a mistake",
+    "selectedSenseLabelKo": "실수를 피하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Double-checking your work is the easiest way to avoid a mistake before submitting the report."
+  },
+  "step2": {
+    "story": "Sarah was about to send the email to all 500 clients when she noticed a typo in the pricing table. She quickly fixed it, relieved that she managed to avoid a mistake that could have cost the company thousands. Her manager later thanked her for being so careful.",
+    "topicTag": "attention to detail",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "James had been working on the financial report for three straight days, and exhaustion was starting to cloud his judgment. On the final evening, he almost entered last quarter's figures instead of the current ones. Fortunately, his colleague Mina spotted the discrepancy during their review session. She pointed at the screen and said, \"These numbers don't match the updated spreadsheet.\" Thanks to her sharp eyes, they were able to avoid a mistake that would have misled the entire board of directors. James made a mental note to always have a second pair of eyes on important documents.",
+    "topicTag": "teamwork",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "실수를 피하다, 즉 잘못된 행동이나 판단을 사전에 방지한다는 뜻입니다.",
+    "realUsageKo": "업무, 학습, 일상생활에서 신중하게 행동하여 오류나 실수를 미리 막을 때 널리 사용됩니다. '실수하지 않도록 조심하다'라는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "avoid는 고대 프랑스어 'esvuidier(비우다, 벗어나다)'에서 유래했고, mistake는 고대 노르드어 'mistaka(잘못 잡다)'에서 왔습니다. 합쳐서 '잘못을 비켜가다'라는 의미가 됩니다.",
+    "nuanceKo": "단순히 '실수를 안 하다'보다는 의식적으로 주의를 기울여 실수를 예방한다는 능동적인 느낌이 강합니다. 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "Read the instructions carefully to avoid a mistake.",
+    "shortExampleKo": "실수를 피하려면 설명서를 꼼꼼히 읽으세요."
+  }
+}

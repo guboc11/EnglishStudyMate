@@ -1,0 +1,30 @@
+{
+  "id": "drop-out_1fbdf65d",
+  "expression": "drop out",
+  "selectionMeta": {
+    "selectedPhrase": "drop out",
+    "selectedSenseLabelKo": "중퇴하다 / 빠지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to drop out of college to pursue her startup idea full-time."
+  },
+  "step2": {
+    "story": "Kevin had been struggling with his grades all semester, and the pressure was becoming unbearable. After a long conversation with his family, he made the difficult decision to drop out and take some time to figure out what he really wanted. It wasn't giving up — it was choosing a different path.",
+    "topicTag": "life decisions",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Maya stared at the university enrollment form on her desk, her pen hovering over the withdrawal section. For three years she had forced herself through lectures that felt meaningless, smiling through conversations about careers she didn't want. Last month, her small online bakery had started getting orders from all over the city, and she realized her passion had been calling her all along. She finally checked the box and decided to drop out. Her parents were shocked at first, but when they saw how alive she looked behind the counter of her new shop, they understood. Sometimes the bravest thing you can do is walk away from the expected path and build your own.",
+    "topicTag": "following passion",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "'drop(떨어지다) + out(밖으로)'로, 어떤 곳이나 활동에서 빠져나간다는 뜻입니다.",
+    "realUsageKo": "학교를 중퇴하거나, 경쟁·대회·프로젝트 등에서 중도 포기하고 빠질 때 사용합니다. 'drop out of school(학교를 그만두다)'이 가장 대표적인 용법입니다.",
+    "etymologyKo": "1960년대 미국 반문화 운동 시기에 '기존 체제에서 이탈하다'라는 의미로 널리 쓰이기 시작했으며, 특히 티모시 리어리의 'Turn on, tune in, drop out' 구호로 유명해졌습니다.",
+    "nuanceKo": "단순히 '그만두다'보다 자발적으로 빠져나간다는 느낌이 강하며, 학업 중퇴의 맥락에서는 약간 부정적인 뉘앙스가 있지만, 스타트업 창업 등 긍정적 맥락에서도 자주 쓰입니다.",
+    "shortExampleEn": "He dropped out of the race due to a knee injury.",
+    "shortExampleKo": "그는 무릎 부상으로 경주에서 빠졌다."
+  }
+}

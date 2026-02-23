@@ -1,0 +1,30 @@
+{
+  "id": "walk-out_6f9adc51",
+  "expression": "walk out",
+  "selectionMeta": {
+    "selectedPhrase": "walk out",
+    "selectedSenseLabelKo": "나가버리다 / 파업하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Half the staff decided to walk out after management refused to negotiate better working conditions."
+  },
+  "step2": {
+    "story": "The negotiations had stalled for hours, and tensions were rising. When the CEO dismissed their concerns again, the entire engineering team decided to walk out. By the next morning, the empty office forced the board to finally listen.",
+    "topicTag": "workplace conflict",
+    "moodTag": "defiant"
+  },
+  "step3": {
+    "story": "Mia had given the company five loyal years, enduring late nights and broken promises about promotions. When her manager took credit for her project in front of the entire board, something inside her snapped. She calmly closed her laptop, gathered her things, and decided to walk out right in the middle of the presentation. The room went silent as the door clicked shut behind her. Within a week, three other team members followed her lead. Sometimes the bravest thing you can do is simply leave.",
+    "topicTag": "self-respect",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "걸어서 밖으로 나가다라는 직역적 의미입니다.",
+    "realUsageKo": "불만이나 항의의 표시로 자리를 박차고 나가거나, 직장에서 파업하는 상황에서 사용됩니다. 단순히 나가는 것이 아니라 강한 불만의 의사 표현이 담겨 있습니다.",
+    "etymologyKo": "walk(걷다)와 out(밖으로)의 결합으로, 물리적으로 걸어 나가는 행위가 항의의 상징적 행동으로 확장된 표현입니다.",
+    "nuanceKo": "단순한 퇴장이 아닌 항의나 거부의 뉘앙스가 강합니다. 회의, 협상, 직장 등에서 불만을 행동으로 보여주는 결연한 느낌을 줍니다.",
+    "shortExampleEn": "The workers walked out to demand higher wages.",
+    "shortExampleKo": "노동자들은 임금 인상을 요구하며 파업에 들어갔다."
+  }
+}

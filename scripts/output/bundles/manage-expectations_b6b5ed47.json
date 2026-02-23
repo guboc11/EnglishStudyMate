@@ -1,0 +1,30 @@
+{
+  "id": "manage-expectations_b6b5ed47",
+  "expression": "manage expectations",
+  "selectionMeta": {
+    "selectedPhrase": "manage expectations",
+    "selectedSenseLabelKo": "기대를 관리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before launching the product, the team lead held a meeting to manage expectations about the initial sales numbers."
+  },
+  "step2": {
+    "story": "The startup's CEO knew their first quarter would be rough. She sat down with the investors to manage expectations, explaining that growth would be slow but steady. By being upfront, she earned their trust and avoided disappointment later.",
+    "topicTag": "business communication",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "When David was promoted to project manager, he inherited a team that had been promised an unrealistic deadline by his predecessor. On his first day, he gathered everyone in the conference room. He knew he had to manage expectations before frustration set in. He laid out a revised timeline with clear milestones, explaining why the original deadline was never feasible. Some clients pushed back at first, but David stayed calm and presented the data. Within a week, the team felt relieved and the clients appreciated the honesty.",
+    "topicTag": "leadership",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "기대(expectations)를 관리하다(manage)라는 뜻으로, 상대방이 가진 기대치를 적절히 조절한다는 의미입니다.",
+    "realUsageKo": "상대방이 비현실적이거나 과도한 기대를 갖지 않도록 미리 현실적인 상황을 알려주고 조율할 때 사용합니다. 비즈니스, 프로젝트 관리, 대인관계 등 다양한 상황에서 쓰입니다.",
+    "etymologyKo": "경영학과 커뮤니케이션 분야에서 유래한 표현으로, 1990년대 이후 비즈니스 영어에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "단순히 기대를 낮추라는 부정적 의미가 아니라, 현실적인 수준으로 조율하여 신뢰를 쌓겠다는 전문적이고 성숙한 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "We need to manage expectations — the report won't be ready until Friday.",
+    "shortExampleKo": "기대치를 조절해야 해요 — 보고서는 금요일까지는 준비가 안 될 거예요."
+  }
+}

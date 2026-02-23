@@ -1,0 +1,30 @@
+{
+  "id": "push-boundaries_4c96587c",
+  "expression": "push boundaries",
+  "selectionMeta": {
+    "selectedPhrase": "push boundaries",
+    "selectedSenseLabelKo": "경계를 넓히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always tries to push boundaries in her research, exploring ideas that others consider too risky."
+  },
+  "step2": {
+    "story": "The young architect refused to design another generic office tower. She wanted to push boundaries by combining sustainable materials with radical shapes no one had tried before. Her bold proposal won the international competition and changed the city's skyline forever.",
+    "topicTag": "creative ambition",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Marcus had spent ten years as a classical pianist, performing the same repertoire at prestigious concert halls. One evening, after a flawless but predictable performance, he stared at the piano and felt something was missing. He decided to push boundaries by blending jazz improvisation into his classical sets, a move his mentors warned would ruin his reputation. The first experimental concert drew mixed reviews, but a handful of listeners were visibly moved to tears. Within a year, musicians from both worlds sought him out for collaborations. Marcus realized that growth only happens when you are willing to step beyond what feels safe.",
+    "topicTag": "artistic growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '경계를 밀어낸다'는 뜻으로, 정해진 한계선을 물리적으로 밀어서 넓힌다는 이미지입니다.",
+    "realUsageKo": "기존의 한계나 관습을 넘어 새로운 시도를 하거나 혁신을 이루려 할 때 사용합니다. '한계를 뛰어넘다', '새로운 영역을 개척하다'와 비슷한 의미입니다.",
+    "etymologyKo": "boundary(경계)를 push(밀다)한다는 물리적 비유에서 유래했으며, 19세기 이후 탐험·과학·예술 분야에서 미지의 영역을 확장한다는 맥락으로 널리 쓰이게 되었습니다.",
+    "nuanceKo": "긍정적이고 도전적인 뉘앙스가 강합니다. 단순히 규칙을 어기는 것이 아니라, 더 나은 결과를 위해 기존 한계에 도전한다는 의미를 담고 있어 칭찬이나 격려의 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "Our team constantly pushes boundaries to deliver innovative products.",
+    "shortExampleKo": "우리 팀은 혁신적인 제품을 만들기 위해 끊임없이 한계를 넓혀 나갑니다."
+  }
+}

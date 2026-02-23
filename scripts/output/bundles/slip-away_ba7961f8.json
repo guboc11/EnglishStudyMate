@@ -1,0 +1,30 @@
+{
+  "id": "slip-away_ba7961f8",
+  "expression": "slip away",
+  "selectionMeta": {
+    "selectedPhrase": "slip away",
+    "selectedSenseLabelKo": "몰래 사라지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to slip away from the boring meeting without anyone noticing."
+  },
+  "step2": {
+    "story": "The conference dinner dragged on with endless speeches. Maya glanced at her watch and decided it was time to slip away. She grabbed her coat and quietly headed for the back exit, feeling instantly relieved as the cool night air hit her face.",
+    "topicTag": "social escape",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Daniel had been planning his surprise for weeks, but his girlfriend rarely left the apartment on weekends. On Saturday morning, he casually suggested she visit her sister across town. The moment she drove off, he rushed to set everything up. By the time she returned, the living room was filled with candles and her favorite flowers. She laughed and asked how he had managed to slip away from his usual lazy Saturday routine to pull this off. He winked and said some secrets are worth keeping.",
+    "topicTag": "surprise planning",
+    "moodTag": "playful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'slip'(미끄러지다)과 'away'(멀리)의 결합으로, 미끄러지듯 빠져나간다는 뜻입니다.",
+    "realUsageKo": "누군가 눈에 띄지 않게 조용히 자리를 뜨거나 사라질 때 사용합니다. 파티나 모임에서 인사 없이 몰래 빠져나가는 상황에서 자주 쓰입니다.",
+    "etymologyKo": "'slip'은 고대 영어에서 '미끄러지다'를 뜻하며, 중세 영어 시대부터 '몰래 움직이다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "부정적인 뉘앙스 없이 조용히 빠져나가는 느낌을 줍니다. 'sneak away'보다 부드럽고 자연스러운 표현입니다.",
+    "shortExampleEn": "He slipped away before the party ended.",
+    "shortExampleKo": "그는 파티가 끝나기 전에 몰래 빠져나갔다."
+  }
+}

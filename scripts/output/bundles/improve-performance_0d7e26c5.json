@@ -1,0 +1,30 @@
+{
+  "id": "improve-performance_0d7e26c5",
+  "expression": "improve performance",
+  "selectionMeta": {
+    "selectedPhrase": "improve performance",
+    "selectedSenseLabelKo": "성과를 개선하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager introduced weekly feedback sessions to improve performance across the entire sales team."
+  },
+  "step2": {
+    "story": "After receiving a disappointing quarterly review, Jason decided it was time to make real changes. He started tracking his daily output and asking for feedback from senior colleagues to improve performance. Within two months, his numbers were among the best in the department.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had been a software engineer at the company for three years, but her last evaluation was far from what she had hoped. Her team lead pointed out that her code reviews were slow and her deployment success rate had dropped. Frustrated but motivated, Elena enrolled in an advanced workshop and began pairing with a senior developer every afternoon. She also restructured her daily schedule to tackle the hardest tasks during her peak focus hours. Gradually, her colleagues noticed the shift, and by the next review cycle, she had managed to significantly improve performance. Her team lead praised the transformation and recommended her for a leadership track.",
+    "topicTag": "professional development",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'성과(performance)를 향상시키다(improve)'라는 뜻으로, 업무·학업·운동 등에서 결과물의 질이나 효율을 높이는 것을 의미합니다.",
+    "realUsageKo": "직장에서 업무 성과를 끌어올리거나, 운동선수가 기록을 개선하거나, 학생이 성적을 올릴 때 등 폭넓게 사용됩니다. 개인뿐 아니라 팀, 조직, 시스템의 성과 향상에도 쓰입니다.",
+    "etymologyKo": "'improve'는 중세 영어에서 프랑스어 'en profit(이익으로)'에서 유래했고, 'performance'는 'perform(수행하다)'에 '-ance'가 결합된 명사입니다. 두 단어가 결합해 '수행 결과를 더 낫게 만들다'라는 의미가 되었습니다.",
+    "nuanceKo": "격식·비격식 상관없이 두루 쓰이는 중립적 표현입니다. 비즈니스 보고서부터 일상 대화까지 자연스럽게 사용되며, 구체적 수치 개선부터 전반적 질적 향상까지 모두 포괄합니다.",
+    "shortExampleEn": "We need to improve performance before the end of the fiscal year.",
+    "shortExampleKo": "회계연도가 끝나기 전에 성과를 개선해야 합니다."
+  }
+}

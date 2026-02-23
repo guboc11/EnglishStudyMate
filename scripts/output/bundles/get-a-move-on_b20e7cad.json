@@ -1,0 +1,30 @@
+{
+  "id": "get-a-move-on_b20e7cad",
+  "expression": "get a move on",
+  "selectionMeta": {
+    "selectedPhrase": "get a move on",
+    "selectedSenseLabelKo": "서두르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to get a move on if we want to catch the 8 o'clock train."
+  },
+  "step2": {
+    "story": "Sarah glanced at the clock and realized they only had fifteen minutes before the interview started. She grabbed her keys and shouted to her roommate, \"Get a move on! We can't afford to be late for this.\" They rushed out the door and barely made it on time.",
+    "topicTag": "time pressure",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "The hiking group had been resting by the river for nearly an hour, enjoying the shade and cool breeze. Their guide, Mark, studied the darkening clouds rolling in from the west and frowned. \"Everyone, we need to get a move on before that storm hits,\" he announced firmly. The group quickly packed their water bottles and snacks, tightening their backpack straps. As they climbed the narrow trail uphill, the first rumble of thunder echoed through the valley. Thanks to Mark's warning, they reached the mountain shelter just as the rain began to pour.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '움직임을 얻다/시작하다'로, 행동을 개시하라는 의미입니다.",
+    "realUsageKo": "누군가에게 빨리 서두르라고 재촉할 때 사용합니다. 시간이 촉박하거나 지체되고 있을 때 '어서 움직여!', '빨리 서둘러!'라는 뉘앙스로 씁니다.",
+    "etymologyKo": "19세기 영국 군대에서 유래한 표현으로, 병사들에게 빠르게 행군을 시작하라는 명령에서 비롯되었습니다.",
+    "nuanceKo": "친근하지만 단호한 톤으로, 주로 가까운 사이에서 사용합니다. 격식 있는 자리보다는 일상 대화에서 자연스럽게 쓰이며, 약간의 조급함이 담겨 있습니다.",
+    "shortExampleEn": "Get a move on, or we'll miss the bus!",
+    "shortExampleKo": "서둘러, 안 그러면 버스 놓쳐!"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "set-an-alarm_10204143",
+  "expression": "set an alarm",
+  "selectionMeta": {
+    "selectedPhrase": "set an alarm",
+    "selectedSenseLabelKo": "알람을 맞추다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to set an alarm for 6 a.m. so I don't miss my morning flight."
+  },
+  "step2": {
+    "story": "Jiwon had an important job interview at nine in the morning. She decided to set an alarm for seven, giving herself plenty of time to get ready. When the alarm went off, she jumped out of bed feeling nervous but prepared.",
+    "topicTag": "job interview preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been oversleeping every day that week, and his boss was starting to notice. On Sunday night, he promised himself things would change. He grabbed his phone and decided to set an alarm for 5:30 a.m., a full hour earlier than usual. He even placed the phone across the room so he would have to physically get up to turn it off. The next morning, the alarm blared through the quiet apartment and Daniel stumbled out of bed, groggy but awake. He made it to work fifteen minutes early, coffee in hand, feeling like a completely new person.",
+    "topicTag": "building discipline",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "알람(시계)을 특정 시간에 울리도록 맞추다.",
+    "realUsageKo": "일어나야 할 시간이나 중요한 일정 전에 알림이 울리도록 설정할 때 사용합니다. 휴대폰이나 시계 모두에 쓸 수 있습니다.",
+    "etymologyKo": "'set'은 '설정하다/맞추다'라는 뜻이고, 'alarm'은 이탈리아어 'all'arme(무기를 들어라)'에서 유래한 경보·알림을 뜻합니다.",
+    "nuanceKo": "아주 일상적이고 중립적인 표현으로, 격식 없이 누구에게나 자연스럽게 쓸 수 있습니다. 'set'은 여기서 '시간을 맞추다'의 의미입니다.",
+    "shortExampleEn": "Don't forget to set an alarm — we have an early start tomorrow.",
+    "shortExampleKo": "알람 맞추는 거 잊지 마 — 내일 일찍 출발해야 해."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "exceed-expectations_ef64b8ba",
+  "expression": "exceed expectations",
+  "selectionMeta": {
+    "selectedPhrase": "exceed expectations",
+    "selectedSenseLabelKo": "기대를 초과하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Our new marketing campaign managed to exceed expectations, bringing in twice the projected revenue in just the first quarter."
+  },
+  "step2": {
+    "story": "The small startup pitched their product to a room full of skeptical investors. When the quarterly results came in, the team had managed to exceed expectations by a wide margin. Suddenly, every investor wanted a second meeting.",
+    "topicTag": "startup growth",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Jenna had only been at the consulting firm for six months when she was assigned to lead the Henderson account — a client notorious for being impossible to please. She spent weeks studying their pain points, rebuilding the proposal from scratch, and rehearsing her presentation until every detail was sharp. On the day of the pitch, the client's CEO leaned back in his chair and said he'd never seen such thorough work. The project went on to exceed expectations, delivering results thirty percent above the original targets. Her manager pulled her aside afterward and told her she was being fast-tracked for promotion. It was the moment Jenna realized that relentless preparation was her greatest competitive advantage.",
+    "topicTag": "career breakthrough",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "기대(expectations)를 초과하다(exceed), 즉 예상했던 수준보다 더 높은 결과를 내다라는 뜻입니다.",
+    "realUsageKo": "비즈니스에서 목표치나 기대치를 넘어서는 성과를 냈을 때 자주 사용합니다. 성과 평가, 프레젠테이션, 프로젝트 결과 보고 등 공식적인 맥락에서 특히 많이 쓰입니다.",
+    "etymologyKo": "exceed는 라틴어 excedere(넘어서 가다)에서 유래했으며, expectations는 라틴어 expectare(기다리다, 바라보다)에서 왔습니다. 두 단어가 결합하여 '기대하며 바라본 수준을 넘어서다'라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 '잘했다'보다 격식 있고 전문적인 표현입니다. 주로 긍정적인 맥락에서 사용되며, 비즈니스 보고서나 성과 리뷰에서 높은 평가를 나타낼 때 선호됩니다.",
+    "shortExampleEn": "The sales team exceeded expectations this quarter with record-breaking numbers.",
+    "shortExampleKo": "영업팀이 이번 분기에 기록적인 수치로 기대를 초과했다."
+  }
+}

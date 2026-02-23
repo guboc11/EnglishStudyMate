@@ -1,0 +1,30 @@
+{
+  "id": "do-the-dishes_38c1f267",
+  "expression": "do the dishes",
+  "selectionMeta": {
+    "selectedPhrase": "do the dishes",
+    "selectedSenseLabelKo": "설거지를 하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I promised my roommate I'd do the dishes tonight since she cooked dinner."
+  },
+  "step2": {
+    "story": "After a long family dinner, the kitchen was a mess. My brother tried to sneak away, but Mom caught him and said it was his turn to do the dishes. He groaned but rolled up his sleeves and got to work.",
+    "topicTag": "family responsibilities",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Sarah stared at the mountain of plates and pots stacked in the sink after the holiday party. She had been putting it off all morning, hoping someone else would volunteer. Finally, she put on her favorite podcast, filled the sink with warm soapy water, and started to do the dishes one by one. As she scrubbed each plate, she actually started to feel calmer. There was something oddly satisfying about watching the pile shrink. By the time she finished, the kitchen was spotless and her mood had completely turned around.",
+    "topicTag": "everyday mindfulness",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "접시들을 하다, 즉 식기를 씻는 행위를 의미합니다.",
+    "realUsageKo": "식사 후 싱크대에 쌓인 그릇, 냄비, 수저 등을 모두 씻는 것을 뜻합니다. 식기세척기를 돌리는 것도 포함됩니다.",
+    "etymologyKo": "'dishes'는 접시뿐 아니라 식사에 사용된 모든 식기류를 총칭하며, 'do'는 일상적인 집안일을 표현할 때 자주 쓰이는 동사입니다 (do the laundry, do the cleaning 등).",
+    "nuanceKo": "매우 일상적이고 구어적인 표현으로, 격식 없는 가정 내 대화에서 자주 쓰입니다. 'wash the dishes'보다 더 자연스럽고 흔하게 사용됩니다.",
+    "shortExampleEn": "Can you do the dishes while I put the kids to bed?",
+    "shortExampleKo": "내가 아이들 재울 동안 설거지 좀 해줄 수 있어?"
+  }
+}

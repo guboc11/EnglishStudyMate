@@ -1,0 +1,30 @@
+{
+  "id": "branch-out_09cebf52",
+  "expression": "branch out",
+  "selectionMeta": {
+    "selectedPhrase": "branch out",
+    "selectedSenseLabelKo": "영역을 넓히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After ten years in accounting, she decided to branch out and start her own consulting business."
+  },
+  "step2": {
+    "story": "Miguel had been a software developer for years, but he felt stuck doing the same work every day. When a friend invited him to co-teach a weekend coding bootcamp, he saw it as the perfect chance to branch out. That first class sparked a passion for education he never knew he had.",
+    "topicTag": "career exploration",
+    "moodTag": "adventurous"
+  },
+  "step3": {
+    "story": "Yuna's bakery had been famous in the neighborhood for its sourdough bread for over a decade. Customers loved it, but she couldn't shake the feeling that she was playing it too safe. One rainy afternoon, she sat down with her notebook and sketched out ideas for a whole new menu — pastries inspired by her travels through Southeast Asia. Her husband raised an eyebrow when she told him she wanted to branch out beyond bread. \"It's a risk,\" she admitted, \"but I need to grow.\" Within six months, her pandan croissants and ube tarts had people lining up around the block.",
+    "topicTag": "personal growth",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '가지를 뻗다'라는 뜻으로, 나무가 새로운 가지를 내밀듯 활동 범위를 넓히는 것을 의미합니다.",
+    "realUsageKo": "기존에 하던 일이나 분야에서 벗어나 새로운 영역으로 확장할 때 사용합니다. 사업 확장, 새로운 취미 시작, 커리어 전환 등 다양한 맥락에서 \"영역을 넓히다, 새로운 분야에 도전하다\"라는 의미로 쓰입니다.",
+    "etymologyKo": "나무의 가지(branch)가 줄기에서 뻗어 나가는 모습에서 유래한 비유적 표현입니다. 18세기부터 사업이나 활동의 확장을 묘사하는 데 사용되기 시작했습니다.",
+    "nuanceKo": "긍정적이고 도전적인 뉘앙스를 가진 표현입니다. 안전한 영역에서 벗어나 새로운 것을 시도한다는 의미가 담겨 있어, 용기와 성장의 느낌을 줍니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "The company plans to branch out into the European market next year.",
+    "shortExampleKo": "그 회사는 내년에 유럽 시장으로 영역을 넓힐 계획이다."
+  }
+}

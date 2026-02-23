@@ -1,0 +1,30 @@
+{
+  "id": "make-an-impact_e9ef3c14",
+  "expression": "make an impact",
+  "selectionMeta": {
+    "selectedPhrase": "make an impact",
+    "selectedSenseLabelKo": "영향을 미치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She wanted to make an impact in her community by organizing free weekend classes for children."
+  },
+  "step2": {
+    "story": "Jina had always felt invisible at her company, quietly doing her work without recognition. One day, she proposed a mentorship program that paired senior engineers with new hires. Within months, employee satisfaction scores soared, and everyone agreed that Jina had truly made an impact.",
+    "topicTag": "workplace contribution",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "When Daniel moved to a small coastal town, he noticed the local beach was littered with plastic waste every morning. Instead of just complaining, he started a sunrise cleanup crew, posting daily progress photos online. Word spread quickly, and within weeks dozens of volunteers joined him before work each day. Local businesses began sponsoring reusable bags and water bottles for the effort. By the end of summer, the beach was cleaner than it had been in years. Daniel never set out to become a leader, but he had made an impact that the whole town could see and feel.",
+    "topicTag": "community action",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '충격/영향을 만들다'라는 뜻입니다.",
+    "realUsageKo": "어떤 행동이나 노력이 눈에 띄는 변화나 긍정적인 결과를 가져올 때 사용합니다. '영향을 미치다', '변화를 만들다'라는 의미로 일상과 비즈니스 모두에서 널리 쓰입니다.",
+    "etymologyKo": "'impact'는 라틴어 'impactus(부딪힌)'에서 유래했으며, 원래 물리적 충돌을 의미했지만 현대 영어에서는 '강한 영향'이라는 추상적 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 영향을 준다는 것보다 의미 있고 눈에 보이는 변화를 이끌어냈다는 긍정적인 뉘앙스가 강합니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Even small acts of kindness can make an impact on someone's day.",
+    "shortExampleKo": "작은 친절한 행동도 누군가의 하루에 영향을 미칠 수 있습니다."
+  }
+}

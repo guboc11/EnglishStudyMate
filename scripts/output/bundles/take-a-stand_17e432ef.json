@@ -1,0 +1,30 @@
+{
+  "id": "take-a-stand_17e432ef",
+  "expression": "take a stand",
+  "selectionMeta": {
+    "selectedPhrase": "take a stand",
+    "selectedSenseLabelKo": "입장을 취하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of silence, she finally decided to take a stand against the unfair policy at work."
+  },
+  "step2": {
+    "story": "The new dress code policy banned all casual clothing, even on Fridays. Most employees just grumbled quietly, but Mina decided to take a stand. She wrote a detailed petition and gathered sixty signatures before presenting it to HR.",
+    "topicTag": "workplace fairness",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For months, the riverside park had been neglected by the city council. Trash piled up along the walking paths, and the playground equipment was rusting. Residents complained on social media, but nothing changed. Then a retired teacher named Mr. Cho decided to take a stand. He organized a weekend cleanup, invited local journalists, and posted before-and-after photos online. Within two weeks, the mayor's office announced a full renovation plan, proving that one person's courage could move an entire community.",
+    "topicTag": "community action",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '자리를 잡고 서다'라는 뜻으로, 물리적으로 한 지점에 굳건히 서는 것을 의미합니다.",
+    "realUsageKo": "실제로는 어떤 문제나 논쟁에 대해 자신의 입장을 분명히 밝히고 행동으로 옮기는 것을 뜻합니다. 단순히 의견을 말하는 것을 넘어, 신념을 지키기 위해 적극적으로 나서는 뉘앙스가 있습니다.",
+    "etymologyKo": "군사 용어에서 유래했습니다. 전투에서 병사들이 후퇴하지 않고 '자리를 지키며 서 있는 것(stand one's ground)'에서 발전하여, 신념이나 원칙을 위해 굳건히 맞서는 행위를 의미하게 되었습니다.",
+    "nuanceKo": "용기와 결단력이 필요한 상황에서 주로 사용됩니다. 다수의 의견에 반하거나 권력에 맞서는 경우가 많아 긍정적이고 존경의 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "It's time to take a stand for what you believe in.",
+    "shortExampleKo": "자신이 믿는 것을 위해 입장을 취할 때입니다."
+  }
+}

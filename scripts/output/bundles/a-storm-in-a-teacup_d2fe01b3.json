@@ -1,0 +1,30 @@
+{
+  "id": "a-storm-in-a-teacup_d2fe01b3",
+  "expression": "a storm in a teacup",
+  "selectionMeta": {
+    "selectedPhrase": "a storm in a teacup",
+    "selectedSenseLabelKo": "사소한 일을 크게 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The argument between the two coworkers over the office thermostat was really just a storm in a teacup."
+  },
+  "step2": {
+    "story": "When Lisa noticed someone had used her favorite mug at work, she sent a furious email to the entire team demanding answers. Her manager pulled her aside and gently pointed out that it was a storm in a teacup — there were dozens of identical mugs in the cabinet. Lisa laughed at herself and apologized to the team.",
+    "topicTag": "workplace drama",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "The neighborhood Facebook group exploded overnight when Mr. Daniels posted a photo of a trash bin left two inches over his property line. Within hours, dozens of comments poured in, some calling for a formal community meeting. Mrs. Chen, who had accidentally left the bin there, was horrified and nearly moved out of embarrassment. But the oldest resident on the street, retired judge Harold Park, typed a calm reply reminding everyone it was a storm in a teacup. He suggested they spend their energy on the upcoming charity bake sale instead. By the next morning, the argument had fizzled out and the bin was back where it belonged.",
+    "topicTag": "neighbor conflict",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "찻잔 속의 폭풍이라는 뜻으로, 아주 작은 공간에서 일어나는 큰 소동을 비유합니다.",
+    "realUsageKo": "실제로는 별것 아닌 일에 과도하게 반응하거나 큰 소란을 피우는 상황을 묘사할 때 사용합니다. '뭘 그렇게까지 난리야'라는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "18세기 영국에서 유래한 표현으로, 작은 찻잔 안에서는 아무리 세찬 폭풍도 큰 피해를 줄 수 없다는 비유에서 시작되었습니다. 미국에서는 'a tempest in a teapot'이라는 변형도 사용됩니다.",
+    "nuanceKo": "상대방의 반응이 과하다고 느낄 때 약간 가볍게 비꼬는 톤으로 쓰이는 경우가 많습니다. 직접 당사자에게 말하면 감정을 무시한다는 느낌을 줄 수 있으니 주의가 필요합니다.",
+    "shortExampleEn": "Don't worry about the schedule mix-up — it's just a storm in a teacup.",
+    "shortExampleKo": "일정 착오는 걱정하지 마 — 별거 아닌 일에 호들갑 떠는 거야."
+  }
+}

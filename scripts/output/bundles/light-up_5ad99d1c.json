@@ -1,0 +1,30 @@
+{
+  "id": "light-up_5ad99d1c",
+  "expression": "light up",
+  "selectionMeta": {
+    "selectedPhrase": "light up",
+    "selectedSenseLabelKo": "밝아지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her face lit up when she saw her old friend waiting at the airport."
+  },
+  "step2": {
+    "story": "Maya had been feeling down all week after a tough project at work. Then on Friday evening, her best friend surprised her with concert tickets. Her whole face lit up, and suddenly the exhaustion of the week melted away.",
+    "topicTag": "friendship",
+    "moodTag": "joyful"
+  },
+  "step3": {
+    "story": "The small town had been struggling through a long, gray winter. Shops were closing early, and people hurried home without stopping to talk. Then one Saturday, a group of volunteers organized an outdoor festival in the central square with live music, food stalls, and fairy lights. As the sun set and the lights flickered on, the entire square seemed to light up with warmth and color. Children ran between the stalls laughing, and neighbors who hadn't spoken in months found themselves sharing stories over hot chocolate. It was as if the whole town had come back to life in a single evening.",
+    "topicTag": "community",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "빛을 켜다, 불을 밝히다라는 뜻입니다.",
+    "realUsageKo": "실제로는 사람의 표정이나 분위기가 갑자기 환해지고 밝아지는 것을 표현할 때 자주 씁니다. 기쁨이나 흥분으로 눈이 반짝이고 얼굴이 환해지는 모습을 묘사합니다.",
+    "etymologyKo": "light(빛)와 up(위로)의 조합으로, 원래는 불을 켜거나 담배에 불을 붙이는 물리적 행위를 뜻했으나, 비유적으로 감정이 밝아지는 의미로 확장되었습니다.",
+    "nuanceKo": "긍정적이고 따뜻한 뉘앙스를 가지며, 주로 기쁨·설렘·반가움 등의 감정이 표정에 드러나는 순간을 포착하는 표현입니다. 일상 회화에서 매우 자연스럽게 사용됩니다.",
+    "shortExampleEn": "The kids' eyes lit up when they saw the birthday cake.",
+    "shortExampleKo": "아이들은 생일 케이크를 보자 눈이 반짝 빛났다."
+  }
+}

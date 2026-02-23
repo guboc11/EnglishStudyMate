@@ -1,0 +1,30 @@
+{
+  "id": "catch-on_8777e810",
+  "expression": "catch on",
+  "selectionMeta": {
+    "selectedPhrase": "catch on",
+    "selectedSenseLabelKo": "이해하다 / 유행이 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took me a while, but I finally caught on to what she was trying to explain."
+  },
+  "step2": {
+    "story": "The new intern struggled with the workflow at first, but by the end of the week she started to catch on. Her manager was relieved to see her confidence grow with each passing day.",
+    "topicTag": "workplace learning",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When the café first introduced its oat milk latte, only a handful of regulars ordered it. Within a month, though, the trend began to catch on and lines stretched out the door every morning. The owner hadn't expected the drink to become so popular so quickly. She hired two extra baristas and ordered three times the usual supply of oat milk. Word spread through social media, and soon neighboring cafés were adding it to their menus too. What started as a small experiment had caught on across the entire neighborhood.",
+    "topicTag": "food trend",
+    "moodTag": "surprised"
+  },
+  "meaning": {
+    "literalMeaningKo": "'catch'(잡다)와 'on'(위에/연결)이 합쳐져 '무언가를 붙잡아 연결되다'라는 느낌을 줍니다.",
+    "realUsageKo": "어떤 개념이나 방법을 이해하게 되거나, 새로운 트렌드·유행이 사람들 사이에 퍼지기 시작할 때 씁니다.",
+    "etymologyKo": "19세기 영어에서 'catch on'은 '어떤 것에 달라붙다'는 뜻으로 쓰이다가, 이후 '이해하다'와 '유행하다'의 두 가지 의미로 확장되었습니다.",
+    "nuanceKo": "이해의 맥락에서는 처음엔 몰랐다가 서서히 깨닫는 뉘앙스가 강하며, 유행의 맥락에서는 자연스럽게 퍼져나가는 점진적인 확산을 강조합니다.",
+    "shortExampleEn": "The new slang caught on quickly among teenagers.",
+    "shortExampleKo": "새로운 속어가 십대들 사이에 빠르게 유행했다."
+  }
+}

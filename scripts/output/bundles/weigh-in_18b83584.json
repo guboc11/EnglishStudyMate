@@ -1,0 +1,30 @@
+{
+  "id": "weigh-in_18b83584",
+  "expression": "weigh in",
+  "selectionMeta": {
+    "selectedPhrase": "weigh in",
+    "selectedSenseLabelKo": "의견을 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before we finalize the design, I'd like everyone on the team to weigh in with their thoughts."
+  },
+  "step2": {
+    "story": "The marketing team couldn't agree on the new logo. Their manager asked the interns to weigh in, hoping fresh perspectives would break the deadlock. Surprisingly, one intern's suggestion became the final choice.",
+    "topicTag": "teamwork",
+    "moodTag": "collaborative"
+  },
+  "step3": {
+    "story": "Sarah had been quiet during the entire board meeting, carefully listening to both sides of the argument. The CEO noticed her silence and asked her to weigh in on the proposed budget cuts. She took a deep breath and laid out a compromise that no one had considered. Her idea preserved the research department while still meeting the savings target. The room fell silent for a moment before the CFO nodded in agreement. From that day on, Sarah was always invited to weigh in on major company decisions.",
+    "topicTag": "leadership",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '무게를 재다'라는 뜻으로, 원래 권투 선수가 시합 전 체중을 재는 것을 의미합니다.",
+    "realUsageKo": "실제로는 '의견을 내다', '논의에 참여하다'라는 뜻으로 쓰입니다. 특히 여러 사람이 토론 중일 때 자신의 생각이나 판단을 보태는 상황에서 자주 사용됩니다.",
+    "etymologyKo": "권투에서 시합 전 선수의 체중을 측정하는 'weigh-in' 절차에서 유래했습니다. 이것이 비유적으로 확장되어 '자신의 무게감 있는 의견을 더하다'라는 의미로 발전했습니다.",
+    "nuanceKo": "단순히 말하는 것보다 좀 더 무게감 있는 의견을 제시하는 느낌입니다. 격식체와 비격식체 모두에서 사용 가능하며, 주로 'weigh in on something' 형태로 씁니다.",
+    "shortExampleEn": "Would you like to weigh in on this issue?",
+    "shortExampleKo": "이 문제에 대해 의견을 내시겠어요?"
+  }
+}

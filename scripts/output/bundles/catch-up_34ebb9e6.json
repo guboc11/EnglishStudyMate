@@ -1,0 +1,30 @@
+{
+  "id": "catch-up_34ebb9e6",
+  "expression": "catch up",
+  "selectionMeta": {
+    "selectedPhrase": "catch up",
+    "selectedSenseLabelKo": "따라잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed late at the library every night to catch up with her classmates after missing a week of school."
+  },
+  "step2": {
+    "story": "After taking two weeks off for vacation, Marcus returned to work to find his inbox overflowing. He skipped lunch every day that week, determined to catch up before the quarterly review. By Friday, he had finally closed every ticket on his list.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Lena had always been the slowest runner on the team, finishing laps well behind the others. Her coach told her not to quit, but simply to catch up one step at a time. Each morning she woke before sunrise and ran alone on the empty track, shaving seconds off her pace. Weeks passed, and she began to notice the gap between her and the front of the pack shrinking. On the day of the regional meet, she rounded the final bend and caught up to the girl who had always beaten her. She crossed the finish line just half a stride ahead, breathless and grinning.",
+    "topicTag": "running",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞서가는 사람이나 것에 속도를 높여 거리를 좁히다.",
+    "realUsageKo": "학업, 업무, 경쟁 등 뒤처진 상황에서 남들의 수준이나 진도에 도달하는 것을 표현할 때 폭넓게 쓰인다.",
+    "etymologyKo": "catch(잡다)와 up(위로, 앞으로)이 결합된 구동사로, 17세기부터 '뒤에서 쫓아가 붙잡다'는 뜻으로 사용되었다.",
+    "nuanceKo": "노력이 필요한 상황을 내포하며, 격차를 극복하는 긍정적인 뉘앙스가 강하다. 친근한 일상 회화와 업무 상황 모두에 자연스럽게 어울린다.",
+    "shortExampleEn": "I need to catch up on the homework I missed.",
+    "shortExampleKo": "나는 빠진 숙제를 따라잡아야 해."
+  }
+}

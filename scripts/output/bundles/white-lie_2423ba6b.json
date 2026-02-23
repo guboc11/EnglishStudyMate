@@ -1,0 +1,30 @@
+{
+  "id": "white-lie_2423ba6b",
+  "expression": "white lie",
+  "selectionMeta": {
+    "selectedPhrase": "white lie",
+    "selectedSenseLabelKo": "선의의 거짓말",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I told a white lie and said I loved her cooking, even though the soup was way too salty."
+  },
+  "step2": {
+    "story": "My coworker showed me a painting she'd spent weeks on and asked what I thought. It wasn't great, but she looked so proud. I told a white lie and said it was beautiful, because sometimes kindness matters more than honesty.",
+    "topicTag": "social kindness",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Last Friday, my best friend invited me to her apartment to try a new recipe she'd been perfecting. She served me a plate of homemade pasta with a hopeful smile. The truth was, it was overcooked and bland, but I could see how much effort she had put in. So I told a white lie and said it was one of the best meals I'd ever had. Her face lit up instantly, and she started planning a dinner party to cook it for more friends. Sometimes a small white lie can protect someone's feelings and encourage them to keep pursuing what they love.",
+    "topicTag": "friendship",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '하얀 거짓말'로, 악의 없는 거짓말을 뜻합니다.",
+    "realUsageKo": "상대방의 기분을 배려하거나 불필요한 갈등을 피하기 위해 하는 무해한 거짓말을 말합니다. 진실을 말하면 상대가 상처받을 상황에서 자주 사용됩니다.",
+    "etymologyKo": "서양 문화에서 '흰색(white)'은 순수함과 무해함을 상징합니다. 이 표현은 18세기부터 사용되었으며, 악의적인 거짓말(black lie)과 대비되는 개념으로 자리 잡았습니다.",
+    "nuanceKo": "부정적인 뉘앙스가 거의 없으며, 오히려 배려심 있는 행동으로 여겨지는 경우가 많습니다. 다만 남용하면 신뢰를 잃을 수 있다는 맥락에서도 쓰입니다.",
+    "shortExampleEn": "She told a white lie to avoid hurting his feelings.",
+    "shortExampleKo": "그녀는 그의 기분을 상하게 하지 않으려고 선의의 거짓말을 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "team-up_605d81be",
+  "expression": "team up",
+  "selectionMeta": {
+    "selectedPhrase": "team up",
+    "selectedSenseLabelKo": "팀을 이루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We decided to team up with the marketing department to launch the new campaign together."
+  },
+  "step2": {
+    "story": "Jake had been struggling to finish the school science project on his own. When his classmate Mia suggested they team up, everything changed. Together, they built a working model volcano that won first place at the fair.",
+    "topicTag": "collaboration",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For months, two small coffee shops on the same street had been competing for customers, barely making enough to stay open. One rainy afternoon, the owners bumped into each other at the bank and started talking honestly about their struggles. They realized that instead of fighting over the same crowd, they could team up and create something bigger. They merged their menus — one focused on specialty brews, the other on pastries — and reopened as a single cozy café. Within weeks, the place became the neighborhood's favorite spot. Sometimes the best move is to stop competing and start collaborating.",
+    "topicTag": "business partnership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'team'(팀)과 'up'(위로/함께)이 결합하여 '팀을 이루다, 협력하다'라는 뜻입니다.",
+    "realUsageKo": "공동의 목표를 위해 다른 사람이나 그룹과 힘을 합칠 때 사용합니다. 'team up with someone'의 형태로 자주 쓰이며, 일상 대화부터 비즈니스 상황까지 폭넓게 활용됩니다.",
+    "etymologyKo": "'team'은 고대 영어 'tēam'에서 유래했으며 원래 '함께 끄는 동물 무리'를 뜻했습니다. 여기에 방향/완성을 나타내는 'up'이 붙어 '팀을 결성하다'라는 구동사가 되었습니다.",
+    "nuanceKo": "격식 없이 친근한 느낌의 표현으로, 공식적인 파트너십보다는 자발적이고 유연한 협력을 암시합니다. 긍정적인 뉘앙스가 강하며, 혼자서는 어려운 일을 함께하면 더 잘할 수 있다는 느낌을 줍니다.",
+    "shortExampleEn": "Let's team up and finish this project before Friday.",
+    "shortExampleKo": "우리 팀을 이뤄서 금요일 전에 이 프로젝트를 끝내자."
+  }
+}

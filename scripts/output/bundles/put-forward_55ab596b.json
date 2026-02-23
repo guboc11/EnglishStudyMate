@@ -1,0 +1,30 @@
+{
+  "id": "put-forward_55ab596b",
+  "expression": "put forward",
+  "selectionMeta": {
+    "selectedPhrase": "put forward",
+    "selectedSenseLabelKo": "제안하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the meeting, Sarah put forward a bold plan to expand into the Asian market by the end of the year."
+  },
+  "step2": {
+    "story": "The team had been struggling with declining sales for months. Finally, Marcus put forward an idea to partner with local influencers instead of spending more on traditional advertising. The proposal was approved within a week, and results started showing almost immediately.",
+    "topicTag": "business strategy",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Elena had been the quietest member of the urban planning committee for two years. She attended every session, took careful notes, but rarely spoke up. Then one evening, the city announced plans to demolish an old community garden to build a parking lot. Elena spent the entire weekend researching alternatives. At the next meeting, she stood up and put forward a detailed proposal to relocate the parking structure underground while preserving the garden above. The room fell silent, then erupted in applause. Her idea not only saved the garden but became a model for green urban development across the region.",
+    "topicTag": "community action",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'앞으로 내놓다'라는 뜻으로, 무언가를 다른 사람들 앞에 제시하는 행위를 나타냅니다.",
+    "realUsageKo": "의견, 아이디어, 계획, 제안 등을 공식적 또는 비공식적으로 제안하거나 제시할 때 사용합니다. 'suggest'보다 좀 더 적극적이고 구체적인 제안의 느낌을 줍니다.",
+    "etymologyKo": "'put(놓다)'과 'forward(앞으로)'의 결합으로, 자신의 생각을 앞으로 내밀어 다른 사람들이 볼 수 있게 한다는 비유적 표현에서 유래했습니다.",
+    "nuanceKo": "회의, 토론, 공식 석상 등에서 건설적인 제안을 할 때 자주 쓰이며, 단순한 의견 표명보다는 검토와 채택을 기대하는 적극적인 제안의 뉘앙스가 있습니다.",
+    "shortExampleEn": "He put forward a new approach to solving the budget crisis.",
+    "shortExampleKo": "그는 예산 위기를 해결하기 위한 새로운 접근법을 제안했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "put-your-best-foot-forward_22a1c3a4",
+  "expression": "put your best foot forward",
+  "selectionMeta": {
+    "selectedPhrase": "put your best foot forward",
+    "selectedSenseLabelKo": "최선을 다하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With the big client meeting tomorrow, Sarah reminded herself to put her best foot forward and prepare thoroughly."
+  },
+  "step2": {
+    "story": "Jake had been nervous about his first day at the new company for weeks. His mother called him that morning and said, \"Just put your best foot forward and be yourself.\" He walked into the office with confidence, introduced himself to everyone, and by lunchtime he already felt like part of the team.",
+    "topicTag": "new beginnings",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Mina stared at her reflection in the bathroom mirror, adjusting her blazer for the third time. The scholarship interview was in thirty minutes, and her stomach was doing somersaults. She thought about all the late nights she had spent studying, the weekends she had sacrificed, and the dream of being the first person in her family to attend university abroad. \"This is your moment,\" she whispered to herself. \"Put your best foot forward.\" She took a deep breath, grabbed her portfolio, and walked into the interview room with a steady smile — ready to show them exactly who she was.",
+    "topicTag": "ambition",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "가장 좋은 발을 앞으로 내딛다라는 뜻으로, 자신의 가장 좋은 모습을 보여주라는 의미입니다.",
+    "realUsageKo": "면접, 첫 만남, 중요한 발표 등에서 최선의 인상을 주기 위해 노력하라는 뜻으로 사용됩니다. 단순히 열심히 하라는 것보다 '좋은 인상을 남기도록 최선을 다하라'는 뉘앙스가 강합니다.",
+    "etymologyKo": "16세기 영국에서 유래한 표현으로, 걸을 때 가장 좋은 발(보통 오른발)을 먼저 내딛는 것이 예의 바르고 격식 있는 행동이라는 믿음에서 비롯되었습니다.",
+    "nuanceKo": "격려와 응원의 뉘앙스가 강한 표현입니다. 주로 중요한 상황을 앞두고 상대방에게 자신감을 불어넣어 줄 때 사용하며, 격식체와 일상 대화 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "You've got the interview today — just put your best foot forward!",
+    "shortExampleKo": "오늘 면접이잖아 — 최선을 다해 좋은 모습 보여줘!"
+  }
+}

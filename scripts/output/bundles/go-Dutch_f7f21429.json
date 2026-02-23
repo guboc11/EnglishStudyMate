@@ -1,0 +1,30 @@
+{
+  "id": "go-Dutch_f7f21429",
+  "expression": "go Dutch",
+  "selectionMeta": {
+    "selectedPhrase": "go Dutch",
+    "selectedSenseLabelKo": "각자 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let's go Dutch on dinner tonight since we both just started new jobs."
+  },
+  "step2": {
+    "story": "After a wonderful meal at the Italian restaurant, Mike reached for the check, but his date Lisa stopped him. \"How about we go Dutch this time?\" she suggested with a smile. Mike appreciated her thoughtfulness and agreed without hesitation.",
+    "topicTag": "dating etiquette",
+    "moodTag": "considerate"
+  },
+  "step3": {
+    "story": "When five college friends reunited for dinner after years apart, the bill arrived and an awkward silence fell over the table. Everyone had ordered different things — some had steak, others just salads. Kevin, always the practical one, broke the tension. \"Why don't we just go Dutch? That way nobody has to do the math on who owes what.\" Everyone laughed and pulled out their cards. It felt fair and easy, and they agreed to make it their tradition for every future reunion dinner.",
+    "topicTag": "friendship dynamics",
+    "moodTag": "lighthearted"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '네덜란드식으로 하다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 식사나 모임에서 각자 자기 몫을 계산하자는 의미로 사용됩니다. '더치페이하자'라는 한국어 표현과 같은 뜻입니다.",
+    "etymologyKo": "17세기 영국과 네덜란드의 경쟁 관계에서 유래했습니다. 당시 영국인들이 네덜란드인을 인색하다고 비꼬며 만든 표현으로, 각자 계산하는 문화를 'Dutch' 방식이라고 부른 데서 시작되었습니다.",
+    "nuanceKo": "캐주얼하고 실용적인 톤의 표현입니다. 친구나 동료 사이에서 부담 없이 쓰이며, 공정하게 나누자는 긍정적 뉘앙스로 사용됩니다. 다만 일부에서는 어원의 편견적 요소 때문에 'split the bill'을 선호하기도 합니다.",
+    "shortExampleEn": "We always go Dutch when we eat out with coworkers.",
+    "shortExampleKo": "우리는 동료들과 외식할 때 항상 각자 계산해요."
+  }
+}

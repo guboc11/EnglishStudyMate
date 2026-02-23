@@ -1,0 +1,30 @@
+{
+  "id": "keep-an-open-mind_675ad534",
+  "expression": "keep an open mind",
+  "selectionMeta": {
+    "selectedPhrase": "keep an open mind",
+    "selectedSenseLabelKo": "열린 마음을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Try to keep an open mind when you listen to his proposal — it might actually be a great idea."
+  },
+  "step2": {
+    "story": "Maya had always dismissed modern art as meaningless splashes of paint. But when her friend dragged her to a gallery opening, she decided to keep an open mind. By the end of the evening, she found herself moved to tears by a piece she never would have looked at twice before.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When the company announced it was switching to a completely new project management system, most of the team groaned. Daniel, a fifteen-year veteran, was the loudest critic. His manager pulled him aside and asked him to keep an open mind for just two weeks. Reluctantly, Daniel agreed and started exploring the new tool with genuine curiosity instead of resentment. By the end of the first week, he discovered features that solved problems he had been complaining about for years. He became the team's biggest advocate for the change, proving that even the most stubborn habits can shift when you let go of assumptions.",
+    "topicTag": "workplace adaptation",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "열린 마음을 유지하다 — 마음을 열어둔 상태로 계속 가지고 있다는 뜻입니다.",
+    "realUsageKo": "새로운 아이디어, 다른 관점, 낯선 경험 등에 대해 선입견 없이 받아들이려는 태도를 가지라는 의미로 사용됩니다. 누군가에게 편견을 버리고 열린 자세로 임하라고 조언할 때 자주 씁니다.",
+    "etymologyKo": "'open mind'는 17세기부터 편견 없는 사고방식을 뜻하는 비유로 쓰였으며, 'keep'이 붙어 그 상태를 지속적으로 유지하라는 표현으로 굳어졌습니다.",
+    "nuanceKo": "긍정적이고 격려하는 톤으로 사용됩니다. 상대방이 거부감을 보일 때 부드럽게 설득하거나, 새로운 시도를 권유할 때 자주 쓰이는 표현입니다.",
+    "shortExampleEn": "I know it sounds unusual, but please keep an open mind.",
+    "shortExampleKo": "좀 특이하게 들릴 수 있지만, 열린 마음으로 들어주세요."
+  }
+}

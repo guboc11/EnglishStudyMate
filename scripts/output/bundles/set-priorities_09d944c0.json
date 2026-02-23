@@ -1,0 +1,30 @@
+{
+  "id": "set-priorities_09d944c0",
+  "expression": "set priorities",
+  "selectionMeta": {
+    "selectedPhrase": "set priorities",
+    "selectedSenseLabelKo": "우선순위를 정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before starting the new project, we need to set priorities so the team knows what to tackle first."
+  },
+  "step2": {
+    "story": "Mia stared at her overflowing to-do list and realized she couldn't do everything at once. She decided to set priorities, circling the three tasks that mattered most. By lunchtime, she had already knocked out the top two and felt a wave of relief.",
+    "topicTag": "time management",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Jordan had just been promoted to team lead, and the pressure hit immediately. A dozen requests flooded his inbox before he even finished his morning coffee. His mentor pulled him aside and said, \"The first skill you need to learn is how to set priorities — not everything is urgent.\" That night, Jordan sat down with a notebook and ranked every task by impact and deadline. The next morning, he walked into the office with a clear plan. His team noticed the difference right away, and for the first time, the workday felt manageable.",
+    "topicTag": "leadership growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "해야 할 일들 중에서 가장 중요한 것을 먼저 정하는 것을 뜻합니다.",
+    "realUsageKo": "업무나 일상에서 여러 가지 할 일이 있을 때, 무엇을 먼저 할지 순서를 정하는 상황에서 자주 사용합니다. 직장, 학교, 개인 생활 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "'set'은 '정하다/설정하다'라는 뜻이고, 'priority'는 라틴어 'prior(앞선)'에서 유래한 단어로, 함께 쓰이면 '앞서 처리할 것을 정하다'라는 의미가 됩니다.",
+    "nuanceKo": "단순히 순서를 정한다기보다는 전략적으로 중요도를 판단한다는 뉘앙스가 있습니다. 체계적이고 계획적인 사람이라는 인상을 줄 수 있는 표현입니다.",
+    "shortExampleEn": "You should set priorities before jumping into work.",
+    "shortExampleKo": "일에 뛰어들기 전에 우선순위를 정해야 해요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "put-your-foot-down_8a7c2c71",
+  "expression": "put your foot down",
+  "selectionMeta": {
+    "selectedPhrase": "put your foot down",
+    "selectedSenseLabelKo": "단호하게 결정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of being overworked without extra pay, she finally put her foot down and refused to take on any more weekend shifts."
+  },
+  "step2": {
+    "story": "The team had been pulling all-nighters for three weeks straight, and morale was at rock bottom. When the manager suggested yet another weekend sprint, Daniel put his foot down and told everyone to go home and rest. Sometimes protecting your team means saying no to the people above you.",
+    "topicTag": "workplace boundaries",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had always been the agreeable one in her family, never pushing back on plans or speaking up when things bothered her. Her older siblings would choose the restaurant, pick the vacation spot, and decide the holiday schedule without asking her opinion. But this year was different. When they announced they'd be spending Christmas at a cabin with no Wi-Fi — right during her final project deadline — Maya put her foot down. She calmly explained that she wouldn't be joining unless they picked a place with internet access. To her surprise, everyone respected her decision, and they found a cabin that worked for everyone.",
+    "topicTag": "family dynamics",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '발을 내려놓다'라는 뜻입니다.",
+    "realUsageKo": "더 이상 양보하지 않고 단호하게 자기 입장을 밝히거나 결정을 내릴 때 사용합니다. 특히 그동안 참아왔던 상황에서 확고한 태도를 보일 때 쓰입니다.",
+    "etymologyKo": "자동차 운전에서 유래했다는 설이 있습니다. 가속 페달을 끝까지 밟는 동작(발을 내려놓는 동작)에서 '확고한 결단'이라는 의미로 확장되었습니다.",
+    "nuanceKo": "부드럽게 거절하는 것이 아니라, 확실하고 단호하게 선을 긋는 느낌입니다. 권위를 행사하거나 더 이상 타협하지 않겠다는 강한 의지를 담고 있습니다.",
+    "shortExampleEn": "My parents put their foot down and said I couldn't go to the party.",
+    "shortExampleKo": "부모님이 단호하게 파티에 가면 안 된다고 말씀하셨다."
+  }
+}

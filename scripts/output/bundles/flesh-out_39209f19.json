@@ -1,0 +1,30 @@
+{
+  "id": "flesh-out_39209f19",
+  "expression": "flesh out",
+  "selectionMeta": {
+    "selectedPhrase": "flesh out",
+    "selectedSenseLabelKo": "구체화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to flesh out the proposal before presenting it to the board next week."
+  },
+  "step2": {
+    "story": "Maya had a brilliant idea for a new product, but her manager said the concept was too vague. She spent the entire weekend fleshing out the details — market research, cost projections, and a timeline. By Monday, her proposal was so thorough that the team approved it on the spot.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Professor Kim first read Joon's thesis draft, she handed it back with a single note: \"Flesh this out.\" The arguments were there, but they floated like skeletons without muscle or skin. Joon locked himself in the library for three days, diving into case studies, pulling real-world data, and weaving in quotes from experts he'd interviewed. Each section grew from a thin outline into a living, breathing argument. When he resubmitted the paper, Professor Kim read it twice, then looked up and said, \"Now this is scholarship.\" That one piece of feedback had pushed him to produce the best work of his academic career.",
+    "topicTag": "academic writing",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "뼈대에 살을 붙이다라는 뜻으로, 기본 골격에 내용을 더해 완성한다는 의미입니다.",
+    "realUsageKo": "아이디어, 계획, 글 등의 초안이나 개요에 구체적인 세부사항을 추가하여 완성도를 높일 때 사용합니다. '좀 더 구체화해 줘', '살을 좀 붙여봐'와 비슷한 느낌입니다.",
+    "etymologyKo": "뼈(bone)에 살(flesh)을 붙인다는 비유에서 유래했습니다. 16세기경부터 사용되었으며, 해부학적 이미지를 통해 '기본 틀에 내용을 채워 넣다'라는 의미로 발전했습니다.",
+    "nuanceKo": "주로 업무, 학술, 창작 등 전문적인 맥락에서 사용되며, 단순히 '추가하다'보다는 '빈약한 것을 풍부하게 만들다'라는 뉘앙스가 강합니다. 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "Can you flesh out this outline with more specific examples?",
+    "shortExampleKo": "이 개요에 좀 더 구체적인 예시를 추가해 줄 수 있어?"
+  }
+}

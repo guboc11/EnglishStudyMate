@@ -1,0 +1,30 @@
+{
+  "id": "tell-the-truth_e0560aac",
+  "expression": "tell the truth",
+  "selectionMeta": {
+    "selectedPhrase": "tell the truth",
+    "selectedSenseLabelKo": "진실을 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It's always better to tell the truth, even when it's uncomfortable."
+  },
+  "step2": {
+    "story": "Jake broke his mom's favorite vase while playing soccer inside. He thought about hiding the pieces, but decided to tell the truth instead. His mom was upset, but she thanked him for being honest.",
+    "topicTag": "honesty",
+    "moodTag": "sincere"
+  },
+  "step3": {
+    "story": "Sara had been working at the company for three years when she discovered a serious error in the financial report. Her manager had already presented the numbers to the board, and correcting them would cause embarrassment. Sara spent a sleepless night thinking it over, but she knew she had to tell the truth. The next morning, she walked into her manager's office and explained the mistake calmly. Her manager was frustrated at first, but ultimately respected her integrity. The board appreciated the correction, and Sara earned a reputation as someone who could always be trusted.",
+    "topicTag": "workplace integrity",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "진실을 말하다, 사실 그대로를 이야기하다.",
+    "realUsageKo": "거짓말하지 않고 있는 그대로의 사실을 솔직하게 말할 때 사용합니다. 특히 말하기 어렵거나 불편한 상황에서 정직하게 말하는 뉘앙스로 자주 쓰입니다.",
+    "etymologyKo": "tell(말하다)과 truth(진실)의 결합으로, 고대 영어 시대부터 사용된 가장 기본적인 영어 연어 표현 중 하나입니다.",
+    "nuanceKo": "일상적이고 직설적인 표현으로 격식·비격식 모두 사용 가능합니다. 'To tell you the truth'처럼 문장 앞에 붙여 '솔직히 말하면'이라는 뜻으로도 자주 쓰입니다.",
+    "shortExampleEn": "To tell you the truth, I didn't enjoy the movie at all.",
+    "shortExampleKo": "솔직히 말하면, 나는 그 영화가 전혀 재미없었어."
+  }
+}

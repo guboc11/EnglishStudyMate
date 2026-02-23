@@ -1,0 +1,30 @@
+{
+  "id": "pick-on_fbcacb2e",
+  "expression": "pick on",
+  "selectionMeta": {
+    "selectedPhrase": "pick on",
+    "selectedSenseLabelKo": "괴롭히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The older kids always pick on him during recess, but he tries his best to ignore them."
+  },
+  "step2": {
+    "story": "Jake dreaded lunchtime because a group of boys would always pick on him about his glasses. One day, a new student sat next to him and told the bullies to back off. From that moment, Jake finally felt like someone had his back.",
+    "topicTag": "school bullying",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maria noticed that her coworker, Kevin, had been unusually quiet for weeks. She soon discovered that their team leader would constantly pick on him during meetings, mocking his ideas in front of everyone. Kevin had started doubting himself and even considered quitting. Maria decided to speak up at the next meeting, calmly pointing out that everyone's contributions deserved respect. The room went silent, and the team leader's face turned red. After that day, Kevin slowly regained his confidence, and the toxic behavior stopped for good.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'pick'(고르다) + 'on'(~에게)으로, 누군가를 골라서 대상으로 삼다는 뜻입니다.",
+    "realUsageKo": "특정 사람을 반복적으로 놀리거나 괴롭히거나 부당하게 비난할 때 사용합니다. 학교에서의 왕따부터 직장에서의 부당한 대우까지 폭넓게 쓰입니다.",
+    "etymologyKo": "'pick'은 원래 '고르다, 쪼다'라는 의미에서 유래했으며, 여러 사람 중 한 명을 '골라서' 공격 대상으로 삼는다는 이미지에서 'pick on'이라는 구동사가 만들어졌습니다.",
+    "nuanceKo": "단순한 놀림보다는 반복적이고 일방적인 괴롭힘의 뉘앙스가 강합니다. 힘의 불균형이 있는 상황에서 주로 사용되며, 부정적인 어감을 가집니다.",
+    "shortExampleEn": "Stop picking on your little sister — she's done nothing wrong.",
+    "shortExampleKo": "여동생 그만 괴롭혀 — 걔는 아무 잘못도 안 했어."
+  }
+}

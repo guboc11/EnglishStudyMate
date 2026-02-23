@@ -1,0 +1,30 @@
+{
+  "id": "leave-someone-in-the-dust_693fb070",
+  "expression": "leave someone in the dust",
+  "selectionMeta": {
+    "selectedPhrase": "leave someone in the dust",
+    "selectedSenseLabelKo": "훨씬 앞서가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our startup left the competition in the dust after launching the new AI feature."
+  },
+  "step2": {
+    "story": "Maya had been training for the marathon all winter while her rivals took it easy. On race day, she surged ahead at the halfway mark and left everyone in the dust. She crossed the finish line three minutes before the second-place runner.",
+    "topicTag": "competition",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "When Jisoo joined the marketing team, nobody expected much from the quiet new hire. But within three months, her campaigns were generating twice the engagement of anyone else's. The senior managers started copying her strategies, but she kept innovating faster than they could follow. By the end of the year, Jisoo had left the entire department in the dust with record-breaking numbers. Her colleagues weren't jealous — they were inspired. The CEO personally invited her to lead the company's global rebranding initiative.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 먼지 속에 남겨두다, 즉 자신이 빠르게 앞서 나가면서 뒤처진 사람에게 먼지만 남기는 모습을 묘사합니다.",
+    "realUsageKo": "경쟁이나 실력 면에서 상대방보다 훨씬 앞서가거나, 압도적으로 능가할 때 사용합니다. 비즈니스, 스포츠, 학업 등 다양한 경쟁 상황에서 쓰입니다.",
+    "etymologyKo": "빠르게 달리는 말이나 마차가 지나가면서 뒤에 있는 사람에게 먼지구름을 남기는 장면에서 유래했습니다. 미국 서부 개척 시대의 경마나 역마차 경주에서 비롯된 표현입니다.",
+    "nuanceKo": "단순히 '이기다'보다 압도적인 격차로 앞서는 느낌이 강합니다. 다소 자랑스럽거나 통쾌한 어조로 쓰이며, 때로는 뒤처진 상대에 대한 무관심을 암시하기도 합니다.",
+    "shortExampleEn": "She studied so hard that she left her classmates in the dust on the final exam.",
+    "shortExampleKo": "그녀는 너무 열심히 공부해서 기말시험에서 반 친구들을 훨씬 앞질렀다."
+  }
+}

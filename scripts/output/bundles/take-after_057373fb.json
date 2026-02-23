@@ -1,0 +1,30 @@
+{
+  "id": "take-after_057373fb",
+  "expression": "take after",
+  "selectionMeta": {
+    "selectedPhrase": "take after",
+    "selectedSenseLabelKo": "닮다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Everyone says my daughter takes after me, especially when she laughs."
+  },
+  "step2": {
+    "story": "At the family reunion, relatives kept telling Sarah she takes after her grandmother. They shared the same bright smile, the same stubborn streak, and even the same habit of humming while cooking. Sarah couldn't help but feel proud of the resemblance.",
+    "topicTag": "family resemblance",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Jake started his first day at the law firm, his colleagues immediately noticed something familiar about him. His sharp wit and calm composure under pressure reminded everyone of his father, who had been a legendary attorney at the same firm decades ago. 'You really take after your old man,' the senior partner said with a knowing smile. Jake had always heard that growing up, but experiencing it in a professional setting hit differently. He realized that taking after someone wasn't just about looks — it was about the values and habits passed down without a word. That day, he felt both the weight and the warmth of his father's legacy.",
+    "topicTag": "legacy and identity",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'take after'는 직역하면 '~의 뒤를 따르다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 가족 중 누군가를 외모나 성격, 행동 면에서 닮았다는 의미로 사용됩니다. 주로 부모나 조부모를 닮았을 때 씁니다.",
+    "etymologyKo": "'take'(취하다)와 'after'(~의 뒤를 따라)가 결합된 구동사로, 누군가의 특성을 이어받는다는 비유에서 유래했습니다.",
+    "nuanceKo": "긍정적인 뉘앙스로 쓰이는 경우가 많으며, 가족 간의 유사성을 따뜻하게 표현할 때 자주 사용됩니다. 'look like'보다 외모뿐 아니라 성격·습관까지 포괄합니다.",
+    "shortExampleEn": "He takes after his mother — always so kind and patient.",
+    "shortExampleKo": "그는 어머니를 닮아서 항상 친절하고 인내심이 많다."
+  }
+}

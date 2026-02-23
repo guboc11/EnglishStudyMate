@@ -1,0 +1,30 @@
+{
+  "id": "dig-up_c467a225",
+  "expression": "dig up",
+  "selectionMeta": {
+    "selectedPhrase": "dig up",
+    "selectedSenseLabelKo": "파내다 / 찾아내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to dig up some old photos from her grandmother's attic that nobody had seen in decades."
+  },
+  "step2": {
+    "story": "The journalist spent weeks trying to dig up evidence of corruption at city hall. After countless interviews and late nights, she finally found a hidden financial report buried in public records. Her story made the front page and led to a full investigation.",
+    "topicTag": "investigation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had always been curious about his family history, but his parents rarely talked about it. One rainy weekend, he decided to dig up whatever he could find in the dusty boxes stored in the basement. Among faded letters and crumbling newspapers, he discovered a photograph of his great-grandfather standing in front of a small bakery in Seoul. He showed it to his mother, who burst into tears and shared stories she had kept to herself for years. That single photograph opened a door to conversations the family had avoided for decades. Marcus realized that sometimes the most meaningful truths are the ones you have to dig up yourself.",
+    "topicTag": "family history",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "땅을 파서 무언가를 꺼내다라는 뜻입니다.",
+    "realUsageKo": "실제로는 숨겨져 있거나 잊혀진 정보, 사실, 물건 등을 노력해서 찾아내다라는 의미로 자주 사용됩니다. 물리적으로 땅을 파는 상황과 비유적으로 정보를 캐내는 상황 모두에 쓰입니다.",
+    "etymologyKo": "dig(파다)와 up(위로)의 결합으로, 땅속에 묻힌 것을 파서 위로 꺼낸다는 원래 의미에서 비유적으로 숨겨진 것을 찾아낸다는 뜻으로 확장되었습니다.",
+    "nuanceKo": "단순히 '찾다(find)'보다 노력과 수고가 수반된다는 뉘앙스가 있습니다. 쉽게 접근할 수 없는 것을 끈기 있게 파헤쳐 찾아낸다는 느낌을 줍니다.",
+    "shortExampleEn": "I need to dig up my old tax records before the deadline.",
+    "shortExampleKo": "마감 전에 예전 세금 기록을 찾아내야 해."
+  }
+}

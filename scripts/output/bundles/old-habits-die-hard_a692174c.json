@@ -1,0 +1,30 @@
+{
+  "id": "old-habits-die-hard_a692174c",
+  "expression": "old habits die hard",
+  "selectionMeta": {
+    "selectedPhrase": "old habits die hard",
+    "selectedSenseLabelKo": "오래된 습관은 고치기 힘들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I know I should stop checking my phone first thing in the morning, but old habits die hard."
+  },
+  "step2": {
+    "story": "After retiring from the military, Sergeant Park still woke up at 5 AM every single day. His wife told him he could finally sleep in, but he just shrugged and said, \"Old habits die hard.\" He secretly enjoyed the quiet mornings to himself anyway.",
+    "topicTag": "retirement routine",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "Jiyeon had been a smoker for fifteen years before she finally quit last spring. For the first few months, everything seemed fine. But whenever she felt stressed at work, her hand would instinctively reach for her jacket pocket where she used to keep her cigarettes. One rainy evening after a brutal deadline, she found herself standing outside the convenience store, staring at the cigarette display. She shook her head and walked away, muttering to herself that old habits die hard. It was a small victory, but she knew the battle was far from over.",
+    "topicTag": "quitting smoking",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "오래된 습관은 쉽게 죽지 않는다, 즉 오랫동안 몸에 밴 행동은 쉽게 사라지지 않는다는 뜻입니다.",
+    "realUsageKo": "오랜 기간 반복해온 습관이나 행동 방식을 바꾸기 어려울 때 사용합니다. 자기 자신이나 다른 사람의 고질적인 버릇에 대해 약간 체념하듯, 혹은 이해하는 어조로 쓰는 경우가 많습니다.",
+    "etymologyKo": "이 표현의 정확한 기원은 불분명하지만, 18세기경부터 영어에서 사용된 것으로 알려져 있습니다. 1978년 같은 제목의 영화가 개봉되면서 대중적으로 더 널리 퍼졌습니다.",
+    "nuanceKo": "부정적인 습관뿐 아니라 중립적이거나 가벼운 습관에도 쓸 수 있습니다. 비난보다는 인간적인 공감이나 자조적인 뉘앙스를 담고 있어, 대화에서 부드럽게 사용됩니다.",
+    "shortExampleEn": "He promised to eat healthier, but old habits die hard — he ordered pizza again.",
+    "shortExampleKo": "그는 더 건강하게 먹겠다고 약속했지만, 오래된 습관은 쉽게 바뀌지 않아서 또 피자를 시켰다."
+  }
+}

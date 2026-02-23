@@ -1,0 +1,30 @@
+{
+  "id": "prop-up_f9a3f6c2",
+  "expression": "prop up",
+  "selectionMeta": {
+    "selectedPhrase": "prop up",
+    "selectedSenseLabelKo": "지탱하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The government decided to prop up the struggling airline with a massive emergency loan."
+  },
+  "step2": {
+    "story": "After the financial crisis hit, the local bank was on the verge of collapse. The city council voted to prop up the institution with public funds, knowing that thousands of residents depended on it. It was a controversial decision, but it kept the community afloat.",
+    "topicTag": "financial crisis",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Maria had been running the family bakery alone ever since her mother fell ill. Sales were dropping, bills were piling up, and she barely slept anymore. Her older brother finally flew back from overseas and offered to prop up the business by investing his savings. At first, Maria resisted — she hated the idea of needing help. But when she saw the relief on her mother's face, she realized that accepting support wasn't weakness. Together, they redesigned the menu and slowly brought the bakery back to life.",
+    "topicTag": "family business",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가 아래에 받침대(prop)를 놓아 쓰러지지 않게 위로(up) 지탱한다는 뜻입니다.",
+    "realUsageKo": "물리적으로 무너지지 않게 받치는 것뿐 아니라, 경제·조직·사람 등이 무너지지 않도록 외부에서 지원하거나 떠받쳐 준다는 의미로 널리 쓰입니다. 특히 경제·정치 맥락에서 자주 등장합니다.",
+    "etymologyKo": "prop은 중세 네덜란드어 proppe(지지대, 받침목)에서 유래했으며, 건축에서 기둥이나 지지대를 세워 구조물을 받치는 데서 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "자력으로는 유지가 어려운 것을 외부 힘으로 억지로 떠받친다는 뉘앙스가 있어, 근본적 해결보다는 임시방편이라는 약간 부정적인 어감을 내포할 수 있습니다.",
+    "shortExampleEn": "They used wooden beams to prop up the crumbling wall.",
+    "shortExampleKo": "그들은 무너져 가는 벽을 지탱하기 위해 나무 기둥을 사용했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "walk-the-walk_c024d4bb",
+  "expression": "walk the walk",
+  "selectionMeta": {
+    "selectedPhrase": "walk the walk",
+    "selectedSenseLabelKo": "행동으로 보여주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new manager doesn't just talk about teamwork — she actually walks the walk by staying late to help everyone meet deadlines."
+  },
+  "step2": {
+    "story": "James always lectured his team about work-life balance, but he was the first one to skip lunch and stay past midnight. When a new director joined and started leaving at six sharp while still hitting every target, the team finally saw someone who could walk the walk. James quietly started rethinking his own habits.",
+    "topicTag": "leadership",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Elena had been volunteering at the community garden for three years, long before it became trendy on social media. When the city council proposed cutting the garden's funding, dozens of influencers posted about saving it, but only Elena showed up to the budget hearing with a ten-page proposal and two hundred signatures. The council members noticed the difference between those who simply shared hashtags and the one person willing to walk the walk. Her proposal didn't just save the garden — it secured double the original budget. Afterward, a reporter asked her why she fought so hard. She smiled and said, 'Words are easy. Showing up is what counts.'",
+    "topicTag": "community activism",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'걸음을 걷다'라는 직역으로, 말이 아닌 실제 행동을 한다는 뜻입니다.",
+    "realUsageKo": "말로만 하지 않고 실제로 행동으로 실천하는 사람을 묘사할 때 씁니다. 보통 'talk the talk'(말만 번지르르하게 하다)과 대비하여 사용합니다.",
+    "etymologyKo": "미국 영어에서 유래한 표현으로, 'talk the talk and walk the walk'라는 전체 관용구에서 나왔습니다. 1920년대부터 사용된 것으로 추정되며, 말과 행동의 일치를 강조하는 미국 문화적 가치를 반영합니다.",
+    "nuanceKo": "주로 칭찬이나 존경의 뉘앙스로 쓰이며, 진정성과 실행력을 높이 평가할 때 사용합니다. 반대로 'can't walk the walk'라고 하면 실천력이 없다는 비판이 됩니다.",
+    "shortExampleEn": "Don't just talk the talk — walk the walk.",
+    "shortExampleKo": "말만 하지 말고, 행동으로 보여줘."
+  }
+}

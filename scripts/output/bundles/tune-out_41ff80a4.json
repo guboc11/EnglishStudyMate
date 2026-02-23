@@ -1,0 +1,30 @@
+{
+  "id": "tune-out_41ff80a4",
+  "expression": "tune out",
+  "selectionMeta": {
+    "selectedPhrase": "tune out",
+    "selectedSenseLabelKo": "무시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I tried to tune out the noisy construction outside my window so I could focus on studying."
+  },
+  "step2": {
+    "story": "During the long meeting, Sarah noticed her colleague had completely tuned out and was staring blankly at the wall. She nudged him gently, whispering that the boss was about to ask for opinions. He snapped back to attention, grateful she had saved him from an embarrassing moment.",
+    "topicTag": "workplace focus",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Jake had always been good at tuning out distractions. Growing up in a crowded apartment with four siblings, he learned early how to block everything out and disappear into his own world. Now, sitting in a packed coffee shop with music blaring and people chatting all around him, he barely noticed any of it. His fingers flew across the keyboard as he coded for hours without a single break. But when his phone buzzed with a message from his mom, he couldn't tune that out. Some voices, no matter how quiet, always find a way through.",
+    "topicTag": "concentration",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "라디오 주파수를 맞추지 않듯이, 소리나 정보를 의도적으로 차단하거나 무시하는 것을 뜻합니다.",
+    "realUsageKo": "주변 소음, 지루한 대화, 불필요한 정보 등을 의식적으로 또는 무의식적으로 무시할 때 사용합니다. '귀를 닫다', '딴 생각하다'와 비슷한 느낌입니다.",
+    "etymologyKo": "라디오의 주파수를 맞추는 'tune in'의 반대말로, 주파수를 벗어나 수신을 중단한다는 비유에서 유래했습니다.",
+    "nuanceKo": "의도적으로 무시하는 경우와 자연스럽게 집중이 흐트러지는 경우 모두에 쓰입니다. 부정적 뉘앙스보다는 자기 보호나 집중을 위한 행동으로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "She tuned out his complaints and kept working.",
+    "shortExampleKo": "그녀는 그의 불평을 무시하고 계속 일했다."
+  }
+}

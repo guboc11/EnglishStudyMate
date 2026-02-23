@@ -1,0 +1,30 @@
+{
+  "id": "give-someone-a-hand_1f9125e3",
+  "expression": "give someone a hand",
+  "selectionMeta": {
+    "selectedPhrase": "give someone a hand",
+    "selectedSenseLabelKo": "도와주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Could you give me a hand moving this couch to the other side of the room?"
+  },
+  "step2": {
+    "story": "Sarah noticed her elderly neighbor struggling to carry grocery bags from the car. She jogged over and said, \"Let me give you a hand with those!\" Together, they brought everything inside in just one trip.",
+    "topicTag": "helping neighbors",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "It was moving day, and Jake stared at the mountain of boxes filling his tiny apartment. He had stubbornly insisted on doing everything alone, but by noon, he hadn't even finished packing the kitchen. His phone buzzed — it was a message from his college friend Marco: \"Hey, I'm free today. Need me to give you a hand?\" Within an hour, Marco showed up with his pickup truck and two more friends. By sunset, every last box was in the new place, and they celebrated with pizza on the bare living room floor. Jake realized that asking for help wasn't a sign of weakness — it was what friends were for.",
+    "topicTag": "friendship",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 손을 건네다, 즉 손을 빌려주다라는 뜻입니다.",
+    "realUsageKo": "일상에서 누군가를 도와줄 때 쓰는 캐주얼한 표현입니다. \"도와줄까?\" 또는 \"좀 도와줘\"라는 의미로 가볍게 사용됩니다.",
+    "etymologyKo": "과거 육체 노동이 중심이던 시대에 실제로 '손을 빌려주다'라는 의미에서 유래했으며, 이후 모든 종류의 도움으로 의미가 확장되었습니다.",
+    "nuanceKo": "격식 없이 친근한 상황에서 주로 쓰이며, help보다 더 캐주얼하고 따뜻한 느낌을 줍니다. 비즈니스보다는 일상 대화에서 자연스럽습니다.",
+    "shortExampleEn": "Can you give me a hand with this report?",
+    "shortExampleKo": "이 보고서 좀 도와줄 수 있어?"
+  }
+}

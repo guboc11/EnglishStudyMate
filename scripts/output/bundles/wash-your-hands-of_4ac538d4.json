@@ -1,0 +1,30 @@
+{
+  "id": "wash-your-hands-of_4ac538d4",
+  "expression": "wash your hands of",
+  "selectionMeta": {
+    "selectedPhrase": "wash your hands of",
+    "selectedSenseLabelKo": "손을 떼다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of trying to help his brother manage money, Kevin finally decided to wash his hands of the whole situation."
+  },
+  "step2": {
+    "story": "Mia had spent months mediating between two feuding coworkers, but nothing changed. When they started blaming her for taking sides, she decided to wash her hands of their conflict entirely. She told her manager she could no longer be involved.",
+    "topicTag": "workplace conflict",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Daniel had invested three years into a startup with his college friend, but the partnership was falling apart. His friend kept missing deadlines, ignoring feedback, and making reckless financial decisions. After one particularly disastrous product launch that cost them their biggest client, Daniel had had enough. He told his friend he was going to wash his hands of the business for good. It wasn't easy walking away from something he had built from scratch, but he knew staying would only drag him down further. Within a week, he had signed the paperwork and moved on.",
+    "topicTag": "business partnership",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '~에 대해 손을 씻다'라는 뜻입니다.",
+    "realUsageKo": "어떤 일이나 사람에 대해 더 이상 관여하지 않겠다고 선언할 때 씁니다. '나는 이 일에서 손을 떼겠다'는 의미로, 책임을 포기하거나 관계를 끊는 뉘앙스입니다.",
+    "etymologyKo": "성경에서 빌라도가 예수의 재판 결과에 대한 책임을 지지 않겠다며 군중 앞에서 손을 씻은 데서 유래했습니다.",
+    "nuanceKo": "단순히 그만두는 것이 아니라, 오랫동안 노력했지만 더 이상 책임지고 싶지 않다는 강한 감정이 담겨 있습니다. 다소 단호하고 결연한 어조로 쓰입니다.",
+    "shortExampleEn": "She washed her hands of the project after repeated failures.",
+    "shortExampleKo": "그녀는 반복된 실패 끝에 그 프로젝트에서 손을 뗐다."
+  }
+}

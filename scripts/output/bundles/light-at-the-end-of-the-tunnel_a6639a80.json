@@ -1,0 +1,30 @@
+{
+  "id": "light-at-the-end-of-the-tunnel_a6639a80",
+  "expression": "light at the end of the tunnel",
+  "selectionMeta": {
+    "selectedPhrase": "light at the end of the tunnel",
+    "selectedSenseLabelKo": "희망의 빛",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of grueling overtime, she finally saw the light at the end of the tunnel when her manager approved her vacation request."
+  },
+  "step2": {
+    "story": "James had been studying for the bar exam for over a year, sacrificing weekends and holidays. When he finally passed the practice test with a high score, he felt like there was light at the end of the tunnel. He celebrated by calling his parents, who had supported him through every sleepless night.",
+    "topicTag": "career goals",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maria stared at the stack of medical bills on her kitchen table, feeling the weight of the past two years pressing down on her shoulders. Ever since her accident, recovery had been slow and painful, and the financial burden seemed endless. But last week, her physical therapist said she was ahead of schedule, and today her insurance company approved the remaining claims. For the first time in months, she felt like there was light at the end of the tunnel. She poured herself a cup of coffee and sat by the window, watching the morning sun break through the clouds. Maybe things really were going to be okay after all.",
+    "topicTag": "personal hardship",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "터널 끝에 보이는 빛이라는 뜻으로, 어둡고 긴 터널을 지나면 결국 빛이 보인다는 의미입니다.",
+    "realUsageKo": "오랜 고생이나 어려운 시기가 곧 끝날 것 같다는 희망을 표현할 때 사용합니다. 주로 힘든 상황을 겪고 있는 사람에게 긍정적인 신호가 보일 때 씁니다.",
+    "etymologyKo": "실제 터널을 지나갈 때 출구 쪽에서 빛이 보이는 경험에서 유래한 표현으로, 19세기부터 비유적으로 사용되기 시작했습니다.",
+    "nuanceKo": "아직 완전히 끝난 것은 아니지만 끝이 보인다는 뉘앙스입니다. 긍정적이고 희망적인 톤으로, 격려나 안도의 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "We've been working on this project for six months, but I can finally see the light at the end of the tunnel.",
+    "shortExampleKo": "이 프로젝트를 6개월째 하고 있는데, 드디어 끝이 보이기 시작해요."
+  }
+}

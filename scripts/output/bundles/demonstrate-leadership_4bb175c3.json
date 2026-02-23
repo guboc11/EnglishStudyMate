@@ -1,0 +1,30 @@
+{
+  "id": "demonstrate-leadership_4bb175c3",
+  "expression": "demonstrate leadership",
+  "selectionMeta": {
+    "selectedPhrase": "demonstrate leadership",
+    "selectedSenseLabelKo": "리더십을 발휘하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the project hit a critical deadline, Maria stepped up to demonstrate leadership by organizing the team and delegating tasks efficiently."
+  },
+  "step2": {
+    "story": "The company was going through a major restructuring, and morale was at an all-time low. Jake decided to demonstrate leadership by holding transparent team meetings and addressing everyone's concerns honestly. Within weeks, the atmosphere shifted and productivity started climbing again.",
+    "topicTag": "workplace challenges",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Soyeon had always been a quiet member of the marketing team, preferring to let others take the spotlight. But when their department head suddenly resigned in the middle of a product launch, chaos erupted. Rather than waiting for someone else to act, she called an emergency meeting and laid out a clear action plan. Her colleagues were surprised but relieved to see her demonstrate leadership so naturally. She assigned roles based on each person's strengths and kept communication flowing throughout the crisis. By the time a new manager was hired, the launch had already succeeded—largely thanks to her initiative.",
+    "topicTag": "unexpected responsibility",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'리더십을 보여주다/입증하다'라는 뜻으로, 지도력을 실제 행동으로 드러내는 것을 의미합니다.",
+    "realUsageKo": "직장이나 팀 환경에서 누군가가 솔선수범하여 방향을 제시하고 팀원들을 이끌 때 사용합니다. 단순히 직위가 높아서가 아니라, 행동으로 리더의 자질을 보여줄 때 주로 쓰입니다.",
+    "etymologyKo": "'demonstrate'는 라틴어 'demonstrare(보여주다, 증명하다)'에서 유래했고, 'leadership'은 고대 영어 'lædan(이끌다)'에서 파생되었습니다. 두 단어가 결합되어 '이끄는 능력을 실제로 보여주다'라는 의미가 됩니다.",
+    "nuanceKo": "격식 있는 표현으로 비즈니스, 면접, 성과 평가 등 공식적인 맥락에서 자주 사용됩니다. 'show leadership'보다 좀 더 격식 있고 구체적인 증명의 뉘앙스가 있습니다.",
+    "shortExampleEn": "She demonstrated leadership during the crisis by keeping the team focused and calm.",
+    "shortExampleKo": "그녀는 위기 상황에서 팀의 집중력과 침착함을 유지시키며 리더십을 발휘했다."
+  }
+}

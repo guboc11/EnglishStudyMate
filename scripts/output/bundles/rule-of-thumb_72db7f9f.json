@@ -1,0 +1,30 @@
+{
+  "id": "rule-of-thumb_72db7f9f",
+  "expression": "rule of thumb",
+  "selectionMeta": {
+    "selectedPhrase": "rule of thumb",
+    "selectedSenseLabelKo": "경험에서 나온 지침",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As a rule of thumb, you should save at least twenty percent of your monthly income."
+  },
+  "step2": {
+    "story": "Jenny had no idea how much pasta to cook for eight guests. Her grandmother smiled and shared a simple rule of thumb: about 100 grams per person. The dinner turned out perfectly, and Jenny never forgot that little trick.",
+    "topicTag": "cooking tips",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "David had just been promoted to project manager, and he felt completely overwhelmed by the endless decisions he had to make every day. His mentor, Sarah, noticed him struggling and pulled him aside after a meeting. She told him that a good rule of thumb in leadership is to spend eighty percent of your time listening and only twenty percent talking. David was skeptical at first, but he tried it during the next team discussion. To his surprise, his team opened up with creative solutions he never would have thought of on his own. From that day on, he carried that simple guideline with him through every challenge.",
+    "topicTag": "leadership growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'엄지손가락의 규칙'이라는 뜻으로, 정밀한 측정 없이 엄지를 이용해 대략적으로 길이를 재던 관습에서 유래했습니다.",
+    "realUsageKo": "정확한 규칙이 아니라 경험에서 나온 대략적인 기준이나 지침을 말할 때 사용합니다. '대체로 이렇게 하면 된다'는 뉘앙스입니다.",
+    "etymologyKo": "17세기경 영국에서 목수나 농부들이 엄지손가락 너비를 대략 1인치로 삼아 측정하던 관행에서 유래한 표현입니다.",
+    "nuanceKo": "공식적인 규칙이 아닌, 실용적이고 간편한 기준을 제시할 때 쓰입니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "A good rule of thumb is to drink eight glasses of water a day.",
+    "shortExampleKo": "하루에 물 여덟 잔을 마시는 것이 일반적인 기준이에요."
+  }
+}

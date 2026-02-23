@@ -1,0 +1,30 @@
+{
+  "id": "move-the-goalposts_a766cc24",
+  "expression": "move the goalposts",
+  "selectionMeta": {
+    "selectedPhrase": "move the goalposts",
+    "selectedSenseLabelKo": "기준을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Every time I meet the requirements, my manager seems to move the goalposts and ask for something more."
+  },
+  "step2": {
+    "story": "Jenna spent three months preparing her proposal to match every criterion her director had listed. But when she finally presented it, he added entirely new conditions that hadn't existed before. She realized he was just moving the goalposts to avoid approving her project.",
+    "topicTag": "workplace frustration",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Daniel had been working toward a promotion for over a year. His boss told him he needed to close ten deals in a quarter, so he pushed himself and closed twelve. When review time came, his boss said the target was actually fifteen and that he also needed leadership experience. Daniel felt deflated — it was obvious someone was moving the goalposts on him. He confided in a senior colleague, who advised him to get all future targets in writing. Armed with that lesson, Daniel requested a formal email outlining the exact criteria for his next review cycle.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "골대를 옮기다 — 축구에서 상대가 골을 넣으려 할 때 골대 위치를 바꿔버리는 것을 뜻합니다.",
+    "realUsageKo": "누군가가 이미 합의된 조건이나 기준을 일방적으로 변경하여 상대방이 목표를 달성하기 어렵게 만들 때 사용합니다. 주로 불공정하거나 부당한 상황을 비판할 때 씁니다.",
+    "etymologyKo": "축구(football)에서 유래한 표현으로, 상대 팀이 슛을 하려는 순간 골대를 물리적으로 이동시키면 절대 골을 넣을 수 없다는 데서 비롯되었습니다. 1980년대 영국 정치 담론에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강한 표현으로, 규칙이나 기준을 자의적으로 바꾸는 행위를 비난할 때 주로 사용됩니다. 공식적인 글이나 비즈니스 상황에서도 자주 쓰입니다.",
+    "shortExampleEn": "Stop moving the goalposts — we agreed on a deadline last week.",
+    "shortExampleKo": "기준을 자꾸 바꾸지 마세요 — 지난주에 마감일을 합의했잖아요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "flip-the-script_17bb4cb0",
+  "expression": "flip the script",
+  "selectionMeta": {
+    "selectedPhrase": "flip the script",
+    "selectedSenseLabelKo": "판을 뒤집다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of being underestimated at work, she decided to flip the script and pitch her own startup idea to the board."
+  },
+  "step2": {
+    "story": "Everyone expected Jake to quietly accept the demotion. Instead, he flipped the script by presenting a restructuring plan that impressed the CEO so much that he got promoted two levels above his old position. Sometimes the best response to a setback is a bold move forward.",
+    "topicTag": "career comeback",
+    "moodTag": "empowering"
+  },
+  "step3": {
+    "story": "For years, Mina had been the one taking notes in meetings while others presented her ideas as their own. She never complained, and people assumed she was content in her quiet role. But one Friday afternoon, she flipped the script entirely. She walked into the quarterly review with a fully developed product prototype she had been building in secret. The room went silent as she demonstrated features that solved problems the team had struggled with for months. By Monday morning, she had been named project lead, and the people who had overlooked her were now reporting to her.",
+    "topicTag": "workplace transformation",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "대본을 뒤집다, 즉 이야기의 흐름을 완전히 바꾸다라는 뜻입니다.",
+    "realUsageKo": "예상되는 상황이나 역할 관계를 완전히 뒤바꿀 때 사용합니다. 불리한 입장에 있던 사람이 반전을 만들어내거나, 기존의 틀을 깨는 행동을 할 때 주로 씁니다.",
+    "etymologyKo": "원래 영화나 연극에서 대본(script)을 뒤집는다는 의미에서 유래했습니다. 할리우드와 힙합 문화에서 널리 퍼지며, 기존 서사를 완전히 바꾼다는 비유적 표현으로 자리 잡았습니다.",
+    "nuanceKo": "긍정적이고 역동적인 뉘앙스를 가지며, 주로 약자가 판세를 뒤집거나 예상을 깨는 반전 상황에서 사용됩니다. 구어체에서 자주 쓰이고, 자신감과 주도성을 강조하는 톤입니다.",
+    "shortExampleEn": "The underdog team flipped the script and won the championship in the final quarter.",
+    "shortExampleKo": "약체 팀이 마지막 쿼터에서 판을 뒤집고 우승을 차지했다."
+  }
+}

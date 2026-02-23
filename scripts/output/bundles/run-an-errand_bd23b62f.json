@@ -1,0 +1,30 @@
+{
+  "id": "run-an-errand_bd23b62f",
+  "expression": "run an errand",
+  "selectionMeta": {
+    "selectedPhrase": "run an errand",
+    "selectedSenseLabelKo": "볼일을 보다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to run an errand before the post office closes at five."
+  },
+  "step2": {
+    "story": "Sarah glanced at the clock and realized she only had thirty minutes left. She grabbed her car keys and rushed out to run an errand — picking up her son's prescription from the pharmacy. The traffic was lighter than expected, and she made it back just in time for dinner.",
+    "topicTag": "time management",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "David had been working from home all morning, but his to-do list kept growing. Around noon, he decided to step outside and run an errand he had been putting off for days — returning a package at the delivery center across town. On his way there, he stopped by the dry cleaner to pick up his suit for Friday's interview. The fresh air and movement actually helped clear his mind. By the time he got back to his desk, he felt more focused than he had all week. Sometimes a simple errand is all it takes to reset your energy.",
+    "topicTag": "daily routine",
+    "moodTag": "refreshed"
+  },
+  "meaning": {
+    "literalMeaningKo": "'errand(심부름, 볼일)'을 'run(달리다, 수행하다)'한다는 뜻으로, 짧은 외출을 동반하는 용무를 처리한다는 의미입니다.",
+    "realUsageKo": "은행, 우체국, 약국 방문 등 일상적인 잡무를 처리하러 잠깐 외출할 때 씁니다. 보통 한 가지 구체적인 용건을 해결하러 나가는 느낌이며, 복수형 'run errands'는 여러 볼일을 한꺼번에 처리할 때 사용합니다.",
+    "etymologyKo": "'errand'는 고대 영어 'ǣrende(메시지, 임무)'에서 유래했으며, 원래 누군가의 전언을 전달하러 가는 것을 뜻했습니다. 'run'은 빠르게 이동한다는 의미가 결합되어, 간단한 볼일을 보러 나간다는 뜻으로 정착했습니다.",
+    "nuanceKo": "격식 없이 일상적으로 쓰이는 표현이며, 구체적인 용건을 밝히지 않고 '볼일이 있다'고 말할 때 편리합니다. 직장에서 잠깐 자리를 비울 때도 자연스럽게 사용할 수 있습니다.",
+    "shortExampleEn": "Can you run an errand for me and drop this letter at the post office?",
+    "shortExampleKo": "우체국에 이 편지 좀 넣어다 줄 수 있어?"
+  }
+}

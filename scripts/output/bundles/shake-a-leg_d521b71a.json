@@ -1,0 +1,30 @@
+{
+  "id": "shake-a-leg_d521b71a",
+  "expression": "shake a leg",
+  "selectionMeta": {
+    "selectedPhrase": "shake a leg",
+    "selectedSenseLabelKo": "서두르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Come on, shake a leg or we'll miss the last train!"
+  },
+  "step2": {
+    "story": "Maya glanced at the clock and realized the interview started in twenty minutes. She grabbed her bag and yelled to her roommate, \"Shake a leg! You promised to drive me there.\" They dashed out the door just in time.",
+    "topicTag": "job interview",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "The morning sun was already high when Jake woke up to three missed alarms. His flight to Tokyo was boarding in ninety minutes, and the airport was an hour away. He threw clothes into a suitcase without folding them and splashed water on his face. His sister banged on the bedroom door shouting, \"Shake a leg, Jake! The taxi's already waiting outside.\" He stumbled down the stairs with one shoe on and his passport between his teeth. Somehow, breathlessly, he made it to the gate just as they called the final boarding group.",
+    "topicTag": "travel rush",
+    "moodTag": "frantic"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '다리를 흔들다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '서둘러!', '빨리 움직여!'라는 의미로 사용됩니다. 누군가에게 빨리 행동하라고 재촉할 때 쓰는 구어체 표현입니다.",
+    "etymologyKo": "19세기 미국에서 유래한 표현으로, 침대에서 다리를 먼저 내밀어 일어나라는 뜻에서 시작되었다고 알려져 있습니다.",
+    "nuanceKo": "친근하고 가벼운 톤으로, 주로 가까운 사이에서 재촉할 때 씁니다. 격식 있는 상황에서는 잘 사용하지 않습니다.",
+    "shortExampleEn": "Shake a leg, kids — the school bus is here!",
+    "shortExampleKo": "얘들아, 서둘러 — 스쿨버스 왔어!"
+  }
+}

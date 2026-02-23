@@ -1,0 +1,30 @@
+{
+  "id": "settle-down_1ba41e3b",
+  "expression": "settle down",
+  "selectionMeta": {
+    "selectedPhrase": "settle down",
+    "selectedSenseLabelKo": "정착하다 / 진정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of traveling the world, she finally decided to settle down in a quiet coastal town."
+  },
+  "step2": {
+    "story": "Mark had been backpacking through Asia for three years, but when he met Yuna in Seoul, everything changed. He realized he wanted to settle down and build a life with her. They found a cozy apartment near the Han River and started planning their future together.",
+    "topicTag": "life transition",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "For most of her twenties, Jina never stayed in one city for more than six months. She chased freelance projects from Berlin to Bangkok, always convinced that the next destination would feel like home. But when she returned to her hometown for her mother's birthday, something shifted inside her. The familiar smell of the neighborhood bakery and the sound of children playing in the park stirred emotions she had been ignoring. She told her mother over dinner that she wanted to settle down nearby. Within a month, she had signed a lease, adopted a cat, and started teaching English at the local community center.",
+    "topicTag": "homecoming",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'settle'(자리 잡다)과 'down'(아래로)이 합쳐져, 한곳에 내려앉아 자리를 잡는다는 뜻입니다.",
+    "realUsageKo": "크게 두 가지로 쓰입니다. 첫째, 이곳저곳 떠돌지 않고 한 곳에 정착해 안정적인 생활을 시작할 때 씁니다. 둘째, 흥분하거나 소란스러운 상태에서 진정하라고 할 때도 사용합니다.",
+    "etymologyKo": "'settle'은 고대 영어 'setlan'(앉히다, 놓다)에서 유래했으며, 'down'이 붙어 '아래로 내려앉다'라는 물리적 이미지가 '정착하다'와 '진정하다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "정착의 의미로 쓸 때는 긍정적이고 성숙한 결정의 느낌이 있습니다. 진정하라는 의미로 쓸 때는 상대방에게 차분해지라는 부드러운 요청이지만, 상황에 따라 약간 권위적으로 들릴 수 있습니다.",
+    "shortExampleEn": "The kids were running around, so the teacher asked them to settle down.",
+    "shortExampleKo": "아이들이 뛰어다니고 있어서 선생님이 진정하라고 했다."
+  }
+}

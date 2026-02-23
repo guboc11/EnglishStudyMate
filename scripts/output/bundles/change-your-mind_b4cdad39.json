@@ -1,0 +1,30 @@
+{
+  "id": "change-your-mind_b4cdad39",
+  "expression": "change your mind",
+  "selectionMeta": {
+    "selectedPhrase": "change your mind",
+    "selectedSenseLabelKo": "마음을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I was going to skip the trip, but my friend convinced me to change my mind."
+  },
+  "step2": {
+    "story": "Sarah had already decided to quit her job and move abroad. But after a long conversation with her mentor, she began to change her mind. She realized there were still opportunities worth exploring right where she was.",
+    "topicTag": "career decisions",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Jake had been planning to sell his grandmother's old bookstore for months. The building was crumbling, and the numbers just didn't add up anymore. One rainy afternoon, a young girl walked in and asked if he had any books about dinosaurs. He watched her eyes light up as she flipped through the pages, completely lost in wonder. In that quiet moment, something shifted inside him. He decided to change his mind and keep the bookstore open, no matter what it took.",
+    "topicTag": "legacy and purpose",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 마음(생각)을 바꾸다라는 뜻으로, 말 그대로 결정이나 의견을 변경하는 것을 의미합니다.",
+    "realUsageKo": "이미 내린 결정이나 가지고 있던 의견을 번복할 때 사용합니다. 'I changed my mind'처럼 과거형으로 쓰면 '마음을 바꿨어'라는 뜻이 됩니다.",
+    "etymologyKo": "'mind'는 고대 영어 'gemynd(기억, 생각)'에서 유래했으며, 'change one's mind'는 16세기부터 '생각을 바꾸다'라는 의미로 널리 쓰여 왔습니다.",
+    "nuanceKo": "부정적인 뉘앙스 없이 중립적으로 사용됩니다. 단순한 변심부터 신중한 재고까지 폭넓게 쓰이며, 일상 회화에서 매우 자주 등장하는 표현입니다.",
+    "shortExampleEn": "Don't worry, you can always change your mind later.",
+    "shortExampleKo": "걱정 마, 나중에 언제든 마음을 바꿀 수 있어."
+  }
+}

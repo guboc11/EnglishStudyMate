@@ -1,0 +1,30 @@
+{
+  "id": "clear-the-air_9232e4d4",
+  "expression": "clear the air",
+  "selectionMeta": {
+    "selectedPhrase": "clear the air",
+    "selectedSenseLabelKo": "오해를 풀다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After days of awkward silence, they finally sat down to clear the air about what happened at the meeting."
+  },
+  "step2": {
+    "story": "Mina and her roommate hadn't spoken properly in a week after a disagreement over bills. One evening, Mina made two cups of tea and said, \"Can we clear the air? I hate this tension between us.\" They talked for over an hour and by the end, both felt a weight lift off their shoulders.",
+    "topicTag": "friendship conflict",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The team had been divided ever since the project manager blamed the wrong person for the missed deadline. Whispered conversations and cold stares filled the office for weeks. Finally, Daniel called an all-hands meeting and said he wanted to clear the air before things got worse. He admitted that the miscommunication had been his fault and apologized in front of everyone. The room was quiet at first, then one by one, people started sharing their own frustrations openly. By the end of the meeting, the atmosphere had completely shifted — it wasn't perfect, but the team felt like a team again.",
+    "topicTag": "workplace tension",
+    "moodTag": "honest"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '공기를 맑게 하다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 사람들 사이에 쌓인 오해나 긴장감을 대화를 통해 해소할 때 사용합니다. \"우리 속 시원하게 얘기 좀 하자\"라는 느낌으로, 불편한 감정을 털어놓고 관계를 회복하려는 상황에서 쓰입니다.",
+    "etymologyKo": "폭풍우가 지나간 뒤 공기가 맑아지는 자연 현상에서 유래했습니다. 감정적 갈등을 폭풍에 비유하여, 갈등 해소 후 분위기가 깨끗해진다는 의미로 확장되었습니다.",
+    "nuanceKo": "진지하지만 긍정적인 톤의 표현입니다. 갈등을 회피하지 않고 정면으로 마주하겠다는 성숙한 태도를 내포하며, 직장 동료나 친구, 가족 등 다양한 관계에서 폭넓게 사용됩니다.",
+    "shortExampleEn": "Let's clear the air — I think there's been a misunderstanding between us.",
+    "shortExampleKo": "오해를 풀자 — 우리 사이에 뭔가 오해가 있었던 것 같아."
+  }
+}

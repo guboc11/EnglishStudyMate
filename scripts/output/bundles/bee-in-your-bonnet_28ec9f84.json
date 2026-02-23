@@ -1,0 +1,30 @@
+{
+  "id": "bee-in-your-bonnet_28ec9f84",
+  "expression": "bee in your bonnet",
+  "selectionMeta": {
+    "selectedPhrase": "bee in your bonnet",
+    "selectedSenseLabelKo": "머릿속에서 떠나지 않는 생각",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Ever since she visited that tiny bookshop in Paris, she's had a bee in her bonnet about opening her own someday."
+  },
+  "step2": {
+    "story": "My colleague has had a bee in his bonnet about switching to renewable energy at the office ever since he watched that documentary. He brings it up in every meeting, waving printed charts about solar panel savings. The rest of us have started calling him 'Captain Solar' behind his back, but honestly, his persistence is starting to win people over.",
+    "topicTag": "workplace passion",
+    "moodTag": "enthusiastic"
+  },
+  "step3": {
+    "story": "Clara had always been practical, but lately she had a bee in her bonnet that wouldn't go away. After stumbling across an old family recipe hidden in her grandmother's attic, she became obsessed with the idea of recreating every dish in the tattered notebook. Night after night, she experimented in her kitchen, flour dusting her hair and spices staining her fingers. Her friends joked that she'd gone mad, but Clara didn't care. The bee in her bonnet had turned into a full-blown mission, and by spring she had cooked all forty-seven recipes. The last one, a honey cake, tasted exactly like her childhood summers.",
+    "topicTag": "family heritage",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "모자 안에 벌이 있다는 뜻으로, 머릿속에 어떤 생각이 윙윙거리며 맴도는 상태를 비유합니다.",
+    "realUsageKo": "어떤 아이디어나 걱정거리에 집착하여 계속 그것만 생각하거나 이야기하는 상황에서 사용합니다. 약간 과하다는 뉘앙스를 포함할 때가 많습니다.",
+    "etymologyKo": "16세기 영국에서 유래한 표현으로, 실제로 모자 안에 벌이 들어가면 머리에서 윙윙거리는 소리가 나 정신이 없는 상태를 묘사한 데서 비롯되었습니다.",
+    "nuanceKo": "주로 타인의 집착이나 고정관념을 가볍게 놀리거나 관찰할 때 쓰이며, 부정적이기보다는 약간 유머러스한 어감입니다. 본인이 직접 쓸 수도 있지만 제3자 시점에서 더 자주 사용됩니다.",
+    "shortExampleEn": "He's got a bee in his bonnet about moving to the countryside.",
+    "shortExampleKo": "그는 시골로 이사 가겠다는 생각에 사로잡혀 있다."
+  }
+}

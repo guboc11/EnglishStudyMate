@@ -1,0 +1,30 @@
+{
+  "id": "make-sense_46f058f1",
+  "expression": "make sense",
+  "selectionMeta": {
+    "selectedPhrase": "make sense",
+    "selectedSenseLabelKo": "이해가 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After she explained the whole situation, everything started to make sense."
+  },
+  "step2": {
+    "story": "Jake stared at the math problem for twenty minutes, feeling completely lost. Then his classmate drew a simple diagram on the whiteboard, and suddenly the solution began to make sense. He smiled and picked up his pencil to try again.",
+    "topicTag": "learning",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mia had been reading the same paragraph in her contract for the third time, but the legal language was impossible to follow. She called her older sister, a lawyer, hoping for some clarity. Her sister patiently broke down each clause into plain English, one by one. Slowly, the complicated terms started to make sense, and Mia realized the deal was actually quite fair. She felt a wave of relief wash over her. She thanked her sister and signed the document with confidence.",
+    "topicTag": "everyday decisions",
+    "moodTag": "reassured"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '의미를 만들다'로, 무언가가 논리적으로 연결된다는 뜻입니다.",
+    "realUsageKo": "어떤 설명이나 상황이 논리적으로 이해가 될 때 사용합니다. 'That makes sense'는 '그거 이해돼' 또는 '그렇구나'라는 뜻으로 일상에서 매우 자주 쓰입니다.",
+    "etymologyKo": "'sense'는 라틴어 'sensus(감각, 의미)'에서 유래했으며, 'make sense'는 '의미가 성립하다'라는 뜻으로 17세기부터 영어에서 널리 사용되었습니다.",
+    "nuanceKo": "격식·비격식 모두 자연스럽게 쓰이며, 상대 말에 동의하거나 납득했음을 표현할 때 아주 흔하게 사용됩니다. 부정형 'doesn't make sense'는 '말이 안 돼'라는 뉘앙스입니다.",
+    "shortExampleEn": "It doesn't make sense to drive when the office is only two blocks away.",
+    "shortExampleKo": "사무실이 두 블록밖에 안 되는데 차를 몰고 가는 건 말이 안 돼."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "get-wind-of_08e8fdeb",
+  "expression": "get wind of",
+  "selectionMeta": {
+    "selectedPhrase": "get wind of",
+    "selectedSenseLabelKo": "소문을 듣다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The CEO got wind of the merger plans before the official announcement was made."
+  },
+  "step2": {
+    "story": "A journalist got wind of a secret government project through an anonymous tip. She spent weeks verifying the information before publishing. Her article exposed a billion-dollar cover-up that shook the entire nation.",
+    "topicTag": "investigative journalism",
+    "moodTag": "suspenseful"
+  },
+  "step3": {
+    "story": "Marcus had been quietly planning a surprise birthday party for his wife for over a month. He booked a rooftop restaurant, invited all her closest friends, and even flew her sister in from overseas. Everything was going perfectly until his wife got wind of the plan from a careless comment her coworker made at lunch. She confronted Marcus that evening with a knowing smile. He tried to deny it at first, but her expression told him the secret was out. In the end, she pretended to be surprised anyway, because she loved how much effort he had put into it.",
+    "topicTag": "surprise plans",
+    "moodTag": "warm and humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '바람을 얻다'로, 바람에 실려 오는 냄새나 소리를 감지한다는 뜻입니다.",
+    "realUsageKo": "비밀이나 아직 공개되지 않은 정보를 우연히 또는 간접적으로 알게 되었을 때 사용합니다. 주로 당사자가 알리고 싶지 않았던 내용을 제3자가 듣게 되는 상황에서 쓰입니다.",
+    "etymologyKo": "사냥개가 바람에 실린 냄새를 맡아 사냥감의 위치를 파악하는 것에서 유래했습니다. 16세기부터 비유적으로 '정보를 입수하다'라는 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "공식적인 경로가 아닌 비공식적으로 정보를 접했다는 뉘앙스가 강합니다. 보통 비밀스럽거나 민감한 정보에 대해 사용하며, 중립적이거나 약간 부정적인 톤을 가집니다.",
+    "shortExampleEn": "If the press gets wind of this scandal, it will be a disaster.",
+    "shortExampleKo": "언론이 이 스캔들 소식을 듣게 되면 큰일이 날 거야."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "keep-the-peace_a5f5d6e1",
+  "expression": "keep the peace",
+  "selectionMeta": {
+    "selectedPhrase": "keep the peace",
+    "selectedSenseLabelKo": "평화를 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided not to mention the broken vase, just to keep the peace at the family dinner."
+  },
+  "step2": {
+    "story": "Two neighbors had been arguing about the fence line for weeks. Finally, Mr. Park offered to split the cost of a new fence just to keep the peace. It wasn't about winning — it was about living next to each other without tension.",
+    "topicTag": "neighbor relations",
+    "moodTag": "diplomatic"
+  },
+  "step3": {
+    "story": "Jina noticed her two best friends hadn't spoken to each other since the misunderstanding at last week's dinner. She hated watching them avoid each other in the group chat. So she organized a casual brunch and seated them next to each other, hoping good food would soften the mood. When the conversation turned awkward, Jina cracked a joke to keep the peace. By the end of the meal, both friends were laughing again. Sometimes all it takes is one person willing to bridge the gap.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "평화를 유지하다, 즉 갈등이나 다툼 없이 평온한 상태를 지키다라는 뜻입니다.",
+    "realUsageKo": "실제로는 싸움이나 갈등을 피하기 위해 자신의 의견을 양보하거나, 분위기를 부드럽게 만들려고 노력할 때 사용합니다. '괜히 분란 일으키지 말자'는 느낌으로 쓰입니다.",
+    "etymologyKo": "중세 영어에서 유래한 표현으로, 원래 법적으로 공공 질서를 유지한다는 의미의 'King's peace'에서 발전했습니다. 이후 일상적인 대인관계에서의 평화 유지로 의미가 확장되었습니다.",
+    "nuanceKo": "단순히 '사이좋게 지내다'보다는, 갈등 상황에서 의도적으로 충돌을 피하거나 중재하는 느낌이 강합니다. 때로는 자신의 본심을 숨기고 참는다는 뉘앙스도 있습니다.",
+    "shortExampleEn": "I just smiled and agreed to keep the peace.",
+    "shortExampleKo": "나는 평화를 유지하기 위해 그냥 웃으며 동의했다."
+  }
+}

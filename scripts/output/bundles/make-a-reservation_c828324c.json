@@ -1,0 +1,30 @@
+{
+  "id": "make-a-reservation_c828324c",
+  "expression": "make a reservation",
+  "selectionMeta": {
+    "selectedPhrase": "make a reservation",
+    "selectedSenseLabelKo": "예약을 하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to make a reservation at the Italian restaurant before they're fully booked this weekend."
+  },
+  "step2": {
+    "story": "Sarah wanted to surprise her husband on their anniversary. She called the fancy rooftop restaurant downtown to make a reservation for two. The host confirmed a window table at seven, and she smiled knowing the evening would be perfect.",
+    "topicTag": "anniversary dinner",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Jinho had been planning a team dinner for weeks to celebrate their product launch. He searched online for a Korean BBQ place that could seat twelve people comfortably. When he called to make a reservation, the manager said Friday evening was already packed. She suggested Thursday instead and offered to set up a private room at no extra charge. Jinho agreed immediately and sent the details to the group chat. Everyone replied with thumbs up, and he felt relieved that the biggest part of planning was done.",
+    "topicTag": "team celebration",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '예약을 만들다'로, 식당이나 호텔 등에 자리를 미리 잡아두는 것을 뜻합니다.",
+    "realUsageKo": "식당, 호텔, 항공편 등을 미리 예약할 때 가장 흔히 쓰이는 표현입니다. 'book'과 비슷하지만, make a reservation은 좀 더 격식 있는 느낌으로 전화나 대면 상황에서 자주 사용됩니다.",
+    "etymologyKo": "'reservation'은 라틴어 'reservare(따로 보관하다)'에서 유래했으며, 'make'와 결합해 '자리를 따로 확보하는 행위'를 나타내는 연어(collocation)로 정착했습니다.",
+    "nuanceKo": "일상 대화에서 자연스럽고 정중한 표현입니다. 캐주얼한 상황에서는 'book a table'을 더 많이 쓰기도 하지만, make a reservation은 어떤 상황에서든 무난하게 사용할 수 있습니다.",
+    "shortExampleEn": "Could you make a reservation for four at 7 PM?",
+    "shortExampleKo": "오후 7시에 4명으로 예약해 주시겠어요?"
+  }
+}

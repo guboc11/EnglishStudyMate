@@ -1,0 +1,30 @@
+{
+  "id": "touch-on_99012dd7",
+  "expression": "touch on",
+  "selectionMeta": {
+    "selectedPhrase": "touch on",
+    "selectedSenseLabelKo": "언급하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The professor decided to touch on the topic of climate change before moving to the main lecture."
+  },
+  "step2": {
+    "story": "During the team meeting, Sarah only had five minutes left, so she briefly touched on the budget issue without going into detail. Her manager nodded and suggested they schedule a separate session to discuss it further. Everyone agreed it was too important to rush through.",
+    "topicTag": "workplace communication",
+    "moodTag": "professional"
+  },
+  "step3": {
+    "story": "Jake had been preparing his presentation for weeks, carefully organizing every section. When the day finally came, he realized he had too much material for the allotted time. He decided to touch on the historical background only briefly and focus on the data analysis instead. The audience seemed to appreciate the streamlined approach, and several people came up afterward with questions about the parts he had skimmed over. His boss later told him it was a smart decision to prioritize depth over breadth. Jake made a mental note to always leave room for flexibility in future presentations.",
+    "topicTag": "presentation skills",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'touch on'은 직역하면 '~을 살짝 건드리다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 주제나 사안을 깊이 들어가지 않고 간략하게 언급하거나 다룰 때 사용합니다. 대화, 발표, 글 등에서 특정 주제를 짧게 거론할 때 자주 쓰입니다.",
+    "etymologyKo": "'touch'는 물리적으로 접촉한다는 의미에서 출발하여, 어떤 대상을 가볍게 스치듯 다룬다는 비유적 표현으로 확장되었습니다.",
+    "nuanceKo": "'touch on'은 깊이 다루지 않고 표면적으로만 언급한다는 뉘앙스를 가지므로, 본격적인 논의가 아닌 간략한 소개나 짧은 언급을 의미합니다.",
+    "shortExampleEn": "We didn't have time to touch on every issue during the meeting.",
+    "shortExampleKo": "회의 중에 모든 사안을 언급할 시간이 없었다."
+  }
+}

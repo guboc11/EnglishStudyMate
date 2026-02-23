@@ -1,0 +1,30 @@
+{
+  "id": "break-even_6164227d",
+  "expression": "break even",
+  "selectionMeta": {
+    "selectedPhrase": "break even",
+    "selectedSenseLabelKo": "본전을 찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of struggling, the small bakery finally managed to break even on its investment."
+  },
+  "step2": {
+    "story": "Jenna opened a vintage clothing shop last spring with her life savings. For the first six months, she barely covered rent and expenses. But by December, loyal customers kept coming back, and she was thrilled to finally break even.",
+    "topicTag": "small business",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Marcus had always dreamed of launching his own coffee roasting brand. He quit his corporate job, invested $40,000, and spent months perfecting his blends. The first year was brutal — sales were slow, and he watched his savings drain week after week. He almost gave up twice, but a partnership with a local bookstore chain changed everything. By the end of the second year, he finally broke even, and for the first time in months, he slept through the night without worrying about money.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'깨고(break) 동등해지다(even)'라는 뜻으로, 수익과 비용이 같아지는 지점을 의미합니다.",
+    "realUsageKo": "투자하거나 사업을 시작한 뒤, 손해도 이익도 없이 본전을 되찾았을 때 사용합니다. '겨우 본전이다', '밑지지는 않았다'는 느낌으로 쓰입니다.",
+    "etymologyKo": "회계·상업 용어에서 유래했으며, 수입과 지출이 '균등하게(even) 맞아떨어지다(break)'는 의미에서 나왔습니다. 20세기 초부터 비즈니스 영어에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "큰 이익을 본 것이 아니라 '겨우 본전'이라는 뉘앙스가 있어, 안도감과 동시에 아직 갈 길이 멀다는 느낌을 줍니다. 긍정적이지만 겸손한 표현입니다.",
+    "shortExampleEn": "We didn't make a profit, but at least we broke even.",
+    "shortExampleKo": "이익을 내지는 못했지만, 적어도 본전은 찾았어."
+  }
+}

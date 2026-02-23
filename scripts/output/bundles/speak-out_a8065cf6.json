@@ -1,0 +1,30 @@
+{
+  "id": "speak-out_a8065cf6",
+  "expression": "speak out",
+  "selectionMeta": {
+    "selectedPhrase": "speak out",
+    "selectedSenseLabelKo": "공개적으로 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to speak out against the unfair policy at the town hall meeting."
+  },
+  "step2": {
+    "story": "For months, the employees silently endured the new overtime rules. Finally, Jenna stood up during the all-hands meeting and spoke out about how the policy was affecting everyone's health and morale. Her courage inspired three other team members to share their experiences too.",
+    "topicTag": "workplace fairness",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Daniel had always been the quiet one in his neighborhood association. When a developer announced plans to tear down the community garden and build a parking lot, most residents just shrugged and accepted it. But Daniel remembered how his daughter had planted her first sunflower there. That evening, he walked up to the microphone at the public hearing and spoke out, his voice shaking but clear. He described what the garden meant to families like his and urged everyone not to stay silent. By the end of the night, over forty residents had signed a petition to save it.",
+    "topicTag": "community activism",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "밖으로 말하다, 즉 자신의 생각이나 의견을 외부로 표현하다.",
+    "realUsageKo": "부당하거나 중요한 문제에 대해 공개적으로, 때로는 용기를 내어 자신의 의견을 당당하게 밝힐 때 사용합니다. 단순히 말하는 것이 아니라 침묵을 깨고 목소리를 내는 뉘앙스가 있습니다.",
+    "etymologyKo": "'speak'(말하다)와 'out'(밖으로)의 결합으로, 속으로만 품고 있던 생각을 밖으로 꺼내어 말한다는 의미에서 유래했습니다.",
+    "nuanceKo": "주로 불의, 차별, 부당한 상황에 대해 용기 있게 목소리를 낼 때 쓰이며, 긍정적이고 존경받는 행동으로 인식됩니다. 'speak up'과 비슷하지만 'speak out'은 더 공적이고 사회적 맥락에서 많이 사용됩니다.",
+    "shortExampleEn": "More people need to speak out about climate change.",
+    "shortExampleKo": "더 많은 사람들이 기후 변화에 대해 목소리를 내야 합니다."
+  }
+}

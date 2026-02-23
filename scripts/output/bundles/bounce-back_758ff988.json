@@ -1,0 +1,30 @@
+{
+  "id": "bounce-back_758ff988",
+  "expression": "bounce back",
+  "selectionMeta": {
+    "selectedPhrase": "bounce back",
+    "selectedSenseLabelKo": "회복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing the first two sets, the tennis player managed to bounce back and win the match."
+  },
+  "step2": {
+    "story": "Maya's startup failed last year, and she lost almost everything she had invested. But instead of giving up, she studied what went wrong and launched a new company. Her ability to bounce back inspired everyone around her.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "When the factory closed down, the entire town fell into an economic slump. Shops emptied out, and families started moving away in search of work. But a group of local leaders refused to let their community disappear. They pooled their savings and opened a cooperative farm that supplied organic produce to nearby cities. Within two years, the town began to bounce back, with new businesses opening and young people returning home. What had seemed like the end turned out to be just the beginning of something better.",
+    "topicTag": "community revival",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "공이 튀어 오르듯 다시 되돌아온다는 뜻입니다.",
+    "realUsageKo": "어려운 상황이나 실패, 질병 등에서 다시 회복하거나 원래 상태로 돌아올 때 사용합니다. '다시 일어서다', '회복하다'라는 의미로 일상 대화에서 자주 쓰입니다.",
+    "etymologyKo": "공(ball)이 바닥에 부딪힌 뒤 다시 튀어 오르는(bounce) 물리적 움직임에서 유래했습니다. 이 이미지가 확장되어 역경 후 회복하는 것을 비유적으로 표현하게 되었습니다.",
+    "nuanceKo": "단순히 회복한다는 뜻보다 역경이나 어려움을 겪은 후 다시 강하게 돌아온다는 긍정적이고 능동적인 뉘앙스가 있습니다. 격식체보다는 일상 대화에서 더 자연스럽게 사용됩니다.",
+    "shortExampleEn": "She bounced back quickly after the surgery.",
+    "shortExampleKo": "그녀는 수술 후 빠르게 회복했다."
+  }
+}

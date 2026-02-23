@@ -1,0 +1,30 @@
+{
+  "id": "in-the-black_d8e0a155",
+  "expression": "in the black",
+  "selectionMeta": {
+    "selectedPhrase": "in the black",
+    "selectedSenseLabelKo": "흑자인",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of cutting costs and boosting sales, the company is finally in the black again."
+  },
+  "step2": {
+    "story": "Sarah stared at the quarterly report and let out a sigh of relief. For the first time in two years, her small bakery was in the black. She immediately called her business partner to share the good news.",
+    "topicTag": "small business",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "When Marcus took over his family's struggling restaurant, everyone told him to just sell it. The debts were piling up, and the kitchen equipment was falling apart. But he refused to give up. He redesigned the menu, launched a social media campaign, and started hosting weekend brunch events. Slowly, customers began filling the tables again. By the end of the year, the restaurant was in the black for the first time in a decade. Marcus smiled, knowing his late father would have been proud.",
+    "topicTag": "family legacy",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "검은색 안에 있다는 뜻으로, 회계 장부에서 이익을 검은 잉크로 기록한 데서 유래했습니다.",
+    "realUsageKo": "기업이나 개인의 재정 상태가 흑자임을 나타낼 때 사용합니다. 빚 없이 수익을 내고 있다는 의미로, 비즈니스 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "전통적으로 회계사들이 이익은 검은 잉크로, 손실은 빨간 잉크로 장부에 기록한 관행에서 유래한 표현입니다.",
+    "nuanceKo": "긍정적인 뉘앙스로, 재정적 안정이나 성공을 강조할 때 사용됩니다. 반대 표현인 'in the red(적자인)'와 함께 자주 쓰입니다.",
+    "shortExampleEn": "We've been in the black every quarter this year.",
+    "shortExampleKo": "우리는 올해 매 분기 흑자를 기록하고 있습니다."
+  }
+}

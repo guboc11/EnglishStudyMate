@@ -1,0 +1,30 @@
+{
+  "id": "level-the-playing-field_cd693e4a",
+  "expression": "level the playing field",
+  "selectionMeta": {
+    "selectedPhrase": "level the playing field",
+    "selectedSenseLabelKo": "공평한 조건을 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new scholarship program was designed to level the playing field for students from low-income families."
+  },
+  "step2": {
+    "story": "Small business owners struggled to compete against massive corporations with unlimited marketing budgets. When the government introduced fair advertising regulations, it finally leveled the playing field. Now even a tiny bakery on the corner could reach customers just as effectively as a national chain.",
+    "topicTag": "fair competition",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maya had always been the only person on her debate team who couldn't afford a private coach. While her wealthy competitors flew to elite training camps every summer, she practiced alone in her bedroom, arguing with herself in the mirror. Then her school launched a free mentorship program that paired students with retired professors. For the first time, Maya felt the playing field had been leveled. She walked into the state championship with the same preparation as everyone else. When she won first place, she knew talent had finally been given a fair chance to shine.",
+    "topicTag": "equal opportunity",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "경기장을 평평하게 고르다, 즉 울퉁불퉁한 운동장을 평평하게 만든다는 뜻입니다.",
+    "realUsageKo": "불공평한 상황에서 모든 사람에게 동등한 기회나 조건을 만들어 준다는 의미로 사용됩니다. 주로 경쟁이나 기회의 불균형을 바로잡을 때 씁니다.",
+    "etymologyKo": "스포츠에서 유래한 표현으로, 실제 경기장이 기울어져 있으면 한쪽 팀이 유리하므로 공정한 경기를 위해 운동장을 평평하게 만든다는 데서 비롯되었습니다.",
+    "nuanceKo": "공정함과 평등을 강조하는 긍정적인 뉘앙스를 가지며, 비즈니스·교육·정책 등 다양한 맥락에서 격식체와 비격식체 모두 자연스럽게 쓰입니다.",
+    "shortExampleEn": "Technology can level the playing field between large and small companies.",
+    "shortExampleKo": "기술은 대기업과 중소기업 사이의 경쟁 조건을 공평하게 만들 수 있다."
+  }
+}

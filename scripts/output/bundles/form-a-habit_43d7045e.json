@@ -1,0 +1,30 @@
+{
+  "id": "form-a-habit_43d7045e",
+  "expression": "form a habit",
+  "selectionMeta": {
+    "selectedPhrase": "form a habit",
+    "selectedSenseLabelKo": "습관을 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to form a habit of reading for thirty minutes before bed every night."
+  },
+  "step2": {
+    "story": "After his doctor warned him about his health, Jake committed to form a habit of jogging every morning. The first two weeks were brutal, but by the third week his body started craving the run. Now he can't imagine starting his day without it.",
+    "topicTag": "health routine",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Mina moved to a new city for work, she felt isolated and unproductive. Her therapist suggested she try to form a habit around one small, positive action each day. Mina chose to write three things she was grateful for every evening. At first it felt forced, and she would stare at the blank notebook for minutes. But after a month, the words came easily, and she noticed her outlook shifting. The simple ritual had quietly rewired how she saw her new life.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'습관을 형성하다'라는 뜻으로, form은 '만들다, 형성하다'를 의미합니다.",
+    "realUsageKo": "어떤 행동을 반복해서 자연스럽게 몸에 배도록 만드는 것을 뜻합니다. 주로 긍정적인 습관을 의도적으로 들이려 할 때 사용합니다.",
+    "etymologyKo": "form은 라틴어 formare(형태를 만들다)에서 유래했으며, habit은 라틴어 habitus(상태, 습성)에서 왔습니다. '습관이라는 형태를 만든다'는 직관적인 조합입니다.",
+    "nuanceKo": "build a habit이나 develop a habit과 비슷하지만, form a habit은 좀 더 격식 있고 의도적인 느낌을 줍니다. 일상 대화보다는 자기계발이나 건강 관련 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "It takes about sixty days to form a habit that truly sticks.",
+    "shortExampleKo": "진짜로 몸에 배는 습관을 만들려면 약 60일이 걸립니다."
+  }
+}

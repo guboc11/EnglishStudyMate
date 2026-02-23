@@ -1,0 +1,30 @@
+{
+  "id": "zero-in-on_8511db10",
+  "expression": "zero in on",
+  "selectionMeta": {
+    "selectedPhrase": "zero in on",
+    "selectedSenseLabelKo": "집중하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of scattered research, she finally zeroed in on the root cause of the software bug."
+  },
+  "step2": {
+    "story": "The detective spread dozens of photographs across the table, studying each one carefully. After hours of painstaking comparison, he zeroed in on a tiny detail in the background — a reflection in a shop window that revealed the suspect's car. That single clue cracked the entire case wide open.",
+    "topicTag": "investigation",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Maya had been struggling with her thesis for months, overwhelmed by the sheer volume of academic papers on climate policy. Her advisor noticed her frustration and suggested she stop trying to cover everything. \"Pick one angle and zero in on it,\" he said calmly. She took his advice and chose to focus exclusively on carbon pricing in developing nations. Within a week, her writing became sharper and her arguments more compelling. By zeroing in on that single thread, she discovered insights that broader research had completely missed.",
+    "topicTag": "academic growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "영점(zero)을 맞추듯 하나의 대상에 정확히 조준하다라는 뜻입니다.",
+    "realUsageKo": "어떤 문제나 대상에 주의를 집중하거나, 핵심을 정확히 파악할 때 사용합니다. 'focus on'보다 더 날카롭고 정밀한 집중을 의미합니다.",
+    "etymologyKo": "군사 용어에서 유래했습니다. 사격 시 조준경의 영점(zero)을 목표물에 정확히 맞추는 행위에서 비롯되어, '정밀하게 초점을 맞추다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 관심을 두는 것이 아니라, 여러 선택지 중에서 하나를 골라 깊이 파고드는 느낌입니다. 분석적이고 의도적인 집중을 나타내며, 비즈니스나 학술 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "Let's zero in on the key issues before the meeting ends.",
+    "shortExampleKo": "회의가 끝나기 전에 핵심 문제에 집중합시다."
+  }
+}

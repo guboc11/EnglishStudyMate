@@ -1,0 +1,30 @@
+{
+  "id": "take-action_68960e19",
+  "expression": "take action",
+  "selectionMeta": {
+    "selectedPhrase": "take action",
+    "selectedSenseLabelKo": "행동을 취하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to take action before the situation gets any worse."
+  },
+  "step2": {
+    "story": "The neighborhood had been complaining about the broken streetlights for months, but nothing changed. Finally, Maria decided to take action by organizing a petition and presenting it to the city council. Within two weeks, every light on the block was repaired.",
+    "topicTag": "community initiative",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had watched the river behind his house grow more polluted every year. Plastic bags clung to the rocks, and the water had turned a murky brown. He kept telling himself someone else would fix it, but deep down he knew that waiting was just an excuse. One Saturday morning, he decided to take action. He posted on social media, inviting anyone who cared to join a weekend cleanup. To his surprise, over forty people showed up with gloves and trash bags, and by sunset the riverbank looked like a completely different place.",
+    "topicTag": "environmental action",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'행동을 취하다'라는 뜻으로, take(취하다)와 action(행동)이 결합된 표현입니다.",
+    "realUsageKo": "문제 상황에서 더 이상 기다리지 않고 적극적으로 무언가를 하기 시작할 때 사용합니다. 단순한 행동보다는 의지를 갖고 구체적인 조치를 취한다는 뉘앙스가 강합니다.",
+    "etymologyKo": "action은 라틴어 actio(행위)에서 유래했으며, take action은 17세기부터 '조치를 취하다'라는 의미로 영어에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "수동적인 태도에서 벗어나 능동적으로 움직인다는 느낌을 줍니다. 공식적인 맥락(회의, 뉴스)에서도 일상 대화에서도 자연스럽게 쓰이며, 긴급하거나 중요한 상황에서 특히 자주 사용됩니다.",
+    "shortExampleEn": "The government must take action to reduce air pollution.",
+    "shortExampleKo": "정부는 대기 오염을 줄이기 위해 행동을 취해야 합니다."
+  }
+}

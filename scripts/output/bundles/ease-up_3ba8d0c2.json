@@ -1,0 +1,30 @@
+{
+  "id": "ease-up_3ba8d0c2",
+  "expression": "ease up",
+  "selectionMeta": {
+    "selectedPhrase": "ease up",
+    "selectedSenseLabelKo": "완화되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The rain finally started to ease up after three days of nonstop downpour."
+  },
+  "step2": {
+    "story": "Jordan had been working fourteen-hour days for two straight weeks, and the pressure was unbearable. When the project deadline was extended by a month, everything seemed to ease up overnight. He finally slept a full eight hours and woke up feeling like himself again.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mia stared at the traffic jam stretching endlessly ahead of her on the highway. She had been stuck for over an hour, gripping the steering wheel with white knuckles. Just as she was about to lose her patience entirely, the cars ahead began to creep forward. The congestion started to ease up as she passed the construction zone that had caused the bottleneck. She let out a long breath and loosened her grip on the wheel. By the time she reached her exit, the road was flowing smoothly and the tension in her shoulders had melted away.",
+    "topicTag": "daily commute",
+    "moodTag": "gradually calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'ease'(편안함)와 'up'이 결합하여 '편안한 상태로 올라가다', 즉 긴장이나 압박이 풀리는 것을 뜻합니다.",
+    "realUsageKo": "비, 통증, 스트레스, 교통 체증 등이 점차 줄어들거나 약해질 때 사용합니다. 또한 사람에게 '좀 봐주다, 덜 엄하게 하다'라는 의미로도 쓰입니다.",
+    "etymologyKo": "'ease'는 고대 프랑스어 'aise(편안함)'에서 유래했으며, 'up'과 결합하여 16세기경부터 '완화되다'의 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "서서히, 점진적으로 줄어드는 느낌을 줍니다. 갑자기 멈추는 것이 아니라 천천히 나아지는 상황에 어울리는 자연스러운 구동사입니다.",
+    "shortExampleEn": "The doctor said the pain should ease up in a few days.",
+    "shortExampleKo": "의사가 통증이 며칠 안에 완화될 거라고 했다."
+  }
+}

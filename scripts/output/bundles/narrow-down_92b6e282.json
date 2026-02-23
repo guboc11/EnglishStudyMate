@@ -1,0 +1,30 @@
+{
+  "id": "narrow-down_92b6e282",
+  "expression": "narrow down",
+  "selectionMeta": {
+    "selectedPhrase": "narrow down",
+    "selectedSenseLabelKo": "범위를 좁히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to narrow down the list of candidates before the final interview round."
+  },
+  "step2": {
+    "story": "The detective had over fifty suspects, but new evidence helped him narrow down the list to just three. He spent the evening reviewing their alibis one by one. By midnight, he was confident he knew who was responsible.",
+    "topicTag": "investigation",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Jenna stared at the spreadsheet filled with two hundred universities, feeling completely overwhelmed. Her counselor suggested she narrow down her choices by first eliminating schools that didn't offer her major. That simple filter cut the list in half. Next, she removed any school outside her budget, which brought it down to thirty. She then ranked them by location and campus culture. By the end of the afternoon, Jenna had a neat list of ten schools she genuinely wanted to apply to, and the decision suddenly felt manageable.",
+    "topicTag": "college planning",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'좁은(narrow) 방향으로 아래로(down) 줄이다'라는 뜻으로, 선택지나 범위를 점점 줄여 나간다는 의미입니다.",
+    "realUsageKo": "여러 가능성이나 선택지 중에서 조건을 적용해 점차 범위를 좁혀갈 때 사용합니다. 검색 결과를 필터링하거나, 후보자를 추려내거나, 원인을 특정할 때 자주 씁니다.",
+    "etymologyKo": "'narrow'는 고대 영어 nearu(좁은)에서, 'down'은 방향을 나타내는 부사로 결합되어 '범위를 축소하다'라는 구동사가 되었습니다.",
+    "nuanceKo": "단순히 줄이는 것이 아니라 체계적으로 걸러내는 느낌이 있어, 분석적이고 논리적인 과정을 암시합니다. 격식·비격식 모두 자연스럽게 쓰입니다.",
+    "shortExampleEn": "Let's narrow down our options to the top five.",
+    "shortExampleKo": "선택지를 상위 다섯 개로 좁혀 봅시다."
+  }
+}

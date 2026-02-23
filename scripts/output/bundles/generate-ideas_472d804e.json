@@ -1,0 +1,30 @@
+{
+  "id": "generate-ideas_472d804e",
+  "expression": "generate ideas",
+  "selectionMeta": {
+    "selectedPhrase": "generate ideas",
+    "selectedSenseLabelKo": "아이디어를 생성하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to generate ideas for the upcoming product launch before Friday's meeting."
+  },
+  "step2": {
+    "story": "The marketing team gathered in the conference room with coffee and whiteboards. Their manager challenged them to generate ideas for a campaign that would stand out from the competition. By the end of the session, they had filled three whiteboards with creative concepts.",
+    "topicTag": "teamwork",
+    "moodTag": "energetic"
+  },
+  "step3": {
+    "story": "Maya stared at the blank document on her screen, feeling the pressure of the deadline. Her startup needed a fresh direction, and the investors were expecting a pitch next week. She decided to take a walk through the city to clear her head and generate ideas in a more relaxed setting. As she passed a busy street market, she noticed how vendors creatively displayed their goods to attract customers. That simple observation sparked something in her mind. By the time she returned to her desk, she had a notebook full of promising concepts that could reshape the company's future.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "'generate'는 '만들어내다', 'ideas'는 '아이디어'로, 직역하면 '아이디어를 만들어내다'입니다.",
+    "realUsageKo": "브레인스토밍이나 기획 단계에서 새로운 생각이나 방안을 떠올리는 행위를 말합니다. 회의, 프로젝트 기획, 문제 해결 등 다양한 상황에서 자주 쓰입니다.",
+    "etymologyKo": "'generate'는 라틴어 'generare(낳다, 생산하다)'에서 유래했으며, 무언가를 새롭게 창출한다는 의미를 담고 있습니다.",
+    "nuanceKo": "'think of ideas'보다 더 의도적이고 체계적인 느낌을 줍니다. 비즈니스나 학술적 맥락에서 특히 자주 사용되며, 단순히 떠올리는 것이 아니라 적극적으로 아이디어를 '생산'한다는 뉘앙스입니다.",
+    "shortExampleEn": "Let's brainstorm together and generate ideas for the school festival.",
+    "shortExampleKo": "함께 브레인스토밍해서 학교 축제를 위한 아이디어를 만들어 봅시다."
+  }
+}

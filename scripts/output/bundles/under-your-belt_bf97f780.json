@@ -1,0 +1,30 @@
+{
+  "id": "under-your-belt_bf97f780",
+  "expression": "under your belt",
+  "selectionMeta": {
+    "selectedPhrase": "under your belt",
+    "selectedSenseLabelKo": "경험이 있는",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With three years of teaching experience under her belt, Sarah felt confident applying for the senior instructor position."
+  },
+  "step2": {
+    "story": "Marco had just finished his tenth marathon, and he couldn't help but smile at how far he'd come. With so many races under his belt, the nervous rookie who could barely finish a 5K felt like a distant memory. Now he was setting his sights on an ultramarathon.",
+    "topicTag": "personal growth",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "When Jiwon first moved to London, ordering coffee in English made her palms sweat. Every conversation felt like a test she wasn't prepared for. But five years later, with hundreds of client presentations under her belt, she barely remembered that shy version of herself. Last Tuesday, she delivered a keynote speech to three hundred people without a single note card. Her colleague whispered, \"You make it look so easy.\" Jiwon just smiled — she knew exactly how much practice it had taken to get here.",
+    "topicTag": "career confidence",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '벨트 아래에'라는 뜻으로, 무언가를 몸에 지니고 있다는 의미입니다.",
+    "realUsageKo": "어떤 경험이나 성취를 이미 쌓았다는 뜻으로 사용됩니다. '~한 경험이 있다', '~을 해낸 적이 있다'처럼 과거의 성과나 경험을 강조할 때 씁니다.",
+    "etymologyKo": "중세 시대에 음식을 먹으면 벨트 아래(배)에 들어간다는 비유에서 유래했습니다. 무언가를 소화하고 자기 것으로 만들었다는 의미가 경험의 축적으로 확장되었습니다.",
+    "nuanceKo": "단순히 '경험이 있다'보다 자신감과 준비가 되어 있다는 긍정적 뉘앙스가 강합니다. 주로 성취감이나 자격을 이야기할 때 사용하며, 격식체와 일상 대화 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "She already has two successful startups under her belt.",
+    "shortExampleKo": "그녀는 이미 두 번의 성공적인 창업 경험이 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "set-an-example_98ceb0b9",
+  "expression": "set an example",
+  "selectionMeta": {
+    "selectedPhrase": "set an example",
+    "selectedSenseLabelKo": "모범을 보이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As the new team leader, she wanted to set an example by always arriving early and staying focused throughout the day."
+  },
+  "step2": {
+    "story": "Coach Park never asked his players to do anything he wouldn't do himself. Every morning, he was the first one on the field, running laps before anyone else arrived. He believed that the best way to set an example was through action, not words.",
+    "topicTag": "leadership",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "When Jiyeon was promoted to department head, she faced a team known for missing deadlines and cutting corners. Instead of lecturing them, she decided to set an example. She started documenting her own work process transparently, sharing both her successes and her mistakes with the team. Gradually, her colleagues began to follow her lead, taking more pride in their output. Within three months, the department's performance reviews improved dramatically. Jiyeon learned that people respond far more to what you do than what you say.",
+    "topicTag": "workplace culture",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '예시를 설정하다'라는 뜻입니다.",
+    "realUsageKo": "다른 사람들이 따를 수 있도록 자신이 먼저 바람직한 행동을 보여주는 것을 의미합니다. '모범을 보이다'와 같은 뜻으로 쓰입니다.",
+    "etymologyKo": "'example'은 라틴어 'exemplum(본보기)'에서 유래했으며, 'set'과 결합하여 '본보기를 만들다/세우다'라는 의미로 오래전부터 영어에서 사용되어 왔습니다.",
+    "nuanceKo": "주로 긍정적인 맥락에서 사용되며, 리더십이나 윗사람의 솔선수범을 강조할 때 자연스럽습니다. 'set a bad example'처럼 부정적으로도 쓸 수 있습니다.",
+    "shortExampleEn": "Parents should set an example for their children by being honest.",
+    "shortExampleKo": "부모는 정직함으로 자녀에게 모범을 보여야 합니다."
+  }
+}

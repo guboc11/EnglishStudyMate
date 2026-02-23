@@ -1,0 +1,30 @@
+{
+  "id": "on-the-dot_0d86314e",
+  "expression": "on the dot",
+  "selectionMeta": {
+    "selectedPhrase": "on the dot",
+    "selectedSenseLabelKo": "정확히 제시간에",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The train departed at 8 a.m. on the dot, just as the schedule promised."
+  },
+  "step2": {
+    "story": "Maya promised her boss she'd arrive at nine on the dot, and she meant it. She set three alarms, skipped her usual coffee detour, and walked through the office door right as the clock struck nine. Her boss raised an eyebrow, impressed for the first time in weeks.",
+    "topicTag": "punctuality",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been warned that Professor Kim started every lecture at 8:30 on the dot and locked the door behind her. On his first day, he underestimated the walk across campus and arrived at 8:32 to find the door shut tight. He stood in the hallway, embarrassed, listening to muffled laughter inside. The next morning, he showed up at 8:15, coffee in hand, and waited. When the professor opened the door at exactly 8:30, she gave him a small nod of approval. From that day on, Daniel was never late to anything again.",
+    "topicTag": "college life",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'점 위에'라는 뜻으로, 시계의 정각 표시점을 가리킵니다.",
+    "realUsageKo": "약속한 시간이나 예정된 시간에 1초의 오차도 없이 정확하게 맞춰서 행동할 때 사용합니다. 'at 3 o'clock on the dot'처럼 시간 뒤에 붙여 '정각에'라는 의미를 강조합니다.",
+    "etymologyKo": "시계 문자판에서 숫자 옆의 점(dot)이 정각을 나타내는 것에서 유래했습니다. 바늘이 정확히 그 점 위에 있다는 이미지에서 '정각에'라는 뜻이 생겼습니다.",
+    "nuanceKo": "단순히 '제시간에(on time)'보다 더 강한 표현으로, 정확성과 시간 엄수를 강조하는 뉘앙스가 있습니다. 가벼운 감탄이나 칭찬의 톤으로도 자주 쓰입니다.",
+    "shortExampleEn": "She finished the presentation at noon on the dot.",
+    "shortExampleKo": "그녀는 정오 정각에 프레젠테이션을 마쳤다."
+  }
+}

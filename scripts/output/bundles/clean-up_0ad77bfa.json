@@ -1,0 +1,30 @@
+{
+  "id": "clean-up_0ad77bfa",
+  "expression": "clean up",
+  "selectionMeta": {
+    "selectedPhrase": "clean up",
+    "selectedSenseLabelKo": "청소하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the birthday party, the kids helped clean up the living room."
+  },
+  "step2": {
+    "story": "Saturday morning, Mia decided it was finally time to clean up her garage. She sorted old boxes, swept the floor, and donated things she no longer needed. By noon, the space felt completely new.",
+    "topicTag": "home chores",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "After a week of rain, the backyard looked like a disaster zone — fallen branches, muddy puddles, and leaves everywhere. Tom put on his boots and gloves and started to clean up before his parents got home. He raked the leaves into a pile, hauled the branches to the curb, and scrubbed the patio table until it shone. His little sister joined halfway through, making it feel less like a chore and more like an adventure. By the time their parents pulled into the driveway, the yard looked better than it had all summer. His mom smiled and said, 'Did you really do all this yourself?'",
+    "topicTag": "yard work",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "'clean'(청소하다)과 'up'(위로/완전히)이 결합된 구동사로, 어떤 공간이나 상태를 깨끗하게 정리하다는 뜻입니다.",
+    "realUsageKo": "방·부엌·마당 등 특정 공간을 치우고 정돈하는 행동을 표현할 때 자주 쓰입니다. '정리 정돈하다', '뒷정리하다'라는 뉘앙스로 일상 대화에서 매우 흔하게 사용됩니다.",
+    "etymologyKo": "고대 영어 'clæne'(깨끗한)에서 유래한 'clean'에 방향·완료를 강조하는 부사 'up'이 결합되어, 16세기경부터 '완전히 청소하다'는 의미로 정착되었습니다.",
+    "nuanceKo": "단순히 먼지를 닦는 것보다 범위가 넓어 어지럽혀진 공간 전체를 치우는 뉘앙스가 강합니다. 가정용 일상 표현이므로 격식 없이 편하게 쓸 수 있습니다.",
+    "shortExampleEn": "Can you clean up your room before dinner?",
+    "shortExampleKo": "저녁 먹기 전에 방 좀 치워줄 수 있어?"
+  }
+}

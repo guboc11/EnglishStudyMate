@@ -1,0 +1,30 @@
+{
+  "id": "check-up-on_652a0db5",
+  "expression": "check up on",
+  "selectionMeta": {
+    "selectedPhrase": "check up on",
+    "selectedSenseLabelKo": "확인하다 / 점검하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to check up on my grandmother because she's been feeling a bit under the weather lately."
+  },
+  "step2": {
+    "story": "Sarah hadn't heard from her colleague in three days, which was unusual. She decided to check up on him by stopping by his desk after lunch. He was fine — just buried under a mountain of deadlines and had forgotten to reply to anyone.",
+    "topicTag": "workplace concern",
+    "moodTag": "caring"
+  },
+  "step3": {
+    "story": "When David moved to a new city for work, his mother made him promise to call every Sunday. But after two weeks of missed calls, she grew worried. She asked his older sister to check up on him the next time she was in the area. His sister drove over on a Saturday morning and found David perfectly healthy — just overwhelmed with settling into his new apartment and starting the job. He apologized for going silent and set a weekly reminder on his phone. From then on, he never missed another Sunday call.",
+    "topicTag": "family bonds",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'위를 향해 확인하다'라는 직역으로, 누군가나 무언가의 상태를 살펴본다는 뜻입니다.",
+    "realUsageKo": "누군가의 안부를 묻거나 상태가 괜찮은지 확인할 때 사용합니다. 사람뿐 아니라 프로젝트 진행 상황이나 장비 상태 등을 점검할 때도 쓰입니다.",
+    "etymologyKo": "'check'(확인하다)에 방향성을 나타내는 'up'과 대상을 가리키는 'on'이 결합된 구동사로, 대상에게 다가가서 상태를 살핀다는 의미가 형성되었습니다.",
+    "nuanceKo": "관심과 걱정에서 비롯된 따뜻한 뉘앙스가 있습니다. 단순한 '확인'보다는 상대를 챙기는 느낌이 강하며, 일상 대화에서 자주 사용됩니다.",
+    "shortExampleEn": "Could you check up on the kids while I'm out?",
+    "shortExampleKo": "내가 나가 있는 동안 아이들 좀 확인해 줄 수 있어?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "on-the-house_127c315f",
+  "expression": "on the house",
+  "selectionMeta": {
+    "selectedPhrase": "on the house",
+    "selectedSenseLabelKo": "무료로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The bartender smiled and said the first round of drinks was on the house to celebrate the bar's anniversary."
+  },
+  "step2": {
+    "story": "After waiting over an hour for their food due to a kitchen mishap, the restaurant manager came to apologize personally. He told the couple that their entire dinner would be on the house. They left with full stomachs and a great impression of the place.",
+    "topicTag": "dining out",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "Maya had been coming to the same coffee shop every morning for three years straight. She knew every barista by name, and they knew her usual order by heart. One rainy Monday, she walked in looking completely exhausted after a weekend of moving apartments. The owner noticed her tired eyes and slid a large latte across the counter. \"This one's on the house,\" he said warmly. That small gesture reminded Maya why this little neighborhood shop felt like home.",
+    "topicTag": "community kindness",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '집(건물) 위에'라는 뜻이지만, 실제로는 가게에서 무료로 제공한다는 의미입니다.",
+    "realUsageKo": "식당, 바, 카페 등에서 음식이나 음료를 무료로 제공할 때 사용합니다. 주로 가게 측에서 손님에게 서비스로 주는 상황에서 쓰입니다.",
+    "etymologyKo": "'house'는 술집이나 식당 같은 업소를 의미하며, 손님이 아닌 업소(house) 측에서 비용을 부담한다는 데서 유래했습니다. 19세기 미국 술집 문화에서 시작된 표현입니다.",
+    "nuanceKo": "격식 없는 친근한 표현으로, 주로 서비스업 종사자가 손님에게 호의를 베풀 때 씁니다. 개인 간 선물과는 다르게, 업소 차원의 무료 제공을 강조합니다.",
+    "shortExampleEn": "Don't worry about the bill — dessert is on the house tonight.",
+    "shortExampleKo": "계산 걱정 마세요 — 오늘 디저트는 서비스입니다."
+  }
+}

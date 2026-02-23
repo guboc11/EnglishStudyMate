@@ -1,0 +1,30 @@
+{
+  "id": "on-the-tip-of-your-tongue_e6399739",
+  "expression": "on the tip of your tongue",
+  "selectionMeta": {
+    "selectedPhrase": "on the tip of your tongue",
+    "selectedSenseLabelKo": "입 끝에서 맴돌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The actor's name was on the tip of my tongue, but I just couldn't remember it no matter how hard I tried."
+  },
+  "step2": {
+    "story": "During the job interview, the hiring manager asked Sarah about a famous management theory. She knew she had studied it in college, and the name was right on the tip of her tongue. After an awkward pause, it finally came to her — Maslow's hierarchy of needs — and she answered confidently.",
+    "topicTag": "job interview",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Kevin was at a dinner party when someone mentioned a song from the 90s that everyone used to love. He could hear the melody perfectly in his head, and the title was on the tip of his tongue, but the words just wouldn't come out. His friends started humming the tune, hoping it would help. He snapped his fingers, closed his eyes, and concentrated hard. Suddenly, it hit him — 'Wonderwall' by Oasis. Everyone burst out laughing because it had been the most obvious answer all along, and Kevin couldn't believe he had struggled so much to recall it.",
+    "topicTag": "social gathering",
+    "moodTag": "playful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '혀 끝에 있다'라는 뜻으로, 말하려는 단어가 혀 끝까지 나왔지만 완전히 떠오르지 않는 상태를 표현합니다.",
+    "realUsageKo": "어떤 단어나 이름, 정보를 분명히 알고 있는데 그 순간 정확히 떠올리지 못할 때 사용합니다. '아, 그거 알고 있는데 지금 생각이 안 나' 하는 상황에서 쓰는 표현입니다.",
+    "etymologyKo": "이 표현은 17세기부터 영어에서 사용되었으며, 기억이 혀 끝(입 밖)까지 올라왔지만 완전히 나오지 못하는 느낌을 비유적으로 표현한 것에서 유래했습니다.",
+    "nuanceKo": "일상 대화에서 매우 자주 쓰이는 친근한 표현입니다. 약간의 답답함이나 짜증을 동반하는 뉘앙스가 있으며, 자신이 그 정보를 확실히 알고 있다는 점을 강조할 때도 씁니다.",
+    "shortExampleEn": "What's that word? It's on the tip of my tongue!",
+    "shortExampleKo": "그 단어가 뭐더라? 입 끝에서 맴도는데!"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "meet-expectations_9b332a8f",
+  "expression": "meet expectations",
+  "selectionMeta": {
+    "selectedPhrase": "meet expectations",
+    "selectedSenseLabelKo": "기대에 부응하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new marketing team worked around the clock to meet expectations set by the board of directors."
+  },
+  "step2": {
+    "story": "Sarah had just been promoted to project lead, and the pressure was immense. Her team delivered the prototype two days early, finally allowing her to meet expectations that had seemed impossible at first. She smiled, knowing the hard work had paid off.",
+    "topicTag": "career growth",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "When Daniel joined the startup, the investors made it clear: the product had to launch by Q3 or funding would dry up. Every sprint felt like a race against time, and morale dipped as bugs piled up. Daniel gathered his team for an honest conversation about priorities and cut three non-essential features. The streamlined approach gave everyone breathing room, and by the end of August, they shipped a polished version that managed to meet expectations on every key metric. The investors renewed their commitment, and Daniel realized that sometimes doing less is the smartest way to deliver more.",
+    "topicTag": "startup pressure",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'기대를 만나다'라는 직역으로, 누군가가 설정한 기준이나 바라는 수준에 도달한다는 뜻입니다.",
+    "realUsageKo": "업무, 학업, 인간관계 등에서 상대방이나 조직이 요구하는 수준을 충족시킬 때 사용합니다. '기대에 부응하다'와 거의 같은 의미로 쓰입니다.",
+    "etymologyKo": "'meet'는 고대 영어 'metan(만나다, 마주하다)'에서 유래했으며, 여기서는 '충족시키다'라는 확장된 의미로 쓰입니다. 'expectation'은 라틴어 'expectare(기다리다, 바라보다)'에서 왔습니다.",
+    "nuanceKo": "중립적이고 격식 있는 표현으로, 비즈니스나 공식적인 맥락에서 자주 쓰입니다. 'exceed expectations(기대를 초과하다)'와 대비되어 '최소한의 기준을 충족하다'라는 뉘앙스가 있을 수 있습니다.",
+    "shortExampleEn": "We need to meet expectations if we want to keep this client.",
+    "shortExampleKo": "이 고객을 유지하려면 기대에 부응해야 합니다."
+  }
+}

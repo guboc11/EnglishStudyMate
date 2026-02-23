@@ -1,0 +1,30 @@
+{
+  "id": "night-owl_85e20448",
+  "expression": "night owl",
+  "selectionMeta": {
+    "selectedPhrase": "night owl",
+    "selectedSenseLabelKo": "밤에 활동하는 사람",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My roommate is a real night owl — she never goes to bed before 2 a.m."
+  },
+  "step2": {
+    "story": "Jake tried to wake up early for months, but he always felt sluggish in the morning. He finally accepted that he was a night owl and rearranged his schedule around late-night hours. His productivity doubled once he stopped fighting his natural rhythm.",
+    "topicTag": "productivity",
+    "moodTag": "accepting"
+  },
+  "step3": {
+    "story": "Elena's coworkers always wondered how she managed to send emails at 3 a.m. and still show up at the office looking perfectly fine. The truth was simple: she had always been a night owl, even as a child. While the rest of the world slept, she found her deepest focus — writing reports, sketching designs, and solving problems that stumped her during the day. Her manager eventually let her shift her hours to start at noon. From that point on, Elena thrived, proving that not everyone is built for the nine-to-five. Sometimes the best work happens when the city is quiet and the stars are out.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '밤의 올빼미'로, 올빼미처럼 밤에 활동하는 사람을 뜻합니다.",
+    "realUsageKo": "밤늦게까지 깨어 있는 사람, 새벽형보다 야행성인 사람을 가리킬 때 씁니다. 부정적 뉘앙스 없이 생활 패턴을 설명하는 표현입니다.",
+    "etymologyKo": "올빼미가 야행성 동물이라는 점에서 유래했으며, 17세기 영어에서부터 사용된 표현입니다.",
+    "nuanceKo": "캐주얼하고 친근한 표현으로, 일상 대화에서 자연스럽게 쓰입니다. 반대말은 'early bird'입니다.",
+    "shortExampleEn": "Are you a night owl or an early bird?",
+    "shortExampleKo": "너는 올빼미형이야, 아침형이야?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "keep-it-up_17a17679",
+  "expression": "keep it up",
+  "selectionMeta": {
+    "selectedPhrase": "keep it up",
+    "selectedSenseLabelKo": "계속해라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Your grades have improved so much this semester — keep it up!"
+  },
+  "step2": {
+    "story": "Maya had been waking up at 6 a.m. every day to practice piano for three months straight. Her teacher listened to her latest recording and smiled. \"You've made incredible progress, Maya — keep it up and you'll be ready for the recital in no time.\"",
+    "topicTag": "personal growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "James had always been the slowest runner on his college track team, finishing last in nearly every practice race. But instead of giving up, he started training on his own every evening after the official sessions ended. Weeks passed, and his teammates began to notice he was closing the gap. One rainy afternoon, he finished third in a practice sprint for the first time. His coach jogged over, clapped him on the shoulder, and said, \"I've been watching you, James — keep it up.\" That simple phrase fueled him through the rest of the season.",
+    "topicTag": "perseverance",
+    "moodTag": "inspirational"
+  },
+  "meaning": {
+    "literalMeaningKo": "\"그것을 계속 유지해라\"라는 뜻으로, 현재 하고 있는 것을 그대로 지속하라는 의미입니다.",
+    "realUsageKo": "누군가가 잘하고 있을 때 격려와 칭찬의 의미로 \"계속 그렇게 해!\" 또는 \"잘하고 있어, 계속해!\"라는 뉘앙스로 사용합니다. 주로 상대방의 노력이나 성과를 인정하면서 응원할 때 씁니다.",
+    "etymologyKo": "\"keep\"(유지하다)과 \"up\"(위로, 계속)이 결합된 표현으로, 무언가를 높은 수준으로 계속 유지한다는 의미에서 유래했습니다.",
+    "nuanceKo": "긍정적이고 따뜻한 격려의 톤을 가진 표현입니다. 윗사람이 아랫사람에게, 코치가 선수에게, 또는 친구 사이에서도 자연스럽게 쓰이며, 상대방의 노력을 인정하는 뉘앙스가 담겨 있습니다.",
+    "shortExampleEn": "You're doing a great job on this project — keep it up!",
+    "shortExampleKo": "이 프로젝트 정말 잘하고 있어 — 계속 그렇게 해!"
+  }
+}

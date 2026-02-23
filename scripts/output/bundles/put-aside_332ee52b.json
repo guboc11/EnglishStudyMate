@@ -1,0 +1,30 @@
+{
+  "id": "put-aside_332ee52b",
+  "expression": "put aside",
+  "selectionMeta": {
+    "selectedPhrase": "put aside",
+    "selectedSenseLabelKo": "제쳐두다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let's put aside our differences and focus on finding a solution together."
+  },
+  "step2": {
+    "story": "The two co-founders had been arguing about the company's direction for weeks. Finally, their lead investor sat them down and said they needed to put aside their egos if the startup was going to survive. By the end of the meeting, they had shaken hands and agreed on a new plan.",
+    "topicTag": "teamwork",
+    "moodTag": "reconciling"
+  },
+  "step3": {
+    "story": "Jenna had been saving for a trip to Europe for over a year, carefully putting aside a portion of each paycheck. Her friends kept inviting her to expensive dinners and weekend getaways, but she politely declined every time. Some nights it was hard to put aside the fear that she was missing out on life. But when she finally stood beneath the Eiffel Tower on a warm June evening, every sacrifice felt worth it. She realized that learning to put aside short-term pleasures had taught her something valuable about patience. The view from the top was even better than she had imagined.",
+    "topicTag": "personal goals",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'옆에 놓다'라는 뜻으로, 무언가를 한쪽으로 치워놓는 물리적 동작을 의미합니다.",
+    "realUsageKo": "실제로는 '제쳐두다, 무시하다'라는 의미로 감정·의견·문제 등을 잠시 접어두고 다른 것에 집중할 때 사용합니다. 또한 돈이나 시간을 '따로 모아두다, 비축하다'라는 뜻으로도 자주 쓰입니다.",
+    "etymologyKo": "'put(놓다)'과 'aside(옆으로)'가 결합된 구동사로, 물건을 옆에 치워놓는 행위에서 추상적인 의미로 확장되었습니다.",
+    "nuanceKo": "감정이나 갈등을 '제쳐두다'로 쓸 때는 성숙하고 이성적인 태도를 내포합니다. 돈을 '모아두다'로 쓸 때는 계획적이고 절제된 느낌을 줍니다.",
+    "shortExampleEn": "She put aside her pride and apologized first.",
+    "shortExampleKo": "그녀는 자존심을 제쳐두고 먼저 사과했다."
+  }
+}

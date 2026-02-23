@@ -1,0 +1,30 @@
+{
+  "id": "drop-in-the-bucket_959d2c22",
+  "expression": "drop in the bucket",
+  "selectionMeta": {
+    "selectedPhrase": "drop in the bucket",
+    "selectedSenseLabelKo": "새 발의 피",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The money we raised at the bake sale was just a drop in the bucket compared to what we actually need for the school renovation."
+  },
+  "step2": {
+    "story": "Sarah checked the fundraising total and sighed — only $500 out of the $50,000 goal. Her colleague tried to stay positive, but they both knew it was just a drop in the bucket. They needed a completely different strategy if they wanted to save the community center.",
+    "topicTag": "fundraising",
+    "moodTag": "discouraged"
+  },
+  "step3": {
+    "story": "After the hurricane destroyed most of the coastal town, relief organizations rushed in with supplies. Volunteers unloaded boxes of water and canned food at the high school gym, but looking at the long line of displaced families stretching around the block, the coordinator felt her stomach sink. What they had was a drop in the bucket for a town of fifteen thousand people with no power and no clean water. She picked up her phone and called the regional office, her voice steady but urgent. They needed ten times this amount by tomorrow, or people would start getting seriously ill. Still, she reminded herself, every drop mattered — they just needed more of them, and fast.",
+    "topicTag": "disaster relief",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "양동이 속의 물 한 방울이라는 뜻으로, 전체에 비해 극히 적은 양을 의미합니다.",
+    "realUsageKo": "필요한 양이나 목표에 비해 턱없이 부족한 상황을 표현할 때 씁니다. 주로 돈, 자원, 노력 등이 전체 필요량에 비해 미미할 때 사용합니다.",
+    "etymologyKo": "성경 이사야서 40장 15절에서 유래했습니다. 신 앞에서 모든 나라가 양동이의 물 한 방울에 불과하다는 구절에서 비롯되어, 아주 작고 하찮은 양을 뜻하게 되었습니다.",
+    "nuanceKo": "단순히 '적다'는 의미를 넘어, 전체 규모 대비 무의미할 정도로 적다는 뉘앙스를 담고 있습니다. 약간 좌절감이나 무력감이 섞인 어조로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "His donation was generous, but compared to the hospital's debt, it was a drop in the bucket.",
+    "shortExampleKo": "그의 기부는 넉넉했지만, 병원의 부채에 비하면 새 발의 피였다."
+  }
+}

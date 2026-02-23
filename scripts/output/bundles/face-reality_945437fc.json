@@ -1,0 +1,30 @@
+{
+  "id": "face-reality_945437fc",
+  "expression": "face reality",
+  "selectionMeta": {
+    "selectedPhrase": "face reality",
+    "selectedSenseLabelKo": "현실을 직면하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of avoiding the problem, she finally decided to face reality and admit that her business was failing."
+  },
+  "step2": {
+    "story": "Tom had been ignoring his mounting credit card debt for over a year. One morning, he sat down with all his statements and forced himself to face reality. The numbers were worse than he imagined, but at least now he could start making a plan.",
+    "topicTag": "financial responsibility",
+    "moodTag": "sobering"
+  },
+  "step3": {
+    "story": "Mia had always dreamed of becoming a professional dancer, practicing every day after school since she was twelve. But after her third audition rejection in a row, her mentor sat her down for an honest conversation. He told her that talent alone wasn't enough in such a competitive field and that she needed to face reality about her chances. At first, Mia felt devastated and even angry at him for being so blunt. However, over the following weeks, she realized he wasn't telling her to give up — he was pushing her to find a more realistic path. She enrolled in a dance education program and eventually became the kind of teacher she wished she'd had growing up.",
+    "topicTag": "career and dreams",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'현실을 마주하다'라는 뜻으로, face(마주하다)와 reality(현실)가 결합된 표현입니다.",
+    "realUsageKo": "불편하거나 어려운 상황을 더 이상 회피하지 않고 있는 그대로 인정하고 받아들일 때 사용합니다. 주로 누군가가 문제를 외면하고 있을 때 직면을 촉구하는 맥락에서 쓰입니다.",
+    "etymologyKo": "face는 고대 프랑스어 'face'에서 유래했으며, 명사(얼굴)에서 동사(마주하다)로 확장되었습니다. reality는 라틴어 'realis(실제의)'에서 온 단어로, 두 단어의 조합은 17세기경부터 영어에서 관용적으로 사용되기 시작했습니다.",
+    "nuanceKo": "단순히 '현실을 보다'보다 더 강한 느낌으로, 회피하던 것을 용기를 내어 직면한다는 뉘앙스가 있습니다. 약간의 엄숙함이나 결단의 분위기를 동반합니다.",
+    "shortExampleEn": "You need to face reality — this project isn't going to finish itself.",
+    "shortExampleKo": "현실을 직시해야 해 — 이 프로젝트는 저절로 끝나지 않아."
+  }
+}

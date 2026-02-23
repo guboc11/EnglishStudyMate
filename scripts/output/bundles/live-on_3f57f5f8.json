@@ -1,0 +1,30 @@
+{
+  "id": "live-on_3f57f5f8",
+  "expression": "live on",
+  "selectionMeta": {
+    "selectedPhrase": "live on",
+    "selectedSenseLabelKo": "~으로 살아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing his job, he had to live on his savings for several months."
+  },
+  "step2": {
+    "story": "When Maria moved to a new city for college, she had to live on a tight budget. She learned to cook simple meals and skip expensive outings. By the end of the semester, she realized she had become surprisingly good at managing her money.",
+    "topicTag": "budgeting",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "Jake had always dreamed of becoming a freelance artist, but the reality hit hard when his first few months brought almost no income. He had to live on instant noodles and whatever his small emergency fund could cover. His friends kept urging him to get a stable job, but he refused to give up. Slowly, commissions started coming in, one sketch at a time. By the end of the year, he was earning enough to pay rent and even treat himself to a proper meal once a week. Looking back, he was grateful for those tough months that taught him resilience.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "persevering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'live on'은 말 그대로 '~위에서 살다', 즉 어떤 것을 기반으로 생활을 이어간다는 뜻입니다.",
+    "realUsageKo": "실제로는 '~으로 생활하다/살아가다'라는 의미로, 특정 수입이나 자원에 의존하여 생계를 유지할 때 사용합니다. 예를 들어 적은 월급, 저축, 특정 음식 등으로 생활하는 상황에서 씁니다.",
+    "etymologyKo": "'live'(살다)와 'on'(~에 의지하여)이 결합된 구동사로, 'on'이 의존이나 기반의 의미를 더해줍니다.",
+    "nuanceKo": "보통 넉넉하지 않거나 제한된 자원으로 생활한다는 뉘앙스를 담고 있어, 약간의 어려움이나 검소함이 느껴지는 표현입니다.",
+    "shortExampleEn": "Many students live on ramen and coffee during exam season.",
+    "shortExampleKo": "많은 학생들이 시험 기간에는 라면과 커피로 살아갑니다."
+  }
+}

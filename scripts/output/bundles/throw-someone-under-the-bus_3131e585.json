@@ -1,0 +1,30 @@
+{
+  "id": "throw-someone-under-the-bus_3131e585",
+  "expression": "throw someone under the bus",
+  "selectionMeta": {
+    "selectedPhrase": "throw someone under the bus",
+    "selectedSenseLabelKo": "남에게 책임을 떠넘기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the project failed, the manager threw his assistant under the bus and blamed her for everything."
+  },
+  "step2": {
+    "story": "The marketing campaign flopped badly, and the whole team knew the director had approved the strategy. But during the executive meeting, he threw his junior colleague under the bus, claiming she had made the final call without his knowledge. She sat there stunned, realizing trust in the workplace could vanish in an instant.",
+    "topicTag": "workplace betrayal",
+    "moodTag": "disillusioned"
+  },
+  "step3": {
+    "story": "Rachel and David had been co-leading the product launch for months, sharing every decision along the way. When a critical software bug caused a massive delay, the CEO demanded answers. David panicked and threw Rachel under the bus during the all-hands meeting, saying she had rushed the testing phase. Rachel's face went pale as colleagues turned to stare at her. She knew the truth — David had personally signed off on skipping the extra round of QA to meet his own deadline. After the meeting, she quietly gathered the email threads and shared them with HR, determined never to let someone else's cowardice define her career.",
+    "topicTag": "office politics",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 버스 아래로 던지다라는 뜻으로, 말 그대로 누군가를 위험에 빠뜨리는 행위를 묘사합니다.",
+    "realUsageKo": "자신의 이익이나 보호를 위해 다른 사람에게 책임을 떠넘기거나 희생양으로 삼을 때 사용합니다. 주로 직장이나 정치 상황에서 신뢰를 배신하는 맥락으로 쓰입니다.",
+    "etymologyKo": "1980년대 영국 정치권에서 유래한 것으로 추정되며, 동료를 배신하고 공개적으로 비난하는 행위를 버스 아래로 밀어 넣는 잔인한 이미지로 표현한 것입니다.",
+    "nuanceKo": "매우 부정적인 뉘앙스를 가진 표현으로, 비겁하고 이기적인 배신 행위를 강하게 비난할 때 씁니다. 격식체보다는 일상 대화에서 자주 사용됩니다.",
+    "shortExampleEn": "Don't throw me under the bus — we made this decision together.",
+    "shortExampleKo": "나한테 책임 떠넘기지 마 — 우리가 같이 결정한 거잖아."
+  }
+}

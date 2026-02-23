@@ -1,0 +1,30 @@
+{
+  "id": "value-time_66ee98de",
+  "expression": "value time",
+  "selectionMeta": {
+    "selectedPhrase": "value time",
+    "selectedSenseLabelKo": "시간을 소중히 여기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As I get older, I've learned to value time more than money."
+  },
+  "step2": {
+    "story": "After his father passed away, Marcus began to value time with his family above everything else. He stopped working weekends and started having dinner with his kids every night. That simple change made him realize what truly mattered.",
+    "topicTag": "family priorities",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Sophie had always been a workaholic, chasing promotions and staying late at the office every night. But when her best friend was diagnosed with a serious illness, everything shifted. She started to value time in a way she never had before. Sophie cut her hours, visited her friend every week, and took long walks in the park just to feel the sun on her face. Her colleagues thought she was losing her edge, but Sophie knew better. She had finally understood that no achievement could replace the moments spent with people she loved.",
+    "topicTag": "life perspective",
+    "moodTag": "contemplative"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간에 가치를 두다, 시간을 소중하게 여기다.",
+    "realUsageKo": "시간이 한정된 자원임을 인식하고, 시간을 낭비하지 않으려는 태도를 표현할 때 사용합니다. 주로 삶의 우선순위를 되돌아보는 맥락에서 쓰입니다.",
+    "etymologyKo": "'value'는 라틴어 'valere(가치가 있다)'에서 유래한 동사로, 명사뿐 아니라 '~을 소중히 여기다'라는 동사로도 널리 쓰입니다.",
+    "nuanceKo": "단순히 시간 관리를 잘한다는 실용적 의미보다는, 인생의 깊은 깨달음이나 감성적인 맥락에서 자주 사용됩니다. 진지하고 성찰적인 톤을 가집니다.",
+    "shortExampleEn": "Successful people know how to value time wisely.",
+    "shortExampleKo": "성공한 사람들은 시간을 현명하게 소중히 여길 줄 안다."
+  }
+}

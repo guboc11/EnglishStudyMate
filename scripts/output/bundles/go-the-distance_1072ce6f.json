@@ -1,0 +1,30 @@
+{
+  "id": "go-the-distance_1072ce6f",
+  "expression": "go the distance",
+  "selectionMeta": {
+    "selectedPhrase": "go the distance",
+    "selectedSenseLabelKo": "끝까지 가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when the training got brutal, she was determined to go the distance and finish the marathon."
+  },
+  "step2": {
+    "story": "Marcus had been studying for the bar exam for over a year, and exhaustion was creeping in. His friends told him to take a break, but he knew he had to go the distance. On exam day, every late night and sacrifice finally paid off.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jina launched her small bakery, nobody expected it to survive the first year. Rent was high, customers were few, and she spent most nights alone perfecting her recipes. Her family urged her to quit and find a stable job. But Jina refused to give up — she believed that if she could go the distance, people would eventually notice the quality. Slowly, word spread through the neighborhood, and a line started forming outside her door each morning. Three years later, she opened her second location downtown.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '그 거리를 끝까지 가다'라는 뜻입니다.",
+    "realUsageKo": "어떤 일을 중간에 포기하지 않고 끝까지 해내다, 끝까지 버티다라는 의미로 사용됩니다. 힘든 상황에서도 완주하겠다는 의지를 나타낼 때 자주 쓰입니다.",
+    "etymologyKo": "원래 권투에서 유래한 표현으로, 시합이 판정까지 가는 풀 라운드를 모두 치른다는 뜻에서 나왔습니다. 이후 일반적으로 어떤 일을 끝까지 해낸다는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '완료하다'보다 훨씬 강한 의지와 인내의 뉘앙스를 담고 있습니다. 쉽지 않은 과정을 끝까지 견뎌낸다는 느낌이 핵심입니다.",
+    "shortExampleEn": "It's a tough course, but I know you can go the distance.",
+    "shortExampleKo": "힘든 과정이지만, 네가 끝까지 해낼 수 있다는 걸 알아."
+  }
+}

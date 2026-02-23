@@ -1,0 +1,30 @@
+{
+  "id": "eat-humble-pie_f45b6eb4",
+  "expression": "eat humble pie",
+  "selectionMeta": {
+    "selectedPhrase": "eat humble pie",
+    "selectedSenseLabelKo": "망신을 참다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After boasting that he would finish the marathon in under three hours, Jake had to eat humble pie when he barely crossed the finish line at four and a half."
+  },
+  "step2": {
+    "story": "Marcus told everyone at the office that the new marketing campaign was a waste of money and would never work. Three months later, sales doubled thanks to that exact campaign. He had to eat humble pie and admit he'd been completely wrong in front of the whole team.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "Sarah was the most confident chef in her culinary school class. She openly criticized her classmates' dishes and bragged that her restaurant would be the first to earn a Michelin star. After graduation, she opened a trendy bistro downtown with great fanfare. But within six months, harsh reviews piled up and customers stopped coming. Meanwhile, her quiet classmate Yuna built a small noodle shop that earned a glowing write-up in the city's biggest food magazine. Sarah had to eat humble pie, visiting Yuna's shop to ask for advice on how to turn things around.",
+    "topicTag": "ambition and humility",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '겸손한 파이를 먹다'라는 뜻입니다.",
+    "realUsageKo": "자신이 틀렸음을 인정하고 굴욕감을 감수해야 할 때 사용합니다. 특히 이전에 자신만만하게 행동했다가 잘못된 것이 드러났을 때 쓰입니다.",
+    "etymologyKo": "중세 영어에서 'umble pie'(사슴 내장으로 만든 파이)에서 유래했습니다. 내장 파이는 하인들이 먹는 음식이었기에 'humble(겸손한)'과 발음이 비슷한 'umble'이 합쳐져 '굴욕을 감수하다'라는 의미가 되었습니다.",
+    "nuanceKo": "자존심이 강한 사람이 어쩔 수 없이 잘못을 인정하는 상황에서 주로 쓰이며, 약간의 조롱이나 동정의 뉘앙스가 담겨 있습니다.",
+    "shortExampleEn": "The CEO had to eat humble pie after the product recall.",
+    "shortExampleKo": "그 CEO는 제품 리콜 사태 이후 망신을 감수해야 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hand-out_fa738bce",
+  "expression": "hand out",
+  "selectionMeta": {
+    "selectedPhrase": "hand out",
+    "selectedSenseLabelKo": "나눠주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The teacher asked a student to hand out the worksheets before class started."
+  },
+  "step2": {
+    "story": "Before the meeting began, Sarah volunteered to hand out the printed agendas to each person at the table. Everyone appreciated having a copy to follow along.",
+    "topicTag": "workplace",
+    "moodTag": "helpful"
+  },
+  "step3": {
+    "story": "On the first day of the festival, volunteers gathered near the entrance with stacks of colorful brochures. They smiled and greeted every visitor, making sure to hand out a map along with a schedule of events. One little girl held out both hands eagerly, hoping to get an extra copy for her friend. By noon, the boxes were nearly empty, and the team had to rush back to the booth for more supplies. It felt rewarding to hand out something that people actually wanted.",
+    "topicTag": "community event",
+    "moodTag": "cheerful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 손으로 건네어 여러 사람에게 나눠주다.",
+    "realUsageKo": "물건이나 자료를 여러 명에게 하나씩 배분할 때 사용하며, 학교·직장·행사 등 다양한 상황에서 쓰인다.",
+    "etymologyKo": "'hand'(손)와 'out'(밖으로)이 결합된 구동사로, 손을 뻗어 바깥쪽으로 전달한다는 동작에서 유래했다.",
+    "nuanceKo": "단순히 건네는 행위를 강조하며, 무료로 나눠줄 때도 자주 쓰인다. 'distribute'보다 일상적이고 구어적인 표현이다.",
+    "shortExampleEn": "Could you hand out these flyers to people passing by?",
+    "shortExampleKo": "지나가는 사람들에게 이 전단지를 나눠줄 수 있어요?"
+  }
+}

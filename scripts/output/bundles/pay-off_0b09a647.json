@@ -1,0 +1,30 @@
+{
+  "id": "pay-off_0b09a647",
+  "expression": "pay off",
+  "selectionMeta": {
+    "selectedPhrase": "pay off",
+    "selectedSenseLabelKo": "성과를 거두다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "All those late nights studying finally paid off when she got the promotion."
+  },
+  "step2": {
+    "story": "Marco spent six months waking up at 5 a.m. to practice his English before work. His colleagues thought he was crazy, but when he landed a deal with an international client, all that effort paid off. He smiled, knowing the sacrifice had been worth every minute.",
+    "topicTag": "personal growth",
+    "moodTag": "rewarding"
+  },
+  "step3": {
+    "story": "Jina had been pouring her savings into a tiny bakery for two years. There were months when she could barely cover the rent, and her parents kept asking her to find a 'real job.' She ignored the doubt and kept perfecting her recipes, one loaf at a time. Then a popular food blogger stumbled into her shop on a rainy afternoon and posted a glowing review. Within a week, lines stretched around the block. All those sleepless nights and flour-dusted mornings had finally paid off.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'pay(지불하다) + off(떨어져)'로, 빚이나 비용을 완전히 갚아 없앤다는 뜻입니다.",
+    "realUsageKo": "실제로는 '노력이나 투자가 좋은 결과로 이어지다, 성과를 거두다'라는 의미로 훨씬 많이 씁니다. 오랜 시간 공을 들인 일이 결실을 맺었을 때 사용합니다.",
+    "etymologyKo": "원래 빚을 완전히 갚는다(pay off a debt)는 금융 표현에서 출발했으며, '대가를 치른 만큼 보상이 돌아오다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "긍정적이고 보람찬 어감을 지닙니다. 단순히 성공했다는 것이 아니라, 그 이면에 상당한 노력·인내·투자가 있었음을 함축합니다.",
+    "shortExampleEn": "Years of hard training paid off when she won the gold medal.",
+    "shortExampleKo": "수년간의 힘든 훈련이 그녀가 금메달을 땄을 때 성과를 거뒀다."
+  }
+}

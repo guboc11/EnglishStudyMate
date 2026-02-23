@@ -1,0 +1,30 @@
+{
+  "id": "tie-up_704b9c5b",
+  "expression": "tie up",
+  "selectionMeta": {
+    "selectedPhrase": "tie up",
+    "selectedSenseLabelKo": "묶다 / 마무리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to tie up a few loose ends before we can launch the project next week."
+  },
+  "step2": {
+    "story": "Sarah had been working on the proposal for three weeks straight. She spent her Friday afternoon tying up all the remaining details — double-checking the budget, finalizing the timeline, and sending confirmation emails. By 5 PM, everything was neatly wrapped up and ready for Monday's presentation.",
+    "topicTag": "work productivity",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "James glanced at the clock — only two hours left before his last day at the company. He had a checklist of things to tie up before handing over his responsibilities. First, he organized all his project files into shared folders so his replacement could find everything easily. Then he wrote detailed handover notes for each ongoing client relationship. He spent thirty minutes on a call with the new hire, walking her through the trickiest accounts. Finally, he sent a farewell email to the team, feeling a quiet sense of accomplishment that he had left nothing unfinished.",
+    "topicTag": "career transition",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '묶어 올리다'로, 끈이나 줄로 무언가를 단단히 묶는 행위를 뜻합니다.",
+    "realUsageKo": "실제로는 물리적으로 묶는 의미 외에, 일이나 프로젝트의 남은 부분을 마무리하거나 정리한다는 뜻으로 자주 쓰입니다. 'tie up loose ends'(마무리 짓다) 형태로 특히 많이 사용됩니다.",
+    "etymologyKo": "항해 용어에서 유래했습니다. 배를 부두에 정박할 때 밧줄을 단단히 묶는(tie up) 행위에서, 모든 것을 안전하게 마무리한다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "격식/비격식 모두 자연스럽게 사용됩니다. 비즈니스 상황에서는 '마무리하다'의 의미로, 일상에서는 '묶다' 또는 '(전화·회의 등으로) 바쁘게 붙잡혀 있다'는 뉘앙스로도 쓰입니다.",
+    "shortExampleEn": "Let me tie up this report before lunch.",
+    "shortExampleKo": "점심 전에 이 보고서를 마무리할게요."
+  }
+}

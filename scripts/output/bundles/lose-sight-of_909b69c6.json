@@ -1,0 +1,30 @@
+{
+  "id": "lose-sight-of_909b69c6",
+  "expression": "lose sight of",
+  "selectionMeta": {
+    "selectedPhrase": "lose sight of",
+    "selectedSenseLabelKo": "잊어버리다 / 놓치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When you're caught up in daily routines, it's easy to lose sight of what really matters to you."
+  },
+  "step2": {
+    "story": "Jiwon had been working overtime every night for months, chasing a promotion she thought would make everything better. One evening, her daughter asked why she never came to dinner anymore, and Jiwon realized she had completely lost sight of the reason she worked so hard in the first place. She left the office early the next day.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Daniel started his small bakery with one simple dream: to make people smile with fresh bread every morning. But as the business grew, investors came knocking with expansion plans, franchise deals, and profit targets. He hired consultants, redesigned the menu for higher margins, and spent more time in meetings than in the kitchen. One rainy afternoon, a longtime customer told him the bread just didn't taste the same anymore. That comment hit hard — Daniel realized he had lost sight of the passion that started it all. The next week, he stepped back into the kitchen and began baking by hand again.",
+    "topicTag": "passion and purpose",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'sight(시야, 보이는 것)'를 'lose(잃다)'한다는 뜻으로, 원래는 물리적으로 무언가를 시야에서 놓치는 것을 의미합니다.",
+    "realUsageKo": "비유적으로 중요한 목표, 가치, 본질 등을 잊어버리거나 간과하게 될 때 널리 사용됩니다. 'Don't lose sight of your goals'처럼 조언이나 경고의 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'lose'는 고대 영어 'losian(잃다, 파괴되다)'에서, 'sight'는 고대 영어 'sihþ(시각, 보는 행위)'에서 유래했습니다. 원래 물리적으로 시야에서 사라지는 것을 뜻했으나, 16세기 이후 추상적인 '잊다, 놓치다'의 의미로 확장되었습니다.",
+    "nuanceKo": "다소 진지하고 성찰적인 뉘앙스를 가진 표현입니다. 바쁜 일상이나 욕심 때문에 본래의 중요한 것을 잊었다는 아쉬움이나 자각의 맥락에서 자주 사용되며, 격식체와 일상 대화 모두에서 자연스럽습니다.",
+    "shortExampleEn": "We must not lose sight of the fact that customer satisfaction comes first.",
+    "shortExampleKo": "고객 만족이 최우선이라는 사실을 잊어서는 안 된다."
+  }
+}

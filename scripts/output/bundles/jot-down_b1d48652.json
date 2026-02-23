@@ -1,0 +1,30 @@
+{
+  "id": "jot-down_b1d48652",
+  "expression": "jot down",
+  "selectionMeta": {
+    "selectedPhrase": "jot down",
+    "selectedSenseLabelKo": "메모하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me jot down your phone number before I forget it."
+  },
+  "step2": {
+    "story": "During the meeting, Sarah noticed her manager sharing some brilliant ideas about the new project. She quickly grabbed a pen to jot down the key points on a napkin. By the end of the discussion, her notes had become the foundation for the entire team's action plan.",
+    "topicTag": "workplace productivity",
+    "moodTag": "attentive"
+  },
+  "step3": {
+    "story": "Kevin had always struggled to remember things people told him, and it was starting to affect his work. One morning, his mentor handed him a small leather notebook and said, \"Whenever something important comes up, just jot it down.\" At first, Kevin felt awkward pulling out the notebook in conversations, but he forced himself to do it anyway. Within a week, he noticed a dramatic change — he was following up on tasks, remembering names, and catching details others missed. His colleagues started asking how he had become so sharp. Kevin just smiled and tapped the notebook in his pocket, grateful for the simplest advice that changed everything.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'jot'은 아주 작은 양을 뜻하고 'down'은 아래로 내려놓는다는 뜻으로, 빠르게 짧은 글을 적어 내려놓는다는 의미입니다.",
+    "realUsageKo": "무언가를 잊지 않으려고 빠르게 간단히 메모할 때 사용합니다. 정성스럽게 쓰는 것이 아니라 핵심만 휘갈겨 적는 느낌입니다.",
+    "etymologyKo": "'jot'은 그리스 문자 중 가장 작은 글자인 'iota(요타)'에서 유래했습니다. 아주 작은 것을 적는다는 의미에서 '간략히 메모하다'라는 뜻이 되었습니다.",
+    "nuanceKo": "격식 없이 빠르게 적는 느낌이라 'write down'보다 캐주얼하고 간결한 뉘앙스입니다. 일상 대화와 업무 상황 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "Can you jot down the address for me?",
+    "shortExampleKo": "주소 좀 메모해 줄 수 있어?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "grow-into_4256a919",
+  "expression": "grow into",
+  "selectionMeta": {
+    "selectedPhrase": "grow into",
+    "selectedSenseLabelKo": "성장하여 맞다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was nervous on her first day as manager, but she quickly grew into the role and earned everyone's respect."
+  },
+  "step2": {
+    "story": "When Jake first inherited his father's small bookstore, he felt completely overwhelmed. But month by month, he grew into the responsibility, learning to manage inventory, connect with customers, and even host community reading events. By the end of the year, the shop felt like it had always been his.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mina was only twenty-three when she was promoted to team lead at the design agency. Her colleagues were skeptical, and she herself wondered if the title was too big for her. The first few weeks were rough — she second-guessed every decision and stayed late rewriting emails. But her mentor told her something she never forgot: \"You don't have to be ready on day one. You just have to grow into it.\" Slowly, she started trusting her instincts, speaking up in meetings, and guiding her team with quiet confidence. A year later, no one could imagine the team without her at the helm.",
+    "topicTag": "career development",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '~안으로 자라다'라는 뜻으로, 무언가에 맞게 성장한다는 의미입니다.",
+    "realUsageKo": "처음에는 자신에게 크거나 어려웠던 역할, 책임, 옷 등이 시간이 지나면서 자연스럽게 맞게 되는 상황에 씁니다. '점차 적응하여 제 것으로 만들다'라는 뉘앙스입니다.",
+    "etymologyKo": "원래 아이가 자라서 큰 옷이 맞게 되는 물리적 의미에서 출발하여, 역할이나 책임에 적응하는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 노력과 시간을 통해 자연스럽게 성장하는 과정을 강조합니다. 억지로 맞추는 것이 아니라 자연스럽게 어울리게 된다는 느낌입니다.",
+    "shortExampleEn": "The coat is too big now, but he'll grow into it.",
+    "shortExampleKo": "그 코트는 지금은 크지만, 자라면 맞게 될 거예요."
+  }
+}

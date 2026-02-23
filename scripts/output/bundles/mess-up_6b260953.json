@@ -1,0 +1,30 @@
+{
+  "id": "mess-up_6b260953",
+  "expression": "mess up",
+  "selectionMeta": {
+    "selectedPhrase": "mess up",
+    "selectedSenseLabelKo": "망치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I really messed up the presentation by forgetting to prepare the final slides."
+  },
+  "step2": {
+    "story": "Jake had been rehearsing his speech for weeks, but on the day of the conference, he accidentally deleted his notes. He completely messed up his opening and stumbled through the first five minutes. Luckily, his co-speaker jumped in and helped him recover.",
+    "topicTag": "public speaking",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Elena had one job: deliver the wedding cake safely to the venue. She loaded it into her car with extra care and drove slowly through every turn. But when she hit an unexpected speed bump near the parking lot, the cake slid off the seat and smashed against the door. She had completely messed up the most important delivery of her career. With only an hour before the ceremony, she called the bakery in a panic and begged them to help. They managed to patch together a smaller replacement just in time, and Elena swore she would never transport a cake without a proper rack again.",
+    "topicTag": "responsibility",
+    "moodTag": "panicked"
+  },
+  "meaning": {
+    "literalMeaningKo": "'mess'(엉망)와 'up'(위로/완전히)이 합쳐져 '완전히 엉망으로 만들다'라는 뜻입니다.",
+    "realUsageKo": "실수하거나 일을 망쳤을 때 폭넓게 사용합니다. 'I messed up'은 '내가 실수했어, 내가 망쳤어'라는 뜻으로 일상에서 매우 자주 쓰입니다.",
+    "etymologyKo": "'mess'는 원래 식사를 뜻하는 고대 프랑스어 'mes'에서 왔으며, 이후 '지저분한 상태'라는 뜻으로 변했습니다. 'up'이 붙어 강조 의미가 더해졌습니다.",
+    "nuanceKo": "비격식적이고 구어체 표현으로, 격식 있는 자리에서는 'make a mistake'가 더 적합합니다. 자기 잘못을 솔직하게 인정하는 뉘앙스가 있어 친근한 느낌을 줍니다.",
+    "shortExampleEn": "Sorry, I messed up your order — let me fix it right away.",
+    "shortExampleKo": "죄송합니다, 주문을 잘못 처리했어요 — 바로 수정해 드릴게요."
+  }
+}

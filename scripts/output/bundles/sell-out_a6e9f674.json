@@ -1,0 +1,30 @@
+{
+  "id": "sell-out_a6e9f674",
+  "expression": "sell out",
+  "selectionMeta": {
+    "selectedPhrase": "sell out",
+    "selectedSenseLabelKo": "매진되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The concert tickets sold out within minutes of going on sale."
+  },
+  "step2": {
+    "story": "Emily had been waiting for months to see her favorite band live. She set an alarm and refreshed the ticketing website the moment sales opened, but the show sold out in under five minutes. Disappointed, she started checking resale sites, hoping to find a reasonably priced ticket.",
+    "topicTag": "entertainment",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "Jake owned a small bakery famous for its sourdough bread. Every Saturday morning, a long line would form outside his shop before dawn. By 9 AM, the fresh loaves always sold out completely. One weekend, a food blogger featured his bakery in a viral post, and the demand tripled overnight. Jake had to start taking pre-orders just to keep up. He never imagined that his simple bread recipe would become the talk of the entire city.",
+    "topicTag": "small business",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "물건을 모두 팔아서 재고가 없어지다라는 뜻입니다.",
+    "realUsageKo": "상품, 티켓, 좌석 등이 모두 팔려서 더 이상 구할 수 없을 때 사용합니다. 'The tickets sold out'처럼 주로 과거형으로 많이 쓰입니다.",
+    "etymologyKo": "'sell(팔다)'과 'out(완전히, 다)'이 결합된 구동사로, 재고가 바닥날 때까지 전부 판매한다는 의미에서 유래했습니다.",
+    "nuanceKo": "인기가 많아서 빠르게 품절되었다는 긍정적 뉘앙스가 있습니다. 다만 'sell out'이 사람에게 쓰이면 '신념을 저버리다, 배신하다'라는 부정적 의미도 있으니 문맥에 주의해야 합니다.",
+    "shortExampleEn": "The new iPhone model sold out on the first day.",
+    "shortExampleKo": "새 아이폰 모델이 첫날에 매진되었다."
+  }
+}

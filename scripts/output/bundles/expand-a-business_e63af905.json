@@ -1,0 +1,30 @@
+{
+  "id": "expand-a-business_e63af905",
+  "expression": "expand a business",
+  "selectionMeta": {
+    "selectedPhrase": "expand a business",
+    "selectedSenseLabelKo": "사업을 확장하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After securing a new round of funding, the founders finally had the resources to expand their business into Southeast Asia."
+  },
+  "step2": {
+    "story": "Mina had been running her bakery in a small neighborhood for five years. When loyal customers started placing bulk orders from across the city, she realized it was time to expand her business. She signed a lease on a second location downtown and hired three new bakers.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "Jaeho started his translation agency alone in a tiny office, handling every client himself. Within two years, word-of-mouth brought him more projects than he could manage. His mentor suggested it was the perfect moment to expand the business rather than turn clients away. Jaeho partnered with freelancers in four different countries and launched an online platform for corporate clients. The transition was exhausting — he barely slept for months — but revenue tripled by the end of the year. Looking back, he knew that deciding to expand his business was the boldest and best decision he ever made.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "사업을 더 넓히다, 즉 규모나 범위를 키우다라는 뜻입니다.",
+    "realUsageKo": "새로운 시장에 진출하거나, 지점을 늘리거나, 제품 라인을 추가하는 등 사업의 규모를 키울 때 사용합니다. 단순히 매출이 느는 것이 아니라 의도적으로 성장 전략을 실행하는 뉘앙스가 있습니다.",
+    "etymologyKo": "expand는 라틴어 expandere(펼치다)에서 유래했으며, business와 결합해 '사업을 펼쳐 나가다'라는 의미의 비즈니스 콜로케이션으로 굳어졌습니다.",
+    "nuanceKo": "grow a business보다 더 적극적이고 전략적인 확장을 암시합니다. 보통 새로운 지역, 시장, 서비스 영역으로의 진출을 떠올리게 하는 표현입니다.",
+    "shortExampleEn": "We plan to expand our business to Europe next quarter.",
+    "shortExampleKo": "우리는 다음 분기에 유럽으로 사업을 확장할 계획입니다."
+  }
+}

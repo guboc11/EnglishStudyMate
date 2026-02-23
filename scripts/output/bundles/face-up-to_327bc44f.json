@@ -1,0 +1,30 @@
+{
+  "id": "face-up-to_327bc44f",
+  "expression": "face up to",
+  "selectionMeta": {
+    "selectedPhrase": "face up to",
+    "selectedSenseLabelKo": "직면하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of avoiding the issue, she finally decided to face up to her mounting debt and create a repayment plan."
+  },
+  "step2": {
+    "story": "Tom had been ignoring the warning signs at work for weeks. When his manager called him in for a meeting, he knew it was time to face up to the fact that his performance had slipped. He took a deep breath and walked into the office ready to listen.",
+    "topicTag": "career growth",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "Jina stared at the letter from the hospital, her hands trembling slightly. For three weeks, she had left it unopened on the kitchen counter, pretending it didn't exist. But this morning, watching her daughter laugh over breakfast, something shifted inside her. She realized she had to face up to whatever the results said — not just for herself, but for her family. She tore open the envelope and read every word carefully. By the time she finished, her fear hadn't vanished, but it had been replaced by something stronger: a quiet determination to move forward.",
+    "topicTag": "personal courage",
+    "moodTag": "brave"
+  },
+  "meaning": {
+    "literalMeaningKo": "얼굴을 들어 ~을 향해 마주보다라는 뜻으로, 직역하면 '~을 향해 얼굴을 들다'입니다.",
+    "realUsageKo": "어렵거나 불쾌한 현실, 문제, 진실 등을 회피하지 않고 정면으로 받아들이고 대처한다는 의미로 사용됩니다. 주로 그동안 피해오던 것을 더 이상 피하지 않겠다는 결심의 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "'face'는 '얼굴을 향하다'라는 동사적 의미에서, 'up to'는 '~까지, ~을 향해'라는 방향성을 더해 만들어진 구동사입니다. 어려운 상황에 고개를 숙이지 않고 얼굴을 들어 정면으로 바라본다는 이미지에서 유래했습니다.",
+    "nuanceKo": "단순히 '직면하다'보다 더 능동적이고 용기 있는 느낌입니다. 회피하고 싶은 것을 의식적으로 마주하겠다는 의지가 담겨 있어, 주로 진지하고 무거운 상황에서 사용됩니다.",
+    "shortExampleEn": "You need to face up to your responsibilities as a parent.",
+    "shortExampleKo": "부모로서의 책임을 직시해야 합니다."
+  }
+}

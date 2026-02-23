@@ -1,0 +1,30 @@
+{
+  "id": "head-off_c47d667b",
+  "expression": "head off",
+  "selectionMeta": {
+    "selectedPhrase": "head off",
+    "selectedSenseLabelKo": "차단하다 / 막다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to head off any complaints before the product launches next week."
+  },
+  "step2": {
+    "story": "The marketing team discovered a flaw in the campaign just two days before launch. Sarah quickly revised the messaging to head off potential backlash from customers. Her swift action saved the company from a public relations nightmare.",
+    "topicTag": "crisis management",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "David had been monitoring social media all morning when he noticed a trending rumor about his company's new policy. The misinformation was spreading fast, and he knew it could damage their reputation within hours. He immediately drafted a transparent statement and shared it across all platforms to head off the growing controversy. His colleagues joined in, responding to individual concerns with facts and empathy. By the afternoon, the tone of the conversation had shifted entirely. What could have been a disaster turned into an opportunity to build trust with the public.",
+    "topicTag": "reputation management",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리(head)를 돌려서 앞을 막는다(off)는 의미에서 유래한 표현입니다.",
+    "realUsageKo": "어떤 문제나 상황이 발생하기 전에 미리 조치를 취해서 막는다는 뜻으로 사용됩니다. '사전에 차단하다', '미연에 방지하다'와 비슷한 느낌입니다.",
+    "etymologyKo": "원래 목축에서 가축이 잘못된 방향으로 가지 않도록 앞을 가로막는 행위에서 유래했습니다. 이후 비유적으로 문제나 위기를 사전에 막는다는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '막다'보다는 '미리 예측하고 선제적으로 대응하다'라는 적극적인 뉘앙스가 있습니다. 주로 부정적인 결과를 예방하는 맥락에서 사용됩니다.",
+    "shortExampleEn": "The manager tried to head off the conflict between the two departments.",
+    "shortExampleKo": "매니저는 두 부서 간의 갈등을 사전에 막으려 했다."
+  }
+}

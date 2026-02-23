@@ -1,0 +1,30 @@
+{
+  "id": "stir-up_7bcfbdc5",
+  "expression": "stir up",
+  "selectionMeta": {
+    "selectedPhrase": "stir up",
+    "selectedSenseLabelKo": "자극하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The documentary stirred up a heated debate about climate change across the country."
+  },
+  "step2": {
+    "story": "Maya posted a controversial opinion on social media, not expecting much response. Within hours, her words had stirred up a firestorm of comments and arguments. She realized how quickly a single post could ignite strong emotions in people.",
+    "topicTag": "social media controversy",
+    "moodTag": "uneasy"
+  },
+  "step3": {
+    "story": "The small coastal town had been peaceful for decades until a mining company announced plans to drill near the protected reef. Local fishermen were the first to react, organizing meetings and sharing their fears. Their passionate speeches stirred up the entire community, bringing hundreds to the town hall. Students painted protest signs, shop owners closed early to join rallies, and even the elderly showed up with handwritten letters. The mayor, caught between corporate pressure and public anger, finally agreed to hold a formal vote. What started as quiet concern had been stirred up into a movement no one could ignore.",
+    "topicTag": "community activism",
+    "moodTag": "passionate"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stir'는 '젓다, 휘젓다'라는 뜻이고, 'up'은 위로 올리는 느낌을 더해 '무언가를 휘저어 올리다'라는 직역입니다.",
+    "realUsageKo": "감정, 논쟁, 문제 등을 자극하거나 일으킬 때 사용합니다. 주로 부정적이거나 강렬한 반응을 유발하는 상황에서 쓰이며, '논란을 일으키다', '감정을 자극하다'와 같은 의미로 활용됩니다.",
+    "etymologyKo": "요리에서 재료를 젓는(stir) 동작에서 유래했습니다. 가라앉아 있던 것을 휘저어 위로 떠오르게 하는 이미지가 감정이나 문제를 표면으로 끌어올리는 비유로 확장되었습니다.",
+    "nuanceKo": "대체로 부정적인 뉘앙스가 강합니다. 'stir up trouble(문제를 일으키다)', 'stir up emotions(감정을 자극하다)'처럼 평온한 상태를 깨뜨리는 느낌이 있으며, 의도적으로 선동하는 뉘앙스도 포함될 수 있습니다.",
+    "shortExampleEn": "Please don't stir up any trouble at the meeting.",
+    "shortExampleKo": "회의에서 문제를 일으키지 마세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "have-an-eye-for_46edd1b1",
+  "expression": "have an eye for",
+  "selectionMeta": {
+    "selectedPhrase": "have an eye for",
+    "selectedSenseLabelKo": "~을 알아보는 눈이 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She has an eye for detail, which is why her designs always stand out from the rest."
+  },
+  "step2": {
+    "story": "Marcus wandered through the flea market, scanning tables piled with old jewelry and forgotten antiques. While everyone else walked past a dusty oil painting, he stopped and studied it closely — he had an eye for hidden gems. A week later, the painting was appraised at ten times what he paid for it.",
+    "topicTag": "hidden talent",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "When Sofia first joined the interior design firm, nobody expected much from the quiet intern. But on her very first project, she rearranged a client's cluttered living room into something that looked like a magazine cover. Her boss noticed that Sofia had an eye for color combinations that most seasoned designers missed. She could walk into any space and instantly see what was wrong and how to fix it. Within a year, clients were specifically requesting her by name. It turned out that having an eye for beauty was something no textbook could teach.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 위한 눈을 가지고 있다는 뜻으로, 특정 분야에 대한 감각이나 안목이 있음을 의미합니다.",
+    "realUsageKo": "어떤 분야에서 좋은 것과 나쁜 것을 구별하는 타고난 감각이나 능력이 있을 때 사용합니다. 예를 들어 디자인, 패션, 예술, 부동산 등에서 남들이 못 보는 가치를 알아볼 줄 아는 사람을 묘사할 때 씁니다.",
+    "etymologyKo": "'eye'가 시각적 판단력이나 감식안을 뜻하는 비유적 표현에서 유래했으며, 16세기경부터 영어에서 사용되어 온 관용 표현입니다.",
+    "nuanceKo": "타고난 재능이나 오랜 경험에서 비롯된 안목을 칭찬하는 긍정적인 뉘앙스입니다. 격식/비격식 모두 자연스럽게 사용됩니다.",
+    "shortExampleEn": "He has an eye for talent and always picks the best candidates.",
+    "shortExampleKo": "그는 인재를 알아보는 눈이 있어서 항상 최고의 후보를 뽑는다."
+  }
+}

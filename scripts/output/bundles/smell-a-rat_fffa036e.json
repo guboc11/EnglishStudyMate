@@ -1,0 +1,30 @@
+{
+  "id": "smell-a-rat_fffa036e",
+  "expression": "smell a rat",
+  "selectionMeta": {
+    "selectedPhrase": "smell a rat",
+    "selectedSenseLabelKo": "수상하게 여기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the deal seemed too good to be true, I started to smell a rat."
+  },
+  "step2": {
+    "story": "The new investor promised incredible returns with zero risk. Everyone in the office was excited, but Maria began to smell a rat when he refused to share any documentation. She quietly reported her concerns to the compliance team.",
+    "topicTag": "workplace trust",
+    "moodTag": "suspicious"
+  },
+  "step3": {
+    "story": "Jake had been working at the small accounting firm for three years and knew every client by name. So when a new client started requesting unusual wire transfers to offshore accounts, he immediately smelled a rat. He stayed late one evening and cross-checked the transaction records against the company database. The numbers didn't add up — someone had been quietly altering invoices for months. Jake gathered all the evidence and brought it to his manager the next morning. Thanks to his sharp instincts, the firm avoided a massive fraud scandal.",
+    "topicTag": "fraud detection",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "쥐 냄새를 맡다 — 말 그대로 쥐의 냄새를 감지한다는 뜻입니다.",
+    "realUsageKo": "어떤 상황이나 사람이 수상하다고 직감적으로 느낄 때 사용합니다. '뭔가 낌새가 이상하다', '수상쩍다'라는 의미로 쓰입니다.",
+    "etymologyKo": "고양이가 숨어 있는 쥐의 냄새를 맡아 존재를 감지하는 것에서 유래했습니다. 16세기부터 영어에서 사용되었습니다.",
+    "nuanceKo": "단순한 의심이 아니라 직감적으로 무언가 잘못되었음을 감지하는 뉘앙스입니다. 주로 사기, 배신, 속임수 등 부정적인 상황에서 사용됩니다.",
+    "shortExampleEn": "I smelled a rat when he asked for my password over the phone.",
+    "shortExampleKo": "그가 전화로 비밀번호를 물어봤을 때 수상한 낌새를 느꼈다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "inspire-others_2b811828",
+  "expression": "inspire others",
+  "selectionMeta": {
+    "selectedPhrase": "inspire others",
+    "selectedSenseLabelKo": "다른 사람에게 영감을 주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her courage to speak up at the meeting really helped inspire others to share their honest opinions too."
+  },
+  "step2": {
+    "story": "Maya had been volunteering at the community center for years, quietly helping families in need. When a local newspaper featured her story, she began to inspire others to volunteer as well. Within a month, the center had more helping hands than ever before.",
+    "topicTag": "community service",
+    "moodTag": "uplifting"
+  },
+  "step3": {
+    "story": "Daniel had always been the quietest person in his department, but when the company faced massive layoffs, something shifted inside him. He organized a small group to brainstorm new revenue ideas and presented them directly to the CEO. His proposal not only saved several positions but also opened up a brand-new product line. Word spread quickly through the office, and Daniel's bold move began to inspire others to step outside their comfort zones. Soon, employees across the company were pitching creative solutions they had been too afraid to suggest before. What started as one person's quiet determination transformed the entire culture of the workplace.",
+    "topicTag": "workplace leadership",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'다른 사람들에게 영감을 불어넣다'라는 뜻으로, inspire는 '숨을 불어넣다'에서 유래했습니다.",
+    "realUsageKo": "누군가의 행동, 말, 또는 삶의 방식이 다른 사람들에게 동기를 부여하고 긍정적인 변화를 이끌어낼 때 사용합니다. 리더십, 자기계발, 사회 공헌 맥락에서 자주 등장합니다.",
+    "etymologyKo": "inspire는 라틴어 'inspirare(숨을 불어넣다)'에서 유래했으며, 원래 신이 사람에게 영적 깨달음을 불어넣는다는 의미였습니다. 현대에는 '동기를 부여하다, 감화시키다'로 확장되었습니다.",
+    "nuanceKo": "단순히 정보를 전달하는 것이 아니라, 감정적·정신적으로 깊은 영향을 주어 행동의 변화를 이끌어내는 뉘앙스입니다. motivate보다 더 깊고 감성적인 울림을 담고 있습니다.",
+    "shortExampleEn": "Great leaders know how to inspire others through their own actions.",
+    "shortExampleKo": "훌륭한 리더는 자신의 행동을 통해 다른 사람에게 영감을 주는 방법을 알고 있습니다."
+  }
+}

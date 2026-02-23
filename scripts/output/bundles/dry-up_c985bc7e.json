@@ -1,0 +1,30 @@
+{
+  "id": "dry-up_c985bc7e",
+  "expression": "dry up",
+  "selectionMeta": {
+    "selectedPhrase": "dry up",
+    "selectedSenseLabelKo": "바닥나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our savings are starting to dry up after months of unexpected expenses."
+  },
+  "step2": {
+    "story": "The startup had been growing fast, but investor funding suddenly dried up when the economy slowed down. The founders scrambled to cut costs, knowing they had only a few months before their cash reserves completely dried up. They decided to pivot their product to survive.",
+    "topicTag": "business survival",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Maria had always relied on freelance work to pay her bills, but this year the projects started to dry up one by one. At first she thought it was just a seasonal slowdown, so she didn't worry too much. But by the third month with barely any income, reality hit hard. She checked her bank account and realized her emergency fund had nearly dried up as well. Desperate, she reached out to every contact she had and even applied for jobs she would have ignored before. It wasn't until she landed a small contract that she finally felt a glimmer of hope again.",
+    "topicTag": "financial hardship",
+    "moodTag": "desperate"
+  },
+  "meaning": {
+    "literalMeaningKo": "'dry up'은 말 그대로 '말라서 없어지다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 돈, 기회, 자원 등이 점점 줄어들다가 결국 완전히 바닥나거나 사라질 때 사용합니다. '자금이 바닥났다', '기회가 사라졌다'와 같은 맥락으로 쓰입니다.",
+    "etymologyKo": "물이나 액체가 증발하여 마르는 자연 현상에서 유래했으며, 이것이 비유적으로 자원이나 공급이 고갈되는 상황으로 확장되었습니다.",
+    "nuanceKo": "단순히 '줄어들다'보다 더 심각한 느낌을 줍니다. 서서히 고갈되어 결국 아무것도 남지 않는 상태를 강조하며, 부정적이고 걱정스러운 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Job opportunities in the area have completely dried up.",
+    "shortExampleKo": "그 지역의 취업 기회가 완전히 바닥났다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a-dime-a-dozen_d4310b3e",
+  "expression": "a dime a dozen",
+  "selectionMeta": {
+    "selectedPhrase": "a dime a dozen",
+    "selectedSenseLabelKo": "흔하디 흔한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Good coffee shops used to be rare around here, but now they're a dime a dozen."
+  },
+  "step2": {
+    "story": "Sarah scrolled through dozens of online courses promising to teach coding in 30 days. Her mentor laughed and said those programs were a dime a dozen. He recommended she find one with real mentorship and project-based learning instead.",
+    "topicTag": "online learning",
+    "moodTag": "skeptical"
+  },
+  "step3": {
+    "story": "When Jake moved to the city to pursue his dream of becoming a screenwriter, he was full of confidence. But after attending his first industry mixer, he realized aspiring writers were a dime a dozen in Hollywood. Every bartender, barista, and rideshare driver seemed to have a screenplay tucked away in their laptop bag. The competition was overwhelming, and for the first time, Jake understood that talent alone wouldn't be enough. He decided to focus on what made his voice unique rather than trying to follow trends. That shift in mindset eventually led to his first script getting optioned by a small studio.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '10센트에 12개', 즉 아주 싼 값에 많이 살 수 있다는 뜻입니다.",
+    "realUsageKo": "어떤 것이 너무 흔하거나 많아서 특별한 가치가 없다는 의미로 사용됩니다. 사람, 물건, 아이디어 등 다양한 대상에 쓸 수 있습니다.",
+    "etymologyKo": "19세기 미국에서 유래한 표현으로, 당시 시장에서 작은 물건들을 10센트(dime)에 12개씩 묶어 팔던 관행에서 비롯되었습니다.",
+    "nuanceKo": "다소 부정적이거나 무시하는 어감이 있으며, 대상의 가치를 낮게 평가할 때 씁니다. 격식 없는 일상 대화에서 주로 사용됩니다.",
+    "shortExampleEn": "Promises from politicians are a dime a dozen during election season.",
+    "shortExampleKo": "선거철에 정치인들의 공약은 흔하디 흔합니다."
+  }
+}

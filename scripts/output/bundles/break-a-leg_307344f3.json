@@ -1,0 +1,30 @@
+{
+  "id": "break-a-leg_307344f3",
+  "expression": "break a leg",
+  "selectionMeta": {
+    "selectedPhrase": "break a leg",
+    "selectedSenseLabelKo": "행운을 빌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Break a leg at your audition tomorrow — I know you've been practicing for weeks!"
+  },
+  "step2": {
+    "story": "Sarah stood backstage, her hands trembling before the biggest performance of her life. Her best friend squeezed her shoulder and whispered, \"Break a leg out there.\" She took a deep breath and walked into the spotlight with newfound confidence.",
+    "topicTag": "performance anxiety",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Jason had spent three months preparing for the company's annual pitch competition. The night before, he couldn't sleep, running through his slides over and over in his head. When morning came, his colleague Maya met him at the elevator with two coffees. \"You've put in more work than anyone else here,\" she said, handing him a cup. \"Seriously, break a leg today.\" Jason smiled, feeling the knot in his stomach loosen just a little. He walked into the conference room, set down his coffee, and delivered the presentation of his career.",
+    "topicTag": "career milestone",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '다리를 부러뜨려라'라는 뜻입니다.",
+    "realUsageKo": "실제로는 누군가에게 행운을 빌어줄 때 사용하는 표현입니다. 특히 공연이나 중요한 발표를 앞둔 사람에게 \"잘 될 거야, 행운을 빌어!\"라는 의미로 씁니다.",
+    "etymologyKo": "연극계에서 유래한 표현으로, 무대 위에서 직접 '행운을 빈다(good luck)'고 말하면 오히려 불운을 가져온다는 미신 때문에 반대로 나쁜 말을 하는 전통에서 비롯되었습니다.",
+    "nuanceKo": "친근하고 격려하는 톤의 표현입니다. 격식 있는 자리보다는 친구나 동료 사이에서 자연스럽게 쓰이며, 공연뿐 아니라 시험, 면접, 발표 등 다양한 상황에서 폭넓게 사용됩니다.",
+    "shortExampleEn": "You're going on stage in five minutes — break a leg!",
+    "shortExampleKo": "5분 후에 무대에 올라가잖아 — 행운을 빌어!"
+  }
+}

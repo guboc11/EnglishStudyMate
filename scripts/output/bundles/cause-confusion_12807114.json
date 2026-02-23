@@ -1,0 +1,30 @@
+{
+  "id": "cause-confusion_12807114",
+  "expression": "cause confusion",
+  "selectionMeta": {
+    "selectedPhrase": "cause confusion",
+    "selectedSenseLabelKo": "혼란을 초래하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sudden change in the schedule caused confusion among all the team members."
+  },
+  "step2": {
+    "story": "The company announced a new policy on Friday but reversed it on Monday. The contradicting emails caused confusion across every department. Employees didn't know which guidelines to follow anymore.",
+    "topicTag": "workplace communication",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Sarah had been preparing for the presentation all week, carefully following the brief her manager sent. But on the morning of the meeting, a completely different set of instructions appeared in her inbox. She looked around the office and noticed her coworkers whispering nervously at their desks. The conflicting directions had caused confusion throughout the entire team. Nobody knew which version was correct, and the deadline was just two hours away. Sarah finally stood up and called an emergency huddle to sort things out before it was too late.",
+    "topicTag": "team coordination",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "혼란을 일으키다, 혼동을 야기하다라는 뜻으로, 어떤 상황이나 행동이 사람들을 헷갈리게 만드는 것을 의미합니다.",
+    "realUsageKo": "명확하지 않은 지시, 모순된 정보, 갑작스러운 변경 등이 사람들을 혼란스럽게 만들 때 자주 사용됩니다. 일상 대화뿐 아니라 뉴스, 비즈니스 맥락에서도 널리 쓰입니다.",
+    "etymologyKo": "'cause'는 라틴어 'causa(원인)'에서, 'confusion'은 라틴어 'confusio(뒤섞임)'에서 유래했습니다. 두 단어가 결합해 '혼란의 원인을 만들다'라는 의미의 자연스러운 연어 표현이 되었습니다.",
+    "nuanceKo": "중립적인 표현으로, 의도적이든 비의도적이든 혼란을 초래하는 상황 모두에 사용할 수 있습니다. 'create confusion'보다 원인과 결과의 관계를 더 직접적으로 나타냅니다.",
+    "shortExampleEn": "The unclear instructions caused confusion during the exam.",
+    "shortExampleKo": "불명확한 지시사항이 시험 중에 혼란을 초래했다."
+  }
+}

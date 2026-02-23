@@ -1,0 +1,30 @@
+{
+  "id": "look-for_d7705fbe",
+  "expression": "look for",
+  "selectionMeta": {
+    "selectedPhrase": "look for",
+    "selectedSenseLabelKo": "찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've been looking for my keys all morning, but I still can't find them."
+  },
+  "step2": {
+    "story": "Sarah spent her lunch break looking for a quiet café near the office. She walked past three busy places before spotting a small one tucked behind a bookstore. It turned out to be exactly the peaceful spot she needed.",
+    "topicTag": "daily routine",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "After graduating from college, James moved to a new city and started looking for his first real job. He spent weeks browsing job boards and sending out applications, but nothing seemed to fit. One rainy afternoon, he wandered into a small design studio to ask for directions. The owner noticed his portfolio peeking out of his bag and asked to take a look. Sometimes what you're looking for finds you when you least expect it. James started working there the following Monday.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'look'(보다)과 'for'(~을 위해)가 합쳐져, 무언가를 향해 시선을 돌린다는 뜻입니다.",
+    "realUsageKo": "물건이나 사람, 정보 등을 찾을 때 가장 일반적으로 쓰이는 표현입니다. 'search for'보다 일상적이고 가벼운 느낌으로, 구직(look for a job)이나 집 찾기(look for a house) 등 넓은 범위에서 사용됩니다.",
+    "etymologyKo": "고대 영어 'lōcian'(바라보다)에서 유래했으며, 중세 영어 시기에 'for'와 결합하여 '~을 찾다'라는 의미로 굳어졌습니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 자주 쓰이며, 'search for'나 'seek'보다 훨씬 자연스럽고 부담 없는 톤입니다. A2 수준의 기본 구동사로, 영어 초급 학습자가 반드시 알아야 할 표현입니다.",
+    "shortExampleEn": "What are you looking for?",
+    "shortExampleKo": "뭘 찾고 있어?"
+  }
+}

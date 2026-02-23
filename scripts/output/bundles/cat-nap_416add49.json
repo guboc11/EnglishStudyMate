@@ -1,0 +1,30 @@
+{
+  "id": "cat-nap_416add49",
+  "expression": "cat nap",
+  "selectionMeta": {
+    "selectedPhrase": "cat nap",
+    "selectedSenseLabelKo": "짧은 낮잠",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I took a quick cat nap on the couch before heading out to dinner."
+  },
+  "step2": {
+    "story": "After pulling an all-nighter to finish her report, Maya could barely keep her eyes open at work. She slipped into the break room during lunch and took a twenty-minute cat nap on the sofa. When she woke up, she felt surprisingly refreshed and powered through the rest of the afternoon.",
+    "topicTag": "work fatigue",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Daniel had been driving for six hours straight on the highway, and the afternoon sun was making his eyelids dangerously heavy. He spotted a rest area sign and decided to pull over before he became a hazard on the road. He reclined his seat, set a fifteen-minute alarm on his phone, and drifted off into a cat nap with the windows cracked open. The gentle breeze and distant hum of passing trucks formed a strange lullaby. When the alarm buzzed, he stretched his arms and blinked a few times. That short cat nap was all he needed — the remaining three hours of driving felt effortless.",
+    "topicTag": "road trip",
+    "moodTag": "refreshed"
+  },
+  "meaning": {
+    "literalMeaningKo": "고양이처럼 짧게 자는 낮잠을 뜻합니다.",
+    "realUsageKo": "짧은 시간 동안 가볍게 자는 낮잠을 가리킬 때 사용합니다. 보통 15~30분 정도의 토막 잠을 뜻하며, 일상 대화에서 편하게 쓰입니다.",
+    "etymologyKo": "고양이가 하루 종일 짧게 자고 깨기를 반복하는 습성에서 유래한 표현입니다. 18세기경부터 영어에서 사용되기 시작했습니다.",
+    "nuanceKo": "가벼운 구어체 표현으로, 격식 없는 일상 대화에서 주로 쓰입니다. 부정적인 뉘앙스 없이 누구나 편하게 사용할 수 있습니다.",
+    "shortExampleEn": "I'm going to take a cat nap before the meeting starts.",
+    "shortExampleKo": "회의 시작 전에 짧은 낮잠을 잘 거예요."
+  }
+}

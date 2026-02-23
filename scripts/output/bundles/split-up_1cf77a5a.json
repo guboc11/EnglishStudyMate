@@ -1,0 +1,30 @@
+{
+  "id": "split-up_1cf77a5a",
+  "expression": "split up",
+  "selectionMeta": {
+    "selectedPhrase": "split up",
+    "selectedSenseLabelKo": "헤어지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After five years together, they decided to split up and go their separate ways."
+  },
+  "step2": {
+    "story": "Jake and Emma had been dating since college, but lately they argued about everything. One rainy evening, they sat across from each other at their favorite café and agreed it was time to split up. They hugged one last time and walked in opposite directions.",
+    "topicTag": "relationships",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "For months, Mia had been pretending everything was fine, smiling through dinners and nodding along to plans she no longer believed in. But the silence between her and Daniel had grown louder than any conversation they used to have. One Sunday morning, while the coffee was still brewing, she finally said the words she had been rehearsing in her head: she wanted to split up. Daniel stared at the table for a long time before whispering that he had felt the same way. They spent the rest of the day dividing books and memories, careful not to break what was already broken. It hurt, but for the first time in months, the air felt lighter.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'split'(나누다)과 'up'이 합쳐져, 말 그대로 하나였던 것을 둘로 나누어 떨어지는 것을 의미합니다.",
+    "realUsageKo": "연인이나 부부가 관계를 끝내고 헤어질 때 가장 흔히 쓰입니다. 밴드 해체나 그룹이 나뉘는 상황에도 사용됩니다.",
+    "etymologyKo": "'split'은 중세 네덜란드어 'splitten'(쪼개다)에서 유래했으며, 'up'이 붙어 완전한 분리를 강조하는 구동사가 되었습니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 'break up'과 비슷하지만 좀 더 담담하고 상호 합의의 뉘앙스가 있습니다. 감정적 무게가 약간 덜한 편입니다.",
+    "shortExampleEn": "My parents split up when I was ten.",
+    "shortExampleKo": "부모님은 내가 열 살 때 헤어지셨다."
+  }
+}

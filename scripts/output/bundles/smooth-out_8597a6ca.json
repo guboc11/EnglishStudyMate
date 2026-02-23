@@ -1,0 +1,30 @@
+{
+  "id": "smooth-out_8597a6ca",
+  "expression": "smooth out",
+  "selectionMeta": {
+    "selectedPhrase": "smooth out",
+    "selectedSenseLabelKo": "해결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to smooth out a few issues before the product launch next week."
+  },
+  "step2": {
+    "story": "The merger between the two companies hit several roadblocks in the first month. The new director spent weeks meeting with both teams to smooth out the differences in work culture. By the end of the quarter, collaboration had improved dramatically.",
+    "topicTag": "corporate culture",
+    "moodTag": "diplomatic"
+  },
+  "step3": {
+    "story": "Jenna had been planning her best friend's wedding for months, but three days before the ceremony, everything started falling apart. The florist called to say the roses hadn't arrived, and the venue double-booked the reception hall. Instead of panicking, Jenna took a deep breath and began making calls. She managed to smooth out the scheduling conflict with the venue manager by offering to shift the start time by one hour. Then she found a local garden shop willing to provide fresh arrangements overnight. By the morning of the wedding, every wrinkle had been ironed out, and no one ever knew how close things had come to disaster.",
+    "topicTag": "event planning",
+    "moodTag": "resourceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "표면을 매끄럽게 펴다, 주름이나 울퉁불퉁한 부분을 없애다.",
+    "realUsageKo": "문제, 갈등, 어려움 등을 해결하거나 완화할 때 사용합니다. 큰 충돌보다는 작은 마찰이나 불일치를 조정하는 느낌으로 쓰입니다.",
+    "etymologyKo": "smooth(매끄러운)와 out(밖으로, 완전히)의 결합으로, 울퉁불퉁한 것을 펴서 평평하게 만든다는 물리적 이미지에서 비유적으로 '문제를 해결하다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "격렬한 해결이 아닌 부드럽고 외교적인 조정의 뉘앙스를 가집니다. 주로 사소하지만 신경 쓰이는 문제나 의견 차이를 다듬을 때 적합합니다.",
+    "shortExampleEn": "Let's smooth out the details before we sign the contract.",
+    "shortExampleKo": "계약서에 서명하기 전에 세부 사항을 정리합시다."
+  }
+}

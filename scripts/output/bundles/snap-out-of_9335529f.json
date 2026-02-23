@@ -1,0 +1,30 @@
+{
+  "id": "snap-out-of_9335529f",
+  "expression": "snap out of",
+  "selectionMeta": {
+    "selectedPhrase": "snap out of",
+    "selectedSenseLabelKo": "~에서 벗어나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She needed to snap out of her negative thinking before it ruined the entire weekend."
+  },
+  "step2": {
+    "story": "For weeks after the breakup, Jake barely left his apartment. One morning his best friend showed up unannounced, dragged him outside, and said, \"You need to snap out of this funk — life's still happening.\" That cold morning air hit his face, and for the first time in days, he felt something shift.",
+    "topicTag": "emotional recovery",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mina had been staring at the same blank document for three hours. The deadline was tomorrow, but her mind was stuck replaying every mistake from last month's failed presentation. Her colleague Jess noticed and quietly placed a coffee on her desk. \"Hey, I know that look,\" Jess said gently. \"You're spiraling. You've got to snap out of it and trust yourself again.\" Mina took a deep breath, wrapped her hands around the warm cup, and finally started typing. Sometimes all it takes is one person believing in you to break the spell.",
+    "topicTag": "work stress",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "'딱 하고 끊어서 ~로부터 나오다'라는 뜻으로, 어떤 상태에서 갑자기 빠져나오는 이미지입니다.",
+    "realUsageKo": "부정적인 감정, 나쁜 기분, 멍한 상태 등에서 정신을 차리고 벗어나라고 할 때 사용합니다. 주로 'snap out of it'의 형태로 많이 쓰이며, 스스로 또는 타인에게 '정신 차려!'라고 격려하거나 촉구할 때 씁니다.",
+    "etymologyKo": "'snap'은 무언가를 '딱' 부러뜨리거나 끊는 소리에서 유래했습니다. 마치 최면이나 몽롱한 상태에서 손가락을 딱 튕기면 깨어나는 것처럼, 어떤 상태를 순간적으로 끊고 나온다는 뜻으로 발전했습니다.",
+    "nuanceKo": "다소 직접적이고 강한 어조로, 친한 사이에서 격려할 때 자주 씁니다. 격식 있는 자리에서는 부적절할 수 있으며, 공감 없이 쓰면 무례하게 들릴 수도 있습니다.",
+    "shortExampleEn": "Come on, snap out of it — we have a game to win!",
+    "shortExampleKo": "정신 차려 — 우리 이길 경기가 있잖아!"
+  }
+}

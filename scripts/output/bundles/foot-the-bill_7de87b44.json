@@ -1,0 +1,30 @@
+{
+  "id": "foot-the-bill_7de87b44",
+  "expression": "foot the bill",
+  "selectionMeta": {
+    "selectedPhrase": "foot the bill",
+    "selectedSenseLabelKo": "비용을 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Since it was his idea to throw the surprise party, Jake agreed to foot the bill for everything."
+  },
+  "step2": {
+    "story": "The team had just closed the biggest deal of the quarter, and their manager wanted to celebrate. He took everyone to a fancy steakhouse downtown and insisted on footing the bill. Nobody argued — after all, the bonus checks were coming soon.",
+    "topicTag": "team celebration",
+    "moodTag": "generous"
+  },
+  "step3": {
+    "story": "When Elena's father turned seventy, she wanted to give him something unforgettable. She booked a lakeside restaurant, invited forty guests, and arranged live jazz music for the evening. Her siblings offered to split the cost, but Elena shook her head — she wanted to foot the bill herself as a way of thanking him for decades of sacrifice. The dinner lasted well past midnight, filled with laughter, old stories, and a few happy tears. As her father hugged her goodbye, he whispered that it was the best night of his life. Elena smiled, knowing every penny had been worth it.",
+    "topicTag": "family gratitude",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '청구서에 발을 올리다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '비용을 전액 부담하다', '돈을 내다'라는 의미로 사용됩니다. 특히 큰 금액이나 여러 사람 몫의 비용을 한 사람이 책임질 때 자주 쓰입니다.",
+    "etymologyKo": "'foot'이 동사로 '합산하다(to add up)'라는 뜻으로 쓰인 데서 유래했습니다. 18세기경 청구서 하단(foot)에 총액을 적던 관행에서 비롯된 표현입니다.",
+    "nuanceKo": "단순히 '돈을 내다'보다는 상당한 금액을 자발적으로 또는 책임감에서 부담한다는 뉘앙스가 있습니다. 격식체와 일상 대화 모두에서 사용됩니다.",
+    "shortExampleEn": "Don't worry about dinner — I'll foot the bill tonight.",
+    "shortExampleKo": "저녁 걱정 마세요 — 오늘은 제가 낼게요."
+  }
+}

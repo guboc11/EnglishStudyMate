@@ -1,0 +1,30 @@
+{
+  "id": "hold-a-grudge_b164426a",
+  "expression": "hold a grudge",
+  "selectionMeta": {
+    "selectedPhrase": "hold a grudge",
+    "selectedSenseLabelKo": "원망을 품다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She still holds a grudge against her former business partner for breaking their agreement."
+  },
+  "step2": {
+    "story": "After the promotion went to someone less qualified, Marcus couldn't help but hold a grudge against his manager. He replayed the unfair decision in his mind for weeks, letting bitterness cloud every interaction at work. It wasn't until a friend pointed out how much energy he was wasting that he decided to let it go.",
+    "topicTag": "workplace conflict",
+    "moodTag": "bitter"
+  },
+  "step3": {
+    "story": "Growing up, Elena and her cousin Sofia were inseparable — they shared secrets, dreams, and even clothes. But when Sofia spread a deeply personal secret at a family gathering, Elena felt utterly betrayed. For years, she held a grudge so tightly that she avoided every holiday dinner and birthday party where Sofia might appear. Her mother often begged her to forgive, saying life was too short for resentment. One rainy afternoon, Sofia showed up at Elena's door with tears in her eyes, apologizing for the pain she had caused. Elena realized that holding onto anger had only punished herself, and she finally opened the door — both literally and figuratively.",
+    "topicTag": "family relationships",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'grudge(원한)'를 'hold(붙잡고 있다)'하는 것으로, 누군가에 대한 분노나 원망을 계속 간직한다는 뜻입니다.",
+    "realUsageKo": "과거에 자신에게 잘못한 사람을 오랫동안 용서하지 못하고 원망하는 상태를 표현할 때 씁니다. 'hold a grudge against someone' 형태로 특정 대상을 지정하여 자주 사용합니다.",
+    "etymologyKo": "'grudge'는 중세 영어 'grucchen(불평하다)'에서 유래했으며, 오랜 불만이나 원한을 의미합니다. 'hold'와 결합하여 그 감정을 놓지 않고 붙잡고 있다는 이미지를 형성합니다.",
+    "nuanceKo": "부정적인 뉘앙스로 쓰이며, 이 표현을 쓰는 화자는 보통 원한을 품는 행위가 건강하지 못하거나 비생산적이라는 시각을 내포하는 경우가 많습니다. 'Don't hold a grudge'처럼 충고할 때도 자주 쓰입니다.",
+    "shortExampleEn": "Life's too short to hold a grudge — just forgive and move on.",
+    "shortExampleKo": "인생은 원한을 품기엔 너무 짧아 — 그냥 용서하고 앞으로 나아가."
+  }
+}

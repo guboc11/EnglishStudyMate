@@ -1,0 +1,30 @@
+{
+  "id": "tackle-a-problem_4add2302",
+  "expression": "tackle a problem",
+  "selectionMeta": {
+    "selectedPhrase": "tackle a problem",
+    "selectedSenseLabelKo": "문제에 맞서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of avoiding the issue, she decided to tackle the problem head-on before it got any worse."
+  },
+  "step2": {
+    "story": "The team gathered in the conference room, staring at the whiteboard full of red marks. Their product launch was in two weeks, but a critical bug kept crashing the app. Rather than panicking, the lead engineer rolled up her sleeves and said, \"Let's tackle this problem together — one module at a time.\"",
+    "topicTag": "teamwork",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Minho had been putting off his thesis for months. Every time he opened his laptop, the sheer amount of research felt overwhelming. One rainy Sunday morning, he made himself a strong cup of coffee and finally sat down at his desk. He decided to tackle the problem by breaking it into smaller, manageable sections. He started with just the introduction — no pressure to finish everything at once. By evening, he had written three full pages, and for the first time in weeks, he felt a genuine sense of progress.",
+    "topicTag": "academic pressure",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'tackle'은 원래 럭비에서 상대를 잡아 쓰러뜨리는 동작을 뜻하며, 'tackle a problem'은 문제를 정면으로 붙잡고 해결하려 한다는 의미입니다.",
+    "realUsageKo": "어렵거나 복잡한 문제를 회피하지 않고 적극적으로 맞서서 해결하려 할 때 사용합니다. 단순히 '풀다'보다 더 적극적이고 결단력 있는 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "'tackle'은 중세 저지 독일어 'takel(밧줄, 도르래 장치)'에서 유래했으며, 이후 럭비의 태클 동작을 거쳐 '문제에 정면으로 달려들다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "일상 대화와 비즈니스 모두에서 자주 쓰이며, 문제를 피하지 않고 용기 있게 맞선다는 긍정적이고 능동적인 톤을 전달합니다.",
+    "shortExampleEn": "We need to tackle this problem before the deadline.",
+    "shortExampleKo": "마감 전에 이 문제에 맞서서 해결해야 합니다."
+  }
+}

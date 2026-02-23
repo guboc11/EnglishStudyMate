@@ -1,0 +1,30 @@
+{
+  "id": "consider-options_c0e4956f",
+  "expression": "consider options",
+  "selectionMeta": {
+    "selectedPhrase": "consider options",
+    "selectedSenseLabelKo": "선택지를 고려하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making a final decision, let's consider our options carefully."
+  },
+  "step2": {
+    "story": "Maya stared at three job offers spread across her kitchen table. She needed to consider her options before the deadlines closed in. Each one promised something different — stability, adventure, or growth.",
+    "topicTag": "career decisions",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "Daniel had been running his small bakery for five years, but rising rent was squeezing his margins thin. His landlord offered a renewal at a steep increase, and a friend suggested relocating to a cheaper neighborhood across town. Meanwhile, an investor had reached out about turning the bakery into a franchise. Daniel sat down one evening with a notebook and forced himself to consider his options honestly. Each path carried risk, but staying paralyzed wasn't an option either. By midnight, he had a shortlist and the beginning of a plan.",
+    "topicTag": "small business challenges",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'선택지를 고려하다'라는 뜻으로, 가능한 여러 대안을 살펴본다는 의미입니다.",
+    "realUsageKo": "중요한 결정을 내리기 전에 가능한 선택지들을 하나씩 따져보는 상황에서 자주 사용됩니다. 비즈니스 회의, 개인적인 고민, 전략 수립 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "consider는 라틴어 'considerare(별을 관찰하다)'에서 유래했으며, options는 라틴어 'optio(선택)'에서 왔습니다. 별을 보며 신중히 판단한다는 원래 뉘앙스가 남아 있습니다.",
+    "nuanceKo": "단순히 '생각하다'보다 더 신중하고 체계적인 느낌을 줍니다. 급하게 결정하지 않고 여러 가능성을 열어두고 비교한다는 뉘앙스가 있어, 성숙하고 합리적인 태도를 나타냅니다.",
+    "shortExampleEn": "We need to consider all available options before committing to a plan.",
+    "shortExampleKo": "계획을 확정하기 전에 가능한 모든 선택지를 고려해야 합니다."
+  }
+}

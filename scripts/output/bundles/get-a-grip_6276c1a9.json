@@ -1,0 +1,30 @@
+{
+  "id": "get-a-grip_6276c1a9",
+  "expression": "get a grip",
+  "selectionMeta": {
+    "selectedPhrase": "get a grip",
+    "selectedSenseLabelKo": "정신을 차리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You need to get a grip and stop worrying about things you can't control."
+  },
+  "step2": {
+    "story": "Maya's hands were shaking before her first live presentation. Her colleague whispered, \"Get a grip — you've practiced this a hundred times.\" She took a deep breath and walked onto the stage with confidence.",
+    "topicTag": "public speaking",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Jason had been spiraling for days after receiving the rejection email from his dream company. He stopped eating properly, skipped his morning runs, and spent hours refreshing his inbox hoping for a different answer. One evening, his older sister sat him down at the kitchen table. \"Look, I know it hurts, but you need to get a grip,\" she said firmly. \"Falling apart won't change the outcome — sending out more applications will.\" Her blunt honesty stung at first, but by the next morning, Jason had updated his resume and applied to three new positions.",
+    "topicTag": "career setback",
+    "moodTag": "tough love"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '무언가를 꽉 잡다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 감정이나 상황에 휘둘리지 말고 침착하게 자기 자신을 추스르라는 의미로 사용됩니다. 흥분하거나 불안해하는 사람에게 '정신 차려'라고 말할 때 쓰입니다.",
+    "etymologyKo": "원래 물리적으로 무언가를 '꽉 쥐다(grip)'에서 유래했으며, 감정의 고삐를 잡는다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "다소 직설적이고 단호한 어감이 있어, 친한 사이에서 쓰거나 스스로에게 다짐할 때 자주 사용합니다. 격식 있는 자리에서는 무례하게 들릴 수 있습니다.",
+    "shortExampleEn": "I told myself to get a grip before the job interview.",
+    "shortExampleKo": "면접 전에 정신 차리라고 스스로에게 다짐했다."
+  }
+}

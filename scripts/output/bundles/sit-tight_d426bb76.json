@@ -1,0 +1,30 @@
+{
+  "id": "sit-tight_d426bb76",
+  "expression": "sit tight",
+  "selectionMeta": {
+    "selectedPhrase": "sit tight",
+    "selectedSenseLabelKo": "기다리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The lawyer told us to sit tight while she reviewed the contract details."
+  },
+  "step2": {
+    "story": "The flight was delayed for three hours, and passengers were growing restless. The captain came on the intercom and asked everyone to sit tight, promising an update within thirty minutes. Most people grabbed coffee and tried to stay calm.",
+    "topicTag": "travel delay",
+    "moodTag": "patient"
+  },
+  "step3": {
+    "story": "Maya had applied for her dream job at a design studio downtown and the interview had gone well. But two weeks passed with no response, and she was starting to panic. Her best friend told her to sit tight and not send another follow-up email just yet. That evening, Maya distracted herself by reorganizing her portfolio. The very next morning, her phone rang with an offer. Sometimes the hardest part of waiting is trusting that things are already in motion.",
+    "topicTag": "job search",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '꼼짝 않고 앉아 있다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '조급해하지 말고 가만히 기다리다'라는 의미로 사용됩니다. 상황이 해결될 때까지 참고 기다리라는 조언이나 지시를 할 때 자주 쓰입니다.",
+    "etymologyKo": "16세기경부터 사용된 표현으로, 말 위에 단단히 앉아 있는 기수의 이미지에서 유래했다고 알려져 있습니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 주로 사용되며, '걱정하지 말고 기다려'라는 안심시키는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Just sit tight — the results will be posted by Friday.",
+    "shortExampleKo": "조금만 기다려 — 결과는 금요일까지 올라올 거야."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "time-flies_6dfb8ed7",
+  "expression": "time flies",
+  "selectionMeta": {
+    "selectedPhrase": "time flies",
+    "selectedSenseLabelKo": "시간이 빠르게 지나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I can't believe it's already Friday — time flies when you're having fun."
+  },
+  "step2": {
+    "story": "Maya started her new job just three months ago, but it already feels like she's been there for years. She looked at the calendar and whispered, \"Time really flies.\" Her coworker smiled and said the same thing happens every quarter.",
+    "topicTag": "work life",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Jiwon first arrived in London for her exchange program, everything felt strange and overwhelming. She struggled with the accent, got lost on the Tube, and missed her family terribly. But slowly she made friends, discovered her favorite café near campus, and started dreaming in English. Before she knew it, her host mother was helping her pack for the flight home. \"Time flies,\" Jiwon said, tears welling up in her eyes. She realized that the hardest year of her life had also been the most meaningful.",
+    "topicTag": "study abroad",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간이 날아간다는 뜻으로, 시간이 매우 빠르게 지나감을 표현합니다.",
+    "realUsageKo": "즐거운 시간이나 바쁜 시간이 예상보다 훨씬 빨리 지나갔을 때 사용합니다. 'Time flies when you're having fun'처럼 관용구로도 자주 쓰입니다.",
+    "etymologyKo": "라틴어 'tempus fugit(시간은 달아난다)'에서 유래한 표현으로, 고대 로마 시인 베르길리우스의 시에서 처음 등장했습니다.",
+    "nuanceKo": "대체로 긍정적이거나 중립적인 뉘앙스로, 좋은 시간이 빨리 지나간 것에 대한 아쉬움이나 놀라움을 담고 있습니다. 격식/비격식 상관없이 널리 쓰입니다.",
+    "shortExampleEn": "It's been ten years since we graduated — time flies!",
+    "shortExampleKo": "졸업한 지 벌써 10년이라니 — 시간 정말 빠르다!"
+  }
+}

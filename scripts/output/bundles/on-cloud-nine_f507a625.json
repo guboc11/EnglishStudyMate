@@ -1,0 +1,30 @@
+{
+  "id": "on-cloud-nine_f507a625",
+  "expression": "on cloud nine",
+  "selectionMeta": {
+    "selectedPhrase": "on cloud nine",
+    "selectedSenseLabelKo": "매우 행복한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After getting accepted into her dream university, she was on cloud nine for the entire week."
+  },
+  "step2": {
+    "story": "Jake had been waiting months for the job offer, and when the email finally arrived, he was on cloud nine. He called his parents immediately, barely able to contain his excitement. That evening, he treated himself to his favorite restaurant to celebrate.",
+    "topicTag": "career success",
+    "moodTag": "euphoric"
+  },
+  "step3": {
+    "story": "Mia had spent two years training for the national piano competition, sacrificing weekends and social events to perfect her performance. When they announced her name as the winner, she stood frozen on stage, unable to believe it. Backstage, tears of joy streamed down her face as her teacher hugged her tightly. She was absolutely on cloud nine, feeling like every late night of practice had been worth it. Her family rushed over with flowers and a homemade banner that read 'We always believed in you.' It was a moment she knew she would carry in her heart forever.",
+    "topicTag": "achievement",
+    "moodTag": "joyful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'아홉 번째 구름 위에 있다'라는 뜻으로, 하늘 높이 떠 있는 듯한 느낌을 표현합니다.",
+    "realUsageKo": "매우 기쁘고 행복한 상태를 나타낼 때 사용합니다. 승진, 합격, 연애 시작 등 큰 기쁨을 느끼는 상황에서 자주 쓰입니다.",
+    "etymologyKo": "미국 기상청이 구름을 분류할 때 가장 높은 구름(적란운)을 'Cloud 9'으로 지정한 데서 유래했다는 설이 있으며, 1950년대 라디오 프로그램에서 대중화되었습니다.",
+    "nuanceKo": "일상 대화에서 친근하게 사용되는 표현으로, 격식체보다는 캐주얼한 상황에 어울립니다. 긍정적이고 밝은 뉘앙스를 가지고 있습니다.",
+    "shortExampleEn": "I've been on cloud nine ever since she said yes to my proposal.",
+    "shortExampleKo": "그녀가 내 프러포즈에 승낙한 이후로 나는 날아갈 듯이 행복해요."
+  }
+}

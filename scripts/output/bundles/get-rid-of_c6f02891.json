@@ -1,0 +1,30 @@
+{
+  "id": "get-rid-of_c6f02891",
+  "expression": "get rid of",
+  "selectionMeta": {
+    "selectedPhrase": "get rid of",
+    "selectedSenseLabelKo": "없애다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I really need to get rid of all these old magazines that have been piling up in the garage."
+  },
+  "step2": {
+    "story": "Mia stared at her cluttered desk and decided it was time to get rid of everything she no longer needed. She tossed out stacks of old receipts, broken pens, and sticky notes from last year. By the afternoon, her workspace felt clean and her mind felt lighter.",
+    "topicTag": "decluttering",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "Jason had been putting off cleaning his apartment for months, but when his parents announced a surprise visit, he knew he had to act fast. He started in the kitchen, tossing expired cans and half-empty sauce bottles into a trash bag. Then he moved to the living room, determined to get rid of the pile of broken electronics he had been hoarding since college. His roommate watched in disbelief as Jason filled bag after bag without hesitation. By evening, the apartment looked like a completely different place. Jason stood in the doorway, exhausted but proud, wondering why he hadn't done this sooner.",
+    "topicTag": "home life",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "'rid'는 '제거된 상태'를 뜻하며, get rid of는 말 그대로 '제거된 상태를 얻다', 즉 무언가를 치우거나 없앤다는 의미입니다.",
+    "realUsageKo": "물건을 버리거나, 나쁜 습관을 고치거나, 원치 않는 것을 제거할 때 폭넓게 사용합니다. '~을 없애다/처분하다/제거하다'로 번역됩니다.",
+    "etymologyKo": "'rid'는 고대 노르드어 'rydhja(비우다, 치우다)'에서 유래했습니다. 15세기부터 'get rid of' 형태로 '~을 면하다, 벗어나다'는 뜻으로 쓰이기 시작했습니다.",
+    "nuanceKo": "단순히 '버리다'보다 넓은 의미로, 물리적 물건뿐 아니라 감정, 습관, 사람 관계 등 추상적인 대상에도 자연스럽게 씁니다. 일상 대화에서 매우 자주 쓰이는 표현입니다.",
+    "shortExampleEn": "We need to get rid of these bugs before the product launch.",
+    "shortExampleKo": "제품 출시 전에 이 버그들을 없애야 해요."
+  }
+}

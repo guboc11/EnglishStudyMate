@@ -1,0 +1,30 @@
+{
+  "id": "take-the-bull-by-the-horns_d3c55e7f",
+  "expression": "take the bull by the horns",
+  "selectionMeta": {
+    "selectedPhrase": "take the bull by the horns",
+    "selectedSenseLabelKo": "어려움에 정면으로 맞서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of avoiding the issue, she finally decided to take the bull by the horns and confront her manager about the unfair workload."
+  },
+  "step2": {
+    "story": "Jason had been losing sleep over the mounting debt for weeks, but he kept pushing the problem aside. One morning, he took the bull by the horns and called every creditor to negotiate a payment plan. By the end of the day, he felt a weight lift off his shoulders.",
+    "topicTag": "financial stress",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mia stared at the resignation letter she had drafted three times and deleted three times. Her toxic team leader had been undermining her work for over a year, and everyone in the department knew it. One day, instead of sending the letter, she took the bull by the horns and requested a private meeting with the company director. She laid out every incident with calm precision, backed by emails and timestamps. The director listened carefully and launched an internal review the following week. Sometimes the bravest thing you can do is speak up instead of walking away.",
+    "topicTag": "workplace conflict",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "황소의 뿔을 잡다라는 뜻으로, 위험하고 힘든 상황을 직접 손으로 붙잡는다는 의미입니다.",
+    "realUsageKo": "어렵거나 불쾌한 상황을 더 이상 회피하지 않고 용기를 내어 정면으로 맞서 해결한다는 뜻으로 사용됩니다. 주로 오래 미뤄왔던 문제를 드디어 직접 처리할 때 씁니다.",
+    "etymologyKo": "스페인 투우에서 유래한 표현으로, 투우사가 달려오는 황소의 뿔을 직접 잡아 제압하는 모습에서 비롯되었습니다.",
+    "nuanceKo": "긍정적이고 용기 있는 뉘앙스를 가진 표현입니다. 누군가를 칭찬하거나 스스로를 다독일 때 자주 사용되며, 격식/비격식 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "It's time to take the bull by the horns and ask for that promotion.",
+    "shortExampleKo": "이제 용기를 내서 승진을 요청할 때입니다."
+  }
+}

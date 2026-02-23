@@ -1,0 +1,30 @@
+{
+  "id": "sink-in_3a038152",
+  "expression": "sink in",
+  "selectionMeta": {
+    "selectedPhrase": "sink in",
+    "selectedSenseLabelKo": "실감이 나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took a few days for the news of her promotion to really sink in."
+  },
+  "step2": {
+    "story": "Maria stared at the acceptance letter from Harvard, reading it over and over. The words were right there in front of her, but the reality hadn't sunk in yet. It wasn't until her mother burst into tears of joy that it finally began to sink in — she was actually going.",
+    "topicTag": "life-changing news",
+    "moodTag": "awestruck"
+  },
+  "step3": {
+    "story": "James sat alone on the bench outside the hospital, watching the sun set over the parking lot. The doctor had told him an hour ago that the surgery was a complete success and his father would make a full recovery. He had nodded and thanked the surgeon, but the relief hadn't sunk in yet. His hands were still shaking, and his mind kept replaying the worst-case scenarios he had been imagining all day. Then his phone buzzed — a photo from his sister, showing their dad sitting up in bed with a thumbs up and a goofy grin. That was the moment it truly sank in, and James finally let himself cry.",
+    "topicTag": "family health",
+    "moodTag": "overwhelming relief"
+  },
+  "meaning": {
+    "literalMeaningKo": "물속으로 가라앉듯이 어떤 사실이나 감정이 마음 깊이 스며든다는 뜻입니다.",
+    "realUsageKo": "어떤 소식이나 사실을 들었지만 바로 실감이 나지 않다가 시간이 지나서야 비로소 '아, 진짜구나'하고 느껴질 때 사용합니다. 주로 충격적이거나 중대한 소식에 대해 쓰입니다.",
+    "etymologyKo": "물체가 물속으로 서서히 가라앉는(sink) 이미지에서 유래했습니다. 정보나 감정이 표면에서 마음 깊은 곳으로 천천히 내려가는 과정을 비유한 표현입니다.",
+    "nuanceKo": "단순히 '이해하다'보다 감정적 체감에 가깝습니다. 머리로는 알지만 가슴으로 느끼기까지 시간이 걸리는 상황에서 주로 쓰이며, 약간의 시간 지연 뉘앙스가 있습니다.",
+    "shortExampleEn": "I passed the exam, but it still hasn't sunk in.",
+    "shortExampleKo": "시험에 합격했는데, 아직 실감이 안 나요."
+  }
+}

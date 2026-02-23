@@ -1,0 +1,30 @@
+{
+  "id": "apply-for-a-job_0039a127",
+  "expression": "apply for a job",
+  "selectionMeta": {
+    "selectedPhrase": "apply for a job",
+    "selectedSenseLabelKo": "일자리에 지원하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After graduating from university, she decided to apply for a job at a marketing firm downtown."
+  },
+  "step2": {
+    "story": "Kevin had been freelancing for two years, but the unstable income was wearing him down. He finally decided to apply for a job at a tech startup his friend recommended. Within a week, he got a call for an interview.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mina stared at her laptop screen, scrolling through dozens of job listings late into the night. She had been laid off three months ago, and her savings were running thin. Tomorrow morning, she planned to apply for a job at a consulting firm that matched her experience perfectly. She spent hours polishing her resume and writing a heartfelt cover letter. When she finally clicked the submit button, a wave of relief washed over her. Whatever happened next, at least she had taken the first step forward.",
+    "topicTag": "job searching",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '일자리를 위해 지원하다'라는 뜻입니다.",
+    "realUsageKo": "취업을 위해 이력서를 제출하고 공식적으로 지원하는 행위를 말합니다. 구직 과정에서 가장 기본적이고 널리 쓰이는 표현입니다.",
+    "etymologyKo": "'apply'는 라틴어 'applicare(붙이다, 연결하다)'에서 유래했으며, 'for'와 함께 쓰여 '~을 위해 신청하다'라는 의미로 발전했습니다.",
+    "nuanceKo": "격식과 비격식 모두에서 자연스럽게 사용됩니다. 단순히 관심을 보이는 것이 아니라, 서류를 제출하는 등 구체적인 행동을 취한다는 뉘앙스가 있습니다.",
+    "shortExampleEn": "I'm planning to apply for a job at Google next month.",
+    "shortExampleKo": "다음 달에 구글에 입사 지원할 계획이에요."
+  }
+}

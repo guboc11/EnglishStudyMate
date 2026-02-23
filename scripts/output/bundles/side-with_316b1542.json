@@ -1,0 +1,30 @@
+{
+  "id": "side-with_316b1542",
+  "expression": "side with",
+  "selectionMeta": {
+    "selectedPhrase": "side with",
+    "selectedSenseLabelKo": "편을 들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I didn't want to side with either of them during the argument, but my silence made things worse."
+  },
+  "step2": {
+    "story": "When two of his closest friends got into a heated dispute over the project direction, Marco felt torn. He knew that if he sided with one, the other would feel betrayed. In the end, he chose to present a compromise instead of picking a side.",
+    "topicTag": "friendship conflict",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "The company was divided. Half the team wanted to launch the product early, while the other half insisted on more testing. During the meeting, everyone looked at Jina, the lead designer, expecting her to break the tie. She had always sided with the engineering team in the past, so most assumed she would again. But this time, she surprised everyone by siding with the marketing team, arguing that the window of opportunity was closing fast. Her unexpected stance shifted the entire debate and forced both sides to find a middle ground.",
+    "topicTag": "workplace decision",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'side with'는 직역하면 '~의 옆에 서다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 논쟁이나 갈등 상황에서 한쪽의 편을 들거나 지지한다는 의미로 사용됩니다. '나는 그 문제에서 네 편을 들겠어'처럼 쓰입니다.",
+    "etymologyKo": "'side'는 고대 영어 'sīde'에서 온 단어로 '측면, 편'을 의미하며, 'with'와 결합하여 '~와 같은 편에 서다'라는 구동사가 되었습니다.",
+    "nuanceKo": "중립적인 표현이지만, 갈등 상황에서 사용되므로 한쪽을 선택한다는 뉘앙스가 강합니다. 'support'보다 더 명확하게 '편 가르기'의 느낌이 있습니다.",
+    "shortExampleEn": "She always sides with her younger brother whenever they argue.",
+    "shortExampleKo": "그녀는 그들이 다툴 때마다 항상 남동생 편을 든다."
+  }
+}

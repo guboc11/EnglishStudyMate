@@ -1,0 +1,30 @@
+{
+  "id": "a-can-of-worms_21e26e77",
+  "expression": "a can of worms",
+  "selectionMeta": {
+    "selectedPhrase": "a can of worms",
+    "selectedSenseLabelKo": "복잡한 골칫거리",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Bringing up the budget issue at the meeting opened a real can of worms that nobody was prepared to deal with."
+  },
+  "step2": {
+    "story": "During the team retrospective, Jake casually asked why the client deadline had been moved up. His manager sighed deeply — that question was a can of worms involving miscommunication between three departments. They spent the rest of the afternoon untangling the mess.",
+    "topicTag": "workplace conflict",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Mina had always wondered why her company never discussed the old partnership with Greenfield Corp. One evening, she found a dusty folder in the archive room and decided to dig into it. What she uncovered was a can of worms — years of unpaid invoices, broken promises, and quiet legal threats that both sides had swept under the rug. Her boss turned pale when she brought it up. He explained that some problems are left buried for a reason. But Mina felt that ignoring the issue had only made things worse over time.",
+    "topicTag": "corporate secrets",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '벌레가 든 캔'이라는 뜻입니다.",
+    "realUsageKo": "한번 건드리면 복잡하고 다루기 어려운 문제들이 쏟아져 나오는 상황을 비유적으로 표현할 때 씁니다. 주로 'open a can of worms'(골칫거리를 건드리다) 형태로 사용됩니다.",
+    "etymologyKo": "낚시 미끼용 벌레를 캔에 담아 팔던 미국 문화에서 유래했습니다. 캔을 열면 벌레들이 사방으로 기어 나가 다시 담기 어려운 모습에서 비롯된 표현입니다.",
+    "nuanceKo": "부정적인 뉘앙스로, 건드리지 않는 편이 나았을 복잡한 문제를 언급할 때 주로 사용합니다. 경고나 후회의 느낌이 담겨 있습니다.",
+    "shortExampleEn": "Don't ask about the inheritance — it's a real can of worms.",
+    "shortExampleKo": "유산 문제는 묻지 마 — 정말 복잡한 골칫거리야."
+  }
+}

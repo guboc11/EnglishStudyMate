@@ -1,0 +1,30 @@
+{
+  "id": "know-by-heart_159c5722",
+  "expression": "know by heart",
+  "selectionMeta": {
+    "selectedPhrase": "know by heart",
+    "selectedSenseLabelKo": "외우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After practicing the piano piece every day for a month, she finally knew it by heart."
+  },
+  "step2": {
+    "story": "Tom had his job interview speech written on index cards, but his coach told him to know it by heart instead. He practiced in front of the mirror fifty times until the words flowed naturally. When the big day came, he spoke with confidence and landed the position.",
+    "topicTag": "job interview",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya's grandmother used to read her the same bedtime story every night when she was little. By the time Maya turned six, she knew the entire book by heart and would correct her grandmother whenever she skipped a line. Years later, when her grandmother passed away, Maya found the worn-out storybook tucked in a drawer. She sat down and recited every word from memory, tears rolling down her cheeks. It wasn't just a story she had memorized — it was a piece of her grandmother's love she would carry forever. That night, she read it aloud to her own daughter for the first time.",
+    "topicTag": "family memories",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "마음(심장)으로 알다 — 즉, 머리가 아닌 가슴 깊이 새겨서 알고 있다는 뜻입니다.",
+    "realUsageKo": "무언가를 완전히 외워서 보지 않고도 말하거나 할 수 있을 때 사용합니다. 시, 노래 가사, 전화번호, 대사 등을 암기했을 때 자주 쓰입니다.",
+    "etymologyKo": "고대 그리스인들은 심장이 기억과 지성의 중심이라고 믿었습니다. 이 관념이 영어에 전해져 'by heart'가 '암기하여'라는 의미로 굳어졌습니다.",
+    "nuanceKo": "단순 암기를 넘어 충분히 반복해서 자연스럽게 체득했다는 뉘앙스가 있습니다. 긍정적이고 자랑스러운 느낌으로 많이 쓰입니다.",
+    "shortExampleEn": "I know all the lyrics to that song by heart.",
+    "shortExampleKo": "나는 그 노래 가사를 전부 외우고 있어."
+  }
+}

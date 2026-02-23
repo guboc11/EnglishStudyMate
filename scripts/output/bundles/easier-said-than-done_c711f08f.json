@@ -1,0 +1,30 @@
+{
+  "id": "easier-said-than-done_c711f08f",
+  "expression": "easier said than done",
+  "selectionMeta": {
+    "selectedPhrase": "easier said than done",
+    "selectedSenseLabelKo": "말은 쉽지만 행동은 어렵다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Quitting sugar sounds like a great idea, but it's definitely easier said than done when you walk past a bakery every morning."
+  },
+  "step2": {
+    "story": "My friend told me I should just wake up at 5 a.m. every day and exercise before work. I laughed and said that's easier said than done — especially when my alarm goes off and the bed feels so warm. Still, I decided to start small and set my alarm just fifteen minutes earlier.",
+    "topicTag": "morning routine",
+    "moodTag": "realistic"
+  },
+  "step3": {
+    "story": "When Sarah announced she was going to learn Korean in six months, her coworkers smiled politely but exchanged doubtful glances. Learning a new language is easier said than done, especially one with a completely different writing system. Sarah downloaded three apps, bought textbooks, and even signed up for an online tutor. For the first two weeks, she was unstoppable, practicing every night after dinner. But by the third week, the grammar rules started piling up, and she found herself skipping sessions. She realized that real progress would take patience, not just enthusiasm — but she refused to give up.",
+    "topicTag": "language learning",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말하는 것이 실제로 행동하는 것보다 쉽다는 뜻입니다.",
+    "realUsageKo": "어떤 일이 말로는 간단해 보이지만 실제로 실행하기는 훨씬 어렵다는 것을 표현할 때 사용합니다. 누군가가 쉽게 조언할 때 현실적인 어려움을 지적하는 뉘앙스로 자주 씁니다.",
+    "etymologyKo": "이 표현은 수백 년 전부터 영어에서 사용된 속담으로, 계획과 실행 사이의 간극을 지적하는 보편적인 지혜에서 유래했습니다.",
+    "nuanceKo": "부정적이거나 비관적인 표현이 아니라, 현실을 인정하는 차분한 톤입니다. 상대방의 조언이나 계획에 동의하면서도 실행의 어려움을 부드럽게 언급할 때 적절합니다.",
+    "shortExampleEn": "Saving half your salary every month is easier said than done.",
+    "shortExampleKo": "매달 월급의 절반을 저축하는 건 말처럼 쉽지 않아."
+  }
+}

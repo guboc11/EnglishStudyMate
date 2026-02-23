@@ -1,0 +1,30 @@
+{
+  "id": "paint-a-picture_805f31cc",
+  "expression": "paint a picture",
+  "selectionMeta": {
+    "selectedPhrase": "paint a picture",
+    "selectedSenseLabelKo": "상황을 묘사하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her detailed report really painted a picture of how challenging the project had become."
+  },
+  "step2": {
+    "story": "The journalist returned from the disaster zone and sat down to write. With carefully chosen words, she painted a picture of the devastation that no photograph could fully capture. Readers across the country felt as if they had been standing right there beside her.",
+    "topicTag": "storytelling",
+    "moodTag": "vivid"
+  },
+  "step3": {
+    "story": "Marcus had never visited his grandmother's hometown in Italy, but she talked about it so often that he felt he knew every corner. She would describe the narrow cobblestone streets, the smell of fresh bread drifting from the bakery at dawn, and the old men playing cards under the olive trees. She painted a picture so vivid that Marcus could almost hear the church bells ringing across the valley. When he finally visited the village years later, he stood in the main square and realized everything matched perfectly. It was as if he had been there a hundred times before. Her words had brought this place to life long before his feet ever touched the ground.",
+    "topicTag": "family memories",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '그림을 그리다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 말이나 글로 어떤 상황, 장면, 감정을 생생하게 묘사할 때 사용합니다. 듣는 사람이 마치 눈앞에서 보는 것처럼 느끼게 만드는 표현입니다.",
+    "etymologyKo": "화가가 붓으로 캔버스에 장면을 그려내듯이, 언어로 머릿속에 이미지를 만들어낸다는 비유에서 유래했습니다.",
+    "nuanceKo": "주로 긍정적이거나 중립적인 맥락에서 쓰이며, 묘사력이 뛰어나다는 칭찬의 뉘앙스가 있습니다. 부정적 상황을 묘사할 때도 쓸 수 있습니다.",
+    "shortExampleEn": "The witness painted a picture of the accident that left everyone speechless.",
+    "shortExampleKo": "목격자가 사고 상황을 너무나 생생하게 묘사해서 모두가 말을 잃었다."
+  }
+}

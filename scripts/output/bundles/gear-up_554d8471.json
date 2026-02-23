@@ -1,0 +1,30 @@
+{
+  "id": "gear-up_554d8471",
+  "expression": "gear up",
+  "selectionMeta": {
+    "selectedPhrase": "gear up",
+    "selectedSenseLabelKo": "준비하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The entire marketing team is gearing up for the product launch next month."
+  },
+  "step2": {
+    "story": "After months of planning, the startup team began to gear up for their first investor pitch. They rehearsed late into the night, refining every slide and anticipating tough questions. By morning, they felt confident and ready to make their case.",
+    "topicTag": "career preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina had always dreamed of running a marathon, but the reality of training felt overwhelming at first. She started small — morning jogs around the park, stretching routines, and tracking her progress in a journal. As the race date approached, she began to gear up in earnest, investing in proper running shoes and adjusting her diet. Her friends noticed the change and started cheering her on, some even joining her weekend runs. On race day, standing at the starting line surrounded by thousands of runners, she realized that gearing up hadn't just prepared her body — it had transformed her mindset. She crossed the finish line with tears streaming down her face, knowing every early morning had been worth it.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "장비(gear)를 갖추다, 기어를 올리다라는 뜻으로 물리적으로 준비 장비를 착용하거나 장착한다는 의미입니다.",
+    "realUsageKo": "실제로는 어떤 중요한 일이나 이벤트를 앞두고 본격적으로 준비에 돌입한다는 의미로 폭넓게 사용됩니다. 단순한 준비가 아니라 적극적이고 체계적으로 대비한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "기계의 기어(gear)에서 유래했으며, 기어를 맞물려 작동 준비를 한다는 기계적 이미지에서 '준비하다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "일상적인 prepare보다 더 적극적이고 에너지가 느껴지는 표현입니다. 큰 도전이나 중요한 순간을 앞두고 본격적으로 채비를 갖출 때 주로 사용하며, 약간의 긴장감과 기대감이 동반됩니다.",
+    "shortExampleEn": "We need to gear up for the busy holiday season.",
+    "shortExampleKo": "우리는 바쁜 연말 시즌을 대비해 본격적으로 준비해야 해요."
+  }
+}

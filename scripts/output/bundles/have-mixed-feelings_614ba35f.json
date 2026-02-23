@@ -1,0 +1,30 @@
+{
+  "id": "have-mixed-feelings_614ba35f",
+  "expression": "have mixed feelings",
+  "selectionMeta": {
+    "selectedPhrase": "have mixed feelings",
+    "selectedSenseLabelKo": "복잡한 심정이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I have mixed feelings about moving to a new city because I'm excited for the opportunity but sad to leave my friends behind."
+  },
+  "step2": {
+    "story": "Sarah got promoted to lead her company's new overseas branch. She had mixed feelings about the news — it was the career milestone she had always dreamed of, but it meant leaving her aging parents behind. That night, she sat quietly at the dinner table, unable to decide whether to smile or cry.",
+    "topicTag": "career decisions",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "After fifteen years at the same school, Mr. Kim finally received his transfer notice to a bigger city. His students threw him a surprise farewell party, decorating the classroom with handmade cards and tearful messages. Standing in front of them, he had mixed feelings that he couldn't put into words. He was grateful for the better salary and modern facilities waiting for him, yet every corner of this old building held precious memories. As the students sang their goodbye song, his eyes welled up with tears. He realized that some chapters in life close not with relief or regret, but with a bittersweet blend of both.",
+    "topicTag": "life transitions",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '뒤섞인 감정을 가지다'라는 뜻입니다.",
+    "realUsageKo": "어떤 일에 대해 긍정적인 면과 부정적인 면을 동시에 느껴서 한마디로 좋다 나쁘다 판단하기 어려울 때 사용합니다. '복잡한 심정이다', '마음이 복잡하다'와 비슷한 표현입니다.",
+    "etymologyKo": "'mixed'는 '섞인'이라는 뜻으로, 기쁨과 슬픔, 기대와 불안 등 상반된 감정이 뒤섞여 있는 상태를 비유적으로 표현한 관용구입니다.",
+    "nuanceKo": "부정적인 뉘앙스보다는 중립적인 표현으로, 감정이 복잡하다는 것을 솔직하게 인정하는 느낌입니다. 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I have mixed feelings about graduating — I'm proud but also a little scared.",
+    "shortExampleKo": "졸업에 대해 복잡한 심정이에요 — 자랑스럽기도 하지만 조금 두렵기도 해요."
+  }
+}

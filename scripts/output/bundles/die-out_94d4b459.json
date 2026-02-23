@@ -1,0 +1,30 @@
+{
+  "id": "die-out_94d4b459",
+  "expression": "die out",
+  "selectionMeta": {
+    "selectedPhrase": "die out",
+    "selectedSenseLabelKo": "사라지다 / 멸종되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Many traditional crafts are dying out because younger generations prefer modern technology over learning old techniques."
+  },
+  "step2": {
+    "story": "The village elders worried that their ancient language would die out with them. They began recording stories and songs, hoping to pass the knowledge on before it was gone forever.",
+    "topicTag": "cultural preservation",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "Deep in the rainforest, researchers discovered that a rare species of frog was on the verge of dying out. Habitat destruction had reduced their population to just a few dozen individuals scattered across remote valleys. The scientists set up a breeding program, carefully monitoring each frog's health and behavior. Years of effort slowly paid off as the population began to recover. Today, the frog serves as a symbol of what conservation can achieve when people act before a species completely dies out.",
+    "topicTag": "wildlife conservation",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가가 점차 사라져서 완전히 없어지다.",
+    "realUsageKo": "생물 종이 멸종되거나, 관습·언어·전통 같은 것이 더 이상 존재하지 않게 될 때 사용한다. 서서히 소멸되는 과정을 강조하는 표현이다.",
+    "etymologyKo": "'die'(죽다)와 'out'(완전히)의 결합으로, '완전히 꺼져 죽다'는 뜻에서 유래했으며 불이 완전히 꺼지는 이미지에서 비롯되었다.",
+    "nuanceKo": "단순한 소멸보다 점진적이고 돌이킬 수 없는 사라짐을 암시하며, 종종 아쉬움이나 경고의 뉘앙스를 담아 사용된다.",
+    "shortExampleEn": "If nothing changes, this tradition will die out within a generation.",
+    "shortExampleKo": "아무것도 바뀌지 않는다면, 이 전통은 한 세대 안에 사라질 것이다."
+  }
+}

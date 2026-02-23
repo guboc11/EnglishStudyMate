@@ -1,0 +1,30 @@
+{
+  "id": "get-off-on-the-wrong-foot_2a88aeca",
+  "expression": "get off on the wrong foot",
+  "selectionMeta": {
+    "selectedPhrase": "get off on the wrong foot",
+    "selectedSenseLabelKo": "첫 단추를 잘못 끼우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I really got off on the wrong foot with my new boss when I accidentally called her by the wrong name during our first meeting."
+  },
+  "step2": {
+    "story": "On his first day at the new office, Jake spilled coffee all over the conference table right before the team meeting. He could tell everyone was judging him, and he knew he had gotten off on the wrong foot. It took him weeks of extra effort to shake that terrible first impression.",
+    "topicTag": "first impressions",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "When Sarah transferred to the Seoul branch, she was eager to impress her new colleagues. But on her very first morning, she walked into the wrong meeting room and interrupted a private executive session. The director stared at her coldly, and she stumbled over her apology in broken Korean. She had clearly gotten off on the wrong foot with the entire leadership team. Over the following weeks, Sarah made a point of arriving early, preparing thoroughly, and volunteering for every difficult assignment. Slowly, the awkward memory of that first day faded, and her colleagues began to see the dedicated professional she truly was.",
+    "topicTag": "workplace adaptation",
+    "moodTag": "anxious but hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "잘못된 발로 출발하다, 즉 첫 발을 잘못 내딛다는 뜻입니다.",
+    "realUsageKo": "어떤 관계나 상황의 시작이 좋지 않을 때 사용합니다. 주로 새로운 사람을 만나거나 새로운 환경에서 첫인상을 망쳤을 때 씁니다.",
+    "etymologyKo": "군대 행진에서 유래했다는 설이 있습니다. 행진 시 왼발부터 시작해야 하는데 오른발로 시작하면 대열이 흐트러지는 것에서 비롯되었습니다.",
+    "nuanceKo": "심각한 실수보다는 가벼운 실수나 어색한 시작을 나타낼 때 많이 씁니다. 회복 가능한 상황에서 주로 사용하며, 유머러스한 뉘앙스도 있습니다.",
+    "shortExampleEn": "We got off on the wrong foot, but now we're actually good friends.",
+    "shortExampleKo": "우리는 처음에 첫 단추를 잘못 끼웠지만, 지금은 꽤 좋은 친구 사이입니다."
+  }
+}

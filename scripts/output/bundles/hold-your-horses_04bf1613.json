@@ -1,0 +1,30 @@
+{
+  "id": "hold-your-horses_04bf1613",
+  "expression": "hold your horses",
+  "selectionMeta": {
+    "selectedPhrase": "hold your horses",
+    "selectedSenseLabelKo": "서두르지 마라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Hold your horses — let me finish explaining the plan before you start making changes."
+  },
+  "step2": {
+    "story": "Jake was about to send the email to the entire company when his manager walked in. \"Hold your horses,\" she said calmly, pointing at a typo in the subject line. He took a deep breath and fixed it just in time.",
+    "topicTag": "workplace caution",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mia had been saving up for months and finally had enough money to buy a used car. She found one online that looked perfect and was ready to transfer the money immediately. Her dad noticed and said, \"Hold your horses — have you even test-driven it yet?\" Mia realized she had gotten so excited that she skipped all the important steps. The next day, she visited the seller and discovered the engine made a strange rattling noise. She was grateful her dad had slowed her down before she made a costly mistake.",
+    "topicTag": "big purchases",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "말(horse)을 붙잡아라, 즉 말을 멈추게 하라는 뜻입니다.",
+    "realUsageKo": "상대방이 너무 성급하게 행동하려 할 때 '잠깐, 서두르지 마'라는 의미로 사용합니다. 가벼운 충고나 제지의 느낌으로 일상 대화에서 자주 쓰입니다.",
+    "etymologyKo": "마차를 타던 시대에 말이 흥분하여 달려나가지 않도록 고삐를 잡으라는 뜻에서 유래했습니다. 19세기 미국 영어에서 널리 퍼졌습니다.",
+    "nuanceKo": "명령형이지만 공격적이지 않고, 친근하거나 유머러스한 톤으로 쓰입니다. 격식 있는 자리보다는 캐주얼한 대화에 어울립니다.",
+    "shortExampleEn": "Hold your horses, we haven't even checked the weather forecast yet.",
+    "shortExampleKo": "서두르지 마, 우리 아직 일기예보도 확인 안 했잖아."
+  }
+}

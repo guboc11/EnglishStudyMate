@@ -1,0 +1,30 @@
+{
+  "id": "like-a-broken-record_31378712",
+  "expression": "like a broken record",
+  "selectionMeta": {
+    "selectedPhrase": "like a broken record",
+    "selectedSenseLabelKo": "같은 말을 반복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My mom keeps telling me to clean my room like a broken record."
+  },
+  "step2": {
+    "story": "Every morning, Sarah's manager reminded the team about the new filing system. After two weeks of the same speech, her coworker whispered, \"He sounds like a broken record.\" Sarah nodded, but she had to admit — she finally remembered the process.",
+    "topicTag": "workplace communication",
+    "moodTag": "humorous"
+  },
+  "step3": {
+    "story": "David had been training his younger brother for the driving test. Every time they got in the car, he repeated the same warnings: check your mirrors, signal before turning, keep both hands on the wheel. His brother rolled his eyes and said, \"You sound like a broken record, you know that?\" David just shrugged. He remembered how his own father had drilled those same words into him years ago. On test day, his brother passed on the first try. Walking out of the DMV, his brother grinned and said, \"Okay, maybe broken records aren't so bad after all.\"",
+    "topicTag": "family bond",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "고장 난 레코드판처럼 — 레코드판에 흠집이 나면 같은 부분이 계속 반복 재생되는 것을 뜻합니다.",
+    "realUsageKo": "같은 말을 지겹도록 반복하는 사람을 묘사할 때 씁니다. 주로 약간 짜증스럽거나 유머러스한 뉘앙스로 사용됩니다.",
+    "etymologyKo": "비닐 레코드(LP)에 긁힌 자국이 생기면 바늘이 같은 홈에 걸려 같은 소절을 무한 반복하던 현상에서 유래했습니다.",
+    "nuanceKo": "부정적이거나 가벼운 불만의 톤으로 많이 쓰이지만, 자기 자신에게 쓸 때는 자조적 유머가 됩니다. 격식체보다는 일상 대화에서 주로 사용합니다.",
+    "shortExampleEn": "I know I sound like a broken record, but please don't forget to lock the door.",
+    "shortExampleKo": "잔소리처럼 들리겠지만, 제발 문 잠그는 거 잊지 마."
+  }
+}

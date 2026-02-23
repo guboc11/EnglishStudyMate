@@ -1,0 +1,30 @@
+{
+  "id": "no-pain-no-gain_e635b248",
+  "expression": "no pain no gain",
+  "selectionMeta": {
+    "selectedPhrase": "no pain no gain",
+    "selectedSenseLabelKo": "노력 없이 얻는 것 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She reminded herself that no pain no gain as she pushed through the last set of exercises at the gym."
+  },
+  "step2": {
+    "story": "Jake had been waking up at 5 a.m. every day to study for the bar exam. His friends thought he was crazy, but he kept telling himself no pain no gain. After six months of grueling preparation, he passed on his first attempt.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mia stared at the marathon route posted on her bedroom wall. Three months ago, she could barely jog for ten minutes without stopping. Every morning her alarm screamed at 5:30, and every morning her legs begged her to stay in bed. But her coach's words echoed in her mind: no pain no gain. She laced up her shoes, stepped into the cold morning air, and ran. The blisters, the sore muscles, the early nights — they all added up. On race day, as she crossed the finish line with tears streaming down her face, she knew every painful step had been worth it.",
+    "topicTag": "personal growth",
+    "moodTag": "inspirational"
+  },
+  "meaning": {
+    "literalMeaningKo": "고통이 없으면 얻는 것도 없다는 뜻으로, 노력과 고생 없이는 성과를 이룰 수 없다는 의미입니다.",
+    "realUsageKo": "운동, 공부, 일 등 힘든 과정을 견뎌야 좋은 결과를 얻을 수 있다는 맥락에서 자주 사용됩니다. 스스로를 격려하거나 남을 독려할 때 많이 씁니다.",
+    "etymologyKo": "1980년대 제인 폰다의 운동 비디오에서 대중화되었지만, 원래는 2세기 유대교 랍비 문헌에 '고통 없이는 토라(율법)도 없다'는 표현에서 유래했습니다.",
+    "nuanceKo": "긍정적이고 동기부여적인 뉘앙스를 가지며, 캐주얼한 상황에서 자주 쓰입니다. 격식 있는 자리보다는 일상 대화나 운동, 자기계발 맥락에서 주로 사용됩니다.",
+    "shortExampleEn": "I know the training is tough, but no pain no gain!",
+    "shortExampleKo": "훈련이 힘든 건 알지만, 노력 없이 얻는 건 없어!"
+  }
+}

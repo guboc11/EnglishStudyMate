@@ -1,0 +1,30 @@
+{
+  "id": "tear-down_af8e4d6b",
+  "expression": "tear down",
+  "selectionMeta": {
+    "selectedPhrase": "tear down",
+    "selectedSenseLabelKo": "허물다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The city council voted to tear down the abandoned factory to make room for a new park."
+  },
+  "step2": {
+    "story": "After years of neglect, the old community center was falling apart. The mayor announced plans to tear down the building and replace it with a modern facility. Some residents felt nostalgic, but most agreed it was time for a fresh start.",
+    "topicTag": "urban renewal",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "When Sarah moved back to her hometown after twenty years, she barely recognized the main street. The bookstore where she had spent countless afternoons was gone, replaced by a parking lot. She learned that developers had convinced the town to tear down most of the historic buildings along the block. A few locals had protested, holding signs and writing letters, but the decision had already been made. Now steel beams rose where brick walls once stood, and Sarah couldn't help but feel that something irreplaceable had been lost. She sat on a bench across the street, watching the cranes work, wondering if progress always had to come at such a cost.",
+    "topicTag": "change and loss",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "tear(찢다) + down(아래로) → 아래로 찢어 내리다, 즉 건물이나 구조물을 해체하여 무너뜨리다.",
+    "realUsageKo": "주로 건물, 벽, 구조물 등을 '철거하다, 허물다'라는 의미로 쓰입니다. 비유적으로는 장벽, 편견, 체계 등을 '무너뜨리다, 타파하다'라는 뜻으로도 사용됩니다.",
+    "etymologyKo": "tear는 고대 영어 teran(찢다)에서 유래했으며, down과 결합하여 '위에서 아래로 찢어 해체하다'라는 물리적 동작을 나타내는 구동사가 되었습니다.",
+    "nuanceKo": "demolish보다 일상적이고 구어적인 느낌입니다. 물리적 철거뿐 아니라 감정적·사회적 장벽을 허무는 맥락에서도 자주 쓰여, 긍정적(장벽 타파)·부정적(파괴) 양쪽 뉘앙스를 모두 가질 수 있습니다.",
+    "shortExampleEn": "They decided to tear down the wall between the two rooms to create more space.",
+    "shortExampleKo": "그들은 더 넓은 공간을 만들기 위해 두 방 사이의 벽을 허물기로 했다."
+  }
+}

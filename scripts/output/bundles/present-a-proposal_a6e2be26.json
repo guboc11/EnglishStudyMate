@@ -1,0 +1,30 @@
+{
+  "id": "present-a-proposal_a6e2be26",
+  "expression": "present a proposal",
+  "selectionMeta": {
+    "selectedPhrase": "present a proposal",
+    "selectedSenseLabelKo": "제안서를 발표하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She was asked to present a proposal for the new marketing campaign at the quarterly meeting."
+  },
+  "step2": {
+    "story": "Jina spent all weekend polishing her slides and rehearsing key points. On Monday morning, she stood before the executive team to present a proposal for expanding into the Southeast Asian market. Her confident delivery and solid data earned her an immediate green light.",
+    "topicTag": "career milestone",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "After months of market research, Daniel finally felt ready to present a proposal to the board of directors. He arrived at the conference room thirty minutes early, double-checking his laptop and printouts. As executives filed in, his palms grew sweaty, but he reminded himself how thoroughly he had prepared. When his turn came, he walked to the front and laid out a clear plan to restructure the company's supply chain. The room fell silent as the numbers on the screen spoke for themselves. By the end of his presentation, three board members had already expressed their support.",
+    "topicTag": "business strategy",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "제안(proposal)을 제시하다(present), 즉 공식적인 자리에서 계획이나 아이디어를 발표하는 것을 뜻합니다.",
+    "realUsageKo": "회의, 프레젠테이션 등 비즈니스 상황에서 준비한 기획안이나 제안서를 청중 앞에서 설명하고 발표할 때 사용합니다. 단순히 문서를 전달하는 것이 아니라, 설득력 있게 내용을 설명하는 행위를 포함합니다.",
+    "etymologyKo": "present는 라틴어 praesentare(앞에 놓다)에서 유래했고, proposal은 라틴어 proponere(앞에 내놓다)에서 온 단어입니다. 둘 다 '앞에 내어 보이다'라는 의미를 공유합니다.",
+    "nuanceKo": "격식 있는 비즈니스 표현으로, 회의실이나 공식 석상에서 주로 쓰입니다. 'give a proposal'보다 전문적이고 격식 있는 느낌을 줍니다.",
+    "shortExampleEn": "Our team will present a proposal to the investors next Friday.",
+    "shortExampleKo": "우리 팀은 다음 주 금요일에 투자자들에게 제안서를 발표할 예정입니다."
+  }
+}

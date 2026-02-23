@@ -1,0 +1,30 @@
+{
+  "id": "work-up_66b755a9",
+  "expression": "work up",
+  "selectionMeta": {
+    "selectedPhrase": "work up",
+    "selectedSenseLabelKo": "발전시키다 / 기르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to work up her presentation skills before the big conference next month."
+  },
+  "step2": {
+    "story": "Jason had always been shy about speaking in public. Over the summer, he joined a local debate club to work up his confidence. By September, he was volunteering to lead team meetings without a second thought.",
+    "topicTag": "personal growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Mina stared at the blank canvas in her tiny apartment studio. She had dreamed of becoming an illustrator for years, but her skills felt nowhere near professional level. Every evening after work, she sat down and practiced — anatomy sketches, color theory exercises, digital painting drills. Slowly, she began to work up a portfolio she was genuinely proud of. When she finally submitted it to a design agency, the creative director called her the next day. Sometimes the only shortcut is showing up every single night.",
+    "topicTag": "career development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'work'(일하다)와 'up'(위로)의 결합으로, 노력을 통해 무언가를 위로 끌어올린다는 뜻입니다.",
+    "realUsageKo": "능력, 감정, 식욕 등을 점진적으로 발전시키거나 키울 때 사용합니다. 'work up an appetite(식욕을 돋우다)', 'work up courage(용기를 내다)'처럼 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "고대 영어 'weorc'(일)에서 유래했으며, 'up'과 결합하여 '노력을 통해 점차 높이다/발전시키다'라는 의미로 16세기경부터 사용되었습니다.",
+    "nuanceKo": "단번에 이루는 것이 아니라 시간과 노력을 들여 점진적으로 만들어간다는 느낌을 줍니다. 일상 대화와 비즈니스 맥락 모두에서 자연스럽게 쓰이는 표현입니다.",
+    "shortExampleEn": "Let's take a walk to work up an appetite before dinner.",
+    "shortExampleKo": "저녁 먹기 전에 산책하면서 식욕을 돋우자."
+  }
+}

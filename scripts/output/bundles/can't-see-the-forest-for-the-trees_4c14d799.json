@@ -1,0 +1,30 @@
+{
+  "id": "can't-see-the-forest-for-the-trees_4c14d799",
+  "expression": "can't see the forest for the trees",
+  "selectionMeta": {
+    "selectedPhrase": "can't see the forest for the trees",
+    "selectedSenseLabelKo": "나무만 보고 숲을 못 본다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You're so focused on fixing every tiny bug that you can't see the forest for the trees — the whole architecture needs to be redesigned."
+  },
+  "step2": {
+    "story": "Maria spent three weeks perfecting the font sizes and button colors on the company website. Her manager finally pulled her aside and said she couldn't see the forest for the trees — the site's navigation was completely broken and customers were leaving in frustration. She stepped back, took a deep breath, and refocused on the bigger picture.",
+    "topicTag": "work priorities",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "James had been leading the product launch for six months, but lately every meeting turned into a debate about minor details. One afternoon, the team argued for two hours about the exact shade of blue for a loading spinner. Their advisor, Sarah, walked in and looked at the whiteboard covered in sticky notes about pixel measurements. She shook her head and said, \"You can't see the forest for the trees. Your competitor just launched a similar product last week, and you're still debating colors.\" The room went silent. James realized they had lost sight of what truly mattered — getting a working product into customers' hands. He scrapped the remaining cosmetic tasks and called an emergency sprint to ship the core features by Friday.",
+    "topicTag": "product management",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "나무들 때문에 숲을 볼 수 없다는 뜻으로, 눈앞의 세부 사항에 가려 전체를 보지 못한다는 의미입니다.",
+    "realUsageKo": "세부적인 것에 너무 집중한 나머지 전체적인 상황이나 본질을 놓치고 있을 때 사용합니다. 주로 누군가에게 시야를 넓히라고 조언하거나 경고할 때 씁니다.",
+    "etymologyKo": "이 표현은 1546년 영국 작가 John Heywood의 속담집에서 처음 기록되었으며, 숲 속에서 개별 나무에만 시선을 두면 숲 전체의 모습을 파악할 수 없다는 직관적 비유에서 유래했습니다.",
+    "nuanceKo": "약간의 비판이나 훈계의 뉘앙스가 있으며, 상대방이 큰 그림을 놓치고 있다고 지적할 때 주로 사용합니다. 격식/비격식 모두 가능하지만, 부드러운 충고의 느낌이 강합니다.",
+    "shortExampleEn": "Stop worrying about the formatting — you can't see the forest for the trees.",
+    "shortExampleKo": "서식 걱정은 그만해 — 나무만 보고 숲을 못 보고 있잖아."
+  }
+}

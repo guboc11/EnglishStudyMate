@@ -1,0 +1,30 @@
+{
+  "id": "get-off_a5179249",
+  "expression": "get off",
+  "selectionMeta": {
+    "selectedPhrase": "get off",
+    "selectedSenseLabelKo": "내리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She gets off the bus every morning at the corner of Fifth Avenue."
+  },
+  "step2": {
+    "story": "Jake got off the train and took a deep breath of fresh air. He had been commuting for two hours, and finally arriving felt like a small victory. He grabbed his bag and walked toward the exit with a smile.",
+    "topicTag": "commute",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mia checked her phone as the subway slowed to a halt. This was her stop — she had to get off now or miss her interview entirely. She squeezed through the crowd, bag pressed to her chest, and stepped onto the platform just before the doors slid shut. The morning rush swirled around her, but she stood still for a moment, catching her breath. She had made it. With renewed focus, she climbed the stairs toward the street and walked straight toward her future.",
+    "topicTag": "city life",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "탈것에서 내려오다, 즉 버스나 기차 등에서 발을 땅에 딛고 내리다.",
+    "realUsageKo": "대중교통(버스, 지하철, 기차, 비행기 등)에서 내릴 때 가장 자연스럽게 쓰이는 표현으로, 'get off the bus/train/plane'처럼 뒤에 탈것을 붙여 사용한다.",
+    "etymologyKo": "'get'은 '이동하다·도달하다'는 뜻의 고대 노르드어 'geta'에서 유래했고, 'off'는 '떨어져'를 뜻하는 고영어 부사로, 두 단어가 합쳐져 '(위에서) 떨어져 나오다', 즉 내리다는 의미가 됐다.",
+    "nuanceKo": "하차(下車)의 맥락에서 매우 구어적이고 일상적인 표현이다. 격식체 문장에서는 'alight from' 또는 'disembark'를 쓰기도 하지만, 실제 대화에서는 'get off'가 압도적으로 자주 쓰인다.",
+    "shortExampleEn": "We need to get off at the next station.",
+    "shortExampleKo": "우리는 다음 역에서 내려야 해."
+  }
+}

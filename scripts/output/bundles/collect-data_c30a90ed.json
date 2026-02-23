@@ -1,0 +1,30 @@
+{
+  "id": "collect-data_c30a90ed",
+  "expression": "collect data",
+  "selectionMeta": {
+    "selectedPhrase": "collect data",
+    "selectedSenseLabelKo": "데이터를 수집하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "We need to collect data from our customers before launching the new product."
+  },
+  "step2": {
+    "story": "The marketing team spent two weeks designing a survey to collect data about customer preferences. After analyzing the responses, they discovered that most users wanted a simpler interface. This insight completely changed the direction of their product redesign.",
+    "topicTag": "market research",
+    "moodTag": "analytical"
+  },
+  "step3": {
+    "story": "Sarah had just been promoted to lead analyst at a growing tech startup. Her first major assignment was to collect data on user behavior across all the company's mobile apps. She set up tracking tools, coordinated with three different engineering teams, and designed a dashboard to visualize the results in real time. After a month of careful work, the data revealed a surprising pattern: users were dropping off at the payment screen not because of price, but because the loading time was too slow. Sarah presented her findings to the executive team, and within a week they had allocated resources to fix the bottleneck. Her ability to collect data and turn it into actionable insights earned her a reputation as someone who could solve problems others couldn't even see.",
+    "topicTag": "data analysis",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'collect'는 '모으다', 'data'는 '자료/데이터'로, 직역하면 '자료를 모으다'입니다.",
+    "realUsageKo": "비즈니스, 연구, 마케팅 등 다양한 분야에서 체계적으로 정보를 수집할 때 사용합니다. 단순히 정보를 얻는 것이 아니라 목적을 가지고 조직적으로 데이터를 모으는 뉘앙스입니다.",
+    "etymologyKo": "'collect'는 라틴어 'colligere(함께 모으다)'에서 유래했으며, 'data'는 라틴어 'datum(주어진 것)'의 복수형입니다. 두 단어가 결합하여 현대 비즈니스와 과학 분야의 핵심 표현이 되었습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 사용됩니다. 'gather information'보다 더 체계적이고 전문적인 느낌을 주며, 보고서나 프레젠테이션에서 특히 자주 쓰입니다.",
+    "shortExampleEn": "The research team will collect data through online surveys and interviews.",
+    "shortExampleKo": "연구팀은 온라인 설문조사와 인터뷰를 통해 데이터를 수집할 것입니다."
+  }
+}

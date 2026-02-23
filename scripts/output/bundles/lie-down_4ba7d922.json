@@ -1,0 +1,30 @@
+{
+  "id": "lie-down_4ba7d922",
+  "expression": "lie down",
+  "selectionMeta": {
+    "selectedPhrase": "lie down",
+    "selectedSenseLabelKo": "눕다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a long day at work, I just want to lie down on the couch and close my eyes."
+  },
+  "step2": {
+    "story": "Maya had been standing at the museum all morning, guiding tourists through the exhibits. By lunchtime, her feet were aching so badly that she found a quiet bench in the break room and decided to lie down for just ten minutes. That short rest gave her enough energy to smile through the afternoon shift.",
+    "topicTag": "physical fatigue",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Daniel stared at his laptop screen, but the words blurred together. He had been coding for fourteen hours straight, fueled by nothing but coffee and determination. His neck was stiff, his back screamed for relief, and a dull headache pressed behind his eyes. He saved his work, walked to the bedroom, and let himself lie down on the cool sheets without even changing clothes. The ceiling fan hummed softly above him, and within seconds the tension in his shoulders began to melt away. Sometimes the most productive thing you can do is simply stop and let your body rest.",
+    "topicTag": "work-life balance",
+    "moodTag": "exhausted but peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'lie'(눕다)와 'down'(아래로)이 합쳐져 몸을 수평으로 내려놓는 동작을 뜻합니다.",
+    "realUsageKo": "피곤하거나 아플 때, 또는 단순히 쉬고 싶을 때 '눕다'는 의미로 일상에서 매우 자주 씁니다. 'I need to lie down'처럼 휴식의 필요성을 표현할 때 특히 많이 사용합니다.",
+    "etymologyKo": "'lie'는 고대 영어 'licgan'(눕다, 기대다)에서 유래했으며, 'down'은 방향 부사로 몸을 낮추는 동작을 강조합니다.",
+    "nuanceKo": "격식 없는 일상 표현으로 편안하고 자연스러운 뉘앙스입니다. 'lay down'과 혼동하기 쉽지만, 'lie down'은 자동사(스스로 눕다)이고 'lay down'은 타동사(무언가를 내려놓다)입니다.",
+    "shortExampleEn": "You look tired — why don't you lie down for a while?",
+    "shortExampleKo": "피곤해 보여 — 잠깐 누워서 쉬는 게 어때?"
+  }
+}

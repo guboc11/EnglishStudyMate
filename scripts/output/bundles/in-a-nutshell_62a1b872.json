@@ -1,0 +1,30 @@
+{
+  "id": "in-a-nutshell_62a1b872",
+  "expression": "in a nutshell",
+  "selectionMeta": {
+    "selectedPhrase": "in a nutshell",
+    "selectedSenseLabelKo": "간단히 말하면",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "In a nutshell, we need to cut costs by 20% or the project won't survive."
+  },
+  "step2": {
+    "story": "The CEO gathered everyone for a quick meeting before lunch. She stood at the front and said, \"In a nutshell, our company is merging with a larger firm, and everyone's jobs are safe.\" The room erupted in relieved applause.",
+    "topicTag": "company announcement",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Maya had spent three months researching the housing market for her thesis. Her advisor glanced at the clock during their meeting and sighed. \"I have another student in five minutes. Can you summarize?\" Maya took a deep breath. \"In a nutshell, young professionals are being priced out of urban areas, and remote work is accelerating the shift to smaller cities,\" she said confidently. Her advisor nodded, impressed. \"That's exactly the kind of clarity your paper needs — lead with that.\"",
+    "topicTag": "academic research",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '호두 껍데기 안에'라는 뜻입니다.",
+    "realUsageKo": "복잡한 내용을 간결하게 요약할 때 사용합니다. '한마디로 말하자면', '요약하자면'과 같은 의미로, 긴 설명 대신 핵심만 전달하고 싶을 때 씁니다.",
+    "etymologyKo": "셰익스피어의 《햄릿》에서 유래한 표현으로, 고대 로마 학자 플리니우스가 호두 껍데기 안에 일리아드 전체를 적을 수 있다고 한 일화에서 비롯되었습니다.",
+    "nuanceKo": "격식/비격식 모두 사용 가능하며, 주로 긴 설명을 마무리하거나 요점을 강조할 때 문장 앞에 놓습니다. 가볍고 명쾌한 느낌을 줍니다.",
+    "shortExampleEn": "In a nutshell, the plan is to launch next Monday.",
+    "shortExampleKo": "간단히 말하면, 다음 주 월요일에 출시할 계획입니다."
+  }
+}

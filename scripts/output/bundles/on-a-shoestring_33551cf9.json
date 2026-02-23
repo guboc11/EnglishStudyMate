@@ -1,0 +1,30 @@
+{
+  "id": "on-a-shoestring_33551cf9",
+  "expression": "on a shoestring",
+  "selectionMeta": {
+    "selectedPhrase": "on a shoestring",
+    "selectedSenseLabelKo": "매우 적은 예산으로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They managed to launch their startup on a shoestring, relying on free tools and a lot of late nights."
+  },
+  "step2": {
+    "story": "After graduating, Maya wanted to open a small bakery but had almost no savings. She did everything on a shoestring — buying second-hand equipment, designing her own logo, and baking samples in her apartment kitchen. Within six months, word of mouth turned her tiny operation into a neighborhood favorite.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "When Daniel's company slashed the marketing budget by eighty percent, his team had to figure out how to run the entire annual campaign on a shoestring. Instead of expensive TV ads, they created short behind-the-scenes videos using just a smartphone and natural lighting. They partnered with micro-influencers who were genuinely passionate about the product, trading samples for honest reviews. The scrappy approach actually felt more authentic to customers than any polished commercial ever had. By the end of the quarter, engagement numbers had doubled compared to the previous year. Daniel realized that working on a shoestring had forced them to be more creative than money ever could.",
+    "topicTag": "marketing creativity",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "신발끈 하나 정도의 돈으로, 즉 아주 적은 예산으로 무언가를 한다는 뜻입니다.",
+    "realUsageKo": "돈이 거의 없는 상태에서 무언가를 시작하거나 운영할 때 사용합니다. 'on a shoestring budget'이라는 형태로도 자주 쓰이며, 주로 사업, 여행, 프로젝트 등 비용이 드는 활동과 함께 사용됩니다.",
+    "etymologyKo": "19세기 말 미국에서 유래한 표현으로, 신발끈(shoestring)이 매우 얇고 가치가 낮은 물건이라는 점에서 '아주 적은 금액'을 비유한 것입니다.",
+    "nuanceKo": "부정적이기보다는 오히려 적은 자원으로도 해내는 근성과 창의성을 강조하는 뉘앙스가 있습니다. 비즈니스나 스타트업 맥락에서 특히 자주 사용됩니다.",
+    "shortExampleEn": "We traveled across Europe on a shoestring and still had an amazing time.",
+    "shortExampleKo": "우리는 아주 적은 예산으로 유럽 여행을 했지만 정말 멋진 시간을 보냈다."
+  }
+}

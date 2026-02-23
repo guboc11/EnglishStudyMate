@@ -1,0 +1,30 @@
+{
+  "id": "a-shot-in-the-dark_20d7b162",
+  "expression": "a shot in the dark",
+  "selectionMeta": {
+    "selectedPhrase": "a shot in the dark",
+    "selectedSenseLabelKo": "무작위 추측",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Without any real evidence, the detective's accusation was just a shot in the dark."
+  },
+  "step2": {
+    "story": "The startup had no market data, so their pricing strategy was a shot in the dark. They picked a number that felt right and launched anyway. Surprisingly, customers responded well, proving that sometimes bold guesses pay off.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maya stared at the multiple-choice exam, realizing she hadn't studied the last three chapters at all. Question 47 was about organic chemistry reactions she had never even seen before. She closed her eyes and circled option C — a complete shot in the dark. When the results came back the following week, she was stunned to see she had gotten it right. Her classmate Jake laughed and said she must have a hidden talent for guessing. Maya smiled but quietly promised herself she would never rely on luck like that again.",
+    "topicTag": "academic life",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "어둠 속에서 쏘는 한 발, 즉 아무것도 보이지 않는 상태에서 총을 쏘는 것을 의미합니다.",
+    "realUsageKo": "확실한 근거나 정보 없이 하는 추측이나 시도를 뜻합니다. 성공할 가능성이 낮지만 일단 해보는 상황에서 자주 사용됩니다.",
+    "etymologyKo": "군사 용어에서 유래했습니다. 어둠 속에서 적의 위치를 모른 채 총을 쏘는 행위에서 비롯되어, 19세기부터 '근거 없는 추측'이라는 비유적 의미로 쓰이기 시작했습니다.",
+    "nuanceKo": "부정적이거나 자조적인 뉘앙스로 쓰이는 경우가 많지만, 결과적으로 성공했을 때는 긍정적 반전의 느낌을 줄 수도 있습니다. 격식/비격식 모두에서 널리 사용됩니다.",
+    "shortExampleEn": "I don't know the answer, but I'll take a shot in the dark and say it's 1997.",
+    "shortExampleKo": "답을 모르겠지만, 찍어보자면 1997년이라고 할게요."
+  }
+}

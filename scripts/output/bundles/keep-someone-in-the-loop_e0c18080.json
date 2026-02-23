@@ -1,0 +1,30 @@
+{
+  "id": "keep-someone-in-the-loop_e0c18080",
+  "expression": "keep someone in the loop",
+  "selectionMeta": {
+    "selectedPhrase": "keep someone in the loop",
+    "selectedSenseLabelKo": "최신 정보를 공유하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Please keep me in the loop about any changes to the project timeline."
+  },
+  "step2": {
+    "story": "Sarah noticed her team had been making decisions without her input. She sent a message to her manager saying, \"I'd really appreciate it if you could keep me in the loop on future updates.\" The next morning, she found three new emails summarizing everything she had missed.",
+    "topicTag": "workplace communication",
+    "moodTag": "assertive"
+  },
+  "step3": {
+    "story": "Daniel had just returned from a two-week vacation to find that his department had completely restructured the marketing strategy. Nobody had mentioned a word to him. He sat down with his colleague Jenna during lunch and said, \"I feel like I missed everything — could you keep me in the loop from now on?\" Jenna nodded and promised to forward him the weekly recap emails. Over the next few days, Daniel started receiving regular updates and felt like he was part of the team again. He realized that staying informed wasn't just about emails — it was about trust and being valued.",
+    "topicTag": "team trust",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 '고리(loop)' 안에 두다, 즉 정보의 순환 안에 포함시킨다는 뜻입니다.",
+    "realUsageKo": "어떤 일의 진행 상황이나 새로운 소식을 계속 알려달라고 할 때 사용합니다. 직장에서 특히 자주 쓰이며, 이메일이나 회의에서 '나도 계속 알려줘'라는 의미로 씁니다.",
+    "etymologyKo": "통신이나 전자공학에서 'loop(회로, 순환)'는 정보가 흐르는 경로를 뜻합니다. 이 표현은 정보가 돌고 도는 순환 고리 안에 누군가를 포함시킨다는 비유에서 유래했습니다.",
+    "nuanceKo": "정중하면서도 직접적인 표현으로, 비즈니스 환경에서 매우 자연스럽습니다. '나를 빼놓지 말아줘'라는 뉘앙스가 있지만 공격적이지 않고 협조를 요청하는 톤입니다.",
+    "shortExampleEn": "Make sure to keep the client in the loop about the delivery schedule.",
+    "shortExampleKo": "배송 일정에 대해 고객에게 계속 최신 정보를 공유하세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pay-a-bill_cb69f9bb",
+  "expression": "pay a bill",
+  "selectionMeta": {
+    "selectedPhrase": "pay a bill",
+    "selectedSenseLabelKo": "청구서를 내다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to pay a bill before the due date or they'll charge me a late fee."
+  },
+  "step2": {
+    "story": "Sarah opened her mailbox and found three envelopes from different companies. She sat down at her desk and decided to pay a bill for electricity first, since it was overdue. After finishing all the payments online, she felt relieved that everything was taken care of.",
+    "topicTag": "household responsibilities",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Kevin had just moved into his first apartment after graduating from college. Everything felt exciting until the first round of monthly statements arrived. He stared at the electricity bill, the internet bill, and the water bill spread across his kitchen table. His mom had always handled these things, so he wasn't sure where to start. He opened his banking app and figured out how to pay a bill online for the first time. It took longer than expected, but once every payment went through, he smiled with a small sense of pride — he was finally becoming a real adult.",
+    "topicTag": "independence",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "청구서(bill)에 대해 돈을 지불하다(pay)라는 뜻입니다.",
+    "realUsageKo": "전기세, 수도세, 통신비 등 정기적으로 나오는 요금을 납부할 때 사용합니다. 'pay the bill'은 특정 청구서, 'pay a bill'은 청구서 하나를 일반적으로 가리킵니다.",
+    "etymologyKo": "'bill'은 중세 영어에서 문서나 목록을 뜻하는 단어에서 유래했으며, 'pay'는 라틴어 'pacare(평화롭게 하다)'에서 왔습니다. 빚을 갚아 관계를 평화롭게 한다는 의미가 담겨 있습니다.",
+    "nuanceKo": "일상적이고 중립적인 표현으로, 격식/비격식 상관없이 널리 쓰입니다. 레스토랑에서 식사비를 낼 때도 'pay the bill'이라고 합니다.",
+    "shortExampleEn": "Don't forget to pay a bill for the internet this month.",
+    "shortExampleKo": "이번 달 인터넷 요금 내는 거 잊지 마."
+  }
+}

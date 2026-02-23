@@ -1,0 +1,30 @@
+{
+  "id": "bring-on_e1204d26",
+  "expression": "bring on",
+  "selectionMeta": {
+    "selectedPhrase": "bring on",
+    "selectedSenseLabelKo": "초래하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Years of poor management brought on the company's sudden collapse."
+  },
+  "step2": {
+    "story": "The team ignored every warning sign for months. Their carelessness eventually brought on a massive data breach that exposed millions of customer records. Now the entire department faces restructuring.",
+    "topicTag": "workplace accountability",
+    "moodTag": "cautionary"
+  },
+  "step3": {
+    "story": "Maya had been working sixteen-hour days for three months straight, surviving on coffee and vending machine snacks. Her friends kept telling her to slow down, but she brushed off their concerns. One morning, she collapsed at her desk, and the doctor confirmed that her relentless schedule had brought on severe exhaustion and dangerously high blood pressure. Lying in the hospital bed, she finally understood that no promotion was worth destroying her health. She promised herself she would set boundaries and never let ambition bring on such a crisis again. Sometimes the wake-up call arrives just in time.",
+    "topicTag": "health and work-life balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'가져오다(bring)'와 '위에/진행(on)'이 결합하여 어떤 상태나 결과를 '가져다주다'라는 뜻입니다.",
+    "realUsageKo": "주로 부정적인 결과나 상황을 '초래하다, 야기하다'라는 의미로 사용됩니다. 질병, 문제, 위기 등 원치 않는 결과가 특정 원인에 의해 발생했음을 나타낼 때 자주 쓰입니다.",
+    "etymologyKo": "고대 영어 'bringan(가져오다)'과 전치사 'on'의 결합으로, 14세기경부터 '초래하다'의 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "대부분 부정적인 결과에 사용되며, 원인과 결과의 인과관계를 강조하는 뉘앙스가 있습니다. 'cause'보다 좀 더 구어적이고 일상적인 표현입니다.",
+    "shortExampleEn": "Eating too much junk food can bring on serious health problems.",
+    "shortExampleKo": "정크푸드를 너무 많이 먹으면 심각한 건강 문제를 초래할 수 있다."
+  }
+}

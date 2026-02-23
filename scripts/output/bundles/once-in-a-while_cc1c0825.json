@@ -1,0 +1,30 @@
+{
+  "id": "once-in-a-while_cc1c0825",
+  "expression": "once in a while",
+  "selectionMeta": {
+    "selectedPhrase": "once in a while",
+    "selectedSenseLabelKo": "가끔",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I like to visit my grandparents once in a while to catch up over a home-cooked meal."
+  },
+  "step2": {
+    "story": "Jake usually eats lunch at his desk, but once in a while he walks to the small park across the street. He sits on a bench, watches the pigeons, and lets his mind wander. Those quiet fifteen minutes always recharge him for the afternoon.",
+    "topicTag": "work-life balance",
+    "moodTag": "peaceful"
+  },
+  "step3": {
+    "story": "Mina had been buried in spreadsheets for weeks straight, barely looking up from her monitor. One Friday, her coworker Sarah tapped her shoulder and said, \"Come on — you need to step away once in a while.\" They grabbed coffee from the tiny café on the corner and sat by the window, watching people hurry past in the rain. Mina realized she couldn't remember the last time she had just sat still like this. She took a slow sip, smiled, and told Sarah she should do this more often. From that day on, she made a rule: once in a while, close the laptop and breathe.",
+    "topicTag": "self-care",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '한 번, 어떤 시간 안에' 즉, 일정 기간 중 한 번 정도라는 뜻입니다.",
+    "realUsageKo": "빈도가 높지 않지만 불규칙하게 가끔 어떤 일을 할 때 사용합니다. 'sometimes'보다 빈도가 낮고, 여유롭거나 특별한 느낌을 줄 때 자주 씁니다.",
+    "etymologyKo": "'while'은 고대 영어 'hwīl(시간, 기간)'에서 유래했으며, 'once in a while'은 '어떤 기간 중 한 번'이라는 의미에서 '가끔'으로 발전한 관용 표현입니다.",
+    "nuanceKo": "일상적이고 부드러운 표현으로, 너무 자주는 아니지만 완전히 안 하는 것도 아닌 적당한 빈도를 나타냅니다. 격식/비격식 모두 자연스럽게 쓸 수 있습니다.",
+    "shortExampleEn": "We go hiking once in a while when the weather is nice.",
+    "shortExampleKo": "날씨가 좋을 때 우리는 가끔 하이킹을 갑니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "log-out_29ed6b5d",
+  "expression": "log out",
+  "selectionMeta": {
+    "selectedPhrase": "log out",
+    "selectedSenseLabelKo": "로그아웃하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't forget to log out of your email before you leave the shared computer."
+  },
+  "step2": {
+    "story": "Jake finished his report at the library computer and stood up to leave. Halfway to the door, he realized he hadn't logged out of his account. He rushed back and quickly logged out before anyone could access his files.",
+    "topicTag": "digital security",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Mina had been working late at the co-working space, finalizing a presentation for tomorrow's client meeting. She saved the file, closed her laptop halfway, and grabbed her coat. As she reached the elevator, her phone buzzed with a notification: 'New login detected on your account from an unknown device.' Her heart sank — she had forgotten to log out of the shared desktop she'd used earlier to print some slides. She sprinted back to the desk, relieved to find no one sitting there yet. She quickly logged out, changed her password on her phone, and made a mental note to never skip that step again.",
+    "topicTag": "workplace habits",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "시스템이나 계정에서 자신의 접속 기록(log)을 빠져나오다(out)라는 뜻입니다.",
+    "realUsageKo": "웹사이트, 앱, 컴퓨터 등에서 자신의 계정 접속을 종료할 때 사용합니다. 'sign out'과 같은 의미로 쓰이며, 보안을 위해 공용 기기에서는 반드시 log out 하라는 조언이 흔합니다.",
+    "etymologyKo": "'Log'는 원래 항해 일지(logbook)에서 온 단어로, 컴퓨터 시스템에 접속 기록을 남기는 것을 'log in'이라 했고, 그 반대 행위를 'log out'이라 부르게 되었습니다.",
+    "nuanceKo": "격식/비격식 모두 자연스럽게 쓰이는 중립적 표현입니다. 'Sign out'과 거의 동의어이지만, 기술적 맥락에서는 'log out'이 조금 더 전통적인 느낌을 줍니다.",
+    "shortExampleEn": "Please log out when you're done using the computer.",
+    "shortExampleKo": "컴퓨터 사용이 끝나면 로그아웃해 주세요."
+  }
+}

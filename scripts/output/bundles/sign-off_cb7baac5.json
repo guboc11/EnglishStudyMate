@@ -1,0 +1,30 @@
+{
+  "id": "sign-off_cb7baac5",
+  "expression": "sign off",
+  "selectionMeta": {
+    "selectedPhrase": "sign off",
+    "selectedSenseLabelKo": "마치다 / 서명하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager needs to sign off on the budget proposal before we can move forward with the project."
+  },
+  "step2": {
+    "story": "After months of negotiation, the two companies finally reached an agreement. The CEO was ready to sign off on the deal, but her legal team wanted one more review. She gave them twenty-four hours to finalize everything.",
+    "topicTag": "business negotiation",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Jenna had been working on the marketing campaign for six weeks straight. Every detail had been checked twice, every number verified. She walked into her director's office with the final draft, hoping he would sign off on it without any changes. He flipped through the pages slowly, nodding as he read. After what felt like an eternity, he looked up and smiled. He signed off on the entire plan, and Jenna finally let out the breath she had been holding.",
+    "topicTag": "workplace approval",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'sign off'는 글자 그대로 '서명하고 끝내다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 공식적으로 승인하거나 동의하다는 의미로 많이 쓰이며, 방송이나 회의를 마무리할 때 '마치다'라는 뜻으로도 사용됩니다.",
+    "etymologyKo": "원래 라디오 방송에서 방송 종료 시 서명(사인)을 남기던 관행에서 유래했으며, 이후 공식 문서에 서명하여 승인하는 의미로 확장되었습니다.",
+    "nuanceKo": "격식 있는 상황에서 주로 사용되며, 단순한 동의보다는 권한을 가진 사람이 최종적으로 허가하는 느낌이 강합니다.",
+    "shortExampleEn": "The doctor signed off on the patient's discharge papers.",
+    "shortExampleKo": "의사가 환자의 퇴원 서류를 최종 승인했다."
+  }
+}

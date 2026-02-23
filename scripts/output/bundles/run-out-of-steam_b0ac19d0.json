@@ -1,0 +1,30 @@
+{
+  "id": "run-out-of-steam_b0ac19d0",
+  "expression": "run out of steam",
+  "selectionMeta": {
+    "selectedPhrase": "run out of steam",
+    "selectedSenseLabelKo": "힘이 빠지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After working on the report for six hours straight, I completely ran out of steam and couldn't write another word."
+  },
+  "step2": {
+    "story": "Maya had been studying for her finals since early morning. By 4 p.m., she ran out of steam and found herself reading the same paragraph over and over. She decided to take a short nap before pushing through the last chapter.",
+    "topicTag": "exam preparation",
+    "moodTag": "exhausted"
+  },
+  "step3": {
+    "story": "The startup team had been sprinting toward their product launch for three intense months. Every weekend was spent in the office, fueled by coffee and pure determination. But two weeks before the deadline, the lead developer ran out of steam and called in sick for the first time in years. The rest of the team felt it too — motivation was fading fast. Their manager noticed the burnout and rescheduled the launch by one week, giving everyone a mandatory three-day break. When they came back, the energy was renewed and the final push felt almost effortless.",
+    "topicTag": "startup culture",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '증기가 다 떨어지다'라는 뜻입니다.",
+    "realUsageKo": "에너지나 열정, 동기가 소진되어 더 이상 계속할 힘이 없을 때 사용합니다. 사람뿐 아니라 프로젝트나 운동, 캠페인 등이 추진력을 잃었을 때도 쓸 수 있습니다.",
+    "etymologyKo": "증기기관 시대에서 유래한 표현으로, 증기기관차가 연료가 떨어져 증기(steam)를 만들지 못하면 멈추는 것에 비유한 것입니다.",
+    "nuanceKo": "부정적이지만 가벼운 톤으로 쓰이며, 완전한 실패보다는 일시적인 에너지 고갈을 나타냅니다. 일상 대화에서 자연스럽게 자주 쓰입니다.",
+    "shortExampleEn": "The reform movement ran out of steam after the leader resigned.",
+    "shortExampleKo": "그 개혁 운동은 지도자가 사임한 후 힘을 잃었다."
+  }
+}

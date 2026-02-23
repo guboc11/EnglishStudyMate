@@ -1,0 +1,30 @@
+{
+  "id": "kill-time_9b09f51e",
+  "expression": "kill time",
+  "selectionMeta": {
+    "selectedPhrase": "kill time",
+    "selectedSenseLabelKo": "시간을 때우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I was just killing time at the bookstore while waiting for my friend to finish work."
+  },
+  "step2": {
+    "story": "My flight was delayed by three hours, so I wandered around the airport shops to kill time. I ended up discovering a fascinating travel magazine and read it cover to cover. By the time they announced boarding, I almost didn't want to leave.",
+    "topicTag": "travel delays",
+    "moodTag": "relaxed"
+  },
+  "step3": {
+    "story": "On a rainy Saturday afternoon, Jisoo found herself with absolutely nothing to do. Her plans had been canceled, and the apartment felt unusually quiet. She decided to walk to the nearby café just to kill time. She ordered a latte, pulled out her sketchbook, and started drawing the people around her. Hours slipped by without her even noticing. What began as a way to kill time turned into a hobby she would keep for years to come.",
+    "topicTag": "unexpected hobbies",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '시간을 죽이다'로, 시간을 없애버린다는 뜻입니다.",
+    "realUsageKo": "특별히 할 일이 없을 때 무언가를 하며 시간을 보내는 것을 의미합니다. 약속 전 대기 시간이나 지루한 순간에 자주 씁니다.",
+    "etymologyKo": "16세기 영어에서 유래했으며, 'kill'이 '소멸시키다'라는 비유적 의미로 쓰여 빈 시간을 없앤다는 표현이 되었습니다.",
+    "nuanceKo": "부정적인 뉘앙스는 거의 없으며, 일상 대화에서 가볍게 쓰이는 표현입니다. 다만 '생산적이지 않은 시간 보내기'라는 느낌이 있습니다.",
+    "shortExampleEn": "Let's play cards to kill time until dinner.",
+    "shortExampleKo": "저녁 식사 때까지 카드 게임하면서 시간 때우자."
+  }
+}

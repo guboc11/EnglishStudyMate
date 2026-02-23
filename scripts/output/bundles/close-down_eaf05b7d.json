@@ -1,0 +1,30 @@
+{
+  "id": "close-down_eaf05b7d",
+  "expression": "close down",
+  "selectionMeta": {
+    "selectedPhrase": "close down",
+    "selectedSenseLabelKo": "폐업하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The city council decided to close down the old factory due to repeated safety violations."
+  },
+  "step2": {
+    "story": "After thirty years in business, Mr. Kim had no choice but to close down his bookstore. The rising rent and declining foot traffic made it impossible to keep the doors open. He spent his last evening arranging the empty shelves one final time.",
+    "topicTag": "small business",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "When Sara heard that the neighborhood bakery was about to close down, she couldn't believe it. That little shop had been there since before she was born, filling the street with the smell of fresh bread every morning. She organized a community fundraiser over the weekend, and dozens of neighbors showed up to help. They raised enough money to cover three months of rent, giving the owner time to find a solution. In the end, a local investor stepped in and offered a long-term deal. The bakery stayed open, and Sara realized how much one person's effort could change things.",
+    "topicTag": "community",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'닫아서 내리다'라는 뜻으로, 문을 닫고 영업을 완전히 끝낸다는 의미입니다.",
+    "realUsageKo": "가게, 공장, 회사 등이 영구적으로 문을 닫을 때 사용합니다. 일시적인 휴업이 아니라 완전한 폐업을 뜻하며, 정부나 기관이 강제로 폐쇄하는 경우에도 쓰입니다.",
+    "etymologyKo": "'close'(닫다)와 'down'(완전히, 끝까지)이 결합된 구동사로, 'down'이 동작의 완결성을 강조합니다. 셔터를 내려 완전히 닫는 이미지에서 유래했습니다.",
+    "nuanceKo": "단순히 문을 닫는 것이 아니라 영구적인 종료를 암시합니다. 'shut down'과 비슷하지만, close down은 사업체 폐업에 더 자주 쓰이고 약간 더 격식 있는 느낌입니다.",
+    "shortExampleEn": "They had to close down the restaurant after failing the health inspection.",
+    "shortExampleKo": "위생 검사에 불합격한 후 그 식당은 폐업해야 했다."
+  }
+}

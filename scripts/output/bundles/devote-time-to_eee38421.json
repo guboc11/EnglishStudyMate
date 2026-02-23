@@ -1,0 +1,30 @@
+{
+  "id": "devote-time-to_eee38421",
+  "expression": "devote time to",
+  "selectionMeta": {
+    "selectedPhrase": "devote time to",
+    "selectedSenseLabelKo": "~에 시간을 헌신하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to devote time to learning a new language after years of putting it off."
+  },
+  "step2": {
+    "story": "After his promotion, Marcus realized he had been neglecting his family. He made a promise to devote time to his children every evening, no matter how busy work got. Within weeks, the dinner table was filled with laughter again.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Clara retired from her corporate job at fifty-five, she felt a strange emptiness. For decades, every hour had belonged to deadlines and meetings. One morning, she wandered into a community garden and watched an elderly man tend his tomato plants with quiet devotion. Inspired, she signed up for a plot of her own and began to devote time to growing vegetables from seed. The slow rhythm of watering, weeding, and waiting taught her a patience she never knew she lacked. By autumn, her small garden had become the most abundant patch in the whole community.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'시간을 바치다'라는 뜻으로, 특정 활동이나 목적에 시간을 할애한다는 의미입니다.",
+    "realUsageKo": "어떤 일에 의식적으로 시간을 투자하겠다는 결심이나 헌신을 표현할 때 사용합니다. 단순히 시간을 쓴다는 것보다 목적의식과 진지함이 담겨 있습니다.",
+    "etymologyKo": "devote는 라틴어 'devotare(맹세하여 바치다)'에서 유래했으며, 원래 종교적 헌신을 뜻했으나 현대에는 특정 대상에 전념한다는 일반적 의미로 확장되었습니다.",
+    "nuanceKo": "spend time과 비슷하지만, devote time to는 더 강한 의지와 헌신의 뉘앙스를 담고 있어 격식 있는 표현입니다. 중요하다고 여기는 일에 시간을 쏟겠다는 진지한 태도가 느껴집니다.",
+    "shortExampleEn": "He devotes time to volunteering at the shelter every weekend.",
+    "shortExampleKo": "그는 매주 주말 보호소에서 봉사하는 데 시간을 헌신한다."
+  }
+}

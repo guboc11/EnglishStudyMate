@@ -1,0 +1,30 @@
+{
+  "id": "foster-creativity_60144034",
+  "expression": "foster creativity",
+  "selectionMeta": {
+    "selectedPhrase": "foster creativity",
+    "selectedSenseLabelKo": "창의성을 육성하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new art program at the community center was designed to foster creativity among young students."
+  },
+  "step2": {
+    "story": "Maya had been teaching the same rigid curriculum for years, and her students were losing interest. She decided to throw out the textbook and introduce open-ended projects that would foster creativity. Within weeks, the classroom was buzzing with energy as students built inventions and wrote original stories.",
+    "topicTag": "education",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "When Joon took over as the new director of the design studio, morale was at an all-time low. Designers followed strict templates and nobody dared to experiment. Joon removed the rigid approval process and set up 'innovation Fridays' where everyone could work on passion projects. He believed that the only way to foster creativity was to give people the freedom to fail. Slowly, the team started sharing wild ideas without fear of judgment. By the end of the quarter, the studio had launched three original product lines that none of them could have imagined six months earlier.",
+    "topicTag": "workplace culture",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'foster'는 '기르다, 육성하다'라는 뜻이고, 'creativity'는 '창의성'이므로 직역하면 '창의성을 기르다/육성하다'입니다.",
+    "realUsageKo": "창의적 사고가 자연스럽게 자라날 수 있도록 환경이나 조건을 조성한다는 의미로 사용됩니다. 교육, 직장, 육아 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'Foster'는 고대 영어 'fōstrian(양육하다, 먹이다)'에서 유래했으며, 원래 아이를 돌보고 키운다는 뜻이었습니다. 현대에는 추상적인 것(아이디어, 능력)을 발전시킨다는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '창의성을 높이다'보다 더 격식 있고, 장기적이고 체계적인 노력을 함축합니다. 학술적 글쓰기, 비즈니스 전략, 교육 정책 등 공식적인 맥락에서 자주 사용되는 C1 수준의 표현입니다.",
+    "shortExampleEn": "Great leaders foster creativity by encouraging open dialogue.",
+    "shortExampleKo": "훌륭한 리더는 열린 대화를 장려함으로써 창의성을 육성합니다."
+  }
+}

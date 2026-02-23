@@ -1,0 +1,30 @@
+{
+  "id": "get-the-green-light_a96df593",
+  "expression": "get the green light",
+  "selectionMeta": {
+    "selectedPhrase": "get the green light",
+    "selectedSenseLabelKo": "허가를 받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We finally got the green light from the board to launch the new product line next quarter."
+  },
+  "step2": {
+    "story": "After months of preparing the proposal, Jina nervously presented her urban garden project to the city council. When the chairperson smiled and said they'd approved the funding, she realized she had finally gotten the green light. She rushed out of the meeting room and called her team, barely able to contain her excitement.",
+    "topicTag": "community project",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "David had spent nearly a year developing a plan to convert an abandoned warehouse into a youth arts center. Every week brought new obstacles — zoning regulations, neighborhood complaints, and endless paperwork. He revised the proposal five times, each version addressing a different concern raised by the planning committee. Then one rainy Thursday morning, he received an email from the city office: the project had gotten the green light. He sat at his desk in stunned silence for a full minute before the news truly sank in. By the afternoon, he was already on the phone with contractors, turning months of blueprints into reality.",
+    "topicTag": "urban development",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "초록 불(신호등의 녹색 신호)을 받다라는 뜻입니다.",
+    "realUsageKo": "어떤 일이나 프로젝트를 진행해도 좋다는 공식적인 허가나 승인을 받았을 때 사용합니다. 주로 상사, 기관, 의사결정권자로부터의 승인을 의미합니다.",
+    "etymologyKo": "교통 신호등에서 유래한 표현으로, 녹색 신호가 '진행해도 좋다'는 의미인 것처럼, 어떤 일을 진행해도 된다는 허가를 비유적으로 나타냅니다.",
+    "nuanceKo": "단순한 동의보다는 공식적이고 권위 있는 승인의 뉘앙스가 있습니다. 비즈니스, 프로젝트, 공식 절차 등의 맥락에서 자주 쓰이며 긍정적인 어감을 가집니다.",
+    "shortExampleEn": "The manager gave us the green light to hire two more developers.",
+    "shortExampleKo": "매니저가 개발자 두 명을 더 채용해도 좋다고 허가해 주었다."
+  }
+}

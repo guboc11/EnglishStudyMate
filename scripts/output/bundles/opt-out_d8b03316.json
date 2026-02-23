@@ -1,0 +1,30 @@
+{
+  "id": "opt-out_d8b03316",
+  "expression": "opt out",
+  "selectionMeta": {
+    "selectedPhrase": "opt out",
+    "selectedSenseLabelKo": "빠지다 / 거부하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I decided to opt out of the company's wellness program because it didn't fit my schedule."
+  },
+  "step2": {
+    "story": "The new employee handbook required everyone to join the team-building retreat. Sarah read through the fine print and found she could opt out if she submitted a form by Friday. She filled it out immediately, relieved to spend the weekend catching up on her own projects instead.",
+    "topicTag": "workplace autonomy",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Every year, the neighborhood association organized a massive block party that took over the entire street for a whole Saturday. Most residents loved it, but Daniel had grown tired of the noise and the cleanup duties that always fell on the same few people. This year, he finally decided to opt out of the planning committee altogether. He wrote a polite email explaining that he needed to step back for personal reasons. His neighbors were surprised at first, but a few others quietly admitted they had been thinking about opting out too. By the following week, the committee had restructured itself into a smaller, more dedicated team that actually wanted to be there.",
+    "topicTag": "community involvement",
+    "moodTag": "honest"
+  },
+  "meaning": {
+    "literalMeaningKo": "'밖으로(out) 선택하다(opt)'라는 뜻으로, 어떤 것에서 빠져나가기를 선택한다는 의미입니다.",
+    "realUsageKo": "참여하지 않기로 결정하거나, 기존에 참여하던 것에서 탈퇴·거부할 때 씁니다. 구독 해지, 프로그램 불참, 동의 철회 등 다양한 맥락에서 사용됩니다.",
+    "etymologyKo": "'opt'는 라틴어 'optare(선택하다)'에서 왔으며, 'out'과 결합해 '빠져나가는 쪽을 선택하다'라는 뜻이 되었습니다. 반대말은 'opt in(참여를 선택하다)'입니다.",
+    "nuanceKo": "강제가 아닌 자발적 불참의 뉘앙스가 강합니다. 단순히 '안 하다'보다 '의식적으로 거부를 선택하다'라는 느낌이며, 격식체와 일상체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "You can opt out of receiving marketing emails at any time.",
+    "shortExampleKo": "마케팅 이메일 수신을 언제든지 거부할 수 있습니다."
+  }
+}

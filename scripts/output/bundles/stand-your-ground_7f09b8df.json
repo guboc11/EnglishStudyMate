@@ -1,0 +1,30 @@
+{
+  "id": "stand-your-ground_7f09b8df",
+  "expression": "stand your ground",
+  "selectionMeta": {
+    "selectedPhrase": "stand your ground",
+    "selectedSenseLabelKo": "입장을 고수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when her colleagues disagreed, she decided to stand her ground and defend her original proposal."
+  },
+  "step2": {
+    "story": "The marketing team wanted to scrap Jina's campaign idea and go with something safer. Everyone pressured her to give in, but she stood her ground and presented the data backing her approach. By the end of the meeting, even the skeptics were convinced.",
+    "topicTag": "workplace confidence",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had been the new kid at the architecture firm for only three months when the senior partner proposed demolishing a historic facade for the new development. Every other junior architect nodded along, afraid to speak up. But Marcus had done his research — the facade was structurally sound and culturally significant. He stood his ground in the review meeting, calmly laying out preservation alternatives with cost comparisons. The room went silent. After a long pause, the senior partner leaned back and said, 'Alright, show me the full plan.' That moment earned Marcus a reputation as someone who wouldn't bend just to fit in.",
+    "topicTag": "professional integrity",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "자기가 서 있는 자리를 지키다, 즉 물리적으로 뒤로 물러서지 않는다는 뜻입니다.",
+    "realUsageKo": "반대나 압박에도 불구하고 자신의 의견, 입장, 결정을 굳건히 유지할 때 사용합니다. '소신을 지키다', '입장을 고수하다'와 비슷한 의미입니다.",
+    "etymologyKo": "전투에서 적의 공격에도 후퇴하지 않고 자기 위치를 사수하는 군사 용어에서 유래했습니다. 16세기경부터 비유적으로 확대 사용되었습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 용기 있고 원칙에 따른 행동을 암시합니다. 단순한 고집과는 달리 합리적 근거가 있을 때 주로 쓰입니다.",
+    "shortExampleEn": "Don't let them intimidate you — stand your ground.",
+    "shortExampleKo": "그들에게 겁먹지 마 — 네 입장을 굳건히 지켜."
+  }
+}

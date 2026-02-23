@@ -1,0 +1,30 @@
+{
+  "id": "lay-your-cards-on-the-table_ee435add",
+  "expression": "lay your cards on the table",
+  "selectionMeta": {
+    "selectedPhrase": "lay your cards on the table",
+    "selectedSenseLabelKo": "솔직하게 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before we go any further with this partnership, I think we should lay our cards on the table and discuss what each side really wants."
+  },
+  "step2": {
+    "story": "The merger talks had stalled for weeks because neither company would reveal their true priorities. Finally, the CEO stood up and said, \"Let's lay our cards on the table — we need your technology, and you need our distribution network.\" Within an hour, they had a deal.",
+    "topicTag": "business negotiation",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "Jenna had been avoiding the conversation for months, but the tension between her and her business partner Mark was becoming unbearable. Every meeting felt like a chess game where neither player would make an honest move. One rainy Tuesday afternoon, she walked into his office, closed the door, and said, \"Mark, I think it's time we lay our cards on the table.\" She admitted she wanted to take the company in a completely different direction, and to her surprise, Mark confessed he had been feeling the same way. With everything finally out in the open, they spent the rest of the evening mapping out a new vision they both believed in. It turned out that honesty was exactly what their partnership had been missing.",
+    "topicTag": "partnership and honesty",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "카드를 테이블 위에 놓다 — 손에 쥔 패를 공개하다는 뜻입니다.",
+    "realUsageKo": "숨기지 않고 자신의 생각, 의도, 조건 등을 솔직하게 밝힐 때 사용합니다. 특히 협상이나 중요한 대화에서 더 이상 숨기지 않겠다는 의지를 나타냅니다.",
+    "etymologyKo": "카드 게임에서 유래한 표현으로, 플레이어가 자신의 패를 테이블 위에 공개하는 행위에서 비롯되었습니다. 17세기경부터 비유적으로 사용되기 시작했습니다.",
+    "nuanceKo": "진지하고 성숙한 뉘앙스를 가지며, 갈등 해결이나 중요한 결정의 순간에 주로 쓰입니다. 상대방에게도 솔직해지자고 권유하는 느낌이 있습니다.",
+    "shortExampleEn": "I'll lay my cards on the table — I can't afford more than $500.",
+    "shortExampleKo": "솔직하게 말할게요 — 500달러 이상은 감당할 수 없어요."
+  }
+}

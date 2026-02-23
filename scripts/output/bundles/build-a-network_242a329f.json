@@ -1,0 +1,30 @@
+{
+  "id": "build-a-network_242a329f",
+  "expression": "build a network",
+  "selectionMeta": {
+    "selectedPhrase": "build a network",
+    "selectedSenseLabelKo": "네트워크를 구축하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After moving to a new city, she made it her top priority to build a network of professional contacts in the tech industry."
+  },
+  "step2": {
+    "story": "James had just launched his consulting firm but had zero clients. He started attending industry meetups every week, determined to build a network from scratch. Within six months, referrals from those connections became his main source of revenue.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Mina relocated to Berlin for her startup, she felt completely isolated. She didn't know a single person in the local business scene. Rather than waiting for opportunities to come to her, she decided to build a network one conversation at a time. She volunteered at conferences, joined co-working spaces, and hosted small dinners for fellow founders. Slowly, her calendar filled with coffee chats and collaboration offers. Looking back a year later, she realized that the network she had built was far more valuable than any marketing budget could have been.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '네트워크를 짓다/쌓다'로, 사람들 간의 연결망을 만든다는 뜻입니다.",
+    "realUsageKo": "주로 비즈니스나 커리어 맥락에서 인맥을 넓히고 전문적 관계를 구축할 때 사용합니다. 단순히 사람을 많이 아는 것이 아니라, 서로 도움을 주고받을 수 있는 의미 있는 관계망을 형성한다는 뉘앙스입니다.",
+    "etymologyKo": "'network'는 원래 그물(net)처럼 엮인 구조(work)를 뜻하는 단어로, 20세기 후반부터 인적 관계망이라는 의미로 확장되었습니다. 'build'와 결합하여 관계를 의도적으로 구축한다는 콜로케이션이 정착했습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 전략적이고 능동적인 태도를 내포합니다. 수동적으로 인맥이 생기는 것이 아니라 적극적으로 만들어간다는 의미가 강합니다.",
+    "shortExampleEn": "You should build a network early in your career so you have support when you need it.",
+    "shortExampleKo": "커리어 초기에 네트워크를 구축해 두면 필요할 때 도움을 받을 수 있습니다."
+  }
+}

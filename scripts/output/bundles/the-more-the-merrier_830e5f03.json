@@ -1,0 +1,30 @@
+{
+  "id": "the-more-the-merrier_830e5f03",
+  "expression": "the more the merrier",
+  "selectionMeta": {
+    "selectedPhrase": "the more the merrier",
+    "selectedSenseLabelKo": "많을수록 좋다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We're heading to the beach this weekend — the more the merrier, so bring your friends along!"
+  },
+  "step2": {
+    "story": "Jake was planning a small barbecue in his backyard when his roommate asked if he could invite a few coworkers. Jake grinned and said, \"The more the merrier — I already bought way too much food anyway.\" By evening, the yard was full of laughter and new friendships.",
+    "topicTag": "social gathering",
+    "moodTag": "cheerful"
+  },
+  "step3": {
+    "story": "When Mia first proposed a weekend hiking trip, she only expected three or four people to show up. But word spread quickly through the office, and by Friday afternoon, twelve people had signed up. Her colleague Sarah looked worried and asked if that was too many. Mia just laughed and said, \"The more the merrier — we'll split into groups if the trail gets narrow.\" On Saturday morning, the parking lot was packed with cars and everyone was buzzing with excitement. By the time they reached the summit, even the strangers had become friends, and Mia realized that the best adventures are the ones you share with a crowd.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "warm and inclusive"
+  },
+  "meaning": {
+    "literalMeaningKo": "많으면 많을수록 더 즐겁다는 뜻으로, 사람이 더 많이 참여할수록 좋다는 의미입니다.",
+    "realUsageKo": "파티, 모임, 여행 등에 사람을 더 초대해도 되는지 물을 때 환영의 의미로 자주 씁니다. \"물론이지, 많을수록 좋지!\"처럼 쓰입니다.",
+    "etymologyKo": "13세기 영어 속담에서 유래했으며, 원래 형태는 'the more the merrier; the fewer, the better fare'로 사람이 많을수록 즐겁지만 적을수록 먹을 것이 넉넉하다는 뜻이었습니다.",
+    "nuanceKo": "가볍고 친근한 톤으로, 누군가를 환영하거나 추가 참여를 독려할 때 사용합니다. 격식 없는 일상 대화에서 주로 쓰입니다.",
+    "shortExampleEn": "Can I bring my sister to the party? — Of course, the more the merrier!",
+    "shortExampleKo": "파티에 언니 데려가도 돼? — 당연하지, 많을수록 좋지!"
+  }
+}

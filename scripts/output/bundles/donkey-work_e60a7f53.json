@@ -1,0 +1,30 @@
+{
+  "id": "donkey-work_e60a7f53",
+  "expression": "donkey work",
+  "selectionMeta": {
+    "selectedPhrase": "donkey work",
+    "selectedSenseLabelKo": "힘든 단순 작업",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Nobody wants to do the donkey work, but someone has to organize all these files before the audit."
+  },
+  "step2": {
+    "story": "Maya stared at the mountain of spreadsheets on her desk. Her manager had dumped all the donkey work on her again — hours of data entry while the rest of the team brainstormed creative ideas. She sighed, put on her headphones, and got to work, promising herself she'd speak up at the next meeting.",
+    "topicTag": "workplace fairness",
+    "moodTag": "resigned"
+  },
+  "step3": {
+    "story": "When the startup was just three people in a garage, everyone shared the donkey work equally — answering emails, packing boxes, updating inventory sheets. But as the company grew to fifty employees, the boring tasks quietly shifted onto the shoulders of the newest hires. Jinho, a fresh graduate, spent his first three months doing nothing but data cleanup while senior developers worked on exciting features. One Friday, the CEO noticed Jinho staying late again and sat down beside him. \"I remember doing this exact donkey work five years ago,\" she said. \"It taught me how the whole system connects — and that's why I want to move you to the product team starting Monday.\"",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "당나귀가 하는 일, 즉 힘들고 단조로운 노동을 뜻합니다.",
+    "realUsageKo": "지루하고 반복적이지만 누군가는 해야 하는 힘든 단순 작업을 가리킬 때 씁니다. 주로 불만이나 동정의 뉘앙스로 사용됩니다.",
+    "etymologyKo": "당나귀(donkey)가 무거운 짐을 나르는 고된 노동을 하는 동물이라는 이미지에서 유래했습니다. 19세기 영국 영어에서 처음 사용되었습니다.",
+    "nuanceKo": "약간 불평하는 톤이 담겨 있으며, 격식 없는 일상 대화나 직장에서 자주 쓰입니다. 부정적이지만 공격적이지는 않은 표현입니다.",
+    "shortExampleEn": "The interns always get stuck with the donkey work.",
+    "shortExampleKo": "인턴들은 항상 힘든 단순 작업을 떠맡게 된다."
+  }
+}

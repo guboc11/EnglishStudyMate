@@ -1,0 +1,30 @@
+{
+  "id": "rise-to-the-occasion_fc5a5b7d",
+  "expression": "rise to the occasion",
+  "selectionMeta": {
+    "selectedPhrase": "rise to the occasion",
+    "selectedSenseLabelKo": "위기에 잘 대처하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the lead singer lost her voice right before the concert, the backup vocalist rose to the occasion and delivered an unforgettable performance."
+  },
+  "step2": {
+    "story": "The project manager quit just two days before the product launch. Everyone panicked, but Sarah stepped in and rose to the occasion, coordinating the entire team flawlessly. By Friday evening, they had shipped on time and even landed a glowing review from the CEO.",
+    "topicTag": "leadership",
+    "moodTag": "empowering"
+  },
+  "step3": {
+    "story": "Daniel had always been the quiet intern at the architecture firm, sketching in corners and rarely speaking up in meetings. But when the lead architect fell ill during the final week of a major city hall redesign, the partners had no choice but to hand the presentation to him. His hands trembled as he opened the file, yet once he began walking the city council through the design, something shifted. He spoke with a clarity and passion no one had seen before, answering every tough question with confidence. Daniel truly rose to the occasion that afternoon, and by the end of the session the council approved the project unanimously. From that day on, nobody called him 'just the intern' again.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'상황(occasion)을 향해 올라서다(rise)'라는 뜻으로, 중요한 순간에 맞서 일어선다는 의미입니다.",
+    "realUsageKo": "평소 능력 이상의 역량을 발휘하여 어려운 상황이나 도전을 훌륭하게 해내는 것을 표현할 때 씁니다. 특히 기대 이상의 활약을 보여줄 때 자주 사용됩니다.",
+    "etymologyKo": "16세기 영어에서 유래한 표현으로, 'occasion'은 원래 '중대한 사건이나 시험의 순간'을 뜻했고, 그 순간에 '일어선다(rise)'는 것은 도전에 맞서 당당히 대응한다는 의미로 발전했습니다.",
+    "nuanceKo": "긍정적이고 칭찬의 뉘앙스가 강한 표현입니다. 압박감이나 위기 속에서 기대 이상의 결과를 보여줬을 때 주로 사용하며, 격식·비격식 모두에서 쓸 수 있습니다.",
+    "shortExampleEn": "Despite having no experience, she rose to the occasion and led the team to victory.",
+    "shortExampleKo": "경험이 전혀 없었지만, 그녀는 위기에 잘 대처하여 팀을 승리로 이끌었다."
+  }
+}

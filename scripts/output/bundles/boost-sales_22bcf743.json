@@ -1,0 +1,30 @@
+{
+  "id": "boost-sales_22bcf743",
+  "expression": "boost sales",
+  "selectionMeta": {
+    "selectedPhrase": "boost sales",
+    "selectedSenseLabelKo": "매출을 높이다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The marketing team launched a social media campaign to boost sales before the holiday season."
+  },
+  "step2": {
+    "story": "Our quarterly numbers were disappointing, so the director called an emergency meeting. She proposed partnering with popular influencers to boost sales by at least twenty percent. Within weeks, online orders started flooding in and the whole team felt relieved.",
+    "topicTag": "marketing strategy",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Rachel had just been promoted to regional sales manager, but her first quarter was off to a rough start. Customer foot traffic had dropped significantly since a competitor opened nearby. She spent every evening analyzing data, looking for a way to boost sales without slashing prices. Finally, she introduced a loyalty rewards program that gave returning customers exclusive early access to new products. Word spread quickly, and within a month the store saw a thirty-percent increase in repeat visits. Rachel's creative approach not only saved the quarter but earned her recognition at the national conference.",
+    "topicTag": "retail competition",
+    "moodTag": "resourceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "매출을 끌어올리다, 판매량을 증가시키다라는 뜻입니다.",
+    "realUsageKo": "비즈니스 상황에서 매출이나 판매 실적을 높이기 위한 전략이나 행동을 설명할 때 자주 사용됩니다. 마케팅 캠페인, 할인 행사, 신제품 출시 등 매출 향상을 위한 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "boost는 원래 '밀어 올리다'라는 뜻의 영어 방언에서 유래했으며, 19세기 후반부터 '증가시키다'라는 의미로 확장되었습니다. sales(판매)와 결합해 비즈니스 영어의 핵심 표현이 되었습니다.",
+    "nuanceKo": "단순히 '매출을 올리다'보다 적극적이고 의도적인 노력을 통해 매출을 끌어올린다는 뉘앙스가 있습니다. 긍정적이고 역동적인 느낌을 줍니다.",
+    "shortExampleEn": "We need to boost sales this quarter to meet our annual target.",
+    "shortExampleKo": "연간 목표를 달성하려면 이번 분기에 매출을 높여야 합니다."
+  }
+}

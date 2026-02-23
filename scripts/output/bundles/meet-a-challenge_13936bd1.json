@@ -1,0 +1,30 @@
+{
+  "id": "meet-a-challenge_13936bd1",
+  "expression": "meet a challenge",
+  "selectionMeta": {
+    "selectedPhrase": "meet a challenge",
+    "selectedSenseLabelKo": "도전에 맞서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the company faced a sudden budget cut, the entire team had to meet the challenge of delivering the same results with fewer resources."
+  },
+  "step2": {
+    "story": "Sarah had always been a dependable project manager, but leading a cross-continental team was something entirely new. She knew she had to meet this challenge head-on if she wanted to prove herself. After weeks of late-night calls and careful coordination, the project launched on time and exceeded expectations.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the small-town bakery won a contract to supply pastries for a major tech conference, owner James felt a mix of excitement and dread. He had never produced more than two hundred items a day, and this order called for three thousand in a single weekend. His daughter Elena suggested they bring in her culinary school friends to help. Together, the makeshift team turned the cramped kitchen into a well-oiled machine, each person handling a different station. James realized that the only way to meet a challenge this big was to trust the people around him. By Sunday morning, every last croissant was boxed, loaded, and delivered—still warm.",
+    "topicTag": "teamwork",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'도전을 만나다'라는 뜻으로, 어려운 상황이나 과제에 직면한다는 의미입니다.",
+    "realUsageKo": "실제로는 단순히 '마주하다'가 아니라, 어려운 상황에 적극적으로 대응하고 극복하려는 의지를 담아 사용합니다. '도전에 맞서다', '난관을 헤쳐나가다'에 가깝습니다.",
+    "etymologyKo": "'meet'은 고대 영어 'metan(만나다, 마주하다)'에서 유래했으며, 단순한 만남뿐 아니라 '정면으로 맞서다'라는 뜻도 갖고 있습니다. 'challenge'와 결합하여 '도전에 응하다'라는 의미의 관용 표현이 되었습니다.",
+    "nuanceKo": "이 표현은 긍정적이고 적극적인 태도를 내포합니다. 도전을 회피하지 않고 받아들인다는 뉘앙스가 있어, 비즈니스나 자기계발 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "Our team is ready to meet any challenge that comes our way.",
+    "shortExampleKo": "우리 팀은 어떤 도전이 오더라도 맞설 준비가 되어 있습니다."
+  }
+}

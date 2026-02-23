@@ -1,0 +1,30 @@
+{
+  "id": "stand-up-to_9e77fcce",
+  "expression": "stand up to",
+  "selectionMeta": {
+    "selectedPhrase": "stand up to",
+    "selectedSenseLabelKo": "맞서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to stand up to the bully who had been picking on her younger brother."
+  },
+  "step2": {
+    "story": "For months, Marcus watched his manager take credit for his team's work. One morning, he walked into the meeting room and stood up to her in front of everyone, calmly presenting the evidence. The room fell silent, but his colleagues nodded in quiet support.",
+    "topicTag": "workplace fairness",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Jina had always been the quiet one in the neighborhood council meetings. When the developer announced plans to tear down the community garden, everyone looked at each other nervously but said nothing. Jina's hands trembled as she raised them, but her voice was steady. She stood up to the developer with facts about the garden's history and the families who depended on it. The developer tried to dismiss her, but the crowd behind her began to clap. By the end of the meeting, the demolition plan was shelved indefinitely.",
+    "topicTag": "community advocacy",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'일어서서 ~에게 맞서다'라는 뜻으로, 물리적으로 일어서서 상대를 직면하는 이미지입니다.",
+    "realUsageKo": "권력이나 힘이 더 센 상대에게 용기를 내어 반대 의견을 표하거나 저항할 때 씁니다. 단순한 반대가 아니라 불의나 부당함에 맞서는 뉘앙스가 강합니다.",
+    "etymologyKo": "stand(서다)와 up(위로) + to(~를 향해)가 결합된 구동사로, '똑바로 서서 상대를 마주하다'라는 물리적 자세에서 '용기 있게 맞서다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "약자가 강자에게 맞서는 상황에서 주로 쓰이며, 긍정적이고 용감한 어감을 갖습니다. 'stand up for'(~를 옹호하다)와 혼동하지 않도록 주의하세요.",
+    "shortExampleEn": "It takes real courage to stand up to unfair treatment at work.",
+    "shortExampleKo": "직장에서 부당한 대우에 맞서려면 진정한 용기가 필요합니다."
+  }
+}

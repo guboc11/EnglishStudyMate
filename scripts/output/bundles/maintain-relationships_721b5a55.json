@@ -1,0 +1,30 @@
+{
+  "id": "maintain-relationships_721b5a55",
+  "expression": "maintain relationships",
+  "selectionMeta": {
+    "selectedPhrase": "maintain relationships",
+    "selectedSenseLabelKo": "관계를 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It takes consistent effort and genuine care to maintain relationships over long distances."
+  },
+  "step2": {
+    "story": "After moving abroad for work, Jina realized how hard it was to maintain relationships with her old friends. She started scheduling weekly video calls and sending small gifts on birthdays. Slowly, the distance between them felt a little shorter.",
+    "topicTag": "long-distance friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Derek had always been the life of the party, surrounded by dozens of people who called him a friend. But when he got promoted and his schedule became brutal, he noticed the invitations drying up one by one. He confided in his mentor, who told him bluntly that you have to maintain relationships — they don't just run on autopilot. That weekend, Derek canceled his overtime plans and showed up at his best friend's barbecue unannounced. The look of surprise and joy on everyone's faces reminded him what really mattered. From that day on, he blocked out Friday evenings as sacred time for the people he cared about.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'관계를 유지하다'라는 뜻으로, maintain은 '유지하다, 지속하다', relationships는 '관계, 인간관계'를 의미합니다.",
+    "realUsageKo": "친구, 가족, 동료 등과의 관계를 지속적으로 돌보고 이어간다는 의미로 사용됩니다. 단순히 연락처를 갖고 있는 것이 아니라 꾸준한 노력을 통해 관계를 건강하게 유지한다는 뉘앙스입니다.",
+    "etymologyKo": "maintain은 라틴어 manu tenere(손으로 잡다)에서 유래했으며, '놓지 않고 계속 잡고 있다'는 원래 의미가 '유지하다'로 확장되었습니다.",
+    "nuanceKo": "격식체와 일상 대화 모두에서 자연스럽게 사용됩니다. 관계 유지에 의식적인 노력이 필요하다는 뉘앙스를 담고 있어, 수동적이 아닌 능동적 행동을 함축합니다.",
+    "shortExampleEn": "She makes an effort to maintain relationships with her college friends.",
+    "shortExampleKo": "그녀는 대학 친구들과의 관계를 유지하기 위해 노력합니다."
+  }
+}

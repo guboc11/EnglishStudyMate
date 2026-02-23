@@ -1,0 +1,30 @@
+{
+  "id": "over-someone's-head_d3b20588",
+  "expression": "over someone's head",
+  "selectionMeta": {
+    "selectedPhrase": "over someone's head",
+    "selectedSenseLabelKo": "이해하기 어렵다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The professor's lecture on quantum mechanics went completely over my head."
+  },
+  "step2": {
+    "story": "Jake sat in the back of the conference room while the engineers debated server architecture. Every term they used went over his head, and he quietly Googled words under the table. By the end, he still had no idea what they had decided.",
+    "topicTag": "workplace communication",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "Mina had always been proud of her English skills, but her first day at the London law firm shattered that confidence. The senior partner rattled off case references and Latin legal phrases that went completely over her head. She smiled and nodded, but inside she was panicking. During lunch, a kind colleague noticed her confusion and offered to walk her through the basics. Over the next few weeks, Mina studied every evening until the jargon finally started making sense. What once went over her head became second nature.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 머리 위를 지나간다는 뜻입니다.",
+    "realUsageKo": "어떤 내용이 너무 어렵거나 복잡해서 이해하지 못할 때 사용합니다. '그 설명은 내 수준을 넘어섰어'라는 느낌으로 쓰입니다.",
+    "etymologyKo": "물리적으로 머리 위를 지나가는 물체를 잡을 수 없는 것처럼, 내용이 이해력을 넘어 지나가 버린다는 비유에서 유래했습니다.",
+    "nuanceKo": "본인이 못 알아들었다고 솔직하게 말할 때 자주 쓰이며, 자조적이거나 가벼운 톤으로 사용됩니다. 상대방의 설명이 지나치게 전문적이었다는 뉘앙스도 담깁니다.",
+    "shortExampleEn": "Most of the physics documentary went over her head.",
+    "shortExampleKo": "물리학 다큐멘터리 내용 대부분이 그녀에게는 너무 어려웠다."
+  }
+}

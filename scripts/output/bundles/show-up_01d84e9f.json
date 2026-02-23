@@ -1,0 +1,30 @@
+{
+  "id": "show-up_01d84e9f",
+  "expression": "show up",
+  "selectionMeta": {
+    "selectedPhrase": "show up",
+    "selectedSenseLabelKo": "나타나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She didn't show up for the meeting, so we had to start without her."
+  },
+  "step2": {
+    "story": "Jake promised he'd be at the airport by 6 a.m., but his alarm never went off. His sister waited at the gate, checking her phone every few seconds. He finally showed up just as they announced the last boarding call, breathless and dragging his suitcase behind him.",
+    "topicTag": "travel mishap",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mina had been planning her gallery opening for months, sending out dozens of invitations to friends, family, and local art critics. On the night of the event, she stood alone in the brightly lit room, surrounded by her paintings but no people. She kept glancing at the door, wondering if anyone would show up at all. Then, at half past seven, a small group of college students wandered in, their eyes wide with curiosity. By nine o'clock the room was packed — people she'd never even met had come after seeing a post online. Sometimes the ones who show up are not the ones you expected, and that can be the best surprise of all.",
+    "topicTag": "unexpected support",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "'show(보여주다) + up(위로)' — 직역하면 '위로 모습을 드러내다'라는 뜻입니다.",
+    "realUsageKo": "약속 장소나 행사 등에 모습을 드러내다, 나타나다라는 뜻으로 씁니다. 'appear'보다 구어적이고, 기대하던 사람이 오거나 안 오는 상황에서 자주 사용됩니다.",
+    "etymologyKo": "19세기 미국 영어에서 유래했으며, 원래 카드놀이에서 패를 '보여주며(show) 올리는(up)' 행위에서 '모습을 드러내다'로 의미가 확장되었습니다.",
+    "nuanceKo": "일상 대화에서 매우 자주 쓰이는 표현으로, 격식 없는 톤입니다. 'He didn't show up'처럼 부정형으로 쓰면 약속을 어긴 느낌이 강합니다.",
+    "shortExampleEn": "Do you think he'll show up on time?",
+    "shortExampleKo": "그가 제시간에 나타날 것 같아?"
+  }
+}

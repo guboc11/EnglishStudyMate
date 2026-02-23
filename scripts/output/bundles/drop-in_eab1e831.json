@@ -1,0 +1,30 @@
+{
+  "id": "drop-in_eab1e831",
+  "expression": "drop in",
+  "selectionMeta": {
+    "selectedPhrase": "drop in",
+    "selectedSenseLabelKo": "잠깐 들르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Feel free to drop in whenever you're in the neighborhood."
+  },
+  "step2": {
+    "story": "Sara was driving past her old college campus and decided to drop in on her favorite professor. She found him grading papers in the same tiny office, and his face lit up the moment he saw her. They spent twenty minutes catching up over instant coffee.",
+    "topicTag": "reconnecting",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Kevin had been meaning to visit his grandmother for weeks, but his schedule kept getting in the way. One rainy Saturday afternoon, he finally decided to just drop in without calling ahead. When she opened the door, her surprised smile made him feel guilty for waiting so long. She pulled him inside and immediately started heating up leftover stew. As they sat at the kitchen table talking about everything and nothing, Kevin realized these spontaneous visits meant more to her than any planned holiday dinner. He promised himself he would drop in more often from now on.",
+    "topicTag": "family bonds",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'drop'(떨어지다)과 'in'(안으로)이 합쳐져, 어딘가 안으로 툭 떨어지듯 들어간다는 뜻입니다.",
+    "realUsageKo": "사전에 약속 없이 짧게 방문하거나 잠깐 들를 때 사용합니다. 격식 없이 편하게 찾아가는 느낌을 줍니다.",
+    "etymologyKo": "17세기 영어에서 'drop'이 '갑자기 나타나다'라는 의미로 쓰이기 시작하면서, 'drop in'은 예고 없이 잠깐 방문하다는 뜻으로 정착했습니다.",
+    "nuanceKo": "격식 없는 캐주얼한 방문을 나타내며, 오래 머무르지 않겠다는 뉘앙스가 포함되어 있습니다. 친근하고 부담 없는 톤입니다.",
+    "shortExampleEn": "I'll drop in on my way home from work.",
+    "shortExampleKo": "퇴근길에 잠깐 들를게요."
+  }
+}

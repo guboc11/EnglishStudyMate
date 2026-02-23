@@ -1,0 +1,30 @@
+{
+  "id": "a-bird's-eye-view_09369756",
+  "expression": "a bird's eye view",
+  "selectionMeta": {
+    "selectedPhrase": "a bird's eye view",
+    "selectedSenseLabelKo": "조감도 / 전반적인 시각",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "From the rooftop terrace, we got a bird's eye view of the entire city skyline stretching out to the horizon."
+  },
+  "step2": {
+    "story": "The new manager spent her first week visiting every department instead of staying in her office. She wanted a bird's eye view of how the company actually operated before making any decisions. By Friday, she understood problems that her predecessors had missed for years.",
+    "topicTag": "leadership",
+    "moodTag": "insightful"
+  },
+  "step3": {
+    "story": "Jake had been buried in spreadsheets for weeks, obsessing over individual sales numbers that didn't seem to add up. His mentor finally pulled him aside and said he needed to take a bird's eye view of the situation. Reluctantly, Jake stepped back and mapped out the entire quarterly trend on a whiteboard. Suddenly, the pattern was obvious — sales weren't declining, they were shifting to a completely different product line. The details had been hiding the bigger picture all along. Sometimes you have to zoom out before you can truly see what's happening.",
+    "topicTag": "problem solving",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "새의 눈으로 본 광경, 즉 높은 곳에서 아래를 내려다보는 전체적인 풍경을 뜻합니다.",
+    "realUsageKo": "세부 사항에 얽매이지 않고 전체적인 상황이나 큰 그림을 파악한다는 의미로 사용됩니다. 물리적으로 높은 곳에서 내려다보는 경치를 말할 때도, 비유적으로 전반적인 시각을 가진다는 뜻으로도 쓰입니다.",
+    "etymologyKo": "하늘을 나는 새처럼 높은 위치에서 내려다보면 넓은 지역을 한눈에 볼 수 있다는 데서 유래했습니다. 16세기경부터 영어에서 사용되기 시작했습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 사용되며, 특히 비즈니스나 전략 논의에서 '큰 그림을 보자'는 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "Let's take a bird's eye view of the project before diving into the details.",
+    "shortExampleKo": "세부 사항에 들어가기 전에 프로젝트 전체를 조감해 봅시다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "stick-out_498d1f47",
+  "expression": "stick out",
+  "selectionMeta": {
+    "selectedPhrase": "stick out",
+    "selectedSenseLabelKo": "두드러지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her bright red coat really stuck out in the crowd of people wearing dark colors."
+  },
+  "step2": {
+    "story": "On his first day at the new school, Jake felt like he stuck out because everyone else already knew each other. He sat alone at lunch, fidgeting with his sandwich wrapper. But by the end of the week, a few classmates had noticed him and invited him to join their table.",
+    "topicTag": "fitting in",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mia had always been the quiet one in her design team, letting others present the big ideas. But when the company held its annual innovation contest, she decided to submit her own concept — a minimalist app interface that broke every conventional rule. At the final showcase, her design stuck out immediately among dozens of flashy, overcomplicated entries. The judges paused at her booth longer than anyone else's, exchanging impressed glances. Her creative director later told her it was the simplicity that made it impossible to ignore. Sometimes the things that stick out the most are the ones that dare to be different.",
+    "topicTag": "creative confidence",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stick out'은 말 그대로 무언가가 밖으로 튀어나와 있다는 뜻입니다.",
+    "realUsageKo": "실제로는 주변과 달라서 눈에 잘 띄거나 두드러진다는 의미로 자주 쓰입니다. 외모, 행동, 성과 등이 다른 것들 사이에서 유독 눈에 들어올 때 사용합니다.",
+    "etymologyKo": "'stick'(붙다, 꽂히다)과 'out'(밖으로)의 조합으로, 무언가가 표면 밖으로 삐져나와 시선을 끄는 이미지에서 유래했습니다.",
+    "nuanceKo": "긍정적(돋보이다)으로도 부정적(어색하게 튀다)으로도 쓸 수 있으며, 맥락에 따라 뉘앙스가 달라집니다. 'stand out'과 비슷하지만 좀 더 캐주얼한 느낌입니다.",
+    "shortExampleEn": "That tall building really sticks out in the small village.",
+    "shortExampleKo": "그 높은 건물은 작은 마을에서 정말 두드러져 보인다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "make-it_f86e7c1a",
+  "expression": "make it",
+  "selectionMeta": {
+    "selectedPhrase": "make it",
+    "selectedSenseLabelKo": "해내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of intense preparation, she finally made it into the top university on her list."
+  },
+  "step2": {
+    "story": "Jake had been rejected from three job interviews in a row and was starting to lose hope. But he kept refining his resume and practicing his answers every night. When he finally got the offer from his dream company, he whispered to himself, 'I actually made it.'",
+    "topicTag": "career perseverance",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mia stared at the summit through the fog, her legs trembling from eight hours of climbing. Her guide had warned her that most hikers turned back at this altitude. The wind cut through her jacket, and every breath felt like swallowing ice. But she kept placing one foot in front of the other, refusing to quit. When she finally reached the peak and saw the sunrise painting the clouds below her, tears streamed down her face. She had made it — not just to the top of the mountain, but past every doubt that had told her she couldn't.",
+    "topicTag": "overcoming self-doubt",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'make it'은 직역하면 '그것을 만들다'이지만, 실제로는 목표를 달성하거나 성공하다는 뜻입니다.",
+    "realUsageKo": "어려운 상황을 극복하고 목표를 이루었을 때 사용합니다. '시험에 합격하다', '어딘가에 제시간에 도착하다', '병에서 회복하다' 등 다양한 맥락에서 '해내다/성공하다'의 의미로 쓰입니다.",
+    "etymologyKo": "'make'의 '이루다, 완성하다'라는 고대 영어 뜻에서 유래했으며, 'it'은 막연한 목표나 상황을 가리킵니다. 중세 영어 시기부터 '성공하다'라는 의미로 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "단순한 성공보다는 어려움이나 역경을 이겨냈다는 뉘앙스가 강합니다. 캐주얼한 대화에서 자주 쓰이며, 감정적으로 뿌듯하거나 안도하는 느낌을 담고 있습니다.",
+    "shortExampleEn": "The traffic was terrible, but we made it to the airport just in time.",
+    "shortExampleKo": "교통이 끔찍했지만, 우리는 가까스로 공항에 제시간에 도착했다."
+  }
+}

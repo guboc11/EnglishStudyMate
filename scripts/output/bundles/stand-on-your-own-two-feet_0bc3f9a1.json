@@ -1,0 +1,30 @@
+{
+  "id": "stand-on-your-own-two-feet_0bc3f9a1",
+  "expression": "stand on your own two feet",
+  "selectionMeta": {
+    "selectedPhrase": "stand on your own two feet",
+    "selectedSenseLabelKo": "자립하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After graduating from college, she was determined to stand on her own two feet and moved into her first apartment without any help from her parents."
+  },
+  "step2": {
+    "story": "Jake had always relied on his older brother for everything—from fixing his car to managing his finances. But when his brother moved overseas, Jake had no choice but to stand on his own two feet. Within a few months, he surprised everyone, including himself, by handling every challenge that came his way.",
+    "topicTag": "independence",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mia grew up in a household where her parents made every decision for her—what to study, where to work, even what to eat for dinner. When she turned twenty-five, something shifted inside her. She quit the accounting job her father had arranged and enrolled in a culinary arts program she had secretly dreamed about for years. Her parents were furious at first, refusing to support her financially. But Mia was ready to stand on her own two feet. She worked double shifts at a small café to pay her tuition, and by the end of the year, she had not only graduated at the top of her class but also opened a tiny food stall that quickly became the talk of the neighborhood.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 두 발로 서다, 즉 다른 사람의 도움 없이 스스로 서 있다는 뜻입니다.",
+    "realUsageKo": "경제적으로나 정서적으로 독립하여 남에게 의존하지 않고 자기 힘으로 살아간다는 의미로 사용됩니다. 주로 성인이 되어 부모나 타인의 도움 없이 스스로 생활할 때 쓰입니다.",
+    "etymologyKo": "아기가 처음으로 두 발로 서서 걷기 시작하는 모습에서 유래한 표현으로, 독립과 자립의 상징으로 오래전부터 영어권에서 사용되어 왔습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 누군가의 성장과 독립을 격려하거나 칭찬할 때 자주 사용됩니다. 때로는 '이제 스스로 해야 할 때'라는 약간의 엄격한 조언으로도 쓰입니다.",
+    "shortExampleEn": "It's time you learned to stand on your own two feet instead of asking me for money every month.",
+    "shortExampleKo": "매달 나한테 돈 달라고 하지 말고, 이제 스스로 자립할 때가 됐어."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "slip-up_06a46d3f",
+  "expression": "slip up",
+  "selectionMeta": {
+    "selectedPhrase": "slip up",
+    "selectedSenseLabelKo": "실수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I slipped up during the presentation and accidentally showed the wrong slide."
+  },
+  "step2": {
+    "story": "Jake had rehearsed his speech dozens of times, but nerves got the better of him. He slipped up on the client's name right in front of the CEO. Luckily, he laughed it off and the room relaxed with him.",
+    "topicTag": "work pressure",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mina had been a barista for three years and prided herself on never getting an order wrong. But one hectic Monday morning, with a line stretching out the door, she slipped up and made a latte with regular milk instead of oat milk. The customer noticed immediately and pointed it out with a frown. Mina apologized, remade the drink in under a minute, and added a free cookie as a gesture. The customer left smiling, and Mina reminded herself that one small mistake didn't erase years of good work. Everyone slips up sometimes — what matters is how you handle it.",
+    "topicTag": "customer service",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'slip'은 미끄러지다, 'up'은 위로라는 뜻으로, 직역하면 '위로 미끄러지다'라는 의미입니다.",
+    "realUsageKo": "실제로는 '실수하다', '뜻하지 않게 잘못하다'라는 의미로 쓰입니다. 주로 부주의나 긴장으로 인해 작은 실수를 저지를 때 사용합니다.",
+    "etymologyKo": "'slip'은 중세 영어에서 '미끄러지다'를 뜻하는 단어에서 유래했으며, 발을 헛디디듯 실수한다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "심각한 실수보다는 가벼운 실수, 부주의한 실수에 주로 사용됩니다. 비난보다는 '누구나 할 수 있는 실수'라는 뉘앙스가 있어 비교적 부드러운 표현입니다.",
+    "shortExampleEn": "Don't worry — everyone slips up now and then.",
+    "shortExampleKo": "걱정 마세요 — 누구나 가끔 실수하는 거예요."
+  }
+}

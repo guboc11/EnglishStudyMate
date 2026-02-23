@@ -1,0 +1,30 @@
+{
+  "id": "pan-out_c655827d",
+  "expression": "pan out",
+  "selectionMeta": {
+    "selectedPhrase": "pan out",
+    "selectedSenseLabelKo": "잘 되다 / 결과가 나오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We weren't sure if the new marketing strategy would pan out, but sales doubled within a month."
+  },
+  "step2": {
+    "story": "After months of searching, Jake finally landed a job interview at his dream company. He prepared for weeks, rehearsing answers and studying the company inside out. Everything panned out perfectly — he got the offer and started the following Monday.",
+    "topicTag": "career opportunity",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Elena had always dreamed of opening her own bakery, but everyone around her said it was too risky. She quit her stable office job, poured her savings into a tiny shop on a quiet street, and spent every morning baking before sunrise. The first few months were brutal — barely any customers and bills piling up. But she kept going, tweaking her menu and posting on social media. Slowly, word spread, and lines started forming outside her door. Her gamble had finally panned out, and she couldn't believe she had almost given up.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "persevering"
+  },
+  "meaning": {
+    "literalMeaningKo": "금을 채취할 때 냄비(pan)에서 흙을 씻어내면 결과물(금)이 나온다는 뜻입니다.",
+    "realUsageKo": "어떤 계획이나 상황이 '잘 되다', '좋은 결과가 나오다'라는 의미로 사용됩니다. 보통 불확실했던 일이 결국 좋게 마무리될 때 씁니다.",
+    "etymologyKo": "19세기 미국 골드러시 시대에 사금을 채취하던 'panning for gold'에서 유래했습니다. 냄비(pan)로 모래를 씻어내고 금이 남으면 성공한 것이죠.",
+    "nuanceKo": "주로 결과가 불확실했던 상황에서 사용하며, 긍정적 결과와 부정적 결과 모두에 쓸 수 있습니다. 'Things didn't pan out'처럼 부정형으로도 자주 씁니다.",
+    "shortExampleEn": "I hope this investment pans out in the long run.",
+    "shortExampleKo": "이 투자가 장기적으로 잘 되길 바랍니다."
+  }
+}

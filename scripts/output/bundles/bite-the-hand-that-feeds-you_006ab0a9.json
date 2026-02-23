@@ -1,0 +1,30 @@
+{
+  "id": "bite-the-hand-that-feeds-you_006ab0a9",
+  "expression": "bite the hand that feeds you",
+  "selectionMeta": {
+    "selectedPhrase": "bite the hand that feeds you",
+    "selectedSenseLabelKo": "은혜를 원수로 갚다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After everything the company did for him, he decided to bite the hand that feeds him by leaking confidential information to a competitor."
+  },
+  "step2": {
+    "story": "Jake's mentor had spent years helping him climb the corporate ladder, sharing contacts and giving him prime assignments. But when Jake landed a director role, he publicly criticized his mentor's methods in a meeting and took credit for their shared projects. Everyone whispered that Jake had truly bitten the hand that fed him.",
+    "topicTag": "betrayal at work",
+    "moodTag": "bitter"
+  },
+  "step3": {
+    "story": "For five years, Mrs. Park ran a small bakery and gave free bread every morning to a struggling young artist named Daniel who lived next door. She let him display his paintings on her walls, and her customers started buying them. When Daniel finally got famous and opened his own gallery downtown, a reporter asked about his early days. Instead of thanking Mrs. Park, he dismissed her bakery as a 'sad little shop' and claimed he succeeded entirely on his own. The neighborhood was stunned — Daniel had bitten the hand that fed him. Mrs. Park quietly took down his last remaining painting from the wall and never mentioned his name again.",
+    "topicTag": "gratitude and betrayal",
+    "moodTag": "disappointed"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신에게 먹이를 주는 손을 물다, 즉 자신을 먹여 살리는 사람을 공격한다는 뜻입니다.",
+    "realUsageKo": "자신을 도와준 사람이나 은혜를 베푼 사람에게 오히려 해를 끼치거나 배신할 때 사용합니다. 직장에서 자신을 키워준 상사를 배신하거나, 도움을 준 사람을 험담하는 상황에서 자주 쓰입니다.",
+    "etymologyKo": "길들여진 동물이 주인의 손을 무는 행동에서 유래한 표현으로, 고대부터 배은망덕한 행위를 비유하는 데 사용되었습니다.",
+    "nuanceKo": "강한 비난과 실망의 뉘앙스를 담고 있으며, 배은망덕한 행동을 경고하거나 비판할 때 사용합니다. 격식/비격식 모두에서 널리 쓰이는 표현입니다.",
+    "shortExampleEn": "Don't bite the hand that feeds you — your manager fought hard to get you that raise.",
+    "shortExampleKo": "은혜를 원수로 갚지 마 — 네 매니저가 네 연봉 인상을 위해 열심히 싸웠잖아."
+  }
+}

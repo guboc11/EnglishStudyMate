@@ -1,0 +1,30 @@
+{
+  "id": "get-on_469df189",
+  "expression": "get on",
+  "selectionMeta": {
+    "selectedPhrase": "get on",
+    "selectedSenseLabelKo": "타다 / 잘 지내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She waved goodbye and got on the bus before the doors closed."
+  },
+  "step2": {
+    "story": "Tom was nervous about his new job, but he got on surprisingly well with his teammates from the very first day. They welcomed him warmly and even invited him to lunch. By the end of the week, it felt like he had known them for years.",
+    "topicTag": "workplace relationships",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Maya rushed to the platform just as the train was about to leave. She squeezed through the closing doors and got on with seconds to spare, breathing a huge sigh of relief. She found a seat next to a kind elderly woman who smiled and moved her bag to make room. As the city faded outside the window, Maya realized she also needed to get on better with her sister — their last argument had gone on too long. She pulled out her phone and sent a simple message: 'I miss you.' By the time the train arrived at her stop, her sister had already replied with a string of heart emojis.",
+    "topicTag": "family and commute",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'get on'은 버스, 기차, 비행기 등의 교통수단에 올라타다는 뜻입니다.",
+    "realUsageKo": "교통수단에 탑승할 때 사용하는 것 외에도, 사람들과 사이좋게 지내거나 잘 어울린다는 의미로도 자주 쓰입니다. 예를 들어 'get on with someone'은 누군가와 잘 지내다는 표현입니다.",
+    "etymologyKo": "'get'은 고대 노르드어 'geta(얻다, 이르다)'에서 유래했으며, 'on'과 결합해 '위에 올라가다'라는 공간적 의미를 형성했습니다.",
+    "nuanceKo": "교통수단 탑승 의미로는 중립적이고 사실적인 어감이며, '잘 지내다' 의미로는 긍정적이고 친근한 뉘앙스를 가집니다. 영국 영어에서 특히 후자의 용법이 많이 쓰입니다.",
+    "shortExampleEn": "Do you get on well with your neighbors?",
+    "shortExampleKo": "이웃들과 잘 지내시나요?"
+  }
+}

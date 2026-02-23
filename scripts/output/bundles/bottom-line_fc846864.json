@@ -1,0 +1,30 @@
+{
+  "id": "bottom-line_fc846864",
+  "expression": "bottom line",
+  "selectionMeta": {
+    "selectedPhrase": "bottom line",
+    "selectedSenseLabelKo": "핵심 / 최종 결론",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The bottom line is that we need to cut costs if we want to survive this quarter."
+  },
+  "step2": {
+    "story": "After an hour of debate about the new marketing strategy, the CEO raised her hand to silence the room. \"I appreciate everyone's input, but here's the bottom line — if we don't reach 10,000 users by March, we're shutting down the project.\" The room went quiet as the weight of her words sank in.",
+    "topicTag": "business decisions",
+    "moodTag": "serious"
+  },
+  "step3": {
+    "story": "Kevin had been going back and forth with his landlord for weeks about the broken heating system. Emails, phone calls, even a formal complaint — nothing worked. His friend Sarah, a lawyer, finally sat him down over coffee. \"Look, Kevin, I know you want to be polite about this, but the bottom line is that your landlord is legally required to fix it.\" She pulled out a printout of the tenant protection law and slid it across the table. \"Send him this, and if he doesn't respond within a week, we file a complaint with the housing authority.\" Kevin nodded slowly, realizing he had been too patient for too long.",
+    "topicTag": "tenant rights",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로 '맨 아래 줄'이라는 뜻으로, 재무제표 맨 아래에 적히는 최종 수익/손실 금액을 가리킵니다.",
+    "realUsageKo": "실제로는 '핵심 요점', '결론', '가장 중요한 것'이라는 의미로 널리 쓰입니다. 긴 논의나 복잡한 상황을 정리하며 가장 중요한 포인트를 짚을 때 사용합니다.",
+    "etymologyKo": "회계 용어에서 유래했습니다. 손익계산서(income statement)의 맨 아래 줄(bottom line)에 최종 순이익이 기록되는 데서, '최종 결과' → '핵심'이라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "직설적이고 단도직입적인 뉘앙스를 줍니다. 'The bottom line is...'라고 하면 '결론부터 말하면...'처럼 핵심을 바로 꺼내는 느낌이며, 비즈니스뿐 아니라 일상 대화에서도 자주 쓰입니다.",
+    "shortExampleEn": "The bottom line is we can't afford it right now.",
+    "shortExampleKo": "핵심은, 지금 당장은 그걸 감당할 여유가 없다는 거예요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "the-whole-nine-yards_743efbbb",
+  "expression": "the whole nine yards",
+  "selectionMeta": {
+    "selectedPhrase": "the whole nine yards",
+    "selectedSenseLabelKo": "전부 다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When she threw the surprise party, she went the whole nine yards — balloons, a live band, and a three-tier cake."
+  },
+  "step2": {
+    "story": "Jake had always dreamed of proposing in the most memorable way possible. He rented a rooftop overlooking the city, hired a string quartet, and scattered rose petals everywhere — the whole nine yards. When she said yes through happy tears, he knew every detail had been worth it.",
+    "topicTag": "romance",
+    "moodTag": "heartfelt"
+  },
+  "step3": {
+    "story": "After years of living in a cramped apartment, Mina finally bought her first house. She refused to cut corners on the renovation and went the whole nine yards — new hardwood floors, custom kitchen cabinets, smart home wiring, and even a small garden out back. Her friends warned her she was overdoing it, but Mina had waited too long to settle for anything less. On move-in day, she walked through each room slowly, running her fingers along the fresh paint. Every penny and sleepless weekend had led to this moment. She smiled and whispered to herself, 'This is exactly what I wanted.'",
+    "topicTag": "new beginnings",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "'9야드 전부'라는 뜻으로, 어떤 것의 전체 길이나 범위를 가리킵니다.",
+    "realUsageKo": "무언가를 할 때 빠짐없이 완벽하게, 최대한 다 한다는 의미로 사용됩니다. '완전히 다', '처음부터 끝까지 전부'라는 뉘앙스입니다.",
+    "etymologyKo": "정확한 어원은 논쟁이 있지만, 2차 세계대전 당시 전투기 기관총의 탄띠 길이가 9야드(약 8.2m)였고, 탄띠를 전부 쏟아붓는다는 데서 유래했다는 설이 가장 널리 알려져 있습니다.",
+    "nuanceKo": "긍정적이고 감탄하는 어조로 자주 쓰이며, 누군가의 철저함이나 헌신을 칭찬할 때 많이 사용합니다. 캐주얼한 대화에서 흔히 쓰입니다.",
+    "shortExampleEn": "For his wedding, he went the whole nine yards and even hired a fireworks team.",
+    "shortExampleKo": "결혼식을 위해 그는 전부 다 준비했고, 심지어 불꽃놀이 팀까지 고용했다."
+  }
+}

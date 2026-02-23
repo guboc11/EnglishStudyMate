@@ -1,0 +1,30 @@
+{
+  "id": "challenge-assumptions_c9c1e786",
+  "expression": "challenge assumptions",
+  "selectionMeta": {
+    "selectedPhrase": "challenge assumptions",
+    "selectedSenseLabelKo": "가정에 도전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new team leader encouraged everyone to challenge assumptions about how the project should be managed."
+  },
+  "step2": {
+    "story": "During the product review meeting, Mina noticed that the team kept following the same process without questioning it. She stood up and said they needed to challenge assumptions about their target audience. Her fresh perspective led to a complete redesign that doubled user engagement.",
+    "topicTag": "innovation",
+    "moodTag": "bold"
+  },
+  "step3": {
+    "story": "For years, the research department at Hana's university had operated under the belief that their methodology was flawless. When Hana joined as a junior researcher, she began to challenge assumptions embedded in the team's data analysis framework. Her colleagues initially dismissed her concerns, calling her inexperienced. But after she presented a detailed report showing critical blind spots, the senior professors had no choice but to listen. The department eventually revised its entire approach, crediting Hana for having the courage to question what everyone else took for granted. It was a turning point that reminded them all how dangerous unchecked assumptions could be.",
+    "topicTag": "critical thinking",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "'가정(assumptions)에 도전하다(challenge)'라는 뜻으로, 당연하다고 여겨지는 것들에 의문을 제기하는 행위를 말합니다.",
+    "realUsageKo": "기존에 당연하게 받아들여지던 생각, 믿음, 방식에 대해 '정말 그런가?'라고 비판적으로 질문하고 재검토할 때 사용합니다. 비즈니스, 학술, 일상 대화 모두에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'challenge'는 라틴어 'calumnia(비난)'에서 유래했고, 'assumption'은 라틴어 'assumere(받아들이다)'에서 왔습니다. 두 단어가 결합되어 '무비판적으로 받아들인 것에 이의를 제기하다'라는 의미가 되었습니다.",
+    "nuanceKo": "긍정적이고 지적인 뉘앙스를 가집니다. 단순히 반대하는 것이 아니라 더 나은 결과를 위해 건설적으로 의문을 제기한다는 느낌이 강합니다. 비판적 사고(critical thinking)와 자주 연결됩니다.",
+    "shortExampleEn": "Great leaders always challenge assumptions before making big decisions.",
+    "shortExampleKo": "훌륭한 리더는 큰 결정을 내리기 전에 항상 기존 가정에 도전합니다."
+  }
+}

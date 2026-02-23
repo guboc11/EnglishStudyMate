@@ -1,0 +1,30 @@
+{
+  "id": "change-perspective_beed443f",
+  "expression": "change perspective",
+  "selectionMeta": {
+    "selectedPhrase": "change perspective",
+    "selectedSenseLabelKo": "관점을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Traveling to a completely different country helped me change perspective on what really matters in life."
+  },
+  "step2": {
+    "story": "After months of complaining about his boring job, Marco decided to volunteer at a homeless shelter on weekends. Seeing how grateful people were for a simple warm meal made him change perspective entirely. He returned to work on Monday with a renewed sense of appreciation.",
+    "topicTag": "gratitude",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Yuna had always believed that success meant climbing the corporate ladder as fast as possible. She worked seventy-hour weeks, skipped vacations, and measured her worth by her job title. Then one autumn, her grandmother fell ill, and Yuna flew home to take care of her. Sitting by the hospital bed, listening to her grandmother's quiet stories about a simple but fulfilling life, Yuna began to change perspective. She realized that the promotions she had been chasing would never replace the moments she was missing with the people she loved. When she returned to the office, she set clear boundaries for the first time and started building a life she actually wanted to live.",
+    "topicTag": "work-life balance",
+    "moodTag": "introspective"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '관점을 바꾸다'라는 뜻으로, 어떤 사안을 보는 시각이나 입장을 전환하는 것을 의미합니다.",
+    "realUsageKo": "어떤 경험이나 깨달음을 통해 기존에 가지고 있던 생각이나 태도가 달라질 때 사용합니다. 주로 긍정적인 방향으로의 시각 전환을 나타냅니다.",
+    "etymologyKo": "'change'(바꾸다)와 'perspective'(관점, 시각)의 조합입니다. 'perspective'는 라틴어 'perspicere'(꿰뚫어 보다)에서 유래했으며, 원래 미술에서 원근법을 뜻하다가 비유적으로 '사물을 바라보는 관점'이라는 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 의견 변화가 아니라, 더 깊은 차원에서 사고방식이나 가치관이 전환되는 뉘앙스를 담고 있습니다. 일상 대화와 비즈니스 맥락 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Reading that book really helped me change perspective on education.",
+    "shortExampleKo": "그 책을 읽고 교육에 대한 관점이 정말 바뀌었어요."
+  }
+}

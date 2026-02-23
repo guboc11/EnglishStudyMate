@@ -1,0 +1,30 @@
+{
+  "id": "turn-around_e6eb83cc",
+  "expression": "turn around",
+  "selectionMeta": {
+    "selectedPhrase": "turn around",
+    "selectedSenseLabelKo": "방향을 바꾸다 / 개선하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company managed to turn around its declining sales by launching a bold new marketing campaign."
+  },
+  "step2": {
+    "story": "Last year, the small bakery was on the verge of closing. The owner decided to turn around the business by introducing online orders and delivery. Within six months, profits doubled and the shop was busier than ever.",
+    "topicTag": "business recovery",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jiwon stared at the rejection email and felt her confidence crumble. She had failed three job interviews in a row, and doubt was creeping in. That evening, her mentor told her something that stuck: \"Every setback is just a setup for a comeback.\" Jiwon took the advice to heart and spent the next month sharpening her skills and practicing mock interviews. When the fourth opportunity came, she was ready. She managed to turn around her entire approach, and this time, the offer letter arrived with a smile.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적으로 몸이나 방향을 반대쪽으로 돌리다.",
+    "realUsageKo": "실제로는 나쁜 상황이나 결과를 좋은 방향으로 바꾸다, 호전시키다라는 의미로 자주 쓰입니다. 사업, 성적, 건강 등 다양한 맥락에서 '역전하다'의 뉘앙스로 사용됩니다.",
+    "etymologyKo": "'turn'(돌다)과 'around'(주위로)가 합쳐진 구동사로, 본래 물리적 회전을 뜻했으나 비유적으로 상황의 반전을 의미하게 되었습니다.",
+    "nuanceKo": "단순한 변화가 아니라 부정적 상태에서 긍정적 상태로의 극적인 전환을 암시합니다. 긍정적이고 희망적인 톤으로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "She turned around her grades by studying every night.",
+    "shortExampleKo": "그녀는 매일 밤 공부해서 성적을 완전히 뒤집었다."
+  }
+}

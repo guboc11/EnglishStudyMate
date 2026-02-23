@@ -1,0 +1,30 @@
+{
+  "id": "mix-up_e3fcce03",
+  "expression": "mix up",
+  "selectionMeta": {
+    "selectedPhrase": "mix up",
+    "selectedSenseLabelKo": "혼동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I always mix up the twins because they look so similar."
+  },
+  "step2": {
+    "story": "Sarah grabbed her roommate's laptop bag instead of her own on the way to work. She didn't realize she had mixed up the bags until she opened it during a meeting and found someone else's files. Her face turned bright red as she quietly closed the bag.",
+    "topicTag": "daily mishaps",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "Kevin had been studying Spanish and Portuguese at the same time for months. At first, he felt confident managing both languages, but soon the vocabulary started to blend together in his mind. During his Spanish oral exam, he mixed up several Portuguese words with Spanish ones without even noticing. His professor gently pointed out the mistakes, and Kevin realized he needed a new strategy. He decided to study each language on alternate days to keep them separate. Within a few weeks, the confusion faded and he could finally tell the two apart.",
+    "topicTag": "language learning",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'mix'(섞다)와 'up'(위로)이 합쳐져, 여러 가지가 뒤섞여 올라간다는 뜻입니다.",
+    "realUsageKo": "두 가지 이상의 것을 서로 헷갈려서 잘못 구별할 때 사용합니다. 사람, 단어, 날짜, 장소 등 거의 모든 것에 쓸 수 있습니다.",
+    "etymologyKo": "'mix'는 라틴어 'miscere'(섞다)에서 유래했으며, 'up'은 동작의 완료나 혼란 상태를 강조하는 부사입니다. 16세기경부터 '혼동하다'의 의미로 사용되었습니다.",
+    "nuanceKo": "의도적이 아닌 실수로 헷갈린 상황에서 주로 쓰이며, 가벼운 뉘앙스입니다. 심각한 오류보다는 일상적인 착각이나 혼동에 어울립니다.",
+    "shortExampleEn": "Sorry, I mixed up the dates — I thought the meeting was on Thursday.",
+    "shortExampleKo": "미안해요, 날짜를 혼동했어요 — 회의가 목요일인 줄 알았거든요."
+  }
+}

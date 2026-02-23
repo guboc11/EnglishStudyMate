@@ -1,0 +1,30 @@
+{
+  "id": "rain-on-someone's-parade_8fa09036",
+  "expression": "rain on someone's parade",
+  "selectionMeta": {
+    "selectedPhrase": "rain on someone's parade",
+    "selectedSenseLabelKo": "기쁨을 망치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I hate to rain on your parade, but the budget report shows we can't afford the company retreat this year."
+  },
+  "step2": {
+    "story": "Maya had been planning her surprise birthday party for weeks, picking out decorations and ordering a custom cake. Just two days before the event, her roommate accidentally mentioned the party in front of everyone. She didn't mean to rain on Maya's parade, but the surprise was completely ruined.",
+    "topicTag": "celebration gone wrong",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "After months of preparation, Jenna finally landed her dream job at a prestigious design firm downtown. She rushed home, bursting with excitement, ready to share the news with her family over dinner. Her older brother, however, immediately pointed out that the commute would be brutal and the salary was below market rate. Jenna's smile faded as he continued listing every possible downside. Their mother quietly told him to stop raining on Jenna's parade and let her enjoy the moment. Jenna appreciated her mother stepping in, but the initial thrill had already dimmed.",
+    "topicTag": "family dynamics",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 퍼레이드에 비를 내리게 하다라는 뜻으로, 즐거운 행사에 비가 와서 망치는 상황을 비유합니다.",
+    "realUsageKo": "상대방이 기뻐하거나 들떠 있을 때 부정적인 말이나 행동으로 그 기분을 꺾는 상황에서 사용합니다. 주로 'I don't want to rain on your parade, but...'처럼 나쁜 소식을 전할 때 완곡하게 쓰입니다.",
+    "etymologyKo": "야외 퍼레이드(축제 행렬)가 갑작스러운 비로 취소되거나 망가지는 상황에서 유래했으며, 1900년대 초반 미국에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "단순히 기분을 상하게 하는 것보다는 '들뜬 분위기에 찬물을 끼얹다'에 가깝습니다. 악의보다는 현실적인 지적이나 의도치 않은 방해의 뉘앙스가 강합니다.",
+    "shortExampleEn": "Sorry to rain on your parade, but the concert has been canceled.",
+    "shortExampleKo": "기분 깨서 미안한데, 콘서트가 취소됐어."
+  }
+}

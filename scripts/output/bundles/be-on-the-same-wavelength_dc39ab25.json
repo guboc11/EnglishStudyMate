@@ -1,0 +1,30 @@
+{
+  "id": "be-on-the-same-wavelength_dc39ab25",
+  "expression": "be on the same wavelength",
+  "selectionMeta": {
+    "selectedPhrase": "be on the same wavelength",
+    "selectedSenseLabelKo": "같은 생각을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "From the very first meeting, Sarah and her new business partner were on the same wavelength about the company's direction."
+  },
+  "step2": {
+    "story": "Jake had been struggling to explain his vision for the app redesign to his previous manager for months. But when the new team lead, Mina, joined, everything changed. They were on the same wavelength from day one, finishing each other's sentences during brainstorming sessions.",
+    "topicTag": "teamwork",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "After years of working with clients who never quite understood her design philosophy, Emma was exhausted. Every project felt like an uphill battle of endless revisions and misunderstandings. Then one morning, a new client named David walked into her studio with a mood board that could have been pulled straight from her own portfolio. As they discussed the project over coffee, ideas flowed effortlessly between them. They were completely on the same wavelength, agreeing on colors, layouts, and even the smallest typographic details. For the first time in years, Emma felt genuinely excited about a collaboration.",
+    "topicTag": "creative collaboration",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "같은 파장 위에 있다는 뜻으로, 라디오 주파수를 같은 채널에 맞춘다는 의미입니다.",
+    "realUsageKo": "두 사람이 생각이나 의견이 잘 맞을 때 사용합니다. '우리 코드가 맞다', '죽이 잘 맞다'와 비슷한 표현입니다.",
+    "etymologyKo": "라디오 통신에서 유래한 표현입니다. 송신기와 수신기가 같은 주파수(wavelength)에 맞춰져야 소통이 되는 것처럼, 사람 간의 소통이 잘 되는 상태를 비유합니다.",
+    "nuanceKo": "긍정적인 뉘앙스로, 특별한 노력 없이도 자연스럽게 서로 이해하고 공감한다는 느낌을 줍니다. 업무, 우정, 연애 등 다양한 관계에서 사용됩니다.",
+    "shortExampleEn": "We're on the same wavelength when it comes to raising our kids.",
+    "shortExampleKo": "아이를 키우는 문제에 관해서 우리는 생각이 잘 맞아요."
+  }
+}

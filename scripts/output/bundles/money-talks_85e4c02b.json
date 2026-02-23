@@ -1,0 +1,30 @@
+{
+  "id": "money-talks_85e4c02b",
+  "expression": "money talks",
+  "selectionMeta": {
+    "selectedPhrase": "money talks",
+    "selectedSenseLabelKo": "돈이 힘이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When it came to getting the best table at the restaurant, money talks — they were seated immediately after slipping the host a tip."
+  },
+  "step2": {
+    "story": "Jake had been trying to get a permit for his food truck for months, but the paperwork kept getting delayed. His wealthy friend made a few phone calls and a generous donation to the city fund, and the permit arrived the next week. Jake shook his head and muttered, \"I guess money talks.\"",
+    "topicTag": "influence and wealth",
+    "moodTag": "cynical"
+  },
+  "step3": {
+    "story": "Soo-jin had worked at the architecture firm for five years, producing award-worthy designs that never got built. Then a new client walked in — a billionaire who wanted an entire cultural center designed from scratch. Suddenly, every idea Soo-jin had pitched before was approved overnight. The partners who had ignored her for years were now scheduling weekly meetings to hear her vision. She realized that her talent had always been there, but it took a wealthy backer to prove that money talks. It was bittersweet, but she decided to seize the opportunity and make something truly remarkable.",
+    "topicTag": "career breakthrough",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '돈이 말한다'로, 돈이 마치 사람처럼 영향력을 행사한다는 뜻입니다.",
+    "realUsageKo": "돈이 있으면 원하는 것을 쉽게 얻을 수 있다는 의미로 사용됩니다. 재력이 곧 권력이나 영향력이 된다는 현실을 꼬집을 때 자주 쓰입니다.",
+    "etymologyKo": "17세기경부터 영어권에서 사용된 속담으로, 돈의 사회적 영향력을 비유적으로 표현한 것입니다. 'Money talks and bullshit walks'라는 더 긴 형태에서 유래했다는 설도 있습니다.",
+    "nuanceKo": "다소 냉소적이거나 체념하는 톤으로 쓰이는 경우가 많습니다. 부정적인 뉘앙스가 강하지만, 때로는 현실을 담담하게 인정하는 맥락에서도 사용됩니다.",
+    "shortExampleEn": "He got the contract not because of skill, but because money talks.",
+    "shortExampleKo": "그는 실력이 아니라 돈의 힘으로 계약을 따냈다."
+  }
+}

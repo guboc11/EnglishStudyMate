@@ -1,0 +1,30 @@
+{
+  "id": "walk-on-eggshells_061af596",
+  "expression": "walk on eggshells",
+  "selectionMeta": {
+    "selectedPhrase": "walk on eggshells",
+    "selectedSenseLabelKo": "조심스럽게 행동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Ever since the layoffs were announced, everyone in the office has been walking on eggshells around the manager."
+  },
+  "step2": {
+    "story": "Sarah noticed her roommate had been in a terrible mood all week. She found herself walking on eggshells every evening, carefully choosing her words and avoiding any topic that might spark an argument. It was exhausting pretending everything was fine.",
+    "topicTag": "relationships",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Mark had been a team leader for three years, but ever since the new director arrived, the entire department changed. The director had unpredictable reactions to even minor suggestions, so everyone learned to walk on eggshells during meetings. Mark would rehearse his sentences in his head before speaking, terrified of saying the wrong thing. One afternoon, a junior colleague innocently asked about the project deadline and received a harsh scolding in front of everyone. That night, Mark sat in his car after work, realizing he couldn't keep living this way. He decided it was time to have an honest conversation with HR about the toxic atmosphere.",
+    "topicTag": "workplace culture",
+    "moodTag": "anxious"
+  },
+  "meaning": {
+    "literalMeaningKo": "달걀 껍데기 위를 걷다 — 깨지기 쉬운 것 위를 조심조심 걷는 모습을 비유한 표현입니다.",
+    "realUsageKo": "상대방의 기분을 건드리지 않으려고 말과 행동을 극도로 조심하는 상황에서 사용합니다. 주로 예민하거나 화를 잘 내는 사람 주변에서 느끼는 긴장감을 표현할 때 씁니다.",
+    "etymologyKo": "달걀 껍데기는 매우 얇고 쉽게 깨지기 때문에, 그 위를 걷는다는 것은 극도로 조심해야 하는 상황을 의미합니다. 이 비유는 18세기경 영어에서 처음 사용되기 시작했습니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강한 표현으로, 건강하지 못한 관계나 불편한 환경을 암시합니다. 자신이 자유롭게 행동하지 못하고 상대 눈치를 보는 스트레스 상황을 나타냅니다.",
+    "shortExampleEn": "I've been walking on eggshells around my boss ever since she got that bad review.",
+    "shortExampleKo": "상사가 나쁜 평가를 받은 이후로 나는 상사 주위에서 조심스럽게 행동하고 있다."
+  }
+}

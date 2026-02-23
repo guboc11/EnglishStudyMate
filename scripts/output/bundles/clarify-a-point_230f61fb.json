@@ -1,0 +1,30 @@
+{
+  "id": "clarify-a-point_230f61fb",
+  "expression": "clarify a point",
+  "selectionMeta": {
+    "selectedPhrase": "clarify a point",
+    "selectedSenseLabelKo": "요점을 명확히 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before we move on, I'd like to clarify a point about the new policy changes."
+  },
+  "step2": {
+    "story": "During the team meeting, several people looked confused about the budget proposal. Sarah raised her hand and asked the manager to clarify a point regarding the overtime policy. Once he explained it in detail, everyone nodded in agreement.",
+    "topicTag": "workplace communication",
+    "moodTag": "constructive"
+  },
+  "step3": {
+    "story": "The professor had been lecturing for nearly an hour when a student in the back row hesitantly raised her hand. She wanted to clarify a point about the research methodology he had mentioned earlier. The professor paused, smiled, and said he was glad someone asked. He pulled up an additional slide and walked through the concept step by step. By the time he finished, several other students were nodding along, clearly relieved that the question had been raised. It turned out that one simple clarification changed how the entire class understood the assignment.",
+    "topicTag": "academic discussion",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 요점이나 논점을 명확하게 밝히다.",
+    "realUsageKo": "회의, 토론, 수업 등에서 상대방이 말한 내용 중 불분명한 부분을 더 정확하게 설명해달라고 요청하거나, 자신이 직접 부연 설명할 때 사용합니다.",
+    "etymologyKo": "clarify는 라틴어 'clarificare(밝게 하다)'에서 유래했으며, point는 '핵심, 논점'을 의미합니다. 합쳐서 '논점을 밝게 하다', 즉 명확히 하다라는 뜻이 됩니다.",
+    "nuanceKo": "격식 있고 정중한 표현으로, 비즈니스 미팅이나 학술 토론에서 자주 쓰입니다. 상대의 말을 존중하면서도 이해가 부족한 부분을 짚어내는 뉘앙스입니다.",
+    "shortExampleEn": "Could you clarify a point you made about the deadline?",
+    "shortExampleKo": "마감일에 대해 말씀하신 부분을 명확히 해주시겠어요?"
+  }
+}

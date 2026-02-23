@@ -1,0 +1,30 @@
+{
+  "id": "under-the-radar_8d834c03",
+  "expression": "under the radar",
+  "selectionMeta": {
+    "selectedPhrase": "under the radar",
+    "selectedSenseLabelKo": "남의 눈에 띄지 않게",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new policy changes slipped under the radar and most employees didn't even notice until months later."
+  },
+  "step2": {
+    "story": "Maya had been quietly working on a side project for weeks, keeping it completely under the radar. When she finally presented the finished prototype at the team meeting, everyone was stunned. Her boss joked that she should become a spy since nobody had any idea what she'd been up to.",
+    "topicTag": "secret projects",
+    "moodTag": "surprising"
+  },
+  "step3": {
+    "story": "For three years, the small coffee shop on Elm Street operated entirely under the radar. No social media presence, no flashy signage—just a handwritten chalkboard by the door. The owner, Mr. Tanaka, preferred it that way. He believed the best things in life don't need advertising. Then one day, a famous food blogger stumbled in by accident and wrote a glowing review. Overnight, the quiet shop had a line stretching around the block, and Mr. Tanaka's peaceful days of flying under the radar were officially over.",
+    "topicTag": "hidden gems",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "레이더 아래에 있다는 뜻으로, 탐지 장치에 걸리지 않는 위치를 의미합니다.",
+    "realUsageKo": "누군가의 주의나 관심을 끌지 않고 조용히 지나가거나 활동하는 것을 뜻합니다. 의도적으로 눈에 띄지 않게 행동할 때, 또는 단순히 아무도 알아채지 못했을 때 모두 사용합니다.",
+    "etymologyKo": "군사 용어에서 유래했습니다. 전투기가 레이더에 탐지되지 않도록 낮은 고도로 비행하는 전술에서 비롯된 표현으로, 1990년대부터 일상 영어에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "중립적이거나 약간 긍정적인 뉘앙스입니다. 주목받지 않은 것이 의도적이든 우연이든 모두 사용 가능하며, 비밀스럽거나 은밀한 느낌보다는 '조용히, 눈에 띄지 않게'라는 가벼운 톤입니다.",
+    "shortExampleEn": "He managed to stay under the radar during the company restructuring.",
+    "shortExampleKo": "그는 회사 구조조정 기간 동안 눈에 띄지 않게 지냈다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "throw-out_022b92ba",
+  "expression": "throw out",
+  "selectionMeta": {
+    "selectedPhrase": "throw out",
+    "selectedSenseLabelKo": "버리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to throw out all these old magazines that have been piling up in the garage."
+  },
+  "step2": {
+    "story": "Sarah opened the closet and stared at the mountain of clothes she hadn't worn in years. She grabbed a large trash bag and started to throw out everything that no longer fit. By evening, she had three full bags and a closet that finally made sense.",
+    "topicTag": "decluttering",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "After living in the same apartment for ten years, Jake decided it was time for a fresh start. He walked through each room with a critical eye, picking up objects he had been holding onto for no real reason. Old receipts, broken gadgets, faded postcards from people he barely remembered. He began to throw out bag after bag, feeling lighter with each trip to the dumpster. His roommate watched in disbelief and asked if everything was okay. Jake just smiled and said he was making room for whatever came next.",
+    "topicTag": "fresh start",
+    "moodTag": "liberating"
+  },
+  "meaning": {
+    "literalMeaningKo": "밖으로 던지다라는 뜻으로, 무언가를 바깥 방향으로 내던지는 물리적 동작을 나타냅니다.",
+    "realUsageKo": "실제로는 '버리다'라는 뜻으로 가장 많이 쓰입니다. 쓸모없거나 필요 없는 물건을 쓰레기통에 넣거나 처분할 때 사용합니다. 'throw away'와 거의 같은 의미입니다.",
+    "etymologyKo": "throw(던지다)와 out(밖으로)이 결합된 구동사로, 물건을 집 밖으로 내던진다는 원래 이미지에서 '버리다'라는 의미가 자연스럽게 파생되었습니다.",
+    "nuanceKo": "일상적이고 구어적인 표현으로, 격식 없는 대화에서 자주 쓰입니다. 'discard'나 'dispose of'보다 훨씬 캐주얼한 느낌이며, 미련 없이 처분하는 뉘앙스가 있습니다.",
+    "shortExampleEn": "Don't throw out that box — I still need it.",
+    "shortExampleKo": "그 상자 버리지 마 — 아직 필요해."
+  }
+}

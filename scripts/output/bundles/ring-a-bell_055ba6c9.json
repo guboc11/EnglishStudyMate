@@ -1,0 +1,30 @@
+{
+  "id": "ring-a-bell_055ba6c9",
+  "expression": "ring a bell",
+  "selectionMeta": {
+    "selectedPhrase": "ring a bell",
+    "selectedSenseLabelKo": "들어본 것 같다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "That name rings a bell, but I can't remember where I heard it before."
+  },
+  "step2": {
+    "story": "Sarah was scrolling through old photos when she found a picture of a café she didn't recognize. The street name rang a bell, and suddenly she remembered — it was where she had her first job interview years ago. She smiled, amazed at how a forgotten memory could resurface so easily.",
+    "topicTag": "nostalgia",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "During a team meeting, the project manager mentioned a client named Donovan & Associates. The name rang a bell for Jake, but he couldn't quite place it. He spent the rest of the meeting quietly searching his memory. Then it hit him — his college roommate's father ran that company. After the meeting, Jake called his old friend to reconnect. It turned out that one small moment of recognition opened the door to a valuable business partnership.",
+    "topicTag": "professional networking",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "종을 울리다라는 뜻으로, 머릿속에서 무언가가 '딸랑' 하고 떠오르는 느낌을 표현합니다.",
+    "realUsageKo": "어떤 이름, 장소, 사실 등이 완전히 기억나지는 않지만 어딘가 익숙하게 느껴질 때 사용합니다. '어디서 들어본 것 같은데...'라는 느낌을 전달합니다.",
+    "etymologyKo": "교회 종이 울리면 사람들이 무의식적으로 반응하듯, 기억 속 무언가가 희미하게 반응하는 것에서 유래했습니다.",
+    "nuanceKo": "확실한 기억이 아니라 '어렴풋이 아는 것 같다'는 뉘앙스입니다. 부정형 'doesn't ring a bell'은 '전혀 모르겠다'는 뜻으로도 자주 쓰입니다.",
+    "shortExampleEn": "Does the name Martin ring a bell?",
+    "shortExampleKo": "마틴이라는 이름, 들어본 것 같아?"
+  }
+}

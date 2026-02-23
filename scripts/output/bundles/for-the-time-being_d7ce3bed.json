@@ -1,0 +1,30 @@
+{
+  "id": "for-the-time-being_d7ce3bed",
+  "expression": "for the time being",
+  "selectionMeta": {
+    "selectedPhrase": "for the time being",
+    "selectedSenseLabelKo": "당분간",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let's keep using the old system for the time being until the new software is fully tested."
+  },
+  "step2": {
+    "story": "Maya's apartment renovation was taking longer than expected, so she decided to stay at her sister's place for the time being. She packed a small suitcase with just the essentials, telling herself it would only be a few weeks. Still, she couldn't help feeling grateful for having somewhere warm to go.",
+    "topicTag": "daily life changes",
+    "moodTag": "patient"
+  },
+  "step3": {
+    "story": "After the company announced a major restructuring, nobody knew exactly what their new roles would look like. The manager gathered the team and explained that everyone would keep their current responsibilities for the time being. Some employees exchanged nervous glances, unsure whether this was reassuring or worrying. Daniel, however, saw it as an opportunity — he had been wanting to prove himself in his current position anyway. He decided to focus on delivering his best work while things were still uncertain. By the time the changes finally came through three months later, his efforts had not gone unnoticed.",
+    "topicTag": "workplace uncertainty",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '지금 이 시간 동안은'이라는 뜻으로, 현재의 일시적인 기간을 가리킵니다.",
+    "realUsageKo": "현재 상황이 영구적이지 않으며, 나중에 바뀔 수 있다는 뉘앙스로 '당분간', '일단은'이라는 의미로 사용됩니다. 임시 조치나 잠정적인 결정을 설명할 때 자주 쓰입니다.",
+    "etymologyKo": "'time being'은 중세 영어에서 유래한 표현으로, 'being'이 '존재하는'이라는 뜻으로 '현재 존재하는 시간'을 의미합니다. 16세기부터 현재의 형태로 널리 사용되기 시작했습니다.",
+    "nuanceKo": "정중하고 격식 있는 표현으로, 일상 대화부터 비즈니스 상황까지 폭넓게 쓰입니다. '상황이 바뀔 때까지 임시로'라는 뉘앙스가 있어, 영구적인 결정이 아님을 부드럽게 전달할 때 유용합니다.",
+    "shortExampleEn": "We'll work from home for the time being.",
+    "shortExampleKo": "당분간 재택근무를 할 예정입니다."
+  }
+}

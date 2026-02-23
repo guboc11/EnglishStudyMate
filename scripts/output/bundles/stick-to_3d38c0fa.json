@@ -1,0 +1,30 @@
+{
+  "id": "stick-to_3d38c0fa",
+  "expression": "stick to",
+  "selectionMeta": {
+    "selectedPhrase": "stick to",
+    "selectedSenseLabelKo": "고수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how tempting the shortcuts are, I always stick to my original plan."
+  },
+  "step2": {
+    "story": "Marcus wanted to quit his diet after just three days, but his friend reminded him why he started. He decided to stick to his meal plan for the full month. By the end, he felt healthier and proud of his discipline.",
+    "topicTag": "self-discipline",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jenna first launched her small bakery, everyone told her to follow trends and sell whatever was popular on social media. Colorful cakes, viral pastries — the pressure was real. But Jenna chose to stick to her grandmother's traditional recipes, believing that authentic flavors would win people over. For months, business was slow and she questioned her decision almost every night. Then a local food blogger discovered her shop and wrote a glowing review praising the honest, homemade taste. Within weeks, her bakery had a line out the door, all because she refused to compromise on what she believed in.",
+    "topicTag": "staying true to yourself",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stick to'는 글자 그대로 '~에 달라붙다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 계획, 결정, 원칙 등을 바꾸지 않고 끝까지 따르거나 고수한다는 의미로 사용됩니다. '~을 꾸준히 지키다', '~을 고수하다'로 번역할 수 있습니다.",
+    "etymologyKo": "'stick'은 고대 영어 'stician'(찌르다, 붙다)에서 유래했으며, 무언가에 단단히 붙어 떨어지지 않는 이미지에서 '고수하다'라는 비유적 의미가 생겼습니다.",
+    "nuanceKo": "유혹이나 어려움이 있어도 흔들리지 않고 원래의 것을 지킨다는 긍정적이고 의지적인 뉘앙스가 있습니다. 다소 고집스럽다는 느낌보다는 신념과 일관성을 강조합니다.",
+    "shortExampleEn": "You should stick to your budget if you want to save money.",
+    "shortExampleKo": "돈을 모으고 싶다면 예산을 고수해야 해."
+  }
+}

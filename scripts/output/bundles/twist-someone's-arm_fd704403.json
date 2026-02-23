@@ -1,0 +1,30 @@
+{
+  "id": "twist-someone's-arm_fd704403",
+  "expression": "twist someone's arm",
+  "selectionMeta": {
+    "selectedPhrase": "twist someone's arm",
+    "selectedSenseLabelKo": "강요하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I didn't want to go to the party, but my friends twisted my arm until I finally agreed."
+  },
+  "step2": {
+    "story": "Sarah had no plans to volunteer for the weekend charity event. But her coworker Lisa twisted her arm by reminding her how much fun they had last year. In the end, Sarah signed up and even recruited two more volunteers.",
+    "topicTag": "social pressure",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Kevin had been saving his vacation days for a solo hiking trip in the mountains. When his best friend Jake announced a surprise group trip to Japan, Kevin politely declined. But Jake wasn't giving up easily — he twisted Kevin's arm by showing him photos of amazing ramen shops and hidden temples. He even offered to cover Kevin's flight with his airline miles. After a week of persistent convincing, Kevin caved in and booked the trip. Looking back, he admitted it was one of the best decisions he ever made.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 팔을 비틀다라는 뜻입니다.",
+    "realUsageKo": "실제로는 물리적으로 팔을 비트는 것이 아니라, 누군가를 설득하거나 압박하여 원래 하지 않으려던 일을 하게 만든다는 의미로 사용됩니다. 대부분 가벼운 설득이나 부탁의 뉘앙스로 쓰입니다.",
+    "etymologyKo": "팔을 물리적으로 비틀어 고통을 주면 상대가 결국 항복한다는 이미지에서 유래했습니다. 20세기 중반부터 비유적 표현으로 널리 사용되기 시작했습니다.",
+    "nuanceKo": "심각한 강요보다는 끈질긴 설득이나 가벼운 압박의 느낌으로 쓰이며, 보통 유머러스하거나 친근한 톤으로 사용됩니다. 결과적으로 설득당한 쪽이 크게 불쾌하지 않은 상황에서 자주 씁니다.",
+    "shortExampleEn": "They had to twist my arm to get me to try sushi for the first time.",
+    "shortExampleKo": "그들은 내가 처음으로 초밥을 먹어보도록 나를 꽤 설득해야 했다."
+  }
+}

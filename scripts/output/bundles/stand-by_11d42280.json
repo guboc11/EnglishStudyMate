@@ -1,0 +1,30 @@
+{
+  "id": "stand-by_11d42280",
+  "expression": "stand by",
+  "selectionMeta": {
+    "selectedPhrase": "stand by",
+    "selectedSenseLabelKo": "대기하다 / 지지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The rescue team was told to stand by until the storm passed before heading out to search for survivors."
+  },
+  "step2": {
+    "story": "When the company announced layoffs, most colleagues distanced themselves from the accused manager. But Jenna chose to stand by him, knowing he had done nothing wrong. Her loyalty gave him the courage to fight the false accusations.",
+    "topicTag": "workplace loyalty",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "Captain Reyes stared at the radar screen as the hurricane crept closer to the coastline. The evacuation order had already gone out, but her unit was told to stand by at the base until further notice. Hours dragged on with no update, and the tension in the room was unbearable. Some of the younger soldiers paced nervously, while veterans sat quietly, conserving their energy. Finally, at 2 a.m., the radio crackled to life with new coordinates. Reyes grabbed her gear and rallied the team — the waiting was over, and it was time to move.",
+    "topicTag": "emergency response",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'옆에 서 있다'라는 뜻으로, 누군가 곁에 서서 함께한다는 의미입니다.",
+    "realUsageKo": "두 가지 주요 의미로 쓰입니다. 첫째, '대기하다' — 지시가 올 때까지 준비 상태로 기다리는 것. 둘째, '지지하다/편을 들다' — 어려운 상황에서도 누군가의 곁을 지키는 것입니다.",
+    "etymologyKo": "고대 영어에서 'stand(서다)'와 'by(곁에)'가 결합된 표현으로, 물리적으로 옆에 서 있는 행위에서 '준비하며 기다리다'와 '충성스럽게 곁을 지키다'라는 두 가지 비유적 의미로 발전했습니다.",
+    "nuanceKo": "'대기하다' 의미로 쓸 때는 군사·항공·의료 등 긴급 상황에서 자주 사용되며, '지지하다' 의미로 쓸 때는 감정적 유대와 신뢰를 강하게 내포합니다.",
+    "shortExampleEn": "I'll always stand by you, no matter what happens.",
+    "shortExampleKo": "무슨 일이 있어도, 나는 항상 네 편에 설 거야."
+  }
+}

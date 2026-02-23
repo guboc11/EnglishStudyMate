@@ -1,0 +1,30 @@
+{
+  "id": "back-against-the-wall_b6ecd2a5",
+  "expression": "back against the wall",
+  "selectionMeta": {
+    "selectedPhrase": "back against the wall",
+    "selectedSenseLabelKo": "궁지에 몰리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With the deadline tomorrow and no budget left, the team had their backs against the wall and had to get creative."
+  },
+  "step2": {
+    "story": "The startup was running out of funding, and investors were losing patience. With their backs against the wall, the founders pitched one last idea that changed everything. That desperate moment became the turning point they never expected.",
+    "topicTag": "business pressure",
+    "moodTag": "desperate but hopeful"
+  },
+  "step3": {
+    "story": "Mina had always been a cautious manager, but the quarterly numbers were terrible. Clients were leaving, the board demanded answers, and her top engineer just quit. She truly had her back against the wall. Instead of panicking, she called an all-hands meeting and laid out the brutal truth. The honesty surprised everyone, and the team rallied together with a recovery plan. Sometimes being cornered is exactly what it takes to find a way forward.",
+    "topicTag": "leadership under crisis",
+    "moodTag": "tense and resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "등이 벽에 닿아 있다는 뜻으로, 더 이상 물러설 곳이 없는 상태를 의미합니다.",
+    "realUsageKo": "선택의 여지가 없거나 극도로 어려운 상황에 몰렸을 때 사용합니다. '궁지에 몰리다', '막다른 골목에 서다'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "전투에서 적에게 밀려 등이 벽에 닿으면 더 이상 후퇴할 수 없는 상황에서 유래한 표현입니다.",
+    "nuanceKo": "부정적인 상황을 묘사하지만, 그 속에서 반격하거나 돌파구를 찾는 결연한 느낌이 함께 담겨 있는 경우가 많습니다.",
+    "shortExampleEn": "With his back against the wall, he finally stood up to his critics.",
+    "shortExampleKo": "궁지에 몰리자 그는 마침내 비판하는 사람들에게 맞섰다."
+  }
+}

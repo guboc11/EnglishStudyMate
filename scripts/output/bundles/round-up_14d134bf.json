@@ -1,0 +1,30 @@
+{
+  "id": "round-up_14d134bf",
+  "expression": "round up",
+  "selectionMeta": {
+    "selectedPhrase": "round up",
+    "selectedSenseLabelKo": "모으다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Can you round up everyone for the meeting in five minutes?"
+  },
+  "step2": {
+    "story": "The project deadline was moved up by a week. Sarah had to round up her entire team for an emergency brainstorming session. Within an hour, they had a new plan and felt confident they could deliver on time.",
+    "topicTag": "teamwork",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "It was the last day of the school festival, and Mr. Kim realized the closing ceremony was about to start. He rushed through the hallways trying to round up all the student volunteers who were scattered across different booths. Some were busy packing up prizes, while others were chatting with visitors near the food stalls. After ten minutes of searching, he finally gathered everyone in the main auditorium. The principal smiled as she saw the full group assembled on stage. It had been a chaotic day, but they had pulled it off together.",
+    "topicTag": "school event",
+    "moodTag": "hectic but rewarding"
+  },
+  "meaning": {
+    "literalMeaningKo": "'round up'은 직역하면 '둥글게 위로 모으다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 흩어져 있는 사람이나 사물을 한곳에 모으거나 집합시킬 때 사용합니다. 예를 들어 팀원들을 회의실에 모으거나, 목장에서 소를 한곳으로 몰 때도 쓰입니다.",
+    "etymologyKo": "원래 목장에서 가축을 원형으로 몰아 한곳에 모으는 행위에서 유래했으며, 이후 사람이나 물건을 모으는 일반적인 표현으로 확장되었습니다.",
+    "nuanceKo": "다소 서둘러 모으는 느낌이 있으며, 격식 없는 일상 대화에서 자주 쓰입니다. 명령이나 요청 상황에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Let me round up the kids before it gets dark.",
+    "shortExampleKo": "어두워지기 전에 아이들을 모아올게요."
+  }
+}

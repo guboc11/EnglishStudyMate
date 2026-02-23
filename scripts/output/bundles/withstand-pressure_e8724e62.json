@@ -1,0 +1,30 @@
+{
+  "id": "withstand-pressure_e8724e62",
+  "expression": "withstand pressure",
+  "selectionMeta": {
+    "selectedPhrase": "withstand pressure",
+    "selectedSenseLabelKo": "압박을 견디다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the tight deadline and constant criticism from her manager, Sarah managed to withstand pressure and deliver a flawless presentation."
+  },
+  "step2": {
+    "story": "The young engineer was given only three days to fix a critical bug before the product launch. Everyone in the office watched nervously as she worked through the nights. She managed to withstand pressure from all sides and shipped the patch just hours before the deadline.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been promoted to team lead just two months ago, and already the quarterly review was approaching. His department was behind on every major target, and the board wanted answers. Late one evening, his mentor stopped by his desk and said, \"The ones who survive in this company are the ones who can withstand pressure without losing their clarity.\" Daniel took a deep breath and reorganized his priorities. He held honest one-on-one meetings with each team member, identified the bottlenecks, and created a realistic recovery plan. By the end of the quarter, the numbers had improved enough to earn a nod of approval from the CEO.",
+    "topicTag": "leadership challenge",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'withstand'는 '~에 맞서 버티다', 'pressure'는 '압력, 압박'으로, 직역하면 '압박에 맞서 버티다'라는 뜻입니다.",
+    "realUsageKo": "직장, 학업, 스포츠 등에서 심리적·물리적 압박감을 견디고 무너지지 않는 상황에 사용합니다. 단순히 참는 것이 아니라, 압박 속에서도 성과를 내거나 평정심을 유지하는 뉘앙스가 있습니다.",
+    "etymologyKo": "'withstand'는 고대 영어 'withstandan'에서 유래했으며, 'with(against, 맞서서)' + 'stand(서다)'가 합쳐진 단어입니다. 즉 압력에 맞서서 꿋꿋이 서 있는 이미지입니다.",
+    "nuanceKo": "격식적이고 진지한 톤의 표현입니다. 일상 대화보다는 비즈니스, 뉴스, 스포츠 해설 등에서 더 자주 쓰이며, 'handle pressure'보다 강한 저항의 느낌을 줍니다.",
+    "shortExampleEn": "Great athletes know how to withstand pressure during the final moments of a game.",
+    "shortExampleKo": "훌륭한 선수들은 경기 마지막 순간에 압박을 견디는 법을 알고 있다."
+  }
+}

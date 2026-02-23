@@ -1,0 +1,30 @@
+{
+  "id": "jump-on-the-bandwagon_f9f5c98d",
+  "expression": "jump on the bandwagon",
+  "selectionMeta": {
+    "selectedPhrase": "jump on the bandwagon",
+    "selectedSenseLabelKo": "유행을 따르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After seeing how popular the new fitness app had become, even my skeptical coworker decided to jump on the bandwagon and download it."
+  },
+  "step2": {
+    "story": "When a trendy new coffee shop opened downtown, Sarah refused to wait in the long lines like everyone else. But after weeks of hearing her friends rave about the oat milk lattes, she finally jumped on the bandwagon and had to admit they were worth the hype.",
+    "topicTag": "social trends",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Marcus had always prided himself on being an independent thinker who never followed the crowd. When cryptocurrency started dominating every dinner conversation, he rolled his eyes and called it a fad. His brother made a small fortune early on and kept urging him to invest. One evening, after reading yet another success story online, Marcus quietly opened a trading account. He had finally jumped on the bandwagon, though he would never admit it to his brother. Sometimes resisting a trend takes more energy than simply joining in.",
+    "topicTag": "investment trends",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "밴드왜건(악대 마차) 위에 올라타다라는 뜻입니다.",
+    "realUsageKo": "많은 사람들이 하고 있는 것을 따라 하거나, 이미 인기 있는 활동·트렌드에 합류할 때 사용합니다. 주체적 판단보다 남들이 하니까 따라 한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "19세기 미국에서 선거 유세 시 밴드가 연주하는 마차(bandwagon)에 사람들이 올라타 지지를 표현한 데서 유래했습니다. 인기 있는 후보 편에 서는 행위를 비유적으로 표현한 것입니다.",
+    "nuanceKo": "약간 부정적이거나 비꼬는 톤으로 쓰이는 경우가 많습니다. 스스로 판단하기보다 유행에 편승한다는 의미를 내포하지만, 가볍게 쓰일 때도 있습니다.",
+    "shortExampleEn": "Everyone is jumping on the bandwagon and buying electric cars these days.",
+    "shortExampleKo": "요즘 모든 사람들이 유행을 따라 전기차를 사고 있어요."
+  }
+}

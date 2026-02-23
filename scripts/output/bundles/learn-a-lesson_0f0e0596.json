@@ -1,0 +1,30 @@
+{
+  "id": "learn-a-lesson_0f0e0596",
+  "expression": "learn a lesson",
+  "selectionMeta": {
+    "selectedPhrase": "learn a lesson",
+    "selectedSenseLabelKo": "교훈을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing all his savings in a risky investment, he finally learned a lesson about being more careful with money."
+  },
+  "step2": {
+    "story": "Maya trusted her coworker with a confidential project, but he shared the details with a competitor. She was devastated, but she learned a lesson about being more selective with whom she shares sensitive information. From that point on, she kept important matters closer to her chest.",
+    "topicTag": "trust and betrayal",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Daniel was fresh out of college, he jumped at every opportunity without doing proper research. His first business venture failed spectacularly because he ignored the warning signs and relied on gut feeling alone. He lost not only his investment but also the trust of friends who had supported him financially. Sitting in his empty apartment, staring at piles of unpaid bills, Daniel realized he had learned a lesson the hard way. He promised himself that next time, he would plan thoroughly, seek advice from experienced mentors, and never let overconfidence cloud his judgment. That painful chapter became the foundation of his eventual success.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '교훈 하나를 배우다'라는 뜻입니다.",
+    "realUsageKo": "실수나 나쁜 경험을 통해 깨달음을 얻고, 같은 실수를 반복하지 않겠다는 다짐을 할 때 사용합니다. '뼈저리게 느끼다', '호되게 배우다'와 비슷한 맥락입니다.",
+    "etymologyKo": "'lesson'은 라틴어 'lectio(읽기, 가르침)'에서 유래했으며, 중세 영어에서 '교훈'이라는 의미로 확장되었습니다. 경험에서 배운다는 표현은 수백 년간 영어에서 사용되어 왔습니다.",
+    "nuanceKo": "대부분 부정적인 경험 이후에 사용되며, 단순한 학습이 아니라 실패나 고통을 겪고 나서 얻는 깊은 깨달음을 뜻합니다. 'learn a lesson the hard way'라고 하면 특히 힘든 경험을 통해 배웠다는 뉘앙스가 강해집니다.",
+    "shortExampleEn": "I learned a lesson about trusting strangers after that incident.",
+    "shortExampleKo": "그 사건 이후로 낯선 사람을 쉽게 믿지 말아야 한다는 교훈을 얻었다."
+  }
+}

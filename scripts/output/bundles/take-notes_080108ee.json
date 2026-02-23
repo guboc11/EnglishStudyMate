@@ -1,0 +1,30 @@
+{
+  "id": "take-notes_080108ee",
+  "expression": "take notes",
+  "selectionMeta": {
+    "selectedPhrase": "take notes",
+    "selectedSenseLabelKo": "노트를 적다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Make sure to take notes during the meeting so we don't forget any important details."
+  },
+  "step2": {
+    "story": "Sarah always takes notes in her favorite leather notebook. During today's lecture, she filled three pages with key concepts and diagrams. Later, her classmates asked to borrow her notes before the exam.",
+    "topicTag": "studying",
+    "moodTag": "diligent"
+  },
+  "step3": {
+    "story": "When Jake started his new job as a junior analyst, his manager gave him one piece of advice: always take notes. At first, he thought it was unnecessary since he had a good memory. But after forgetting the details of an important client call, he learned his lesson the hard way. Now he carries a small notebook everywhere and jots down key points from every conversation. His colleagues have even started calling him 'the scribe.' Thanks to this habit, he never misses a deadline or loses track of a task.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "노트(메모)를 가져가다(take)라는 뜻으로, 정보를 기록한다는 의미입니다.",
+    "realUsageKo": "수업, 회의, 강연 등에서 중요한 내용을 메모하거나 필기할 때 사용합니다. '필기하다', '메모를 적다'와 같은 뜻으로 일상과 업무 환경 모두에서 매우 자주 쓰입니다.",
+    "etymologyKo": "'take'는 '취하다/잡다'에서 유래했고, 'notes'는 라틴어 'nota(표시)'에서 왔습니다. 중요한 것을 표시해서 잡아둔다는 뜻이 결합된 표현입니다.",
+    "nuanceKo": "격식/비격식 구분 없이 자연스럽게 쓰이는 기본 표현입니다. 학교, 직장, 일상 대화 어디서나 사용할 수 있으며, 성실하고 꼼꼼한 느낌을 줍니다.",
+    "shortExampleEn": "I always take notes when I attend workshops.",
+    "shortExampleKo": "나는 워크숍에 참석할 때 항상 메모를 적는다."
+  }
+}

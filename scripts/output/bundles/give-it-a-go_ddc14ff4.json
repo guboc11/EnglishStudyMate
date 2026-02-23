@@ -1,0 +1,30 @@
+{
+  "id": "give-it-a-go_ddc14ff4",
+  "expression": "give it a go",
+  "selectionMeta": {
+    "selectedPhrase": "give it a go",
+    "selectedSenseLabelKo": "시도해보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've never tried surfing before, but I figured I'd give it a go while we're at the beach."
+  },
+  "step2": {
+    "story": "Maya stared at the rock climbing wall, her palms sweating. Her friend nudged her and said, \"Just give it a go — you might surprise yourself.\" She grabbed the first hold and started climbing, grinning wider with every move.",
+    "topicTag": "trying new things",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Daniel had been watching cooking videos for months but never actually tried making anything himself. One rainy Saturday, he decided to finally give it a go and picked a simple pasta recipe. He burned the garlic on his first attempt and added way too much salt. But instead of giving up, he adjusted the heat and tried again. By the end of the afternoon, he had a plate of food he was genuinely proud of. Sometimes you just have to start, even if the result isn't perfect.",
+    "topicTag": "personal growth",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '그것에 한 번의 시도를 주다'라는 뜻입니다.",
+    "realUsageKo": "무언가를 한번 시도해보다, 도전해보다라는 의미로 사용됩니다. 'try it'보다 가볍고 부담 없는 느낌을 줍니다.",
+    "etymologyKo": "'go'가 '시도, 차례'라는 명사로 쓰이는 영국식 영어 표현에서 유래했으며, 'have a go'와 같은 맥락입니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 주로 쓰이며, 부담 없이 가볍게 도전해보자는 뉘앙스를 담고 있습니다. 영국 영어에서 특히 자주 사용됩니다.",
+    "shortExampleEn": "I've never played chess, but I'll give it a go.",
+    "shortExampleKo": "체스를 해본 적은 없지만, 한번 해볼게요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "give-rise-to_25fcf24b",
+  "expression": "give rise to",
+  "selectionMeta": {
+    "selectedPhrase": "give rise to",
+    "selectedSenseLabelKo": "초래하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sudden policy change gave rise to widespread protests across the country."
+  },
+  "step2": {
+    "story": "The company decided to cut employee benefits without warning. This decision gave rise to a wave of resignations that no one had anticipated. Within a month, the management was forced to reverse the policy entirely.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "For years, the small coastal town had relied on fishing as its main source of income. When a large corporation built a chemical plant nearby, the polluted waters gave rise to serious environmental concerns among the residents. Community meetings grew louder and more frequent as people shared stories of dead fish washing ashore. Local activists organized petitions and reached out to national media for support. Eventually, the mounting pressure gave rise to a government investigation that uncovered multiple safety violations. The plant was shut down, and the town slowly began to heal.",
+    "topicTag": "environmental activism",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '~에게 일어남(rise)을 주다(give)'라는 뜻입니다.",
+    "realUsageKo": "어떤 원인이 결과나 상황을 초래하거나 야기할 때 사용합니다. 'cause'보다 격식적이고 주로 부정적이거나 중대한 결과에 쓰입니다.",
+    "etymologyKo": "'Rise'는 고대 영어 'risan(일어나다)'에서 유래했으며, 'give rise to'는 17세기부터 '원인을 제공하다'라는 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "학술적·공식적 글쓰기에서 자주 쓰이며, 일상 대화보다는 뉴스 기사나 보고서에 더 적합한 표현입니다. 중립적이지만 부정적 맥락에서 더 흔합니다.",
+    "shortExampleEn": "Poor communication can give rise to misunderstandings.",
+    "shortExampleKo": "소통 부족은 오해를 초래할 수 있다."
+  }
+}

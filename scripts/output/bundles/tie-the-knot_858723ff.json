@@ -1,0 +1,30 @@
+{
+  "id": "tie-the-knot_858723ff",
+  "expression": "tie the knot",
+  "selectionMeta": {
+    "selectedPhrase": "tie the knot",
+    "selectedSenseLabelKo": "결혼하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After dating for five years, they finally decided to tie the knot this summer."
+  },
+  "step2": {
+    "story": "Emma and Jake had been together since college. Last weekend, surrounded by their closest friends on a quiet beach, they tied the knot in a simple but beautiful ceremony. Everyone said it was the most heartfelt wedding they had ever attended.",
+    "topicTag": "love and commitment",
+    "moodTag": "heartwarming"
+  },
+  "step3": {
+    "story": "When Sarah's best friend called to say she was tying the knot, Sarah nearly dropped her coffee. They had spent years joking about growing old together as single women. Now Sarah was booking a flight to attend the wedding in a small Italian village. The ceremony took place under an old olive tree, with only twelve guests present. As the couple exchanged their vows, Sarah realized that some of the best things in life come when you least expect them. She wiped a tear and whispered, 'It's about time you two tied the knot.'",
+    "topicTag": "friendship and milestones",
+    "moodTag": "joyful"
+  },
+  "meaning": {
+    "literalMeaningKo": "매듭을 묶다라는 뜻으로, 직역하면 끈이나 줄의 매듭을 짓는 행위를 가리킵니다.",
+    "realUsageKo": "실제로는 '결혼하다'라는 의미로 사용됩니다. 격식 없는 일상 대화에서 결혼 사실을 가볍고 친근하게 표현할 때 자주 쓰입니다.",
+    "etymologyKo": "고대 결혼 의식에서 신랑과 신부의 손이나 옷을 끈으로 묶어 결합을 상징했던 전통에서 유래했습니다. 이 풍습은 켈트족과 힌두교 문화 등 여러 문화권에서 발견됩니다.",
+    "nuanceKo": "캐주얼하고 친근한 어감으로, 공식적인 문서보다는 친구나 가족과의 대화에서 많이 씁니다. 유쾌하고 축하하는 분위기를 담고 있습니다.",
+    "shortExampleEn": "Did you hear? Tom and Lisa are tying the knot next month!",
+    "shortExampleKo": "들었어? 톰이랑 리사가 다음 달에 결혼한대!"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pig-out_278cc352",
+  "expression": "pig out",
+  "selectionMeta": {
+    "selectedPhrase": "pig out",
+    "selectedSenseLabelKo": "폭식하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After finishing our final exams, we decided to pig out on pizza and ice cream to celebrate."
+  },
+  "step2": {
+    "story": "Sarah had been on a strict diet for three weeks, eating nothing but salads and grilled chicken. But when her birthday came around, she couldn't resist the spread her friends had prepared. She decided to pig out on cake, burgers, and chips without a shred of guilt.",
+    "topicTag": "celebration",
+    "moodTag": "carefree"
+  },
+  "step3": {
+    "story": "Tom had just wrapped up the most stressful project of his career. For months, he had barely eaten proper meals, surviving on coffee and granola bars at his desk. When the client finally approved the final deliverable, he drove straight to his favorite buffet restaurant. He loaded his plate three times over and pigged out on ribs, pasta, and fried shrimp until he could barely move. His coworker Jake joined him and laughed, saying he had never seen anyone eat that much in one sitting. Tom just grinned and said he had earned every single bite.",
+    "topicTag": "work relief",
+    "moodTag": "satisfied"
+  },
+  "meaning": {
+    "literalMeaningKo": "돼지처럼 먹다, 즉 많은 양의 음식을 게걸스럽게 먹는 것을 뜻합니다.",
+    "realUsageKo": "실제로는 '폭식하다', '과식하다'라는 뜻으로 쓰입니다. 보통 다이어트를 잠시 잊고 먹고 싶은 것을 마음껏 먹을 때 가볍게 사용합니다.",
+    "etymologyKo": "돼지(pig)가 먹이를 가리지 않고 많이 먹는 습성에서 유래한 표현으로, 1970년대 미국 구어에서 널리 퍼졌습니다.",
+    "nuanceKo": "부정적이기보다는 유머러스하고 자기비하적인 뉘앙스로 쓰이는 경우가 많습니다. 격식 있는 자리에서는 피하는 것이 좋습니다.",
+    "shortExampleEn": "We totally pigged out at the buffet last night.",
+    "shortExampleKo": "우리 어젯밤 뷔페에서 완전 폭식했어."
+  }
+}

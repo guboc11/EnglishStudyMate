@@ -1,0 +1,30 @@
+{
+  "id": "welcome-feedback_25388156",
+  "expression": "welcome feedback",
+  "selectionMeta": {
+    "selectedPhrase": "welcome feedback",
+    "selectedSenseLabelKo": "피드백을 환영하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our team always welcomes feedback because it helps us improve our products and services."
+  },
+  "step2": {
+    "story": "After presenting the new marketing strategy, Jina told her colleagues she welcomed feedback from everyone on the team. Several people shared honest suggestions, and she took detailed notes. By the end of the meeting, the revised plan was far stronger than the original.",
+    "topicTag": "teamwork",
+    "moodTag": "open-minded"
+  },
+  "step3": {
+    "story": "Minho had just launched his first mobile app after months of solo development. He was nervous about how users would react, but he posted a message on the app's main page saying he genuinely welcomed feedback of any kind. Within a week, dozens of reviews poured in — some praising the clean design, others pointing out confusing navigation. Instead of feeling defensive, Minho carefully organized every comment into a spreadsheet and prioritized fixes. His willingness to welcome feedback transformed a decent app into one that users truly loved. That openness became the foundation of his growing reputation as a developer who listens.",
+    "topicTag": "personal growth",
+    "moodTag": "humble"
+  },
+  "meaning": {
+    "literalMeaningKo": "피드백(의견, 반응)을 환영하다, 기꺼이 받아들이다.",
+    "realUsageKo": "다른 사람의 의견이나 비판을 열린 자세로 받아들인다는 뜻으로, 직장이나 프로젝트에서 개선을 위해 적극적으로 의견을 구할 때 자주 사용됩니다.",
+    "etymologyKo": "'welcome'은 고대 영어 'wilcuma(반가운 손님)'에서 유래했고, 'feedback'은 1920년대 전자공학에서 출력이 입력으로 되돌아가는 현상을 가리키던 용어가 일상어로 확장된 것입니다.",
+    "nuanceKo": "단순히 피드백을 '받겠다'는 수동적 표현이 아니라, 적극적으로 환영하고 감사히 여긴다는 긍정적이고 개방적인 뉘앙스를 담고 있습니다. 비즈니스와 교육 맥락에서 특히 자주 쓰입니다.",
+    "shortExampleEn": "We welcome feedback from all of our customers.",
+    "shortExampleKo": "저희는 모든 고객의 피드백을 환영합니다."
+  }
+}

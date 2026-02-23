@@ -1,0 +1,30 @@
+{
+  "id": "think-big_76610690",
+  "expression": "think big",
+  "selectionMeta": {
+    "selectedPhrase": "think big",
+    "selectedSenseLabelKo": "크게 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to change the world, you have to think big and take bold steps."
+  },
+  "step2": {
+    "story": "Maria had been running a small bakery for five years, but she wanted more. Her mentor told her it was time to think big and open a second location downtown. She drafted a business plan that night, feeling a spark of ambition she hadn't felt in years.",
+    "topicTag": "ambition",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Jason always played it safe, sticking to his comfortable desk job at a mid-sized company. One evening, he attended a startup conference where a founder shared how she left a stable career to think big and build her own tech company. Her words hit him hard. That weekend, Jason sat down and sketched out an app idea he had been ignoring for months. He knew the risks were real, but for the first time, the fear of staying small felt worse than the fear of failing. He submitted his resignation letter the following Monday, ready to bet on himself.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '크게 생각하다'라는 뜻으로, 작은 범위에 머무르지 않고 큰 규모로 구상한다는 의미입니다.",
+    "realUsageKo": "현실에서는 야망을 가지고 큰 목표를 세우라는 뜻으로 쓰입니다. 소극적으로 행동하지 말고 대담하게 도전하라는 격려의 표현입니다.",
+    "etymologyKo": "미국 비즈니스 문화에서 유래한 표현으로, 특히 도널드 트럼프가 1987년 저서 'The Art of the Deal'에서 'think big'을 자주 사용하면서 대중적으로 널리 퍼졌습니다.",
+    "nuanceKo": "긍정적이고 격려하는 뉘앙스를 가진 표현입니다. 주로 비즈니스, 자기계발, 동기부여 맥락에서 많이 쓰이며, 일상 대화에서도 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Don't limit yourself — think big and aim for the top.",
+    "shortExampleKo": "스스로를 제한하지 마 — 크게 생각하고 최고를 목표로 해."
+  }
+}

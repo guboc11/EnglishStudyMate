@@ -1,0 +1,30 @@
+{
+  "id": "make-a-phone-call_7c5ff353",
+  "expression": "make a phone call",
+  "selectionMeta": {
+    "selectedPhrase": "make a phone call",
+    "selectedSenseLabelKo": "전화를 하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to make a phone call to the dentist before the office closes today."
+  },
+  "step2": {
+    "story": "Sarah realized she had forgotten to confirm her appointment. She stepped out of the meeting room to make a phone call to the clinic. The receptionist picked up right away and everything was sorted in under a minute.",
+    "topicTag": "appointments",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Kevin stared at the number scribbled on the sticky note for ten minutes straight. He had been putting this off all week, but he knew he had to make a phone call to his landlord about the broken heater. He finally picked up his phone, took a deep breath, and dialed. To his surprise, the landlord was incredibly understanding and promised to send someone the next morning. Kevin hung up and laughed at himself for being so nervous. Sometimes the hardest part is just picking up the phone.",
+    "topicTag": "everyday courage",
+    "moodTag": "anxious then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "전화 통화를 만들다, 즉 전화를 걸다라는 뜻입니다.",
+    "realUsageKo": "누군가에게 전화를 걸어 통화하는 행위를 말합니다. 격식/비격식 상황 모두에서 자연스럽게 사용됩니다.",
+    "etymologyKo": "'make'는 영어에서 다양한 행위를 나타내는 경동사(light verb)로, 'a phone call'과 결합하여 '전화하다'라는 뜻의 연어(collocation)를 형성합니다.",
+    "nuanceKo": "'call someone'보다 약간 더 격식적이고 의도적인 느낌을 줍니다. 일상 대화에서도 흔하지만, 특히 중요하거나 계획된 전화를 강조할 때 자주 쓰입니다.",
+    "shortExampleEn": "Can I make a quick phone call before we leave?",
+    "shortExampleKo": "출발하기 전에 잠깐 전화 한 통 해도 될까요?"
+  }
+}

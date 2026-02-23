@@ -1,0 +1,30 @@
+{
+  "id": "tune-in_dfdd1659",
+  "expression": "tune in",
+  "selectionMeta": {
+    "selectedPhrase": "tune in",
+    "selectedSenseLabelKo": "채널을 맞추다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Make sure to tune in to the live broadcast at 8 PM tonight."
+  },
+  "step2": {
+    "story": "Every Friday evening, Sarah tunes in to her favorite podcast while cooking dinner. The host's calm voice and interesting stories have become a comforting part of her weekly routine. She always looks forward to tuning in after a long week at work.",
+    "topicTag": "relaxation routine",
+    "moodTag": "cozy"
+  },
+  "step3": {
+    "story": "When David moved to a new city, he felt completely disconnected from his old life. One night, scrolling through his phone, he discovered a local community radio station. He decided to tune in, and to his surprise, the host was discussing the exact neighborhood he had just moved into. The show featured local restaurant owners, park events, and hidden gems around town. David started tuning in every morning during his commute, and within weeks, he felt like he truly belonged. That small habit of listening transformed a strange city into a place he could call home.",
+    "topicTag": "finding belonging",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "라디오나 TV의 주파수를 맞추다, 즉 특정 방송 채널에 접속하다는 뜻입니다.",
+    "realUsageKo": "방송을 시청하거나 청취할 때 쓰이며, 비유적으로 누군가의 말에 주의를 기울이거나 관심을 갖고 집중한다는 의미로도 사용됩니다.",
+    "etymologyKo": "라디오 초창기에 원하는 방송을 수신하려면 다이얼을 돌려 주파수를 '조율(tune)'해야 했던 데서 유래했습니다. 'in'은 신호 안으로 들어간다는 방향성을 더합니다.",
+    "nuanceKo": "일상적이고 친근한 표현으로, 격식 없이 널리 쓰입니다. '꼭 들어봐' 또는 '채널 고정'처럼 가볍고 권유하는 뉘앙스가 있습니다.",
+    "shortExampleEn": "Tune in next week for the season finale!",
+    "shortExampleKo": "시즌 피날레를 보려면 다음 주에 꼭 시청하세요!"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fall-through_6d6d795f",
+  "expression": "fall through",
+  "selectionMeta": {
+    "selectedPhrase": "fall through",
+    "selectedSenseLabelKo": "무산되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our weekend camping trip fell through because of the sudden thunderstorm warning."
+  },
+  "step2": {
+    "story": "Maya had been planning her dream vacation to Italy for months, but the whole trip fell through when her company announced mandatory overtime. She sat at her desk staring at the non-refundable guidebook she'd already bought, wondering when she'd ever get another chance.",
+    "topicTag": "travel plans",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "Jake and his business partner had spent six months negotiating a deal with a major retail chain to stock their handmade candles. They'd already rented a bigger workshop and hired two extra employees in anticipation. But on the day they were supposed to sign the contract, the retailer's representative called to say the partnership had fallen through due to budget cuts. Jake stared at the stacks of inventory lining the walls, feeling the weight of the news settle over him. His partner suggested they pivot to online sales, and slowly, Jake began to see a new path forward. Sometimes the plans that fall through make room for something even better.",
+    "topicTag": "business setback",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'떨어져서 통과하다'라는 직역으로, 무언가가 바닥을 뚫고 떨어지는 이미지입니다.",
+    "realUsageKo": "계획, 거래, 약속 등이 실현되지 못하고 무산될 때 사용합니다. 'The deal fell through'처럼 기대했던 일이 성사되지 않았음을 나타냅니다.",
+    "etymologyKo": "물리적으로 바닥이나 구조물 사이로 떨어지는 이미지에서 유래했으며, 계획이 지지 기반을 잃고 무너진다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '취소되다'보다 기대감이 있었는데 무산되었다는 실망의 뉘앙스가 강합니다. 주로 계획, 거래, 합의 등 구체적인 일에 사용합니다.",
+    "shortExampleEn": "The merger between the two companies fell through at the last minute.",
+    "shortExampleKo": "두 회사 간의 합병이 마지막 순간에 무산되었다."
+  }
+}

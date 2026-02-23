@@ -1,0 +1,30 @@
+{
+  "id": "perform-well_a7a4026f",
+  "expression": "perform well",
+  "selectionMeta": {
+    "selectedPhrase": "perform well",
+    "selectedSenseLabelKo": "잘 수행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the pressure, she managed to perform well on her final exam and earned one of the highest scores in the class."
+  },
+  "step2": {
+    "story": "Jake had been nervous about his first presentation at the new company. He stayed up late rehearsing every slide and anticipating tough questions. When the moment came, he was surprised at how naturally he could perform well under pressure, and his manager gave him a thumbs-up from across the room.",
+    "topicTag": "career growth",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Mina had always doubted herself when it came to public speaking. In college, she would avoid any class that required oral presentations. But when her startup got accepted into a pitch competition, she had no choice but to face her fear. She practiced in front of her mirror, then her roommate, then a small group of friends. On the day of the competition, her hands trembled as she walked onto the stage, but once she started talking about her product, something clicked. She managed to perform well beyond anyone's expectations, and two investors approached her right after she stepped off the stage.",
+    "topicTag": "overcoming fear",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'perform'은 '수행하다', 'well'은 '잘'이라는 뜻으로, 직역하면 '잘 수행하다'입니다.",
+    "realUsageKo": "시험, 업무, 스포츠, 면접 등 결과가 측정되는 상황에서 기대 이상으로 좋은 성과를 내다라는 의미로 사용됩니다. 단순히 '하다'가 아니라 '잘 해내다'라는 긍정적 결과를 강조합니다.",
+    "etymologyKo": "'perform'은 고대 프랑스어 'parfournir(완전히 이행하다)'에서 유래했으며, 'well'은 고대 영어 'wel(좋게, 만족스럽게)'에서 왔습니다. 합쳐져 '일을 훌륭하게 해내다'라는 뜻이 되었습니다.",
+    "nuanceKo": "일상 대화보다는 학업, 직장, 스포츠 등 성과 평가가 있는 맥락에서 주로 쓰입니다. 격식과 비격식 모두에서 자연스럽게 사용되며, 객관적인 결과를 묘사할 때 적합한 표현입니다.",
+    "shortExampleEn": "Students who prepare consistently tend to perform well on standardized tests.",
+    "shortExampleKo": "꾸준히 준비하는 학생들은 표준화 시험에서 좋은 성적을 내는 경향이 있다."
+  }
+}

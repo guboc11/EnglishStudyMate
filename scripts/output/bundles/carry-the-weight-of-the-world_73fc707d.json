@@ -1,0 +1,30 @@
+{
+  "id": "carry-the-weight-of-the-world_73fc707d",
+  "expression": "carry the weight of the world",
+  "selectionMeta": {
+    "selectedPhrase": "carry the weight of the world",
+    "selectedSenseLabelKo": "엄청난 부담을 지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Ever since her parents got sick, she's been carrying the weight of the world on her shoulders, managing their care while working two jobs."
+  },
+  "step2": {
+    "story": "David hadn't slept properly in weeks. Between the company merger, his daughter's college tuition, and his mother's hospital bills, he felt like he was carrying the weight of the world. His best friend finally sat him down and reminded him that asking for help wasn't a sign of weakness.",
+    "topicTag": "life pressure",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "When Mina was promoted to team lead, she thought it would be exciting. Instead, she inherited a failing project, a demoralized team, and a deadline that was already past due. Every morning she arrived first and left last, checking emails at midnight and skipping meals without noticing. Her partner started to worry, saying she looked like she was carrying the weight of the world. One Sunday, Mina finally broke down crying at the kitchen table. That was the moment she realized she needed to delegate, set boundaries, and stop trying to fix everything alone.",
+    "topicTag": "work burnout",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "세상의 무게를 짊어지다라는 뜻으로, 아틀라스가 하늘을 떠받치는 그리스 신화에서 유래한 표현입니다.",
+    "realUsageKo": "감당하기 어려울 정도로 큰 책임이나 걱정을 혼자 짊어지고 있을 때 사용합니다. 주로 'on one's shoulders'와 함께 쓰이며, 상대방의 과도한 부담을 걱정하거나 공감할 때 자주 씁니다.",
+    "etymologyKo": "그리스 신화에서 타이탄 아틀라스가 벌로 하늘을 어깨에 짊어진 이야기에서 유래했습니다. 시간이 지나면서 '하늘' 대신 '세상의 무게'로 변형되어 일상에서 쓰이게 되었습니다.",
+    "nuanceKo": "동정이나 걱정의 뉘앙스가 강합니다. 본인이 스스로에게 쓰면 힘든 상황을 토로하는 느낌이고, 타인에게 쓰면 '너무 무리하고 있다'는 염려를 전달합니다.",
+    "shortExampleEn": "You don't have to carry the weight of the world — let us help.",
+    "shortExampleKo": "혼자 다 짊어질 필요 없어 — 우리가 도와줄게."
+  }
+}

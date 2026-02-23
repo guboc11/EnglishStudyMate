@@ -1,0 +1,30 @@
+{
+  "id": "heat-up_beac6d60",
+  "expression": "heat up",
+  "selectionMeta": {
+    "selectedPhrase": "heat up",
+    "selectedSenseLabelKo": "뜨거워지다 / 격화되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The debate started to heat up when both sides refused to compromise."
+  },
+  "step2": {
+    "story": "The election campaign began to heat up as voting day approached. Candidates attacked each other's policies on live television, and social media was flooded with heated arguments. Everyone in the office had a strong opinion, and lunchtime conversations turned into passionate debates.",
+    "topicTag": "politics",
+    "moodTag": "intense"
+  },
+  "step3": {
+    "story": "Sarah had been working at the marketing firm for three years, and she had never seen competition between teams heat up like this before. The CEO announced that only one department would receive the annual bonus, and suddenly, colleagues who used to share coffee became fierce rivals. Presentations grew longer and more aggressive, with each team trying to outshine the others. Sarah stayed late every night, refining her pitch until it was flawless. On the final day, the tension in the conference room was almost unbearable as each team leader stood to present. When Sarah's team was announced as the winner, the relief washed over her like a wave breaking on the shore.",
+    "topicTag": "workplace competition",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로 '열을 올리다', 즉 온도를 높이거나 뜨거워지게 만든다는 뜻입니다.",
+    "realUsageKo": "실제로는 음식을 데우는 물리적 의미와 함께, 상황·경쟁·논쟁 등이 점점 격렬해지거나 긴장감이 고조될 때 비유적으로 자주 사용됩니다.",
+    "etymologyKo": "heat(열)와 up(위로/강화)의 결합으로, 온도를 올린다는 기본 의미에서 감정이나 상황의 강도가 높아진다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "일상 대화에서 자연스럽게 쓰이는 표현으로, 긍정적(흥미진진해지다)이든 부정적(갈등이 심해지다)이든 상황의 강도가 올라갈 때 폭넓게 사용됩니다.",
+    "shortExampleEn": "Things are really heating up between the two rival companies.",
+    "shortExampleKo": "두 경쟁 회사 사이의 상황이 정말 격화되고 있다."
+  }
+}

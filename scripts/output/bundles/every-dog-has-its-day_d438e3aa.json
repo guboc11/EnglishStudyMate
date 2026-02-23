@@ -1,0 +1,30 @@
+{
+  "id": "every-dog-has-its-day_d438e3aa",
+  "expression": "every dog has its day",
+  "selectionMeta": {
+    "selectedPhrase": "every dog has its day",
+    "selectedSenseLabelKo": "누구나 기회가 온다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of being overlooked for promotions, Jimin finally got the lead role — every dog has its day."
+  },
+  "step2": {
+    "story": "Soyeon had been rejected by every publisher in town. She kept writing anyway, filling notebook after notebook. Then one morning, a literary agent called — every dog has its day, and today was hers.",
+    "topicTag": "perseverance",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Marco spent five years as the quietest member of the marketing team. He watched colleagues get praised for flashy campaigns while his careful data analysis went unnoticed. One quarter, the company launched a major product based entirely on his research. Sales exploded, and the CEO personally thanked him at the all-hands meeting. His manager smiled and whispered, \"Every dog has its day.\" Marco just nodded — he had always known his time would come.",
+    "topicTag": "career recognition",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "모든 개에게도 자기만의 날이 온다는 뜻입니다.",
+    "realUsageKo": "아무리 평범하거나 불운한 사람이라도 언젠가는 성공하거나 행운을 누릴 기회가 온다는 의미로 사용됩니다. 주로 오랫동안 인정받지 못하던 사람이 드디어 빛을 볼 때 격려나 축하의 뉘앙스로 씁니다.",
+    "etymologyKo": "16세기 영국에서 유래한 속담으로, 셰익스피어의 '햄릿'에서도 비슷한 표현이 등장합니다. 가장 보잘것없는 존재(개)도 언젠가 좋은 날이 온다는 비유에서 시작되었습니다.",
+    "nuanceKo": "긍정적이고 격려하는 톤으로 쓰이며, 겸손하게 자신의 차례를 기다리는 태도를 담고 있습니다. 때로는 경쟁자에게 '너도 언젠가'라는 가벼운 위로나 경고의 뉘앙스로도 사용됩니다.",
+    "shortExampleEn": "Don't worry about losing today — every dog has its day.",
+    "shortExampleKo": "오늘 진 거 걱정하지 마 — 누구에게나 기회는 오는 법이야."
+  }
+}

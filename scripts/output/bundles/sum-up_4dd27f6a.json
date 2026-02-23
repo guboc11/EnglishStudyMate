@@ -1,0 +1,30 @@
+{
+  "id": "sum-up_4dd27f6a",
+  "expression": "sum up",
+  "selectionMeta": {
+    "selectedPhrase": "sum up",
+    "selectedSenseLabelKo": "요약하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me sum up the main points before we finish the meeting."
+  },
+  "step2": {
+    "story": "The team had been discussing the new marketing strategy for over an hour. Finally, the manager stood up and said, \"Let me sum up what we've agreed on so far.\" Everyone leaned in, grateful that someone was bringing clarity to the conversation.",
+    "topicTag": "workplace communication",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Sarah had just finished presenting her research findings to the board of directors. The data was complex, covering months of customer surveys, sales trends, and competitor analysis. She could see a few confused faces around the table. \"I know that was a lot of information,\" she said with a reassuring smile. \"Let me sum up the key takeaways: our customers want faster delivery, simpler pricing, and better support.\" The room nodded in unison, and the CEO replied, \"That's exactly the clarity we needed — thank you for summing it up so well.\"",
+    "topicTag": "business presentation",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '합을 위로 올리다'로, 여러 내용을 하나로 모아 올린다는 뜻입니다.",
+    "realUsageKo": "실제로는 긴 이야기나 복잡한 내용을 간략하게 정리하거나 요약할 때 사용합니다. 회의, 발표, 대화의 마무리 단계에서 핵심을 짚어줄 때 자주 쓰입니다.",
+    "etymologyKo": "수학에서 숫자를 더해 합계(sum)를 구하는 것에서 유래했습니다. 여러 항목을 하나의 결론으로 모은다는 의미가 '요약하다'로 확장되었습니다.",
+    "nuanceKo": "격식과 비격식 모두에서 자연스럽게 사용됩니다. 'summarize'보다 일상적이고 구어적인 느낌이며, 대화나 회의를 마무리할 때 특히 많이 씁니다.",
+    "shortExampleEn": "To sum up, we need to cut costs and hire more staff.",
+    "shortExampleKo": "요약하자면, 비용을 줄이고 직원을 더 채용해야 합니다."
+  }
+}

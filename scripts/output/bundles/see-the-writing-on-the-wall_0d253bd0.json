@@ -1,0 +1,30 @@
+{
+  "id": "see-the-writing-on-the-wall_0d253bd0",
+  "expression": "see the writing on the wall",
+  "selectionMeta": {
+    "selectedPhrase": "see the writing on the wall",
+    "selectedSenseLabelKo": "불길한 징조를 감지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three rounds of layoffs, most employees could see the writing on the wall and started updating their resumes."
+  },
+  "step2": {
+    "story": "The quarterly earnings had dropped for the fifth time in a row, and the CEO refused to take questions at the meeting. Sarah could see the writing on the wall — the company was heading for bankruptcy. She quietly began reaching out to recruiters that same evening.",
+    "topicTag": "career uncertainty",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Marcus had been with the startup for four years, back when the office buzzed with energy and investors lined up at the door. But lately, the free snacks disappeared, the holiday party was canceled, and two entire teams were let go without warning. He saw the writing on the wall long before the all-hands meeting where the founder's voice cracked mid-sentence. That night, he dusted off his portfolio and sent it to a former colleague who had landed at a bigger firm. It stung to leave something he had helped build from scratch, but ignoring the warning signs would only make the fall harder. By the end of the month, he had accepted a new offer and walked out the door with his head held high.",
+    "topicTag": "career transition",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "벽에 쓰인 글을 보다라는 뜻으로, 눈앞에 드러난 경고 메시지를 읽는다는 의미입니다.",
+    "realUsageKo": "피할 수 없는 나쁜 결과가 다가오고 있음을 직감할 때 사용합니다. 주로 상황이 악화되는 징후를 알아채고 미리 대비하거나 체념하는 맥락에서 쓰입니다.",
+    "etymologyKo": "구약성경 다니엘서에서 유래했습니다. 바빌론의 벨사살 왕이 연회 중 벽에 신비로운 글자가 나타나는 것을 보았고, 그 글자는 왕국의 멸망을 예언하는 것이었습니다.",
+    "nuanceKo": "단순한 예감이 아니라, 객관적인 징후가 이미 나타난 상황에서 사용합니다. 다소 비관적이고 체념적인 어감이 있으며, 경고를 무시하는 사람을 비판할 때도 쓰입니다.",
+    "shortExampleEn": "When half the staff was laid off, we all saw the writing on the wall.",
+    "shortExampleKo": "직원 절반이 해고되었을 때, 우리 모두 불길한 징조를 감지했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "take-a-rain-check_8f83d822",
+  "expression": "take a rain check",
+  "selectionMeta": {
+    "selectedPhrase": "take a rain check",
+    "selectedSenseLabelKo": "다음으로 미루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I'd love to join you for dinner, but I'm swamped with work tonight — can I take a rain check?"
+  },
+  "step2": {
+    "story": "Maya invited her colleague to lunch, but he said he had a tight deadline and asked to take a rain check. She smiled and told him no problem — they could go next week instead. He appreciated her understanding and promised to treat her when they finally went.",
+    "topicTag": "work-life balance",
+    "moodTag": "understanding"
+  },
+  "step3": {
+    "story": "Sophie had been looking forward to the weekend hiking trip with her friends for weeks. But on Friday afternoon, her manager dropped an urgent client presentation on her desk that was due Monday morning. She stared at her phone, dreading the call she had to make. When she finally dialed, her best friend picked up immediately. Sophie sighed and said she'd have to take a rain check on the hike this time. Her friend laughed warmly and said the mountains weren't going anywhere, so they rescheduled for the following weekend.",
+    "topicTag": "friendship and priorities",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'비 때문에 받는 다음 기회 티켓을 가져가다'라는 뜻으로, 비로 취소된 야구 경기의 재입장 티켓에서 유래한 표현입니다.",
+    "realUsageKo": "초대나 제안을 정중하게 거절하면서 '다음에 하자'라고 할 때 사용합니다. 완전한 거절이 아니라 나중에 다시 하고 싶다는 의사를 포함합니다.",
+    "etymologyKo": "19세기 미국 야구에서 비가 와서 경기가 취소되면 관중에게 다음 경기에 무료 입장할 수 있는 'rain check' 티켓을 나눠준 데서 유래했습니다.",
+    "nuanceKo": "캐주얼하고 친근한 톤으로 사용되며, 상대방의 기분을 상하지 않게 거절할 때 적합합니다. 격식 있는 비즈니스 상황보다는 일상 대화에서 더 자연스럽습니다.",
+    "shortExampleEn": "Thanks for the invite, but I'll have to take a rain check — maybe next Friday?",
+    "shortExampleKo": "초대 고마워, 근데 다음으로 미뤄야 할 것 같아 — 다음 주 금요일은 어때?"
+  }
+}

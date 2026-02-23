@@ -1,0 +1,30 @@
+{
+  "id": "capture-a-moment_b85b761c",
+  "expression": "capture a moment",
+  "selectionMeta": {
+    "selectedPhrase": "capture a moment",
+    "selectedSenseLabelKo": "순간을 포착하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She raised her camera to capture a moment between the grandfather and his grandchild feeding pigeons in the park."
+  },
+  "step2": {
+    "story": "Jimin carried his old film camera everywhere during his trip to Kyoto. When the cherry blossoms began to fall like pink snow over the temple path, he knew he had to capture a moment like this. He clicked the shutter, hoping the photograph would hold even a fraction of the beauty he felt.",
+    "topicTag": "travel memories",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "Soyeon had been a wedding photographer for over a decade, but she still got butterflies before every ceremony. Today's couple had been together since high school, and their families filled the small garden venue with loud laughter and happy tears. As the groom wiped a tear while reading his vows, Soyeon stepped quietly to the side and pressed the shutter. She lived for chances like this — to capture a moment that people would look back on for the rest of their lives. Later that evening, when she reviewed her shots, that single candid frame stood out among hundreds. It reminded her why she chose this career: not to take perfect photos, but to freeze genuine emotions before they slipped away.",
+    "topicTag": "meaningful work",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "'순간을 포획하다'라는 뜻으로, 어떤 순간을 사진이나 영상 등으로 기록하여 남긴다는 의미입니다.",
+    "realUsageKo": "사진, 영상, 글 등을 통해 특별하거나 인상적인 순간을 기록할 때 사용합니다. 단순한 촬영뿐 아니라 그 순간의 감정이나 분위기까지 담아낸다는 뉘앙스가 있습니다.",
+    "etymologyKo": "capture는 라틴어 captura(잡다, 포획하다)에서 유래했으며, moment(순간)와 결합하여 '지나가는 찰나를 붙잡는다'는 비유적 표현으로 발전했습니다.",
+    "nuanceKo": "단순히 '사진을 찍다(take a photo)'보다 감성적이고 문학적인 느낌을 줍니다. 소중한 순간을 놓치지 않고 기록한다는 의도가 담겨 있어 일상 대화와 글 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I always try to capture a moment when my kids are laughing together.",
+    "shortExampleKo": "아이들이 함께 웃고 있을 때 그 순간을 꼭 포착하려고 합니다."
+  }
+}

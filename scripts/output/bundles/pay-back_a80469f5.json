@@ -1,0 +1,30 @@
+{
+  "id": "pay-back_a80469f5",
+  "expression": "pay back",
+  "selectionMeta": {
+    "selectedPhrase": "pay back",
+    "selectedSenseLabelKo": "갚다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to pay back the money I borrowed from my friend before the end of this month."
+  },
+  "step2": {
+    "story": "Jake had borrowed $500 from his coworker to cover an emergency car repair. Every payday, he set aside a portion of his salary to pay back the debt. After three months, he finally handed over the last payment with a relieved smile.",
+    "topicTag": "personal finance",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "When Mia lost her job last winter, her older sister lent her enough money to cover two months of rent without hesitation. Mia felt grateful but also carried a quiet weight of guilt every day. She picked up freelance design work on weekends and cut her expenses down to the bare minimum. After landing a new full-time position in the spring, she made it her first priority to pay back every dollar her sister had given her. The day she transferred the final amount, her sister laughed and said she had almost forgotten about it. But for Mia, paying back that debt meant reclaiming a piece of her independence.",
+    "topicTag": "family support",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "빌린 돈이나 받은 것을 되돌려 주다라는 뜻입니다.",
+    "realUsageKo": "금전적인 빚을 갚을 때 가장 흔히 쓰이며, 비유적으로 누군가에게 받은 호의나 도움을 되갚는다는 의미로도 사용됩니다.",
+    "etymologyKo": "pay(지불하다)와 back(되돌려)의 결합으로, '되돌려 지불하다'라는 직관적 의미에서 유래했습니다.",
+    "nuanceKo": "단순히 돈을 갚는 것 외에도 복수의 뉘앙스('I'll pay you back for this!')로 쓰일 수 있어 문맥에 따라 긍정적·부정적 의미가 달라집니다.",
+    "shortExampleEn": "She paid back the loan in full ahead of schedule.",
+    "shortExampleKo": "그녀는 대출금을 예정보다 일찍 전액 갚았다."
+  }
+}

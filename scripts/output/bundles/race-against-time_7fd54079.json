@@ -1,0 +1,30 @@
+{
+  "id": "race-against-time_7fd54079",
+  "expression": "race against time",
+  "selectionMeta": {
+    "selectedPhrase": "race against time",
+    "selectedSenseLabelKo": "시간과 싸우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The emergency team was racing against time to rescue the trapped hikers before the storm hit."
+  },
+  "step2": {
+    "story": "The deadline for the grant proposal was only three hours away, and half the data was still missing. Sarah and her team raced against time, dividing sections and typing furiously. They submitted the application with just two minutes to spare, collapsing into their chairs with relief.",
+    "topicTag": "deadline pressure",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Dr. Park stared at the lab results and felt her stomach drop. The patient's condition was deteriorating faster than anyone had predicted, and the experimental treatment needed at least six more hours to prepare. She called every colleague she trusted, assembling a team that worked through the night without breaks. They were racing against time, knowing that every passing minute brought the patient closer to a point of no return. At 4:47 a.m., the treatment was finally ready. As the IV drip began, the monitors slowly stabilized, and the room exhaled together in quiet, exhausted gratitude.",
+    "topicTag": "medical emergency",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간을 상대로 경주하다, 즉 시간과 달리기 시합을 한다는 뜻입니다.",
+    "realUsageKo": "마감이나 위급한 상황에서 시간이 부족하여 서둘러 무언가를 해내야 할 때 사용합니다. '시간과의 싸움'이라는 한국어 표현과 거의 같은 맥락으로 쓰입니다.",
+    "etymologyKo": "경주(race)에서 유래한 비유 표현으로, 시간이라는 보이지 않는 상대와 경쟁하듯 서두른다는 이미지에서 비롯되었습니다.",
+    "nuanceKo": "긴박감과 절박함을 강조하는 표현으로, 일상적인 바쁨보다는 중대한 결과가 걸린 상황에서 주로 사용됩니다. 뉴스 보도나 드라마틱한 서술에서 자주 등장합니다.",
+    "shortExampleEn": "Firefighters raced against time to evacuate the building.",
+    "shortExampleKo": "소방관들은 건물을 대피시키기 위해 시간과 싸웠다."
+  }
+}

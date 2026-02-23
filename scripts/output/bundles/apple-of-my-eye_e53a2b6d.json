@@ -1,0 +1,30 @@
+{
+  "id": "apple-of-my-eye_e53a2b6d",
+  "expression": "apple of my eye",
+  "selectionMeta": {
+    "selectedPhrase": "apple of my eye",
+    "selectedSenseLabelKo": "눈에 넣어도 아프지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My youngest daughter has always been the apple of my eye, and I can't help but smile whenever she walks into the room."
+  },
+  "step2": {
+    "story": "When Sarah adopted a rescue puppy named Biscuit, she didn't expect him to become the apple of her eye so quickly. Within a week, she was rearranging her entire schedule just to spend more time with him. Her friends joked that Biscuit had replaced them, but Sarah just laughed and scratched behind his ears.",
+    "topicTag": "pet love",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Grandpa Hwan always said his granddaughter Mina was the apple of his eye. Every Saturday morning, he would wake up early to make her favorite banana pancakes before she arrived. He kept every drawing she had ever made pinned to the wall of his small workshop. When Mina started school and visited less often, he would sit by the window, waiting for her bicycle to appear around the corner. One rainy afternoon, Mina surprised him with a hand-painted portrait of the two of them eating pancakes together. Grandpa Hwan hung it in the center of the wall and told everyone who visited that his greatest treasure wasn't anything money could buy.",
+    "topicTag": "family bond",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '내 눈의 사과'로, 눈동자(pupil)를 사과에 비유한 표현입니다.",
+    "realUsageKo": "가장 소중하고 아끼는 사람을 가리킬 때 씁니다. 주로 자녀, 손주, 연인 등 깊은 애정의 대상에게 사용하며, '눈에 넣어도 아프지 않을 만큼 사랑하는 사람'이라는 뜻입니다.",
+    "etymologyKo": "구약성경(신명기 32:10)에서 유래한 매우 오래된 표현으로, 고대 영어에서 눈동자를 'apple'이라 불렀던 데서 비롯되었습니다. 눈동자는 사람이 본능적으로 보호하는 가장 소중한 부위이므로, 그만큼 소중한 존재라는 의미가 담겼습니다.",
+    "nuanceKo": "격식·비격식 모두 사용 가능하며, 따뜻하고 다정한 어감을 줍니다. 주로 긍정적인 맥락에서 쓰이고, 약간 구식이지만 여전히 널리 사랑받는 표현입니다.",
+    "shortExampleEn": "His newborn son quickly became the apple of his eye.",
+    "shortExampleKo": "갓 태어난 아들은 금세 그에게 눈에 넣어도 아프지 않을 존재가 되었다."
+  }
+}

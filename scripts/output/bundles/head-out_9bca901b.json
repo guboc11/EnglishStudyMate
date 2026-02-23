@@ -1,0 +1,30 @@
+{
+  "id": "head-out_9bca901b",
+  "expression": "head out",
+  "selectionMeta": {
+    "selectedPhrase": "head out",
+    "selectedSenseLabelKo": "나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We should head out soon if we want to catch the 7 o'clock train."
+  },
+  "step2": {
+    "story": "Mia grabbed her jacket and keys from the counter. 'I'm going to head out now — the traffic gets terrible after five,' she told her roommate. She waved goodbye and stepped into the cool evening air.",
+    "topicTag": "daily commute",
+    "moodTag": "casual"
+  },
+  "step3": {
+    "story": "Daniel had been staring at his laptop screen for nearly ten hours straight. His back ached and his eyes were burning, but the deadline was still two days away. He saved the file and leaned back in his chair with a long sigh. 'That's enough for today,' he muttered. He texted his friend: 'Finally done. Want to head out for dinner?' Within minutes, they were walking down the quiet street toward their favorite ramen shop, leaving the stress of work behind.",
+    "topicTag": "work-life balance",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'머리(head)'를 '밖으로(out)' 향한다는 뜻으로, 어딘가를 향해 출발한다는 의미입니다.",
+    "realUsageKo": "일상 대화에서 '(어디론가) 나가다, 출발하다'라는 뜻으로 매우 자주 쓰입니다. 'leave'보다 가볍고 친근한 느낌으로, 친구나 동료 사이에서 편하게 사용합니다.",
+    "etymologyKo": "'head'가 동사로 '~쪽으로 향하다'라는 뜻을 갖고, 여기에 'out(밖으로)'이 결합되어 '밖으로 나가다, 출발하다'라는 구동사가 되었습니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 'leave'나 'depart'보다 훨씬 캐주얼합니다. 대화체에서 주로 쓰이며, 격식 있는 글에서는 잘 사용하지 않습니다.",
+    "shortExampleEn": "Let's head out before it starts raining.",
+    "shortExampleKo": "비 오기 전에 나가자."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "speak-your-mind_ad405e4e",
+  "expression": "speak your mind",
+  "selectionMeta": {
+    "selectedPhrase": "speak your mind",
+    "selectedSenseLabelKo": "솔직히 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the town hall meeting, she decided to speak her mind about the unfair overtime policy."
+  },
+  "step2": {
+    "story": "Jake had been unhappy with the new schedule for weeks, but he kept quiet to avoid conflict. Finally, during the team meeting, he took a deep breath and spoke his mind, explaining exactly why the plan wasn't working. His manager was surprised but grateful for the honest feedback.",
+    "topicTag": "workplace communication",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Mina had always been the quiet one in the office, nodding along even when she disagreed. But when the company announced plans to cut the mentorship program — the one thing that had helped her grow — something shifted inside her. She stayed up late organizing her thoughts and rehearsing what she wanted to say. The next morning, she walked into the conference room and spoke her mind in front of the entire leadership team. Her voice trembled at first, but her arguments were clear and well-supported. By the end of the week, the company reversed its decision, and colleagues she barely knew stopped by her desk to say thank you.",
+    "topicTag": "standing up for what matters",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'마음을 말하다'라는 뜻으로, 자신의 생각을 입 밖으로 내는 것을 의미합니다.",
+    "realUsageKo": "자신의 의견이나 감정을 숨기지 않고 솔직하게 말할 때 사용합니다. 특히 말하기 어려운 상황에서도 용기를 내어 본심을 표현하는 뉘앙스가 있습니다.",
+    "etymologyKo": "고대 영어 시대부터 'mind'가 생각과 의견을 뜻하는 단어로 쓰였으며, 'speak one's mind'는 16세기경부터 '본심을 말하다'라는 관용 표현으로 정착했습니다.",
+    "nuanceKo": "단순히 의견을 말하는 것이 아니라, 눈치를 보지 않고 솔직하게 말한다는 뉘앙스입니다. 긍정적으로는 용기 있는 행동, 부정적으로는 무례할 수 있는 행동으로 해석될 수 있습니다.",
+    "shortExampleEn": "Don't be afraid to speak your mind — your opinion matters.",
+    "shortExampleKo": "솔직히 말하는 것을 두려워하지 마세요 — 당신의 의견도 중요합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "burn-the-midnight-oil_8f36a488",
+  "expression": "burn the midnight oil",
+  "selectionMeta": {
+    "selectedPhrase": "burn the midnight oil",
+    "selectedSenseLabelKo": "밤을 새워 일하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With the deadline just two days away, Sarah had no choice but to burn the midnight oil to finish the report."
+  },
+  "step2": {
+    "story": "The final exams were next week, and Jake hadn't started studying. He locked himself in the library and burned the midnight oil every night, surviving on coffee and determination. By Friday, he was exhausted but confident he'd pass.",
+    "topicTag": "exam preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina stared at the stack of blueprints spread across her desk. The client wanted the revised designs by Monday morning, and it was already Thursday evening. She texted her roommate not to wait up, grabbed a fresh cup of coffee, and settled in for a long night. For three nights straight, she burned the midnight oil, sketching and re-sketching until every detail was perfect. Her eyes were heavy and her back ached, but when she finally emailed the finished plans at dawn on Monday, a quiet sense of pride washed over her. Sometimes the best work comes from the hours when the rest of the world is asleep.",
+    "topicTag": "work dedication",
+    "moodTag": "exhausted but proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "한밤중의 기름을 태우다 — 즉, 밤늦게까지 등불(기름 램프)을 켜두다라는 뜻입니다.",
+    "realUsageKo": "시험 공부, 업무 마감, 프로젝트 완성 등을 위해 밤을 새워 열심히 일하거나 공부할 때 사용합니다. 단순히 밤에 깨어 있는 것이 아니라, 목적을 가지고 집중해서 작업한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "전기가 없던 시대에 밤에 일하려면 기름 램프를 켜야 했던 데서 유래했습니다. 17세기 영국 시인 Francis Quarles의 작품에서 처음 등장한 것으로 알려져 있습니다.",
+    "nuanceKo": "근면하고 성실한 이미지를 주는 표현으로, 부정적이기보다는 노력을 인정하는 뉘앙스입니다. 다만 과로를 암시할 수도 있어 상황에 따라 걱정의 맥락에서도 쓰입니다.",
+    "shortExampleEn": "We burned the midnight oil to get the proposal ready before the meeting.",
+    "shortExampleKo": "우리는 회의 전에 제안서를 완성하기 위해 밤새 작업했다."
+  }
+}

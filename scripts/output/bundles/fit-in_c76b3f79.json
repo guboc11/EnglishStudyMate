@@ -1,0 +1,30 @@
+{
+  "id": "fit-in_c76b3f79",
+  "expression": "fit in",
+  "selectionMeta": {
+    "selectedPhrase": "fit in",
+    "selectedSenseLabelKo": "어울리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was nervous on her first day, but she quickly found a way to fit in with her new colleagues."
+  },
+  "step2": {
+    "story": "Marcus transferred to a new school mid-year and struggled to fit in with the existing friend groups. He spent his lunch breaks alone until he joined the chess club and finally found people who shared his interests.",
+    "topicTag": "school life",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Yuna moved to a small coastal town for work, she worried she would never fit in. Everyone seemed to know each other's names, their families, their histories — and she was a stranger with a city accent. For the first few weeks, she kept to herself, eating alone at the diner by the harbor. Then one evening, a storm rolled in and the whole town gathered at the community center. Someone handed her a cup of soup and pulled up a chair. By the time the rain stopped, she had exchanged numbers with three neighbors and promised to help bake pies for the autumn festival. She realized that fitting in wasn't about erasing who she was — it was about showing up.",
+    "topicTag": "community belonging",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 공간이나 집단 안에 맞게 들어가다.",
+    "realUsageKo": "새로운 환경, 집단, 문화에 자연스럽게 적응하거나 받아들여지는 것을 의미한다. 주로 사회적 소속감과 관련하여 쓰인다.",
+    "etymologyKo": "'fit'은 고대 노르드어 'fitja(묶다, 연결하다)'에서 유래했으며, 'fit in'은 '틀에 맞게 끼워 넣다'는 의미에서 '집단에 어울리다'로 확장되었다.",
+    "nuanceKo": "단순한 적응을 넘어 집단에 자연스럽게 녹아드는 느낌을 준다. 노력 없이 자연스럽게 받아들여질 때 쓰기 좋으며, 억지로 맞추는 뉘앙스는 적다.",
+    "shortExampleEn": "It took him a few months, but he finally started to fit in at work.",
+    "shortExampleKo": "몇 달이 걸렸지만, 그는 마침내 직장에서 어울리기 시작했다."
+  }
+}

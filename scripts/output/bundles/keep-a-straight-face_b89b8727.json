@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-straight-face_b89b8727",
+  "expression": "keep a straight face",
+  "selectionMeta": {
+    "selectedPhrase": "keep a straight face",
+    "selectedSenseLabelKo": "표정을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I tried to keep a straight face when my boss tripped over the cable, but it was nearly impossible."
+  },
+  "step2": {
+    "story": "During the meeting, Jake's colleague accidentally called the CEO by his dog's name. Everyone froze, and Jake had to keep a straight face while the CEO stared in confusion. The moment the meeting ended, the entire team burst into laughter in the hallway.",
+    "topicTag": "workplace humor",
+    "moodTag": "amused"
+  },
+  "step3": {
+    "story": "Sarah was a professional poker player, and her greatest skill wasn't reading cards — it was keeping a straight face no matter what hand she was dealt. One night at a high-stakes tournament, she drew a royal flush on the river. Her heart pounded against her ribs, but her expression remained perfectly calm. The player across from her studied her face for a full thirty seconds, searching for any twitch or grin. Finding nothing, he pushed all his chips forward, convinced she was bluffing. Sarah revealed her cards, collected the pot, and only allowed herself a small smile after everyone else had left the table.",
+    "topicTag": "competition",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "얼굴을 곧은 상태로 유지하다, 즉 표정 변화 없이 무표정을 유지하다.",
+    "realUsageKo": "웃기거나 당황스러운 상황에서 웃음이나 감정을 드러내지 않고 태연한 표정을 유지할 때 사용합니다. 특히 웃음을 참아야 할 때 많이 쓰입니다.",
+    "etymologyKo": "'straight'는 '곧은, 일직선의'라는 뜻으로, 표정이 흐트러지지 않고 일직선처럼 평평한 상태를 비유적으로 표현한 것에서 유래했습니다.",
+    "nuanceKo": "주로 웃음을 참는 상황에서 쓰이며, 가볍고 유머러스한 톤으로 사용됩니다. 진지한 거짓말 상황보다는 재미있는 상황에서의 포커페이스를 묘사할 때 자연스럽습니다.",
+    "shortExampleEn": "She told such a funny joke that nobody could keep a straight face.",
+    "shortExampleKo": "그녀가 너무 웃긴 농담을 해서 아무도 무표정을 유지할 수 없었다."
+  }
+}

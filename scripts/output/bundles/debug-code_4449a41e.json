@@ -1,0 +1,30 @@
+{
+  "id": "debug-code_4449a41e",
+  "expression": "debug code",
+  "selectionMeta": {
+    "selectedPhrase": "debug code",
+    "selectedSenseLabelKo": "코드를 디버그하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "I spent the entire morning trying to debug code that kept crashing whenever users uploaded large files."
+  },
+  "step2": {
+    "story": "Jake stared at the error log, his coffee growing cold beside him. He had been trying to debug code for the payment module since last night, and the same cryptic error kept appearing. Finally, after adding a few print statements, he spotted a missing null check — a tiny oversight causing the whole system to fail.",
+    "topicTag": "problem solving",
+    "moodTag": "persistent"
+  },
+  "step3": {
+    "story": "It was 11 PM and the office was nearly empty, but Mina refused to leave. The new feature was supposed to launch tomorrow, and a critical bug had surfaced during final testing. She pulled up the terminal, determined to debug code until the issue was resolved. Line by line, she traced the data flow through the authentication service. After an hour of careful inspection, she discovered that a recent library update had changed how tokens were parsed. She patched the function, ran the test suite, and watched every single test turn green — a wave of relief washing over her as she finally closed her laptop.",
+    "topicTag": "deadline pressure",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "코드에서 버그(오류)를 찾아 제거하다라는 뜻입니다.",
+    "realUsageKo": "프로그래밍에서 작성한 코드가 예상대로 작동하지 않을 때, 원인을 분석하고 수정하는 과정을 말합니다. 단순 오타부터 복잡한 논리 오류까지 다양한 문제를 해결할 때 사용합니다.",
+    "etymologyKo": "'debug'는 1940년대 컴퓨터 과학자 그레이스 호퍼가 하버드 Mark II 컴퓨터에서 실제 나방(bug)을 제거한 일화에서 유래했다고 알려져 있습니다. 이후 소프트웨어 오류를 'bug', 이를 수정하는 행위를 'debug'라 부르게 되었습니다.",
+    "nuanceKo": "개발자들 사이에서 매우 일상적으로 쓰이는 표현입니다. 'fix a bug'보다 과정 자체에 초점을 맞추며, 원인을 찾고 분석하는 전체 과정을 포함하는 뉘앙스입니다.",
+    "shortExampleEn": "Can you help me debug code after the meeting?",
+    "shortExampleKo": "회의 끝나고 코드 디버깅 좀 도와줄 수 있어?"
+  }
+}

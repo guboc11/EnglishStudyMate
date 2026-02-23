@@ -1,0 +1,30 @@
+{
+  "id": "reach-potential_e940a0b1",
+  "expression": "reach potential",
+  "selectionMeta": {
+    "selectedPhrase": "reach potential",
+    "selectedSenseLabelKo": "잠재력을 발휘하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With the right mentorship and dedication, she was finally able to reach her full potential as a software engineer."
+  },
+  "step2": {
+    "story": "Jiwon had always been a talented pianist, but stage fright held her back for years. After working with a performance coach, she overcame her fear and gave a flawless recital. Her teacher smiled and said, 'You've finally reached your potential.'",
+    "topicTag": "personal growth",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Minho joined a startup right out of college, eager to prove himself. For months, he struggled with imposter syndrome, constantly comparing himself to more experienced colleagues. His manager noticed his frustration and paired him with a senior mentor who helped him find his strengths. Slowly, Minho started leading small projects and earning the team's trust. By the end of the year, he had designed a feature that doubled user engagement. Everyone agreed that he had truly reached his potential, and it was only the beginning.",
+    "topicTag": "career development",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'reach potential'은 직역하면 '잠재력에 도달하다'로, 숨겨져 있던 능력의 최대치에 이르는 것을 뜻합니다.",
+    "realUsageKo": "실제로는 누군가가 자신의 능력을 최대한 발휘하여 기대했던 수준에 도달했을 때 사용합니다. 'reach one's full potential'처럼 소유격과 full을 함께 쓰는 경우가 많습니다.",
+    "etymologyKo": "'reach'는 고대 영어 'rǣcan(뻗다, 닿다)'에서, 'potential'은 라틴어 'potentialis(힘이 있는)'에서 유래했습니다. 두 단어가 결합되어 '내재된 힘에 닿다'라는 의미를 형성합니다.",
+    "nuanceKo": "긍정적이고 격려하는 뉘앙스를 가지며, 교육·직장·자기계발 맥락에서 자주 쓰입니다. 아직 잠재력을 발휘하지 못했다는 의미로 부정형('hasn't reached potential')으로도 많이 사용됩니다.",
+    "shortExampleEn": "Every student deserves the support they need to reach their potential.",
+    "shortExampleKo": "모든 학생은 자신의 잠재력을 발휘하는 데 필요한 지원을 받을 자격이 있습니다."
+  }
+}

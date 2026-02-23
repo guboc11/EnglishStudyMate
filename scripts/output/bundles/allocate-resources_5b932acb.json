@@ -1,0 +1,30 @@
+{
+  "id": "allocate-resources_5b932acb",
+  "expression": "allocate resources",
+  "selectionMeta": {
+    "selectedPhrase": "allocate resources",
+    "selectedSenseLabelKo": "자원을 배분하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The project manager decided to allocate resources more carefully after last quarter's budget overrun."
+  },
+  "step2": {
+    "story": "Our startup was growing fast, but cash was tight. The CEO gathered the leadership team and said we needed to allocate resources to the three projects that would generate revenue fastest. It was a tough call, but focusing our efforts turned things around within two months.",
+    "topicTag": "startup growth",
+    "moodTag": "strategic"
+  },
+  "step3": {
+    "story": "When Jisoo joined the operations team at a mid-sized logistics company, she noticed that departments were constantly fighting over budget and staff. Every quarter felt like a battle. She proposed a transparent framework where each division would present measurable goals before the company would allocate resources for the next period. At first, some managers resisted the change, feeling it added bureaucracy. But after two cycles, the results spoke for themselves — projects were delivered on time and employee satisfaction improved. Jisoo's system proved that how you allocate resources matters just as much as how much you have.",
+    "topicTag": "organizational efficiency",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "자원(resources)을 배분하다(allocate), 즉 사람·돈·시간 등을 특정 용도에 나누어 배정한다는 뜻입니다.",
+    "realUsageKo": "비즈니스·프로젝트 관리 맥락에서 예산, 인력, 장비 등을 어디에 얼마나 투입할지 결정할 때 씁니다. 단순히 '나누다'보다 전략적 판단이 수반되는 느낌이 강합니다.",
+    "etymologyKo": "allocate는 라틴어 allocare(할당하다)에서 유래했으며, ad-(~에게) + locare(놓다)의 결합입니다. resource는 프랑스어 ressource(다시 일어나다)에서 왔습니다.",
+    "nuanceKo": "일상 대화보다는 회의, 보고서, 전략 논의 등 격식 있는 비즈니스 상황에서 주로 사용됩니다. 단순 분배가 아니라 우선순위에 따른 의사결정을 내포합니다.",
+    "shortExampleEn": "We need to allocate resources wisely to meet the year-end deadline.",
+    "shortExampleKo": "연말 마감을 맞추려면 자원을 현명하게 배분해야 합니다."
+  }
+}

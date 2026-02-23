@@ -1,0 +1,30 @@
+{
+  "id": "control-emotions_116afa0a",
+  "expression": "control emotions",
+  "selectionMeta": {
+    "selectedPhrase": "control emotions",
+    "selectedSenseLabelKo": "감정을 조절하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She took a deep breath to control her emotions before responding to the criticism."
+  },
+  "step2": {
+    "story": "Mark felt his face flush with anger during the meeting when his colleague took credit for his work. He gripped the edge of the table and forced himself to control his emotions, knowing an outburst would only make things worse. After the meeting, he calmly approached his manager to set the record straight.",
+    "topicTag": "workplace conflict",
+    "moodTag": "restrained"
+  },
+  "step3": {
+    "story": "Jina had always been the emotional one in her family, quick to laugh and even quicker to cry. But when she became a nurse in the emergency room, she realized she needed to control her emotions to do her job well. One night, a young boy was brought in after a car accident, reminding her of her own little brother. Her hands trembled as she prepared the IV, but she steadied herself and focused on each task. By the time her shift ended, she had saved the boy's life without shedding a single tear. She cried the whole drive home, finally letting everything out.",
+    "topicTag": "emotional resilience",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "감정(emotions)을 통제하다(control), 즉 자신의 감정을 억누르거나 다스린다는 뜻입니다.",
+    "realUsageKo": "화가 나거나 슬플 때 감정을 겉으로 드러내지 않고 침착하게 행동하는 것을 말합니다. 직장, 공공장소 등 감정 표현이 적절하지 않은 상황에서 자주 쓰입니다.",
+    "etymologyKo": "control은 중세 프랑스어 'contrôle(검사, 관리)'에서, emotions는 라틴어 'emovere(밖으로 움직이다)'에서 유래했습니다. 감정이라는 내면의 움직임을 관리한다는 조합입니다.",
+    "nuanceKo": "감정을 없애는 것이 아니라 '조절'한다는 뉘앙스입니다. 성숙함이나 자기 절제를 긍정적으로 표현할 때 주로 쓰이지만, 감정을 지나치게 억누른다는 부정적 맥락에서도 사용됩니다.",
+    "shortExampleEn": "It's important to control your emotions during a job interview.",
+    "shortExampleKo": "면접 중에는 감정을 조절하는 것이 중요합니다."
+  }
+}

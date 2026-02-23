@@ -1,0 +1,30 @@
+{
+  "id": "lose-patience_28161e3c",
+  "expression": "lose patience",
+  "selectionMeta": {
+    "selectedPhrase": "lose patience",
+    "selectedSenseLabelKo": "인내심을 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After explaining the instructions for the fifth time, the teacher started to lose patience with the class."
+  },
+  "step2": {
+    "story": "Mark had been on hold with customer service for over forty minutes. When the automated voice asked him to repeat his account number yet again, he finally lost patience and hung up. He decided to drive to the store and resolve the issue in person.",
+    "topicTag": "customer service",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Sarah had always considered herself a calm and understanding parent. But today was different. Her seven-year-old daughter had refused to put on her shoes for the third time, they were already twenty minutes late for school, and the dog had just knocked over a glass of juice on the kitchen floor. Sarah felt herself beginning to lose patience, her voice rising despite her best efforts to stay composed. She took a deep breath, closed her eyes for a moment, and reminded herself that yelling would only make things worse. Sometimes the hardest part of parenting is holding it together when everything around you is falling apart.",
+    "topicTag": "parenting",
+    "moodTag": "overwhelmed"
+  },
+  "meaning": {
+    "literalMeaningKo": "'patience(인내심)'를 'lose(잃다)'한다는 뜻으로, 더 이상 참을 수 없게 되는 상태를 직접적으로 표현합니다.",
+    "realUsageKo": "반복되는 상황이나 답답한 일에 대해 더 이상 참지 못하고 짜증이 나거나 화가 날 때 사용합니다. 'I'm losing patience'처럼 진행형으로 쓰면 점점 인내심이 바닥나고 있다는 경고의 뉘앙스가 됩니다.",
+    "etymologyKo": "'patience'는 라틴어 'patientia(고통을 견디는 능력)'에서 유래했으며, 'lose'와 결합하여 중세 영어 시기부터 '참을성을 잃다'라는 의미로 널리 사용되어 왔습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 단순한 짜증부터 심각한 분노 직전까지 폭넓은 감정 강도를 표현할 수 있습니다. 'lose my temper(화를 내다)'보다는 한 단계 약한 표현입니다.",
+    "shortExampleEn": "I'm starting to lose patience with this slow internet connection.",
+    "shortExampleKo": "이 느린 인터넷 연결에 점점 인내심을 잃고 있어."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "attract-attention_d05f660d",
+  "expression": "attract attention",
+  "selectionMeta": {
+    "selectedPhrase": "attract attention",
+    "selectedSenseLabelKo": "관심을 끌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The colorful mural on the side of the building never fails to attract attention from people walking by."
+  },
+  "step2": {
+    "story": "Mina spent weeks designing a bold poster for the school festival. On the morning it went up, students crowded around the bulletin board, pointing and whispering. Her creative design had managed to attract attention from the entire school.",
+    "topicTag": "school event",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "Joon had been running a small online bakery for months, but orders were painfully slow. One evening, he decided to film himself decorating a cake in real time and posted the video on social media. By morning, the clip had gone viral, racking up thousands of views. His unique frosting technique managed to attract attention from food bloggers across the country. Within a week, orders flooded in faster than he could handle. What started as a simple video turned his struggling side hustle into a thriving business.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '주의를 끌어당기다'라는 뜻입니다.",
+    "realUsageKo": "사람이나 사물이 다른 사람들의 관심이나 시선을 사로잡을 때 사용합니다. 긍정적·부정적 상황 모두에 쓰입니다.",
+    "etymologyKo": "attract는 라틴어 'attrahere(끌어당기다)'에서 유래했으며, attention은 라틴어 'attendere(주의를 기울이다)'에서 왔습니다.",
+    "nuanceKo": "중립적인 표현으로, 의도적으로 관심을 끄는 경우와 자연스럽게 눈길을 끄는 경우 모두에 사용할 수 있습니다.",
+    "shortExampleEn": "Her bright red dress attracted attention at the party.",
+    "shortExampleKo": "그녀의 새빨간 드레스가 파티에서 관심을 끌었다."
+  }
+}

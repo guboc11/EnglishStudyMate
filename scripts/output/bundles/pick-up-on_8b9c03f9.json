@@ -1,0 +1,30 @@
+{
+  "id": "pick-up-on_8b9c03f9",
+  "expression": "pick up on",
+  "selectionMeta": {
+    "selectedPhrase": "pick up on",
+    "selectedSenseLabelKo": "알아채다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was quick to pick up on the tension between the two colleagues during the meeting."
+  },
+  "step2": {
+    "story": "During the job interview, Marco noticed the interviewer's smile fade when he mentioned his previous company. He picked up on the subtle shift in tone and quickly steered the conversation toward his skills instead. That small adjustment helped him land the offer.",
+    "topicTag": "job interview",
+    "moodTag": "perceptive"
+  },
+  "step3": {
+    "story": "Jina had always been good at reading people, but her new manager was hard to figure out. He spoke calmly and never raised his voice, even when things went wrong. One Friday afternoon, she noticed he kept glancing at his phone and cutting meetings short. She picked up on the signs that something was off and asked if everything was okay. He paused, then admitted his father was in the hospital. From that day on, their working relationship changed — built on a moment of genuine attention.",
+    "topicTag": "workplace empathy",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'무언가를 집어 올려 연결하다'라는 뜻으로, 표면 위의 것을 알아채서 이해한다는 의미입니다.",
+    "realUsageKo": "다른 사람의 감정, 분위기, 숨겨진 의미 등을 감지하거나 알아챌 때 사용합니다. 직접 말하지 않은 것을 눈치로 파악하는 뉘앙스가 강합니다.",
+    "etymologyKo": "'pick up'(집어 올리다)에 'on'이 결합된 구동사로, 단서를 '집어 올려' 인식한다는 비유에서 유래했습니다.",
+    "nuanceKo": "단순히 '알다'보다 관찰력이나 감수성이 있어서 미묘한 것을 감지한다는 뉘앙스입니다. 긍정적인 능력으로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "Kids pick up on their parents' stress more than we realize.",
+    "shortExampleKo": "아이들은 우리가 생각하는 것보다 부모의 스트레스를 훨씬 잘 알아챕니다."
+  }
+}

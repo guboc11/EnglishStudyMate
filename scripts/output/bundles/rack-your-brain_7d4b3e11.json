@@ -1,0 +1,30 @@
+{
+  "id": "rack-your-brain_7d4b3e11",
+  "expression": "rack your brain",
+  "selectionMeta": {
+    "selectedPhrase": "rack your brain",
+    "selectedSenseLabelKo": "머리를 쥐어짜다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've been racking my brain all morning trying to remember where I left my car keys."
+  },
+  "step2": {
+    "story": "The final exam was tomorrow, and Mia still couldn't solve the last practice problem. She sat at her desk racking her brain for hours, scribbling equations and crossing them out. Finally, just before midnight, the answer clicked into place.",
+    "topicTag": "exam preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James stared at the blank whiteboard in the conference room, feeling the weight of his team's expectations. The product launch was in two weeks, but their marketing campaign still lacked a compelling tagline. He had been racking his brain since Monday, filling notebooks with rejected ideas. His colleague Sarah walked in with two cups of coffee and sat down beside him. They brainstormed together, bouncing half-formed thoughts back and forth. By the end of the afternoon, they finally landed on a tagline that captured exactly what they wanted to say.",
+    "topicTag": "creative work",
+    "moodTag": "frustrated then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "뇌를 고문 틀(rack)에 올려놓다, 즉 머리를 극한까지 짜내다.",
+    "realUsageKo": "무언가를 떠올리거나 해결책을 찾기 위해 아주 열심히 생각할 때 사용합니다. '아무리 생각해도 안 떠오른다'는 느낌으로 자주 쓰입니다.",
+    "etymologyKo": "중세 시대 고문 도구인 'rack(고문대)'에서 유래했습니다. 고문대가 몸을 늘이듯이, 뇌를 한계까지 쥐어짠다는 비유에서 나온 표현입니다.",
+    "nuanceKo": "단순히 '생각하다'보다 훨씬 강한 표현으로, 오랫동안 힘들게 고민하는 느낌을 담고 있습니다. 일상 대화와 글 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "I racked my brain but couldn't remember her name.",
+    "shortExampleKo": "머리를 쥐어짰지만 그녀의 이름이 기억나지 않았다."
+  }
+}

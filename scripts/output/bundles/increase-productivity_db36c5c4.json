@@ -1,0 +1,30 @@
+{
+  "id": "increase-productivity_db36c5c4",
+  "expression": "increase productivity",
+  "selectionMeta": {
+    "selectedPhrase": "increase productivity",
+    "selectedSenseLabelKo": "생산성을 높이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our team decided to increase productivity by cutting unnecessary meetings and focusing on deep work sessions."
+  },
+  "step2": {
+    "story": "After months of missed deadlines, the manager gathered the team for an honest conversation. She proposed eliminating all meetings under thirty minutes and replacing them with async updates. Within weeks, they managed to increase productivity by nearly forty percent, and morale soared alongside the numbers.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Jenna had been feeling overwhelmed at her startup for months. Every day was packed with back-to-back meetings, Slack messages, and context switching that left her exhausted but unproductive. One weekend, she read an article about time-blocking and decided to restructure her entire schedule. She blocked off four-hour windows for focused coding, turned off notifications, and batched all communication into two daily slots. The results were dramatic — she managed to increase productivity so much that she finished a two-week sprint in just five days. Her co-founder noticed the change and asked the whole team to adopt the same system.",
+    "topicTag": "startup culture",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "생산성을 증가시키다, 즉 같은 시간과 자원으로 더 많은 결과물을 만들어내는 것을 의미합니다.",
+    "realUsageKo": "업무 환경에서 효율을 높이거나, 더 적은 노력으로 더 큰 성과를 내고자 할 때 널리 사용됩니다. 개인의 업무 습관부터 조직 전체의 프로세스 개선까지 폭넓게 쓰입니다.",
+    "etymologyKo": "'increase'는 라틴어 'increscere(자라다)'에서, 'productivity'는 라틴어 'producere(앞으로 이끌다)'에서 유래했습니다. 산업혁명 이후 경제·경영 분야에서 핵심 개념으로 자리 잡았습니다.",
+    "nuanceKo": "비즈니스와 자기계발 맥락에서 매우 긍정적인 뉘앙스를 가집니다. 다만 과도하게 사용하면 '성과 압박'의 느낌을 줄 수 있어, 맥락에 따라 'work smarter'와 함께 쓰이기도 합니다.",
+    "shortExampleEn": "The new software helped us increase productivity across all departments.",
+    "shortExampleKo": "새 소프트웨어 덕분에 모든 부서의 생산성을 높일 수 있었다."
+  }
+}

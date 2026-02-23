@@ -1,0 +1,30 @@
+{
+  "id": "kick-yourself_4118715b",
+  "expression": "kick yourself",
+  "selectionMeta": {
+    "selectedPhrase": "kick yourself",
+    "selectedSenseLabelKo": "자책하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I could kick myself for not buying those concert tickets when they were still available."
+  },
+  "step2": {
+    "story": "Sarah found out the job she turned down last month was offering twice the salary she expected. She could kick herself for not even negotiating before walking away. Now every time she sees the company's name, she feels a wave of regret.",
+    "topicTag": "career regret",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "James had been eyeing a vintage guitar at the local shop for weeks, waiting for the price to drop. One Saturday morning, he finally decided to go buy it, only to find a 'SOLD' sign hanging where the guitar used to be. He could kick himself for hesitating so long. His friend Tom had told him multiple times that someone else would snatch it up. Now James scrolls through online listings every night, searching for the same model, but nothing comes close. He promised himself he would never let indecision cost him something he truly wanted again.",
+    "topicTag": "missed opportunity",
+    "moodTag": "frustrated"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '자기 자신을 발로 차다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 실수나 놓친 기회에 대해 깊이 후회하고 자책할 때 사용합니다. 주로 'could kick myself'의 형태로 쓰입니다.",
+    "etymologyKo": "자신의 어리석은 행동에 대한 좌절감을 신체적 행위로 표현한 비유에서 유래했으며, 19세기부터 영어권에서 널리 사용되었습니다.",
+    "nuanceKo": "심각한 자책보다는 가벼운 후회나 아쉬움의 뉘앙스가 강합니다. 일상 대화에서 자연스럽게 쓰이며, 유머러스한 톤을 띨 때도 많습니다.",
+    "shortExampleEn": "You'll kick yourself if you don't at least try.",
+    "shortExampleKo": "최소한 시도라도 안 하면 나중에 후회할 거야."
+  }
+}

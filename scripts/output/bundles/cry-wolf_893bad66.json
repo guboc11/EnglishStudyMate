@@ -1,0 +1,30 @@
+{
+  "id": "cry-wolf_893bad66",
+  "expression": "cry wolf",
+  "selectionMeta": {
+    "selectedPhrase": "cry wolf",
+    "selectedSenseLabelKo": "거짓 경보를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After he cried wolf three times about the project deadline, nobody took his warnings seriously anymore."
+  },
+  "step2": {
+    "story": "Jake kept telling his teammates that the server was about to crash, but each time it turned out to be a minor glitch. After weeks of crying wolf, when a real outage finally hit, no one rushed to help. By the time they realized he was serious, the damage was already done.",
+    "topicTag": "trust and credibility",
+    "moodTag": "cautionary"
+  },
+  "step3": {
+    "story": "Mina was the newest member of the neighborhood watch group, and she was determined to prove herself. Every other night, she would call the group chat claiming she heard suspicious noises outside. The first few times, neighbors grabbed flashlights and came running. But every alert turned out to be a stray cat or the wind rattling a gate. People started muting her messages. Then one rainy Tuesday, Mina spotted someone actually trying to break into Mr. Chen's garage. She frantically typed warnings, but nobody responded—she had cried wolf too many times. It took her banging on doors in person before anyone believed her.",
+    "topicTag": "community and responsibility",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '늑대라고 외치다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 거짓 경보를 반복해서 울려 나중에 진짜 위험할 때 아무도 믿지 않게 되는 상황을 표현할 때 사용합니다. '양치기 소년처럼 거짓말하다'와 비슷한 의미입니다.",
+    "etymologyKo": "이솝 우화 '양치기 소년(The Boy Who Cried Wolf)'에서 유래했습니다. 심심풀이로 '늑대가 나타났다!'고 거짓말을 반복한 소년이 진짜 늑대가 나타났을 때 도움을 받지 못했다는 이야기입니다.",
+    "nuanceKo": "경고성이 강한 표현으로, 거짓말이나 과장을 반복하면 신뢰를 잃는다는 부정적 뉘앙스를 담고 있습니다. 비난이나 충고의 맥락에서 주로 쓰입니다.",
+    "shortExampleEn": "Stop crying wolf—nobody will believe you when there's a real emergency.",
+    "shortExampleKo": "거짓 경보 좀 그만 울려—진짜 위급할 때 아무도 안 믿을 거야."
+  }
+}

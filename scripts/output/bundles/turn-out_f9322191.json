@@ -1,0 +1,30 @@
+{
+  "id": "turn-out_f9322191",
+  "expression": "turn out",
+  "selectionMeta": {
+    "selectedPhrase": "turn out",
+    "selectedSenseLabelKo": "판명되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The project turned out to be much more challenging than anyone expected."
+  },
+  "step2": {
+    "story": "Sarah spent weeks worrying about her job interview at the tech company. She prepared answers for every possible question and barely slept the night before. It turned out that the interviewer was her old college friend, and the conversation flowed naturally.",
+    "topicTag": "job interview",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mark had been dreading the company reorganization for months. Rumors were flying around the office that his entire department would be dissolved. He updated his resume and started quietly reaching out to recruiters. When the announcement finally came, it turned out that his team was actually being promoted to lead a brand-new division. All those sleepless nights had been for nothing. He laughed at himself for assuming the worst when the reality was better than he could have imagined.",
+    "topicTag": "workplace change",
+    "moodTag": "surprised"
+  },
+  "meaning": {
+    "literalMeaningKo": "'turn'(돌다)과 'out'(밖으로)이 합쳐져 '밖으로 드러나다'라는 뜻입니다.",
+    "realUsageKo": "예상과 다른 결과가 밝혀지거나, 어떤 상황의 실제 모습이 드러날 때 사용합니다. 'It turned out that...' 형태로 가장 자주 쓰이며, '알고 보니 ~였다'라는 의미입니다.",
+    "etymologyKo": "중세 영어에서 'turn'은 방향을 바꾸다, 'out'은 바깥으로라는 의미로, 숨겨진 것이 바깥으로 방향을 틀어 나타난다는 비유에서 '판명되다'라는 뜻이 생겼습니다.",
+    "nuanceKo": "기대나 예상과 다른 결과를 전달할 때 많이 쓰이며, 놀라움이나 반전의 뉘앙스를 담고 있습니다. 긍정적·부정적 결과 모두에 사용할 수 있습니다.",
+    "shortExampleEn": "It turned out that the restaurant was closed on Mondays.",
+    "shortExampleKo": "알고 보니 그 식당은 월요일에 문을 닫더라고요."
+  }
+}

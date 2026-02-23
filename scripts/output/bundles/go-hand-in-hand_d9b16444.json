@@ -1,0 +1,30 @@
+{
+  "id": "go-hand-in-hand_d9b16444",
+  "expression": "go hand in hand",
+  "selectionMeta": {
+    "selectedPhrase": "go hand in hand",
+    "selectedSenseLabelKo": "함께 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Success and hard work go hand in hand — you rarely get one without the other."
+  },
+  "step2": {
+    "story": "After years of teaching, Ms. Park realized that confidence and fluency go hand in hand. Students who weren't afraid to make mistakes always progressed faster. She started every class by reminding them that courage and learning are inseparable.",
+    "topicTag": "language learning",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "When David moved to a new city for his dream job, he quickly discovered that professional growth and personal sacrifice go hand in hand. Late nights at the office meant missing dinners with friends back home. But as months passed, he found a rhythm — joining a local running club and meeting people who understood the hustle. His new friendships and career ambitions began to fuel each other. He realized that loneliness wasn't inevitable; connection and effort go hand in hand too. By the end of the year, he felt more at home than he ever had.",
+    "topicTag": "career and life balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '손에 손을 잡고 함께 가다'라는 뜻입니다.",
+    "realUsageKo": "두 가지가 밀접하게 연결되어 있어서 항상 함께 나타나거나 동반된다는 의미로 사용됩니다. 예를 들어 '성공과 노력은 떼려야 뗄 수 없는 관계'라고 할 때 씁니다.",
+    "etymologyKo": "중세 영어에서 두 사람이 손을 잡고 걷는 모습에서 유래했으며, 16세기경부터 '밀접하게 관련되다'라는 비유적 의미로 쓰이기 시작했습니다.",
+    "nuanceKo": "주로 긍정적이거나 중립적인 맥락에서 두 요소의 자연스러운 연관성을 강조할 때 사용합니다. 격식체와 비격식체 모두에서 자연스럽게 쓸 수 있는 표현입니다.",
+    "shortExampleEn": "Technology and innovation go hand in hand.",
+    "shortExampleKo": "기술과 혁신은 떼려야 뗄 수 없는 관계입니다."
+  }
+}

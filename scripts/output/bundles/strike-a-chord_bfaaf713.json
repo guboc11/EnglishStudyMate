@@ -1,0 +1,30 @@
+{
+  "id": "strike-a-chord_bfaaf713",
+  "expression": "strike a chord",
+  "selectionMeta": {
+    "selectedPhrase": "strike a chord",
+    "selectedSenseLabelKo": "공감을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her speech about work-life balance really struck a chord with the exhausted employees."
+  },
+  "step2": {
+    "story": "Maya nervously presented her idea for flexible working hours at the company meeting. To her surprise, every head in the room nodded — her proposal struck a chord with colleagues who had been silently struggling to juggle family and deadlines. By the end of the week, management had approved a pilot program.",
+    "topicTag": "workplace culture",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had always written songs in his tiny apartment, never sharing them with anyone. One evening, a friend convinced him to perform at an open mic night at a local café. His hands trembled as he played the first few notes, but when he sang about losing his grandmother and finding strength in her memory, the room fell silent. After the last chord faded, a woman in the front row wiped her eyes and said his song had struck a chord with her — she had lost her own grandmother just months ago. That night, three more strangers approached him with similar stories. Daniel realized that the emotions he thought were only his own were, in fact, universal.",
+    "topicTag": "human connection",
+    "moodTag": "touching"
+  },
+  "meaning": {
+    "literalMeaningKo": "악기의 현(chord)을 치다(strike)라는 뜻으로, 감정의 줄을 건드리다라는 의미입니다.",
+    "realUsageKo": "어떤 말이나 경험이 사람들의 마음속 깊은 공감이나 감정적 반응을 불러일으킬 때 사용합니다. 특히 많은 사람들이 공통적으로 느끼는 감정을 자극할 때 자주 쓰입니다.",
+    "etymologyKo": "음악에서 유래한 표현으로, 악기의 현을 튕기면 같은 음의 다른 현도 함께 울리는 '공명(resonance)' 현상에서 비롯되었습니다. 18세기부터 비유적 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "긍정적인 맥락에서 주로 사용되며, 깊은 감정적 공감이나 동의를 나타냅니다. 단순한 '동의'보다 더 감성적이고 본능적인 반응을 의미합니다.",
+    "shortExampleEn": "The documentary about climate change struck a chord with young viewers.",
+    "shortExampleKo": "기후 변화에 관한 그 다큐멘터리는 젊은 시청자들에게 깊은 공감을 불러일으켰다."
+  }
+}

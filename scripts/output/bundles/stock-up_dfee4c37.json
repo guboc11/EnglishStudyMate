@@ -1,0 +1,30 @@
+{
+  "id": "stock-up_dfee4c37",
+  "expression": "stock up",
+  "selectionMeta": {
+    "selectedPhrase": "stock up",
+    "selectedSenseLabelKo": "비축하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to stock up on groceries before the long weekend."
+  },
+  "step2": {
+    "story": "A massive snowstorm was heading toward the city, and everyone rushed to the supermarket to stock up on essentials. Sarah grabbed extra canned goods, bottled water, and batteries. By the time she left, the shelves were nearly empty.",
+    "topicTag": "emergency preparedness",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Every autumn, Grandma would stock up on preserves, dried herbs, and firewood before the first frost arrived. She had grown up in a small mountain village where winters were harsh and supply trucks rarely came through. Her pantry was always neatly organized with rows of glass jars filled with pickled vegetables and homemade jam. One year, an unexpected early blizzard hit the region and roads were blocked for two weeks. While neighbors scrambled, Grandma calmly served warm soup from her well-prepared stores. That winter, the whole neighborhood learned the value of stocking up ahead of time.",
+    "topicTag": "family wisdom",
+    "moodTag": "warm and nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stock'은 재고·저장품, 'up'은 가득 채운다는 뉘앙스로, 물건을 쌓아 올려 채운다는 뜻입니다.",
+    "realUsageKo": "필요한 물건을 미리 넉넉하게 사두거나 비축해 놓을 때 사용합니다. 'stock up on + 물건' 형태로 주로 쓰이며, 식료품·생필품을 대량 구매하는 상황에서 자주 등장합니다.",
+    "etymologyKo": "'stock'은 고대 영어 'stocc(나무 기둥·저장)'에서 유래했으며, 상점의 재고(stock)를 가득 채운다(up)는 의미가 결합된 구동사입니다.",
+    "nuanceKo": "일상적이고 실용적인 느낌의 표현입니다. 세일 기간 대량 구매, 재난 대비, 명절 준비 등 '미리 넉넉히 확보해 둔다'는 느낌이 강합니다.",
+    "shortExampleEn": "Let's stock up on snacks for the road trip.",
+    "shortExampleKo": "로드트립을 위해 간식을 넉넉히 사 놓자."
+  }
+}

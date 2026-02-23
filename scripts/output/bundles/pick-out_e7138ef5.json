@@ -1,0 +1,30 @@
+{
+  "id": "pick-out_e7138ef5",
+  "expression": "pick out",
+  "selectionMeta": {
+    "selectedPhrase": "pick out",
+    "selectedSenseLabelKo": "고르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Can you help me pick out a birthday gift for my sister?"
+  },
+  "step2": {
+    "story": "Maria spent over an hour at the bookstore trying to pick out the perfect novel for her vacation. She finally chose a mystery thriller that caught her eye. Walking out with the book in hand, she felt a wave of excitement about the trip ahead.",
+    "topicTag": "leisure planning",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Jason stood in front of rows and rows of neckties, feeling completely overwhelmed. He had a big job interview the next morning and wanted to pick out something that looked both professional and confident. A store clerk noticed him struggling and walked over with a warm smile. She held up a deep navy tie with subtle silver stripes and said it would go perfectly with his charcoal suit. Jason tried it on in the mirror and immediately knew it was the one. Sometimes having a little help makes all the difference when you need to pick out the right thing.",
+    "topicTag": "job preparation",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'pick'(집다)과 'out'(밖으로)이 결합하여, 여러 개 중에서 하나를 골라 꺼낸다는 뜻입니다.",
+    "realUsageKo": "여러 선택지 중에서 마음에 드는 것을 신중하게 고르거나 선택할 때 사용합니다. 쇼핑, 선물 고르기, 옷 고르기 등 일상적인 선택 상황에서 자주 쓰입니다.",
+    "etymologyKo": "'pick'은 고대 영어에서 '찌르다, 쪼다'라는 뜻에서 유래했으며, 시간이 지나면서 '선택하다'라는 의미로 확장되었습니다. 'out'이 붙어 여러 것들 사이에서 '골라내다'라는 뉘앙스가 더해졌습니다.",
+    "nuanceKo": "단순히 'choose'보다 더 구체적이고 일상적인 느낌을 줍니다. 물건을 직접 보고 만지면서 고르는 듯한 생생한 이미지를 전달하며, 캐주얼한 대화에서 자주 사용됩니다.",
+    "shortExampleEn": "She picked out a red dress for the party.",
+    "shortExampleKo": "그녀는 파티를 위해 빨간 드레스를 골랐다."
+  }
+}

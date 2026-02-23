@@ -1,0 +1,30 @@
+{
+  "id": "invest-time_58a343b1",
+  "expression": "invest time",
+  "selectionMeta": {
+    "selectedPhrase": "invest time",
+    "selectedSenseLabelKo": "시간을 투자하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you invest time in learning a new skill, the results will pay off in the long run."
+  },
+  "step2": {
+    "story": "Maya decided to invest time in studying data science every evening after work. Within six months, she built a portfolio impressive enough to land interviews at top tech companies. Her colleagues were amazed at how quickly she had transformed her career prospects.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had always dreamed of speaking fluent Japanese, but years of half-hearted attempts left him stuck at a beginner level. One January, he made a firm decision to invest time in daily practice, no matter how busy his schedule became. He woke up thirty minutes earlier each morning to review vocabulary and listened to Japanese podcasts during his commute. On weekends, he joined an online conversation group with native speakers. After eight months of consistent effort, he traveled to Osaka and held his first real conversation entirely in Japanese. Standing in that bustling street market, he realized that every minute he had invested was worth it.",
+    "topicTag": "language learning",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "'시간을 투자하다'라는 뜻으로, 시간을 돈처럼 가치 있는 자원으로 비유하여 어떤 일에 쏟는다는 의미입니다.",
+    "realUsageKo": "어떤 목표나 활동에 의도적으로 시간과 노력을 들이는 것을 뜻합니다. 단순히 시간을 쓰는 것(spend time)보다 목적의식과 기대 수익이 담긴 표현입니다.",
+    "etymologyKo": "'invest'는 라틴어 'investire(옷을 입히다)'에서 유래했으며, 17세기부터 '자본을 투입하다'라는 금융 의미로 쓰이기 시작했습니다. 이후 시간, 노력 등 비금전적 자원에도 비유적으로 확장되었습니다.",
+    "nuanceKo": "spend time보다 전략적이고 목적지향적인 뉘앙스를 가집니다. 단순히 시간을 보내는 것이 아니라, 미래의 성과를 기대하며 의식적으로 시간을 배분한다는 느낌을 줍니다.",
+    "shortExampleEn": "She invested time in building strong relationships with her teammates.",
+    "shortExampleKo": "그녀는 팀원들과 좋은 관계를 쌓는 데 시간을 투자했다."
+  }
+}

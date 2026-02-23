@@ -1,0 +1,30 @@
+{
+  "id": "lose-your-way_1beab783",
+  "expression": "lose your way",
+  "selectionMeta": {
+    "selectedPhrase": "lose your way",
+    "selectedSenseLabelKo": "길을 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of chasing promotions, she started to lose her way and forgot what truly made her happy."
+  },
+  "step2": {
+    "story": "Tom moved to a big city to pursue his dream of becoming an artist. But months of rejection and financial pressure made him lose his way, and he found himself working a corporate job he hated. One rainy evening, he picked up a brush again and remembered why he had come.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Maya had always been the most focused student in her class, with a clear plan for her future mapped out since high school. But when she entered university, the overwhelming number of choices and social pressures made her lose her way. She switched her major three times, skipped lectures, and spent most nights scrolling through social media comparing herself to others. It wasn't until her grandmother visited and shared stories of her own struggles that Maya felt a spark of clarity. She realized that losing your way isn't failure — it's just part of finding the right path. The next morning, she signed up for a volunteer program abroad and finally felt like herself again.",
+    "topicTag": "self-discovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로 '자신의 길을 잃다'라는 뜻으로, 물리적으로 길을 잃거나 방향을 모르게 되는 것을 의미합니다.",
+    "realUsageKo": "실제로는 인생의 목표나 방향성을 잃었을 때 비유적으로 자주 사용됩니다. '내가 뭘 하고 싶은지 모르겠어', '삶의 방향을 잃었어'와 같은 상황에서 쓰입니다.",
+    "etymologyKo": "물리적으로 길을 잃는 것에서 비롯된 표현으로, 중세 영어 시대부터 비유적 의미로도 확장되어 사용되었습니다.",
+    "nuanceKo": "단순히 길을 모르는 것이 아니라 정체성이나 목적의식을 상실한 느낌을 전달합니다. 부정적이지만 다시 찾을 수 있다는 희망적 뉘앙스도 내포합니다.",
+    "shortExampleEn": "It's easy to lose your way when you're under too much pressure.",
+    "shortExampleKo": "압박이 너무 심하면 방향을 잃기 쉽습니다."
+  }
+}

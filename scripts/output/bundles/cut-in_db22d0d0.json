@@ -1,0 +1,30 @@
+{
+  "id": "cut-in_db22d0d0",
+  "expression": "cut in",
+  "selectionMeta": {
+    "selectedPhrase": "cut in",
+    "selectedSenseLabelKo": "끼어들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Sorry to cut in, but I think there's been a misunderstanding about the schedule."
+  },
+  "step2": {
+    "story": "The meeting was going smoothly until Mark decided to cut in with a completely different idea. Everyone paused and stared at him. He apologized but insisted his point was urgent enough to interrupt.",
+    "topicTag": "workplace communication",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Lisa was explaining her proposal to the board when a junior colleague suddenly cut in mid-sentence. The room fell silent, and Lisa took a deep breath to stay composed. The colleague nervously shared data that actually supported Lisa's argument. Realizing the interruption had helped rather than hurt, Lisa smiled and thanked him. From that day on, she encouraged her team to cut in whenever they had valuable input. It changed the culture of their meetings entirely.",
+    "topicTag": "team dynamics",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'cut in'은 직역하면 '잘라서 들어가다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 누군가의 말이나 행동 중간에 끼어들 때 사용합니다. 대화 중 갑자기 말을 가로채거나, 줄에서 새치기할 때도 쓰입니다.",
+    "etymologyKo": "'cut'(자르다)과 'in'(안으로)이 결합된 구동사로, 흐름을 끊고 사이에 들어간다는 이미지에서 유래했습니다.",
+    "nuanceKo": "다소 무례하거나 급한 느낌을 줄 수 있어, 'Sorry to cut in'처럼 사과와 함께 쓰는 경우가 많습니다. 격식 있는 자리에서는 주의가 필요합니다.",
+    "shortExampleEn": "Please don't cut in while I'm speaking.",
+    "shortExampleKo": "제가 말하는 중에 끼어들지 마세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "talk-out-of_ae213409",
+  "expression": "talk out of",
+  "selectionMeta": {
+    "selectedPhrase": "talk out of",
+    "selectedSenseLabelKo": "설득하여 그만두게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My best friend talked me out of quitting my job before I had another one lined up."
+  },
+  "step2": {
+    "story": "Jake was ready to drop out of college after failing his midterms. His older sister sat him down and talked him out of it, reminding him how far he'd already come. By the end of the semester, he passed every class.",
+    "topicTag": "education",
+    "moodTag": "supportive"
+  },
+  "step3": {
+    "story": "Maria had been saving for months, and when she saw the flashy sports car at the dealership, she was ready to sign the papers on the spot. Her husband Carlos could see the excitement in her eyes, but he gently talked her out of buying it. He pointed out that the insurance alone would eat up half their monthly budget. At first, Maria felt frustrated, but after sleeping on it, she realized he was right. A week later, they found a reliable used car for a fraction of the price. She thanked Carlos for talking her out of that impulsive decision.",
+    "topicTag": "personal finance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "말로 ~에서 빠져나오게 하다, 즉 대화를 통해 어떤 행동을 하지 않도록 만들다.",
+    "realUsageKo": "누군가가 하려는 일(보통 좋지 않은 결정)을 설득해서 그만두게 할 때 사용합니다. 'talk someone out of something/doing something' 형태로 씁니다.",
+    "etymologyKo": "'talk'(말하다)와 'out of'(~로부터 벗어나게)가 결합된 구동사로, 말의 힘으로 누군가를 어떤 계획이나 행동에서 빠져나오게 한다는 의미에서 유래했습니다.",
+    "nuanceKo": "상대방을 위해 좋은 의도로 설득하는 뉘앙스가 강합니다. 반대 표현인 'talk into'(설득하여 ~하게 하다)와 쌍으로 자주 쓰입니다.",
+    "shortExampleEn": "I tried to talk her out of moving abroad, but she had already made up her mind.",
+    "shortExampleKo": "그녀에게 해외 이주를 그만두라고 설득해 봤지만, 이미 마음을 굳힌 뒤였다."
+  }
+}

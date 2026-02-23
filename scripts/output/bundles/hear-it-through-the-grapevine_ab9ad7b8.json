@@ -1,0 +1,30 @@
+{
+  "id": "hear-it-through-the-grapevine_ab9ad7b8",
+  "expression": "hear it through the grapevine",
+  "selectionMeta": {
+    "selectedPhrase": "hear it through the grapevine",
+    "selectedSenseLabelKo": "소문으로 듣다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I heard it through the grapevine that our manager is leaving at the end of the month."
+  },
+  "step2": {
+    "story": "Maya hadn't received any official email, but she heard it through the grapevine that the company was planning layoffs. She decided to update her resume that weekend, just in case. By Monday, the rumor turned out to be true.",
+    "topicTag": "workplace rumors",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Daniel had been waiting weeks to find out who would be promoted to team lead. No announcement had been made, but he heard it through the grapevine that the position had already been filled internally. At first, he tried to ignore the rumor, telling himself it was just office gossip. But when he noticed his colleague Sarah moving into a bigger desk near the director's office, he realized the whispers were probably true. He felt a sting of disappointment, though he respected Sarah's qualifications. That evening, he told his wife about it over dinner, and she reminded him that not every opportunity lost is a door closed.",
+    "topicTag": "career and ambition",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "포도나무 덩굴을 통해 듣다라는 뜻으로, 직접적인 경로가 아닌 간접적으로 정보를 얻는 것을 의미합니다.",
+    "realUsageKo": "공식적인 발표가 아니라 주변 사람들의 입소문이나 비공식적인 경로로 소식을 접했을 때 사용합니다. '누구한테 들었는데...' 또는 '소문으로 들었는데...'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "미국 남북전쟁 시절 'grapevine telegraph'라는 표현에서 유래했습니다. 포도나무 덩굴처럼 얽히고설킨 비공식 통신망을 통해 소식이 전해지는 것에 비유한 것입니다.",
+    "nuanceKo": "가벼운 일상 대화에서 자주 쓰이며, 정보의 출처가 불확실하다는 뉘앙스를 내포합니다. 부정적이기보다는 중립적인 톤으로, 확인되지 않은 소식을 전할 때 씁니다.",
+    "shortExampleEn": "I heard through the grapevine that they're opening a new branch downtown.",
+    "shortExampleKo": "소문으로 들었는데 시내에 새 지점을 연다더라."
+  }
+}

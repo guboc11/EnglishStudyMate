@@ -1,0 +1,30 @@
+{
+  "id": "food-for-thought_daf1245d",
+  "expression": "food for thought",
+  "selectionMeta": {
+    "selectedPhrase": "food for thought",
+    "selectedSenseLabelKo": "생각할 거리",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The documentary about ocean pollution gave me a lot of food for thought."
+  },
+  "step2": {
+    "story": "After the conference, Maya sat quietly in her car, staring at the parking lot. The keynote speaker's words about how technology is reshaping human connection were real food for thought. She picked up her phone, then put it back down and just sat with her own thinking for a while.",
+    "topicTag": "technology and human connection",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "James had always considered himself an open-minded person, but his conversation with the elderly bookshop owner changed something in him. The old man talked about how people used to write letters by hand, pouring hours into choosing the right words. He said that losing that slowness meant losing a kind of honesty. James laughed it off at first, but on the walk home, the words became food for thought. He found himself noticing how quickly he typed messages without really meaning them. That night, he sat down with a blank sheet of paper and a pen, wondering if he still remembered how to be slow.",
+    "topicTag": "meaningful communication",
+    "moodTag": "contemplative"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '생각을 위한 음식'이라는 뜻입니다.",
+    "realUsageKo": "깊이 생각해 볼 만한 아이디어나 정보를 가리킬 때 씁니다. 누군가의 말이나 경험이 머릿속에 오래 남아 곰곰이 되씹게 될 때 자연스럽게 사용합니다.",
+    "etymologyKo": "생각을 음식에 비유한 표현으로, '마음의 양식'이라는 개념에서 비롯되었습니다. 17세기 영문학에서부터 사용된 오래된 비유입니다.",
+    "nuanceKo": "긍정적이고 진지한 뉘앙스를 가지며, 주로 지적인 대화나 글에서 씁니다. 캐주얼한 자리보다는 토론, 강연, 독후감 등의 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "Her speech on climate change was real food for thought.",
+    "shortExampleKo": "기후 변화에 대한 그녀의 연설은 정말 생각할 거리를 많이 남겨줬다."
+  }
+}

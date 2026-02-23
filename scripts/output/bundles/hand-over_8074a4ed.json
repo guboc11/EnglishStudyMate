@@ -1,0 +1,30 @@
+{
+  "id": "hand-over_8074a4ed",
+  "expression": "hand over",
+  "selectionMeta": {
+    "selectedPhrase": "hand over",
+    "selectedSenseLabelKo": "넘겨주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After finishing his shift, the manager handed over the keys to the night supervisor."
+  },
+  "step2": {
+    "story": "The retiring CEO stood before the board and smiled as she prepared to hand over the company to her successor. Years of hard work had led to this moment, and she felt a mix of pride and relief.",
+    "topicTag": "career transition",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "Detective Hana secured the evidence bag and walked briskly to the forensics lab. She needed to hand over the critical documents before the end of the day or the case would be delayed further. The lab technician signed the receipt and gave her a curt nod. As Hana stepped back into the corridor, she exhaled slowly — the chain of custody was intact. Now it was out of her hands, and the experts would take it from here.",
+    "topicTag": "investigation",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 손으로 건네주다.",
+    "realUsageKo": "물건, 권한, 책임 등을 다른 사람에게 공식적으로 넘겨줄 때 사용한다. 단순한 물건 전달부터 권력 이양까지 폭넓게 쓰인다.",
+    "etymologyKo": "'hand'(손)와 'over'(넘어서)가 결합된 구동사로, 손을 뻗어 상대방 쪽으로 건네는 동작에서 유래했다.",
+    "nuanceKo": "단순히 주는 것보다 공식적이거나 의무적인 느낌이 강하다. 상황에 따라 자발적 양도나 강제적 제출 모두를 나타낼 수 있다.",
+    "shortExampleEn": "Please hand over your passport at the border checkpoint.",
+    "shortExampleKo": "국경 검문소에서 여권을 제출해 주세요."
+  }
+}

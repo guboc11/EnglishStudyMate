@@ -1,0 +1,30 @@
+{
+  "id": "make-a-living_dc2409c7",
+  "expression": "make a living",
+  "selectionMeta": {
+    "selectedPhrase": "make a living",
+    "selectedSenseLabelKo": "생계를 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After graduating from art school, she struggled to make a living as a freelance illustrator."
+  },
+  "step2": {
+    "story": "Tom left his corporate job to pursue woodworking full-time. At first, his friends doubted he could make a living selling handmade furniture. But within a year, custom orders were flooding in and he was earning more than ever before.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mina had always dreamed of opening a small bakery in her neighborhood. When she finally quit her office job, her parents worried she wouldn't be able to make a living from it. The first three months were brutal — some days she sold barely enough bread to cover the cost of ingredients. But she kept experimenting with recipes and listening to her customers. Slowly, word spread about her sourdough and pastries. By the end of the year, she was not only making a living but saving money for a second location.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '삶을 만들다'로, 살아가기 위한 수입을 벌다라는 뜻입니다.",
+    "realUsageKo": "생계를 유지하다, 즉 직업이나 활동을 통해 먹고살 만큼의 돈을 벌다는 의미로 사용됩니다. 'make a living as ~' 형태로 직업을 명시하거나, 'make a living from/by ~' 형태로 수단을 나타낼 때 자주 씁니다.",
+    "etymologyKo": "'living'은 중세 영어에서 '생활 수단, 생계'를 뜻하는 단어로, 'make'와 결합하여 '생계를 꾸리다'라는 표현이 수백 년간 자연스럽게 쓰여왔습니다.",
+    "nuanceKo": "화려한 부가 아니라 기본적인 생활을 유지할 정도의 수입을 의미합니다. 'make a good living'이라고 하면 넉넉하게 번다는 뉘앙스가 되고, 그냥 'make a living'은 겨우 먹고살 만큼이라는 느낌이 있습니다.",
+    "shortExampleEn": "It's not easy to make a living as a musician in this city.",
+    "shortExampleKo": "이 도시에서 음악가로 생계를 유지하는 것은 쉽지 않다."
+  }
+}

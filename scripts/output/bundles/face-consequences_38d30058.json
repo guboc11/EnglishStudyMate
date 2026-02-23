@@ -1,0 +1,30 @@
+{
+  "id": "face-consequences_38d30058",
+  "expression": "face consequences",
+  "selectionMeta": {
+    "selectedPhrase": "face consequences",
+    "selectedSenseLabelKo": "결과를 직면하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you skip the meeting without notice, you'll have to face consequences from the management team."
+  },
+  "step2": {
+    "story": "Jake had been ignoring his project deadlines for weeks, always finding excuses. When the quarterly review came around, he finally had to face consequences — his manager put him on a performance improvement plan. He realized that avoiding responsibility only makes things worse in the end.",
+    "topicTag": "workplace accountability",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Mina was a talented software engineer who often cut corners during code reviews, merging her own pull requests without proper testing. Her teammates warned her several times, but she brushed it off. One Friday afternoon, a critical bug slipped into production and caused a three-hour outage for thousands of users. On Monday morning, the CTO called an emergency meeting. Mina knew she would have to face consequences for her carelessness. She received a formal warning and was required to mentor junior developers on best practices — turning her mistake into a lesson for the entire team.",
+    "topicTag": "professional responsibility",
+    "moodTag": "sobering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'결과를 마주하다'라는 뜻으로, 자신의 행동이나 결정으로 인해 생긴 (주로 부정적인) 결과를 직면한다는 의미입니다.",
+    "realUsageKo": "자신의 잘못이나 선택에 대한 책임을 져야 할 때 사용합니다. 주로 부정적인 결과(처벌, 불이익 등)를 피할 수 없는 상황에서 쓰이며, '대가를 치르다'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "'face'는 '마주하다, 직면하다'라는 동사로 쓰이고, 'consequences'는 라틴어 'consequentia(뒤따르는 것)'에서 유래한 단어로 '결과, 귀결'을 의미합니다. 두 단어가 합쳐져 '행동의 결과를 정면으로 마주하다'라는 표현이 되었습니다.",
+    "nuanceKo": "거의 항상 부정적인 결과를 의미하며, 회피하지 않고 정면으로 받아들인다는 뉘앙스가 있습니다. 비즈니스, 법률, 일상 대화 등 폭넓은 상황에서 사용되며 다소 진지한 톤을 가집니다.",
+    "shortExampleEn": "Everyone who breaks the rules must face consequences.",
+    "shortExampleKo": "규칙을 어기는 사람은 누구나 그 결과를 직면해야 합니다."
+  }
+}

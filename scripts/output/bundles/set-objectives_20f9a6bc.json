@@ -1,0 +1,30 @@
+{
+  "id": "set-objectives_20f9a6bc",
+  "expression": "set objectives",
+  "selectionMeta": {
+    "selectedPhrase": "set objectives",
+    "selectedSenseLabelKo": "목표를 설정하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before launching the new product, the marketing team met to set objectives for the first quarter."
+  },
+  "step2": {
+    "story": "At the annual planning retreat, the CEO gathered all department heads in a conference room. She asked each leader to set objectives that aligned with the company's five-year vision. By the end of the day, every team had a clear roadmap for the year ahead.",
+    "topicTag": "strategic planning",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Daniel had just been promoted to regional manager, and his first task was daunting. He needed to set objectives for a team that had been underperforming for two consecutive quarters. He spent a week reviewing sales data, speaking with each team member individually, and identifying the root causes of their struggles. When he finally presented the new objectives at the Monday meeting, they were specific, measurable, and — most importantly — achievable. The team felt a renewed sense of purpose, and within three months, their numbers had turned around completely. Daniel learned that setting the right objectives was not about aiming high, but about aiming smart.",
+    "topicTag": "leadership turnaround",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "목표를 정하다, 달성하고자 하는 구체적인 목적을 설정하다.",
+    "realUsageKo": "비즈니스나 프로젝트 환경에서 팀이나 개인이 달성해야 할 구체적인 목표를 수립할 때 사용합니다. 단순한 희망이 아니라 측정 가능하고 기한이 있는 목표를 세우는 뉘앙스입니다.",
+    "etymologyKo": "'set'은 고대 영어 'settan(놓다, 배치하다)'에서, 'objective'는 라틴어 'objectivus(대상이 되는)'에서 유래했습니다. 비즈니스 용어로 정착한 것은 20세기 경영학의 MBO(목표관리) 개념과 함께입니다.",
+    "nuanceKo": "격식적이고 전문적인 표현으로, 주로 회의, 기획, 성과 평가 등 공식적인 비즈니스 맥락에서 사용됩니다. 'set goals'보다 더 구체적이고 측정 가능한 목표를 의미합니다.",
+    "shortExampleEn": "We need to set objectives before we can measure our team's success.",
+    "shortExampleKo": "팀의 성과를 측정하려면 먼저 목표를 설정해야 합니다."
+  }
+}

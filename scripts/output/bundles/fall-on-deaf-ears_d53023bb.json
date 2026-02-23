@@ -1,0 +1,30 @@
+{
+  "id": "fall-on-deaf-ears_d53023bb",
+  "expression": "fall on deaf ears",
+  "selectionMeta": {
+    "selectedPhrase": "fall on deaf ears",
+    "selectedSenseLabelKo": "무시당하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My repeated warnings about the project deadline fell on deaf ears, and now we're scrambling to finish everything at the last minute."
+  },
+  "step2": {
+    "story": "Sarah had been telling her team for weeks that the server needed an upgrade before the holiday rush. Her warnings fell on deaf ears every single time. When the system crashed on Black Friday, everyone suddenly wished they had listened.",
+    "topicTag": "workplace communication",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "For months, Dr. Park presented data to the city council showing that the old bridge was deteriorating faster than anyone expected. She brought charts, photographs, and expert testimony from structural engineers. But her pleas fell on deaf ears — the council kept redirecting the budget toward flashier projects downtown. Then one stormy night in October, a section of the bridge buckled under the weight of rush-hour traffic. Thankfully no one was seriously hurt, but the city faced millions in emergency repairs. At the next council meeting, Dr. Park sat quietly in the back row, her expression saying everything her words never could.",
+    "topicTag": "public safety",
+    "moodTag": "somber"
+  },
+  "meaning": {
+    "literalMeaningKo": "귀가 들리지 않는 사람의 귀에 떨어지다, 즉 아무도 듣지 않는 곳에 말이 떨어진다는 뜻입니다.",
+    "realUsageKo": "누군가의 충고, 경고, 요청 등이 완전히 무시되거나 아무런 반응을 얻지 못할 때 사용합니다. 상대방이 의도적으로 무시하거나 관심을 기울이지 않는 상황을 강조합니다.",
+    "etymologyKo": "16세기경부터 영어에서 사용된 표현으로, 'deaf'(귀먹은)라는 단어를 비유적으로 활용하여 상대방이 마치 귀가 들리지 않는 것처럼 말을 듣지 않는 상황을 묘사한 것에서 유래했습니다.",
+    "nuanceKo": "단순히 '무시하다'보다 더 강한 느낌으로, 말하는 사람의 좌절감과 허탈함이 담겨 있습니다. 주로 중요한 조언이나 경고가 반복적으로 무시될 때 사용하며, 약간의 원망이나 안타까움의 톤이 포함됩니다.",
+    "shortExampleEn": "His advice to save money fell on deaf ears.",
+    "shortExampleKo": "돈을 아끼라는 그의 충고는 완전히 무시당했다."
+  }
+}

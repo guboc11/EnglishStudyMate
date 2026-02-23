@@ -1,0 +1,30 @@
+{
+  "id": "string-together_f64a4b06",
+  "expression": "string together",
+  "selectionMeta": {
+    "selectedPhrase": "string together",
+    "selectedSenseLabelKo": "연결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to string together enough evidence to convince the jury of his innocence."
+  },
+  "step2": {
+    "story": "After weeks of research, Maya finally managed to string together all the clues from different witnesses. The timeline now made perfect sense, and she rushed to her editor's office with the finished article. It was the breakthrough story she had been chasing for months.",
+    "topicTag": "journalism",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "David stared at the scattered notes on his desk, each one containing a fragment of an idea. For weeks, he had struggled to string together his thoughts into a coherent business proposal. Late one evening, fueled by his third cup of coffee, something clicked. The pieces began to fall into place, and he typed furiously until dawn. By morning, he had a complete thirty-page pitch that connected every loose thread. When he presented it to the investors later that day, they were impressed by how seamlessly everything flowed together.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "실(string)로 꿰어 하나로 엮다라는 뜻입니다.",
+    "realUsageKo": "단어, 문장, 아이디어, 사건 등 흩어진 요소들을 논리적으로 연결하거나 조합할 때 사용합니다. 'string together a sentence(문장을 만들다)', 'string together evidence(증거를 엮다)' 등으로 자주 쓰입니다.",
+    "etymologyKo": "구슬이나 진주를 실(string)에 꿰어 목걸이를 만드는 물리적 행위에서 유래했습니다. 개별 조각들을 하나의 연결된 전체로 만든다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "흩어진 것들을 힘들게 또는 의도적으로 모아 연결한다는 뉘앙스가 있습니다. 쉽게 되는 것이 아니라 노력이 필요한 과정을 암시하는 경우가 많습니다.",
+    "shortExampleEn": "He was so nervous that he could barely string together a complete sentence.",
+    "shortExampleKo": "그는 너무 긴장한 나머지 완전한 문장 하나도 겨우 만들어 낼 수 있었다."
+  }
+}

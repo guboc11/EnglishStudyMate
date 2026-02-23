@@ -1,0 +1,30 @@
+{
+  "id": "cool-off_0911854b",
+  "expression": "cool off",
+  "selectionMeta": {
+    "selectedPhrase": "cool off",
+    "selectedSenseLabelKo": "진정되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the heated argument with his coworker, Jason decided to take a walk outside to cool off before saying something he'd regret."
+  },
+  "step2": {
+    "story": "Maria slammed her laptop shut after reading the unfair performance review. She grabbed her jacket and headed to the park to cool off. By the time she returned, she felt calm enough to write a thoughtful response instead of an angry one.",
+    "topicTag": "work stress",
+    "moodTag": "frustrated but recovering"
+  },
+  "step3": {
+    "story": "The meeting had gone terribly wrong. David's proposal was shot down in front of the entire team, and his manager's harsh words still echoed in his mind. He could feel his face burning as he stepped out of the conference room. Instead of heading back to his desk, he took the elevator down and walked to the coffee shop across the street to cool off. Sitting alone with his espresso, he replayed the conversation and realized his manager had actually raised some valid points. By the time he finished his drink, he had a plan to revise his proposal and present it again next week.",
+    "topicTag": "professional setback",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '식히다, 차갑게 하다'로, 온도를 낮추거나 열기를 빼는 것을 뜻합니다.",
+    "realUsageKo": "실제로는 화가 나거나 흥분한 상태에서 감정을 가라앉히고 진정하는 것을 의미합니다. 물리적으로 더위를 식힌다는 뜻으로도 쓰이지만, 감정적으로 진정된다는 의미가 더 자주 사용됩니다.",
+    "etymologyKo": "'cool'(차가운)과 'off'(떨어져)가 합쳐진 구동사로, 뜨거운 것이 식어서 원래 온도로 돌아가는 이미지에서 유래했습니다. 감정의 열기가 식는다는 비유적 표현으로 자연스럽게 확장되었습니다.",
+    "nuanceKo": "화가 난 직후 잠시 거리를 두고 진정하는 뉘앙스가 강합니다. 'calm down'보다 더 자발적이고 능동적인 느낌으로, 스스로 시간을 갖고 감정을 추스르는 상황에 어울립니다.",
+    "shortExampleEn": "Let's take a break and cool off before we continue this discussion.",
+    "shortExampleKo": "이 논의를 계속하기 전에 잠시 쉬면서 진정합시다."
+  }
+}

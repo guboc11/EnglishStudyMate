@@ -1,0 +1,30 @@
+{
+  "id": "top-up_f99284c0",
+  "expression": "top up",
+  "selectionMeta": {
+    "selectedPhrase": "top up",
+    "selectedSenseLabelKo": "채우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to top up my transit card before the morning commute."
+  },
+  "step2": {
+    "story": "Sarah noticed her phone battery was at five percent during an important meeting. She quickly plugged it in to top up the charge before her presentation. By the time her turn came, she had just enough power to share her slides.",
+    "topicTag": "work preparation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Every Sunday evening, Marco sits at his kitchen table and plans the week ahead. He checks his coffee supply and realizes he needs to top up his stock before Monday hits. He walks to the corner shop through the cool evening air, picking up a fresh bag of beans and some milk. On the way home, he stops at the ATM to top up his wallet with some cash. Back in his apartment, he grinds the beans, brews a cup, and feels a quiet satisfaction knowing everything is ready. There is something calming about starting a new week fully prepared.",
+    "topicTag": "weekly routine",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'top(꼭대기)'까지 'up(위로)' 채운다는 뜻으로, 부족한 것을 가득 채우는 동작을 나타냅니다.",
+    "realUsageKo": "교통카드 충전, 휴대폰 요금 충전, 음료 리필 등 무언가가 줄어든 것을 다시 원래 수준까지 보충할 때 폭넓게 사용합니다. 'fill up'보다 일상적이고 가벼운 느낌입니다.",
+    "etymologyKo": "'top'은 '꼭대기/최고점'을 뜻하는 고대 영어 'topp'에서 왔고, 'up'과 결합하여 '최고 수준까지 올리다'라는 의미의 구동사가 되었습니다.",
+    "nuanceKo": "영국 영어에서 특히 자주 쓰이며, 캐주얼하고 친근한 톤입니다. 완전히 비어 있는 것을 채우는 게 아니라 부족분을 보충하는 뉘앙스가 강합니다.",
+    "shortExampleEn": "Can you top up my glass with some more water?",
+    "shortExampleKo": "내 컵에 물 좀 더 채워줄 수 있어?"
+  }
+}

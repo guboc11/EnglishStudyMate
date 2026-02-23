@@ -1,0 +1,30 @@
+{
+  "id": "have-the-time-of-your-life_cee1365c",
+  "expression": "have the time of your life",
+  "selectionMeta": {
+    "selectedPhrase": "have the time of your life",
+    "selectedSenseLabelKo": "최고의 시간을 보내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had the time of our lives dancing under the stars at the beach festival last summer."
+  },
+  "step2": {
+    "story": "After months of stressful exams, Mina finally booked a trip to Jeju Island with her best friends. They went paragliding, ate fresh seafood by the ocean, and laughed until their stomachs hurt. She told everyone back home that she had the time of her life on that trip.",
+    "topicTag": "travel adventure",
+    "moodTag": "joyful"
+  },
+  "step3": {
+    "story": "Jake had always been the quiet kid who stayed home on weekends, buried in books and video games. But when his college roommate dragged him to a music festival in the countryside, everything changed. The crowd was electric, the bands were incredible, and strangers became friends over shared meals and campfire songs. By the second night, Jake was dancing in the front row, singing lyrics he barely knew at the top of his lungs. When Monday came and everyone asked how his weekend was, he just grinned and said he had the time of his life. It was the moment he realized that stepping out of his comfort zone was worth every nervous second.",
+    "topicTag": "personal growth",
+    "moodTag": "euphoric"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '인생의 시간을 가지다'로, 살면서 가장 좋은 시간을 경험한다는 뜻입니다.",
+    "realUsageKo": "정말 즐겁고 신나는 경험을 했을 때 사용합니다. '인생 최고의 시간이었어', '정말 미친 듯이 재밌었어'라는 느낌으로 쓰입니다.",
+    "etymologyKo": "19세기부터 영어권에서 사용된 관용 표현으로, 'the time of one's life'는 '일생에서 가장 즐거운 순간'을 의미합니다. 일상 대화에서 자연스럽게 정착된 표현입니다.",
+    "nuanceKo": "매우 긍정적이고 감정이 실린 표현입니다. 단순히 '재미있었다'보다 훨씬 강한 감정을 담고 있으며, 주로 여행, 파티, 특별한 이벤트 후에 감탄하듯 사용합니다.",
+    "shortExampleEn": "The kids had the time of their lives at the amusement park.",
+    "shortExampleKo": "아이들은 놀이공원에서 최고로 즐거운 시간을 보냈다."
+  }
+}

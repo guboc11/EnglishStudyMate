@@ -1,0 +1,30 @@
+{
+  "id": "analyze-data_93fc935f",
+  "expression": "analyze data",
+  "selectionMeta": {
+    "selectedPhrase": "analyze data",
+    "selectedSenseLabelKo": "데이터를 분석하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before making any decisions, we need to analyze data from last quarter's sales reports."
+  },
+  "step2": {
+    "story": "Sarah stayed late at the office because her manager asked her to analyze data from the customer survey. After spending two hours reviewing the numbers, she discovered that satisfaction ratings had dropped sharply in the last month. She prepared a clear summary and emailed it to the team before heading home.",
+    "topicTag": "workplace responsibility",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "When Jin joined the marketing team as a junior analyst, he felt overwhelmed by the sheer volume of spreadsheets on his desk. His first real assignment was to analyze data collected from three different advertising campaigns running across social media platforms. He spent the entire week sorting through click-through rates, conversion numbers, and customer demographics. Slowly, patterns began to emerge — the video ads were outperforming static images by a wide margin. Jin compiled his findings into a presentation and nervously shared it at the Friday meeting. To his surprise, the director nodded approvingly and said his analysis would shape next quarter's budget.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "데이터를 분석하다, 즉 수집된 자료를 체계적으로 검토하고 해석하는 것을 의미합니다.",
+    "realUsageKo": "비즈니스, 연구, IT 등 다양한 분야에서 의사결정을 위해 수치나 정보를 정리하고 패턴을 찾아내는 작업을 가리킬 때 널리 사용됩니다. 단순히 데이터를 '보는' 것이 아니라 목적을 가지고 깊이 있게 살펴본다는 뉘앙스입니다.",
+    "etymologyKo": "analyze는 그리스어 'analyein(풀어헤치다)'에서 유래했으며, data는 라틴어 'datum(주어진 것)'의 복수형입니다. 합쳐서 '주어진 자료를 풀어헤쳐 살펴보다'라는 의미를 담고 있습니다.",
+    "nuanceKo": "일상 대화보다는 업무, 학술, 기술 환경에서 주로 쓰이는 약간 격식 있는 표현입니다. 단순한 검토(review)보다 더 깊고 체계적인 작업을 암시합니다.",
+    "shortExampleEn": "The research team will analyze data to identify trends in consumer behavior.",
+    "shortExampleKo": "연구팀이 소비자 행동의 트렌드를 파악하기 위해 데이터를 분석할 것입니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "have-a-soft-spot-for_c699e73e",
+  "expression": "have a soft spot for",
+  "selectionMeta": {
+    "selectedPhrase": "have a soft spot for",
+    "selectedSenseLabelKo": "~을 좋아하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've always had a soft spot for stray cats, so I can never walk past one without leaving some food."
+  },
+  "step2": {
+    "story": "My grandmother has a soft spot for old jazz records. Every Sunday morning, she plays her vinyl collection and hums along while making pancakes. The scratchy melodies fill the kitchen with a warmth that no modern speaker can replicate.",
+    "topicTag": "family traditions",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "David was known around the office as a strict, no-nonsense manager. He rarely smiled during meetings and never tolerated missed deadlines. But his colleagues discovered he had a soft spot for the rescued dogs at the shelter next door. Every lunch break, he would sneak out with a bag of treats and sit quietly with the shyest ones. One afternoon, a coworker caught him whispering encouragement to a trembling puppy. From that day on, nobody saw David quite the same way — tough on spreadsheets, gentle with strays.",
+    "topicTag": "hidden kindness",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '~에 대해 부드러운 부분을 가지고 있다'라는 뜻입니다.",
+    "realUsageKo": "특정 사람, 동물, 또는 사물에 대해 특별한 애정이나 약한 마음을 가지고 있을 때 사용합니다. 이성적으로는 아닐 수 있지만 감정적으로 끌리거나 좋아하는 느낌을 표현합니다.",
+    "etymologyKo": "'soft spot'은 원래 아기의 숨구멍(천문)처럼 연약한 부분을 가리키던 말에서 유래하여, 감정적으로 약해지는 부분, 즉 특별히 좋아하는 대상을 의미하게 되었습니다.",
+    "nuanceKo": "단순히 '좋아한다'보다 감정적으로 약해진다는 뉘앙스가 있습니다. 평소 냉정한 사람도 특정 대상 앞에서는 마음이 무른다는 느낌으로 쓰입니다.",
+    "shortExampleEn": "She has a soft spot for chocolate cake — she orders it at every restaurant.",
+    "shortExampleKo": "그녀는 초콜릿 케이크를 유난히 좋아해서 어느 레스토랑에서든 꼭 주문한다."
+  }
+}

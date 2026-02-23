@@ -1,0 +1,30 @@
+{
+  "id": "rat-race_d6a0e400",
+  "expression": "rat race",
+  "selectionMeta": {
+    "selectedPhrase": "rat race",
+    "selectedSenseLabelKo": "치열한 경쟁",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After ten years of working seventy-hour weeks, she finally decided to quit the rat race and move to the countryside."
+  },
+  "step2": {
+    "story": "Kevin stared at the endless stream of emails flooding his inbox at 11 PM. He had been stuck in the rat race for so long that he couldn't remember the last time he had dinner with his family. That night, he opened his laptop not to work, but to search for a quieter life outside the city.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mina had always been the top performer at her consulting firm. She thrived on deadlines, promotions, and the adrenaline of closing deals. But one morning, stuck in traffic for the third hour that week, she realized the rat race had swallowed her whole life. Her friends had drifted away, her hobbies were forgotten, and even weekends felt like extensions of Monday. She pulled over, called her manager, and said she needed a month off. It wasn't a resignation — it was the first step toward finding out who she was beyond the job title.",
+    "topicTag": "career burnout",
+    "moodTag": "contemplative"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '쥐들의 경주'로, 쥐가 쳇바퀴를 끝없이 달리는 모습을 떠올리게 합니다.",
+    "realUsageKo": "끝없는 경쟁과 바쁜 일상에 지쳐가는 현대인의 삶, 특히 출세와 돈을 위해 쉴 새 없이 달리는 직장 생활을 비유적으로 표현할 때 씁니다. 부정적인 뉘앙스가 강합니다.",
+    "etymologyKo": "1930년대부터 쓰이기 시작한 표현으로, 실험실에서 쥐가 미로나 쳇바퀴를 끝없이 달리는 모습에서 유래했습니다. 아무리 열심히 달려도 결국 제자리인 현대 직장인의 삶을 은유합니다.",
+    "nuanceKo": "대체로 부정적이고 비판적인 톤으로 사용됩니다. 이 표현을 쓸 때는 '이런 삶에서 벗어나고 싶다'는 감정이 담겨 있는 경우가 많습니다.",
+    "shortExampleEn": "I'm tired of the rat race — I just want a simple, peaceful life.",
+    "shortExampleKo": "치열한 경쟁에 지쳤어 — 그냥 단순하고 평화로운 삶을 살고 싶어."
+  }
+}

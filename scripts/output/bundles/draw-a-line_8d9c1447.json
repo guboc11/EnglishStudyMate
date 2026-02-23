@@ -1,0 +1,30 @@
+{
+  "id": "draw-a-line_8d9c1447",
+  "expression": "draw a line",
+  "selectionMeta": {
+    "selectedPhrase": "draw a line",
+    "selectedSenseLabelKo": "선을 긋다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Sometimes you have to draw a line and tell people what you will and won't accept."
+  },
+  "step2": {
+    "story": "My coworker kept asking me to cover her weekend shifts. After a month of saying yes, I finally drew a line and told her I needed my weekends off. She was surprised at first, but she respected my decision.",
+    "topicTag": "workplace boundaries",
+    "moodTag": "assertive"
+  },
+  "step3": {
+    "story": "Jina had always been the go-to person in her team, the one who never said no. Extra reports, last-minute presentations, weekend emails — she handled them all with a tired smile. But when her manager casually added a third project to her plate without asking, something shifted inside her. She walked into his office the next morning and calmly drew a line, explaining exactly what she could and couldn't take on. Her manager looked taken aback, but after a long pause, he nodded and reassigned one of the projects. For the first time in months, Jina left the office feeling like she could actually breathe.",
+    "topicTag": "work-life balance",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '선을 긋다'라는 뜻으로, 물리적으로 선을 그리는 행위를 가리킵니다.",
+    "realUsageKo": "실제로는 '한계를 정하다', '여기까지만 허용하겠다고 못 박다'라는 의미로 쓰입니다. 더 이상 받아들일 수 없는 상황에서 경계를 명확히 할 때 사용합니다.",
+    "etymologyKo": "고대부터 땅에 선을 그어 영역이나 한계를 표시하던 관습에서 유래했습니다. 물리적 경계선이 비유적으로 심리적·사회적 경계를 의미하게 되었습니다.",
+    "nuanceKo": "단호하지만 공격적이지 않은 톤으로, 자기 보호와 합리적 경계 설정의 뉘앙스를 담고 있습니다. 비즈니스와 일상 대화 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I love helping friends, but I draw a line at lending money.",
+    "shortExampleKo": "친구를 돕는 건 좋지만, 돈을 빌려주는 것에는 선을 긋습니다."
+  }
+}

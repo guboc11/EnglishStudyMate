@@ -1,0 +1,30 @@
+{
+  "id": "hang-in-there_210fadc2",
+  "expression": "hang in there",
+  "selectionMeta": {
+    "selectedPhrase": "hang in there",
+    "selectedSenseLabelKo": "버텨라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I know this semester is tough, but just hang in there — finals will be over before you know it."
+  },
+  "step2": {
+    "story": "Maya stared at the stack of rejection letters on her desk and felt like giving up. Her roommate sat beside her and said, \"Hang in there — the right job will come along.\" That small encouragement was enough to keep her applying for one more day.",
+    "topicTag": "job search",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Daniel had been training for the marathon for six months, but at mile twenty, his legs felt like concrete. The sun was brutal, and every step sent pain shooting through his knees. He slowed to a walk, seriously considering quitting. Then he spotted a hand-painted sign in the crowd that read, \"Hang in there — the finish line believes in you!\" A small laugh escaped him, and somehow that silly sign gave him a second wind. He picked up his pace, crossed the finish line, and collapsed into tears of relief.",
+    "topicTag": "perseverance",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '거기에 매달려 있어'라는 뜻으로, 어딘가에 꽉 붙잡고 버티는 모습을 나타냅니다.",
+    "realUsageKo": "힘든 상황에 처한 사람에게 '포기하지 말고 조금만 더 버텨'라는 격려의 의미로 사용합니다. 상대방이 어려움을 겪고 있을 때 응원하는 표현입니다.",
+    "etymologyKo": "원래 절벽이나 높은 곳에서 손으로 매달려 버티는 이미지에서 유래했습니다. 1970년대에 나뭇가지에 매달린 고양이 포스터와 함께 대중적으로 널리 퍼졌습니다.",
+    "nuanceKo": "따뜻하고 격려하는 톤의 표현으로, 친구나 동료에게 편하게 쓸 수 있습니다. 가벼운 위로부터 진지한 응원까지 폭넓게 사용됩니다.",
+    "shortExampleEn": "Hang in there, buddy — things will get better soon.",
+    "shortExampleKo": "버텨, 친구야 — 곧 나아질 거야."
+  }
+}

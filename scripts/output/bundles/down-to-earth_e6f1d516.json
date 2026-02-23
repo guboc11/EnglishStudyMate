@@ -1,0 +1,30 @@
+{
+  "id": "down-to-earth_e6f1d516",
+  "expression": "down to earth",
+  "selectionMeta": {
+    "selectedPhrase": "down to earth",
+    "selectedSenseLabelKo": "현실적인",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite her fame, she remains incredibly down to earth and treats everyone with kindness."
+  },
+  "step2": {
+    "story": "My new boss drove up in an expensive car, and I expected her to be arrogant. But she grabbed coffee for the whole team and chatted with the interns like old friends. Everyone agreed she was the most down to earth leader we'd ever had.",
+    "topicTag": "workplace relationships",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When the famous author visited our small-town bookstore, I was nervous about meeting someone so successful. She walked in wearing jeans and sneakers, no entourage in sight. She remembered the barista's name from her last visit two years ago and asked about his daughter's piano recital. During the signing, she spent ten minutes with each reader, genuinely curious about their lives. A teenager told her he wanted to be a writer, and she pulled out a notebook to jot down his email so she could send him advice later. It was clear that no amount of bestseller lists could change how down to earth she truly was.",
+    "topicTag": "celebrity encounters",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '땅으로 내려온'이라는 뜻으로, 허공에 떠 있지 않고 발이 땅에 붙어 있는 모습을 나타냅니다.",
+    "realUsageKo": "허세를 부리지 않고 현실적이며 겸손한 사람을 묘사할 때 사용합니다. 주로 성공했거나 지위가 높은데도 평범하고 소탈한 사람에게 칭찬으로 씁니다.",
+    "etymologyKo": "항공 용어에서 유래했다는 설이 있으며, 하늘을 나는 것과 대비하여 '땅에 발을 딛고 있는' 상태를 비유적으로 표현한 것입니다. 20세기 초부터 '현실적인, 실용적인'이라는 의미로 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "매우 긍정적인 뉘앙스를 가진 표현으로, 상대방의 겸손함과 진정성을 높이 평가할 때 씁니다. 격식/비격식 모두 자연스럽게 사용 가능합니다.",
+    "shortExampleEn": "He's a billionaire, but he's very down to earth.",
+    "shortExampleKo": "그는 억만장자이지만, 매우 소탈한 사람이다."
+  }
+}

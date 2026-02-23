@@ -1,0 +1,30 @@
+{
+  "id": "lay-off_a90adb79",
+  "expression": "lay off",
+  "selectionMeta": {
+    "selectedPhrase": "lay off",
+    "selectedSenseLabelKo": "해고하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company had to lay off over two hundred employees after losing its biggest client."
+  },
+  "step2": {
+    "story": "After the merger fell through, the CEO announced they would lay off thirty percent of the workforce. Sarah cleaned out her desk in silence, wondering how she'd pay next month's rent. Her coworker handed her a coffee and whispered, \"We'll get through this.\"",
+    "topicTag": "corporate downsizing",
+    "moodTag": "somber"
+  },
+  "step3": {
+    "story": "The rumors had been swirling for weeks, but nobody wanted to believe them. On a gray Monday morning, the entire sales team was called into the conference room. The VP of operations explained that due to declining revenue, the company had no choice but to lay off forty employees effective immediately. Marcus sat frozen in his chair, staring at the severance package sliding across the table toward him. He had given twelve years to this place — missed birthdays, skipped vacations, worked weekends without complaint. Walking out through the lobby for the last time, he paused at the revolving door, took a deep breath, and stepped into the cold morning air with nothing but a cardboard box and a strange sense of freedom.",
+    "topicTag": "career upheaval",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'lay'(놓다)와 'off'(떨어뜨려)를 합쳐, 직역하면 '내려놓다, 떼어놓다'라는 뜻입니다.",
+    "realUsageKo": "회사가 경영상의 이유(구조조정, 매출 감소 등)로 직원을 해고할 때 사용합니다. 개인의 잘못이 아닌 회사 사정에 의한 해고를 뜻하며, 'fire'(징계 해고)와는 구별됩니다.",
+    "etymologyKo": "원래 항해 용어로 '배를 정박시키다'라는 의미에서 출발했으며, 20세기 초 산업화 시대에 '일시적으로 노동자를 쉬게 하다'로 쓰이다가 현대에는 '정리해고하다'라는 의미로 정착했습니다.",
+    "nuanceKo": "'Fire'가 개인의 실수나 성과 부진으로 인한 해고라면, 'lay off'는 회사의 경영 악화나 구조조정에 따른 감원이라는 뉘앙스입니다. 해고당하는 사람의 잘못이 아니라는 느낌이 내포되어 있어, 좀 더 중립적이고 완곡한 표현입니다.",
+    "shortExampleEn": "The factory laid off fifty workers due to automation.",
+    "shortExampleKo": "공장은 자동화로 인해 직원 50명을 해고했다."
+  }
+}

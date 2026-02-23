@@ -1,0 +1,30 @@
+{
+  "id": "in-over-your-head_53d3bfe2",
+  "expression": "in over your head",
+  "selectionMeta": {
+    "selectedPhrase": "in over your head",
+    "selectedSenseLabelKo": "감당이 안 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After volunteering to lead the entire fundraising campaign alone, Sarah quickly realized she was in over her head."
+  },
+  "step2": {
+    "story": "Jake had always been confident in his coding skills, so when his boss asked him to rebuild the entire database system by Friday, he agreed without hesitation. By Wednesday night, staring at thousands of lines of tangled code, he admitted to his coworker that he was completely in over his head. Together they stayed up all night and somehow pulled it off.",
+    "topicTag": "work pressure",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "When Mina moved to New York to open her own bakery, everyone back home cheered her on. The first week was exciting — signing the lease, picking out ovens, designing the menu. But then reality hit. Permits, health inspections, supplier negotiations, and a landlord who kept changing the terms. She sat on the empty shop floor one evening, flour still on her hands, and whispered to herself that she was in over her head. The next morning, though, she called her aunt, a retired restaurant owner, who flew in that weekend to help sort everything out. Sometimes admitting you're struggling is the first step toward finding your way through.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "vulnerable but hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리 위로 물이 차올라 잠긴 상태, 즉 깊은 물에 빠져 발이 닿지 않는 상황을 뜻합니다.",
+    "realUsageKo": "자신의 능력이나 경험으로는 감당하기 어려운 상황에 처했을 때 사용합니다. 주로 일, 프로젝트, 인간관계 등에서 예상보다 훨씬 어려운 상황에 놓였음을 표현할 때 씁니다.",
+    "etymologyKo": "수영에서 유래한 표현으로, 물이 머리 위까지 차올라 더 이상 바닥에 발이 닿지 않는 위험한 상황을 비유적으로 나타냅니다.",
+    "nuanceKo": "자신이 무언가를 과소평가했거나 너무 큰 것을 떠맡았다는 뉘앙스가 있습니다. 부정적이지만 자기 인식을 보여주는 솔직한 표현으로, 격식·비격식 모두 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I thought I could handle the project alone, but I'm in over my head.",
+    "shortExampleKo": "혼자서 그 프로젝트를 처리할 수 있을 줄 알았는데, 감당이 안 돼요."
+  }
+}

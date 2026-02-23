@@ -1,0 +1,30 @@
+{
+  "id": "ask-around_7eb4697f",
+  "expression": "ask around",
+  "selectionMeta": {
+    "selectedPhrase": "ask around",
+    "selectedSenseLabelKo": "여기저기 물어보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I'll ask around the office to see if anyone knows a good dentist nearby."
+  },
+  "step2": {
+    "story": "Mia needed a reliable mechanic but had just moved to a new city. She decided to ask around at work, and within an hour, three colleagues had recommended the same shop downtown. Sometimes the best advice comes from the people right next to you.",
+    "topicTag": "new city life",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jake had been searching online for hours, trying to find a part-time weekend job that would fit his class schedule. Every listing seemed outdated or too far away. Frustrated, he closed his laptop and decided to ask around instead. He mentioned it casually at the campus café, and the barista told him the bookstore across the street was hiring. He walked over, filled out an application on the spot, and got a call back that same evening. It turned out that asking around in person worked far better than scrolling through endless job boards.",
+    "topicTag": "job hunting",
+    "moodTag": "resourceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "주변 여러 사람에게 물어보다라는 뜻입니다.",
+    "realUsageKo": "정보나 도움이 필요할 때 한 사람이 아닌 여러 사람에게 두루두루 물어보는 상황에서 사용합니다. '여기저기 수소문하다'와 비슷한 느낌입니다.",
+    "etymologyKo": "'ask'(묻다)와 'around'(주변에)가 결합된 구동사로, 주변 사람들에게 돌아가며 묻는다는 이미지에서 유래했습니다.",
+    "nuanceKo": "격식 없이 편하게 쓸 수 있는 일상적인 표현이며, 적극적으로 정보를 구하는 능동적인 뉘앙스가 있습니다.",
+    "shortExampleEn": "I asked around, but nobody had seen my lost cat.",
+    "shortExampleKo": "여기저기 물어봤지만 아무도 내 잃어버린 고양이를 본 사람이 없었어."
+  }
+}

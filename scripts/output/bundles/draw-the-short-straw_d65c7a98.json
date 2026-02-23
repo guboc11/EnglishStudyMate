@@ -1,0 +1,30 @@
+{
+  "id": "draw-the-short-straw_d65c7a98",
+  "expression": "draw the short straw",
+  "selectionMeta": {
+    "selectedPhrase": "draw the short straw",
+    "selectedSenseLabelKo": "불운을 당하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Someone had to work the holiday shift, and unfortunately I drew the short straw."
+  },
+  "step2": {
+    "story": "Our team needed one person to stay late on Friday to finish the quarterly report. We decided to pick names out of a hat, and Jake drew the short straw. He waved goodbye to everyone with a tired smile, already ordering takeout for his solo evening at the office.",
+    "topicTag": "work responsibility",
+    "moodTag": "resigned"
+  },
+  "step3": {
+    "story": "Every summer, our family rents a lake cabin with three bedrooms and a tiny storage room that barely fits a cot. Since there are more cousins than beds, we always draw straws on the first night to decide sleeping arrangements. This year, my brother drew the short straw and got stuck in the storage room with the spiders and the old fishing gear. He complained about it all week, but honestly, he slept like a baby every night because it was the coolest room in the house. By the end of the trip, everyone secretly wished they had drawn the short straw too. Sometimes bad luck has a funny way of turning into a hidden blessing.",
+    "topicTag": "family vacation",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "짧은 빨대(지푸라기)를 뽑다.",
+    "realUsageKo": "여러 사람 중 운이 나빠서 원치 않는 일을 맡게 되었을 때 사용합니다. 주로 공정한 추첨이나 무작위 선택에서 불리한 결과를 받은 상황을 묘사합니다.",
+    "etymologyKo": "길이가 다른 빨대(또는 지푸라기)를 여러 개 준비해 한 사람씩 뽑게 하고, 가장 짧은 것을 뽑은 사람이 불리한 역할을 맡는 옛날 제비뽑기 방식에서 유래했습니다.",
+    "nuanceKo": "부정적이지만 가벼운 뉘앙스로, 심각한 불행보다는 사소한 불운이나 귀찮은 일을 떠맡게 된 상황에 주로 쓰입니다. 유머러스하게 자신의 불운을 표현할 때도 자주 사용됩니다.",
+    "shortExampleEn": "I always seem to draw the short straw when it comes to choosing vacation dates.",
+    "shortExampleKo": "휴가 날짜를 고를 때면 항상 내가 불운을 당하는 것 같다."
+  }
+}

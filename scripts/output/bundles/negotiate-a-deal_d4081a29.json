@@ -1,0 +1,30 @@
+{
+  "id": "negotiate-a-deal_d4081a29",
+  "expression": "negotiate a deal",
+  "selectionMeta": {
+    "selectedPhrase": "negotiate a deal",
+    "selectedSenseLabelKo": "거래를 협상하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of back-and-forth emails, we finally sat down to negotiate a deal that both companies could live with."
+  },
+  "step2": {
+    "story": "Sarah had been preparing for this moment for months. She walked into the conference room, laid out her proposal, and spent the next three hours trying to negotiate a deal with the overseas supplier. When they finally shook hands, she knew the terms would save her company thousands.",
+    "topicTag": "business partnership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus stared at the spreadsheet one last time before heading into the meeting. His startup desperately needed this partnership, but he couldn't afford to accept unfavorable terms. As soon as he sat across from the investors, the tension in the room was unmistakable. Both sides spent hours going back and forth, each pushing for better conditions. It wasn't easy, but Marcus held his ground and managed to negotiate a deal that secured funding without giving up too much equity. Walking out of the building, he felt the weight lift off his shoulders for the first time in weeks.",
+    "topicTag": "startup funding",
+    "moodTag": "tense yet hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "거래를 협상하다, 즉 양측이 조건을 조율하여 합의에 이르는 과정을 의미합니다.",
+    "realUsageKo": "비즈니스 상황에서 계약 조건, 가격, 파트너십 등을 논의하고 합의점을 찾을 때 주로 사용됩니다. 일상에서도 큰 구매(집, 차 등)나 연봉 협상 등에 폭넓게 쓰입니다.",
+    "etymologyKo": "negotiate는 라틴어 negotiari(사업을 하다)에서 유래했으며, neg-(부정) + otium(여가)의 합성으로 '여가가 아닌 것', 즉 '일하다'라는 뜻에서 발전했습니다. deal은 고대 영어 dǣl(부분, 몫)에서 왔습니다.",
+    "nuanceKo": "단순히 물건을 사고파는 것이 아니라, 양측이 서로 양보하고 조율하는 과정을 강조하는 표현입니다. 격식 있는 비즈니스 맥락에서 자주 쓰이며, 전문적이고 진지한 톤을 가집니다.",
+    "shortExampleEn": "The two companies negotiated a deal to share distribution networks across Europe.",
+    "shortExampleKo": "두 회사는 유럽 전역의 유통망을 공유하는 거래를 협상했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "have-second-thoughts_cdb6804a",
+  "expression": "have second thoughts",
+  "selectionMeta": {
+    "selectedPhrase": "have second thoughts",
+    "selectedSenseLabelKo": "재고하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I was about to accept the job offer, but then I started to have second thoughts about relocating to another city."
+  },
+  "step2": {
+    "story": "Maya had already signed the lease for a new apartment downtown. But standing in the empty living room, she began to have second thoughts — the neighborhood felt too noisy and far from her friends. She called her landlord the next morning to ask about canceling the contract.",
+    "topicTag": "life decisions",
+    "moodTag": "uncertain"
+  },
+  "step3": {
+    "story": "Daniel had spent weeks planning a surprise birthday party for his best friend. He booked the restaurant, ordered the cake, and invited thirty people. But the night before, he started to have second thoughts. His friend had mentioned wanting a quiet birthday this year, and Daniel worried the big party might feel overwhelming rather than special. He lay awake turning the idea over in his mind. In the end, he scaled the party down to a small dinner with just their closest friends, and it turned out to be the perfect celebration.",
+    "topicTag": "friendship",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '두 번째 생각을 가지다'로, 한 번 내린 결정에 대해 다시 생각한다는 뜻입니다.",
+    "realUsageKo": "이미 결정하거나 동의한 일에 대해 의심이 생기거나 마음이 바뀌려 할 때 사용합니다. '다시 생각해 보다', '마음이 흔들리다'라는 의미로 일상에서 자주 쓰입니다.",
+    "etymologyKo": "17세기 영어에서 유래한 표현으로, 처음 결정 이후에 드는 '재고의 생각(second thought)'이라는 개념에서 비롯되었습니다.",
+    "nuanceKo": "부정적이거나 후회하는 뉘앙스가 약간 있으며, 보통 결정을 번복하고 싶은 망설임이나 불안감을 내포합니다. 격식·비격식 모두 사용 가능합니다.",
+    "shortExampleEn": "Are you having second thoughts about the wedding?",
+    "shortExampleKo": "결혼에 대해 다시 생각하고 있는 거야?"
+  }
+}

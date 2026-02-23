@@ -1,0 +1,30 @@
+{
+  "id": "off-to-a-good-start_d096e2f9",
+  "expression": "off to a good start",
+  "selectionMeta": {
+    "selectedPhrase": "off to a good start",
+    "selectedSenseLabelKo": "좋은 출발을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new semester is off to a good start because I already made a few friends in my first class."
+  },
+  "step2": {
+    "story": "Jina joined a new marketing team last Monday and was nervous about fitting in. By Wednesday, she had already contributed a winning idea during the brainstorm session. Her manager smiled and said, \"Well, you're certainly off to a good start.\"",
+    "topicTag": "new beginnings",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "After months of planning, David finally opened his small bakery on a quiet street downtown. On the very first morning, a line of curious neighbors stretched past the door before he even flipped the sign to \"Open.\" By noon, he had sold out of his signature sourdough loaves and cinnamon rolls. A regular from the coffee shop next door poked her head in and said, \"Looks like you're off to a good start!\" David wiped flour from his hands and grinned, feeling the exhaustion melt into pure excitement. He knew there would be tough days ahead, but this opening gave him the confidence to keep going.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "좋은 시작을 향해 나아가고 있다는 뜻으로, 무언가의 초기 단계가 순조롭다는 의미입니다.",
+    "realUsageKo": "새로운 일, 프로젝트, 관계 등이 처음부터 잘 진행되고 있을 때 사용합니다. 격려나 칭찬의 뉘앙스로 자주 쓰입니다.",
+    "etymologyKo": "경마에서 출발(start)이 좋으면 승리 가능성이 높다는 데서 유래한 표현으로, 일상 영어에서 널리 쓰이게 되었습니다.",
+    "nuanceKo": "긍정적이고 격려하는 톤의 표현입니다. 주로 초반 성과를 인정하면서도 아직 갈 길이 남았음을 암시하는 뉘앙스가 있습니다.",
+    "shortExampleEn": "Our project is off to a good start — we finished the first milestone ahead of schedule.",
+    "shortExampleKo": "우리 프로젝트는 좋은 출발을 했어요 — 첫 번째 마일스톤을 예정보다 일찍 끝냈거든요."
+  }
+}

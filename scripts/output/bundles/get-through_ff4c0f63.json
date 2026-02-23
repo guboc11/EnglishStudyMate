@@ -1,0 +1,30 @@
+{
+  "id": "get-through_ff4c0f63",
+  "expression": "get through",
+  "selectionMeta": {
+    "selectedPhrase": "get through",
+    "selectedSenseLabelKo": "이겨내다 / 통과하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She wasn't sure she could get through the final week of exams, but she kept going."
+  },
+  "step2": {
+    "story": "The project deadline was brutal, and Marcus barely slept for three days. He kept telling himself he just had to get through this one crunch period. When Friday finally came, he closed his laptop and let out a long breath.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "After her father passed away, Priya found it impossible to focus on anything at work. Her manager quietly suggested she take some time off, but she shook her head — staying busy was the only way she knew how to cope. Day by day, she pushed through the meetings, the emails, and the hollow small talk. Her closest colleague would leave a coffee on her desk every morning without saying a word. It wasn't easy, but slowly she began to get through the grief, one ordinary hour at a time. By spring, she could smile again without forcing it.",
+    "topicTag": "grief and recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 통과하여 반대편으로 나아간다는 뜻입니다.",
+    "realUsageKo": "어려운 상황, 힘든 시간, 고통스러운 경험 등을 버티고 극복할 때 씁니다. 시험이나 심사를 통과한다는 의미로도 자주 사용됩니다.",
+    "etymologyKo": "'get'(도달하다)과 'through'(통과하여)가 결합된 구동사로, 장애물이나 어려움의 반대편에 도달한다는 이미지에서 비롯됐습니다.",
+    "nuanceKo": "단순히 끝낸다는 것보다 힘겨움을 견뎌냈다는 뉘앙스가 강합니다. 위로하거나 격려하는 맥락에서 자주 들을 수 있는 표현입니다.",
+    "shortExampleEn": "We'll get through this together, I promise.",
+    "shortExampleKo": "우리 함께 이겨낼 수 있어, 약속해."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "get-dressed_d0ade9bc",
+  "expression": "get dressed",
+  "selectionMeta": {
+    "selectedPhrase": "get dressed",
+    "selectedSenseLabelKo": "옷을 입다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to get dressed quickly or I'll miss the bus to work."
+  },
+  "step2": {
+    "story": "Emma's alarm didn't go off, and she woke up thirty minutes late. She jumped out of bed and got dressed in record time, throwing on the first outfit she could find. Somehow, she still made it to the office before her morning meeting started.",
+    "topicTag": "morning routine",
+    "moodTag": "rushed"
+  },
+  "step3": {
+    "story": "It was the morning of Jiwon's first job interview in New York. She had laid out her clothes the night before — a navy blazer, a white blouse, and her lucky earrings. She got dressed carefully, checking herself in the mirror twice to make sure everything looked perfect. Her roommate peeked in and gave her a thumbs-up. As Jiwon grabbed her bag and headed for the door, she felt a wave of confidence wash over her. Looking sharp on the outside somehow made her feel ready on the inside too.",
+    "topicTag": "job interview preparation",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "'옷을 입은 상태가 되다'라는 뜻으로, get(~한 상태가 되다) + dressed(옷을 입은)의 조합입니다.",
+    "realUsageKo": "아침에 일어나서 옷을 갈아입거나, 외출 준비를 할 때 가장 자주 쓰입니다. 'I need to get dressed'처럼 일상적인 준비 과정을 표현할 때 자연스럽게 사용합니다.",
+    "etymologyKo": "get은 고대 노르드어 'geta(얻다, 도달하다)'에서 유래했고, dressed는 고대 프랑스어 'dresser(준비하다, 정돈하다)'에서 왔습니다. 함께 쓰여 '옷을 입은 상태에 도달하다'라는 의미가 되었습니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 주로 옷을 아직 안 입은 상태에서 입는 과정을 말합니다. 'get dressed up'이라고 하면 특별한 자리를 위해 차려입는 뉘앙스가 됩니다.",
+    "shortExampleEn": "Hurry up and get dressed — breakfast is ready!",
+    "shortExampleKo": "빨리 옷 입어 — 아침 다 됐어!"
+  }
+}

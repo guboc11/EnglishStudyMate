@@ -1,0 +1,30 @@
+{
+  "id": "knock-off_5ddae924",
+  "expression": "knock off",
+  "selectionMeta": {
+    "selectedPhrase": "knock off",
+    "selectedSenseLabelKo": "끝내다 / 그만하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let's knock off early today and grab some dinner together."
+  },
+  "step2": {
+    "story": "Jake had been staring at his screen for nine hours straight. His manager walked by and said, \"Why don't you knock off for the day? You've done more than enough.\" Jake saved his files, shut his laptop, and felt a wave of relief wash over him.",
+    "topicTag": "work-life balance",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "It was Friday afternoon, and the entire office felt restless. Rain tapped against the windows as everyone pretended to focus on their tasks. Around four o'clock, the team lead stood up and announced, \"Alright everyone, let's knock off early — you all deserve it after this week.\" A quiet cheer rippled through the cubicles. Sarah grabbed her coat and texted her friend about catching a movie. By the time she stepped outside, the rain had stopped, and the evening felt full of possibility.",
+    "topicTag": "weekend freedom",
+    "moodTag": "cheerful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '때려서 떨어뜨리다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '일이나 활동을 그만두다, 끝내다'라는 의미로 사용됩니다. 특히 하루 일과를 마치거나 작업을 중단할 때 자주 씁니다.",
+    "etymologyKo": "공장에서 종업 시간을 알리는 종을 '두드려서(knock) 울리면' 일을 '그만두는(off)' 것에서 유래했다는 설이 있습니다.",
+    "nuanceKo": "격식 없는 구어체 표현으로, 주로 친근한 분위기에서 사용됩니다. 상사가 부하에게 퇴근을 권유하거나 동료끼리 마무리하자고 할 때 자연스럽습니다.",
+    "shortExampleEn": "We usually knock off around six on weekdays.",
+    "shortExampleKo": "우리는 보통 평일에 6시쯤 일을 마칩니다."
+  }
+}

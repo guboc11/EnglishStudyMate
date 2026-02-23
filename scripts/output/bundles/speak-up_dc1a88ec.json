@@ -1,0 +1,30 @@
+{
+  "id": "speak-up_dc1a88ec",
+  "expression": "speak up",
+  "selectionMeta": {
+    "selectedPhrase": "speak up",
+    "selectedSenseLabelKo": "큰 소리로 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Could you please speak up? I can barely hear you from the back of the room."
+  },
+  "step2": {
+    "story": "During the team meeting, Maya had an important idea but kept mumbling. Her manager leaned forward and said, 'Maya, please speak up so everyone can hear you.' She took a breath, raised her voice, and shared her plan with confidence.",
+    "topicTag": "workplace communication",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The classroom was filled with the low hum of students shifting in their seats as the teacher wrote on the board. In the back row, Daniel had noticed a mistake in the equation but hesitated to say anything. 'If you have a question, speak up,' the teacher said without turning around, as if sensing the silence. Daniel cleared his throat and raised his hand. 'I think there might be an error in step three,' he said, his voice steady and clear. The teacher paused, checked the board, and smiled. 'Good catch — always speak up when you see something wrong.'",
+    "topicTag": "classroom confidence",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "소리를 높여 더 크게 말하다.",
+    "realUsageKo": "상대방이 잘 들을 수 있도록 목소리를 높이라고 요청할 때 사용하며, 의견이나 불만을 거리낌 없이 표현하라는 의미로도 쓰인다.",
+    "etymologyKo": "'speak'(말하다)와 방향·강조를 나타내는 부사 'up'이 결합한 구동사로, 'up'은 강도나 볼륨이 올라간다는 뉘앙스를 더해 준다.",
+    "nuanceKo": "단순히 음량을 높이라는 요청 외에도, 용기를 내어 자신의 생각을 표현하라는 격려의 뉘앙스를 담고 있어 긍정적인 톤으로 자주 쓰인다.",
+    "shortExampleEn": "Don't be shy — speak up if you have any questions.",
+    "shortExampleKo": "부끄러워하지 마세요 — 질문이 있으면 크게 말해 주세요."
+  }
+}

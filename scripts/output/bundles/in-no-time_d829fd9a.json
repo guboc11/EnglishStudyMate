@@ -1,0 +1,30 @@
+{
+  "id": "in-no-time_d829fd9a",
+  "expression": "in no time",
+  "selectionMeta": {
+    "selectedPhrase": "in no time",
+    "selectedSenseLabelKo": "금방",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She picked up the new software in no time and was already training her coworkers by Friday."
+  },
+  "step2": {
+    "story": "Marco had never cooked pasta from scratch before, but his grandmother walked him through it step by step. To his surprise, he had a beautiful plate of handmade fettuccine ready in no time. His grandmother smiled and said he was a natural.",
+    "topicTag": "family cooking",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Jenna stared at the mountain of moving boxes stacked in her new apartment, feeling completely overwhelmed. She had only two days before her first day at the new job, and nothing was unpacked. Then her three closest friends showed up unannounced with coffee and pizza. They divided the rooms among themselves and got to work. With everyone pitching in, the entire apartment was organized in no time. By sunset, Jenna was sitting on her own couch in a fully furnished living room, grateful beyond words.",
+    "topicTag": "friendship and new beginnings",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'시간이 전혀 없이'라는 뜻으로, 시간이 거의 걸리지 않았음을 표현합니다.",
+    "realUsageKo": "어떤 일이 예상보다 훨씬 빠르게 완료되었거나 곧 완료될 것임을 강조할 때 사용합니다. '금방', '순식간에'와 비슷한 의미입니다.",
+    "etymologyKo": "중세 영어 시기부터 사용된 표현으로, 'no time'은 '측정할 수 없을 만큼 짧은 시간'을 의미하며, 과장법을 통해 속도감을 전달합니다.",
+    "nuanceKo": "긍정적인 뉘앙스로 주로 사용되며, 놀라울 정도로 빠르다는 감탄이나 격려의 의미를 담고 있습니다. 일상 대화에서 매우 자주 쓰이는 자연스러운 표현입니다.",
+    "shortExampleEn": "Don't worry — you'll get used to the new system in no time.",
+    "shortExampleKo": "걱정 마세요 — 금방 새 시스템에 익숙해질 거예요."
+  }
+}

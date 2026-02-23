@@ -1,0 +1,30 @@
+{
+  "id": "optimize-performance_b7297ab8",
+  "expression": "optimize performance",
+  "selectionMeta": {
+    "selectedPhrase": "optimize performance",
+    "selectedSenseLabelKo": "성과를 최적화하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The consulting team was brought in specifically to optimize performance across all regional offices before the end of the fiscal year."
+  },
+  "step2": {
+    "story": "After reviewing the quarterly numbers, the operations manager realized something had to change. She gathered her team and proposed a data-driven approach to optimize performance in every department. Within three months, productivity had increased by twenty percent.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been promoted to VP of Operations at a mid-sized logistics company that was struggling to keep up with competitors. On his first day, he spent hours studying workflow bottlenecks and outdated processes that no one had questioned in years. He knew that to survive, the company needed to optimize performance at every level, from warehouse operations to customer service response times. He introduced weekly review meetings, invested in automation tools, and encouraged employees to suggest improvements without fear of criticism. Slowly, the culture shifted from complacency to continuous improvement. By the end of the year, the company had not only caught up with its rivals but had become a model of operational excellence.",
+    "topicTag": "corporate transformation",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "성과(performance)를 최적화(optimize)하다, 즉 결과물이나 실적을 가장 효율적인 상태로 만드는 것을 의미합니다.",
+    "realUsageKo": "비즈니스 환경에서 업무 프로세스, 팀 생산성, 시스템 효율 등을 개선하여 최상의 결과를 이끌어낼 때 사용합니다. 단순히 '개선하다'보다 체계적이고 데이터 기반의 접근을 암시합니다.",
+    "etymologyKo": "optimize는 라틴어 'optimus(최선의)'에서 유래했고, performance는 고대 프랑스어 'parfournir(완수하다)'에서 왔습니다. 두 단어의 조합은 현대 경영학과 IT 분야에서 널리 쓰이게 되었습니다.",
+    "nuanceKo": "격식적이고 전문적인 느낌의 표현으로, 주로 비즈니스 회의, 보고서, 컨설팅 맥락에서 사용됩니다. 일상 대화보다는 업무 환경에서 자연스러운 표현입니다.",
+    "shortExampleEn": "We need to optimize performance before launching the new product line.",
+    "shortExampleKo": "새 제품 라인을 출시하기 전에 성과를 최적화해야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "win-trust_096f0186",
+  "expression": "win trust",
+  "selectionMeta": {
+    "selectedPhrase": "win trust",
+    "selectedSenseLabelKo": "신뢰를 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to win trust from her new colleagues by always keeping her promises."
+  },
+  "step2": {
+    "story": "Jake was the newest manager at the firm, and nobody took him seriously at first. He stayed late every night, listened to every concern, and followed through on every commitment. Within three months, he had won the trust of the entire department.",
+    "topicTag": "leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Mina transferred to the Seoul branch, the local team was skeptical of the outsider from headquarters. They whispered behind her back and excluded her from lunch plans. Instead of complaining, Mina quietly took on the toughest client accounts nobody wanted to handle. She stayed humble, asked for advice, and gave credit to the team whenever things went well. Slowly, one by one, people started coming to her for help. By the end of the quarter, she had won the trust of everyone in the office, and they couldn't imagine the team without her.",
+    "topicTag": "workplace relationships",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'신뢰를 이기다/획득하다'라는 뜻으로, 누군가의 믿음을 얻어내는 것을 의미합니다.",
+    "realUsageKo": "상대방이 나를 믿게 만드는 과정을 표현할 때 사용합니다. 단순히 신뢰를 '받는' 것이 아니라, 노력과 행동을 통해 '쟁취'하는 느낌이 강합니다.",
+    "etymologyKo": "'win'은 고대 영어 'winnan(노력하다, 투쟁하다)'에서 유래했으며, 'trust'는 고대 노르드어 'traust(신뢰, 확신)'에서 왔습니다. 함께 쓰이면 노력을 통해 신뢰를 얻는다는 의미가 됩니다.",
+    "nuanceKo": "earn trust와 비슷하지만, win trust는 특히 처음에 불신이나 회의가 있던 상황에서 그것을 극복하고 신뢰를 얻어냈다는 뉘앙스가 더 강합니다.",
+    "shortExampleEn": "The new CEO quickly won the trust of investors with her transparent communication.",
+    "shortExampleKo": "새 CEO는 투명한 소통으로 투자자들의 신뢰를 빠르게 얻었다."
+  }
+}

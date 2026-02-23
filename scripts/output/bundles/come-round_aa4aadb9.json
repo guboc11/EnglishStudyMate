@@ -1,0 +1,30 @@
+{
+  "id": "come-round_aa4aadb9",
+  "expression": "come round",
+  "selectionMeta": {
+    "selectedPhrase": "come round",
+    "selectedSenseLabelKo": "방문하다 / 의식이 돌아오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Why don't you come round to my place after work so we can go over the project together?"
+  },
+  "step2": {
+    "story": "Jake fainted during the intense summer heat at the outdoor concert. The paramedics rushed over with cold water and a fan. After a few tense minutes, he finally came round and asked what had happened.",
+    "topicTag": "health emergency",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sarah hadn't seen her grandmother in months, so she decided to come round on Sunday morning with fresh pastries from the bakery. When she arrived, the house smelled of lavender and old books, just as she remembered. They sat in the garden drinking tea while her grandmother shared stories about her childhood in the countryside. At one point, the old woman paused mid-sentence and closed her eyes, and Sarah panicked for a moment. But her grandmother quickly came round, smiled softly, and said she had just dozed off for a second. They both laughed and continued their peaceful afternoon together.",
+    "topicTag": "family bonding",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'둥글게 돌아오다'라는 직역으로, 물리적으로 누군가에게 돌아서 오는 모습을 나타냅니다.",
+    "realUsageKo": "일상에서 '집에 들르다/방문하다'라는 뜻과 '기절 후 의식을 되찾다'라는 두 가지 의미로 주로 사용됩니다. 또한 '마음을 바꾸어 동의하다'라는 뜻으로도 쓰입니다.",
+    "etymologyKo": "'come'(오다)과 'round'(둘레를 돌아)의 결합으로, 원래 '돌아서 오다'에서 '방문하다'와 '(의식이) 돌아오다'로 의미가 확장되었습니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 친근한 사이에서 자연스럽게 쓰입니다. 미국 영어에서는 'come around'이 더 일반적이며, 영국 영어에서 'come round'을 선호합니다.",
+    "shortExampleEn": "She came round about an hour after the surgery.",
+    "shortExampleKo": "그녀는 수술 후 약 한 시간 만에 의식을 되찾았다."
+  }
+}

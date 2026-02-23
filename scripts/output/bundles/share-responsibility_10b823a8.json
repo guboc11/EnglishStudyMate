@@ -1,0 +1,30 @@
+{
+  "id": "share-responsibility_10b823a8",
+  "expression": "share responsibility",
+  "selectionMeta": {
+    "selectedPhrase": "share responsibility",
+    "selectedSenseLabelKo": "책임을 나누다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to share responsibility for this project so that no one person feels overwhelmed."
+  },
+  "step2": {
+    "story": "The team had been struggling because only the manager was handling all the decisions alone. During a meeting, she asked everyone to share responsibility for different parts of the launch. Within a week, the workload felt lighter and morale improved dramatically.",
+    "topicTag": "teamwork",
+    "moodTag": "cooperative"
+  },
+  "step3": {
+    "story": "When Jisoo joined the nonprofit, she noticed that the director was burning out from doing everything himself. Volunteers showed up but had no clear roles. Jisoo proposed a new system where each volunteer would share responsibility for a specific area — fundraising, communications, or event planning. At first, some people resisted because they were used to just following orders. But after a month of the new structure, the director finally took his first weekend off in two years. He told Jisoo that learning to share responsibility was the best lesson he had ever received.",
+    "topicTag": "leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "책임(responsibility)을 나누다(share), 즉 해야 할 일이나 의무를 여러 사람이 함께 지는 것을 의미합니다.",
+    "realUsageKo": "직장, 가정, 팀 프로젝트 등에서 한 사람에게 부담이 집중되지 않도록 역할과 책임을 분담할 때 사용합니다. '우리 모두 책임을 나눠야 해'처럼 협력을 강조하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "share는 고대 영어 'scearu'(나누다, 자르다)에서 유래했고, responsibility는 라틴어 'respondere'(응답하다)에서 파생되었습니다. 두 단어가 결합하여 '응답해야 할 의무를 함께 나눈다'는 의미를 형성합니다.",
+    "nuanceKo": "단순히 일을 분배하는 것이 아니라, 결과에 대한 책임까지 함께 진다는 뉘앙스가 있습니다. 리더십이나 협업을 강조하는 긍정적인 어감으로 사용됩니다.",
+    "shortExampleEn": "Parents should share responsibility for raising their children.",
+    "shortExampleKo": "부모는 자녀 양육에 대한 책임을 함께 나눠야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tag-along_2e83860e",
+  "expression": "tag along",
+  "selectionMeta": {
+    "selectedPhrase": "tag along",
+    "selectedSenseLabelKo": "따라가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Do you mind if I tag along to the bookstore with you?"
+  },
+  "step2": {
+    "story": "My coworkers were heading out for lunch at a new Thai place downtown. I didn't have any plans, so I asked if I could tag along. They welcomed me right away, and we ended up having the best pad thai in the city.",
+    "topicTag": "social bonding",
+    "moodTag": "friendly"
+  },
+  "step3": {
+    "story": "When my older sister announced she was driving to the coast for the weekend, I immediately asked if I could tag along. She hesitated at first, saying it was supposed to be a solo trip to clear her head. But I promised I wouldn't be a bother and would even split the gas money. She finally agreed, and we spent two days exploring tide pools and eating fish tacos at a roadside stand. By Sunday evening, she admitted that having me tag along had actually made the trip more fun. Sometimes the best adventures happen when you just decide to go along for the ride.",
+    "topicTag": "family adventure",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'tag'(꼬리표)처럼 누군가에게 붙어서 'along'(함께) 간다는 뜻입니다.",
+    "realUsageKo": "누군가의 활동이나 외출에 초대받지 않았거나 특별한 역할 없이 따라갈 때 사용합니다. 가볍고 캐주얼한 느낌으로, 꼭 필요해서가 아니라 그냥 함께하고 싶어서 따라가는 상황에 씁니다.",
+    "etymologyKo": "'tag'는 원래 '꼬리표를 달다'라는 뜻에서 유래했으며, 누군가 뒤에 꼬리표처럼 붙어 다닌다는 이미지에서 'tag along'이라는 표현이 생겼습니다.",
+    "nuanceKo": "부담 없이 따라간다는 가벼운 뉘앙스입니다. 다만 상황에 따라 '얹혀 간다'는 약간 미안한 느낌이 들 수도 있어서, 허락을 구하는 표현과 함께 자주 쓰입니다.",
+    "shortExampleEn": "Can I tag along on your grocery run?",
+    "shortExampleKo": "장 보러 갈 때 나도 따라가도 될까?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "miss-a-flight_ebcf5828",
+  "expression": "miss a flight",
+  "selectionMeta": {
+    "selectedPhrase": "miss a flight",
+    "selectedSenseLabelKo": "비행기를 놓치다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I overslept and nearly missed my flight to Tokyo this morning."
+  },
+  "step2": {
+    "story": "Sarah's alarm didn't go off, and she woke up in a panic at 7 AM. She threw her clothes into a suitcase and raced to the airport, but she still missed her flight by ten minutes. Sitting at the empty gate, she called her boss to explain she wouldn't make the conference on time.",
+    "topicTag": "travel trouble",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Kevin had been looking forward to his vacation in Barcelona for months. The night before his departure, he stayed up late double-checking his packing list and watching travel videos. Unfortunately, he forgot to set his alarm and woke up two hours before his flight. The highway was jammed with morning traffic, and every red light felt like an eternity. By the time he sprinted through the terminal, the boarding gate had already closed — he had missed his flight. He slumped into a plastic chair, staring at the departure board, wondering how something he had planned so carefully could go so wrong.",
+    "topicTag": "vacation gone wrong",
+    "moodTag": "disappointed"
+  },
+  "meaning": {
+    "literalMeaningKo": "비행기를 놓치다 — 탑승 시간에 맞추지 못해 비행기를 타지 못하는 것을 의미합니다.",
+    "realUsageKo": "공항에 늦게 도착하거나 게이트를 찾지 못해서 예정된 항공편에 탑승하지 못할 때 사용합니다. 'miss'는 시간에 맞추지 못해 기회를 놓친다는 의미로, bus나 train에도 같은 패턴으로 쓸 수 있습니다.",
+    "etymologyKo": "'miss'는 고대 영어 'missan'(빗나가다, 놓치다)에서 유래했으며, 목표나 기회에 도달하지 못한다는 의미입니다. 'flight'와 결합해 항공편 탑승에 실패했다는 구체적인 상황을 표현합니다.",
+    "nuanceKo": "단순한 사실 전달뿐 아니라 아쉬움이나 후회의 감정이 함께 담기는 경우가 많습니다. 'almost missed my flight'처럼 간신히 탔다는 표현도 자주 쓰입니다.",
+    "shortExampleEn": "We missed our flight because of the long security line.",
+    "shortExampleKo": "보안 검색줄이 너무 길어서 비행기를 놓쳤어요."
+  }
+}

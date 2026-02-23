@@ -1,0 +1,30 @@
+{
+  "id": "jump-in_ae1a390f",
+  "expression": "jump in",
+  "selectionMeta": {
+    "selectedPhrase": "jump in",
+    "selectedSenseLabelKo": "끼어들다 / 참여하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Feel free to jump in whenever you have something to add to the discussion."
+  },
+  "step2": {
+    "story": "The new intern sat quietly during the team meeting, unsure if she should speak. When the manager asked for fresh ideas, her colleague nudged her and whispered, \"Go ahead, jump in.\" She took a breath and shared her suggestion, and everyone nodded in agreement.",
+    "topicTag": "workplace confidence",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Daniel had been watching his friends play basketball at the park for twenty minutes. They were short one player and kept glancing his way. He hadn't played in years and felt rusty, but the ball rolled toward him after a missed shot. \"Hey, why don't you jump in?\" called out Marcus from the court. Daniel hesitated for only a second before jogging onto the court with a grin. By the end of the game, he had scored twice and remembered why he loved the sport so much.",
+    "topicTag": "taking chances",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '안으로 뛰어들다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 대화나 활동에 적극적으로 끼어들거나 참여할 때 사용합니다. 누군가에게 참여를 권유하거나, 자발적으로 합류할 때 모두 쓸 수 있습니다.",
+    "etymologyKo": "물속으로 뛰어드는 물리적 행위에서 비유적으로 확장된 표현으로, '망설이지 않고 바로 참여하다'라는 의미가 되었습니다.",
+    "nuanceKo": "캐주얼하고 친근한 톤의 표현입니다. 격식 있는 자리보다는 일상 대화나 팀 미팅 등에서 자주 쓰이며, 적극성과 자발성의 뉘앙스가 있습니다.",
+    "shortExampleEn": "If you have any questions, just jump in and ask.",
+    "shortExampleKo": "질문이 있으면 그냥 끼어들어서 물어보세요."
+  }
+}

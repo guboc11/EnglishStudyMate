@@ -1,0 +1,30 @@
+{
+  "id": "rebuild-trust_9a8014cf",
+  "expression": "rebuild trust",
+  "selectionMeta": {
+    "selectedPhrase": "rebuild trust",
+    "selectedSenseLabelKo": "신뢰를 재건하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the scandal, the CEO held a series of town halls to rebuild trust with employees."
+  },
+  "step2": {
+    "story": "Marcus had lied to his business partner about the quarterly numbers. It took months of transparent reporting and honest conversations to rebuild trust between them. Eventually, his partner agreed to continue the venture, but only with full financial oversight.",
+    "topicTag": "business relationships",
+    "moodTag": "remorseful"
+  },
+  "step3": {
+    "story": "When the data breach was made public, customers flooded the company's social media pages with angry comments. The board knew they had to act fast. They hired an independent security firm, published a full incident report, and offered free credit monitoring to all affected users. The CEO appeared on national television to personally apologize. It was a long and painful process, but step by step, the company managed to rebuild trust with its user base. A year later, customer retention rates had finally returned to pre-breach levels.",
+    "topicTag": "corporate accountability",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "무너진 신뢰를 다시 쌓다, 즉 한번 깨진 믿음을 회복하는 것을 의미합니다.",
+    "realUsageKo": "관계에서 배신이나 실수 이후 상대방의 믿음을 되찾으려 할 때 사용합니다. 비즈니스, 연인, 친구, 조직 등 다양한 맥락에서 쓰이며, 단순히 사과하는 것이 아니라 시간과 노력을 들여 신뢰를 복원하는 과정을 강조합니다.",
+    "etymologyKo": "rebuild(다시 짓다)와 trust(신뢰)의 결합으로, 건물을 재건하듯 무너진 신뢰를 하나하나 다시 쌓아올린다는 비유적 이미지에서 비롯되었습니다.",
+    "nuanceKo": "이 표현은 신뢰가 이미 손상되었다는 전제를 깔고 있어서, 단순히 '신뢰를 쌓다(build trust)'보다 더 무거운 느낌을 줍니다. 진정성 있는 노력과 시간이 필요하다는 뉘앙스가 담겨 있습니다.",
+    "shortExampleEn": "She worked hard to rebuild trust after breaking her promise.",
+    "shortExampleKo": "그녀는 약속을 어긴 후 신뢰를 재건하기 위해 열심히 노력했다."
+  }
+}

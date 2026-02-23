@@ -1,0 +1,30 @@
+{
+  "id": "reduce-stress_96641dc3",
+  "expression": "reduce stress",
+  "selectionMeta": {
+    "selectedPhrase": "reduce stress",
+    "selectedSenseLabelKo": "스트레스를 줄이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Taking a short walk during lunch really helps me reduce stress before the afternoon meetings."
+  },
+  "step2": {
+    "story": "After weeks of overtime, Jina finally took her doctor's advice and started yoga classes to reduce stress. Within a month, her headaches disappeared and she slept through the night again. She wished she had made the change sooner.",
+    "topicTag": "work-life balance",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Daniel had been grinding through twelve-hour shifts at the startup for months, and his body was beginning to protest. His shoulders ached constantly, and he snapped at his roommate over the smallest things. One evening, his older sister called and gently suggested he find ways to reduce stress before it wrecked his health. He reluctantly signed up for a weekend hiking group, expecting to hate every minute of it. But standing on a ridge overlooking the valley that first Saturday morning, he felt something loosen in his chest. He realized that stepping away from the screen was not laziness — it was survival.",
+    "topicTag": "burnout recovery",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "스트레스를 줄이다, 즉 정신적·신체적 긴장이나 압박감을 낮추는 것을 의미합니다.",
+    "realUsageKo": "일상에서 '스트레스를 줄이다/해소하다'라는 뜻으로 널리 쓰입니다. 운동, 취미, 휴식 등 구체적인 방법과 함께 자주 사용됩니다.",
+    "etymologyKo": "reduce는 라틴어 reducere(되돌리다)에서 유래했고, stress는 원래 물리학에서 '압력'을 뜻하다가 20세기 중반부터 심리적 긴장의 의미로 확장되었습니다.",
+    "nuanceKo": "relieve stress(스트레스를 풀다)보다 좀 더 점진적이고 체계적인 느낌을 줍니다. 일시적 해소보다는 전반적인 수준을 낮춘다는 뉘앙스입니다.",
+    "shortExampleEn": "Listening to music is a simple way to reduce stress after a long day.",
+    "shortExampleKo": "음악을 듣는 것은 긴 하루 후에 스트레스를 줄이는 간단한 방법입니다."
+  }
+}

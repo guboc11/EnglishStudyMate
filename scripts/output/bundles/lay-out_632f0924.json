@@ -1,0 +1,30 @@
+{
+  "id": "lay-out_632f0924",
+  "expression": "lay out",
+  "selectionMeta": {
+    "selectedPhrase": "lay out",
+    "selectedSenseLabelKo": "펼치다 / 배치하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She laid out all the ingredients on the counter before she started cooking."
+  },
+  "step2": {
+    "story": "Emma was preparing for her first dinner party. She carefully laid out the plates, glasses, and silverware on the long dining table. Everything had to be perfect tonight.",
+    "topicTag": "hosting",
+    "moodTag": "meticulous"
+  },
+  "step3": {
+    "story": "The morning sun poured through the studio windows as Joon spread his fabric across the worktable. He laid out each pattern piece side by side, checking the alignment twice. His deadline was tomorrow, and there was no room for mistakes. He pinned the first piece down and reached for his scissors. Hours later, every cut section was laid out in order on the floor like a giant puzzle. He stepped back, smiled, and finally felt ready to sew.",
+    "topicTag": "creative work",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "'lay'(놓다) + 'out'(밖으로) → 무언가를 밖으로 펼쳐 놓다.",
+    "realUsageKo": "물건을 보기 좋게 또는 사용하기 편하게 펼쳐 배치할 때 씁니다. 계획이나 아이디어를 조목조목 설명할 때도 'lay out a plan'처럼 비유적으로 사용합니다.",
+    "etymologyKo": "고대 영어 'lecgan'(놓다)에서 온 'lay'와 방향을 나타내는 'out'이 결합한 구동사로, 중세 영어 시기부터 '펼쳐 놓다'라는 의미로 사용되었습니다.",
+    "nuanceKo": "단순히 '놓다(put)'보다 정돈되고 의도적인 배치를 암시합니다. 격식·비격식 모두 자연스럽게 쓰이며, 과거형은 'laid out'입니다.",
+    "shortExampleEn": "He laid out his plan for the new project during the meeting.",
+    "shortExampleKo": "그는 회의에서 새 프로젝트에 대한 계획을 조목조목 설명했다."
+  }
+}

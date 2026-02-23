@@ -1,0 +1,30 @@
+{
+  "id": "check-out_90977e7d",
+  "expression": "check out",
+  "selectionMeta": {
+    "selectedPhrase": "check out",
+    "selectedSenseLabelKo": "살펴보다 / 체크아웃하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You should check out that new coffee shop on Fifth Avenue — the reviews are amazing."
+  },
+  "step2": {
+    "story": "Maya heard about a new bookstore downtown and decided to check it out on her lunch break. She spent an hour browsing the shelves, completely losing track of time.",
+    "topicTag": "leisure discovery",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "After weeks of seeing ads for the new art exhibit, Daniel finally had a free Saturday to check it out. He arrived early, expecting a quiet morning, but the gallery was already buzzing with visitors. Each painting pulled him deeper into the room, and he found himself standing in front of one piece for nearly twenty minutes. By the time he checked out at the hotel gift shop downstairs, his arms were full of prints and postcards. He texted his friends on the way home: 'Seriously, you have to check this place out before it closes.'",
+    "topicTag": "art and culture",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 직접 살펴보거나, 호텔 등에서 퇴실 절차를 밟는 것을 의미합니다.",
+    "realUsageKo": "일상에서 '한번 가봐', '확인해봐'처럼 어떤 것을 탐색하거나 시도해볼 때 자주 씁니다. 호텔·도서관에서 퇴실하거나 물건을 대출할 때도 사용됩니다.",
+    "etymologyKo": "'check'는 중세 프랑스어 'echec(체크메이트)'에서 유래해 '확인·점검'의 뜻으로 발전했고, 'out'이 결합되어 '밖으로 나가며 확인하다'는 의미가 생겼습니다.",
+    "nuanceKo": "가볍고 친근한 표현으로, 친구에게 무언가를 추천할 때 자연스럽게 씁니다. 격식체보다는 구어체에 어울립니다.",
+    "shortExampleEn": "Have you checked out the new menu at that Italian place yet?",
+    "shortExampleKo": "저 이탈리안 식당 새 메뉴 벌써 확인해봤어?"
+  }
+}

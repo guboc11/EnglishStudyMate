@@ -1,0 +1,30 @@
+{
+  "id": "be-in-someone's-shoes_86eb719c",
+  "expression": "be in someone's shoes",
+  "selectionMeta": {
+    "selectedPhrase": "be in someone's shoes",
+    "selectedSenseLabelKo": "상대방 입장이 되어보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you were in her shoes, you'd understand why she turned down the promotion."
+  },
+  "step2": {
+    "story": "Jake complained about his manager's strict deadlines until he was promoted to team lead himself. Suddenly he had to juggle budgets, client demands, and a team of ten. Now that he was in his old manager's shoes, he finally understood the pressure she had been under all along.",
+    "topicTag": "workplace empathy",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mina had always judged her older sister for dropping out of college to work at a grocery store. She thought it was a lazy choice. But when their father got sick and the medical bills started piling up, Mina had to take a semester off to help pay rent. Working double shifts while worrying about her dad's health, she realized what it truly meant to be in her sister's shoes. The exhaustion, the guilt, the impossible trade-offs — none of it had been visible from the outside. She called her sister that night and, for the first time, simply said thank you.",
+    "topicTag": "family understanding",
+    "moodTag": "emotional"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '누군가의 신발 안에 있다'라는 뜻입니다.",
+    "realUsageKo": "상대방의 처지나 상황에 놓여보다, 즉 그 사람의 입장이 되어 생각해보다라는 의미로 사용됩니다. 주로 공감이나 이해를 강조할 때 쓰입니다.",
+    "etymologyKo": "중세 영어에서 유래한 표현으로, 신발은 그 사람이 걸어온 길과 경험을 상징합니다. 다른 사람의 신발을 신어본다는 것은 그 사람의 삶을 직접 체험해본다는 비유입니다.",
+    "nuanceKo": "단순한 동정이 아니라 상대방의 관점에서 진정으로 이해하려는 태도를 나타냅니다. 조언이나 판단을 하기 전에 한 번 더 생각해보라는 뉘앙스가 있습니다.",
+    "shortExampleEn": "You should try being in his shoes before you criticize his decision.",
+    "shortExampleKo": "그의 결정을 비판하기 전에 그의 입장이 되어봐야 해."
+  }
+}

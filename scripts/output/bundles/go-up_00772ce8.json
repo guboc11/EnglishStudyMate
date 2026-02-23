@@ -1,0 +1,30 @@
+{
+  "id": "go-up_00772ce8",
+  "expression": "go up",
+  "selectionMeta": {
+    "selectedPhrase": "go up",
+    "selectedSenseLabelKo": "올라가다 / 증가하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The price of groceries has gone up significantly over the past year."
+  },
+  "step2": {
+    "story": "Sarah checked the rent notice and sighed — the monthly payment had gone up by two hundred dollars. She sat down at the kitchen table, trying to figure out how to adjust her budget.",
+    "topicTag": "cost of living",
+    "moodTag": "worried"
+  },
+  "step3": {
+    "story": "Every morning, Marcus watched the stock ticker on his phone before getting out of bed. For three weeks straight, the numbers had done nothing but go up, and his confidence grew with them. He told his coworkers he had finally found the right strategy, flashing his portfolio screen with a grin. But on Friday afternoon, everything reversed — what had gone up came crashing down by the end of the trading session. Marcus stared at the screen in silence, reminded that the market rarely moves in just one direction forever.",
+    "topicTag": "investing",
+    "moodTag": "overconfident then humbled"
+  },
+  "meaning": {
+    "literalMeaningKo": "위로 올라가다, 혹은 수치나 양이 증가하다.",
+    "realUsageKo": "물리적으로 위로 이동하는 상황뿐 아니라 가격, 온도, 수치 등이 오르는 상황에서 매우 자주 쓰인다. 일상 대화에서 '오르다'를 뜻하는 가장 기본적인 표현 중 하나다.",
+    "etymologyKo": "'go'는 고대 영어 'gān'에서 유래한 이동 동사이며, 'up'은 방향을 나타내는 부사로 결합해 '위 방향으로 움직이다'라는 의미를 형성했다. 이후 추상적 개념(수치 증가 등)으로 확장되었다.",
+    "nuanceKo": "중립적인 표현으로 긍정·부정 맥락 모두에서 사용된다. 가격이 오를 때는 부정적 뉘앙스, 점수나 평가가 오를 때는 긍정적 뉘앙스를 띨 수 있다.",
+    "shortExampleEn": "The temperature went up to 35 degrees this afternoon.",
+    "shortExampleKo": "오늘 오후 기온이 35도까지 올라갔다."
+  }
+}

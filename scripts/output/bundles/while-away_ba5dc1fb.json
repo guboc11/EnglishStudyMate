@@ -1,0 +1,30 @@
+{
+  "id": "while-away_ba5dc1fb",
+  "expression": "while away",
+  "selectionMeta": {
+    "selectedPhrase": "while away",
+    "selectedSenseLabelKo": "시간을 보내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She whiled away the rainy afternoon reading old letters in the attic."
+  },
+  "step2": {
+    "story": "The train was delayed by three hours, so Marcus found a quiet corner of the station cafe. He whiled away the time sketching the passengers around him, filling page after page of his notebook. By the time the announcement came, he had a collection of portraits he was genuinely proud of.",
+    "topicTag": "unexpected creativity",
+    "moodTag": "peaceful"
+  },
+  "step3": {
+    "story": "After retiring from thirty years of teaching, Mrs. Park suddenly had more free time than she knew what to do with. The first few weeks felt strange and empty. Then she discovered the community garden two blocks from her apartment. Every morning, she whiled away the hours pulling weeds, planting herbs, and chatting with the other gardeners. What started as a way to fill the silence became the highlight of her days. She realized that whiling away time didn't mean wasting it — sometimes it meant finally living at your own pace.",
+    "topicTag": "retirement and new beginnings",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'while'을 동사로 사용하여 시간을 '보내다/흘려보내다'라는 뜻입니다.",
+    "realUsageKo": "특별히 바쁘지 않은 시간을 편안하게, 혹은 무언가를 하며 보낼 때 씁니다. 긍정적으로 여유를 즐기는 느낌이 강하지만, 때로는 시간을 허비한다는 뉘앙스도 있습니다.",
+    "etymologyKo": "'while'은 원래 명사로 '시간의 구간'을 뜻했으며, 17세기경부터 동사로 '시간을 보내다'라는 의미로 쓰이기 시작했습니다. 'away'가 붙어 시간이 흘러가는 느낌을 강조합니다.",
+    "nuanceKo": "급하지 않고 느긋한 분위기를 내포합니다. 'kill time'보다 우아하고 문학적인 표현이며, 주로 pleasant한 활동과 함께 쓰입니다.",
+    "shortExampleEn": "We whiled away the evening playing board games by the fireplace.",
+    "shortExampleKo": "우리는 벽난로 옆에서 보드게임을 하며 저녁 시간을 보냈다."
+  }
+}

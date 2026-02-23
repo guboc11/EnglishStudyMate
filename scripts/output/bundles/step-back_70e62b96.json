@@ -1,0 +1,30 @@
+{
+  "id": "step-back_70e62b96",
+  "expression": "step back",
+  "selectionMeta": {
+    "selectedPhrase": "step back",
+    "selectedSenseLabelKo": "물러서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Sometimes you need to step back from a problem before you can see the solution clearly."
+  },
+  "step2": {
+    "story": "Mia had been staring at her design for hours, but nothing felt right. Her colleague suggested she step back and take a walk outside. When she returned with fresh eyes, the perfect layout came to her instantly.",
+    "topicTag": "creative work",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Jordan had been leading the product launch for three intense months without a single day off. Every small setback felt like a personal failure, and his frustration was starting to affect the whole team. One Friday afternoon, his manager pulled him aside and said, \"You need to step back for a bit—trust your team to handle things.\" Reluctantly, Jordan took the weekend completely offline, hiking in the mountains with no phone signal. By Monday morning, he realized how tangled his thinking had become. Stepping back gave him the clarity to reprioritize and guide the project to a successful launch.",
+    "topicTag": "leadership",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '뒤로 한 걸음 물러서다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 상황이나 문제에서 잠시 거리를 두고 객관적으로 바라본다는 의미로 자주 쓰입니다. 감정적으로 휘말리지 않고 냉정하게 판단하려 할 때 사용합니다.",
+    "etymologyKo": "물리적으로 뒤로 물러서는 동작에서 유래하여, 비유적으로 '거리를 두다', '한 발 떨어져서 보다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "급하게 행동하지 말고 침착하게 상황을 재정비하자는 긍정적이고 차분한 뉘앙스를 가집니다. 조언이나 자기 성찰의 맥락에서 많이 쓰입니다.",
+    "shortExampleEn": "Let's step back and look at the bigger picture.",
+    "shortExampleKo": "한 발 물러서서 전체적인 그림을 봅시다."
+  }
+}

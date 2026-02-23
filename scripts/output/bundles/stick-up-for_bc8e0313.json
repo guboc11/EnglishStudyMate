@@ -1,0 +1,30 @@
+{
+  "id": "stick-up-for_bc8e0313",
+  "expression": "stick up for",
+  "selectionMeta": {
+    "selectedPhrase": "stick up for",
+    "selectedSenseLabelKo": "변호하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always sticks up for her younger brother when other kids tease him at school."
+  },
+  "step2": {
+    "story": "During the meeting, everyone criticized Jake's proposal. Nobody said a word in his defense until Maria stood up and stuck up for him, pointing out the strengths they had all overlooked. Jake never forgot that moment of unexpected support.",
+    "topicTag": "workplace loyalty",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "Growing up, Soo-jin was the quietest kid in her class. She rarely spoke unless spoken to, and most classmates barely noticed her. One afternoon, a group of older students cornered her in the hallway and mocked her accent. Out of nowhere, a girl named Hana stepped forward and stuck up for Soo-jin without hesitation. She told them that making fun of someone's voice was cowardly and meaningless. From that day on, Soo-jin and Hana became inseparable, and Soo-jin slowly found the courage to stick up for herself too.",
+    "topicTag": "friendship and courage",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stick up'은 무언가를 위로 세우다, 'for'는 ~을 위해라는 뜻으로, 누군가를 위해 똑바로 서다라는 직역적 의미입니다.",
+    "realUsageKo": "누군가가 부당한 대우를 받거나 비난받을 때 그 사람 편에 서서 변호하거나 옹호할 때 사용합니다. '~의 편을 들다', '~를 감싸다'라는 뜻으로 일상에서 자주 쓰입니다.",
+    "etymologyKo": "19세기 미국 영어에서 유래했으며, 'stick up'이 '똑바로 서다'라는 의미에서 '용기 있게 맞서다'로 확장되어, 누군가를 위해 당당히 나서는 행동을 표현하게 되었습니다.",
+    "nuanceKo": "단순히 동의하는 것이 아니라, 불리한 상황에서도 용기를 내어 적극적으로 편을 드는 뉘앙스가 있습니다. 약자를 보호하거나 부당함에 맞서는 긍정적인 느낌을 줍니다.",
+    "shortExampleEn": "You should stick up for what you believe in, even when it's difficult.",
+    "shortExampleKo": "어려울 때라도 자신이 믿는 것을 위해 당당히 나서야 합니다."
+  }
+}

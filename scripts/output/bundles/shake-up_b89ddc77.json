@@ -1,0 +1,30 @@
+{
+  "id": "shake-up_b89ddc77",
+  "expression": "shake up",
+  "selectionMeta": {
+    "selectedPhrase": "shake up",
+    "selectedSenseLabelKo": "뒤흔들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new CEO plans to shake up the entire management structure within her first six months."
+  },
+  "step2": {
+    "story": "After years of declining sales, the board hired an outsider to shake up the company. She replaced half the leadership team and introduced a completely new product strategy. Within a year, morale and revenue were both climbing again.",
+    "topicTag": "corporate change",
+    "moodTag": "bold"
+  },
+  "step3": {
+    "story": "Marcus had been teaching high school history the same way for fifteen years, and his students were bored out of their minds. One Monday, he walked in wearing a medieval costume and announced they would be staging a mock trial of King Henry VIII. The other teachers thought he had lost it, but his classroom was suddenly the most popular in the school. He decided to shake up every single unit for the rest of the semester. Students who had never raised their hands were now debating passionately. Sometimes all it takes is one person willing to break the routine to transform an entire environment.",
+    "topicTag": "education reform",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'흔들어 올리다'라는 뜻으로, 물리적으로 무언가를 세게 흔드는 이미지에서 비롯됩니다.",
+    "realUsageKo": "기존 체제나 방식을 크게 바꾸거나 개혁할 때 사용합니다. 조직, 산업, 관행 등을 근본적으로 뒤흔든다는 의미로 쓰입니다.",
+    "etymologyKo": "물건을 흔들어(shake) 위로(up) 뒤집는 물리적 행위에서 유래하여, 기존 질서를 뒤엎는다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 변화가 아니라 기존 질서를 과감하게 뒤흔드는 큰 변화를 암시합니다. 긍정적(혁신)으로도 부정적(혼란)으로도 쓰일 수 있지만, 대체로 필요한 변화라는 뉘앙스가 강합니다.",
+    "shortExampleEn": "The scandal really shook up the entire political establishment.",
+    "shortExampleKo": "그 스캔들은 정치권 전체를 정말로 뒤흔들었다."
+  }
+}

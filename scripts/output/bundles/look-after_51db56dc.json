@@ -1,0 +1,30 @@
+{
+  "id": "look-after_51db56dc",
+  "expression": "look after",
+  "selectionMeta": {
+    "selectedPhrase": "look after",
+    "selectedSenseLabelKo": "돌보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Could you look after my cat while I'm away this weekend?"
+  },
+  "step2": {
+    "story": "When Emma's neighbor broke her leg, Emma offered to look after her two dogs every morning. She walked them through the park before work, making sure they got enough exercise. It was tiring, but she loved seeing their tails wag when she arrived.",
+    "topicTag": "helping neighbors",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "James had never expected to look after his elderly grandmother full-time. When she was diagnosed with early-stage dementia, his parents were overseas and couldn't return immediately. So James moved into her small apartment near the river, learning to cook her favorite dishes and keeping her company during the long evenings. Some days were harder than others — she would forget his name or wander toward the front door at midnight. But every morning, when she smiled at him over breakfast and said, \"You're such a good boy,\" he knew he was exactly where he needed to be.",
+    "topicTag": "family caregiving",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'look(보다) + after(뒤를)' — 누군가의 뒤를 살펴본다는 뜻에서 출발합니다.",
+    "realUsageKo": "사람, 동물, 물건 등을 '돌보다, 보살피다'라는 의미로 폭넓게 쓰입니다. take care of와 거의 같은 뜻이지만, 영국 영어에서 더 자주 사용됩니다.",
+    "etymologyKo": "중세 영어에서 'look(시선을 두다)'과 'after(뒤따르다)'가 결합한 구동사로, 누군가를 뒤에서 지켜본다는 원래 이미지가 '보살핌'의 뜻으로 발전했습니다.",
+    "nuanceKo": "일상적이고 따뜻한 느낌의 표현입니다. 격식체에서는 'take care of'나 'care for'를 더 선호하지만, 일상 대화에서는 look after가 자연스럽습니다.",
+    "shortExampleEn": "Who's going to look after the kids tonight?",
+    "shortExampleKo": "오늘 밤에 누가 아이들을 돌볼 거야?"
+  }
+}

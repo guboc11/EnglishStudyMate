@@ -1,0 +1,30 @@
+{
+  "id": "overcome-adversity_9655f55a",
+  "expression": "overcome adversity",
+  "selectionMeta": {
+    "selectedPhrase": "overcome adversity",
+    "selectedSenseLabelKo": "역경을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite losing her job and her savings, Maria found the strength to overcome adversity and build a new career from scratch."
+  },
+  "step2": {
+    "story": "After a devastating earthquake destroyed his family's restaurant, Jun felt like giving up entirely. But watching his elderly mother quietly sweep the rubble each morning inspired him to overcome adversity. Within a year, they reopened in a smaller space that somehow felt even more like home.",
+    "topicTag": "resilience",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Soyeon was diagnosed with a rare illness at twenty-three, her dreams of becoming a concert pianist seemed impossible. Months of treatment left her fingers stiff and unresponsive. She spent countless nights staring at the silent keys of her piano, wondering if she would ever play again. A former teacher visited one afternoon and placed a simple melody in front of her, note by note, they worked through it together. That small act of patience reminded Soyeon that to overcome adversity, you don't need to leap — you just need to take the next step. Six months later, she performed at a local hall, and the audience had no idea how far she had come.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "역경(adversity)을 이겨내다(overcome)라는 뜻으로, 어려운 상황이나 고난을 극복한다는 의미입니다.",
+    "realUsageKo": "심각한 어려움이나 불행한 상황을 견디고 이겨냈을 때 사용합니다. 단순한 불편이 아니라, 인생을 뒤흔드는 수준의 시련을 극복했다는 뉘앙스가 강합니다.",
+    "etymologyKo": "overcome은 고대 영어 ofercuman(정복하다)에서, adversity는 라틴어 adversitas(반대, 불운)에서 유래했습니다. 두 단어의 조합은 '불운에 맞서 이겨내다'라는 의미를 형성합니다.",
+    "nuanceKo": "격식 있고 진지한 톤으로 쓰이며, 연설, 자기소개서, 감동적인 이야기에서 자주 등장합니다. 일상 대화보다는 글이나 공식적인 자리에서 더 자연스럽습니다.",
+    "shortExampleEn": "She overcame adversity to become the first in her family to graduate from college.",
+    "shortExampleKo": "그녀는 역경을 극복하고 가족 중 처음으로 대학을 졸업했다."
+  }
+}

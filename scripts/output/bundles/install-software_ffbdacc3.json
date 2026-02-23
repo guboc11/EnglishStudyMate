@@ -1,0 +1,30 @@
+{
+  "id": "install-software_ffbdacc3",
+  "expression": "install software",
+  "selectionMeta": {
+    "selectedPhrase": "install software",
+    "selectedSenseLabelKo": "소프트웨어를 설치하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "Before you can start editing photos, you need to install software like Photoshop on your computer."
+  },
+  "step2": {
+    "story": "Jake just bought a new laptop for his freelance design work. He spent the entire evening trying to install software he needed, from graphic editors to project management tools. By midnight, everything was set up and he felt ready to take on his first client.",
+    "topicTag": "new beginnings",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Mia had been putting off upgrading her old desktop for months, but when it finally crashed during an important video call, she knew it was time. She ordered a new machine online and it arrived within two days. The first thing she did was install software for her remote work — a video conferencing app, a cloud storage client, and her company's security suite. Each installation went smoothly until she hit a compatibility error with the security suite. After searching online forums for twenty minutes, she found a workaround and completed the setup. She leaned back in her chair, relieved that her new workspace was finally ready.",
+    "topicTag": "remote work setup",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "소프트웨어를 설치하다 — 컴퓨터나 기기에 프로그램을 넣어 사용할 수 있게 만드는 것을 뜻합니다.",
+    "realUsageKo": "일상에서 앱이나 프로그램을 다운로드하고 셋업하는 과정 전체를 가리킬 때 씁니다. 'install an app'처럼 app과도 자주 쓰입니다.",
+    "etymologyKo": "install은 라틴어 installare(자리에 놓다)에서 유래했고, software는 hardware의 반대 개념으로 1960년대에 만들어진 단어입니다.",
+    "nuanceKo": "격식·비격식 모두 자연스러운 중립적 표현입니다. 기술 문서에서도, 친구 간 대화에서도 똑같이 쓸 수 있습니다.",
+    "shortExampleEn": "I need to install software updates before the meeting starts.",
+    "shortExampleKo": "회의 시작 전에 소프트웨어 업데이트를 설치해야 해요."
+  }
+}

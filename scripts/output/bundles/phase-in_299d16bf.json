@@ -1,0 +1,30 @@
+{
+  "id": "phase-in_299d16bf",
+  "expression": "phase in",
+  "selectionMeta": {
+    "selectedPhrase": "phase in",
+    "selectedSenseLabelKo": "단계적으로 도입하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company decided to phase in the new remote work policy over a three-month period to give everyone time to adjust."
+  },
+  "step2": {
+    "story": "After years of using paper records, the hospital announced it would phase in a digital system department by department. The nurses were relieved they wouldn't have to learn everything overnight. By the end of the quarter, every floor had smoothly transitioned to electronic charts.",
+    "topicTag": "workplace transition",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "When the city council voted to phase in a new recycling program, residents had mixed reactions. The first month covered only plastic bottles, which felt manageable. By the second month, glass and aluminum were added to the collection schedule. Some neighbors grumbled about sorting their trash, but the local waste coordinator held weekend workshops to help everyone adapt. By spring, participation had doubled, and the landfill reported a thirty-percent drop in volume. The gradual rollout proved that phasing in change, rather than forcing it all at once, made the whole community more willing to cooperate.",
+    "topicTag": "community initiative",
+    "moodTag": "optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'단계(phase) 안으로(in)' 즉, 여러 단계를 거쳐 서서히 도입한다는 뜻입니다.",
+    "realUsageKo": "새로운 정책, 시스템, 규정 등을 한꺼번에 시행하지 않고 점진적으로 도입할 때 사용합니다. 주로 비즈니스, 정부 정책, 기술 도입 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'phase'는 그리스어 'phasis(출현, 단계)'에서 유래했으며, 'phase in'은 20세기 중반부터 단계적 도입이라는 의미로 쓰이기 시작했습니다.",
+    "nuanceKo": "급격한 변화를 피하고 신중하게 진행한다는 긍정적 뉘앙스가 있습니다. 반대말인 'phase out(단계적으로 폐지하다)'과 짝을 이루어 자주 사용됩니다.",
+    "shortExampleEn": "The government will phase in the new tax rules starting next year.",
+    "shortExampleKo": "정부는 내년부터 새로운 세금 규정을 단계적으로 도입할 예정이다."
+  }
+}

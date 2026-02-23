@@ -1,0 +1,30 @@
+{
+  "id": "in-the-red_21b25103",
+  "expression": "in the red",
+  "selectionMeta": {
+    "selectedPhrase": "in the red",
+    "selectedSenseLabelKo": "적자인",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of slow sales, the company found itself deep in the red."
+  },
+  "step2": {
+    "story": "Marcus stared at the quarterly report and sighed. His restaurant had been in the red for three straight months, and the landlord was already asking about next month's rent. He knew it was time to rethink the menu and cut costs before things got worse.",
+    "topicTag": "financial struggle",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "When Jina took over her family's bookstore, she discovered the business had been in the red for over a year. The shelves were dusty, foot traffic had dried up, and the accounting ledger told a grim story. Rather than giving up, she turned part of the shop into a cozy café and started hosting weekend reading events. Slowly, curious neighbors wandered in for coffee and stayed to browse. Within six months, the bookstore was finally breaking even. Jina smiled at the ledger for the first time — no longer in the red, and heading toward something brighter.",
+    "topicTag": "business turnaround",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'빨간색 안에 있다'라는 뜻으로, 회계장부에서 손실을 빨간 잉크로 기록한 데서 유래했습니다.",
+    "realUsageKo": "회사나 개인이 수입보다 지출이 많아 적자 상태에 있을 때 사용합니다. 재정적으로 마이너스인 상황을 가리킵니다.",
+    "etymologyKo": "과거 회계사들이 이익은 검은 잉크로, 손실은 빨간 잉크로 장부에 기입하던 관행에서 비롯된 표현입니다.",
+    "nuanceKo": "공식적·비공식적 상황 모두에서 쓰이며, 반대 표현은 'in the black(흑자인)'입니다. 심각한 재정난보다는 객관적 상태 묘사에 가깝습니다.",
+    "shortExampleEn": "We've been in the red since last quarter, so we need to boost revenue fast.",
+    "shortExampleKo": "지난 분기부터 적자라서 빨리 매출을 올려야 해요."
+  }
+}

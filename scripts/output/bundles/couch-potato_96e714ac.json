@@ -1,0 +1,30 @@
+{
+  "id": "couch-potato_96e714ac",
+  "expression": "couch potato",
+  "selectionMeta": {
+    "selectedPhrase": "couch potato",
+    "selectedSenseLabelKo": "소파에 앉아 TV만 보는 사람",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My brother has become a real couch potato since he started working from home."
+  },
+  "step2": {
+    "story": "Jake used to be the most active person in the office, always organizing weekend hikes. But after switching to remote work, he turned into a total couch potato, binge-watching shows all day. His friends finally dragged him outside for a walk, and he realized how much he missed the fresh air.",
+    "topicTag": "lifestyle change",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Sarah looked at her fitness tracker and sighed — only 200 steps for the entire day. Ever since she got laid off two months ago, she had become a complete couch potato. The living room couch had a permanent dent shaped exactly like her. Her roommate, Mina, walked in holding two pairs of sneakers. \"We're going for a run. No excuses,\" Mina said firmly. Sarah groaned but laced up her shoes anyway. By the end of the first kilometer, she was out of breath but smiling for the first time in weeks.",
+    "topicTag": "friendship and motivation",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "소파 위의 감자, 즉 소파에 붙어서 꼼짝도 않는 사람을 뜻합니다.",
+    "realUsageKo": "운동이나 활동 없이 TV나 스마트폰만 보며 하루를 보내는 게으른 사람을 가리킬 때 씁니다. 가벼운 놀림이나 자기 비하로도 자주 사용됩니다.",
+    "etymologyKo": "1976년 미국의 톰 이아치노가 TV를 과하게 시청하는 사람들을 풍자하기 위해 만든 표현입니다. 소파에 앉아 감자칩을 먹으며 TV를 보는 모습에서 유래했습니다.",
+    "nuanceKo": "심각한 비난보다는 유머러스한 톤으로 쓰이는 경우가 많습니다. 자신을 couch potato라고 부르며 웃어넘기기도 합니다.",
+    "shortExampleEn": "Stop being a couch potato and go outside!",
+    "shortExampleKo": "소파에만 붙어 있지 말고 나가서 좀 움직여!"
+  }
+}

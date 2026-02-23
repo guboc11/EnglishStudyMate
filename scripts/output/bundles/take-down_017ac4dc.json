@@ -1,0 +1,30 @@
+{
+  "id": "take-down_017ac4dc",
+  "expression": "take down",
+  "selectionMeta": {
+    "selectedPhrase": "take down",
+    "selectedSenseLabelKo": "적다 / 해체하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me take down your phone number before you leave."
+  },
+  "step2": {
+    "story": "During the meeting, Sarah quickly took down the key points on her notepad. After the session ended, the facilities team began to take down the old projector screen that had been hanging for years. It was a day of clearing out the old and recording the new.",
+    "topicTag": "workplace organization",
+    "moodTag": "productive"
+  },
+  "step3": {
+    "story": "The journalist arrived at the press conference with a fresh notebook and a sharp pen. As the mayor spoke about the new housing policy, she carefully took down every detail, knowing her editor would want exact quotes. After the event, she noticed workers outside starting to take down the scaffolding around the renovated city hall. The building looked stunning without it. She jotted one last note to herself: 'City hall renovation complete — scaffolding removed today.' It was the kind of day where everything felt like it was falling into place.",
+    "topicTag": "journalism",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "'아래로 가져가다'라는 뜻으로, 위에서 아래로 내리거나 기록하는 동작을 나타냅니다.",
+    "realUsageKo": "크게 두 가지로 쓰입니다. 첫째, 메모하다/적다(write down)의 의미로 정보를 기록할 때 사용합니다. 둘째, 해체하다/철거하다의 의미로 설치된 구조물을 분해하거나 내릴 때 사용합니다.",
+    "etymologyKo": "take(가져가다)와 down(아래로)의 결합으로, 높은 곳에서 아래로 내리는 물리적 동작에서 유래했습니다. 이후 말이나 정보를 '끌어내려' 종이에 옮긴다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "적다의 의미로 쓸 때는 write down보다 약간 더 격식 있고 빠르게 기록하는 뉘앙스가 있습니다. 해체하다의 의미로 쓸 때는 dismantle보다 일상적이고 가벼운 느낌입니다.",
+    "shortExampleEn": "Could you take down the decorations after the party?",
+    "shortExampleKo": "파티 끝나고 장식들 좀 내려줄 수 있어?"
+  }
+}

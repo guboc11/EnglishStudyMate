@@ -1,0 +1,30 @@
+{
+  "id": "come-over_70642d38",
+  "expression": "come over",
+  "selectionMeta": {
+    "selectedPhrase": "come over",
+    "selectedSenseLabelKo": "방문하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Do you want to come over for dinner on Friday?"
+  },
+  "step2": {
+    "story": "Sara hadn't seen her best friend in weeks. She texted her: 'Why don't you come over this weekend?' They ended up staying up late, talking and laughing just like old times.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Jake had been feeling lonely ever since he moved to a new city. One evening, his coworker Mia noticed he seemed down and said, 'Hey, a few of us are hanging out tonight — you should come over.' Jake hesitated at first, unsure if he'd fit in. But when he arrived, everyone welcomed him warmly. By the end of the night, he realized that sometimes all it takes is someone reaching out to make a new place feel like home.",
+    "topicTag": "new beginnings",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적으로 이쪽으로 건너오다, 즉 상대방이 있는 곳으로 이동하다.",
+    "realUsageKo": "주로 친구나 지인을 자신의 집으로 초대하거나, 누군가가 자신의 공간을 방문하도록 요청할 때 일상적으로 사용합니다.",
+    "etymologyKo": "'come'(오다)과 방향·이동을 나타내는 부사 'over'(건너서)가 결합된 구동사로, 물리적 이동의 개념에서 비롯되었습니다.",
+    "nuanceKo": "격식 없는 친근한 표현으로, 가까운 사이에서 자연스럽게 쓰입니다. 단순한 'visit'보다 더 캐주얼하고 편안한 뉘앙스가 있습니다.",
+    "shortExampleEn": "You should come over sometime — I just got a new couch.",
+    "shortExampleKo": "언제 한번 와 — 소파를 새로 샀거든."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a-dark-horse_f7c94f4a",
+  "expression": "a dark horse",
+  "selectionMeta": {
+    "selectedPhrase": "a dark horse",
+    "selectedSenseLabelKo": "다크호스",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Nobody expected her to win the competition — she was a real dark horse."
+  },
+  "step2": {
+    "story": "The annual sales competition had the usual top performers leading the pack. But in the final week, a quiet analyst from the regional office surged ahead and took the prize. Everyone was stunned — she had been a dark horse all along.",
+    "topicTag": "workplace competition",
+    "moodTag": "surprising"
+  },
+  "step3": {
+    "story": "Marcus had been running for student council president for weeks, putting up posters and giving passionate speeches. He was sure he had it in the bag. Then on election day, a transfer student named Jia, who had barely spoken in class, won by a landslide. Nobody had seen it coming. Jia turned out to be a dark horse who had quietly built connections by helping classmates one-on-one with their struggles. Marcus learned that day that leadership isn't always loud — sometimes the quietest people make the biggest impact.",
+    "topicTag": "school election",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '어두운 말'로, 정체를 알 수 없는 경주마를 뜻합니다.",
+    "realUsageKo": "예상 밖의 강자나 숨겨진 실력자를 가리킬 때 사용합니다. 대회, 선거, 경쟁 상황에서 주목받지 못하다가 놀라운 성과를 내는 사람을 표현합니다.",
+    "etymologyKo": "19세기 영국 경마에서 유래했습니다. 벤저민 디즈레일리의 소설 'The Young Duke'(1831)에서 아무도 모르는 말이 경주에서 이기는 장면에 처음 등장했습니다.",
+    "nuanceKo": "대체로 긍정적인 뉘앙스로, 숨은 실력자에 대한 놀라움과 감탄을 담고 있습니다. 한국어의 '다크호스'와 거의 같은 느낌으로 쓰입니다.",
+    "shortExampleEn": "The new intern turned out to be a dark horse in the coding challenge.",
+    "shortExampleKo": "그 신입 인턴이 코딩 챌린지에서 다크호스로 떠올랐다."
+  }
+}

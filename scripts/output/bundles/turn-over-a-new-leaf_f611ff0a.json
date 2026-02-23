@@ -1,0 +1,30 @@
+{
+  "id": "turn-over-a-new-leaf_f611ff0a",
+  "expression": "turn over a new leaf",
+  "selectionMeta": {
+    "selectedPhrase": "turn over a new leaf",
+    "selectedSenseLabelKo": "새출발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of unhealthy habits, she decided to turn over a new leaf and start exercising every morning."
+  },
+  "step2": {
+    "story": "Mark had been showing up late to work for months, and his boss finally gave him a warning. That night, he set three alarms and promised himself he would turn over a new leaf. The next morning, he arrived fifteen minutes early with coffee for the whole team.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For the past two years, Jenna had let her friendships fade while she buried herself in work. Missed birthdays, ignored messages, and canceled plans had become her routine. One evening, she stumbled across an old photo of her college friends laughing together, and something inside her shifted. She picked up her phone and called her best friend for the first time in six months. \"I know I've been terrible,\" she said, \"but I want to turn over a new leaf.\" That weekend, she organized a small dinner, and as everyone gathered around the table, she realized it was never too late to start again.",
+    "topicTag": "friendship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '새 잎을 뒤집다'로, 책의 새 페이지를 넘긴다는 뜻입니다.",
+    "realUsageKo": "과거의 나쁜 습관이나 행동을 버리고 새롭게 시작한다는 의미로 사용됩니다. 주로 결심이나 변화의 순간에 씁니다.",
+    "etymologyKo": "여기서 'leaf'는 나뭇잎이 아니라 책의 한 페이지를 뜻합니다. 16세기부터 사용된 표현으로, 책의 빈 페이지를 넘겨 새로 쓴다는 데서 유래했습니다.",
+    "nuanceKo": "진지한 결심이나 반성의 뉘앙스가 담겨 있어, 가벼운 변화보다는 의미 있는 전환점에 주로 사용됩니다.",
+    "shortExampleEn": "New Year is the perfect time to turn over a new leaf.",
+    "shortExampleKo": "새해는 새출발하기에 완벽한 시기입니다."
+  }
+}

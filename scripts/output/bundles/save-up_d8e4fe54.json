@@ -1,0 +1,30 @@
+{
+  "id": "save-up_d8e4fe54",
+  "expression": "save up",
+  "selectionMeta": {
+    "selectedPhrase": "save up",
+    "selectedSenseLabelKo": "저축하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to save up enough money before I can buy a new laptop."
+  },
+  "step2": {
+    "story": "Mina wanted a bicycle more than anything, so she started saving up her allowance every week. After three months of skipping snacks and putting coins in her jar, she finally had enough. The ride home on her brand-new bike felt like the best reward in the world.",
+    "topicTag": "personal goals",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jaeho had always dreamed of traveling to Iceland, but the trip seemed impossibly expensive on his junior designer salary. He decided to save up by cutting out his daily café lattes and cooking at home instead of ordering delivery. Every Friday, he transferred whatever was left in his checking account into a separate savings fund. His coworkers teased him for bringing homemade kimbap to lunch every day, but he didn't mind. Ten months later, he booked a round-trip ticket to Reykjavik and stood under the northern lights, knowing every small sacrifice had been worth it.",
+    "topicTag": "travel dreams",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'save'(저장하다)와 'up'(위로, 쌓아 올려)이 결합하여 돈을 차곡차곡 모아 올린다는 뜻입니다.",
+    "realUsageKo": "특정 목적을 위해 돈을 조금씩 모으는 상황에서 사용합니다. 단순히 저축한다는 뜻보다는 '무언가를 사거나 하기 위해 돈을 모은다'는 목표 지향적 뉘앙스가 강합니다.",
+    "etymologyKo": "'save'는 라틴어 'salvare'(구하다, 보존하다)에서 유래했고, 'up'은 축적·완료의 의미를 더하는 부사입니다. 돈을 안전하게 쌓아둔다는 이미지에서 비롯되었습니다.",
+    "nuanceKo": "일상적이고 친근한 표현으로, 격식 없는 대화에서 자주 쓰입니다. 'save money'보다 구체적인 목표가 있을 때 자연스럽습니다.",
+    "shortExampleEn": "She's been saving up for a new car since last year.",
+    "shortExampleKo": "그녀는 작년부터 새 차를 사려고 돈을 모으고 있다."
+  }
+}

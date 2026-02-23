@@ -1,0 +1,30 @@
+{
+  "id": "call-upon_faedbc57",
+  "expression": "call upon",
+  "selectionMeta": {
+    "selectedPhrase": "call upon",
+    "selectedSenseLabelKo": "요청하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The mayor decided to call upon local volunteers to help clean up the park after the storm."
+  },
+  "step2": {
+    "story": "When the project deadline was moved up by two weeks, the team leader had to call upon every available developer for extra support. People stayed late, collaborated across departments, and somehow pulled it off. It reminded everyone how powerful teamwork can be when you call upon the right people.",
+    "topicTag": "teamwork",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sarah had been running the community kitchen alone for months, but the growing number of families needing meals was becoming overwhelming. One evening, exhausted and unsure how to continue, she decided to call upon her neighbors for help. She posted a heartfelt message on the local community board, explaining the situation honestly. To her surprise, over thirty people showed up the very next morning, ready to cook, organize, and deliver food. An elderly man who used to be a chef even offered to train new volunteers. Sometimes all it takes is the courage to call upon those around you to discover how generous people can be.",
+    "topicTag": "community support",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "'call upon'은 직역하면 '~에게 부르다/호소하다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 누군가에게 도움, 지원, 또는 특정 행동을 공식적으로 요청할 때 사용합니다. 'ask'보다 격식 있고 진지한 느낌을 줍니다.",
+    "etymologyKo": "'call'(부르다)과 'upon'(~위에) 의 결합으로, 중세 영어에서 공식적으로 누군가를 호명하여 역할을 맡기는 데서 유래했습니다.",
+    "nuanceKo": "격식체에서 자주 쓰이며, 단순한 부탁보다는 책임감이나 의무감이 수반되는 요청의 뉘앙스가 있습니다. 연설이나 공식 석상에서 특히 많이 사용됩니다.",
+    "shortExampleEn": "We call upon all citizens to participate in the recycling program.",
+    "shortExampleKo": "우리는 모든 시민에게 재활용 프로그램에 참여해 줄 것을 요청합니다."
+  }
+}

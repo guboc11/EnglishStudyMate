@@ -1,0 +1,30 @@
+{
+  "id": "stick-around_39d5fe24",
+  "expression": "stick around",
+  "selectionMeta": {
+    "selectedPhrase": "stick around",
+    "selectedSenseLabelKo": "남아있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Why don't you stick around after the meeting? I'd like to discuss something with you."
+  },
+  "step2": {
+    "story": "The conference was wrapping up, and most people were heading for the exits. But Sarah decided to stick around because the keynote speaker had mentioned a networking session afterward. That decision led to a conversation that changed her career.",
+    "topicTag": "career opportunity",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jake had been thinking about leaving the small startup for months. The pay was modest, the hours were long, and bigger companies kept calling. But his mentor told him to stick around a little longer because things were about to change. Three weeks later, the company landed its biggest contract ever. Jake got promoted to lead engineer, and suddenly all those late nights felt worth it. He was glad he had trusted his mentor's advice and stayed.",
+    "topicTag": "patience and perseverance",
+    "moodTag": "rewarding"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '주변에 붙어 있다'라는 뜻으로, 어딘가에 계속 머물러 있는 모습을 나타냅니다.",
+    "realUsageKo": "실제로는 '(떠나지 않고) 남아있다, 기다리다'라는 의미로 사용됩니다. 특히 다른 사람들이 떠날 때 자리를 지키거나, 조금 더 기다려달라고 요청할 때 자주 씁니다.",
+    "etymologyKo": "'stick'은 '붙다, 달라붙다'에서 온 표현이고, 'around'는 '주변에'라는 뜻으로, 합쳐서 '주변에 붙어서 떠나지 않다'라는 이미지에서 유래했습니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 주로 쓰이며, 부드러운 부탁이나 권유의 느낌을 줍니다. 'stay'보다 캐주얼하고 친근한 뉘앙스입니다.",
+    "shortExampleEn": "Stick around — the best part of the show is coming up next.",
+    "shortExampleKo": "남아있어 — 쇼의 가장 좋은 부분이 곧 시작돼."
+  }
+}

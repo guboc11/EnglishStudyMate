@@ -1,0 +1,30 @@
+{
+  "id": "kick-the-bucket_cfc2e19b",
+  "expression": "kick the bucket",
+  "selectionMeta": {
+    "selectedPhrase": "kick the bucket",
+    "selectedSenseLabelKo": "죽다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Old Mr. Henderson finally kicked the bucket last Tuesday after battling illness for years."
+  },
+  "step2": {
+    "story": "The whole neighborhood gathered when they heard that Mr. Patterson had kicked the bucket. He was 97 and had lived a full life, so people shared funny stories about him rather than crying. His granddaughter laughed through her tears, saying he would have hated a sad funeral.",
+    "topicTag": "loss and remembrance",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "Frank had always joked that he would kick the bucket doing something exciting, not lying in a hospital bed. So when the doctors gave him three months to live, he made a bucket list — ironic, he thought. He skydived in New Zealand, ate street food in Bangkok, and danced the tango in Buenos Aires. His kids worried sick, but Frank said he'd rather wear out than rust out. On his last night in Paris, he sat by the Seine with a glass of wine and smiled. If he was going to kick the bucket, at least he'd done it on his own terms.",
+    "topicTag": "living fully",
+    "moodTag": "defiant and warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '양동이를 차다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '죽다'라는 의미로 사용되며, 격식 없는 상황에서 죽음을 가볍게 또는 유머러스하게 표현할 때 쓰입니다. 진지한 애도 상황에서는 부적절할 수 있습니다.",
+    "etymologyKo": "어원에 대해서는 여러 설이 있는데, 가장 유력한 설은 교수형 당시 사형수가 양동이 위에 서서 밧줄에 목을 맨 뒤 양동이를 발로 차면 숨이 끊어지는 데서 유래했다는 것입니다.",
+    "nuanceKo": "비격식적이고 다소 유머러스한 어감이 있어, 누군가의 죽음을 진지하게 이야기할 때는 쓰지 않습니다. 농담이나 가벼운 대화에서 주로 사용됩니다.",
+    "shortExampleEn": "He joked that he'd kick the bucket before ever retiring.",
+    "shortExampleKo": "그는 은퇴하기 전에 죽을 거라고 농담했다."
+  }
+}

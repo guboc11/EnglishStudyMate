@@ -1,0 +1,30 @@
+{
+  "id": "take-away_69e932dd",
+  "expression": "take away",
+  "selectionMeta": {
+    "selectedPhrase": "take away",
+    "selectedSenseLabelKo": "빼앗다 / 가져가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new policy will take away employees' ability to work from home."
+  },
+  "step2": {
+    "story": "When the school announced budget cuts, they decided to take away the art program. Students were devastated because painting class was their favorite part of the week. Parents organized a petition to reverse the decision.",
+    "topicTag": "education",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Maya had spent years building her small coffee shop into a beloved neighborhood spot. One morning, she received a letter from the city council saying they planned to take away her business license due to a zoning change. She felt the ground shift beneath her feet. The regulars who came every day rallied behind her, writing letters and attending public hearings. After weeks of fighting, the council reversed their decision. Nobody could take away what the community had built together.",
+    "topicTag": "community resilience",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'take(가져가다) + away(떨어져서)' → 무언가를 가지고 떠나다, 즉 빼앗다.",
+    "realUsageKo": "누군가에게서 권리, 물건, 기회 등을 제거하거나 빼앗을 때 사용합니다. 'They took away his phone(그들이 그의 폰을 빼앗았다)'처럼 구체적 물건부터 자유, 권리 같은 추상적 개념까지 폭넓게 쓰입니다.",
+    "etymologyKo": "고대 영어 'tacan(잡다)'과 'aweg(떨어져서)'의 결합으로, 중세 영어부터 '제거하다, 빼앗다'의 의미로 널리 사용되었습니다.",
+    "nuanceKo": "단순히 가져가는 것이 아니라 상대방의 의지와 관계없이 제거한다는 뉘앙스가 있어, 부정적인 맥락에서 자주 쓰입니다. 'remove'보다 감정적 무게감이 큽니다.",
+    "shortExampleEn": "You can't take away someone's right to speak.",
+    "shortExampleKo": "누군가의 발언권을 빼앗을 수는 없다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "zone-out_5dd0ae47",
+  "expression": "zone out",
+  "selectionMeta": {
+    "selectedPhrase": "zone out",
+    "selectedSenseLabelKo": "멍하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I completely zoned out during the meeting and missed everything the manager said."
+  },
+  "step2": {
+    "story": "After working for ten hours straight, Jake stared at his computer screen and started to zone out. His coworker snapped her fingers in front of his face and laughed. 'You've been staring at the same line of code for five minutes,' she said.",
+    "topicTag": "work fatigue",
+    "moodTag": "exhausted"
+  },
+  "step3": {
+    "story": "It was the last class of the day, and the professor's voice had become a steady hum in the background. Mina tried to focus on the lecture, but her eyes kept drifting to the window where the autumn leaves were swirling in the wind. Before she knew it, she had completely zoned out, lost in a daydream about the weekend trip she was planning. The student next to her nudged her elbow and whispered, 'She just called your name.' Mina blinked, her cheeks turning red as she scrambled to find the right page in her textbook. From that day on, she made sure to sit in the front row so she wouldn't zone out again.",
+    "topicTag": "student life",
+    "moodTag": "dreamy"
+  },
+  "meaning": {
+    "literalMeaningKo": "'zone(구역)'에서 'out(밖으로 나가다)'하는 것, 즉 의식이 현재 상황에서 빠져나간다는 뜻입니다.",
+    "realUsageKo": "집중력을 잃고 멍하게 있는 상태를 말합니다. 피곤하거나 지루할 때 '아무 생각 없이 멍 때리다'라는 의미로 일상에서 자주 쓰입니다.",
+    "etymologyKo": "1980년대 미국 구어에서 유래했으며, 'zone'은 특정 의식 상태를 뜻하고 'out'이 붙어 그 상태에서 이탈한다는 의미가 되었습니다.",
+    "nuanceKo": "부정적이기보다는 가벼운 뉘앙스로 쓰이며, 의도적으로 무시하는 것이 아니라 자연스럽게 집중이 흐트러진 상태를 표현합니다. 격식체보다는 일상 대화에서 주로 사용됩니다.",
+    "shortExampleEn": "Sorry, I zoned out for a second — what did you say?",
+    "shortExampleKo": "미안, 잠깐 멍했어 — 뭐라고 했어?"
+  }
+}

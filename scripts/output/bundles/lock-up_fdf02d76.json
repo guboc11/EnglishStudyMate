@@ -1,0 +1,30 @@
+{
+  "id": "lock-up_fdf02d76",
+  "expression": "lock up",
+  "selectionMeta": {
+    "selectedPhrase": "lock up",
+    "selectedSenseLabelKo": "잠그다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't forget to lock up the office before you leave tonight."
+  },
+  "step2": {
+    "story": "Sarah was the last one to leave the office on Friday evening. She carefully locked up every door and window, double-checking the back entrance. As she walked to her car, she felt relieved knowing everything was secure for the weekend.",
+    "topicTag": "responsibility",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "After a long shift at the family bakery, Jimin started his closing routine. He wiped down the counters, turned off the ovens, and placed the leftover bread in the display case for tomorrow's early customers. His father had always told him that the most important part of running a business was knowing how to lock up properly at the end of the day. Jimin pulled the metal shutters down, secured the padlock, and tested the handle twice. Walking home through the quiet streets, he felt a quiet pride in being trusted with this simple but important task. Tomorrow, he would be back at dawn to open everything up again.",
+    "topicTag": "daily routine",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자물쇠(lock)로 위(up)를 잠근다는 뜻으로, 문이나 건물을 완전히 잠그는 것을 의미합니다.",
+    "realUsageKo": "건물, 집, 사무실 등을 나갈 때 문을 잠그는 상황에서 주로 사용합니다. 'lock the door'보다 건물 전체를 닫고 잠근다는 포괄적인 느낌이 강합니다.",
+    "etymologyKo": "'lock'은 고대 영어 'loc'(빗장, 자물쇠)에서 유래했고, 'up'은 동작의 완료를 강조하는 부사로 쓰여 '완전히 잠그다'라는 의미가 되었습니다.",
+    "nuanceKo": "일상적이고 캐주얼한 표현으로, 퇴근 시 사무실을 잠그거나 외출 전 집을 잠글 때 자연스럽게 씁니다. 격식 없는 구어체에서 많이 쓰입니다.",
+    "shortExampleEn": "Make sure you lock up when you're done.",
+    "shortExampleKo": "다 끝나면 꼭 문 잠가."
+  }
+}

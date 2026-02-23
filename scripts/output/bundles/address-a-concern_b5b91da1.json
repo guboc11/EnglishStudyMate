@@ -1,0 +1,30 @@
+{
+  "id": "address-a-concern_b5b91da1",
+  "expression": "address a concern",
+  "selectionMeta": {
+    "selectedPhrase": "address a concern",
+    "selectedSenseLabelKo": "우려를 다루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The project manager called a meeting to address a concern about the upcoming deadline."
+  },
+  "step2": {
+    "story": "During the quarterly review, several team members raised questions about budget cuts. The director paused the presentation to address a concern that layoffs might follow. Her honest response calmed the room and restored trust.",
+    "topicTag": "workplace communication",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "Mina had been losing sleep over the new school policy that shortened recess for younger students. She decided to attend the parent-teacher meeting and speak up. When the principal opened the floor for questions, Mina stood and asked to address a concern shared by many parents. She explained that children needed unstructured play for healthy development. The principal listened carefully and promised to review the policy with the school board. Walking out of the meeting, Mina felt relieved that her voice had been heard.",
+    "topicTag": "parenting and education",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'concern(우려, 걱정)'을 'address(다루다, 언급하다)'한다는 뜻으로, 걱정거리를 직접 꺼내어 논의하거나 해결하려는 행위를 말합니다.",
+    "realUsageKo": "회의, 이메일, 공식 대화 등에서 문제나 걱정을 공식적으로 제기하고 대응할 때 사용합니다. 단순히 '걱정하다'가 아니라, 적극적으로 해결하려는 태도를 내포합니다.",
+    "etymologyKo": "'address'는 라틴어 'directiare(방향을 맞추다)'에서 유래했으며, 어떤 대상을 향해 주의를 기울인다는 뜻이 발전하여 '문제를 다루다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "격식 있고 전문적인 톤을 가진 표현으로, 일상 대화보다는 비즈니스, 학교, 공공 장소에서 많이 쓰입니다. 문제를 회피하지 않고 정면으로 마주한다는 뉘앙스가 있습니다.",
+    "shortExampleEn": "I'd like to address a concern before we move forward with the plan.",
+    "shortExampleKo": "계획을 진행하기 전에 한 가지 우려 사항을 짚고 넘어가고 싶습니다."
+  }
+}

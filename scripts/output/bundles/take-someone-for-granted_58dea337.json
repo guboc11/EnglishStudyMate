@@ -1,0 +1,30 @@
+{
+  "id": "take-someone-for-granted_58dea337",
+  "expression": "take someone for granted",
+  "selectionMeta": {
+    "selectedPhrase": "take someone for granted",
+    "selectedSenseLabelKo": "당연하게 여기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of marriage, he realized he had been taking his wife for granted and decided to show more appreciation."
+  },
+  "step2": {
+    "story": "Emma worked overtime every week to keep the household running smoothly, but her family never once thanked her. One evening, she left for a weekend trip alone, and suddenly everyone realized how much they had been taking her for granted. When she returned, the house was filled with handwritten thank-you notes.",
+    "topicTag": "family appreciation",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Jason had the best assistant in the entire company. Clara organized his schedule, prepared his presentations, and even remembered his coffee order down to the exact temperature. But Jason never said thank you — not once in three years. When Clara handed in her resignation letter, Jason felt the ground shift beneath him. He scrambled to find a replacement, but no one came close. It was only after she left that he truly understood he had been taking her for granted all along, and by then, it was too late to make things right.",
+    "topicTag": "workplace relationships",
+    "moodTag": "regretful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 '당연한 것'으로 받아들이다, 즉 그 사람의 존재나 노력을 특별하지 않은 것처럼 여기다.",
+    "realUsageKo": "누군가의 도움, 사랑, 노력 등을 너무 익숙하게 느껴서 감사함을 표현하지 않거나 소홀히 대할 때 사용합니다. 주로 가까운 관계(가족, 연인, 친구)에서 뒤늦게 깨달을 때 쓰입니다.",
+    "etymologyKo": "'grant'는 '승인하다, 인정하다'라는 뜻으로, 'take for granted'는 원래 '사실로 인정하고 넘어가다'라는 의미에서 출발해 '너무 당연하게 여겨 감사를 잊다'는 뜻으로 확장되었습니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강하며, 보통 반성이나 후회의 맥락에서 사용됩니다. 상대방에게 직접 'You take me for granted'라고 말하면 서운함이나 불만을 표현하는 것입니다.",
+    "shortExampleEn": "Don't take your parents for granted — they won't be around forever.",
+    "shortExampleKo": "부모님을 당연하게 여기지 마세요 — 영원히 곁에 계시는 건 아니니까요."
+  }
+}

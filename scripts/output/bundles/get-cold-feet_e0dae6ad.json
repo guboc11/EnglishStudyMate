@@ -1,0 +1,30 @@
+{
+  "id": "get-cold-feet_e0dae6ad",
+  "expression": "get cold feet",
+  "selectionMeta": {
+    "selectedPhrase": "get cold feet",
+    "selectedSenseLabelKo": "두려워지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was about to accept the job offer abroad, but she got cold feet at the last minute."
+  },
+  "step2": {
+    "story": "David had been planning his skydiving trip for months and couldn't stop talking about it. But standing at the open door of the airplane, he got cold feet and couldn't jump. His instructor smiled and said it happens to almost everyone on their first time.",
+    "topicTag": "adventure",
+    "moodTag": "nervous"
+  },
+  "step3": {
+    "story": "Maria and James had been dating for five years, and everyone expected them to get married. When James finally proposed, Maria said yes without hesitation. They booked the venue, sent out invitations, and picked out their outfits. But the night before the wedding, Maria got cold feet and called her sister in tears. She wasn't sure if she was ready for such a big commitment. After a long heart-to-heart conversation, she realized her fear was normal and walked down the aisle the next morning with a genuine smile.",
+    "topicTag": "relationships",
+    "moodTag": "anxious but hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '차가운 발을 얻다'라는 뜻입니다.",
+    "realUsageKo": "중요한 일을 앞두고 갑자기 두려움이나 불안감이 생겨서 망설이거나 포기하려 할 때 사용합니다. '겁이 나다', '두려워지다'와 비슷한 의미입니다.",
+    "etymologyKo": "17세기 이탈리아 소설에서 유래한 표현으로, 군인들이 전투 전 긴장으로 발이 차가워지는 신체 반응에서 비롯되었다고 알려져 있습니다.",
+    "nuanceKo": "주로 결혼, 이직, 큰 결정 등 중요한 순간에 쓰이며, 단순한 두려움보다는 '이미 결심했는데 막상 하려니 겁이 나는' 뉘앙스가 강합니다.",
+    "shortExampleEn": "I was going to ask for a raise, but I got cold feet.",
+    "shortExampleKo": "월급 인상을 요청하려 했는데, 막상 하려니 겁이 났어요."
+  }
+}

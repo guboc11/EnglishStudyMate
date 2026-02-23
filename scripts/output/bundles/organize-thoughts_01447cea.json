@@ -1,0 +1,30 @@
+{
+  "id": "organize-thoughts_01447cea",
+  "expression": "organize thoughts",
+  "selectionMeta": {
+    "selectedPhrase": "organize thoughts",
+    "selectedSenseLabelKo": "생각을 정리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before the big presentation, she took a few minutes to organize her thoughts so she could speak clearly and confidently."
+  },
+  "step2": {
+    "story": "After receiving the unexpected news, Jake sat quietly at his desk and tried to organize his thoughts. Everything had happened so fast — the promotion, the relocation offer, the tight deadline. He grabbed a notebook and started writing down his priorities one by one.",
+    "topicTag": "career decisions",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Maya stared at the blank document on her screen, her mind racing in a dozen directions. The research paper was due tomorrow, but she had too many ideas competing for attention. She closed her laptop, brewed a cup of tea, and sat by the window to organize her thoughts. Slowly, the chaos in her head began to settle. She identified three key arguments and sketched a rough outline on a sticky note. When she returned to her desk, the words finally started to flow.",
+    "topicTag": "academic writing",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "생각을 정리하다, 즉 머릿속의 여러 생각들을 체계적으로 배열한다는 뜻입니다.",
+    "realUsageKo": "복잡하거나 혼란스러운 상황에서 머릿속을 가다듬고 명확하게 정리할 때 사용합니다. 발표, 글쓰기, 중요한 대화 전에 자주 쓰입니다.",
+    "etymologyKo": "'organize'는 라틴어 'organum(도구, 기관)'에서 유래했으며 체계적으로 배열한다는 의미이고, 'thoughts'와 결합하여 추상적인 생각을 질서 있게 정돈한다는 표현이 되었습니다.",
+    "nuanceKo": "격식체와 일상 대화 모두에서 자연스럽게 쓰이며, 차분하고 이성적인 태도를 내포합니다. 비슷한 표현으로 'collect one's thoughts', 'gather one's thoughts'가 있습니다.",
+    "shortExampleEn": "Give me a moment to organize my thoughts before I answer.",
+    "shortExampleKo": "대답하기 전에 생각을 좀 정리할 시간을 주세요."
+  }
+}

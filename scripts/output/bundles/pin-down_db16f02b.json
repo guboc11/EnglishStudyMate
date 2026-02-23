@@ -1,0 +1,30 @@
+{
+  "id": "pin-down_db16f02b",
+  "expression": "pin down",
+  "selectionMeta": {
+    "selectedPhrase": "pin down",
+    "selectedSenseLabelKo": "정확히 파악하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to pin down the exact cause of the server outage before we can fix it."
+  },
+  "step2": {
+    "story": "The detective spent weeks reviewing surveillance footage and interviewing witnesses. She couldn't pin down who had accessed the building that night. Finally, a forgotten security log revealed the answer she had been searching for.",
+    "topicTag": "investigation",
+    "moodTag": "persistent"
+  },
+  "step3": {
+    "story": "Sarah had been feeling uneasy about the project for days, but she couldn't pin down exactly what was bothering her. The budget looked fine, the timeline was on track, and the team seemed motivated. During a late-night review of the proposal, she noticed a subtle inconsistency in the client's requirements. Once she pinned down the discrepancy, everything clicked into place. She rewrote the entire scope section and presented it at the morning meeting. Her manager was impressed that she had caught what everyone else had missed.",
+    "topicTag": "work problem-solving",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "핀으로 고정하다, 즉 움직이지 못하게 눌러서 붙잡아 두다는 뜻입니다.",
+    "realUsageKo": "모호하거나 불확실한 것의 정체를 정확히 파악하거나 확정할 때 사용합니다. '원인을 콕 짚어내다', '정확히 알아내다'라는 느낌으로 쓰입니다.",
+    "etymologyKo": "옷감이나 종이를 핀(pin)으로 고정하듯, 움직이거나 변하는 대상을 확실하게 잡아둔다는 물리적 이미지에서 유래했습니다.",
+    "nuanceKo": "단순히 '알다'보다 훨씬 적극적인 느낌으로, 쉽게 파악되지 않는 것을 끈질기게 추적해서 정확히 밝혀낸다는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "I can't pin down why this code keeps crashing.",
+    "shortExampleKo": "이 코드가 왜 계속 충돌하는지 정확히 파악할 수가 없어."
+  }
+}

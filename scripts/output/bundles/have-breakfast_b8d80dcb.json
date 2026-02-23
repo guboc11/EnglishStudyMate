@@ -1,0 +1,30 @@
+{
+  "id": "have-breakfast_b8d80dcb",
+  "expression": "have breakfast",
+  "selectionMeta": {
+    "selectedPhrase": "have breakfast",
+    "selectedSenseLabelKo": "아침을 먹다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I usually have breakfast at seven before heading to work."
+  },
+  "step2": {
+    "story": "Mia woke up late and almost ran out the door without eating. But her roommate had already made toast and eggs, so she sat down to have breakfast together. Those ten minutes at the table turned her whole morning around.",
+    "topicTag": "morning routine",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "Daniel had been skipping meals for weeks, buried in deadlines and caffeine. One Saturday, the smell of pancakes from the kitchen next door drifted through his window. He decided to have breakfast properly for the first time in ages. He walked to a small café on the corner, ordered eggs, fresh juice, and sourdough toast. Sitting by the window, watching people stroll by, he realized how much he had missed this simple ritual. From that morning on, he promised himself he would always make time to have breakfast, no matter how busy life got.",
+    "topicTag": "self-care",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'아침 식사를 가지다'라는 뜻으로, 아침 식사를 하는 행위를 나타냅니다.",
+    "realUsageKo": "일상에서 아침 식사를 먹는 행위를 표현할 때 사용합니다. 'eat breakfast'보다 자연스럽고 일반적인 표현입니다.",
+    "etymologyKo": "'have'는 '먹다/마시다'의 의미로 쓰이며, 'breakfast'는 'break(깨다) + fast(단식)'에서 유래해 밤새 굶은 것을 깨뜨리는 첫 식사를 뜻합니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 영국식·미국식 영어 모두에서 자연스럽게 사용됩니다. 'eat breakfast'보다 부드럽고 관용적인 느낌입니다.",
+    "shortExampleEn": "Let's have breakfast on the terrace this morning.",
+    "shortExampleKo": "오늘 아침은 테라스에서 아침을 먹자."
+  }
+}

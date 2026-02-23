@@ -1,0 +1,30 @@
+{
+  "id": "in-a-heartbeat_db970478",
+  "expression": "in a heartbeat",
+  "selectionMeta": {
+    "selectedPhrase": "in a heartbeat",
+    "selectedSenseLabelKo": "즉시",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If they offered me that job, I'd take it in a heartbeat."
+  },
+  "step2": {
+    "story": "Sarah had been waiting months for an opening at her dream company. When her friend called to say they had a position available, she applied in a heartbeat. By the next morning, she had already submitted her resume and cover letter.",
+    "topicTag": "career opportunity",
+    "moodTag": "eager"
+  },
+  "step3": {
+    "story": "Kevin stared at the email on his screen, reading it for the third time to make sure it was real. A tech startup in Berlin was offering him a lead developer role with twice his current salary. His coworkers told him to think it over carefully, but Kevin knew he would accept in a heartbeat. He had always dreamed of living abroad, and this was the chance he had been waiting for. He typed his acceptance before lunch and called his parents to share the news. Sometimes the best decisions are the ones you don't have to think about.",
+    "topicTag": "life-changing decision",
+    "moodTag": "excited"
+  },
+  "meaning": {
+    "literalMeaningKo": "심장이 한 번 뛸 만큼의 시간 안에, 즉 눈 깜짝할 사이에.",
+    "realUsageKo": "망설임 없이 즉시, 주저 없이 바로 하겠다는 뜻으로 사용됩니다. 주로 '기꺼이, 당장이라도'라는 강한 의지를 표현할 때 씁니다.",
+    "etymologyKo": "심장 박동(heartbeat) 한 번의 시간이 약 1초도 안 되는 매우 짧은 순간이라는 데서 유래한 관용 표현입니다.",
+    "nuanceKo": "단순히 '빨리'가 아니라, 고민할 필요도 없이 당연히 그렇게 하겠다는 확신과 열정이 담긴 표현입니다. 긍정적인 맥락에서 주로 쓰입니다.",
+    "shortExampleEn": "Would I move to Paris? In a heartbeat!",
+    "shortExampleKo": "파리로 이사할 거냐고? 당연히 당장이라도!"
+  }
+}

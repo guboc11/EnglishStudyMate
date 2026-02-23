@@ -1,0 +1,30 @@
+{
+  "id": "in-the-nick-of-time_d4fe295f",
+  "expression": "in the nick of time",
+  "selectionMeta": {
+    "selectedPhrase": "in the nick of time",
+    "selectedSenseLabelKo": "아슬아슬하게 제때에",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The firefighters arrived in the nick of time and pulled the family out of the burning building before the roof collapsed."
+  },
+  "step2": {
+    "story": "Sarah sprinted through the airport terminal, her boarding pass crumpled in her sweating hand. The gate agent was just about to close the door when she reached the counter, breathless and red-faced. She had made it in the nick of time — one more minute and she would have missed her flight to Tokyo.",
+    "topicTag": "travel",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The presentation was supposed to start at nine sharp, and James still hadn't finished the final slides. His laptop had crashed overnight, wiping out hours of careful work. He rewrote everything from memory, his fingers flying across the keyboard while his coffee grew cold beside him. At 8:58, he hit save, grabbed his laptop, and dashed into the conference room just as the CEO opened the meeting. He plugged in his cable and the first slide appeared on the screen in the nick of time. His colleagues never knew how close he had come to showing up completely empty-handed.",
+    "topicTag": "work pressure",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'nick'은 시계의 눈금이나 칼자국처럼 아주 작은 틈을 의미하며, 시간의 아주 좁은 틈새에 겨우 맞춰서라는 뜻입니다.",
+    "realUsageKo": "마감이나 위기 상황에서 정말 아슬아슬하게 제때 도착하거나 해결했을 때 사용합니다. '간발의 차로', '가까스로 제시간에'라는 느낌으로 쓰입니다.",
+    "etymologyKo": "16세기 영어에서 'nick'은 정확한 순간이나 결정적 시점을 뜻했습니다. 나무에 칼금을 내어 시간을 기록하던 관습에서 유래했다는 설이 유력합니다.",
+    "nuanceKo": "긴박했던 상황이 다행히 좋게 마무리되었다는 안도감이 담긴 표현입니다. 주로 긍정적인 결과와 함께 쓰이며, 위기를 모면한 극적인 느낌을 줍니다.",
+    "shortExampleEn": "The ambulance arrived in the nick of time to save his life.",
+    "shortExampleKo": "구급차가 아슬아슬하게 제때 도착해서 그의 목숨을 구했다."
+  }
+}

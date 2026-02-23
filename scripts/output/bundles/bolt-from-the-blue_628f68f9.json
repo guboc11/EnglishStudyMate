@@ -1,0 +1,30 @@
+{
+  "id": "bolt-from-the-blue_628f68f9",
+  "expression": "bolt from the blue",
+  "selectionMeta": {
+    "selectedPhrase": "bolt from the blue",
+    "selectedSenseLabelKo": "청천벽력",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company's sudden bankruptcy was a bolt from the blue for all its employees."
+  },
+  "step2": {
+    "story": "Sarah had been happily planning her wedding for months when her fiancé called it off without warning. The breakup was a complete bolt from the blue. She sat in her apartment, surrounded by invitation samples, unable to process what had just happened.",
+    "topicTag": "unexpected heartbreak",
+    "moodTag": "stunned"
+  },
+  "step3": {
+    "story": "Kevin had worked at the same advertising firm for twelve years and just received a glowing performance review. He walked into the office on Monday morning with a coffee in hand, ready for another productive week. Then his manager called him into a conference room where two HR representatives were waiting. They told him his entire department was being eliminated effective immediately. It was an absolute bolt from the blue — no rumors, no warning signs, nothing. He cleaned out his desk in a daze, still holding the review that praised him as a top performer.",
+    "topicTag": "job loss",
+    "moodTag": "disbelief"
+  },
+  "meaning": {
+    "literalMeaningKo": "파란 하늘에서 내리치는 벼락이라는 뜻으로, 맑은 날의 번개를 의미합니다.",
+    "realUsageKo": "전혀 예상하지 못한 충격적인 일이 갑자기 발생했을 때 사용합니다. 주로 부정적인 놀라운 소식이나 사건에 쓰이지만, 드물게 긍정적인 깜짝 소식에도 사용됩니다.",
+    "etymologyKo": "맑고 푸른 하늘(blue sky)에서 갑자기 번개(bolt)가 치는 자연 현상에서 유래했습니다. 19세기 초 영국 문학에서 처음 등장한 표현입니다.",
+    "nuanceKo": "단순한 놀라움보다 '충격'에 가까운 뉘앙스입니다. 사전에 어떤 징후도 없었다는 점을 강조하며, 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "His resignation was a bolt from the blue — nobody saw it coming.",
+    "shortExampleKo": "그의 사직은 청천벽력이었다 — 아무도 예상하지 못했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "boost-confidence_9937ddeb",
+  "expression": "boost confidence",
+  "selectionMeta": {
+    "selectedPhrase": "boost confidence",
+    "selectedSenseLabelKo": "자신감을 높이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Practicing in front of a mirror every morning helped boost her confidence before the big presentation."
+  },
+  "step2": {
+    "story": "Jake had always been terrified of speaking in public. His mentor suggested starting with small team meetings to boost his confidence gradually. After a few weeks, he volunteered to lead the company all-hands and nailed it.",
+    "topicTag": "personal growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Mia stared at the rejection email on her screen, feeling her motivation crumble. She had applied to twelve companies and heard back from none. That evening, her older sister called and reminded her of all the projects she had successfully led in college. They spent an hour reviewing her portfolio together, which helped boost Mia's confidence more than she expected. The next morning, she rewrote her cover letter with a clearer voice and a bolder tone. Within a week, two companies reached out for interviews.",
+    "topicTag": "job search",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'자신감을 끌어올리다'라는 뜻으로, boost는 '밀어 올리다, 높이다'를 의미합니다.",
+    "realUsageKo": "자존감이나 확신이 부족한 상황에서 어떤 행동이나 경험을 통해 자신감이 커지는 것을 표현할 때 사용합니다. 일상 대화, 자기계발, 직장 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "boost는 원래 '아래에서 위로 밀어 올리다'라는 뜻의 영어 방언에서 유래했으며, confidence는 라틴어 confidentia(신뢰, 확신)에서 왔습니다.",
+    "nuanceKo": "격식/비격식 모두 자연스럽게 쓰이며, 긍정적인 뉘앙스를 가집니다. 비슷한 표현으로 build confidence가 있지만, boost는 더 빠르고 즉각적인 효과를 암시합니다.",
+    "shortExampleEn": "Winning the first round really boosted the team's confidence.",
+    "shortExampleKo": "첫 라운드에서 이기면서 팀의 자신감이 크게 높아졌다."
+  }
+}

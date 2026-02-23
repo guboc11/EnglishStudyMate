@@ -1,0 +1,30 @@
+{
+  "id": "minimize-risk_15e023f2",
+  "expression": "minimize risk",
+  "selectionMeta": {
+    "selectedPhrase": "minimize risk",
+    "selectedSenseLabelKo": "위험을 최소화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We decided to minimize risk by diversifying our investment portfolio across multiple sectors."
+  },
+  "step2": {
+    "story": "The project manager reviewed every possible outcome before launching the new product. She insisted on running three rounds of testing to minimize risk. Her cautious approach saved the company from a costly recall.",
+    "topicTag": "project management",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "After the data breach last quarter, the entire IT department was restructured. The new security director gathered her team on the first day and laid out a comprehensive plan. She explained that their top priority was to minimize risk by implementing multi-factor authentication and encrypted backups. Every employee would attend mandatory cybersecurity training within two weeks. Some team members grumbled about the extra workload, but they understood the stakes. By the end of the month, the company's vulnerability score had dropped by sixty percent.",
+    "topicTag": "cybersecurity",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "위험(risk)을 최소한으로 줄이다(minimize)라는 뜻입니다.",
+    "realUsageKo": "비즈니스, 투자, 프로젝트 관리 등에서 잠재적 손실이나 문제를 사전에 줄이려는 전략적 행동을 표현할 때 자주 사용합니다. 일상에서도 안전을 위해 조치를 취할 때 쓰입니다.",
+    "etymologyKo": "minimize는 라틴어 minimus(가장 작은)에서 유래했고, risk는 이탈리아어 risco(위험)에서 왔습니다. 두 단어가 결합해 '위험을 최소 수준으로 낮추다'라는 의미의 연어 표현이 되었습니다.",
+    "nuanceKo": "완전히 제거하는 것이 아니라 '줄인다'는 뉘앙스가 핵심입니다. 현실적으로 위험을 완전히 없앨 수 없음을 인정하면서도 최선의 노력을 기울인다는 실용적이고 전문적인 어감을 줍니다.",
+    "shortExampleEn": "Wearing a seatbelt helps minimize risk during a car accident.",
+    "shortExampleKo": "안전벨트를 착용하면 자동차 사고 시 위험을 최소화하는 데 도움이 됩니다."
+  }
+}

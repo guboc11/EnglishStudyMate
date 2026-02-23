@@ -1,0 +1,30 @@
+{
+  "id": "measure-up_85ffa0af",
+  "expression": "measure up",
+  "selectionMeta": {
+    "selectedPhrase": "measure up",
+    "selectedSenseLabelKo": "기대에 부응하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She worked overtime every night, determined to measure up to her new manager's expectations."
+  },
+  "step2": {
+    "story": "Jake had just been promoted to lead the design team, but the pressure was overwhelming. His predecessor had been brilliant, and everyone kept comparing them. He told himself he didn't need to be a copy — he just needed to measure up in his own way.",
+    "topicTag": "career pressure",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Mina transferred to the prestigious research lab in Boston, she immediately felt out of place. The other scientists had decades of experience and published papers she could only dream of. During her first group presentation, her hands trembled as she shared her findings. But the lead researcher nodded approvingly and asked thoughtful follow-up questions. By the end of the meeting, Mina realized that measuring up wasn't about matching everyone else's resume — it was about bringing something genuine to the table. She walked out of that room standing a little taller.",
+    "topicTag": "self-worth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'측정하여 맞추다'라는 뜻으로, 어떤 기준에 도달하는지 재어 본다는 의미입니다.",
+    "realUsageKo": "실제로는 '기대나 기준에 부응하다, 충분히 훌륭하다'라는 뜻으로 쓰입니다. 주로 부정문이나 의문문에서 '기대에 못 미치다'의 뉘앙스로 자주 사용됩니다.",
+    "etymologyKo": "measure(측정하다)와 up(위로, 기준까지)의 결합으로, 원래 물건의 치수를 재어 규격에 맞는지 확인하는 데서 유래했습니다.",
+    "nuanceKo": "단순히 '잘하다'보다 '외부의 기준이나 기대치에 도달하다'라는 뉘앙스가 강합니다. 약간의 긴장감이나 압박감이 담긴 표현입니다.",
+    "shortExampleEn": "Do you think our proposal will measure up to the client's standards?",
+    "shortExampleKo": "우리 제안서가 고객의 기준에 부응할 수 있을까요?"
+  }
+}

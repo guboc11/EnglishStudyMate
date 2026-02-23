@@ -1,0 +1,30 @@
+{
+  "id": "use-up_3d9c94d5",
+  "expression": "use up",
+  "selectionMeta": {
+    "selectedPhrase": "use up",
+    "selectedSenseLabelKo": "다 써버리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We used up all the milk this morning, so someone needs to go to the store."
+  },
+  "step2": {
+    "story": "Jenna opened the printer and sighed — she had used up the last ink cartridge right before the deadline. She ran to the supply closet, but it was empty too. Now she had to convince her boss that a handwritten report would be just as professional.",
+    "topicTag": "workplace mishap",
+    "moodTag": "panicked"
+  },
+  "step3": {
+    "story": "Daniel had been training for the marathon for months, carefully tracking every detail of his nutrition plan. But on race day, he made a rookie mistake — he used up all his energy gels before the halfway mark. By kilometer twenty-five, his legs felt like concrete and his vision started to blur. A fellow runner noticed him slowing down and handed over a spare gel pack without saying a word. That small act of kindness gave Daniel just enough fuel to push through the final stretch. He crossed the finish line in tears, promising himself he would never underestimate his supplies again.",
+    "topicTag": "marathon endurance",
+    "moodTag": "exhausted but grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'use'(사용하다) + 'up'(완전히) → 끝까지 다 사용하다.",
+    "realUsageKo": "어떤 자원이나 물건을 남김없이 전부 소진했을 때 사용합니다. '다 써버렸다', '바닥났다'의 느낌으로, 더 이상 남은 것이 없음을 강조합니다.",
+    "etymologyKo": "'up'이 동사에 붙어 '완료, 소진'의 의미를 더하는 전형적인 구동사 패턴입니다. 'eat up', 'drink up' 등과 같은 구조로, 고대 영어 시대부터 사용되어 온 표현입니다.",
+    "nuanceKo": "단순히 '사용했다'가 아니라 '완전히 다 소진했다'는 뉘앙스가 핵심입니다. 약간 아쉽거나 곤란한 상황에서 자주 쓰이며, 일상 대화에서 매우 흔한 표현입니다.",
+    "shortExampleEn": "Who used up all the hot water?",
+    "shortExampleKo": "누가 온수를 다 써버린 거야?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "gain-insight_96d32d4a",
+  "expression": "gain insight",
+  "selectionMeta": {
+    "selectedPhrase": "gain insight",
+    "selectedSenseLabelKo": "통찰을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After shadowing the senior designer for a month, I was able to gain insight into how top-level creative decisions are made."
+  },
+  "step2": {
+    "story": "Mina had been struggling to understand why her marketing campaigns kept failing. She decided to sit in on customer focus groups every week. By listening directly to real users, she was able to gain insight into what they truly valued—and her next campaign doubled in conversions.",
+    "topicTag": "career growth",
+    "moodTag": "enlightened"
+  },
+  "step3": {
+    "story": "Jae-ho had been a data analyst for five years, but he felt stuck in a loop of charts and spreadsheets that never seemed to tell the full story. One afternoon, his manager suggested he attend a cross-departmental meeting with the product team. At first, he felt out of place among designers and engineers debating user behavior. But as the discussion unfolded, he began to gain insight into how his numbers connected to real human decisions. A spike in drop-off rates wasn't just a data point—it was a moment of frustration for thousands of users. That single meeting shifted his entire approach, and he started framing every report around the people behind the data.",
+    "topicTag": "professional perspective",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'insight(통찰, 깊은 이해)'를 'gain(얻다, 획득하다)'한다는 뜻으로, 어떤 대상에 대해 깊은 이해나 새로운 시각을 얻는 것을 의미합니다.",
+    "realUsageKo": "단순히 정보를 얻는 것이 아니라, 경험·관찰·분석을 통해 본질적인 이해에 도달할 때 사용합니다. 비즈니스, 학술, 자기계발 등 다양한 맥락에서 '깊이 있는 깨달음을 얻다'라는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "'gain'은 고대 프랑스어 'gaaignier(획득하다)'에서, 'insight'은 중세 영어에서 '내면을 보는 시각'이라는 뜻으로 만들어졌습니다. 두 단어가 결합되어 '깊은 내면적 이해를 획득하다'라는 의미의 연어가 되었습니다.",
+    "nuanceKo": "'gain insight'는 격식체와 일상체 모두에서 자연스럽게 쓰이며, 단순한 지식 습득보다는 질적으로 더 깊은 이해를 얻었다는 뉘앙스를 줍니다. 주로 'into'와 함께 써서 이해의 대상을 밝힙니다.",
+    "shortExampleEn": "Traveling abroad helped me gain insight into different cultural perspectives.",
+    "shortExampleKo": "해외여행은 다양한 문화적 관점에 대한 통찰을 얻는 데 도움이 되었다."
+  }
+}

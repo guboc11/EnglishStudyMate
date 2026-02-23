@@ -1,0 +1,30 @@
+{
+  "id": "deliver-a-speech_a2e8441e",
+  "expression": "deliver a speech",
+  "selectionMeta": {
+    "selectedPhrase": "deliver a speech",
+    "selectedSenseLabelKo": "연설하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The CEO will deliver a speech at the annual company meeting next Friday."
+  },
+  "step2": {
+    "story": "Maya had been preparing for weeks, rehearsing every word in front of her mirror. When the day finally came, she walked up to the podium and delivered a speech that moved the entire audience to tears. Afterward, her colleagues told her it was the most powerful presentation they had ever heard.",
+    "topicTag": "public speaking",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "Daniel stared at the crumpled notes in his trembling hands. In just ten minutes, he would have to deliver a speech in front of three hundred people at the charity gala. He had never been comfortable speaking in public, but this cause meant everything to him. As he stepped onto the stage, the bright lights blinded him for a moment, and then he saw familiar faces smiling back at him from the front row. He took a deep breath, set his notes aside, and spoke straight from the heart. By the time he finished, the room erupted in applause, and donations doubled overnight.",
+    "topicTag": "overcoming fear",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'deliver'는 '전달하다', 'speech'는 '연설'로, 직역하면 '연설을 전달하다'입니다.",
+    "realUsageKo": "청중 앞에서 공식적으로 연설하거나 발표하는 상황에서 사용합니다. 'give a speech'보다 격식 있는 느낌으로, 졸업식, 회의, 행사 등 공식 자리에서 주로 쓰입니다.",
+    "etymologyKo": "'deliver'는 라틴어 'deliberare(해방하다)'에서 유래했으며, 중세 영어에서 '무언가를 넘겨주다, 전달하다'는 뜻으로 발전했습니다. 연설을 청중에게 '전달한다'는 비유적 의미로 쓰이게 되었습니다.",
+    "nuanceKo": "'deliver a speech'는 'give a speech'보다 더 격식 있고 준비된 연설을 암시합니다. 비즈니스, 정치, 학술 등 공식적인 맥락에서 자주 사용되며, 연설의 품질과 전달력이 뛰어나다는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "The president delivered a speech on climate change at the United Nations.",
+    "shortExampleKo": "대통령이 유엔에서 기후 변화에 대한 연설을 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "phase-out_863fb86f",
+  "expression": "phase out",
+  "selectionMeta": {
+    "selectedPhrase": "phase out",
+    "selectedSenseLabelKo": "단계적으로 없애다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company plans to phase out its older product line by the end of next year."
+  },
+  "step2": {
+    "story": "The city council announced it would phase out single-use plastic bags over the next two years. Local shop owners had mixed reactions, but most agreed the change was overdue. By the time the ban took full effect, reusable bags had become the norm.",
+    "topicTag": "environmental policy",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "When the new CEO took over, she reviewed every department's budget with fresh eyes. She noticed that several legacy software systems were draining resources while newer tools sat underused. Rather than making a sudden switch, she decided to phase out the old systems gradually over eighteen months. Each quarter, one legacy platform would be retired and its users migrated to the modern alternative. The transition team held weekly check-ins to catch problems early. By the final quarter, the company was running leaner and employees wondered why they hadn't made the change sooner.",
+    "topicTag": "digital transformation",
+    "moodTag": "forward-looking"
+  },
+  "meaning": {
+    "literalMeaningKo": "'단계(phase)'를 거쳐 '밖으로(out)' 내보낸다는 뜻으로, 무언가를 점진적으로 제거하거나 중단하는 것을 의미합니다.",
+    "realUsageKo": "제품, 정책, 기술 등을 한꺼번에 없애지 않고 단계적으로 줄여가며 중단할 때 사용합니다. 비즈니스, 정부 정책, 환경 분야에서 특히 자주 쓰입니다.",
+    "etymologyKo": "'phase'는 그리스어 'phasis(출현, 단계)'에서 유래했고, 'out'과 결합하여 '단계적으로 사라지게 하다'라는 의미의 구동사가 되었습니다. 20세기 중반 산업/정책 분야에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "갑작스러운 중단이 아닌 계획적이고 점진적인 퇴출을 강조합니다. 반대말인 'phase in(단계적으로 도입하다)'과 짝을 이루어 자주 사용됩니다.",
+    "shortExampleEn": "The government will phase out coal power plants by 2035.",
+    "shortExampleKo": "정부는 2035년까지 석탄 발전소를 단계적으로 폐쇄할 것이다."
+  }
+}

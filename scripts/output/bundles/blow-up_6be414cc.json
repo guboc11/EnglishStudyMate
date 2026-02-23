@@ -1,0 +1,30 @@
+{
+  "id": "blow-up_6be414cc",
+  "expression": "blow up",
+  "selectionMeta": {
+    "selectedPhrase": "blow up",
+    "selectedSenseLabelKo": "폭발하다 / 화를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My boss completely blew up at the team when he found out the report was full of errors."
+  },
+  "step2": {
+    "story": "Jake had been holding in his frustration all week. When his coworker accidentally deleted the shared file for the third time, he finally blew up in the middle of the office. Everyone went silent, and Jake immediately regretted losing his cool.",
+    "topicTag": "work stress",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Sarah had always been the calm one in her family. But after months of working overtime without recognition, the pressure was building. One evening, her manager casually added yet another weekend task to her plate without even asking. Sarah felt something snap inside her. She blew up right there in the meeting room, telling everyone exactly how unfair the workload had become. The room fell completely silent, and for the first time, her manager actually listened.",
+    "topicTag": "workplace burnout",
+    "moodTag": "intense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'blow up'은 문자 그대로 '폭발하다'라는 뜻으로, 무언가가 터지거나 폭발하는 물리적 상황을 가리킵니다.",
+    "realUsageKo": "실제로는 감정이 폭발하여 갑자기 화를 내거나 격앙되는 상황에서 자주 사용됩니다. 'He blew up at me'처럼 누군가에게 버럭 화를 낸다는 의미로 일상 대화에서 매우 흔하게 쓰입니다.",
+    "etymologyKo": "원래 폭탄이나 풍선이 물리적으로 폭발하는 것을 묘사하던 표현에서, 감정이 한계를 넘어 터져 나오는 모습을 비유적으로 나타내는 의미로 확장되었습니다.",
+    "nuanceKo": "갑작스럽고 강렬한 분노의 폭발을 나타내며, 대개 평소에 참고 있던 감정이 한꺼번에 터져 나오는 뉘앙스를 담고 있습니다. 다소 부정적인 어감이 있어 자제력을 잃은 상황에 주로 쓰입니다.",
+    "shortExampleEn": "She blew up at her brother for borrowing her car without asking.",
+    "shortExampleKo": "그녀는 오빠가 허락 없이 차를 빌려 간 것에 대해 버럭 화를 냈다."
+  }
+}

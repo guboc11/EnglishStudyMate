@@ -1,0 +1,30 @@
+{
+  "id": "encounter-difficulties_c0d8ab50",
+  "expression": "encounter difficulties",
+  "selectionMeta": {
+    "selectedPhrase": "encounter difficulties",
+    "selectedSenseLabelKo": "어려움에 부딪히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We started to encounter difficulties when the main server crashed during the product launch."
+  },
+  "step2": {
+    "story": "The engineering team was confident about the new software rollout until they began to encounter difficulties with the database migration. Unexpected errors popped up one after another, forcing the team to work through the weekend. Despite the setbacks, they managed to resolve every issue before the Monday deadline.",
+    "topicTag": "project management",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Sarah had always dreamed of opening her own bakery, and after years of saving, she finally signed the lease on a small shop downtown. The renovation went smoothly at first, but she quickly began to encounter difficulties she hadn't anticipated. The plumbing was outdated, the oven installation required permits she didn't know about, and her supplier suddenly raised prices. For a brief moment, she considered giving up entirely. But her grandmother, who had run a bakery for forty years, reminded her that every great business encounters difficulties in the beginning. Sarah took a deep breath, adjusted her budget, and pushed forward with renewed determination.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "어려움을 마주치다, 난관에 부딪히다라는 뜻입니다.",
+    "realUsageKo": "계획이나 과정 중에 예상치 못한 문제나 장애물을 만났을 때 사용합니다. 일상 대화보다는 업무, 학술, 공식적인 상황에서 더 자주 쓰이는 격식 있는 표현입니다.",
+    "etymologyKo": "encounter는 라틴어 'incontrare(맞닥뜨리다)'에서 유래했고, difficulty는 라틴어 'difficultas(어려움)'에서 왔습니다. 두 단어가 결합하여 '어려움에 직면하다'라는 의미의 자연스러운 연어(collocation)가 되었습니다.",
+    "nuanceKo": "일상적인 'have problems'보다 격식 있고 객관적인 어감입니다. 보고서, 발표, 비즈니스 이메일 등 공식적 맥락에서 선호되며, 감정적이지 않고 사실을 전달하는 뉘앙스를 줍니다.",
+    "shortExampleEn": "The research team encountered difficulties in collecting accurate data from remote areas.",
+    "shortExampleKo": "연구팀은 원격 지역에서 정확한 데이터를 수집하는 데 어려움을 겪었다."
+  }
+}

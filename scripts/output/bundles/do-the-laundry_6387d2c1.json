@@ -1,0 +1,30 @@
+{
+  "id": "do-the-laundry_6387d2c1",
+  "expression": "do the laundry",
+  "selectionMeta": {
+    "selectedPhrase": "do the laundry",
+    "selectedSenseLabelKo": "빨래를 하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to do the laundry before we run out of clean towels."
+  },
+  "step2": {
+    "story": "Mina looked at the overflowing hamper and sighed. She had been putting off doing the laundry all week, and now she had nothing clean left to wear. She grabbed the basket and headed to the washing machine, promising herself she'd never let it pile up this badly again.",
+    "topicTag": "household chores",
+    "moodTag": "resigned"
+  },
+  "step3": {
+    "story": "It was Sunday morning, and Jake's apartment smelled like fresh coffee. He stretched on the couch, enjoying the quiet, until he noticed the mountain of clothes spilling out of his bedroom closet. He knew he had to do the laundry today — his last clean shirt was the one he was wearing. He sorted the darks from the whites, measured out the detergent, and started the first load. While the machine hummed, he wiped down the kitchen counter and watered his plants. By the afternoon, neatly folded stacks of warm clothes lined his bed, and he felt a small but real sense of accomplishment.",
+    "topicTag": "weekend routine",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "빨래를 하다 — 세탁물을 세탁기에 넣고 빨아서 말리는 행위를 뜻합니다.",
+    "realUsageKo": "일상에서 '빨래하다'라는 뜻으로 매우 자주 사용됩니다. 세탁기 돌리기, 널기, 개기 등 빨래와 관련된 전체 과정을 포괄적으로 가리킵니다.",
+    "etymologyKo": "'laundry'는 라틴어 'lavare(씻다)'에서 유래했으며, 'do'와 결합하여 '빨래라는 집안일을 수행하다'라는 의미의 일상 표현이 되었습니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 집안일을 이야기할 때 자연스럽게 쓰입니다. 'wash clothes'보다 원어민이 더 자주 사용하는 자연스러운 표현입니다.",
+    "shortExampleEn": "Can you do the laundry while I cook dinner?",
+    "shortExampleKo": "내가 저녁 만드는 동안 빨래 좀 해줄 수 있어?"
+  }
+}

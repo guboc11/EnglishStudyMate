@@ -1,0 +1,30 @@
+{
+  "id": "iron-out_56c8f473",
+  "expression": "iron out",
+  "selectionMeta": {
+    "selectedPhrase": "iron out",
+    "selectedSenseLabelKo": "문제를 해결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to iron out a few issues before launching the new website next week."
+  },
+  "step2": {
+    "story": "The team had been working on the merger for months, but several contract details still needed attention. After a long Friday meeting, they finally managed to iron out the remaining disagreements. By Monday morning, both sides were ready to sign.",
+    "topicTag": "business negotiation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sarah stared at the spreadsheet, frustrated by the inconsistencies between the two departments' reports. Every time she fixed one number, another discrepancy appeared elsewhere. She called a joint meeting with both team leads and laid everything on the table. It took three hours of careful discussion, but they managed to iron out every single conflict in the data. Walking back to her desk, Sarah felt a weight lift off her shoulders. Sometimes the hardest problems just needed everyone in the same room.",
+    "topicTag": "workplace collaboration",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '다림질해서 펴다'라는 뜻으로, 옷의 주름을 다리미로 펴는 행위를 가리킵니다.",
+    "realUsageKo": "실제로는 문제점, 의견 차이, 세부사항 등을 해결하거나 매끄럽게 정리할 때 사용합니다. 주로 협상, 계획, 프로젝트 등에서 남아 있는 걸림돌을 제거한다는 뉘앙스입니다.",
+    "etymologyKo": "다리미로 옷의 주름(wrinkle)을 펴는 행위에서 유래했습니다. 주름이 문제나 장애물을 상징하며, 이를 평평하게 만드는 것이 곧 해결을 의미하게 되었습니다.",
+    "nuanceKo": "큰 문제보다는 세부적인 문제나 의견 충돌을 조율할 때 많이 씁니다. 격식·비격식 모두 자연스럽게 쓰이며, 특히 비즈니스 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "Let's iron out the details before we finalize the contract.",
+    "shortExampleKo": "계약을 확정하기 전에 세부 사항을 정리합시다."
+  }
+}

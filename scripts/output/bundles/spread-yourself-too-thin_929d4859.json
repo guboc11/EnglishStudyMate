@@ -1,0 +1,30 @@
+{
+  "id": "spread-yourself-too-thin_929d4859",
+  "expression": "spread yourself too thin",
+  "selectionMeta": {
+    "selectedPhrase": "spread yourself too thin",
+    "selectedSenseLabelKo": "너무 많은 것을 하려 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you keep volunteering for every committee, you'll spread yourself too thin and won't do any of them well."
+  },
+  "step2": {
+    "story": "Maya signed up for three new projects at work while also training for a marathon and taking evening classes. Her manager warned her she was spreading herself too thin. By Friday, she had missed two deadlines and could barely keep her eyes open during the lecture.",
+    "topicTag": "work-life balance",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "Daniel had always been the person everyone relied on. When his neighbor needed help moving, he said yes. When his boss asked him to lead the product launch, he agreed immediately. He even promised his daughter he would coach her soccer team on weekends. But after a month of sleeping four hours a night, Daniel realized he had spread himself too thin. His work quality dropped, he forgot about the moving day entirely, and he missed two of his daughter's games. It took a long, honest conversation with his wife to finally admit he needed to start saying no.",
+    "topicTag": "personal boundaries",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신을 너무 얇게 펼치다, 즉 한 사람의 에너지나 시간을 너무 넓게 분산시킨다는 뜻입니다.",
+    "realUsageKo": "한꺼번에 너무 많은 일을 맡아서 어느 것 하나 제대로 못하는 상황을 표현할 때 씁니다. '이것저것 손대다가 다 망치다'와 비슷한 느낌입니다.",
+    "etymologyKo": "버터를 빵에 너무 넓게 바르면 얇아져서 맛이 없어지는 것에서 유래한 표현입니다. 자원이나 에너지를 지나치게 분산시키면 효과가 떨어진다는 비유입니다.",
+    "nuanceKo": "충고나 경고의 뉘앙스로 자주 쓰이며, 상대방이 무리하고 있을 때 걱정하는 톤으로 사용됩니다. 비난보다는 조언에 가까운 표현입니다.",
+    "shortExampleEn": "Don't spread yourself too thin — focus on what matters most.",
+    "shortExampleKo": "너무 많은 걸 하려고 하지 마 — 가장 중요한 것에 집중해."
+  }
+}

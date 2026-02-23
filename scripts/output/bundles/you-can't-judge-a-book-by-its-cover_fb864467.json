@@ -1,0 +1,30 @@
+{
+  "id": "you-can't-judge-a-book-by-its-cover_fb864467",
+  "expression": "you can't judge a book by its cover",
+  "selectionMeta": {
+    "selectedPhrase": "you can't judge a book by its cover",
+    "selectedSenseLabelKo": "겉모습으로 판단하지 마라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When I first met my quiet coworker, my boss reminded me that you can't judge a book by its cover — she turned out to be the most talented person on the team."
+  },
+  "step2": {
+    "story": "James almost didn't hire the scruffy-looking candidate who showed up in jeans and sneakers. But after the interview, the man solved a coding problem that had stumped the entire engineering team. James learned the hard way that you can't judge a book by its cover.",
+    "topicTag": "job interview",
+    "moodTag": "surprised"
+  },
+  "step3": {
+    "story": "When a small, run-down restaurant opened on the corner of Maple Street, nobody gave it a second glance. The faded sign and cracked windows made it look like it would close within a month. But one evening, Sarah decided to give it a try after smelling something incredible from the doorway. The food was absolutely extraordinary — rich flavors she had never experienced before. Within weeks, food critics were raving about the place, and it became the hardest reservation in the city. Sarah always tells her friends that you can't judge a book by its cover, because the best things in life often come in the most unexpected packages.",
+    "topicTag": "hidden gems",
+    "moodTag": "delighted"
+  },
+  "meaning": {
+    "literalMeaningKo": "책의 표지만 보고 그 책을 판단할 수 없다는 뜻입니다.",
+    "realUsageKo": "외모나 첫인상만으로 사람이나 사물의 진짜 가치를 판단해서는 안 된다는 의미로 사용됩니다. 겉보기와 실제가 다를 수 있음을 경고할 때 자주 쓰입니다.",
+    "etymologyKo": "1800년대 중반 영어권에서 유래한 속담으로, 실제로 책의 표지 디자인이 내용의 질을 반영하지 않는다는 경험에서 비롯되었습니다.",
+    "nuanceKo": "가벼운 충고나 교훈을 전할 때 주로 사용되며, 격식체보다는 일상 대화에서 자연스럽게 쓰입니다. 상대방의 편견을 부드럽게 지적할 때 적절합니다.",
+    "shortExampleEn": "He may look intimidating, but you can't judge a book by its cover — he's actually really kind.",
+    "shortExampleKo": "그 사람이 무서워 보일 수 있지만, 겉모습으로 판단하면 안 돼 — 실제로는 정말 친절한 사람이야."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "close-a-deal_cdc524f3",
+  "expression": "close a deal",
+  "selectionMeta": {
+    "selectedPhrase": "close a deal",
+    "selectedSenseLabelKo": "거래를 성사시키다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After months of negotiation, our sales team finally managed to close a deal with the largest distributor in Southeast Asia."
+  },
+  "step2": {
+    "story": "Sarah had been working on the partnership proposal for six weeks straight. When the client finally signed the contract, she could barely contain her excitement — she had closed a deal worth over two million dollars. Her manager immediately promoted her to senior account executive.",
+    "topicTag": "career achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "James wiped his palms on his trousers before stepping into the conference room. The investors from Tokyo had flown in specifically for this meeting, and everything hinged on today's presentation. He walked them through the revenue projections, answered every tough question with confidence, and addressed their concerns about market volatility. By the time lunch arrived, the lead investor extended her hand with a smile. James shook it firmly — he had just closed a deal that would fund the company's expansion into three new markets. Back at his desk, he stared at the signed documents and let out a long breath he didn't know he'd been holding.",
+    "topicTag": "high-stakes negotiation",
+    "moodTag": "tense then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "거래를 닫다, 즉 거래의 모든 조건을 확정하고 최종 합의에 이르다는 뜻입니다.",
+    "realUsageKo": "비즈니스에서 협상이나 영업 과정을 성공적으로 마무리하여 계약을 체결할 때 사용합니다. 단순히 합의하는 것이 아니라, 실제로 서명이나 결제까지 완료된 상태를 의미합니다.",
+    "etymologyKo": "'Close'는 '마감하다, 종결하다'라는 뜻으로, 거래(deal)의 열린 상태를 닫아 확정짓는다는 비유에서 유래했습니다. 영업 분야에서 20세기 초부터 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "성공적인 결과를 내포하는 긍정적인 표현입니다. 영업·비즈니스 맥락에서 주로 쓰이며, 능력 있고 결단력 있는 인상을 줍니다.",
+    "shortExampleEn": "We need to close this deal before the end of the quarter.",
+    "shortExampleKo": "이번 분기가 끝나기 전에 이 거래를 성사시켜야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "take-in_fd4c1896",
+  "expression": "take in",
+  "selectionMeta": {
+    "selectedPhrase": "take in",
+    "selectedSenseLabelKo": "흡수하다 / 이해하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took me a moment to take in everything the professor said during the lecture."
+  },
+  "step2": {
+    "story": "Sarah sat in the front row of the conference hall, scribbling notes as fast as she could. The speaker covered so many groundbreaking ideas that she struggled to take in all the information at once. After the talk, she grabbed a coffee and reviewed her notes slowly, letting each concept sink in.",
+    "topicTag": "learning",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "When Jake moved to Tokyo for his new job, the city overwhelmed him from the very first day. The neon signs, the packed trains, the polite bowing — there was so much to take in. He wandered through Shibuya with wide eyes, trying to absorb every detail of his new home. His coworker Yuki noticed his dazed expression and laughed. \"Don't worry,\" she said. \"Nobody can take in Tokyo in a single day. Give it a few weeks.\" That advice helped Jake relax and enjoy the process of discovering the city one neighborhood at a time.",
+    "topicTag": "new experiences",
+    "moodTag": "overwhelmed but hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'take in'은 문자 그대로 '안으로 가져가다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 정보, 광경, 경험 등을 '흡수하다', '이해하다', '받아들이다'라는 의미로 가장 많이 쓰입니다. 새로운 것을 보거나 들었을 때 머릿속으로 소화하는 과정을 표현합니다.",
+    "etymologyKo": "'take'(가져가다)와 'in'(안으로)의 결합으로, 외부의 것을 내면으로 받아들인다는 물리적 이미지에서 '이해하다/흡수하다'라는 추상적 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '듣다'보다는 깊이 이해하고 소화한다는 뉘앙스가 있습니다. 정보량이 많거나 감정적으로 강한 경험을 처리할 때 자주 사용됩니다.",
+    "shortExampleEn": "There was so much beauty to take in at the museum.",
+    "shortExampleKo": "박물관에서 감상해야 할 아름다운 것들이 너무 많았다."
+  }
+}

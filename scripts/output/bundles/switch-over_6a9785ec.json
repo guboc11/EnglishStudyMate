@@ -1,0 +1,30 @@
+{
+  "id": "switch-over_6a9785ec",
+  "expression": "switch over",
+  "selectionMeta": {
+    "selectedPhrase": "switch over",
+    "selectedSenseLabelKo": "전환하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We decided to switch over to a new project management tool because the old one was too slow."
+  },
+  "step2": {
+    "story": "The company had been using the same email system for ten years. When it started crashing every week, the IT team convinced everyone to switch over to a cloud-based platform. Within a month, productivity jumped and nobody missed the old system.",
+    "topicTag": "workplace technology",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "Mina had always cooked with gas, just like her mother and grandmother before her. But when she moved into her new apartment, the kitchen only had an electric stove. At first, she hated it — the heat felt uneven and unpredictable. Her neighbor, a retired chef, told her she just needed time to adjust. After a few weeks of experimenting, Mina managed to switch over completely and even started to appreciate the precise temperature control. Now she couldn't imagine going back to gas.",
+    "topicTag": "adapting to change",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "스위치를 넘기듯이 한쪽에서 다른 쪽으로 바꾸다.",
+    "realUsageKo": "기존에 쓰던 것(시스템, 방법, 도구 등)을 완전히 다른 것으로 전환할 때 사용합니다. 단순히 '바꾸다'보다 이전 것을 놓고 새것으로 넘어간다는 뉘앙스가 강합니다.",
+    "etymologyKo": "'switch'는 원래 가느다란 막대기로 방향을 바꾸다에서 유래했고, 'over'가 붙어 한쪽에서 다른 쪽으로 완전히 넘어간다는 의미가 되었습니다.",
+    "nuanceKo": "일시적 변경이 아니라 비교적 영구적이고 의도적인 전환을 나타냅니다. 격식/비격식 모두 자연스럽게 쓰입니다.",
+    "shortExampleEn": "We switched over to renewable energy last year.",
+    "shortExampleKo": "우리는 작년에 재생 에너지로 전환했다."
+  }
+}

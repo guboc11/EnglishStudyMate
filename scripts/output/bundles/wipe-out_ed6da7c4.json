@@ -1,0 +1,30 @@
+{
+  "id": "wipe-out_ed6da7c4",
+  "expression": "wipe out",
+  "selectionMeta": {
+    "selectedPhrase": "wipe out",
+    "selectedSenseLabelKo": "완전히 없애다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new policy was designed to wipe out corruption at every level of government."
+  },
+  "step2": {
+    "story": "After years of neglect, invasive weeds had taken over the entire garden. Sarah spent the whole weekend pulling them up, determined to wipe out every last one. By Sunday evening, the flower beds were finally clear and ready for new planting.",
+    "topicTag": "persistence",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The small coastal village had struggled with mosquito-borne illness for decades. Every summer, families dreaded the rainy season when the outbreaks would peak. Then a team of researchers arrived with a new biological treatment that targeted mosquito larvae in standing water. Within two seasons, they managed to wipe out the mosquito population in the area almost entirely. The village clinic, once overwhelmed with patients, now stood quiet on most days. For the first time in living memory, children played outside after dusk without fear.",
+    "topicTag": "public health",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'닦아서(wipe) 밖으로 내보내다(out)'라는 뜻으로, 무언가를 깨끗이 제거한다는 의미입니다.",
+    "realUsageKo": "실제로는 '완전히 없애다, 전멸시키다'라는 뜻으로 사용됩니다. 질병, 부채, 적군, 나쁜 습관 등을 뿌리째 제거할 때 널리 쓰입니다.",
+    "etymologyKo": "wipe(닦다)와 out(밖으로)의 결합으로, 표면을 깨끗이 닦아내듯 흔적 없이 제거한다는 이미지에서 유래했습니다.",
+    "nuanceKo": "단순히 '줄이다'가 아니라 '완전히, 남김없이 없앤다'는 강한 어감을 가집니다. 긍정적(질병 퇴치)이든 부정적(재산 손실)이든 모두 사용 가능합니다.",
+    "shortExampleEn": "The flood wiped out the entire village.",
+    "shortExampleKo": "홍수가 마을 전체를 쓸어버렸다."
+  }
+}

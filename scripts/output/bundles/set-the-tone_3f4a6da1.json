@@ -1,0 +1,30 @@
+{
+  "id": "set-the-tone_3f4a6da1",
+  "expression": "set the tone",
+  "selectionMeta": {
+    "selectedPhrase": "set the tone",
+    "selectedSenseLabelKo": "분위기를 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The CEO's opening speech really set the tone for the entire conference, making everyone feel inspired and ready to collaborate."
+  },
+  "step2": {
+    "story": "On the first day of school, Ms. Parker walked in with a warm smile and immediately set the tone by telling her students they were free to make mistakes. The classroom buzzed with relief, and even the shyest kids started raising their hands. It was going to be a great year.",
+    "topicTag": "education",
+    "moodTag": "warm and encouraging"
+  },
+  "step3": {
+    "story": "David had just been promoted to team lead, and his first Monday morning meeting was critical. He knew the previous manager had ruled through fear, so he needed to set the tone right away. Instead of diving into deadlines, he opened with a simple question: 'What's one thing that frustrated you last month?' The room went quiet at first, but then one brave soul spoke up, and others followed. By the end of the meeting, the team had an honest list of problems and a shared plan to fix them. That single conversation set the tone for a culture of openness that lasted long after David moved on.",
+    "topicTag": "leadership",
+    "moodTag": "hopeful and transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '톤(어조/분위기)을 설정하다'라는 뜻입니다.",
+    "realUsageKo": "어떤 상황이나 행사의 전체적인 분위기나 방향을 처음부터 결정짓는 행동이나 말을 할 때 사용합니다. 첫인상이나 초반 행동이 이후 전체 흐름에 영향을 미친다는 의미입니다.",
+    "etymologyKo": "음악에서 유래한 표현으로, 연주 시작 전 기준 음(tone)을 맞추는 행위에서 비롯되었습니다. 기준 음이 전체 곡의 분위기를 결정하듯, 초반 행동이 전체 분위기를 결정한다는 뜻으로 확장되었습니다.",
+    "nuanceKo": "주로 긍정적인 맥락에서 쓰이지만, 부정적인 분위기를 설정할 때도 사용할 수 있습니다. 리더십이나 공식적인 상황에서 자주 등장하며, 의도적이고 영향력 있는 행동을 암시합니다.",
+    "shortExampleEn": "Her kind words at the start set the tone for a productive discussion.",
+    "shortExampleKo": "그녀의 친절한 첫마디가 생산적인 토론의 분위기를 잡아 주었다."
+  }
+}

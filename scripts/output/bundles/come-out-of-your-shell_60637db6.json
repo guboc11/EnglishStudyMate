@@ -1,0 +1,30 @@
+{
+  "id": "come-out-of-your-shell_60637db6",
+  "expression": "come out of your shell",
+  "selectionMeta": {
+    "selectedPhrase": "come out of your shell",
+    "selectedSenseLabelKo": "마음을 열다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a few weeks at her new school, Maya finally started to come out of her shell and make friends."
+  },
+  "step2": {
+    "story": "Daniel had always been the quiet one at office gatherings, standing alone by the snack table. But when his team started a weekly board game night, he slowly came out of his shell. By the end of the month, he was the one organizing the events and cracking jokes that made everyone laugh.",
+    "topicTag": "social connection",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Jisu moved to Vancouver for university, she barely spoke to anyone for the first two months. She ate lunch alone, studied alone, and spent her weekends video-calling her parents back in Korea. One day, her roommate Anna dragged her to a pottery class at the community center. Jisu was terrified at first, but the instructor was patient and the other students were kind. Week by week, she came out of her shell — sharing stories about her hometown, laughing at her own lopsided bowls, and even suggesting they all grab dinner after class. By spring, Jisu realized she had built a whole circle of friends without even trying.",
+    "topicTag": "personal growth",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '자신의 껍데기 밖으로 나오다'라는 뜻으로, 거북이가 등딱지에서 머리를 내미는 모습을 떠올리면 됩니다.",
+    "realUsageKo": "수줍거나 내성적이던 사람이 점차 마음을 열고 사교적으로 변하는 것을 의미합니다. 주로 긍정적인 변화를 묘사할 때 사용합니다.",
+    "etymologyKo": "거북이나 달팽이가 위험을 느끼면 껍데기 안으로 숨고, 안전하면 밖으로 나오는 모습에서 유래한 비유 표현입니다.",
+    "nuanceKo": "따뜻하고 격려하는 톤으로 쓰이며, 부정적인 뉘앙스 없이 누군가의 성장이나 변화를 응원하는 느낌입니다. 주로 'slowly', 'finally', 'started to' 같은 표현과 함께 점진적 변화를 나타냅니다.",
+    "shortExampleEn": "He really came out of his shell after joining the drama club.",
+    "shortExampleKo": "그는 연극 동아리에 들어간 후 정말 마음을 열기 시작했다."
+  }
+}

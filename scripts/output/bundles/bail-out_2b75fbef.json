@@ -1,0 +1,30 @@
+{
+  "id": "bail-out_2b75fbef",
+  "expression": "bail out",
+  "selectionMeta": {
+    "selectedPhrase": "bail out",
+    "selectedSenseLabelKo": "구제하다 / 빠져나오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The government decided to bail out the struggling airline before it went bankrupt."
+  },
+  "step2": {
+    "story": "Mark's small restaurant was drowning in debt after months of low sales. Just when he was about to close the doors for good, his older brother offered to bail him out with a generous loan. With tears in his eyes, Mark promised to pay back every cent.",
+    "topicTag": "financial hardship",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "When the 2008 financial crisis hit, thousands of homeowners found themselves unable to pay their mortgages. Banks teetered on the edge of collapse, and panic spread through Wall Street like wildfire. The federal government stepped in to bail out the largest financial institutions, injecting billions of taxpayer dollars into the system. Critics argued that the banks should have been allowed to fail, while supporters insisted the bailout prevented a complete economic meltdown. Years later, economists still debate whether it was the right call. One thing was certain — ordinary citizens felt they had been left to fend for themselves while the powerful were rescued.",
+    "topicTag": "economic crisis",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'bail'은 보석금, 'out'은 밖으로라는 뜻으로, 누군가를 곤경에서 빠져나오게 해준다는 의미입니다.",
+    "realUsageKo": "재정적으로 어려운 상황에 있는 사람이나 조직을 돈이나 자원으로 도와서 구제할 때 사용합니다. 또한 어려운 상황에서 스스로 빠져나올 때도 쓰입니다.",
+    "etymologyKo": "원래 'bail'은 법정에서 보석금을 내고 구금에서 풀려나는 것을 의미했으며, 이것이 확장되어 곤경에서 구해주다라는 일반적인 의미로 발전했습니다.",
+    "nuanceKo": "주로 재정적 위기 상황에서 많이 쓰이며, 구제받는 쪽이 스스로 해결할 능력이 없음을 암시하는 뉘앙스가 있습니다. 비격식적 상황에서도 자연스럽게 사용됩니다.",
+    "shortExampleEn": "My parents had to bail me out when I couldn't pay my rent.",
+    "shortExampleKo": "월세를 낼 수 없었을 때 부모님이 나를 구제해 주셔야 했다."
+  }
+}

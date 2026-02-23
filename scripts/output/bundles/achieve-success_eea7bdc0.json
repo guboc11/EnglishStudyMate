@@ -1,0 +1,30 @@
+{
+  "id": "achieve-success_eea7bdc0",
+  "expression": "achieve success",
+  "selectionMeta": {
+    "selectedPhrase": "achieve success",
+    "selectedSenseLabelKo": "성공을 이루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of hard work and dedication, she finally managed to achieve success in her career as a software engineer."
+  },
+  "step2": {
+    "story": "Mark had been running his small bakery for five years without much profit. He refused to give up, experimenting with new recipes and building a loyal customer base. When a food magazine featured his shop, he knew he had finally achieved success.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "persevering"
+  },
+  "step3": {
+    "story": "Lisa stared at the rejection letter from yet another publisher. It was the fourteenth one this year, and doubt was creeping in. But she remembered her grandmother's words: nothing worth having comes easy. She revised her manuscript one more time, pouring her heart into every chapter. Six months later, a small publishing house offered her a deal. Standing in the bookstore, holding her printed novel, Lisa realized that achieving success was never about the destination — it was about refusing to quit.",
+    "topicTag": "creative pursuit",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'성공을 달성하다'라는 뜻으로, achieve는 노력 끝에 무언가를 이루다, success는 성공을 의미합니다.",
+    "realUsageKo": "단순히 운이 좋아서가 아니라, 오랜 노력과 인내 끝에 목표를 이루었을 때 주로 사용합니다. 커리어, 학업, 사업 등 다양한 분야에서 쓰입니다.",
+    "etymologyKo": "achieve는 고대 프랑스어 achever(끝내다, 완성하다)에서 유래했고, success는 라틴어 successus(좋은 결과)에서 왔습니다. 합쳐서 '노력의 결실을 맺다'라는 의미를 갖습니다.",
+    "nuanceKo": "achieve success는 격식 있는 표현으로 에세이, 연설, 비즈니스 맥락에서 자주 쓰입니다. 일상 대화에서는 'make it'이나 'do well'이 더 자연스럽습니다.",
+    "shortExampleEn": "You can achieve success if you stay focused and never give up.",
+    "shortExampleKo": "집중력을 잃지 않고 포기하지 않으면 성공을 이룰 수 있습니다."
+  }
+}

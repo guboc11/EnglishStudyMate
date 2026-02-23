@@ -1,0 +1,30 @@
+{
+  "id": "shut-down_ae37c4e2",
+  "expression": "shut down",
+  "selectionMeta": {
+    "selectedPhrase": "shut down",
+    "selectedSenseLabelKo": "종료하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company had to shut down its oldest factory due to rising costs."
+  },
+  "step2": {
+    "story": "After years of declining sales, the board finally voted to shut down the downtown branch. The employees were given three months' notice and generous severance packages. It was a tough decision, but everyone knew it was long overdue.",
+    "topicTag": "business decisions",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "Maya stared at the flickering server lights in the data center, her fingers hovering over the keyboard. The CEO had just called an emergency meeting to announce they would shut down the entire platform by midnight. She had built this system from scratch five years ago, back when the startup was just three people in a garage. Now, hundreds of engineers were packing up their desks in silence. Maya typed the final command and watched the monitors go dark one by one. As she walked out into the cold night air, she whispered a quiet goodbye to the place that had changed her life.",
+    "topicTag": "career ending",
+    "moodTag": "melancholic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'닫아서 아래로 내리다'라는 뜻으로, 무언가를 완전히 닫거나 멈추게 한다는 의미입니다.",
+    "realUsageKo": "컴퓨터, 기계, 공장, 사업체 등을 완전히 종료하거나 폐쇄할 때 사용합니다. 'turn off'보다 더 완전하고 공식적인 종료를 의미합니다.",
+    "etymologyKo": "'shut(닫다)'와 'down(아래로)'이 결합된 구동사로, 원래 기계의 밸브를 닫아 작동을 멈추는 데서 유래했습니다.",
+    "nuanceKo": "단순히 끄는 것이 아니라 완전히 운영을 중단한다는 강한 어감을 가집니다. 사업이나 시스템의 영구적 폐쇄에도 자주 쓰입니다.",
+    "shortExampleEn": "Please shut down your computer before you leave the office.",
+    "shortExampleKo": "퇴근하기 전에 컴퓨터를 종료해 주세요."
+  }
+}

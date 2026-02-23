@@ -1,0 +1,30 @@
+{
+  "id": "lose-focus_3dd29af8",
+  "expression": "lose focus",
+  "selectionMeta": {
+    "selectedPhrase": "lose focus",
+    "selectedSenseLabelKo": "집중력을 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I tend to lose focus after sitting at my desk for more than two hours without a break."
+  },
+  "step2": {
+    "story": "Mina had been studying for her finals since early morning. By noon, she started to lose focus and kept rereading the same paragraph over and over. She decided to take a short walk outside before returning to her books with fresh eyes.",
+    "topicTag": "studying",
+    "moodTag": "tired"
+  },
+  "step3": {
+    "story": "Jason was leading the quarterly presentation when the fire alarm in the next building started blaring. Everyone in the conference room turned their heads toward the window, and Jason could feel the audience beginning to lose focus. He paused mid-sentence, waiting for the noise to stop. When silence returned, he cracked a joke about the timing and got a round of laughter. The brief interruption actually helped him reset the energy in the room. By the end, his team called it the best presentation he had ever given.",
+    "topicTag": "workplace presentation",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'focus(집중)'를 'lose(잃다)'한다는 뜻으로, 말 그대로 집중 상태를 잃는 것을 의미합니다.",
+    "realUsageKo": "공부, 업무, 대화 등에서 주의력이 흐트러지거나 딴생각이 날 때 널리 사용됩니다. 'I keep losing focus'처럼 반복적으로 집중이 안 되는 상황에도 자주 씁니다.",
+    "etymologyKo": "'lose'는 고대 영어 'losian(파괴되다, 잃다)'에서, 'focus'는 라틴어 'focus(화덕, 중심점)'에서 유래했습니다. 17세기 광학에서 '초점'이라는 뜻으로 쓰이다가 '집중'이라는 추상적 의미로 확장되었습니다.",
+    "nuanceKo": "부정적이지만 가볍고 일상적인 표현입니다. 자기 자신의 상태를 솔직하게 표현할 때 자연스럽게 쓰이며, 심각한 문제보다는 누구에게나 일어나는 흔한 일로 받아들여집니다.",
+    "shortExampleEn": "It's hard not to lose focus when the meeting drags on for hours.",
+    "shortExampleKo": "회의가 몇 시간씩 길어지면 집중력을 잃지 않기가 어렵다."
+  }
+}

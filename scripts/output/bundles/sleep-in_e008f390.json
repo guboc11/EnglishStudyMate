@@ -1,0 +1,30 @@
+{
+  "id": "sleep-in_e008f390",
+  "expression": "sleep in",
+  "selectionMeta": {
+    "selectedPhrase": "sleep in",
+    "selectedSenseLabelKo": "늦잠 자다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Since tomorrow is Saturday, I'm going to sleep in and skip my morning run."
+  },
+  "step2": {
+    "story": "After working overtime every day that week, Maya finally had a day off. She turned off all her alarms and decided to sleep in until noon. When she woke up to sunlight streaming through the curtains, she felt completely recharged.",
+    "topicTag": "weekend recovery",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jake had been setting his alarm for 5:30 AM every single day for three months straight. His startup was launching soon, and there was always something urgent to fix. But when the product finally went live and the first wave of positive reviews came in, his co-founder sent a simple message: 'Take tomorrow off.' For the first time in what felt like forever, Jake got to sleep in without a shred of guilt. He didn't roll out of bed until almost eleven, shuffling to the kitchen in his pajamas with a lazy grin. That slow, quiet morning reminded him why he had been working so hard in the first place.",
+    "topicTag": "work-life balance",
+    "moodTag": "content"
+  },
+  "meaning": {
+    "literalMeaningKo": "'안에서 잠자다'라는 뜻으로, 평소보다 오래 잠을 자는 것을 의미합니다.",
+    "realUsageKo": "주로 주말이나 휴일에 알람 없이 평소보다 늦게까지 자는 상황에서 사용합니다. 의도적으로 늦잠을 자는 느낌이 강합니다.",
+    "etymologyKo": "'sleep'(잠자다)과 'in'(안에)의 결합으로, 침대 안에 오래 머무른다는 이미지에서 유래했습니다.",
+    "nuanceKo": "긍정적이고 여유로운 뉘앙스로 쓰이며, 바쁜 일상에서 벗어나 충분히 쉬는 느낌을 줍니다. 'oversleep'(늦잠으로 지각하다)과 달리 부정적 의미가 없습니다.",
+    "shortExampleEn": "I love to sleep in on rainy Sunday mornings.",
+    "shortExampleKo": "비 오는 일요일 아침에 늦잠 자는 걸 좋아해요."
+  }
+}

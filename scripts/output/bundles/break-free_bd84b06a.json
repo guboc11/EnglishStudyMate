@@ -1,0 +1,30 @@
+{
+  "id": "break-free_bd84b06a",
+  "expression": "break free",
+  "selectionMeta": {
+    "selectedPhrase": "break free",
+    "selectedSenseLabelKo": "자유로워지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of working a job she hated, she finally decided to break free and start her own business."
+  },
+  "step2": {
+    "story": "Maya had spent five years in a tiny cubicle, dreaming of something more. One rainy Monday morning, she handed in her resignation and felt a wave of relief wash over her. She had finally managed to break free from the routine that was slowly draining her spirit.",
+    "topicTag": "career change",
+    "moodTag": "liberating"
+  },
+  "step3": {
+    "story": "For as long as he could remember, Daniel had followed his father's plan — the right school, the right degree, the right job. But every evening, he sat alone in his apartment sketching characters for a graphic novel he never showed anyone. One night, his best friend saw the drawings and said they were incredible. That conversation planted a seed that grew for months. Eventually, Daniel enrolled in an art program and told his family the truth about what he really wanted. It wasn't easy, but he knew he had to break free from other people's expectations to finally live his own life.",
+    "topicTag": "self-discovery",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "'깨뜨리다(break)'와 '자유로운(free)'의 결합으로, 무언가를 부수고 자유로워진다는 뜻입니다.",
+    "realUsageKo": "물리적 속박에서 벗어나는 것뿐 아니라, 나쁜 습관·억압적 관계·지루한 일상 등 정신적·감정적 제약에서 벗어날 때도 널리 쓰입니다.",
+    "etymologyKo": "'break'는 고대 영어 brecan(부수다)에서 유래했고, 'free'는 게르만어 fri(자유로운)에서 왔습니다. 두 단어가 합쳐져 '구속을 깨고 자유로워지다'라는 의미가 되었습니다.",
+    "nuanceKo": "단순히 '떠나다'보다 훨씬 강한 어감으로, 오랜 억압이나 제약에서 벗어나는 결단과 해방감을 강조합니다. 긍정적이고 힘 있는 느낌의 표현입니다.",
+    "shortExampleEn": "She broke free from her fears and gave a speech in front of hundreds of people.",
+    "shortExampleKo": "그녀는 두려움에서 벗어나 수백 명 앞에서 연설을 했다."
+  }
+}

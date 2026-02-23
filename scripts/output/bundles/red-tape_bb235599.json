@@ -1,0 +1,30 @@
+{
+  "id": "red-tape_bb235599",
+  "expression": "red tape",
+  "selectionMeta": {
+    "selectedPhrase": "red tape",
+    "selectedSenseLabelKo": "관료적 형식주의",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We wanted to open the restaurant by June, but all the red tape from the city permits slowed us down by months."
+  },
+  "step2": {
+    "story": "Maya had a brilliant idea for a community garden in her neighborhood. She submitted her proposal to city hall, but weeks turned into months as she navigated endless red tape — permits, inspections, zoning approvals. By the time everything was approved, she'd almost lost her enthusiasm, but the first bloom made it all worth it.",
+    "topicTag": "bureaucracy",
+    "moodTag": "frustrated but persistent"
+  },
+  "step3": {
+    "story": "Daniel had spent three years developing a breakthrough medical device that could save thousands of lives. His team celebrated when the prototype passed every lab test with flying colors. But when they applied for government approval, they hit a wall of red tape that no one had anticipated. Every form led to another form, every department pointed them to a different office, and every deadline seemed to shift without warning. His investors grew impatient, and his engineers started looking for other jobs. Daniel refused to give up — he hired a regulatory specialist, simplified their application, and after eighteen grueling months, finally received the green light to bring his invention to market.",
+    "topicTag": "innovation vs bureaucracy",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '빨간 테이프'로, 공문서를 묶던 붉은 리본을 의미합니다.",
+    "realUsageKo": "정부나 기관의 복잡하고 불필요해 보이는 행정 절차나 규제를 비판적으로 가리킬 때 사용합니다. 주로 일이 지연되거나 막힐 때 쓰입니다.",
+    "etymologyKo": "16세기 유럽에서 공식 법률 문서와 행정 서류를 붉은 색 리본이나 테이프로 묶어 보관하던 관행에서 유래했습니다. 이후 관료주의적 절차 자체를 상징하게 되었습니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강하며, 비효율적이고 답답한 행정 절차에 대한 불만을 표현할 때 주로 사용합니다. 격식체보다는 일상 대화나 뉴스에서 자주 쓰입니다.",
+    "shortExampleEn": "Starting a small business involves cutting through a lot of red tape.",
+    "shortExampleKo": "소규모 사업을 시작하려면 많은 행정적 절차를 거쳐야 합니다."
+  }
+}

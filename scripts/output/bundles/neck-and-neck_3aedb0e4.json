@@ -1,0 +1,30 @@
+{
+  "id": "neck-and-neck_3aedb0e4",
+  "expression": "neck and neck",
+  "selectionMeta": {
+    "selectedPhrase": "neck and neck",
+    "selectedSenseLabelKo": "막상막하",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The two candidates are neck and neck in the polls, so nobody can predict who will win the election."
+  },
+  "step2": {
+    "story": "Sarah and Mike had been competing for the top sales position all quarter. By the final week, they were neck and neck with nearly identical numbers. The whole office watched nervously as the last deals came in, wondering who would pull ahead.",
+    "topicTag": "workplace competition",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The annual city marathon attracted thousands of runners, but all eyes were on two athletes: defending champion Yuna and newcomer David. For the first 30 kilometers, they ran side by side, matching each other stride for stride. The crowd roared as the pair remained neck and neck entering the final stretch. Yuna pushed harder, her face tight with effort, but David stayed right beside her. With just 200 meters to go, neither runner could gain an advantage. They crossed the finish line at almost the exact same moment, and the judges had to review the photo finish to declare a winner.",
+    "topicTag": "sports rivalry",
+    "moodTag": "thrilling"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '목과 목'으로, 경주에서 두 말의 목이 나란히 있는 모습을 뜻합니다.",
+    "realUsageKo": "경쟁이나 시합에서 두 상대가 거의 동등한 수준으로 겨루고 있을 때 사용합니다. 선거, 스포츠, 비즈니스 등 다양한 경쟁 상황에서 쓰입니다.",
+    "etymologyKo": "17세기 영국 경마에서 유래한 표현으로, 두 말이 결승선에 나란히 도착해 목의 위치로 승부를 가려야 할 정도로 접전인 상황을 묘사한 것입니다.",
+    "nuanceKo": "긴장감이 있고 결과를 예측하기 어려운 박빙의 상황을 강조할 때 씁니다. 격식/비격식 모두 사용 가능하며, 긍정적이거나 중립적인 톤입니다.",
+    "shortExampleEn": "The two teams are neck and neck going into the final round.",
+    "shortExampleKo": "두 팀이 마지막 라운드를 앞두고 막상막하입니다."
+  }
+}

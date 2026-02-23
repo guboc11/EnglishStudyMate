@@ -1,0 +1,30 @@
+{
+  "id": "catch-up-on_8851c65e",
+  "expression": "catch up on",
+  "selectionMeta": {
+    "selectedPhrase": "catch up on",
+    "selectedSenseLabelKo": "밀린 것을 따라잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to catch up on all the emails I missed while I was on vacation last week."
+  },
+  "step2": {
+    "story": "After being sick for three days, Mina returned to the office with a mountain of unread reports on her desk. She grabbed a large coffee and told her coworker she'd need the whole afternoon to catch up on everything. By evening, she had cleared every last item and felt a wave of relief wash over her.",
+    "topicTag": "work productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jiwon had always been a dedicated student, but a family emergency forced him to miss two full weeks of lectures. When he finally returned to campus, his classmates were already deep into midterm preparation. He felt a knot in his stomach as he realized how much material had piled up. That weekend, he locked himself in the library and began to catch up on every chapter he had missed. His friend Suzy brought him snacks and shared her notes, making the process a little less overwhelming. By Sunday night, exhausted but confident, Jiwon felt he was finally back on track.",
+    "topicTag": "academic pressure",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'뒤처진 것을 잡아서 따라가다'라는 뜻으로, 놓치거나 밀린 것을 해결한다는 의미입니다.",
+    "realUsageKo": "밀린 일, 못 본 뉴스, 안 읽은 책 등 시간이 지나면서 쌓인 것들을 뒤늦게 처리하거나 확인할 때 씁니다. 예를 들어 밀린 드라마를 몰아볼 때도 'catch up on'을 사용합니다.",
+    "etymologyKo": "'catch up'은 뒤처진 사람이 달려서 앞사람을 따라잡는다는 물리적 이미지에서 유래했고, 여기에 'on'이 붙어 '~에 대해 따라잡다'라는 대상을 지정하는 형태가 되었습니다.",
+    "nuanceKo": "단순히 '하다'가 아니라 '이미 늦었지만 지금이라도 해치운다'는 뉘앙스가 있어서, 약간의 부담감이나 밀렸다는 전제가 깔려 있습니다. 일상 대화에서 매우 자주 쓰이는 자연스러운 표현입니다.",
+    "shortExampleEn": "I spent the weekend catching up on sleep.",
+    "shortExampleKo": "나는 주말 동안 밀린 잠을 보충했다."
+  }
+}

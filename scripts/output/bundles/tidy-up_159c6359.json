@@ -1,0 +1,30 @@
+{
+  "id": "tidy-up_159c6359",
+  "expression": "tidy up",
+  "selectionMeta": {
+    "selectedPhrase": "tidy up",
+    "selectedSenseLabelKo": "정리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to tidy up my desk before the meeting starts."
+  },
+  "step2": {
+    "story": "Sarah glanced around her apartment and sighed — clothes were draped over chairs and dishes filled the sink. She decided to tidy up before her friends arrived for dinner. Within an hour, the place looked completely different, and she felt a wave of calm wash over her.",
+    "topicTag": "daily routine",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "Every Sunday morning, Jake had the same ritual. He would brew a fresh pot of coffee, put on his favorite playlist, and begin to tidy up the entire apartment. He started with the living room, folding blankets and organizing the bookshelf that always seemed to fall into chaos during the week. Then he moved to the kitchen, wiping down counters and putting away the pots that had been drying since Friday night. By noon, every surface gleamed and the air smelled faintly of lemon cleaner. It wasn't just about cleaning — it was his way of resetting his mind for the week ahead.",
+    "topicTag": "weekend habits",
+    "moodTag": "peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'tidy'는 '깔끔한', 'up'은 '완전히'라는 뜻으로, 직역하면 '깔끔하게 만들다'입니다.",
+    "realUsageKo": "방, 책상, 공간 등을 정리정돈할 때 일상적으로 사용하는 표현입니다. 대청소보다는 가볍게 어질러진 것을 치우는 느낌으로 쓰입니다.",
+    "etymologyKo": "'tidy'는 중세 영어 'tidi(제때의, 적절한)'에서 유래했으며, 시간이 지나면서 '깔끔한, 정돈된'이라는 뜻으로 변화했습니다. 'up'이 붙어 동작의 완료를 강조합니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 'clean up'보다 가볍고 부담 없는 정리를 뜻합니다. 주로 영국 영어에서 자주 쓰이며, 미국에서는 'clean up'이 더 일반적입니다.",
+    "shortExampleEn": "Can you tidy up your room before grandma comes?",
+    "shortExampleKo": "할머니 오시기 전에 방 좀 정리해 줄래?"
+  }
+}

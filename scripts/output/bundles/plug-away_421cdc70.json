@@ -1,0 +1,30 @@
+{
+  "id": "plug-away_421cdc70",
+  "expression": "plug away",
+  "selectionMeta": {
+    "selectedPhrase": "plug away",
+    "selectedSenseLabelKo": "꾸준히 노력하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She's been plugging away at her thesis for months, and it's finally starting to come together."
+  },
+  "step2": {
+    "story": "Marcus had been plugging away at learning Korean for over a year. Some days the grammar felt impossible, but he refused to quit. When he finally held a full conversation with a native speaker, every hour of study felt worth it.",
+    "topicTag": "language learning",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jenna stared at the blank canvas in her tiny studio apartment. She had quit her corporate job six months ago to pursue art full-time, and self-doubt crept in almost daily. But every morning, she plugged away at her craft, layering colors and experimenting with new techniques. Her friends kept asking when she'd give up and find a 'real job' again. Then one afternoon, a gallery owner wandered into her pop-up show and offered her a solo exhibition. All those quiet hours of plugging away had finally opened a door she'd only dreamed about.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'plug'(플러그를 꽂다)와 'away'(계속)의 조합으로, 무언가에 플러그를 꽂고 계속 돌리듯 꾸준히 작업하다는 뜻입니다.",
+    "realUsageKo": "힘들거나 지루한 일을 포기하지 않고 꾸준히 계속하다는 의미로 사용됩니다. 특히 당장 결과가 보이지 않아도 묵묵히 노력을 이어가는 상황에서 자주 씁니다.",
+    "etymologyKo": "'Plug'는 원래 구멍을 막는 마개를 뜻했으며, 19세기에 '꾸준히 치다/두드리다'라는 속어적 의미가 생겼습니다. 여기에 지속을 나타내는 'away'가 결합되어 '쉬지 않고 계속 노력하다'라는 구동사가 되었습니다.",
+    "nuanceKo": "화려하거나 극적인 노력이 아니라, 조용하고 꾸준한 노력을 강조하는 표현입니다. 긍정적인 뉘앙스가 강하며, 인내심과 끈기를 칭찬할 때 주로 사용됩니다.",
+    "shortExampleEn": "Even when progress was slow, he just kept plugging away.",
+    "shortExampleKo": "진전이 느릴 때도, 그는 그냥 꾸준히 노력을 계속했다."
+  }
+}

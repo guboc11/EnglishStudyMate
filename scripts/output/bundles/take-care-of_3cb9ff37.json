@@ -1,0 +1,30 @@
+{
+  "id": "take-care-of_3cb9ff37",
+  "expression": "take care of",
+  "selectionMeta": {
+    "selectedPhrase": "take care of",
+    "selectedSenseLabelKo": "돌보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My neighbor asked me to take care of her plants while she's on vacation."
+  },
+  "step2": {
+    "story": "When Sarah's mother fell ill, she immediately flew back home to take care of her. She cooked warm meals and made sure her mother took her medicine on time. After two weeks of devoted care, her mother finally started to feel better.",
+    "topicTag": "family care",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "James had always been independent, but after his knee surgery, he couldn't even walk to the kitchen. His younger sister moved in temporarily to take care of him. Every morning, she prepared breakfast and helped him with his physical therapy exercises. At first, James felt embarrassed about needing so much help. But his sister reminded him that he had taken care of her for years when they were growing up. Slowly, he learned to accept kindness with the same grace he had once given it.",
+    "topicTag": "sibling bond",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "'돌봄을 맡다'라는 뜻으로, 누군가나 무언가를 보살피고 책임진다는 의미입니다.",
+    "realUsageKo": "사람, 동물, 식물 등 생명체를 돌보는 것뿐 아니라, 일이나 문제를 '처리하다'라는 의미로도 자주 쓰입니다. 예를 들어 'I'll take care of the bill'은 '내가 계산할게'라는 뜻입니다.",
+    "etymologyKo": "'take'(취하다)와 'care'(돌봄)의 결합으로, 중세 영어 시기부터 '누군가의 돌봄을 떠맡다'라는 의미로 사용되었습니다.",
+    "nuanceKo": "일상에서 매우 자주 쓰이는 기본 표현으로, 격식 없이 따뜻하고 책임감 있는 어조를 줍니다. 'look after'와 거의 같은 뜻이지만, 'take care of'가 좀 더 능동적이고 책임을 강조하는 느낌입니다.",
+    "shortExampleEn": "Don't worry, I'll take care of everything while you're away.",
+    "shortExampleKo": "걱정 마, 네가 없는 동안 내가 다 알아서 할게."
+  }
+}

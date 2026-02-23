@@ -1,0 +1,30 @@
+{
+  "id": "tear-your-hair-out_1d8ecff3",
+  "expression": "tear your hair out",
+  "selectionMeta": {
+    "selectedPhrase": "tear your hair out",
+    "selectedSenseLabelKo": "몹시 좌절하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I was tearing my hair out trying to fix the bug that kept crashing the entire application."
+  },
+  "step2": {
+    "story": "Sarah had been debugging the same error for six hours straight. She was tearing her hair out because every fix she tried only created new problems. Finally, her colleague spotted a missing semicolon that had caused the whole mess.",
+    "topicTag": "work stress",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Moving to a new country was supposed to be exciting, but the paperwork was a nightmare. Jake spent weeks tearing his hair out over visa applications, bank accounts, and housing contracts — all in a language he barely understood. Every time he thought he had submitted the right documents, the office would request something new. His friends back home kept saying it would be worth it in the end. One rainy Tuesday, after yet another rejection letter, he sat in a café and laughed at the absurdity of it all. Sometimes you just have to let the frustration wash over you before you can move forward.",
+    "topicTag": "life abroad",
+    "moodTag": "overwhelmed"
+  },
+  "meaning": {
+    "literalMeaningKo": "자기 머리카락을 쥐어뜯다.",
+    "realUsageKo": "어떤 문제나 상황 때문에 극도로 좌절하거나 스트레스를 받을 때 사용합니다. 해결책을 찾지 못해 답답해하는 감정을 강조하는 표현입니다.",
+    "etymologyKo": "극심한 스트레스나 좌절감을 느낄 때 실제로 머리카락을 잡아당기는 행동에서 유래한 관용 표현으로, 수백 년 전부터 영어권에서 사용되어 왔습니다.",
+    "nuanceKo": "일상적인 짜증보다는 오랜 시간 시도했지만 해결이 안 되는 상황에서의 깊은 좌절감을 나타냅니다. 구어체에서 자주 쓰이며, 약간의 과장이 섞인 유머러스한 뉘앙스도 있습니다.",
+    "shortExampleEn": "The slow internet connection is making me tear my hair out.",
+    "shortExampleKo": "느린 인터넷 연결 때문에 머리를 쥐어뜯을 지경이에요."
+  }
+}

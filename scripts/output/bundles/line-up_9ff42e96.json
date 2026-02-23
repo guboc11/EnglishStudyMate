@@ -1,0 +1,30 @@
+{
+  "id": "line-up_9ff42e96",
+  "expression": "line up",
+  "selectionMeta": {
+    "selectedPhrase": "line up",
+    "selectedSenseLabelKo": "줄을 서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had to line up outside the bakery for twenty minutes before they opened the doors."
+  },
+  "step2": {
+    "story": "The new smartphone went on sale at midnight, and hundreds of fans began to line up around the block hours early. Despite the freezing wind, nobody wanted to lose their spot. By morning, the line stretched past three city blocks.",
+    "topicTag": "consumer culture",
+    "moodTag": "eager"
+  },
+  "step3": {
+    "story": "Emma arrived at the amusement park right when the gates opened, expecting a quiet morning. To her surprise, families had already started to line up for the most popular roller coaster. She joined the back of the queue and struck up a conversation with the couple ahead of her. They told her the ride was worth every minute of waiting. After forty-five minutes, Emma finally reached the front and climbed into the car. As the coaster launched forward, she decided that lining up had absolutely been worth it.",
+    "topicTag": "weekend adventure",
+    "moodTag": "excited"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '줄(line)을 만들어 서다(up)'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 서비스나 물건을 얻기 위해 차례대로 줄을 서서 기다리는 상황에서 사용합니다. 'Please line up here'처럼 안내 문구에서도 자주 쓰입니다.",
+    "etymologyKo": "'line'은 라틴어 'linea(실, 줄)'에서 유래했고, 'up'이 결합되어 '줄을 형성하다'라는 구동사가 되었습니다.",
+    "nuanceKo": "질서 있게 차례를 지키며 기다린다는 뉘앙스가 있으며, 영국 영어에서는 'queue up'이 더 일반적이지만 미국 영어에서는 'line up'을 많이 씁니다.",
+    "shortExampleEn": "The students lined up in the hallway before entering the classroom.",
+    "shortExampleKo": "학생들은 교실에 들어가기 전에 복도에 줄을 섰다."
+  }
+}

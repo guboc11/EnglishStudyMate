@@ -1,0 +1,30 @@
+{
+  "id": "call-it-a-day_dd2c6256",
+  "expression": "call it a day",
+  "selectionMeta": {
+    "selectedPhrase": "call it a day",
+    "selectedSenseLabelKo": "오늘은 여기서 끝내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We've been working on this report since morning, so let's call it a day and pick up again tomorrow."
+  },
+  "step2": {
+    "story": "Sarah had been debugging the same error for seven hours straight. Her eyes were burning and the coffee had stopped working long ago. She saved her files and told her teammate, \"I'm going to call it a day — fresh eyes will solve this faster than tired ones.\"",
+    "topicTag": "work-life balance",
+    "moodTag": "exhausted but wise"
+  },
+  "step3": {
+    "story": "The renovation crew had been tearing out the old kitchen since six in the morning. Dust coated every surface, and the sound of power tools had become a constant hum in their ears. By late afternoon, the foreman noticed his team moving slower, making small mistakes they wouldn't normally make. He gathered everyone together and said, \"Let's call it a day, folks. We've made solid progress, and I'd rather we come back sharp than push through and end up redoing work.\" The crew gratefully set down their tools, knowing that tomorrow they'd finish the job with energy to spare. Sometimes stopping is the smartest move you can make.",
+    "topicTag": "teamwork and leadership",
+    "moodTag": "pragmatic and caring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '그것을 하루라고 부르다', 즉 오늘의 일을 여기서 마감한다는 뜻입니다.",
+    "realUsageKo": "일이나 활동을 더 이상 하지 않고 그만두겠다는 뜻으로 사용됩니다. 꼭 하루의 끝이 아니어도, 어떤 작업을 충분히 했으니 멈추자는 의미로 폭넓게 쓰입니다.",
+    "etymologyKo": "19세기 미국 영어에서 유래했으며, 원래 'call it half a day'(반나절이라 치자)라는 표현에서 줄어든 것으로 추정됩니다. 공장 노동자들이 작업을 끝낼 때 쓰던 말에서 발전했습니다.",
+    "nuanceKo": "긍정적이고 가벼운 톤의 표현입니다. 포기가 아니라 '충분히 했으니 합리적으로 멈추자'는 뉘앙스를 담고 있어서, 직장에서 자주 사용되며 캐주얼한 대화에서도 흔합니다.",
+    "shortExampleEn": "It's already 9 PM — let's call it a day.",
+    "shortExampleKo": "벌써 밤 9시네 — 오늘은 여기서 끝내자."
+  }
+}

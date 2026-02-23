@@ -1,0 +1,30 @@
+{
+  "id": "make-do-with_809bedee",
+  "expression": "make do with",
+  "selectionMeta": {
+    "selectedPhrase": "make do with",
+    "selectedSenseLabelKo": "~으로 때우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We didn't have fresh pasta, so we had to make do with dried noodles from the pantry."
+  },
+  "step2": {
+    "story": "The camping trip got rained out and half their gear was soaked. Instead of giving up, the group decided to make do with a single tarp and some rope to build a shelter. By nightfall, they were warm and laughing about the whole adventure.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "When Mina moved to a new city for her first job, her apartment was almost completely empty. She had no furniture except a suitcase and a sleeping bag. For the first two weeks, she had to make do with a cardboard box as a desk and stacked books as a chair. Her coworkers offered to lend her things, but she politely declined, wanting to figure it out on her own. Slowly, she picked up secondhand items from weekend markets and online listings. By the end of the month, the apartment finally felt like home, and she was proud of every piece she had earned.",
+    "topicTag": "starting fresh",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '~을 가지고 해내다'라는 뜻입니다.",
+    "realUsageKo": "원하는 것이 없거나 부족할 때, 있는 것으로 그럭저럭 해결하거나 때운다는 의미로 사용됩니다. 불만족스럽지만 상황을 받아들이는 뉘앙스가 있습니다.",
+    "etymologyKo": "'make do'는 18세기부터 쓰인 표현으로, 'do(충분하다)'와 'make(만들다)'가 결합하여 '부족하지만 어떻게든 해내다'라는 뜻을 형성했습니다.",
+    "nuanceKo": "이상적이지 않은 상황에서 불평 없이 적응하는 느낌을 줍니다. 긍정적으로는 '알뜰하고 지혜로운', 부정적으로는 '아쉽지만 어쩔 수 없는' 뉘앙스를 모두 가집니다.",
+    "shortExampleEn": "The hotel was fully booked, so we made do with a small guesthouse nearby.",
+    "shortExampleKo": "호텔이 만실이라 근처의 작은 게스트하우스로 때웠다."
+  }
+}

@@ -28,6 +28,9 @@ const SLEEP_MS = 5_000;       // 정상 처리 후 대기
 const FAIL_SLEEP_MS = 10_000; // 실패 후 대기
 const CLAUDE_TIMEOUT_MS = 120_000;
 
+const LOCK_PATH = TASKS_PATH + '.lock';
+const LOCK_TIMEOUT_MS = 10_000;
+
 // ─── helpers ──────────────────────────────────────────────────────────────────
 
 function timestamp() {
@@ -38,9 +41,53 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function getNextPending() {
-  const tasks = JSON.parse(fs.readFileSync(TASKS_PATH, 'utf8'));
-  return tasks.expressions.find(e => e.status === 'pending') || null;
+function acquireLock() {
+  const start = Date.now();
+  while (Date.now() - start < LOCK_TIMEOUT_MS) {
+    try {
+      fs.writeFileSync(LOCK_PATH, String(process.pid), { flag: 'wx' });
+      return true;
+    } catch (e) {
+      if (e.code !== 'EEXIST') throw e;
+      Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 50);
+    }
+  }
+  return false;
+}
+
+function releaseLock() {
+  try { fs.unlinkSync(LOCK_PATH); } catch {}
+}
+
+function claimNextPending() {
+  if (!acquireLock()) return null;
+  try {
+    const tasks = JSON.parse(fs.readFileSync(TASKS_PATH, 'utf8'));
+    const expr = tasks.expressions.find(e => e.status === 'pending');
+    if (!expr) return null;
+    // 즉시 in_progress로 마킹 → 다른 인스턴스가 못 집어감
+    expr.status = 'in_progress';
+    expr.claimed_at = new Date().toISOString();
+    fs.writeFileSync(TASKS_PATH, JSON.stringify(tasks, null, 2));
+    return expr;
+  } finally {
+    releaseLock();
+  }
+}
+
+function revertToPending(id) {
+  if (!acquireLock()) return;
+  try {
+    const tasks = JSON.parse(fs.readFileSync(TASKS_PATH, 'utf8'));
+    const expr = tasks.expressions.find(e => e.id === id);
+    if (expr) {
+      expr.status = 'pending';
+      delete expr.claimed_at;
+      fs.writeFileSync(TASKS_PATH, JSON.stringify(tasks, null, 2));
+    }
+  } finally {
+    releaseLock();
+  }
 }
 
 function buildPrompt(expr) {
@@ -127,7 +174,7 @@ async function main() {
   let failCount = 0;
 
   for (let i = 1; i <= maxCount; i++) {
-    const expr = getNextPending();
+    const expr = claimNextPending();
 
     if (!expr) {
       console.log(`[${timestamp()}] No pending expressions left. Done early.`);
@@ -139,6 +186,9 @@ async function main() {
 
     process.stdout.write(`[${timestamp()}] [${i}/${maxCount}] "${expr.phrase}" (${expr.senseLabelKo}) → `);
 
+    const childEnv = { ...process.env };
+    delete childEnv.CLAUDECODE; // allow spawning Claude from within an active session
+
     const result = spawnSync(
       CLAUDE_BIN,
       ['--dangerously-skip-permissions', '-p', prompt],
@@ -146,6 +196,7 @@ async function main() {
         encoding: 'utf8',
         timeout: CLAUDE_TIMEOUT_MS,
         cwd: SCRIPTS_DIR,
+        env: childEnv,
       }
     );
 
@@ -155,6 +206,7 @@ async function main() {
       successCount++;
       console.log('✓ OK');
     } else {
+      revertToPending(expr.id);
       failCount++;
       console.log('✗ FAIL');
 

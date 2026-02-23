@@ -1,0 +1,30 @@
+{
+  "id": "fly-off-the-handle_574980c7",
+  "expression": "fly off the handle",
+  "selectionMeta": {
+    "selectedPhrase": "fly off the handle",
+    "selectedSenseLabelKo": "갑자기 화를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the barista got his order wrong for the third time, he completely flew off the handle and demanded to see the manager."
+  },
+  "step2": {
+    "story": "Jake had been patient all morning, but when his coworker accidentally deleted the entire presentation an hour before the meeting, he flew off the handle. He slammed his laptop shut and stormed out of the office. Later, he felt embarrassed and apologized, realizing his reaction was way out of proportion.",
+    "topicTag": "work stress",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Sarah had always prided herself on staying calm under pressure, but today was different. The landlord had ignored her repair requests for months, and now the kitchen pipe had burst, flooding the entire apartment. When he casually suggested she \"just mop it up,\" Sarah flew off the handle. She raised her voice, listing every unanswered email and broken promise from the past year. Her roommate watched in shock — she had never seen Sarah lose her composure like that. After hanging up the phone, Sarah took a deep breath and realized she needed a better strategy than yelling.",
+    "topicTag": "housing frustration",
+    "moodTag": "explosive"
+  },
+  "meaning": {
+    "literalMeaningKo": "도끼 머리가 자루에서 빠져 날아가듯, 이성을 잃고 갑자기 화를 내다라는 뜻입니다.",
+    "realUsageKo": "참고 있던 감정이 갑자기 폭발하면서 화를 버럭 내는 상황에 씁니다. 단순히 화를 내는 것이 아니라, 급격하고 과한 분노 반응을 강조할 때 사용합니다.",
+    "etymologyKo": "19세기 미국에서 유래한 표현으로, 도끼질을 하다가 도끼 머리(head)가 자루(handle)에서 빠져 예측 불가능하게 날아가는 위험한 상황에 비유한 것입니다.",
+    "nuanceKo": "다소 비격식적이며, 화를 낸 사람의 반응이 과했다는 부정적 뉘앙스를 담고 있습니다. 본인이 쓰면 반성의 어감, 남에 대해 쓰면 비판의 어감입니다.",
+    "shortExampleEn": "Don't fly off the handle — let's talk about this calmly.",
+    "shortExampleKo": "갑자기 화내지 마 — 차분하게 얘기하자."
+  }
+}

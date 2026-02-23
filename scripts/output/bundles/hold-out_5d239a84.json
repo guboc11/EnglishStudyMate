@@ -1,0 +1,30 @@
+{
+  "id": "hold-out_5d239a84",
+  "expression": "hold out",
+  "selectionMeta": {
+    "selectedPhrase": "hold out",
+    "selectedSenseLabelKo": "버티다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to hold out until the rescue team arrives."
+  },
+  "step2": {
+    "story": "The small town had been without power for three days after the storm. Supplies were running low, but the mayor told everyone they just needed to hold out a little longer. By the next morning, help finally arrived.",
+    "topicTag": "survival",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Sarah's startup was burning through cash faster than expected. Investors were pulling back, and her co-founder suggested shutting down. But Sarah believed in their product and decided to hold out through the tough quarter. She cut every unnecessary expense and renegotiated contracts with suppliers. Three months later, a major client signed on, and revenue started flowing in. Looking back, she knew the decision to hold out had saved everything they had built.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'hold'(잡다)와 'out'(밖으로/끝까지)의 조합으로, 무언가를 끝까지 붙잡고 놓지 않는다는 뜻입니다.",
+    "realUsageKo": "어려운 상황에서 포기하지 않고 견디거나 버틸 때 사용합니다. 주로 힘든 시기를 이겨내야 할 때 쓰이며, 'hold out for'는 원하는 것을 얻을 때까지 기다린다는 의미로도 씁니다.",
+    "etymologyKo": "중세 영어에서 'hold'는 단단히 잡다라는 뜻이었고, 'out'이 붙어 끝까지 잡고 있다, 즉 버티다라는 의미로 발전했습니다.",
+    "nuanceKo": "단순히 기다린다는 뜻보다 적극적으로 저항하며 견딘다는 느낌이 강합니다. 군사·생존·비즈니스 상황에서 자주 쓰이며, 의지와 인내를 강조하는 표현입니다.",
+    "shortExampleEn": "The soldiers held out for two weeks before reinforcements came.",
+    "shortExampleKo": "병사들은 지원군이 오기까지 2주 동안 버텼다."
+  }
+}

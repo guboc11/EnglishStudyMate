@@ -1,0 +1,30 @@
+{
+  "id": "keep-off_de24c5db",
+  "expression": "keep off",
+  "selectionMeta": {
+    "selectedPhrase": "keep off",
+    "selectedSenseLabelKo": "가까이하지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sign said to keep off the freshly painted bench, but the children didn't notice it."
+  },
+  "step2": {
+    "story": "The park had just been renovated with beautiful new flower beds. A large sign warned visitors to keep off the delicate plants. Still, every morning the gardener found footprints in the soil and sighed.",
+    "topicTag": "public manners",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "After weeks of hard work, the community garden was finally blooming with vibrant roses and sunflowers. The volunteers placed small wooden signs around each bed asking people to keep off the flowers. One afternoon, a group of teenagers cut through the garden as a shortcut, trampling several rows of seedlings. Mrs. Park, the head gardener, was heartbroken when she saw the damage. She called a neighborhood meeting that evening and proposed building a low fence. The community agreed, and within days, the garden was protected while still welcoming visitors to admire it from the path.",
+    "topicTag": "community effort",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'keep'(유지하다)와 'off'(떨어져서)의 결합으로, 무언가에서 떨어진 상태를 유지하라는 뜻입니다.",
+    "realUsageKo": "특정 장소나 물건에 가까이 가지 않거나 접촉하지 않도록 할 때 사용합니다. '잔디를 밟지 마세요', '만지지 마세요' 같은 경고 문구에서 자주 쓰입니다.",
+    "etymologyKo": "고대 영어 'cēpan'(돌보다, 지키다)과 'of'(떨어져서)에서 유래했으며, 중세 영어 시기부터 '거리를 두다'라는 의미로 결합되어 사용되었습니다.",
+    "nuanceKo": "주로 경고나 지시의 뉘앙스로 쓰이며, 공공장소 표지판이나 규칙을 전달할 때 직접적이고 단호한 어조를 가집니다. 일상 대화에서는 음식이나 나쁜 습관을 피하라는 조언으로도 쓰입니다.",
+    "shortExampleEn": "Please keep off the grass while the sprinklers are running.",
+    "shortExampleKo": "스프링클러가 작동하는 동안 잔디에 들어가지 마세요."
+  }
+}

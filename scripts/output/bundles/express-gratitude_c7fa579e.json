@@ -1,0 +1,30 @@
+{
+  "id": "express-gratitude_c7fa579e",
+  "expression": "express gratitude",
+  "selectionMeta": {
+    "selectedPhrase": "express gratitude",
+    "selectedSenseLabelKo": "감사를 표하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I wanted to express gratitude to my mentor for guiding me through such a difficult time."
+  },
+  "step2": {
+    "story": "After months of searching, Jina finally landed her dream job. She sat down and wrote a heartfelt letter to express gratitude to everyone who had supported her along the way. Reading it aloud, she realized just how many people had believed in her.",
+    "topicTag": "appreciation",
+    "moodTag": "heartfelt"
+  },
+  "step3": {
+    "story": "The charity dinner was coming to a close, and the director stepped up to the microphone. She looked out at the crowd of volunteers who had given up their weekends for months. Her voice trembled slightly as she began to express gratitude for their tireless work. She shared stories of families whose lives had changed because of their effort. By the time she finished, half the room was in tears. It was a reminder that sometimes the simplest words carry the greatest weight.",
+    "topicTag": "community service",
+    "moodTag": "emotional"
+  },
+  "meaning": {
+    "literalMeaningKo": "감사함을 표현하다, 고마운 마음을 드러내다.",
+    "realUsageKo": "단순히 '고맙다'고 말하는 것보다 격식 있고 진심 어린 감사를 전할 때 사용합니다. 편지, 연설, 공식적인 자리에서 자주 쓰입니다.",
+    "etymologyKo": "'express'는 라틴어 exprimere(밖으로 누르다, 드러내다)에서 유래했고, 'gratitude'는 라틴어 gratitudo(감사함)에서 왔습니다.",
+    "nuanceKo": "일상적인 'thank you'보다 무게감이 있으며, 진지하고 정중한 톤을 전달합니다. 비즈니스 이메일, 수상 소감, 감사 편지 등에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I'd like to express my gratitude for your generous support.",
+    "shortExampleKo": "여러분의 아낌없는 지원에 감사를 표하고 싶습니다."
+  }
+}

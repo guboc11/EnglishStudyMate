@@ -1,0 +1,30 @@
+{
+  "id": "earn-respect_62691423",
+  "expression": "earn respect",
+  "selectionMeta": {
+    "selectedPhrase": "earn respect",
+    "selectedSenseLabelKo": "존경을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to earn respect from her colleagues by consistently delivering high-quality work and treating everyone with fairness."
+  },
+  "step2": {
+    "story": "When Daniel first joined the company as the youngest manager, nobody took him seriously. Instead of demanding authority, he listened carefully to his team, supported their ideas, and worked harder than anyone else. Within six months, he had earned respect from even the most senior employees.",
+    "topicTag": "workplace leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After years of being overlooked, Maria decided to open her own bakery in a neighborhood dominated by established shops. The local business owners were skeptical and gave her cold stares whenever she walked by. Rather than confronting them, Maria focused on perfecting her recipes and offering free samples to every passerby. She stayed open late, remembered every customer's name, and never cut corners on ingredients. Slowly, the same shop owners who had ignored her started sending their own families to buy her bread. Maria had earned respect not through words, but through the quiet dedication she poured into everything she did.",
+    "topicTag": "perseverance",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'존경을 벌다'라는 뜻으로, 노력이나 행동을 통해 다른 사람의 존경을 획득한다는 의미입니다.",
+    "realUsageKo": "단순히 지위나 나이로 받는 존경이 아니라, 자신의 행동·성품·노력을 통해 인정받고 존경을 얻게 될 때 사용합니다. 직장, 스포츠, 인간관계 등 다양한 상황에서 쓰입니다.",
+    "etymologyKo": "'earn'은 고대 영어 'earnian(노동으로 얻다)'에서 유래했고, 'respect'는 라틴어 'respectus(돌아보다, 관심을 갖다)'에서 왔습니다. 합쳐서 '노력으로 관심과 인정을 얻다'라는 의미가 됩니다.",
+    "nuanceKo": "'earn respect'는 존경이 자동으로 주어지는 것이 아니라 스스로의 노력과 행동으로 쟁취하는 것임을 강조하는 표현입니다. 긍정적이고 진지한 뉘앙스를 가집니다.",
+    "shortExampleEn": "You have to earn respect — it's not just given to you.",
+    "shortExampleKo": "존경은 그냥 주어지는 게 아니라 스스로 얻어야 하는 거야."
+  }
+}

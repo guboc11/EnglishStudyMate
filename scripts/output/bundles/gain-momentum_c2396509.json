@@ -1,0 +1,30 @@
+{
+  "id": "gain-momentum_c2396509",
+  "expression": "gain momentum",
+  "selectionMeta": {
+    "selectedPhrase": "gain momentum",
+    "selectedSenseLabelKo": "추진력을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the first few weeks of slow progress, the fundraising campaign began to gain momentum as more people shared it on social media."
+  },
+  "step2": {
+    "story": "Emma's startup struggled for months with barely any customers. Then a popular tech blogger reviewed her product, and suddenly orders started pouring in. The business had finally gained momentum, and Emma could feel the tide turning in her favor.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Daniel first proposed the community garden project at the town hall meeting, only three people raised their hands in support. He refused to give up and spent weekends knocking on doors, explaining how the garden could bring neighbors together. A local newspaper picked up the story, and volunteers began signing up in droves. By spring, the project had gained momentum beyond anything Daniel had imagined. Construction crews donated materials, restaurants pledged to buy the produce, and even the mayor showed up to plant the first seeds. What started as one man's quiet dream had become the heartbeat of the entire neighborhood.",
+    "topicTag": "community building",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'momentum(운동량, 추진력)'을 'gain(얻다, 획득하다)'한다는 뜻으로, 물리학에서 물체가 속도를 내며 힘이 붙는 것을 표현합니다.",
+    "realUsageKo": "프로젝트, 운동, 캠페인 등이 초반의 느린 진행을 지나 점점 탄력이 붙고 빠르게 성장하기 시작할 때 사용합니다. '탄력을 받다', '추진력이 생기다'라는 의미로 일상과 비즈니스 모두에서 흔히 쓰입니다.",
+    "etymologyKo": "momentum은 라틴어 'movimentum(움직임)'에서 유래했으며, 물리학에서 '운동량'을 뜻하다가 비유적으로 '추진력, 기세'라는 의미로 확장되었습니다. gain과 결합하여 '힘이 붙다'라는 관용적 표현이 되었습니다.",
+    "nuanceKo": "단순히 '시작하다'가 아니라, 이미 시작된 것이 점점 속도와 힘을 얻어 멈추기 어려울 정도로 커지는 느낌을 줍니다. 긍정적인 맥락에서 주로 사용되며, 성장과 발전의 가속을 강조합니다.",
+    "shortExampleEn": "The movement to ban plastic bags is gaining momentum across the country.",
+    "shortExampleKo": "비닐봉지 금지 운동이 전국적으로 추진력을 얻고 있다."
+  }
+}

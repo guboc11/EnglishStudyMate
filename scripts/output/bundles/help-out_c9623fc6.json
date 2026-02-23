@@ -1,0 +1,30 @@
+{
+  "id": "help-out_c9623fc6",
+  "expression": "help out",
+  "selectionMeta": {
+    "selectedPhrase": "help out",
+    "selectedSenseLabelKo": "돕다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My neighbor helped out with the groceries when I hurt my ankle."
+  },
+  "step2": {
+    "story": "Jake was overwhelmed with moving boxes when his coworkers showed up at the door. They helped out all afternoon, carrying furniture and unpacking kitchen supplies. By evening, the apartment finally felt like home.",
+    "topicTag": "moving day",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "The community center was short-staffed the weekend of the annual fundraiser. Sara had never volunteered before, but she decided to help out after seeing the organizer struggle alone. She spent the morning setting up tables and greeting visitors at the entrance. By noon, a few of her friends had joined in as well. Together, they raised more money than any previous year. Sara left that evening feeling proud of what a small act of helping out could accomplish.",
+    "topicTag": "community volunteering",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'help out'은 어떤 일이나 상황에서 누군가를 돕기 위해 나서는 것을 뜻합니다.",
+    "realUsageKo": "일상적인 도움이나 협력을 표현할 때 자연스럽게 사용됩니다. 특히 어려운 상황에 처한 사람을 자발적으로 돕는 뉘앙스가 강합니다.",
+    "etymologyKo": "'help'는 고대 영어 'helpan(돕다)'에서 유래했으며, 'out'이 붙어 '완전히 해결되도록 돕다'는 의미가 더해졌습니다.",
+    "nuanceKo": "단순히 'help'보다 더 적극적이고 실질적인 도움을 준다는 느낌이 있습니다. 위기나 바쁜 상황에서 손을 보태는 이미지가 담겨 있습니다.",
+    "shortExampleEn": "Can you help out at the school event this Saturday?",
+    "shortExampleKo": "이번 토요일 학교 행사에서 도와줄 수 있어?"
+  }
+}

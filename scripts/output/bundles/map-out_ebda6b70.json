@@ -1,0 +1,30 @@
+{
+  "id": "map-out_ebda6b70",
+  "expression": "map out",
+  "selectionMeta": {
+    "selectedPhrase": "map out",
+    "selectedSenseLabelKo": "계획을 세우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before starting the project, we need to map out every phase so nothing gets overlooked."
+  },
+  "step2": {
+    "story": "Jina had been promoted to team lead, but her first big project felt overwhelming. She spent the entire weekend mapping out a detailed timeline with milestones and checkpoints. By Monday morning, she walked into the meeting with quiet confidence, knowing exactly where to begin.",
+    "topicTag": "project planning",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After years of dreaming about opening his own bakery, Dohyun finally decided it was time to act. He sat at his kitchen table with a blank notebook and began to map out everything — from securing a lease to designing the menu. Each step revealed new challenges he hadn't considered, like health permits and supplier contracts. His friend Soyeon, who ran a small café, offered to review his plan over coffee. She pointed out gaps he'd missed and suggested a softer opening strategy. By the end of that long evening, Dohyun had a roadmap that turned his vague dream into something real and achievable.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "지도를 펼쳐 그리다, 즉 어떤 것의 전체적인 윤곽을 그려낸다는 뜻입니다.",
+    "realUsageKo": "계획이나 전략을 세부적으로 구상하고 정리할 때 사용합니다. 단순히 '계획하다'보다 더 구체적이고 체계적으로 짜는 느낌을 줍니다.",
+    "etymologyKo": "지도(map)를 펼쳐놓고(out) 경로를 그리는 행위에서 유래했습니다. 물리적 지도 작성에서 추상적인 계획 수립으로 의미가 확장되었습니다.",
+    "nuanceKo": "일상적인 계획보다는 프로젝트, 커리어, 여행 등 비교적 큰 규모의 일을 체계적으로 설계할 때 주로 쓰입니다. 진지하고 신중한 어감이 있습니다.",
+    "shortExampleEn": "Let's map out our strategy before the deadline.",
+    "shortExampleKo": "마감 전에 전략을 세부적으로 짜 봅시다."
+  }
+}

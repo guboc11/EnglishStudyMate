@@ -1,0 +1,30 @@
+{
+  "id": "put-someone-on-the-spot_789ebc01",
+  "expression": "put someone on the spot",
+  "selectionMeta": {
+    "selectedPhrase": "put someone on the spot",
+    "selectedSenseLabelKo": "난처하게 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The reporter put the mayor on the spot by asking about the missing budget funds during the live broadcast."
+  },
+  "step2": {
+    "story": "During the team meeting, Sarah's manager suddenly asked her to explain why the project was behind schedule. She hadn't prepared any notes and felt completely put on the spot. Her face turned red as everyone stared at her, waiting for an answer.",
+    "topicTag": "work pressure",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Jake had been quietly enjoying his best friend's wedding reception when the best man handed him the microphone and asked him to say a few words. He hadn't been told he'd need to give a speech, and now two hundred guests were staring at him expectantly. Being put on the spot like that made his palms sweat and his mind go completely blank. He stammered through a few awkward sentences about how great the couple was. Later, his friend apologized for not warning him ahead of time. Jake laughed it off, but secretly vowed to always prepare a backup speech for every wedding he attended.",
+    "topicTag": "social situations",
+    "moodTag": "embarrassed"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 '그 자리(spot)'에 올려놓다, 즉 주목받는 위치에 세우다라는 뜻입니다.",
+    "realUsageKo": "상대방에게 갑자기 어려운 질문을 하거나 예상치 못한 상황에 놓이게 해서 난처하게 만들 때 사용합니다. 준비 없이 즉석에서 대답하거나 행동해야 하는 불편한 상황을 나타냅니다.",
+    "etymologyKo": "'spot'은 무대 위의 스포트라이트를 받는 자리를 의미하는 데서 유래했습니다. 갑자기 조명을 받아 모든 시선이 집중되는 상황에서 비롯된 표현입니다.",
+    "nuanceKo": "대체로 부정적인 뉘앙스로, 상대방이 불편하거나 당황스러운 상황에 놓이게 된다는 의미를 담고 있습니다. 의도적으로 난처하게 만드는 경우와 의도 없이 그렇게 되는 경우 모두에 쓰입니다.",
+    "shortExampleEn": "Don't put me on the spot — I need time to think about it.",
+    "shortExampleKo": "나를 난처하게 만들지 마 — 생각할 시간이 필요해."
+  }
+}

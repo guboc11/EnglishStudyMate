@@ -1,0 +1,30 @@
+{
+  "id": "pencil-in_b99b3806",
+  "expression": "pencil in",
+  "selectionMeta": {
+    "selectedPhrase": "pencil in",
+    "selectedSenseLabelKo": "임시로 일정을 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me pencil you in for Thursday afternoon, but I might need to shift things around if the client meeting runs late."
+  },
+  "step2": {
+    "story": "Sarah checked her overflowing calendar and sighed. Her colleague wanted to discuss the new project proposal, so she penciled him in for Friday lunch. She wrote it lightly in her planner, knowing things could easily change by then.",
+    "topicTag": "scheduling",
+    "moodTag": "flexible"
+  },
+  "step3": {
+    "story": "David had been trying to meet with the marketing director for weeks, but her schedule was impossibly packed. Finally, her assistant called and said they could pencil him in for next Tuesday at 3 PM. David felt a wave of relief, though he knew it wasn't guaranteed. The assistant warned him that the director often had last-minute changes. He marked the date in his phone with a star, hoping nothing would come up. When Tuesday arrived and the meeting actually happened, he could barely contain his excitement.",
+    "topicTag": "workplace communication",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "연필로 (일정에) 적어 넣다라는 뜻입니다.",
+    "realUsageKo": "확정이 아닌 임시 일정을 잡을 때 사용합니다. 변경 가능성을 열어두면서 우선 시간을 잡아두는 느낌으로, 'pen in(확정 기입)'과 대비됩니다.",
+    "etymologyKo": "연필(pencil)로 쓰면 지우개로 쉽게 지울 수 있다는 점에서 유래했습니다. 확정이 아닌 잠정적 기록이라는 의미가 담겨 있습니다.",
+    "nuanceKo": "비격식적이면서도 비즈니스 상황에서 자주 쓰입니다. '일단 잡아둘게'라는 가벼운 톤으로, 상대방에게 부담을 주지 않으면서 약속을 제안할 때 유용합니다.",
+    "shortExampleEn": "Can I pencil you in for a coffee chat next week?",
+    "shortExampleKo": "다음 주에 커피 한잔 하는 걸로 임시로 잡아놓을까요?"
+  }
+}

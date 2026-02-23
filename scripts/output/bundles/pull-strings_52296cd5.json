@@ -1,0 +1,30 @@
+{
+  "id": "pull-strings_52296cd5",
+  "expression": "pull strings",
+  "selectionMeta": {
+    "selectedPhrase": "pull strings",
+    "selectedSenseLabelKo": "연줄을 쓰다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He managed to pull strings and get his daughter an internship at the top law firm."
+  },
+  "step2": {
+    "story": "Jessica had applied to three different companies but kept getting rejected. When her uncle, a well-known executive, offered to pull strings for her, she hesitated — she wanted to earn the position on her own merit. In the end, she politely declined and decided to keep trying.",
+    "topicTag": "career ethics",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "Marcus had been waiting for months to get his visa approved, but the process was painfully slow. His colleague suggested he talk to Mr. Chen, who supposedly knew people at the embassy. At first, Marcus felt uncomfortable with the idea of someone pulling strings on his behalf. He had always believed in doing things the right way. But as the deadline for his new job abroad approached, desperation set in. He finally made the call, and within a week, his application was mysteriously moved to the top of the pile.",
+    "topicTag": "bureaucracy and connections",
+    "moodTag": "desperate"
+  },
+  "meaning": {
+    "literalMeaningKo": "줄을 당기다 — 꼭두각시 인형의 줄을 조종하듯 뒤에서 영향력을 행사한다는 뜻입니다.",
+    "realUsageKo": "인맥이나 권력을 이용해 보통이라면 어려운 일을 성사시킬 때 사용합니다. '뒷줄을 당기다', '연줄을 쓰다'와 비슷한 의미입니다.",
+    "etymologyKo": "꼭두각시(marionette) 인형극에서 유래했습니다. 인형사가 무대 뒤에서 줄을 당겨 인형을 조종하는 모습에서, 보이지 않는 곳에서 영향력을 행사한다는 의미로 확장되었습니다.",
+    "nuanceKo": "다소 부정적인 뉘앙스를 가질 수 있지만, 반드시 비윤리적인 것을 의미하지는 않습니다. 상황에 따라 중립적으로 쓰이기도 합니다.",
+    "shortExampleEn": "She pulled some strings to get us front-row seats at the concert.",
+    "shortExampleKo": "그녀가 연줄을 써서 우리에게 콘서트 맨 앞자리를 구해줬어."
+  }
+}

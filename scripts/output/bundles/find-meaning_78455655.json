@@ -1,0 +1,30 @@
+{
+  "id": "find-meaning_78455655",
+  "expression": "find meaning",
+  "selectionMeta": {
+    "selectedPhrase": "find meaning",
+    "selectedSenseLabelKo": "의미를 찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing his job, he traveled alone to find meaning in a life that had felt empty for years."
+  },
+  "step2": {
+    "story": "Clara quit her corporate job and moved to a small coastal town. She started volunteering at a local shelter, hoping to find meaning beyond her paycheck. Slowly, the grateful smiles of the people she helped became the richest reward she had ever known.",
+    "topicTag": "life change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "James had spent twenty years climbing the corporate ladder, collecting promotions like trophies on a shelf. But one quiet Sunday morning, staring at the ceiling of his expensive apartment, he realized none of it made him happy. He decided to take a sabbatical and volunteer at a rural school overseas. Teaching children who had almost nothing, he began to find meaning in the simplest moments — a student's first sentence in English, a shared laugh over a mispronounced word. By the end of the year, James knew he would never go back to his old life. The meaning he had been chasing was never in the corner office; it was in the connections he made along the way.",
+    "topicTag": "self-discovery",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '의미를 찾다'라는 뜻으로, 어떤 것의 가치나 목적을 발견한다는 의미입니다.",
+    "realUsageKo": "일상에서는 삶의 목적이나 가치를 깨닫거나 발견할 때 주로 사용합니다. 'find meaning in life(삶의 의미를 찾다)', 'find meaning in work(일에서 의미를 찾다)'처럼 전치사 in과 함께 쓰이는 경우가 많습니다.",
+    "etymologyKo": "find는 고대 영어 'findan(발견하다)'에서, meaning은 고대 영어 'mænan(의도하다)'에서 유래했습니다. 두 단어의 결합은 자연스러운 연어로, 오랜 시간 동안 철학적·일상적 맥락 모두에서 널리 쓰여 왔습니다.",
+    "nuanceKo": "단순히 사전적 뜻을 찾는 것이 아니라, 깊은 내면의 가치나 삶의 목적을 탐색하는 진지하고 성찰적인 뉘앙스를 담고 있습니다. 긍정적이고 희망적인 어조로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "She found meaning in helping others through difficult times.",
+    "shortExampleKo": "그녀는 어려운 시기에 다른 사람들을 돕는 것에서 의미를 찾았다."
+  }
+}

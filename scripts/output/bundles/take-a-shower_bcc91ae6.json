@@ -1,0 +1,30 @@
+{
+  "id": "take-a-shower_bcc91ae6",
+  "expression": "take a shower",
+  "selectionMeta": {
+    "selectedPhrase": "take a shower",
+    "selectedSenseLabelKo": "샤워하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I always take a shower right after my morning jog to feel refreshed before work."
+  },
+  "step2": {
+    "story": "After a long day of hiking in the summer heat, Sarah finally arrived home exhausted and covered in sweat. She dropped her backpack by the door and went straight to take a shower. The cool water washed away all the tiredness, and she felt like a new person.",
+    "topicTag": "refreshment after exercise",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jake had overslept and his alarm was blaring for the third time. He had exactly thirty minutes before the biggest job interview of his life. He jumped out of bed and rushed to take a shower, knowing he couldn't show up looking like a mess. The warm water helped calm his racing heart as he mentally rehearsed his answers. He dried off in record time, threw on his best suit, and grabbed his keys. Somehow, he made it to the office lobby with two minutes to spare, feeling clean, confident, and ready to impress.",
+    "topicTag": "morning routine under pressure",
+    "moodTag": "urgent but determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'샤워를 하다'라는 뜻으로, take는 '취하다/하다', shower는 '샤워'를 의미합니다.",
+    "realUsageKo": "일상에서 몸을 씻는 행위를 가장 자연스럽게 표현할 때 사용합니다. 'wash myself'보다 훨씬 자연스러운 일상 표현입니다.",
+    "etymologyKo": "take는 고대 노르드어 'taka(잡다)'에서 유래했고, shower는 고대 영어 'scūr(소나기)'에서 왔습니다. '소나기처럼 물을 맞다'라는 이미지에서 샤워라는 의미가 파생되었습니다.",
+    "nuanceKo": "미국 영어에서는 'take a shower', 영국 영어에서는 'have a shower'를 더 자주 씁니다. 격식 없는 일상 표현으로 누구나 편하게 사용합니다.",
+    "shortExampleEn": "I need to take a shower before the party tonight.",
+    "shortExampleKo": "오늘 밤 파티 전에 샤워를 해야 해."
+  }
+}

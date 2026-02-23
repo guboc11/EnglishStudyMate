@@ -1,0 +1,30 @@
+{
+  "id": "eager-beaver_bdbf9ed7",
+  "expression": "eager beaver",
+  "selectionMeta": {
+    "selectedPhrase": "eager beaver",
+    "selectedSenseLabelKo": "열심히 하는 사람",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new intern is such an eager beaver that she already finished next week's reports."
+  },
+  "step2": {
+    "story": "Jake arrived at the office an hour before everyone else, his desk already covered in color-coded sticky notes. His manager smiled and said, \"We've got a real eager beaver on the team.\" By noon, Jake had reorganized the entire filing system and volunteered for two extra projects.",
+    "topicTag": "workplace enthusiasm",
+    "moodTag": "energetic"
+  },
+  "step3": {
+    "story": "On her first day at the marketing agency, Mina showed up thirty minutes early with a notebook full of campaign ideas she'd drafted over the weekend. Her colleagues exchanged amused glances as she eagerly raised her hand during every brainstorming session. \"Looks like we've got an eager beaver,\" whispered Tom to his coworker, though he meant it as a compliment. By the end of the week, Mina had already landed a small client on her own initiative. Her boss pulled her aside and said he appreciated her drive, but reminded her to pace herself. Mina just grinned and opened her notebook to the next page of ideas.",
+    "topicTag": "career ambition",
+    "moodTag": "enthusiastic"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '열정적인 비버'로, 부지런히 댐을 짓는 비버의 이미지를 떠올리게 합니다.",
+    "realUsageKo": "일이나 활동에 지나칠 정도로 열심인 사람을 가리킬 때 씁니다. 긍정적으로 '의욕 넘치는 사람'이라는 뜻이지만, 때로는 '너무 앞서나가는 사람'이라는 가벼운 놀림의 뉘앙스도 있습니다.",
+    "etymologyKo": "비버(beaver)가 쉬지 않고 나무를 갉아 댐을 짓는 습성에서 유래했습니다. 1940년대 북미 영어에서 처음 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "대체로 친근하고 가벼운 표현이지만, 상황에 따라 '오버하는 사람'이라는 약간의 비꼼이 섞일 수 있습니다. 직장이나 학교에서 자주 사용됩니다.",
+    "shortExampleEn": "He's always the eager beaver who volunteers for extra shifts.",
+    "shortExampleKo": "그는 항상 추가 근무에 자원하는 열심히 하는 사람이다."
+  }
+}

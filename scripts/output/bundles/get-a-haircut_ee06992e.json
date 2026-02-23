@@ -1,0 +1,30 @@
+{
+  "id": "get-a-haircut_ee06992e",
+  "expression": "get a haircut",
+  "selectionMeta": {
+    "selectedPhrase": "get a haircut",
+    "selectedSenseLabelKo": "머리를 자르다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to get a haircut before the wedding this weekend."
+  },
+  "step2": {
+    "story": "Jake looked in the mirror and realized his hair was getting way too long. He decided to get a haircut after work at the barbershop down the street. When he walked out, he felt like a completely new person.",
+    "topicTag": "personal grooming",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "Mina had been putting off visiting the salon for months because she was always too busy with work. One Saturday morning, she finally made an appointment to get a haircut at a place her friend had recommended. The stylist listened carefully and suggested a shorter style that would be easier to manage. When the haircut was done, Mina couldn't stop smiling at her reflection. She snapped a selfie and sent it to her friend with a thank-you message. From that day on, she promised herself she'd get a haircut regularly instead of waiting until it became a problem.",
+    "topicTag": "self-care routine",
+    "moodTag": "uplifted"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리카락을 잘라서 정리하는 것을 의미합니다.",
+    "realUsageKo": "미용실이나 이발소에 가서 머리를 자르는 일상적인 행위를 표현할 때 사용합니다. 직접 자르는 것이 아니라 전문가에게 맡기는 뉘앙스가 포함되어 있습니다.",
+    "etymologyKo": "'get'은 '~을 받다/얻다'라는 의미이고, 'haircut'은 'hair(머리카락)'와 'cut(자르기)'의 합성어입니다. 누군가에게 서비스를 받는다는 의미의 'get + 명사' 구조입니다.",
+    "nuanceKo": "일상적이고 가벼운 표현으로, 격식 없는 대화에서 자주 쓰입니다. 'I got a haircut'이라고 하면 최근에 머리를 잘랐다는 사실을 알리는 자연스러운 표현입니다.",
+    "shortExampleEn": "You should get a haircut — it's getting really long.",
+    "shortExampleKo": "머리 좀 잘라야겠다 — 너무 길어지고 있어."
+  }
+}

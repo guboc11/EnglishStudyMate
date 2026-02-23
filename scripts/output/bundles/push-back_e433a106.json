@@ -1,0 +1,30 @@
+{
+  "id": "push-back_e433a106",
+  "expression": "push back",
+  "selectionMeta": {
+    "selectedPhrase": "push back",
+    "selectedSenseLabelKo": "반박하다 / 미루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Several employees decided to push back against the new overtime policy during the team meeting."
+  },
+  "step2": {
+    "story": "The marketing team was told to launch the campaign by Friday, but everyone knew it was impossible. Sarah finally stood up and pushed back, explaining that rushing would hurt quality. The manager reluctantly agreed to push back the deadline to the following Wednesday.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "assertive"
+  },
+  "step3": {
+    "story": "Jason had always been the quiet one in the office, nodding along even when he disagreed. But when his boss proposed cutting the entire research budget, something shifted. He pushed back firmly, presenting data that showed how the cuts would cost the company more in the long run. His colleagues watched in surprise as Jason calmly dismantled every counterargument. The boss tried to push back the discussion to next month, hoping the issue would fade away. But Jason held his ground, and by the end of the meeting, the budget was restored.",
+    "topicTag": "standing your ground",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'뒤로 밀다'라는 뜻으로, 물리적으로 무언가를 뒤로 밀어내는 동작을 나타냅니다.",
+    "realUsageKo": "실제로는 두 가지 의미로 자주 쓰입니다. 첫째, 누군가의 의견이나 결정에 반대하거나 저항할 때 사용합니다. 둘째, 일정이나 마감일을 뒤로 미룰 때 사용합니다.",
+    "etymologyKo": "push(밀다)와 back(뒤로)의 조합으로, 물리적으로 뒤로 밀어내는 행위에서 '반대하다, 저항하다'라는 비유적 의미와 '일정을 뒤로 미루다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "'push back'은 단순한 거절보다 적극적이고 근거를 가진 반대를 암시합니다. 일정을 미룰 때는 'postpone'보다 캐주얼한 느낌이며, 비즈니스 상황에서 매우 흔하게 사용됩니다.",
+    "shortExampleEn": "We need to push back on this unrealistic timeline.",
+    "shortExampleKo": "우리는 이 비현실적인 일정에 반대 의견을 내야 합니다."
+  }
+}

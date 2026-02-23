@@ -1,0 +1,30 @@
+{
+  "id": "scrape-by_ba4bb272",
+  "expression": "scrape by",
+  "selectionMeta": {
+    "selectedPhrase": "scrape by",
+    "selectedSenseLabelKo": "겨우 살아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing his full-time job, Marcus had to scrape by on freelance work and odd jobs until something better came along."
+  },
+  "step2": {
+    "story": "When the factory closed down, half the town lost their income overnight. For months, families had to scrape by on savings and community donations. Slowly, new businesses moved in, but the memory of those lean months never fully faded.",
+    "topicTag": "financial hardship",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Jenna stared at the stack of bills on the kitchen table and let out a long sigh. Ever since her husband's accident, she had been the sole breadwinner for a family of four. She picked up night shifts at the diner and sold handmade candles online just to scrape by each month. Some weeks, dinner was rice and whatever vegetables were on clearance. Her daughter once asked why they couldn't order pizza like other families, and Jenna had to swallow the lump in her throat before answering. But every small payment she made on time felt like a quiet victory against the odds.",
+    "topicTag": "family struggle",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'긁어서 겨우 지나가다'라는 뜻으로, 바닥을 긁듯이 간신히 통과한다는 이미지입니다.",
+    "realUsageKo": "경제적으로 빠듯하게, 겨우겨우 생활을 유지할 때 사용합니다. 돈이나 자원이 충분하지 않지만 어떻게든 버텨낸다는 뉘앙스입니다.",
+    "etymologyKo": "'scrape'는 긁다, 문지르다라는 뜻으로, 바닥까지 긁어모아 겨우 살아간다는 비유에서 유래했습니다.",
+    "nuanceKo": "단순히 가난하다는 뜻보다는 '힘들지만 어떻게든 해내고 있다'는 느낌이 강합니다. 동정보다는 끈기와 생존력을 암시하는 표현입니다.",
+    "shortExampleEn": "We managed to scrape by until my wife found a new job.",
+    "shortExampleKo": "아내가 새 직장을 찾을 때까지 우리는 겨우겨우 버텼다."
+  }
+}

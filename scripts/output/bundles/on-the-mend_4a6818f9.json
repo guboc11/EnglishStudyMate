@@ -1,0 +1,30 @@
+{
+  "id": "on-the-mend_4a6818f9",
+  "expression": "on the mend",
+  "selectionMeta": {
+    "selectedPhrase": "on the mend",
+    "selectedSenseLabelKo": "회복 중",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a week of bed rest and plenty of fluids, Grandma is finally on the mend."
+  },
+  "step2": {
+    "story": "James had been out sick for two weeks with a terrible flu that left him bedridden. His coworkers were relieved when he finally sent a message to the group chat saying he was on the mend. By the following Monday, he was back at his desk, still a little pale but smiling.",
+    "topicTag": "health recovery",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "The small coastal town had been devastated by the hurricane that tore through last September, leaving shattered rooftops and flooded streets in its wake. For months, residents worked side by side to rebuild what they had lost, brick by brick. Local businesses reopened one at a time, and children returned to the newly repaired school. The mayor stood before the crowd at the town hall meeting and declared that the community was truly on the mend. Volunteers from neighboring cities continued to pour in, bringing supplies and hope. Though scars remained, the spirit of the town felt stronger than ever before.",
+    "topicTag": "community resilience",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "'수선하는 중에' 라는 뜻으로, 고치거나 회복하는 과정 위에 있다는 의미입니다.",
+    "realUsageKo": "몸이 아팠다가 점점 나아지고 있을 때, 또는 상황이 안 좋았다가 호전되고 있을 때 사용합니다. '회복 중이다', '나아지고 있다'라는 뜻으로 일상에서 자주 쓰입니다.",
+    "etymologyKo": "'mend'는 고대 영어에서 '고치다, 수선하다'라는 뜻에서 유래했습니다. 14세기경부터 'on the mend'라는 표현이 건강이 회복되는 상태를 나타내는 관용구로 정착했습니다.",
+    "nuanceKo": "아직 완전히 회복된 것은 아니지만 확실히 좋아지고 있다는 긍정적인 뉘앙스를 담고 있습니다. 건강뿐 아니라 경제, 관계 등 다양한 상황의 호전에도 쓸 수 있습니다.",
+    "shortExampleEn": "Don't worry about her — she's on the mend and should be back to normal soon.",
+    "shortExampleKo": "그녀 걱정하지 마 — 회복 중이고 곧 정상으로 돌아올 거야."
+  }
+}

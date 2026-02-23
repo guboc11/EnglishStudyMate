@@ -1,0 +1,30 @@
+{
+  "id": "wrap-up_acfeff23",
+  "expression": "wrap up",
+  "selectionMeta": {
+    "selectedPhrase": "wrap up",
+    "selectedSenseLabelKo": "마무리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let's wrap up the meeting before lunch so we can enjoy the break."
+  },
+  "step2": {
+    "story": "The project deadline was approaching fast, and the team had been working late every night. On Friday afternoon, the manager gathered everyone and said, \"Great work this week — let's wrap up the final details and submit everything by five.\" The whole office felt a wave of relief.",
+    "topicTag": "project deadline",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sarah had been organizing the annual charity event for three months straight. Every detail, from the guest list to the catering, had demanded her full attention. On the morning of the event, she walked through the venue one last time, checking every table and microphone. Everything looked perfect. She turned to her assistant and said, \"I think we can wrap up the preparations now — it's time to open the doors.\" As the first guests arrived, Sarah finally allowed herself to smile, knowing all the hard work had paid off.",
+    "topicTag": "event planning",
+    "moodTag": "satisfied"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '감싸서 올리다'로, 무언가를 포장하듯 마무리 짓는다는 뜻입니다.",
+    "realUsageKo": "일이나 활동을 끝내다, 마무리하다라는 뜻으로 일상과 업무 모두에서 자주 쓰입니다. 회의, 프로젝트, 하루 일과 등을 정리할 때 흔히 사용합니다.",
+    "etymologyKo": "원래 'wrap'은 물건을 천이나 종이로 감싸는 행위에서 유래했으며, 여기에 'up'이 붙어 '완전히 감싸서 마무리하다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "격식/비격식 모두 자연스럽게 쓰이며, 단순히 '끝내다(finish)'보다 깔끔하게 정리하며 마무리한다는 뉘앙스가 있습니다. 회의나 발표를 끝낼 때 특히 자주 등장합니다.",
+    "shortExampleEn": "We need to wrap up this discussion and move on to the next topic.",
+    "shortExampleKo": "이 논의를 마무리하고 다음 주제로 넘어가야 합니다."
+  }
+}

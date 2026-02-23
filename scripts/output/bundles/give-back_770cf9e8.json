@@ -1,0 +1,30 @@
+{
+  "id": "give-back_770cf9e8",
+  "expression": "give back",
+  "selectionMeta": {
+    "selectedPhrase": "give back",
+    "selectedSenseLabelKo": "돌려주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Can you give back the book I lent you last week?"
+  },
+  "step2": {
+    "story": "Tom borrowed his neighbor's lawnmower two months ago and kept forgetting to give back the tool. One rainy afternoon, he finally carried it across the street and apologized for the delay. His neighbor laughed and said he'd almost bought a new one.",
+    "topicTag": "neighborly kindness",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "When Maya moved to a new city for her first job, a coworker named James lent her his spare bicycle so she could get around. She relied on it every day for three months, riding to work, the grocery store, and weekend markets. Once she finally saved enough to buy her own bike, she cleaned James's bicycle until it sparkled and rode it to the office one last time. She wanted to give back the bike in even better condition than she'd received it. James smiled when he saw the polished frame and brand-new bell she'd attached. That small gesture reminded them both that borrowing and returning things with care strengthens any friendship.",
+    "topicTag": "friendship and gratitude",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'give(주다) + back(뒤로/돌아가게)'의 조합으로, 무언가를 원래 소유자에게 되돌려준다는 뜻입니다.",
+    "realUsageKo": "빌린 물건, 돈, 또는 받은 것을 원래 주인에게 돌려줄 때 사용합니다. 'Please give it back'처럼 일상에서 매우 자주 쓰이는 표현입니다.",
+    "etymologyKo": "고대 영어 'giefan(주다)'과 'bæc(뒤로)'가 결합된 구동사로, 중세 영어 시기부터 '되돌려주다'의 의미로 널리 사용되었습니다.",
+    "nuanceKo": "일상적이고 중립적인 표현으로 격식/비격식 상관없이 사용 가능합니다. 'return'보다 구어적이며, 물건뿐 아니라 'give back to the community(사회에 환원하다)'처럼 추상적 의미로도 확장됩니다.",
+    "shortExampleEn": "I need to give back the umbrella she lent me yesterday.",
+    "shortExampleKo": "어제 그녀가 빌려준 우산을 돌려줘야 해요."
+  }
+}

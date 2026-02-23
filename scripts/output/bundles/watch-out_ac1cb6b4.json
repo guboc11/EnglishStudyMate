@@ -1,0 +1,30 @@
+{
+  "id": "watch-out_ac1cb6b4",
+  "expression": "watch out",
+  "selectionMeta": {
+    "selectedPhrase": "watch out",
+    "selectedSenseLabelKo": "조심하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Watch out for the icy sidewalk — someone slipped there this morning."
+  },
+  "step2": {
+    "story": "Jake was jogging through the park when his friend shouted, \"Watch out!\" He barely dodged a cyclist speeding around the corner. His heart pounded as he realized how close that was.",
+    "topicTag": "close call",
+    "moodTag": "startled"
+  },
+  "step3": {
+    "story": "Mia had just moved to the city and was still getting used to the busy streets. One evening, she was texting while crossing a road without looking up. A taxi driver honked loudly and yelled, \"Watch out!\" She jumped back onto the curb just in time. Her hands were shaking as she put her phone away. From that day on, she always made sure to watch out for traffic before stepping off the sidewalk. It was a small habit, but it made her feel much safer in the hectic city.",
+    "topicTag": "city life safety",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'밖을 보다'라는 뜻으로, 주변을 살피라는 의미입니다.",
+    "realUsageKo": "위험하거나 주의가 필요한 상황에서 '조심해!' 또는 '위험해!'라는 경고의 의미로 사용됩니다. 'Watch out for ~'처럼 특정 대상을 경계하라는 뜻으로도 씁니다.",
+    "etymologyKo": "'watch'는 고대 영어 'wæccan(깨어 있다, 지켜보다)'에서 유래했으며, 'out'과 결합하여 '바깥의 위험을 경계하다'라는 뜻이 되었습니다.",
+    "nuanceKo": "급박한 상황에서 짧고 강하게 외치는 경고 표현입니다. 'Be careful'보다 더 긴급하고 즉각적인 위험을 알릴 때 사용합니다.",
+    "shortExampleEn": "Watch out for the dog — it bites!",
+    "shortExampleKo": "그 개 조심해 — 물어!"
+  }
+}

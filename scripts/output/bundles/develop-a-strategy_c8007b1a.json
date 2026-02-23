@@ -1,0 +1,30 @@
+{
+  "id": "develop-a-strategy_c8007b1a",
+  "expression": "develop a strategy",
+  "selectionMeta": {
+    "selectedPhrase": "develop a strategy",
+    "selectedSenseLabelKo": "전략을 개발하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before launching the new product, the marketing team needed to develop a strategy that would resonate with younger consumers."
+  },
+  "step2": {
+    "story": "After losing market share for three consecutive quarters, the CEO called an emergency meeting. She told her leadership team they had to develop a strategy to win back customers before the fiscal year ended. By midnight, they had a bold plan involving aggressive pricing and a revamped loyalty program.",
+    "topicTag": "business turnaround",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Jun-ho had just been promoted to head of the Asia-Pacific division, and the pressure was immense. Competitors were expanding rapidly, and his company's presence in the region was shrinking. He gathered his most trusted colleagues for a weekend retreat at a quiet resort outside Seoul. Over endless cups of coffee and whiteboard sessions, they began to develop a strategy that combined local partnerships with digital innovation. By Sunday evening, the framework was solid — a phased rollout starting with Vietnam and Indonesia. Jun-ho left the retreat exhausted but confident that they finally had a real path forward.",
+    "topicTag": "market expansion",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'전략을 발전시키다/개발하다'라는 뜻으로, 목표 달성을 위한 체계적인 계획을 만드는 것을 의미합니다.",
+    "realUsageKo": "비즈니스, 정치, 스포츠 등에서 목표를 이루기 위해 구체적이고 장기적인 계획을 수립할 때 사용합니다. 단순한 아이디어가 아닌 실행 가능한 체계적 계획을 세운다는 뉘앙스입니다.",
+    "etymologyKo": "'develop'은 프랑스어 'développer'(펼치다)에서 유래했고, 'strategy'는 그리스어 'strategia'(장군의 기술)에서 왔습니다. 군사 용어에서 비즈니스 영역으로 확장된 표현입니다.",
+    "nuanceKo": "'make a plan'보다 더 전문적이고 체계적인 느낌을 줍니다. 비즈니스 환경에서 자주 쓰이며, 단기 계획보다는 중장기적이고 포괄적인 접근법을 세울 때 적합합니다.",
+    "shortExampleEn": "We need to develop a strategy to enter the European market by next year.",
+    "shortExampleKo": "우리는 내년까지 유럽 시장에 진출하기 위한 전략을 개발해야 합니다."
+  }
+}

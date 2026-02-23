@@ -1,0 +1,30 @@
+{
+  "id": "fill-out_23dd6dd2",
+  "expression": "fill out",
+  "selectionMeta": {
+    "selectedPhrase": "fill out",
+    "selectedSenseLabelKo": "서류를 작성하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Please fill out the application form before your interview tomorrow."
+  },
+  "step2": {
+    "story": "Maya arrived at the clinic early and was handed a stack of papers at the front desk. She sat down and began to fill out the patient registration form, carefully writing her address and insurance details. Twenty minutes later, she handed the completed forms back and was called into the exam room.",
+    "topicTag": "healthcare",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Daniel had been job hunting for three months when he finally found a position that excited him. He downloaded the application, but the form was four pages long with fields for references, work history, and a personal statement. He took a deep breath and started to fill out each section methodically, double-checking every answer before moving on. By the time he reached the last page, two hours had passed and his coffee had gone cold. He reviewed the completed form one final time, then submitted it with a quiet sense of accomplishment. Whatever happened next, he had given it his best.",
+    "topicTag": "job search",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "양식이나 서류의 빈칸을 채워 완성한다는 뜻입니다.",
+    "realUsageKo": "지원서, 신청서, 등록 양식 등 공식 문서에 필요한 정보를 기입할 때 사용합니다. 주로 종이 서류나 온라인 폼 모두에 쓰입니다.",
+    "etymologyKo": "'fill'(채우다)과 방향·완료를 나타내는 부사 'out'이 결합된 구동사로, 빈 공간을 완전히 채운다는 이미지에서 비롯되었습니다.",
+    "nuanceKo": "격식적인 상황(병원, 관공서, 취업)에서 자주 등장하며, 약간의 번거로움이나 의무감이 느껴지는 뉘앙스를 줄 수 있습니다.",
+    "shortExampleEn": "You need to fill out this form to open a bank account.",
+    "shortExampleKo": "은행 계좌를 개설하려면 이 양식을 작성해야 합니다."
+  }
+}

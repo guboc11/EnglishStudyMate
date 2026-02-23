@@ -1,0 +1,30 @@
+{
+  "id": "master-a-skill_c14fb796",
+  "expression": "master a skill",
+  "selectionMeta": {
+    "selectedPhrase": "master a skill",
+    "selectedSenseLabelKo": "기술을 마스터하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took her three years of daily practice to truly master the skill of watercolor painting."
+  },
+  "step2": {
+    "story": "Jake had always admired chefs who could flip omelets perfectly. After months of cracking eggs and burning pans, he finally mastered the skill. Now every Sunday, his family gathers around the kitchen just to watch him cook.",
+    "topicTag": "personal growth",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "When Mina first picked up a guitar at sixteen, her fingers ached after just five minutes. Her teacher told her that to master a skill, she had to embrace the boring parts — scales, chord transitions, the same riff over and over. For two years, she practiced in her room every evening while her friends went out. There were nights she wanted to quit, but something kept pulling her back. Then one day at a school talent show, she played a solo that left the audience silent. In that moment, she understood that mastering a skill isn't about talent — it's about showing up when no one is watching.",
+    "topicTag": "dedication",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 기술을 완전히 익히다, 숙달하다라는 뜻입니다.",
+    "realUsageKo": "오랜 연습과 노력을 통해 특정 기술이나 능력을 높은 수준으로 끌어올렸을 때 사용합니다. 단순히 배운 것이 아니라 능숙하게 해낼 수 있는 상태를 의미합니다.",
+    "etymologyKo": "master는 라틴어 'magister(스승, 지배자)'에서 유래했으며, 중세 영어에서 '완전히 지배하다'라는 동사적 의미가 생겼습니다. skill은 고대 노르드어 'skil(분별력)'에서 왔습니다.",
+    "nuanceKo": "단순히 '배우다(learn)'보다 훨씬 높은 수준의 숙련을 암시합니다. 시간과 노력이 전제된 표현으로, 긍정적이고 성취감 있는 어감을 줍니다.",
+    "shortExampleEn": "She mastered the skill of public speaking through years of practice.",
+    "shortExampleKo": "그녀는 수년간의 연습을 통해 대중 연설 기술을 마스터했다."
+  }
+}

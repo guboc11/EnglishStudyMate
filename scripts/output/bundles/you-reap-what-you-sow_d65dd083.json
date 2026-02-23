@@ -1,0 +1,30 @@
+{
+  "id": "you-reap-what-you-sow_d65dd083",
+  "expression": "you reap what you sow",
+  "selectionMeta": {
+    "selectedPhrase": "you reap what you sow",
+    "selectedSenseLabelKo": "뿌린 대로 거둔다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He never studied for his exams and failed every one of them — you reap what you sow."
+  },
+  "step2": {
+    "story": "Marcus spent years cutting corners at work, taking credit for others' ideas while ignoring his own responsibilities. When the company restructured, nobody vouched for him, and he was the first to be let go. His colleague shrugged and said, \"You reap what you sow.\"",
+    "topicTag": "career consequences",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "For three years, Dana poured her heart into the community garden, volunteering every weekend even when it rained. She taught neighborhood kids how to plant seeds and compost, and she organized fundraisers to buy better tools. Most people thought she was wasting her time on something that would never pay off. But when the city awarded a grant to revitalize the neighborhood, they chose Dana's block because of the garden's success. The mayor personally thanked her at the ceremony. Sometimes you really do reap what you sow — patience and kindness come back to you in ways you never expected.",
+    "topicTag": "community effort",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "당신이 씨를 뿌린 것을 거둔다는 뜻으로, 농사에서 유래한 직역적 의미입니다.",
+    "realUsageKo": "자신의 행동에는 반드시 그에 상응하는 결과가 따른다는 의미로 사용됩니다. 좋은 행동이든 나쁜 행동이든 결국 자신에게 돌아온다는 뜻으로, 경고나 교훈을 줄 때 자주 쓰입니다.",
+    "etymologyKo": "성경 갈라디아서 6장 7절 'whatsoever a man soweth, that shall he also reap'에서 유래한 표현으로, 수세기 동안 영어권에서 널리 사용되어 왔습니다.",
+    "nuanceKo": "주로 부정적인 결과에 대한 경고나 훈계의 뉘앙스가 강하지만, 긍정적인 노력의 결실을 칭찬할 때도 사용됩니다. 다소 격식 있고 교훈적인 톤을 가집니다.",
+    "shortExampleEn": "She volunteered for years, and now the whole town supports her business — you reap what you sow.",
+    "shortExampleKo": "그녀는 수년간 봉사활동을 했고, 이제 마을 전체가 그녀의 사업을 지지한다 — 뿌린 대로 거두는 법이다."
+  }
+}

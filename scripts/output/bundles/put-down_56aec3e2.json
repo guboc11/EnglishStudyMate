@@ -1,0 +1,30 @@
+{
+  "id": "put-down_56aec3e2",
+  "expression": "put down",
+  "selectionMeta": {
+    "selectedPhrase": "put down",
+    "selectedSenseLabelKo": "내려놓다 / 깎아내리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She gently put down her coffee cup and looked him straight in the eye."
+  },
+  "step2": {
+    "story": "Jake spent weeks preparing his presentation, but during the meeting, his manager kept putting him down in front of the whole team. He felt his confidence crumble with every sarcastic comment. That evening, he put down his laptop bag and decided it was time to have an honest conversation with his boss.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Mia had always been the quiet one in her friend group, and her roommate Clara had a habit of putting her down whenever others were around. One afternoon, Clara made a joke about Mia's cooking in front of their guests, and the room went silent. Mia calmly put down the serving spoon and said, 'I'd appreciate it if you didn't do that.' Clara's face turned red as the guests nodded in agreement. From that day on, Clara thought twice before making careless remarks. Mia realized that standing up for herself didn't require shouting — sometimes all it took was putting down your guard and speaking the truth.",
+    "topicTag": "self-respect",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'put down'은 글자 그대로 무언가를 아래로 내려놓는다는 뜻입니다.",
+    "realUsageKo": "물리적으로 물건을 내려놓는 의미 외에도, 누군가를 비하하거나 깎아내리는 뜻으로 자주 사용됩니다. 'Stop putting me down'처럼 상대방의 무례한 언행을 지적할 때 흔히 쓰입니다.",
+    "etymologyKo": "'put'(놓다)과 'down'(아래로)의 결합으로, 물리적 동작에서 출발해 비유적으로 '상대를 낮추다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "물건을 내려놓을 때는 중립적이지만, 사람에게 쓰면 부정적인 뉘앙스가 강합니다. 'put someone down'은 상대의 자존감을 건드리는 행위를 뜻하며, 일상 대화에서 꽤 감정적인 표현입니다.",
+    "shortExampleEn": "He always puts down his coworkers to make himself look better.",
+    "shortExampleKo": "그는 자신을 돋보이게 하려고 항상 동료들을 깎아내린다."
+  }
+}

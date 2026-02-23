@@ -1,0 +1,30 @@
+{
+  "id": "hit-a-wall_7b6be1d9",
+  "expression": "hit a wall",
+  "selectionMeta": {
+    "selectedPhrase": "hit a wall",
+    "selectedSenseLabelKo": "한계에 부딪히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of steady progress on my thesis, I suddenly hit a wall and couldn't write another word."
+  },
+  "step2": {
+    "story": "Jenna had been training for the marathon for six months and felt unstoppable. But at week twenty, she hit a wall — her legs ached, her pace slowed, and every run felt like dragging concrete. She knew the only way forward was to rest, regroup, and push through.",
+    "topicTag": "personal challenge",
+    "moodTag": "frustrated but resilient"
+  },
+  "step3": {
+    "story": "Daniel had been coding the new feature for three straight days, fueled by coffee and excitement. Everything clicked at first — the architecture was clean, the tests passed, and he felt like he was flying. Then on Thursday afternoon, he hit a wall. A stubborn bug buried somewhere in the async logic refused to surface, and no amount of logging or debugging helped. He stared at the screen for an hour, feeling his confidence drain away. Finally, he closed his laptop, took a long walk around the block, and came back with fresh eyes — and spotted the missing await in thirty seconds.",
+    "topicTag": "work productivity",
+    "moodTag": "exhausted then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '벽에 부딪히다'라는 뜻입니다.",
+    "realUsageKo": "어떤 일을 진행하다가 더 이상 나아갈 수 없는 한계점에 도달했을 때 사용합니다. 주로 공부, 운동, 프로젝트 등에서 갑자기 진전이 멈추는 상황을 표현합니다.",
+    "etymologyKo": "마라톤에서 유래한 표현으로, 장거리 달리기 중 약 30km 지점에서 체력이 급격히 소진되어 마치 벽에 부딪힌 것처럼 더 이상 달릴 수 없는 상태를 가리켰습니다.",
+    "nuanceKo": "일시적인 정체나 좌절을 의미하며, 완전한 실패보다는 '극복할 수 있는 장벽'이라는 뉘앙스가 있습니다. 캐주얼한 대화에서 자주 쓰입니다.",
+    "shortExampleEn": "I was learning Korean quickly, but I hit a wall with advanced grammar.",
+    "shortExampleKo": "한국어를 빨리 배우고 있었는데, 고급 문법에서 한계에 부딪혔다."
+  }
+}

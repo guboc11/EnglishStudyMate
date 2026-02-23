@@ -1,0 +1,30 @@
+{
+  "id": "stay-motivated_61477636",
+  "expression": "stay motivated",
+  "selectionMeta": {
+    "selectedPhrase": "stay motivated",
+    "selectedSenseLabelKo": "동기부여를 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when progress feels slow, it's important to stay motivated and keep pushing forward."
+  },
+  "step2": {
+    "story": "After three months of studying for the certification exam, Jenna was exhausted and ready to quit. Her study partner reminded her how far she'd come, and that helped her stay motivated through the final stretch. She passed the exam with flying colors.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had been training for a marathon for over six months, but a knee injury forced him to take three weeks off. When he finally got back on the road, his pace was slower and his legs felt heavy. Doubt crept in, and he wondered if finishing the race was even realistic anymore. His coach told him that setbacks are part of the journey and the real challenge is to stay motivated when things don't go as planned. Marcus adjusted his training schedule, set smaller weekly goals, and focused on gradual improvement. On race day, he crossed the finish line with tears in his eyes, knowing that his persistence had paid off.",
+    "topicTag": "resilience",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "동기가 부여된 상태를 유지하다라는 뜻입니다.",
+    "realUsageKo": "어떤 목표를 향해 꾸준히 노력할 의지를 잃지 않는다는 의미로 사용됩니다. 힘든 상황에서도 포기하지 않고 계속 나아가는 태도를 강조할 때 자주 쓰입니다.",
+    "etymologyKo": "stay는 '머무르다'라는 고대 프랑스어 ester에서, motivated는 라틴어 movere(움직이다)에서 파생된 motive에 기반합니다. 즉, 행동하게 만드는 힘을 유지한다는 조합입니다.",
+    "nuanceKo": "단순히 열심히 한다는 뜻보다는, 어려움이나 지루함 속에서도 의욕을 잃지 않는다는 뉘앙스가 강합니다. 자기계발, 운동, 학습 맥락에서 격려의 의미로 자주 사용됩니다.",
+    "shortExampleEn": "Reading success stories helps me stay motivated during tough times.",
+    "shortExampleKo": "성공 사례를 읽으면 힘든 시기에도 동기부여를 유지하는 데 도움이 됩니다."
+  }
+}

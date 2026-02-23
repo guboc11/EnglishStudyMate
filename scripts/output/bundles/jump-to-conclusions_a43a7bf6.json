@@ -1,0 +1,30 @@
+{
+  "id": "jump-to-conclusions_a43a7bf6",
+  "expression": "jump to conclusions",
+  "selectionMeta": {
+    "selectedPhrase": "jump to conclusions",
+    "selectedSenseLabelKo": "섣불리 결론을 내리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't jump to conclusions — we haven't heard his side of the story yet."
+  },
+  "step2": {
+    "story": "When Lisa saw her coworker leaving early every day, she jumped to conclusions and assumed he was slacking off. Later she learned he had been rushing to the hospital to care for his sick mother. She felt terrible for judging him without knowing the full picture.",
+    "topicTag": "workplace misunderstanding",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "David noticed that his girlfriend had been texting someone late at night and hiding her phone screen whenever he walked by. His mind raced with suspicion, and he jumped to conclusions, convinced she was seeing someone else. He spent two miserable weeks barely speaking to her, replaying every small detail in his head. Finally, his best friend told him to just talk to her instead of stewing in silence. When he did, she burst out laughing and showed him the group chat — she had been secretly planning a surprise birthday party for him. He realized how much pain he could have saved himself if he had simply asked instead of assuming the worst.",
+    "topicTag": "trust in relationships",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '결론으로 뛰어가다'라는 뜻입니다.",
+    "realUsageKo": "충분한 정보나 근거 없이 성급하게 판단하거나 결론을 내릴 때 사용하는 표현입니다. \"섣불리 단정 짓지 마\"라는 뉘앙스로 일상 대화에서 매우 자주 쓰입니다.",
+    "etymologyKo": "논리적 추론의 단계를 건너뛰고(jump) 곧바로 결론(conclusion)에 도달한다는 비유에서 유래했습니다. 19세기부터 영어권에서 널리 사용되어 온 관용 표현입니다.",
+    "nuanceKo": "주로 부정적인 맥락에서 쓰이며, 누군가의 성급한 판단을 지적하거나 경고할 때 사용합니다. 격식/비격식 모두 자연스럽게 쓸 수 있는 표현입니다.",
+    "shortExampleEn": "Let's not jump to conclusions until we see the test results.",
+    "shortExampleKo": "검사 결과를 보기 전까지 섣불리 결론을 내리지 맙시다."
+  }
+}

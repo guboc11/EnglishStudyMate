@@ -1,0 +1,30 @@
+{
+  "id": "zoom-out_3307be72",
+  "expression": "zoom out",
+  "selectionMeta": {
+    "selectedPhrase": "zoom out",
+    "selectedSenseLabelKo": "축소하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Can you zoom out on the map so we can see the entire city?"
+  },
+  "step2": {
+    "story": "Lisa was editing a group photo on her laptop. She realized the edges were cropped too tightly, so she decided to zoom out to include everyone in the frame. Now the whole team was visible, and she smiled at the result.",
+    "topicTag": "photo editing",
+    "moodTag": "satisfied"
+  },
+  "step3": {
+    "story": "During the geography presentation, Mr. Kim displayed a satellite image of their neighborhood on the screen. The students could see individual buildings and streets clearly. \"Now watch this,\" he said, clicking a button to zoom out slowly. The view expanded to show the entire district, then the whole city, and finally the coastline stretching into the distance. The students gasped as they realized how small their neighborhood looked from above. It was a powerful reminder of how much world existed beyond their daily surroundings.",
+    "topicTag": "education",
+    "moodTag": "awe-inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "화면이나 시야를 '줌 아웃'하여 더 넓은 범위를 보는 것을 뜻합니다.",
+    "realUsageKo": "카메라, 지도, 이미지 편집 등에서 화면을 축소하여 더 넓은 영역을 볼 때 사용합니다. 비유적으로는 세부 사항에서 벗어나 큰 그림을 보라는 의미로도 쓰입니다.",
+    "etymologyKo": "'zoom'은 원래 빠르게 움직이는 소리를 나타내는 의성어에서 유래했으며, 카메라 렌즈의 확대/축소 기능을 가리키게 되었습니다. 'out'은 바깥으로 멀어지는 방향을 나타냅니다.",
+    "nuanceKo": "일상적이고 중립적인 표현으로, 기술적 맥락과 비유적 맥락 모두에서 자연스럽게 사용됩니다. 격식 없이 편하게 쓸 수 있는 표현입니다.",
+    "shortExampleEn": "Zoom out a bit so I can see the whole picture.",
+    "shortExampleKo": "전체 그림이 보이게 좀 축소해 줘."
+  }
+}

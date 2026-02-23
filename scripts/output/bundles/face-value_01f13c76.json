@@ -1,0 +1,30 @@
+{
+  "id": "face-value_01f13c76",
+  "expression": "face value",
+  "selectionMeta": {
+    "selectedPhrase": "face value",
+    "selectedSenseLabelKo": "액면 그대로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You shouldn't take his promises at face value — he often says things he doesn't mean."
+  },
+  "step2": {
+    "story": "The job listing promised flexible hours and unlimited vacation, but Sarah knew better than to take it at face value. She asked current employees about the real culture during her interview. Sure enough, the 'flexibility' came with unspoken expectations of weekend work.",
+    "topicTag": "job hunting",
+    "moodTag": "skeptical"
+  },
+  "step3": {
+    "story": "When Marcus received an investment proposal guaranteeing 30% annual returns, his first instinct was excitement. But his mentor had always warned him never to take financial promises at face value. He spent the weekend digging into the company's track record and found a trail of lawsuits from previous investors. The glossy brochure and confident pitch had almost fooled him. Marcus politely declined and later learned the whole operation was shut down by regulators. That experience taught him that healthy skepticism is worth more than blind trust.",
+    "topicTag": "financial literacy",
+    "moodTag": "cautious"
+  },
+  "meaning": {
+    "literalMeaningKo": "'face value'는 원래 동전이나 지폐에 적힌 액면가를 뜻합니다.",
+    "realUsageKo": "실제로는 '겉으로 보이는 그대로, 표면적인 의미 그대로'라는 뜻으로 쓰입니다. 주로 'take something at face value' 형태로 사용하며, 더 깊이 따져보지 않고 그대로 받아들인다는 의미입니다.",
+    "etymologyKo": "화폐의 액면가(face value)에서 유래했습니다. 동전 표면에 적힌 가치가 실제 금속 가치와 다를 수 있듯이, 겉보기와 실제가 다를 수 있다는 의미로 확장되었습니다.",
+    "nuanceKo": "대부분 부정문이나 경고의 맥락에서 사용됩니다. 'Don't take it at face value'처럼 겉모습만 보지 말고 비판적으로 생각하라는 뉘앙스가 강합니다.",
+    "shortExampleEn": "Don't take the advertisement at face value; read the fine print.",
+    "shortExampleKo": "광고를 액면 그대로 받아들이지 마세요. 세부 조항을 읽어보세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "connect-the-dots_832aa1b6",
+  "expression": "connect the dots",
+  "selectionMeta": {
+    "selectedPhrase": "connect the dots",
+    "selectedSenseLabelKo": "점들을 연결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After reviewing all the evidence, the detective was finally able to connect the dots and identify the suspect."
+  },
+  "step2": {
+    "story": "Sarah had been studying market trends for weeks but couldn't see a pattern. Then one morning over coffee, she suddenly managed to connect the dots — the supply chain delays, the shifting consumer behavior, and the competitor's quiet expansion all pointed to the same conclusion. She rushed to her laptop to draft a report before the board meeting.",
+    "topicTag": "business insight",
+    "moodTag": "eureka"
+  },
+  "step3": {
+    "story": "James stared at the whiteboard covered in sticky notes, photos, and red string. For three months, his investigative journalism piece on corporate fraud had gone nowhere. The financial records seemed clean, the interviews led to dead ends, and his editor was losing patience. But late one Thursday night, he noticed a tiny detail — the same offshore company appeared in two unrelated documents. That was all he needed to connect the dots. Within a week, he had mapped out an elaborate money-laundering scheme that spanned four countries. His story ran on the front page and sparked a federal investigation.",
+    "topicTag": "investigation",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "점들을 선으로 이어 연결한다는 뜻입니다.",
+    "realUsageKo": "흩어져 있는 단서나 정보를 종합하여 전체적인 그림이나 결론을 도출할 때 사용합니다. '퍼즐 조각을 맞추다'와 비슷한 의미입니다.",
+    "etymologyKo": "어린이용 점잇기 퍼즐(dot-to-dot puzzle)에서 유래했습니다. 번호가 매겨진 점들을 순서대로 연결하면 숨겨진 그림이 나타나는 놀이에서 비롯된 표현입니다.",
+    "nuanceKo": "주로 복잡한 상황에서 숨겨진 패턴이나 관계를 발견할 때 씁니다. 긍정적인 통찰의 순간을 강조하며, 비즈니스·수사·학습 등 다양한 맥락에서 폭넓게 사용됩니다.",
+    "shortExampleEn": "Once I connected the dots, the whole situation made sense.",
+    "shortExampleKo": "단서들을 종합하고 나니 상황 전체가 이해가 됐다."
+  }
+}

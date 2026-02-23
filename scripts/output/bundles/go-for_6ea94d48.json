@@ -1,0 +1,30 @@
+{
+  "id": "go-for_6ea94d48",
+  "expression": "go for",
+  "selectionMeta": {
+    "selectedPhrase": "go for",
+    "selectedSenseLabelKo": "선택하다 / 도전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of hesitation, she decided to go for the promotion and submitted her application."
+  },
+  "step2": {
+    "story": "Jake had been working at the same position for three years, always playing it safe. One morning, he saw a posting for a team lead role and felt a spark of excitement. He told himself it was time to go for it and walked straight into his manager's office to express his interest.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina stared at the flyer pinned to the community board: a local bakery competition with a grand prize of opening your own pop-up shop. She had only ever baked for friends and family, never professionally. Her hands trembled as she picked up her phone to register. Her best friend nudged her and said, \"You should absolutely go for it — your sourdough alone could win.\" That night, Mina stayed up late perfecting her signature chocolate tart recipe. Win or lose, she knew she would regret it forever if she didn't at least try.",
+    "topicTag": "pursuing a dream",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'~을 향해 가다'라는 뜻으로, 어떤 대상을 선택하거나 목표를 향해 나아간다는 의미입니다.",
+    "realUsageKo": "실제로는 여러 선택지 중 하나를 고르거나, 기회나 도전에 과감히 뛰어들 때 사용합니다. 'Go for it!'은 '해봐!', '도전해!'라는 격려 표현으로 매우 자주 쓰입니다.",
+    "etymologyKo": "'go'(가다)와 'for'(~을 위해) 의 결합으로, 무언가를 얻기 위해 행동한다는 기본 의미에서 '선택하다', '도전하다'로 확장되었습니다.",
+    "nuanceKo": "일상 대화에서 가볍고 긍정적인 뉘앙스로 쓰이며, 특히 망설이는 상대를 격려할 때 'Go for it!'이라고 많이 씁니다. 격식 없는 캐주얼한 표현입니다.",
+    "shortExampleEn": "I can't decide between the pasta and the steak. — Just go for the steak!",
+    "shortExampleKo": "파스타랑 스테이크 중에 못 고르겠어. — 그냥 스테이크로 해!"
+  }
+}

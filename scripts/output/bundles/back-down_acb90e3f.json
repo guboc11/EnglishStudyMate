@@ -1,0 +1,30 @@
+{
+  "id": "back-down_acb90e3f",
+  "expression": "back down",
+  "selectionMeta": {
+    "selectedPhrase": "back down",
+    "selectedSenseLabelKo": "물러나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager refused to back down even when the entire team disagreed with her decision."
+  },
+  "step2": {
+    "story": "Jake had been arguing with the landlord about the unfair rent increase for weeks. Everyone told him to just accept it and move on. But Jake wasn't the type to back down easily — he gathered evidence, cited local housing laws, and finally got the increase reduced by half.",
+    "topicTag": "standing your ground",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sarah had spent months preparing the environmental report for the city council meeting. When the construction company's lawyers challenged her findings in front of everyone, her hands trembled, but she kept her voice steady. They pressured her to retract her claims, offering subtle threats about her career. Her colleagues whispered that it wasn't worth the fight. But Sarah knew the river cleanup project depended on this moment — she couldn't back down now. She laid out her data point by point, and by the end of the session, even the skeptics on the council were nodding in agreement.",
+    "topicTag": "courage under pressure",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "'뒤로(back) 내려가다(down)'라는 뜻으로, 물리적으로 뒤로 물러나는 이미지를 담고 있습니다.",
+    "realUsageKo": "논쟁이나 대립 상황에서 자신의 입장이나 주장을 포기하고 양보할 때 사용합니다. 주로 압박이나 반대에 직면했을 때 '물러서다, 굽히다'라는 의미로 쓰입니다.",
+    "etymologyKo": "군사 용어에서 유래했으며, 전투에서 후퇴하는 행위를 묘사하던 것이 일상 언어로 확장되어 논쟁이나 갈등에서 양보하는 상황에 쓰이게 되었습니다.",
+    "nuanceKo": "단순히 양보한다는 중립적 의미보다는, 압박에 못 이겨 물러난다는 뉘앙스가 있어 'back down'을 거부하면 강인하고 용감한 이미지를, 수용하면 다소 약해 보이는 인상을 줄 수 있습니다.",
+    "shortExampleEn": "He never backs down from a challenge.",
+    "shortExampleKo": "그는 도전 앞에서 절대 물러서지 않는다."
+  }
+}

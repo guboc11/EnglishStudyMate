@@ -1,0 +1,30 @@
+{
+  "id": "lash-out_e5bcae21",
+  "expression": "lash out",
+  "selectionMeta": {
+    "selectedPhrase": "lash out",
+    "selectedSenseLabelKo": "격하게 반응하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After being criticized in front of the whole team, she couldn't help but lash out at her manager."
+  },
+  "step2": {
+    "story": "Jake had been holding in his frustration for weeks. When his roommate ate his leftovers without asking again, he finally lashed out, slamming the fridge door and raising his voice. He immediately felt guilty and apologized, realizing his anger was about more than just food.",
+    "topicTag": "bottled-up emotions",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Mia had always been the calm one in her friend group. But after months of working double shifts and barely sleeping, she was running on empty. One evening, her best friend Sara made a harmless joke about Mia's messy apartment. Without thinking, Mia lashed out, snapping that Sara had no idea what real stress felt like. The room went silent. Sara's hurt expression hit Mia like a wave of cold water. She took a deep breath and said she was sorry — she hadn't meant to lash out, but exhaustion had been eating her alive.",
+    "topicTag": "friendship and stress",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'lash'는 채찍질하다, 'out'은 바깥으로라는 뜻으로, 감정을 채찍처럼 바깥으로 휘두르는 이미지입니다.",
+    "realUsageKo": "화나거나 상처받았을 때 갑자기 공격적으로 말하거나 행동하는 것을 의미합니다. 주로 감정을 참다가 폭발하듯 반응할 때 사용합니다.",
+    "etymologyKo": "'lash'는 중세 영어에서 채찍으로 때리다라는 뜻에서 유래했습니다. 채찍이 갑자기 튕겨 나가듯 감정이 격하게 분출되는 모습을 비유한 표현입니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강하며, 본인도 후회할 만한 과잉 반응을 암시합니다. 'lash out at someone'처럼 대상을 지정하여 쓰는 경우가 많습니다.",
+    "shortExampleEn": "He lashed out at his coworker after a stressful meeting.",
+    "shortExampleKo": "그는 스트레스가 심한 회의 후 동료에게 격하게 반응했다."
+  }
+}

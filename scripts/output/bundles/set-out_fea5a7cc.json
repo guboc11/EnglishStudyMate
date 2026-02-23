@@ -1,0 +1,30 @@
+{
+  "id": "set-out_fea5a7cc",
+  "expression": "set out",
+  "selectionMeta": {
+    "selectedPhrase": "set out",
+    "selectedSenseLabelKo": "출발하다 / 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We set out early in the morning to avoid the heavy traffic on the highway."
+  },
+  "step2": {
+    "story": "After months of planning, Maya finally set out on her solo backpacking trip across Southeast Asia. The first morning felt surreal—standing alone at the airport with nothing but a backpack and a one-way ticket. She knew the journey ahead would be unpredictable, but that was exactly the point.",
+    "topicTag": "adventure",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Daniel had always talked about starting his own café, but it remained just a dream for years. One rainy afternoon, after yet another frustrating day at his corporate job, he made a decision. He set out to turn his dream into reality, beginning with a simple business plan scribbled on a napkin. He visited local roasters, studied lease agreements, and talked to every small business owner who would give him five minutes. There were setbacks—a rejected loan, a location that fell through—but he refused to stop. Six months later, the smell of freshly brewed coffee filled his tiny shop on Elm Street.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'set'(놓다, 세팅하다)과 'out'(밖으로)의 결합으로, 문자 그대로 '밖으로 나서다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 두 가지 핵심 의미로 쓰입니다. 첫째, 여행이나 이동을 '출발하다'(We set out at dawn). 둘째, 어떤 목표를 가지고 '시작하다, 착수하다'(She set out to prove everyone wrong). 두 의미 모두 능동적으로 첫 걸음을 내딛는 뉘앙스가 있습니다.",
+    "etymologyKo": "고대 영어에서 'settan'(놓다)과 'ūt'(밖으로)가 결합된 표현으로, 중세 영어 시기부터 '여정을 시작하다'라는 의미로 정착했습니다.",
+    "nuanceKo": "단순히 '시작하다(start)'보다 목적의식과 의지가 강하게 느껴지는 표현입니다. 계획이나 각오를 갖고 첫 발을 내딛는 느낌이며, 격식/비격식 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "She set out to learn three new languages before turning thirty.",
+    "shortExampleKo": "그녀는 서른이 되기 전에 세 가지 새로운 언어를 배우겠다고 나섰다."
+  }
+}

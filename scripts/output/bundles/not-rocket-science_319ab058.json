@@ -1,0 +1,30 @@
+{
+  "id": "not-rocket-science_319ab058",
+  "expression": "not rocket science",
+  "selectionMeta": {
+    "selectedPhrase": "not rocket science",
+    "selectedSenseLabelKo": "어렵지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Setting up this new app is not rocket science — just follow the instructions step by step."
+  },
+  "step2": {
+    "story": "Jake stared at the flatpack furniture manual, convinced he would never figure it out. His roommate walked over, glanced at the instructions, and said, \"Relax, it's not rocket science.\" Within an hour, they had the entire bookshelf assembled.",
+    "topicTag": "everyday tasks",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "When Mina started her new office job, she was terrified of the accounting software everyone seemed to navigate effortlessly. She spent her first morning clicking through menus cautiously, afraid of making a costly mistake. During lunch, her colleague David noticed her stress and sat down beside her. \"Look, balancing these spreadsheets is not rocket science,\" he said with a warm smile. He walked her through the basics in fifteen minutes, and by the afternoon, Mina was entering data on her own with growing confidence. She realized most of her fear had come from overthinking something that was actually quite straightforward.",
+    "topicTag": "workplace adaptation",
+    "moodTag": "encouraging"
+  },
+  "meaning": {
+    "literalMeaningKo": "로켓 과학이 아니다, 즉 로켓을 만들 만큼 복잡한 일이 아니라는 뜻입니다.",
+    "realUsageKo": "어떤 일이 생각보다 어렵지 않다는 것을 강조할 때 사용합니다. 상대방이 지나치게 걱정하거나 겁먹고 있을 때 '별거 아니야'라는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "20세기 중반 미국 우주 경쟁 시대에서 유래했습니다. 로켓 과학(rocket science)은 가장 어려운 학문의 상징이었기 때문에, 그것이 '아니다'라고 부정함으로써 '그렇게 어렵지 않다'는 표현이 되었습니다.",
+    "nuanceKo": "가볍고 격려하는 톤으로 주로 쓰이지만, 상황에 따라 '이 정도도 못 해?'라는 약간 비꼬는 뉘앙스가 될 수도 있으니 맥락에 주의해야 합니다.",
+    "shortExampleEn": "Come on, changing a tire is not rocket science.",
+    "shortExampleKo": "이봐, 타이어 교체하는 건 어려운 일도 아니잖아."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "shoot-for-the-stars_790fada2",
+  "expression": "shoot for the stars",
+  "selectionMeta": {
+    "selectedPhrase": "shoot for the stars",
+    "selectedSenseLabelKo": "큰 꿈을 꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even though the odds were against her, she decided to shoot for the stars and apply to the top university in the country."
+  },
+  "step2": {
+    "story": "Marco had been working at a small café for three years, but he secretly dreamed of opening his own restaurant. His grandmother always told him to shoot for the stars, so one evening he finally sat down and wrote his business plan. By the next morning, he felt ready to take the first real step toward his dream.",
+    "topicTag": "ambition",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jina stared at the acceptance letter from the international design school in Milan. A year ago, she had been sketching clothes in a tiny apartment after her factory shifts, wondering if her talent would ever be noticed. Her best friend had urged her to shoot for the stars and submit her portfolio to the competition. She did, expecting nothing. When her collection won first place, the scholarship offer followed within weeks. Now, holding the letter in her trembling hands, she realized that aiming impossibly high had been the best decision she ever made.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "별을 향해 쏘다, 즉 하늘의 별처럼 아주 높은 곳을 목표로 삼는다는 뜻입니다.",
+    "realUsageKo": "매우 높은 목표나 큰 꿈을 세우라는 의미로 사용됩니다. 현실적으로 어렵더라도 최대한 높은 곳을 지향하라는 격려의 표현입니다.",
+    "etymologyKo": "밤하늘의 별은 사람이 손으로 닿을 수 없을 만큼 멀리 있어, 예로부터 '불가능해 보이는 목표'의 상징으로 쓰였습니다. 이 비유에서 유래한 표현입니다.",
+    "nuanceKo": "긍정적이고 격려하는 어조로 쓰이며, 주로 누군가에게 포부를 가지라고 응원할 때 사용합니다. 비현실적이라는 비꼬는 뉘앙스는 거의 없습니다.",
+    "shortExampleEn": "Don't settle for less — shoot for the stars!",
+    "shortExampleKo": "적당히 타협하지 마 — 큰 꿈을 꿔!"
+  }
+}

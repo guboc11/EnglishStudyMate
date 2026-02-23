@@ -1,0 +1,30 @@
+{
+  "id": "go-along-with_09ce7de4",
+  "expression": "go along with",
+  "selectionMeta": {
+    "selectedPhrase": "go along with",
+    "selectedSenseLabelKo": "동의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I decided to go along with the team's plan even though I had a few doubts."
+  },
+  "step2": {
+    "story": "My coworkers wanted to change the entire project timeline. I wasn't fully convinced, but I chose to go along with their decision because they had strong reasons. In the end, the new schedule actually worked out better for everyone.",
+    "topicTag": "teamwork",
+    "moodTag": "cooperative"
+  },
+  "step3": {
+    "story": "During the weekly meeting, Sarah proposed moving the product launch date up by two weeks. Most of the team looked surprised, and a few people exchanged worried glances. I had my own concerns about the tight deadline, but after hearing her detailed plan, I decided to go along with it. We reorganized our tasks that afternoon and started working extra hours. By the end of the first week, we were actually ahead of schedule. Sometimes going along with a bold idea is exactly what a team needs to push forward.",
+    "topicTag": "workplace decisions",
+    "moodTag": "optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'함께 따라가다'라는 뜻으로, 누군가와 같은 방향으로 함께 간다는 의미입니다.",
+    "realUsageKo": "실제로는 다른 사람의 의견이나 계획에 동의하거나 따르는 것을 뜻합니다. 적극적인 찬성보다는 반대하지 않고 수용한다는 느낌이 강합니다.",
+    "etymologyKo": "'go along'(함께 가다)에 'with'(~와 함께)가 결합된 구동사로, 물리적으로 함께 이동한다는 원래 의미에서 '의견에 동조하다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "완전히 확신하지는 않지만 반대하지 않고 따른다는 뉘앙스가 있습니다. 열정적 동의보다는 소극적 수용에 가까운 표현입니다.",
+    "shortExampleEn": "She didn't love the idea, but she went along with it to keep the peace.",
+    "shortExampleKo": "그녀는 그 아이디어가 마음에 들지 않았지만, 평화를 위해 따르기로 했다."
+  }
+}

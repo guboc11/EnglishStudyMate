@@ -1,0 +1,30 @@
+{
+  "id": "take-a-back-seat_1d202d58",
+  "expression": "take a back seat",
+  "selectionMeta": {
+    "selectedPhrase": "take a back seat",
+    "selectedSenseLabelKo": "뒤로 물러나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After leading the project for two years, she decided to take a back seat and let the younger team members step up."
+  },
+  "step2": {
+    "story": "Marcus had always been the loudest voice in every meeting. But when a talented new hire joined, he chose to take a back seat and watch her lead the brainstorming sessions. He realized that stepping back sometimes brings out the best in others.",
+    "topicTag": "leadership",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "For the past decade, Chef Yuna had run every service in her restaurant with iron discipline. She tasted every sauce, plated every signature dish, and never missed a single night. But after her sous chef, Daniel, won a regional cooking award, something shifted inside her. She told Daniel he would lead Friday night service entirely on his own. It felt strange to take a back seat after so many years at the helm, but watching him command the kitchen with confidence gave her a deep sense of pride. Sometimes the greatest thing a leader can do is step aside and let someone else shine.",
+    "topicTag": "mentorship",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "뒷좌석에 앉다, 즉 운전석이 아닌 뒷자리에 앉는다는 뜻입니다.",
+    "realUsageKo": "주도적인 역할에서 물러나 다른 사람에게 주도권을 넘기는 상황에서 사용합니다. 자발적으로 한 발 뒤로 물러나는 뉘앙스가 있습니다.",
+    "etymologyKo": "자동차에서 뒷좌석 승객은 운전을 하지 않고 앉아만 있는 것에서 유래했습니다. 운전대를 잡지 않는다는 것이 곧 통제권을 내려놓는다는 의미로 확장되었습니다.",
+    "nuanceKo": "부정적이기보다는 겸손하거나 전략적으로 물러나는 느낌이 강합니다. 다만 문맥에 따라 소외되거나 밀려난다는 뉘앙스로도 쓰일 수 있습니다.",
+    "shortExampleEn": "I'll take a back seat on this one and let you handle it.",
+    "shortExampleKo": "이번 건은 내가 한 발 물러나서 네가 처리하도록 할게."
+  }
+}

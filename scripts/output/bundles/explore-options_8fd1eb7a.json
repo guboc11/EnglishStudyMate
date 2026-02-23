@@ -1,0 +1,30 @@
+{
+  "id": "explore-options_8fd1eb7a",
+  "expression": "explore options",
+  "selectionMeta": {
+    "selectedPhrase": "explore options",
+    "selectedSenseLabelKo": "선택지를 탐색하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making a final decision on her career, she wanted to explore options and see what else was available."
+  },
+  "step2": {
+    "story": "Jake had been working at the same company for five years, but he felt stuck. During lunch with a friend, he admitted he needed to explore options before it was too late. That evening, he updated his resume and started browsing job listings with a mix of excitement and nerves.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mina stared at the acceptance letter from the local university. It was a safe choice, close to home and affordable. But something nagged at her. She spent the entire weekend researching programs abroad, talking to alumni online, and comparing scholarship deadlines. Her parents were surprised when she told them she wanted to explore options beyond what they had originally planned. After weeks of careful research, she discovered a fully funded program in the Netherlands that matched her interests perfectly. Taking that extra time to look around changed the entire direction of her life.",
+    "topicTag": "education decisions",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'선택지를 탐험하다'라는 뜻으로, 가능한 여러 방안을 살펴본다는 의미입니다.",
+    "realUsageKo": "결정을 내리기 전에 다양한 가능성이나 대안을 조사하고 비교해 본다는 의미로 사용됩니다. 진로, 구매, 여행 계획 등 선택이 필요한 거의 모든 상황에서 쓰입니다.",
+    "etymologyKo": "explore는 라틴어 explorare(조사하다, 탐색하다)에서 유래했고, option은 라틴어 optio(선택)에서 왔습니다. 두 단어가 결합하여 '가능한 선택지를 능동적으로 알아본다'는 의미의 자연스러운 연어가 되었습니다.",
+    "nuanceKo": "아직 결정을 내리지 않았으며 열린 마음으로 여러 가능성을 검토하겠다는 뉘앙스를 줍니다. 성급하지 않고 신중한 태도를 내포하며, 비즈니스와 일상 대화 모두에서 자주 사용됩니다.",
+    "shortExampleEn": "Let's explore options before we commit to anything.",
+    "shortExampleKo": "뭔가를 확정하기 전에 선택지를 탐색해 봅시다."
+  }
+}

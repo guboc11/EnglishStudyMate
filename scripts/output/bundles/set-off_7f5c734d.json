@@ -1,0 +1,30 @@
+{
+  "id": "set-off_7f5c734d",
+  "expression": "set off",
+  "selectionMeta": {
+    "selectedPhrase": "set off",
+    "selectedSenseLabelKo": "출발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We set off early in the morning to avoid the rush-hour traffic on the highway."
+  },
+  "step2": {
+    "story": "Jina packed her backpack the night before, double-checking her passport and hiking boots. At dawn, she set off from the quiet village toward the mountain trail. The cool morning air filled her lungs as the first rays of sunlight hit the peaks ahead.",
+    "topicTag": "solo travel",
+    "moodTag": "adventurous"
+  },
+  "step3": {
+    "story": "Mark had been planning this road trip for months, pinning destinations on a worn-out map taped to his bedroom wall. On Friday evening, he loaded the car with camping gear, a cooler full of sandwiches, and his old guitar. He set off just as the sun dipped below the skyline, the city lights fading in his rearview mirror. The highway stretched endlessly before him, and for the first time in years, he felt completely free. Somewhere past midnight, he pulled over at a rest stop and gazed up at a sky bursting with stars. He smiled, knowing this was exactly why he needed to leave.",
+    "topicTag": "freedom and escape",
+    "moodTag": "liberating"
+  },
+  "meaning": {
+    "literalMeaningKo": "'set(놓다/세팅하다) + off(떨어져)'로, 어딘가를 향해 자리를 떠나 출발한다는 뜻입니다.",
+    "realUsageKo": "여행이나 이동을 시작할 때 자주 사용합니다. 'We set off at 6 a.m.'처럼 출발 시각과 함께 쓰이는 경우가 많고, 목적지는 for와 함께 붙입니다.",
+    "etymologyKo": "중세 영어에서 'set'은 특정 방향으로 움직이기 시작한다는 뜻으로 쓰였고, 'off'가 결합되어 현재 위치에서 벗어나 출발한다는 의미가 굳어졌습니다.",
+    "nuanceKo": "start나 leave보다 여정의 시작이라는 느낌이 강합니다. 일상적인 외출보다는 어느 정도 거리가 있는 이동이나 여행의 출발에 어울리는 표현입니다.",
+    "shortExampleEn": "They set off for the airport right after breakfast.",
+    "shortExampleKo": "그들은 아침을 먹자마자 공항을 향해 출발했다."
+  }
+}

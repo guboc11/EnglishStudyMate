@@ -1,0 +1,30 @@
+{
+  "id": "regain-confidence_bfdbe133",
+  "expression": "regain confidence",
+  "selectionMeta": {
+    "selectedPhrase": "regain confidence",
+    "selectedSenseLabelKo": "자신감을 되찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of struggling with public speaking, she finally began to regain confidence through consistent practice."
+  },
+  "step2": {
+    "story": "Mark had always been a talented pianist, but a disastrous recital last year left him too anxious to perform. He started practicing alone in empty auditoriums, gradually playing for small groups of friends. Week by week, he began to regain confidence, and by spring, he signed up for the city's open mic night.",
+    "topicTag": "overcoming stage fright",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jenna had been a top sales representative for five years until a major client deal fell apart publicly during a quarterly review. The embarrassment crushed her, and she spent weeks avoiding calls and dreading meetings. Her manager noticed and quietly paired her with a supportive senior colleague on smaller accounts. With each successful pitch, Jenna started to regain confidence in her instincts. She began volunteering for presentations again, her voice steadier than before. By the end of the quarter, she had not only matched her old numbers but exceeded them, proving to herself that one failure didn't define her career.",
+    "topicTag": "career recovery",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'regain'은 '다시 얻다', 'confidence'는 '자신감'으로, 잃어버린 자신감을 다시 되찾는다는 뜻입니다.",
+    "realUsageKo": "실패, 좌절, 부정적인 경험 이후 다시 자기 자신을 믿게 되는 과정을 표현할 때 사용합니다. 단순히 기분이 나아지는 것이 아니라, 능력에 대한 신뢰를 회복하는 것을 강조합니다.",
+    "etymologyKo": "'regain'은 프랑스어 'regagner'에서 유래했으며 're-(다시)'와 'gain(얻다)'의 결합입니다. 'confidence'는 라틴어 'confidentia(신뢰, 확신)'에서 왔습니다.",
+    "nuanceKo": "이 표현은 한때 자신감이 있었지만 어떤 계기로 잃어버린 뒤 다시 회복하는 뉘앙스를 담고 있어, 처음부터 자신감을 키우는 'build confidence'와는 구별됩니다. 회복과 재기의 느낌이 강합니다.",
+    "shortExampleEn": "She needed time to regain confidence after the project failure.",
+    "shortExampleKo": "그녀는 프로젝트 실패 이후 자신감을 되찾는 데 시간이 필요했다."
+  }
+}

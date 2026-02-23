@@ -1,0 +1,30 @@
+{
+  "id": "draw-up_b8803942",
+  "expression": "draw up",
+  "selectionMeta": {
+    "selectedPhrase": "draw up",
+    "selectedSenseLabelKo": "작성하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to draw up a detailed contract before the partnership becomes official."
+  },
+  "step2": {
+    "story": "The startup founders spent the entire weekend trying to draw up a business plan that would impress investors. After countless revisions, they finally had a document they were proud of. Their lawyer reviewed it Monday morning and gave them the green light.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Sarah was promoted to project manager, her first task was to draw up a comprehensive timeline for the product launch. She gathered input from every department, staying late each night to make sure nothing was overlooked. The marketing team wanted more time for campaigns, while engineering pushed for an earlier feature freeze. After three rounds of negotiations, Sarah managed to draw up a schedule that balanced everyone's needs. Her director was impressed by how thorough the plan was. It became the template the company used for every major launch after that.",
+    "topicTag": "project management",
+    "moodTag": "professional"
+  },
+  "meaning": {
+    "literalMeaningKo": "'draw'(그리다/끌다)와 'up'(위로)의 결합으로, 무언가를 끌어올려 완성한다는 뜻입니다.",
+    "realUsageKo": "계약서, 계획서, 목록 등 공식적인 문서를 체계적으로 작성할 때 사용합니다. 단순히 글을 쓴다는 의미보다는 신중하게 구성하고 준비한다는 뉘앙스가 강합니다.",
+    "etymologyKo": "중세 영어에서 문서를 '끌어내어(draw) 완성하다(up)'는 뜻에서 유래했으며, 펜으로 글을 긋는 동작과도 연결됩니다.",
+    "nuanceKo": "일상적인 메모나 짧은 글에는 잘 쓰지 않고, 계약서·제안서·계획서처럼 격식 있는 문서를 작성할 때 주로 사용합니다. 비즈니스나 법률 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "The lawyer will draw up the agreement by Friday.",
+    "shortExampleKo": "변호사가 금요일까지 계약서를 작성할 것입니다."
+  }
+}

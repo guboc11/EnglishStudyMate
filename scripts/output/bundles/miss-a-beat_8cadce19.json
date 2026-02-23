@@ -1,0 +1,30 @@
+{
+  "id": "miss-a-beat_8cadce19",
+  "expression": "miss a beat",
+  "selectionMeta": {
+    "selectedPhrase": "miss a beat",
+    "selectedSenseLabelKo": "박자를 놓치다 / 당황하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when the interviewer threw a curveball question, she didn't miss a beat and answered with confidence."
+  },
+  "step2": {
+    "story": "The CEO was ambushed by reporters outside the courthouse, firing questions about the leaked financial report. Without missing a beat, she calmly addressed each accusation, turning the hostile confrontation into a press conference on her own terms. Her team watched in awe, reminded why she'd led the company through three crises already.",
+    "topicTag": "crisis management",
+    "moodTag": "composed"
+  },
+  "step3": {
+    "story": "Marcus had been a jazz pianist for twenty years, but tonight's audience was different — a panel of conservatory judges sat in the front row, stone-faced and scribbling notes. Halfway through his improvisation, the bassist snapped a string with a jarring twang that echoed through the hall. The crowd winced, but Marcus didn't miss a beat. He wove the sudden silence of the bass into his melody, transforming the accident into a haunting solo passage. When the piece ended, the judges exchanged glances and began writing furiously. Marcus just smiled — years of playing dive bars and wedding receptions had taught him that the music never stops, even when the instruments do.",
+    "topicTag": "live performance",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "음악에서 박자(beat)를 놓치다(miss)라는 뜻으로, 리듬을 잃는 것을 의미합니다.",
+    "realUsageKo": "실제로는 주로 부정형 'not miss a beat'으로 사용되며, 예상치 못한 상황에서도 전혀 당황하지 않고 침착하게 대응하는 것을 뜻합니다. 잠시도 멈추거나 흔들리지 않는다는 뉘앙스입니다.",
+    "etymologyKo": "음악 용어에서 유래했습니다. 연주 중 박자를 놓치면 전체 리듬이 무너지는데, 이를 일상 상황에 비유하여 '흔들리지 않다'는 의미로 확장되었습니다.",
+    "nuanceKo": "대부분 'without missing a beat' 또는 'didn't miss a beat' 형태로 칭찬의 뉘앙스로 쓰입니다. 위기 상황에서의 침착함, 빠른 대처 능력을 강조할 때 자주 사용됩니다.",
+    "shortExampleEn": "When asked about the scandal, the politician didn't miss a beat and redirected the conversation.",
+    "shortExampleKo": "스캔들에 대한 질문을 받았을 때, 그 정치인은 전혀 당황하지 않고 대화의 방향을 바꿨다."
+  }
+}

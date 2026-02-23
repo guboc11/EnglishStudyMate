@@ -1,0 +1,30 @@
+{
+  "id": "back-off_f185b7cc",
+  "expression": "back off",
+  "selectionMeta": {
+    "selectedPhrase": "back off",
+    "selectedSenseLabelKo": "물러나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the dog started growling, I knew it was time to back off slowly."
+  },
+  "step2": {
+    "story": "My coworker kept pushing me to take on extra projects, so I finally told him to back off. He looked surprised at first, but then apologized for being so persistent. Sometimes you have to set boundaries clearly.",
+    "topicTag": "workplace boundaries",
+    "moodTag": "assertive"
+  },
+  "step3": {
+    "story": "Sarah had been micromanaging every detail of the team project for weeks. During Tuesday's meeting, Jake calmly asked her to back off and let the designers handle the visuals. The room went silent for a moment. Sarah took a deep breath and realized she had been controlling everything out of anxiety, not necessity. She nodded and said she would trust the team more. By the end of the week, the project was running smoother than ever, and everyone felt more confident in their roles.",
+    "topicTag": "team dynamics",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'뒤로(back) 물러나다(off)'라는 뜻으로, 물리적으로 뒤로 물러서는 행위를 의미합니다.",
+    "realUsageKo": "실제로는 누군가에게 '그만해', '간섭하지 마', '한 발 물러서'라는 뜻으로 자주 쓰입니다. 물리적 후퇴뿐 아니라 심리적·행동적으로 압박이나 간섭을 멈추라는 의미로 광범위하게 사용됩니다.",
+    "etymologyKo": "'back'(뒤로)과 'off'(떨어져)가 결합한 구동사로, 원래 물리적으로 뒤로 물러나는 동작에서 유래하여 비유적으로 '간섭을 그만두다', '포기하다'는 뜻으로 확장되었습니다.",
+    "nuanceKo": "상대방에게 직접 'Back off!'라고 말하면 다소 강한 경고의 뉘앙스가 있어, 친한 사이가 아니면 무례하게 들릴 수 있습니다. 반면 'I decided to back off'처럼 자신의 행동을 설명할 때는 중립적인 톤입니다.",
+    "shortExampleEn": "You need to back off and give her some space.",
+    "shortExampleKo": "좀 물러서서 그녀에게 공간을 줘야 해."
+  }
+}

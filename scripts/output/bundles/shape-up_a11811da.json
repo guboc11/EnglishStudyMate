@@ -1,0 +1,30 @@
+{
+  "id": "shape-up_a11811da",
+  "expression": "shape up",
+  "selectionMeta": {
+    "selectedPhrase": "shape up",
+    "selectedSenseLabelKo": "개선되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If the team doesn't shape up soon, we'll miss the project deadline."
+  },
+  "step2": {
+    "story": "Marcus received a warning from his manager about his declining performance. He knew he had to shape up if he wanted to keep his position. That week, he started arriving early and double-checking every report before submitting it.",
+    "topicTag": "work performance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The restaurant had been receiving terrible reviews for months, and the owner was on the verge of closing it down. She called a staff meeting and told everyone they needed to shape up or the doors would shut for good. The head chef redesigned the menu, the waitstaff practiced their service skills, and the kitchen was deep-cleaned from top to bottom. Within weeks, customers noticed the difference and started coming back. The online ratings climbed steadily, and by the end of the quarter, the restaurant was fully booked on weekends. Sometimes all it takes is an honest wake-up call to turn things around.",
+    "topicTag": "business turnaround",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'모양을 갖추다'라는 뜻으로, 형태(shape)를 위로(up) 만들어간다는 의미입니다.",
+    "realUsageKo": "행동이나 성과가 좋지 않을 때 '개선하다, 나아지다'라는 뜻으로 씁니다. 주로 경고나 요구의 맥락에서 'shape up or ship out(개선하든지 떠나든지)'처럼 사용됩니다.",
+    "etymologyKo": "군대에서 대열을 맞추라는 뜻의 'shape up'에서 유래했으며, 1940년대부터 '행동을 바로잡다'는 의미로 일반화되었습니다.",
+    "nuanceKo": "단순히 '좋아지다'보다는 누군가의 기대에 부응하도록 스스로를 바로잡는다는 뉘앙스가 있습니다. 직설적이고 약간 엄한 어조로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "You'd better shape up before the final exam.",
+    "shortExampleKo": "기말시험 전에 정신 좀 차리는 게 좋겠어."
+  }
+}

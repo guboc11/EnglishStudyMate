@@ -1,0 +1,30 @@
+{
+  "id": "count-out_2bddfe73",
+  "expression": "count out",
+  "selectionMeta": {
+    "selectedPhrase": "count out",
+    "selectedSenseLabelKo": "제외하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If the hike involves climbing a steep mountain, you can count me out."
+  },
+  "step2": {
+    "story": "The team planned a weekend camping trip in the rain. When they told Jake about the muddy trails and no Wi-Fi, he laughed and said to count him out. He spent the weekend on his couch watching movies instead.",
+    "topicTag": "weekend plans",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Mia's coworkers were buzzing with excitement about the company's annual talent show. They wanted her to join their dance group and perform in front of three hundred people. Mia pictured herself freezing on stage and shook her head firmly. She told them to count her out because dancing in public was her worst nightmare. Her friends tried to persuade her for days, but she wouldn't budge. In the end, she volunteered to handle the lighting instead and felt relieved from the sidelines.",
+    "topicTag": "social pressure",
+    "moodTag": "reluctant"
+  },
+  "meaning": {
+    "literalMeaningKo": "숫자를 세면서 밖으로 빼낸다는 뜻입니다.",
+    "realUsageKo": "어떤 활동이나 계획에서 자신을 빼달라고 할 때 사용합니다. 'Count me out'은 '나는 빠질게'라는 의미로 일상에서 매우 자주 쓰입니다.",
+    "etymologyKo": "count(세다)와 out(밖으로)이 결합된 구동사로, 원래 돈이나 물건을 하나씩 세어 나누어 주는 뜻에서 '제외하다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "정중하게 거절하거나 관심이 없음을 표현할 때 주로 사용하며, 캐주얼한 톤입니다. 반대말은 'count me in(나도 끼워줘)'입니다.",
+    "shortExampleEn": "That sounds too risky — count me out.",
+    "shortExampleKo": "그건 너무 위험해 보여 — 나는 빠질게."
+  }
+}

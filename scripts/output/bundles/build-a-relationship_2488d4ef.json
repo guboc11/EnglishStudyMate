@@ -1,0 +1,30 @@
+{
+  "id": "build-a-relationship_2488d4ef",
+  "expression": "build a relationship",
+  "selectionMeta": {
+    "selectedPhrase": "build a relationship",
+    "selectedSenseLabelKo": "관계를 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It takes time and genuine effort to build a relationship with someone you've just met."
+  },
+  "step2": {
+    "story": "Maya had just moved to a new city for work and didn't know anyone. She decided to join a weekend hiking group to build a relationship with people who shared her interests. After a few months of weekend trails and post-hike coffee, she had a circle of friends she could truly count on.",
+    "topicTag": "new beginnings",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Daniel was assigned to lead the overseas partnership project, he knew the hardest part wouldn't be the contracts or the numbers. It would be earning trust. He flew to Tokyo three times in two months, not just for meetings but for dinners, walks through Shinjuku, and long conversations about life beyond business. His colleagues back home questioned the travel budget, but Daniel understood something they didn't: you can't rush the process when you build a relationship across cultures. By the time the deal was signed, his Japanese counterpart called him a friend first and a partner second. That single word — friend — meant more to Daniel than any revenue forecast ever could.",
+    "topicTag": "cross-cultural business",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'관계를 짓다/세우다'라는 뜻으로, build(짓다)와 relationship(관계)가 결합된 표현입니다.",
+    "realUsageKo": "시간과 노력을 들여 누군가와 신뢰 있는 관계를 형성해 나간다는 의미로 쓰입니다. 친구, 동료, 연인, 비즈니스 파트너 등 다양한 관계에 폭넓게 사용됩니다.",
+    "etymologyKo": "build는 원래 '집을 짓다'에서 출발해 추상적 대상을 '구축하다'로 의미가 확장되었고, relationship과 함께 쓰여 '관계를 쌓다'라는 콜로케이션이 자연스럽게 정착했습니다.",
+    "nuanceKo": "단순히 '알게 되다'가 아니라 시간과 정성을 들여 점진적으로 깊어지는 관계를 강조하는 뉘앙스입니다. 진정성과 꾸준함이 느껴지는 긍정적 표현입니다.",
+    "shortExampleEn": "She worked hard to build a relationship with her new team members.",
+    "shortExampleKo": "그녀는 새 팀원들과 관계를 쌓기 위해 열심히 노력했다."
+  }
+}

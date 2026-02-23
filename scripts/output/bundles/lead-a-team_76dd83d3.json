@@ -1,0 +1,30 @@
+{
+  "id": "lead-a-team_76dd83d3",
+  "expression": "lead a team",
+  "selectionMeta": {
+    "selectedPhrase": "lead a team",
+    "selectedSenseLabelKo": "팀을 이끌다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After three years as a senior developer, Sarah was finally asked to lead a team on the company's biggest product launch."
+  },
+  "step2": {
+    "story": "When the director suddenly resigned, Marcus was chosen to lead a team of fifteen engineers through the critical product deadline. He spent his first week listening to every member's concerns before making any changes. By the end of the quarter, the team had shipped on time and morale was higher than ever.",
+    "topicTag": "unexpected promotion",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jina had always been a quiet contributor who preferred solving problems alone at her desk. So when her manager asked her to lead a team for the overseas expansion project, she felt a wave of doubt wash over her. The first meeting was awkward — she stumbled over the agenda and forgot to introduce the new intern. But she decided to be honest with her team about her inexperience and asked for their patience. Slowly, people started opening up, sharing ideas freely, and volunteering for tasks without being asked. Six months later, when the CEO praised the project's success at the all-hands meeting, Jina realized that learning to lead a team had taught her more about herself than any technical challenge ever had.",
+    "topicTag": "personal growth at work",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "팀을 앞에서 이끌다, 팀의 리더 역할을 하다.",
+    "realUsageKo": "프로젝트나 업무에서 팀의 방향을 설정하고 구성원들을 조율하며 책임지는 역할을 맡는다는 뜻으로 사용됩니다. 단순한 관리가 아니라 비전을 제시하고 동기를 부여하는 뉘앙스가 있습니다.",
+    "etymologyKo": "'lead'는 고대 영어 'lǣdan(이끌다, 안내하다)'에서 유래했으며, 물리적으로 앞에서 길을 보여주는 것에서 비유적으로 조직을 이끈다는 의미로 확장되었습니다.",
+    "nuanceKo": "'manage a team'이 업무 관리와 행정적 측면을 강조하는 반면, 'lead a team'은 비전 제시, 영감 부여, 방향 설정 등 리더십의 능동적이고 영향력 있는 측면을 강조합니다.",
+    "shortExampleEn": "She was promoted to lead a team of twenty software engineers.",
+    "shortExampleKo": "그녀는 스무 명의 소프트웨어 엔지니어로 구성된 팀을 이끌도록 승진했다."
+  }
+}

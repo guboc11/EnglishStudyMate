@@ -1,0 +1,30 @@
+{
+  "id": "read-up-on_37fabf7f",
+  "expression": "read up on",
+  "selectionMeta": {
+    "selectedPhrase": "read up on",
+    "selectedSenseLabelKo": "공부하다 / 알아보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before the job interview, I spent the whole weekend reading up on the company's recent projects and achievements."
+  },
+  "step2": {
+    "story": "Maya had always wanted to start her own vegetable garden, but she knew nothing about growing plants. She decided to read up on organic gardening techniques at the library. After weeks of studying, she planted her first tomato seedlings with quiet confidence.",
+    "topicTag": "self-improvement",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "When Daniel's doctor mentioned a rare condition during his check-up, he felt a wave of anxiety wash over him. That evening, instead of spiraling into worry, he sat down at his desk and began to read up on the condition using trusted medical journals. He learned that it was far more manageable than he had feared. Over the next few days, he compiled a list of questions for his next appointment. Armed with knowledge, he walked into the doctor's office feeling calm and prepared. The doctor was impressed by how thoroughly Daniel had educated himself.",
+    "topicTag": "health awareness",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'읽어서 위로 올라가다'라는 직역으로, 어떤 주제에 대해 읽기를 통해 지식 수준을 끌어올린다는 뜻입니다.",
+    "realUsageKo": "특정 주제에 대해 자료를 찾아 공부하거나 조사할 때 사용합니다. 단순히 읽는 것이 아니라 목적을 가지고 체계적으로 알아보는 느낌입니다.",
+    "etymologyKo": "'read'(읽다)에 'up'(완료·강화)과 'on'(~에 대해)이 결합된 구동사로, 특정 대상에 대해 충분히 읽어서 지식을 쌓는다는 의미가 자연스럽게 형성되었습니다.",
+    "nuanceKo": "일상 대화와 비즈니스 모두에서 자연스럽게 쓰이며, 'study'보다 가볍고 자발적인 느낌입니다. 시험 공부보다는 관심이나 필요에 의해 스스로 알아보는 뉘앙스가 강합니다.",
+    "shortExampleEn": "You should read up on the new tax laws before filing your return.",
+    "shortExampleKo": "세금 신고 전에 새로운 세법에 대해 미리 알아보는 게 좋겠어."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "go-grocery-shopping_a08168b3",
+  "expression": "go grocery shopping",
+  "selectionMeta": {
+    "selectedPhrase": "go grocery shopping",
+    "selectedSenseLabelKo": "장을 보다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to go grocery shopping before the store closes tonight."
+  },
+  "step2": {
+    "story": "Emily checked the fridge and realized they were almost out of everything. She decided to go grocery shopping right after work. With her list in hand, she grabbed her reusable bags and headed to the car.",
+    "topicTag": "daily routine",
+    "moodTag": "practical"
+  },
+  "step3": {
+    "story": "Saturday morning was always reserved for one thing in the Kim household — the weekly trip to the market. Jisoo woke up early, brewed a quick cup of coffee, and sat down to write her shopping list. She liked to go grocery shopping at the farmers' market near the river, where the vegetables were always fresh and the vendors knew her by name. Today she needed extra ingredients because her parents were visiting for dinner. She loaded the kids into the car and drove through the quiet morning streets. By the time they got home, the trunk was packed with bags, and the kids were already begging to taste the strawberries.",
+    "topicTag": "family life",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "식료품을 사러 가다, 즉 마트나 시장에 가서 먹을거리를 구매하는 행위를 뜻합니다.",
+    "realUsageKo": "일상에서 '장을 보다'와 같은 의미로 사용되며, 주로 식재료나 생활용품을 사러 마트나 슈퍼에 가는 상황에서 씁니다. 'go shopping'보다 구체적으로 식료품 구매를 가리킵니다.",
+    "etymologyKo": "'grocery'는 중세 프랑스어 'grosserie(도매상)'에서 유래했으며, 'go shopping'에 'grocery'를 붙여 식료품 쇼핑을 구체적으로 표현한 연어(collocation)입니다.",
+    "nuanceKo": "격식 없이 일상적으로 쓰이는 표현입니다. 미국 영어에서 특히 자주 사용되며, 영국에서는 'do the food shopping'이라고도 합니다.",
+    "shortExampleEn": "We usually go grocery shopping on Sunday mornings.",
+    "shortExampleKo": "우리는 보통 일요일 아침에 장을 봐요."
+  }
+}

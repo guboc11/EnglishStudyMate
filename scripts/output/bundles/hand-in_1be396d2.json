@@ -1,0 +1,30 @@
+{
+  "id": "hand-in_1be396d2",
+  "expression": "hand in",
+  "selectionMeta": {
+    "selectedPhrase": "hand in",
+    "selectedSenseLabelKo": "제출하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed up late to finish her report and hand it in before the deadline."
+  },
+  "step2": {
+    "story": "Marcus had been working on his assignment for three days straight. On the morning it was due, he printed the final pages and walked nervously to his professor's office to hand it in. The professor smiled and said he looked forward to reading it.",
+    "topicTag": "school deadline",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "For two weeks, Priya had been rewriting her thesis proposal, convinced it was never quite good enough. Her advisor had already extended the deadline once, and there would be no second extension. On the final morning, she read through the document one last time, made a small correction, and finally printed it. She walked across campus with the pages tucked under her arm, heart pounding. When she handed it in at the graduate office, the receptionist stamped it with the date and time. Walking back outside into the cool air, Priya felt a weight lift from her shoulders that she hadn't realized she'd been carrying.",
+    "topicTag": "academic pressure",
+    "moodTag": "accomplished"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 손으로 건네주다.",
+    "realUsageKo": "과제, 서류, 보고서 등을 제출하거나 공식적으로 넘겨줄 때 사용한다. 주로 학교나 직장처럼 마감 기한이 있는 상황에서 쓰인다.",
+    "etymologyKo": "'hand'(손)와 방향을 나타내는 부사 'in'이 결합된 표현으로, 무언가를 안쪽(담당자 쪽)으로 건네는 동작에서 유래했다.",
+    "nuanceKo": "'submit'보다 구어적이고 친근한 표현이며, 서류나 물건을 직접 전달하는 행위에 초점이 맞춰져 있다.",
+    "shortExampleEn": "Don't forget to hand in your homework by Friday.",
+    "shortExampleKo": "금요일까지 숙제를 제출하는 것을 잊지 마세요."
+  }
+}

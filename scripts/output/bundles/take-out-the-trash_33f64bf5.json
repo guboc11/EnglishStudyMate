@@ -1,0 +1,30 @@
+{
+  "id": "take-out-the-trash_33f64bf5",
+  "expression": "take out the trash",
+  "selectionMeta": {
+    "selectedPhrase": "take out the trash",
+    "selectedSenseLabelKo": "쓰레기를 버리다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Can you take out the trash before you leave for work this morning?"
+  },
+  "step2": {
+    "story": "Jake was rushing to get ready for his date when his mom called from the kitchen. \"Don't forget to take out the trash — it's been sitting there for two days!\" He groaned, grabbed the heavy bag, and sprinted to the curb just in time.",
+    "topicTag": "household chores",
+    "moodTag": "rushed"
+  },
+  "step3": {
+    "story": "Every Thursday night, Maria's apartment building had a strict rule: all garbage bags had to be at the curb by 7 a.m. Friday. She always set a reminder on her phone, but this week she completely forgot. When she woke up at 6:50, she panicked and jumped out of bed still in her pajamas. She grabbed two overflowing bags from the kitchen and rushed downstairs barefoot. She managed to take out the trash just as the garbage truck turned the corner. Her neighbor laughed and said, \"Close call — you almost missed it again!\"",
+    "topicTag": "apartment living",
+    "moodTag": "frantic"
+  },
+  "meaning": {
+    "literalMeaningKo": "쓰레기를 밖으로 가져가다, 즉 집 안의 쓰레기를 수거 장소까지 내다 버리는 행위를 뜻합니다.",
+    "realUsageKo": "일상에서 가장 흔히 쓰이는 집안일 표현 중 하나로, 쓰레기봉투를 집 밖 수거함이나 길가에 내놓는 행동 전체를 가리킵니다. 가족 간에 '쓰레기 좀 버려 줘'라고 부탁할 때 자연스럽게 씁니다.",
+    "etymologyKo": "take out은 '밖으로 꺼내다'라는 의미의 구동사이고, trash는 미국 영어에서 쓰레기를 뜻합니다. 영국 영어에서는 rubbish나 bins를 사용하여 'take out the bins'라고도 합니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 주로 가정 내에서 사용됩니다. 명령문이나 부탁의 형태로 쓰이는 경우가 많고, 약간 귀찮은 집안일이라는 뉘앙스가 있습니다.",
+    "shortExampleEn": "I always take out the trash on Sunday evenings.",
+    "shortExampleKo": "나는 항상 일요일 저녁에 쓰레기를 버린다."
+  }
+}

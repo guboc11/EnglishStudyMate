@@ -1,0 +1,30 @@
+{
+  "id": "fish-out-of-water_c64ee316",
+  "expression": "fish out of water",
+  "selectionMeta": {
+    "selectedPhrase": "fish out of water",
+    "selectedSenseLabelKo": "어색한 상황에 처한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Starting a new job in a foreign country made her feel like a fish out of water for the first few weeks."
+  },
+  "step2": {
+    "story": "Jake had always lived in a small rural town, so when he moved to Tokyo for work, he felt like a complete fish out of water. He couldn't read the signs, didn't understand the train system, and kept bowing at the wrong times. Slowly, though, the city started to feel a little more like home.",
+    "topicTag": "cultural adjustment",
+    "moodTag": "overwhelmed but hopeful"
+  },
+  "step3": {
+    "story": "When Maria transferred from the marketing department to the engineering team, she immediately felt like a fish out of water. Everyone around her spoke in code—literally and figuratively—tossing around terms like API endpoints and deployment pipelines as casually as she discussed brand strategy. During her first standup meeting, she nodded along, pretending to understand, while secretly googling half the words on her phone under the table. Her new manager noticed her discomfort and paired her with a patient mentor named Sam. Over the next month, Maria picked up enough technical vocabulary to hold her own. By the end of the quarter, she realized that being a fish out of water had actually given her a unique perspective that the team desperately needed.",
+    "topicTag": "career change",
+    "moodTag": "vulnerable yet resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "물 밖에 나온 물고기, 즉 본래 있어야 할 환경에서 벗어난 상태를 의미합니다.",
+    "realUsageKo": "자신에게 익숙하지 않은 환경이나 상황에 놓여 어색하고 불편함을 느낄 때 사용합니다. 새로운 직장, 낯선 나라, 전혀 다른 사회적 모임 등에서 적응하지 못하는 느낌을 표현할 때 흔히 쓰입니다.",
+    "etymologyKo": "물고기가 물 밖으로 나오면 숨을 쉴 수 없고 전혀 기능할 수 없다는 관찰에서 유래했습니다. 14세기 영국 작가 제프리 초서의 작품에서도 유사한 표현이 등장할 만큼 오래된 관용구입니다.",
+    "nuanceKo": "부정적이지만 공격적이지 않은 표현으로, 자기 자신이나 타인의 어색한 상황을 가볍게 묘사할 때 씁니다. 유머러스하거나 동정적인 뉘앙스로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "As the only teenager at the business conference, I was a total fish out of water.",
+    "shortExampleKo": "비즈니스 컨퍼런스에서 유일한 십 대였던 나는 완전히 물 밖에 나온 물고기 같았다."
+  }
+}

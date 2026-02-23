@@ -1,0 +1,30 @@
+{
+  "id": "catch-a-bus_210bc670",
+  "expression": "catch a bus",
+  "selectionMeta": {
+    "selectedPhrase": "catch a bus",
+    "selectedSenseLabelKo": "버스를 타다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I need to catch a bus at 7:30 or I'll be late for work."
+  },
+  "step2": {
+    "story": "Mina rushed out the door with her coffee in hand. She had exactly five minutes to catch a bus before the next one came in half an hour. She sprinted to the stop just as the doors were closing, and the driver smiled and let her on.",
+    "topicTag": "morning commute",
+    "moodTag": "rushed"
+  },
+  "step3": {
+    "story": "Jake had just moved to a new city and was still figuring out the public transit system. Every morning, he had to catch a bus on Oak Street to get to his office downtown. One rainy Tuesday, he misread the schedule and arrived at the stop ten minutes late. He stood there soaking wet, watching the bus disappear around the corner. A woman waiting at the stop told him another bus would come in fifteen minutes and offered to share her umbrella. From that day on, Jake always set an alarm to make sure he could catch a bus with time to spare.",
+    "topicTag": "adjusting to city life",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'버스를 잡다'라는 뜻으로, 버스가 출발하기 전에 타는 것을 의미합니다.",
+    "realUsageKo": "일상에서 버스를 타러 가거나 시간에 맞춰 버스에 탑승하는 상황에서 사용합니다. 'take a bus'와 비슷하지만 catch는 시간에 맞춰 타야 한다는 느낌이 더 강합니다.",
+    "etymologyKo": "catch는 원래 '잡다, 붙잡다'라는 뜻에서 출발하여, 움직이는 교통수단에 제때 올라타는 행위로 의미가 확장되었습니다.",
+    "nuanceKo": "catch a bus는 단순히 버스를 타는 것이 아니라, 놓치지 않으려고 시간에 맞춰 타는 뉘앙스가 있습니다. 여유롭게 탈 때보다는 서두르거나 시간을 의식하는 상황에서 자주 씁니다.",
+    "shortExampleEn": "We need to hurry if we want to catch a bus before noon.",
+    "shortExampleKo": "점심 전에 버스를 타려면 서둘러야 해."
+  }
+}

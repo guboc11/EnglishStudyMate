@@ -1,0 +1,30 @@
+{
+  "id": "switch-off_c2fc27d4",
+  "expression": "switch off",
+  "selectionMeta": {
+    "selectedPhrase": "switch off",
+    "selectedSenseLabelKo": "끄다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't forget to switch off the lights before you leave the office."
+  },
+  "step2": {
+    "story": "Emma realized she had been staring at her laptop for six hours straight. Her eyes were burning and her head was pounding. She decided to switch off her computer and take a long walk outside to clear her mind.",
+    "topicTag": "digital fatigue",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "The old lighthouse keeper had followed the same routine for thirty years. Every morning at sunrise, he would climb the spiral staircase and switch off the massive beacon that had guided ships through the night. He would clean the glass panels, check the wiring, and prepare everything for the evening. But today was different — today was his last day before retirement. As he reached for the switch one final time, his hand trembled slightly. He switched off the light, whispered a quiet goodbye, and slowly descended the stairs with tears in his eyes.",
+    "topicTag": "retirement",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "스위치를 꺼서 작동을 멈추게 하다라는 뜻입니다.",
+    "realUsageKo": "전등, 전자기기, 엔진 등의 전원을 끌 때 사용합니다. 비유적으로 '집중을 끊다', '관심을 끄다'라는 의미로도 쓰입니다.",
+    "etymologyKo": "switch(스위치, 전환 장치)와 off(끔, 분리)가 결합된 구동사로, 물리적 스위치를 내려 전원을 차단하는 동작에서 유래했습니다.",
+    "nuanceKo": "turn off와 거의 같은 의미이지만, switch off는 영국 영어에서 더 자주 쓰이며 물리적 스위치가 있는 기기에 특히 자연스럽습니다.",
+    "shortExampleEn": "Please switch off your phones during the meeting.",
+    "shortExampleKo": "회의 중에는 휴대폰을 꺼 주세요."
+  }
+}

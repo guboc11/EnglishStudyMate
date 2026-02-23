@@ -1,0 +1,30 @@
+{
+  "id": "fix-a-bug_a3034c5f",
+  "expression": "fix a bug",
+  "selectionMeta": {
+    "selectedPhrase": "fix a bug",
+    "selectedSenseLabelKo": "버그를 고치다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "I stayed late at the office to fix a bug that was causing the app to crash every time users tried to log in."
+  },
+  "step2": {
+    "story": "The QA team reported a critical issue right before the product launch. Sarah spent the entire afternoon digging through the code to fix a bug in the payment module. By evening, she finally tracked it down to a missing null check and pushed the patch.",
+    "topicTag": "software development",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "It was supposed to be a quiet Friday, but then the monitoring dashboard lit up red. Users were complaining that their saved data was disappearing after every update. The lead developer, James, pulled up the logs and realized something had gone wrong in the latest deployment. He gathered the team for an emergency call and they worked together to fix a bug buried deep in the database sync logic. After three intense hours of debugging and testing, they finally deployed the hotfix. The team let out a collective sigh of relief as the error rate dropped back to zero.",
+    "topicTag": "team collaboration",
+    "moodTag": "tense then relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "소프트웨어의 결함(bug)을 수정(fix)한다는 뜻입니다.",
+    "realUsageKo": "프로그램이나 앱에서 오류나 결함을 찾아 고치는 작업을 말합니다. 개발자들이 일상적으로 매우 자주 사용하는 표현입니다.",
+    "etymologyKo": "'Bug'는 1940년대 하버드 대학의 Mark II 컴퓨터에서 실제 나방이 회로에 끼어 오작동을 일으킨 사건에서 유래했다고 알려져 있으며, 이후 소프트웨어 결함을 뜻하는 용어로 정착했습니다.",
+    "nuanceKo": "일상적이고 캐주얼한 개발 용어로, 공식 문서에서는 'resolve an issue'나 'patch a defect'로 표현하기도 하지만 실무에서는 'fix a bug'가 가장 자연스럽습니다.",
+    "shortExampleEn": "We need to fix a bug before we can release the new version.",
+    "shortExampleKo": "새 버전을 출시하려면 먼저 버그를 고쳐야 합니다."
+  }
+}

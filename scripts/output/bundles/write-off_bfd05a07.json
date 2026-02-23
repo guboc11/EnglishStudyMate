@@ -1,0 +1,30 @@
+{
+  "id": "write-off_bfd05a07",
+  "expression": "write off",
+  "selectionMeta": {
+    "selectedPhrase": "write off",
+    "selectedSenseLabelKo": "포기하다 / 손실로 처리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three failed attempts, the investors decided to write off the startup as a lost cause."
+  },
+  "step2": {
+    "story": "Marcus poured his savings into a restaurant that never attracted enough customers. After two years of mounting debt, his accountant advised him to write off the business entirely. It was painful, but accepting the loss gave him the clarity to start fresh.",
+    "topicTag": "business failure",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "When Elena's tech company missed its revenue targets for the fourth quarter in a row, the board called an emergency meeting. Several members wanted to write off the entire overseas division, arguing the losses were too severe to recover from. Elena pushed back, presenting a restructuring plan that could turn things around within eighteen months. But the numbers told a harsh story — the division had already burned through twice its projected budget. In the end, the board voted to write off the overseas operations and redirect the remaining funds to their core domestic product. Elena understood the decision, even though it meant letting go of a vision she had championed for years.",
+    "topicTag": "corporate strategy",
+    "moodTag": "resigned"
+  },
+  "meaning": {
+    "literalMeaningKo": "'write off'는 글자 그대로 '써서 지우다', 즉 장부에서 삭제한다는 뜻입니다.",
+    "realUsageKo": "실제로는 두 가지 의미로 자주 쓰입니다. 첫째, 회계에서 손실로 처리하다(대손 상각하다). 둘째, 일상에서 누군가나 무언가를 가망 없다고 포기하거나 무시하다는 의미로 사용됩니다.",
+    "etymologyKo": "회계 용어에서 유래했습니다. 장부(book)에 기록된 자산의 가치를 0으로 줄여 기록(write)하는 행위에서 비롯되어, 이후 '포기하다'라는 일반적 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '그만두다'보다 더 최종적이고 단호한 느낌을 줍니다. 회복 가능성이 없다고 판단했을 때 사용하며, 사람에게 쓰면 다소 냉정하게 들릴 수 있습니다.",
+    "shortExampleEn": "Don't write him off just yet — he might surprise you.",
+    "shortExampleKo": "아직 그를 포기하지 마세요 — 놀라게 해줄지도 모릅니다."
+  }
+}

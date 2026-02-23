@@ -1,0 +1,30 @@
+{
+  "id": "screw-up_4cfdafc7",
+  "expression": "screw up",
+  "selectionMeta": {
+    "selectedPhrase": "screw up",
+    "selectedSenseLabelKo": "망치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I really screwed up the presentation by forgetting to include the sales figures."
+  },
+  "step2": {
+    "story": "Jake stayed up all night preparing for the client meeting, but he accidentally sent the wrong file and screwed up the entire proposal. His manager gave him a stern look, and Jake spent the rest of the day fixing everything. He promised himself he would double-check every attachment from now on.",
+    "topicTag": "work mistake",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Mia had been planning her best friend's surprise birthday party for weeks. She booked the restaurant, ordered the cake, and invited everyone. But on the day of the party, she accidentally texted the details to her friend instead of the group chat, completely screwing up the surprise. Her friend replied with a laughing emoji, saying she had known something was going on. Mia felt terrible at first, but her friend hugged her and said the effort meant more than the surprise itself. In the end, they all had an amazing night, and Mia learned that even when you screw up, the people who care about you will understand.",
+    "topicTag": "friendship",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "나사를 위로 돌리다라는 뜻에서 유래한 표현입니다.",
+    "realUsageKo": "실수하거나 일을 망치다라는 뜻으로 일상에서 매우 자주 쓰입니다. 시험을 망쳤을 때, 약속을 어겼을 때, 프로젝트를 엉망으로 만들었을 때 등 다양한 상황에서 사용합니다.",
+    "etymologyKo": "원래 기계의 나사(screw)를 잘못 조이는 것에서 유래했으며, 20세기 초 미국 영어에서 '일을 엉망으로 만들다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "비격식적이고 캐주얼한 표현으로, 친구나 동료 사이에서 자주 쓰입니다. 공식적인 자리에서는 'make a mistake'가 더 적절합니다.",
+    "shortExampleEn": "Don't screw up this chance — it might not come again.",
+    "shortExampleKo": "이번 기회를 망치지 마 — 다시 안 올 수도 있어."
+  }
+}

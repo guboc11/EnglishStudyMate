@@ -1,0 +1,30 @@
+{
+  "id": "fall-over_cd90f74e",
+  "expression": "fall over",
+  "selectionMeta": {
+    "selectedPhrase": "fall over",
+    "selectedSenseLabelKo": "넘어지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Be careful on the icy sidewalk — you might fall over if you walk too fast."
+  },
+  "step2": {
+    "story": "Emma was running late for her bus and sprinted down the wet street. Her foot slipped on a puddle, and she fell over right in front of the bus stop. A kind stranger helped her up, and she laughed it off even though her knee was throbbing.",
+    "topicTag": "daily mishaps",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "It was Jake's first time ice skating, and he was already regretting the decision. He clung to the railing, watching children glide effortlessly across the rink. The moment he let go, his legs wobbled and he fell over onto the cold ice. A little girl skated up to him and offered her hand with a big smile. Embarrassed but grateful, he took it and slowly got back on his feet. By the end of the afternoon, he could make it halfway around the rink without falling over once.",
+    "topicTag": "trying something new",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "'fall'(떨어지다)과 'over'(넘어서)가 합쳐져 몸이 균형을 잃고 옆이나 앞으로 넘어진다는 뜻입니다.",
+    "realUsageKo": "사람이 걷거나 서 있다가 균형을 잃고 바닥에 쓰러지거나 넘어질 때 사용합니다. 물건이 쓰러질 때도 쓸 수 있습니다 (예: The vase fell over).",
+    "etymologyKo": "고대 영어 'feallan'(떨어지다)에서 유래했으며, 'over'는 방향성을 더해 '넘어지다'라는 구체적인 동작을 나타냅니다.",
+    "nuanceKo": "일상적이고 자연스러운 표현으로, 격식 없는 대화에서 자주 쓰입니다. 'trip'이나 'stumble'보다 결과(실제로 넘어진 상태)에 초점을 맞춥니다.",
+    "shortExampleEn": "The toddler fell over while chasing the dog around the garden.",
+    "shortExampleKo": "아이가 정원에서 강아지를 쫓다가 넘어졌다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "get-your-feet-wet_b3f9250c",
+  "expression": "get your feet wet",
+  "selectionMeta": {
+    "selectedPhrase": "get your feet wet",
+    "selectedSenseLabelKo": "처음 경험해 보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I decided to get my feet wet by volunteering at a local startup before launching my own business."
+  },
+  "step2": {
+    "story": "Maya had always dreamed of teaching, but she had zero classroom experience. She signed up to tutor neighborhood kids on weekends just to get her feet wet. After a few sessions, she knew this was exactly the career she wanted to pursue.",
+    "topicTag": "career exploration",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jordan stared at the job posting for a junior software developer position. He had spent months learning to code through online courses, but he had never worked on a real project with a team. His mentor suggested he contribute to an open-source project first to get his feet wet. Nervous but determined, Jordan picked a beginner-friendly issue and submitted his first pull request. The maintainer left encouraging feedback, and within a week, his code was merged. That small victory gave him the confidence to finally hit 'Apply' on the job listing.",
+    "topicTag": "first steps in tech",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '발을 물에 적시다'라는 뜻입니다.",
+    "realUsageKo": "어떤 새로운 활동이나 분야를 본격적으로 시작하기 전에 처음으로 경험해 본다는 의미로 사용됩니다. 큰 도전 앞에서 가볍게 시도해 보는 뉘앙스입니다.",
+    "etymologyKo": "수영장이나 바다에 들어가기 전에 먼저 발끝만 물에 담가 온도를 확인하는 행동에서 유래한 표현입니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 자주 쓰이며, 조심스럽지만 긍정적으로 첫 경험을 시작한다는 느낌을 줍니다. 실패 부담 없이 가볍게 시도해 보라는 격려의 뉘앙스가 있습니다.",
+    "shortExampleEn": "Why don't you get your feet wet with a part-time internship first?",
+    "shortExampleKo": "먼저 파트타임 인턴십으로 경험을 쌓아 보는 게 어때?"
+  }
+}

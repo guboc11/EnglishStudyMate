@@ -1,0 +1,30 @@
+{
+  "id": "knock-out_45691f05",
+  "expression": "knock out",
+  "selectionMeta": {
+    "selectedPhrase": "knock out",
+    "selectedSenseLabelKo": "기절시키다 / 제거하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The boxer managed to knock out his opponent in the third round with a powerful right hook."
+  },
+  "step2": {
+    "story": "Marcus had been training for months, preparing for the biggest fight of his career. In the final round, he found the perfect opening and knocked out his rival with a single clean punch. The crowd erupted as the referee counted to ten.",
+    "topicTag": "competition",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Elena's team had been working around the clock to finish the project proposal before the deadline. By Friday afternoon, they still had three major sections left to complete. 'Let's knock out these remaining tasks before we go home,' she told her exhausted colleagues. They ordered pizza, put on some music, and powered through the work together. By 8 PM, every section was polished and ready to submit. Elena smiled as she hit send — they had knocked out the impossible deadline with time to spare.",
+    "topicTag": "teamwork",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'때려서(knock) 밖으로 보내다(out)'라는 뜻으로, 강한 충격으로 의식을 잃게 만드는 것을 의미합니다.",
+    "realUsageKo": "실제로는 두 가지 주요 의미로 사용됩니다. 첫째, 권투 등에서 상대를 기절시키다(KO시키다). 둘째, 비유적으로 일이나 과제를 빠르게 해치우다, 제거하다라는 뜻으로 일상에서 자주 쓰입니다.",
+    "etymologyKo": "권투에서 상대를 때려 쓰러뜨리는 'knockout(KO)'에서 유래했으며, 19세기부터 사용되기 시작했습니다. 이후 '빠르게 처리하다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "물리적으로 기절시키다는 의미일 때는 강하고 폭력적인 뉘앙스이지만, '일을 해치우다'라는 의미일 때는 효율적이고 에너지 넘치는 긍정적 뉘앙스를 가집니다.",
+    "shortExampleEn": "Let's knock out the remaining homework before dinner.",
+    "shortExampleKo": "저녁 먹기 전에 남은 숙제를 끝내버리자."
+  }
+}

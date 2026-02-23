@@ -1,0 +1,30 @@
+{
+  "id": "spice-up_f8d4dcdc",
+  "expression": "spice up",
+  "selectionMeta": {
+    "selectedPhrase": "spice up",
+    "selectedSenseLabelKo": "활기를 불어넣다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We decided to spice up our weekly meetings by starting each one with a fun icebreaker game."
+  },
+  "step2": {
+    "story": "After months of the same routine, Jake felt bored at work. He suggested they spice up the office by hosting themed Fridays where everyone dressed according to a different era. The idea caught on instantly, and suddenly everyone looked forward to the end of the week.",
+    "topicTag": "workplace culture",
+    "moodTag": "cheerful"
+  },
+  "step3": {
+    "story": "Mia had been running her small bakery for five years, but lately foot traffic had slowed to a trickle. She knew she needed to spice up the business before it was too late. One evening, she stayed up late experimenting with bold new flavor combinations—lavender honey croissants, chili chocolate brownies, and matcha sesame scones. The next morning, she offered free samples to every passerby. Word spread quickly on social media, and within a week the shop had a line out the door. Sometimes all it takes is a little creativity to breathe new life into something familiar.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '양념을 더하다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 지루하거나 평범한 것에 재미, 흥미, 활기를 더할 때 사용합니다. 음식뿐 아니라 생활, 관계, 업무 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "요리에서 향신료(spice)를 넣어 맛을 풍부하게 하는 행위에서 유래했습니다. 16세기부터 비유적 의미로 확장되어 사용되기 시작했습니다.",
+    "nuanceKo": "긍정적이고 가벼운 뉘앙스로, 무언가를 더 흥미롭고 매력적으로 만든다는 느낌입니다. 격식 없는 일상 대화에서 자주 쓰입니다.",
+    "shortExampleEn": "Let's spice up this presentation with some visuals.",
+    "shortExampleKo": "이 프레젠테이션에 시각 자료를 넣어서 좀 더 생동감 있게 만들자."
+  }
+}

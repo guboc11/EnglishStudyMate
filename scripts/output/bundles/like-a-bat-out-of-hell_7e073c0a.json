@@ -1,0 +1,30 @@
+{
+  "id": "like-a-bat-out-of-hell_7e073c0a",
+  "expression": "like a bat out of hell",
+  "selectionMeta": {
+    "selectedPhrase": "like a bat out of hell",
+    "selectedSenseLabelKo": "매우 빠르게",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the fire alarm went off, everyone ran out of the building like a bat out of hell."
+  },
+  "step2": {
+    "story": "The moment the last bell rang, Jake grabbed his backpack and sprinted like a bat out of hell toward the parking lot. He had exactly fifteen minutes to get across town for his job interview. Weaving through traffic with laser focus, he made it with two minutes to spare.",
+    "topicTag": "job interview",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Sarah had been stuck in a boring corporate meeting for three hours when her phone buzzed with an emergency text from her sister. She mumbled an excuse, gathered her things, and flew out of the conference room like a bat out of hell. Her coworkers stared in stunned silence as the door slammed behind her. She tore through the hallway, jabbed the elevator button, and decided the stairs would be faster. By the time she reached the hospital, she was out of breath but relieved to find her sister smiling and holding a newborn baby. All that panic had been worth it for the moment she met her nephew for the first time.",
+    "topicTag": "family emergency",
+    "moodTag": "frantic"
+  },
+  "meaning": {
+    "literalMeaningKo": "지옥에서 빠져나온 박쥐처럼, 즉 극도로 빠르게 움직이는 모습을 비유합니다.",
+    "realUsageKo": "누군가가 매우 급하게 또는 엄청난 속도로 어딘가를 떠나거나 달려갈 때 사용합니다. 주로 급박한 상황이나 서두르는 모습을 강조할 때 씁니다.",
+    "etymologyKo": "박쥐가 어두운 동굴이나 지옥 같은 곳에서 빛을 향해 미친 듯이 날아가는 이미지에서 유래했습니다. 1920년대부터 영어권에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "비격식적이고 약간 과장된 표현으로, 친구 사이 대화나 일상적인 이야기에서 자주 쓰입니다. 격식 있는 자리에서는 피하는 것이 좋습니다.",
+    "shortExampleEn": "He drove like a bat out of hell to catch the last ferry.",
+    "shortExampleKo": "그는 마지막 페리를 타려고 미친 듯이 빠르게 운전했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "embrace-change_2d3113c9",
+  "expression": "embrace change",
+  "selectionMeta": {
+    "selectedPhrase": "embrace change",
+    "selectedSenseLabelKo": "변화를 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of resisting new technology, she finally decided to embrace change and enrolled in a coding bootcamp."
+  },
+  "step2": {
+    "story": "When the company announced a complete restructuring, most employees panicked. But Mina saw it as a chance to grow—she chose to embrace change and volunteered for the new innovation team. Within months, she was leading projects she never imagined possible.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For ten years, Daniel ran his small bookstore the same way his father had. The shelves were arranged identically, the hours never shifted, and online orders were something he refused to consider. But when a new café opened next door and started hosting book clubs, his sales dropped sharply. His daughter sat him down one evening and said, 'Dad, you have to embrace change or this place won't survive.' Reluctantly, he launched a website and began hosting reading events of his own. To his surprise, the store felt more alive than ever, and he realized that embracing change didn't mean losing what he loved—it meant giving it room to grow.",
+    "topicTag": "tradition vs. innovation",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "변화를 포옹하다, 즉 변화를 두 팔 벌려 기꺼이 받아들이다라는 뜻입니다.",
+    "realUsageKo": "새로운 상황이나 환경 변화에 저항하지 않고 적극적으로 수용하고 적응하겠다는 태도를 나타낼 때 사용합니다. 직장, 인간관계, 삶의 전환점 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "embrace는 라틴어 'in(안에)' + 'bracchium(팔)'에서 유래하여 '팔로 감싸다'라는 의미이며, 여기서 비유적으로 '기꺼이 받아들이다'라는 뜻이 파생되었습니다.",
+    "nuanceKo": "단순히 변화를 참거나 견디는 것이 아니라, 능동적이고 긍정적인 자세로 변화를 환영한다는 뉘앙스가 있습니다. 자기계발이나 리더십 관련 맥락에서 특히 자주 사용됩니다.",
+    "shortExampleEn": "Successful leaders know how to embrace change rather than fear it.",
+    "shortExampleKo": "성공적인 리더는 변화를 두려워하기보다 받아들이는 법을 압니다."
+  }
+}

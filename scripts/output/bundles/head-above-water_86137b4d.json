@@ -1,0 +1,30 @@
+{
+  "id": "head-above-water_86137b4d",
+  "expression": "head above water",
+  "selectionMeta": {
+    "selectedPhrase": "head above water",
+    "selectedSenseLabelKo": "겨우 버티다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With two part-time jobs and night classes, she's barely keeping her head above water this semester."
+  },
+  "step2": {
+    "story": "After losing his biggest client, Marco struggled to keep his head above water. He took on freelance gigs at night just to cover rent. Slowly, the small projects added up and he started breathing again.",
+    "topicTag": "financial struggle",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Jenna hadn't taken a day off in three months. Between her full-time nursing shifts and her mother's medical bills, she was barely keeping her head above water. Every paycheck disappeared the moment it arrived. Her coworker noticed the dark circles under her eyes and quietly signed her up for the hospital's employee assistance program. When Jenna found out, she wanted to refuse — but deep down she knew she couldn't keep going alone. That small act of kindness reminded her that staying afloat didn't mean she had to do it all by herself.",
+    "topicTag": "burnout and support",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리를 물 위로 유지하다 — 물에 빠지지 않으려고 간신히 떠 있는 모습을 뜻합니다.",
+    "realUsageKo": "경제적으로나 업무적으로 힘든 상황에서 겨우 버티고 있다는 뜻으로 사용됩니다. 주로 'keep one's head above water' 형태로 쓰이며, 빚이나 과중한 업무 속에서 가까스로 견디는 상태를 표현합니다.",
+    "etymologyKo": "수영을 못하는 사람이 물에서 익사하지 않으려고 머리만 겨우 물 위로 내밀고 있는 이미지에서 유래했습니다. 17세기부터 재정적 어려움을 비유하는 표현으로 사용되기 시작했습니다.",
+    "nuanceKo": "단순히 힘들다는 것보다 '간신히 버티고 있다'는 위태로운 상태를 강조합니다. 부정적이지만 아직 완전히 무너지지는 않았다는 뉘앙스가 있어, 포기하지 않는 끈기도 내포합니다.",
+    "shortExampleEn": "I'm just trying to keep my head above water until the end of the month.",
+    "shortExampleKo": "이번 달 말까지 겨우 버티려고 하고 있어."
+  }
+}

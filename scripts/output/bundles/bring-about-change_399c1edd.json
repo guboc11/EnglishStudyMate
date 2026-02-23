@@ -1,0 +1,30 @@
+{
+  "id": "bring-about-change_399c1edd",
+  "expression": "bring about change",
+  "selectionMeta": {
+    "selectedPhrase": "bring about change",
+    "selectedSenseLabelKo": "변화를 가져오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new policy is expected to bring about change in how employees work remotely."
+  },
+  "step2": {
+    "story": "After years of outdated practices, the young manager finally proposed a bold new strategy. Her presentation convinced the board, and together they began to bring about change across the entire organization. Within months, employee satisfaction had doubled.",
+    "topicTag": "workplace reform",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mira had worked at the nonprofit for five years, watching the same inefficient systems frustrate her colleagues day after day. One evening, she stayed late and drafted a detailed proposal outlining exactly what needed to improve. The next morning, she nervously presented it to the director, who listened carefully and nodded. To her surprise, the director shared the proposal with the entire staff that afternoon. Within weeks, new workflows were adopted and morale began to rise. Mira realized that one person truly could bring about change when they had the courage to speak up.",
+    "topicTag": "leadership initiative",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'변화를 가져오다'라는 뜻으로, 어떤 행동이나 노력을 통해 상황이나 상태를 바꾸는 것을 의미합니다.",
+    "realUsageKo": "개인이나 조직이 의도적인 노력을 기울여 기존의 방식이나 상황을 변화시킬 때 사용합니다. 주로 긍정적인 변화를 이끌어내는 맥락에서 쓰입니다.",
+    "etymologyKo": "'bring about'은 '~을 야기하다, 일으키다'라는 뜻의 구동사로, 여기에 'change'가 결합되어 '변화를 일으키다'라는 연어 표현이 되었습니다.",
+    "nuanceKo": "단순히 변화가 일어나는 것이 아니라, 누군가의 의지와 행동에 의해 변화가 만들어진다는 능동적 뉘앙스가 강합니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Technology has the power to bring about change in education.",
+    "shortExampleKo": "기술은 교육에 변화를 가져올 힘을 가지고 있습니다."
+  }
+}

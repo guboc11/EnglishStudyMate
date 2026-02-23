@@ -1,0 +1,30 @@
+{
+  "id": "hard-nut-to-crack_69dcfce8",
+  "expression": "hard nut to crack",
+  "selectionMeta": {
+    "selectedPhrase": "hard nut to crack",
+    "selectedSenseLabelKo": "해결하기 어려운 문제",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new client turned out to be a hard nut to crack, rejecting every proposal we presented."
+  },
+  "step2": {
+    "story": "Our team spent weeks preparing the perfect pitch for the investor. Everyone said he was a hard nut to crack, but we believed our data would speak for itself. After three rounds of tough questions, he finally nodded and signed the deal.",
+    "topicTag": "business negotiation",
+    "moodTag": "persistent"
+  },
+  "step3": {
+    "story": "Sarah had been assigned the toughest account in the company — a multinational corporation that had turned down every vendor for the past two years. Her colleagues warned her that the CEO was a hard nut to crack and that she shouldn't get her hopes up. But Sarah did her homework, studying every detail of their supply chain and pain points. She flew to their headquarters and presented a solution so tailored that even the skeptical board members leaned forward in their chairs. After a grueling four-hour meeting, the CEO cracked a rare smile and extended his hand. Sometimes the hardest nuts to crack yield the most rewarding results.",
+    "topicTag": "career challenge",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '깨기 어려운 단단한 호두'라는 뜻입니다.",
+    "realUsageKo": "이해하거나 설득하기 어려운 사람, 또는 풀기 어려운 문제를 가리킬 때 사용합니다. 주로 쉽게 마음을 열지 않는 사람이나 해결책을 찾기 힘든 상황을 묘사합니다.",
+    "etymologyKo": "17세기 영국에서 유래한 표현으로, 껍데기가 단단한 호두를 깨는 것이 어렵다는 비유에서 시작되었습니다.",
+    "nuanceKo": "부정적이기보다는 도전적인 뉘앙스가 강합니다. 상대방을 비난하기보다 '쉽지 않은 상대/과제'라는 인정의 느낌이 담겨 있습니다.",
+    "shortExampleEn": "This math problem is a real hard nut to crack.",
+    "shortExampleKo": "이 수학 문제는 정말 풀기 어려운 난제야."
+  }
+}

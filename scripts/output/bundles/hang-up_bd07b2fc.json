@@ -1,0 +1,30 @@
+{
+  "id": "hang-up_bd07b2fc",
+  "expression": "hang up",
+  "selectionMeta": {
+    "selectedPhrase": "hang up",
+    "selectedSenseLabelKo": "전화를 끊다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was so upset that she hung up before he could finish his sentence."
+  },
+  "step2": {
+    "story": "After the argument, Maria hung up the phone without saying goodbye. She sat in silence, heart pounding, wondering if she had gone too far.",
+    "topicTag": "relationship conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Daniel had been on hold with customer service for nearly forty minutes when the line finally connected. He explained his billing issue carefully, but the representative kept interrupting him with scripted responses. Frustrated and exhausted, he hung up and decided to visit the store in person instead. As he grabbed his keys, he took a deep breath, reminding himself that losing his temper wouldn't solve anything. Sometimes walking away — even from a phone call — was the most sensible choice.",
+    "topicTag": "customer service frustration",
+    "moodTag": "frustrated but calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "수화기를 내려놓다, 즉 전화를 끊다.",
+    "realUsageKo": "전화 통화를 종료할 때 사용하며, 상대방이 말하는 도중 갑자기 끊는 뉘앙스로도 자주 쓰인다.",
+    "etymologyKo": "과거 유선전화 시절 수화기를 걸이(hook)에 걸어 놓는 동작에서 유래했다.",
+    "nuanceKo": "단순히 통화를 마치는 것 외에도 화가 나거나 대화를 피하려고 일방적으로 전화를 끊는 상황에서 자주 사용된다.",
+    "shortExampleEn": "He hung up as soon as he heard the bad news.",
+    "shortExampleKo": "그는 나쁜 소식을 듣자마자 전화를 끊었다."
+  }
+}

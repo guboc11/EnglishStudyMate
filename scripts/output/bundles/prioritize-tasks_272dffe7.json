@@ -1,0 +1,30 @@
+{
+  "id": "prioritize-tasks_272dffe7",
+  "expression": "prioritize tasks",
+  "selectionMeta": {
+    "selectedPhrase": "prioritize tasks",
+    "selectedSenseLabelKo": "업무 우선순위를 정하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before diving into your workday, take a moment to prioritize tasks so you can focus on what truly matters first."
+  },
+  "step2": {
+    "story": "Jenna stared at her overflowing inbox and a to-do list that seemed to grow by the minute. She took a deep breath, closed all her browser tabs, and began to prioritize tasks by marking the three most urgent deadlines. By lunchtime, she had already knocked out the critical items and finally felt in control of her day.",
+    "topicTag": "work productivity",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Marcus had just been promoted to team lead, and his first Monday morning was overwhelming. His manager handed him a project timeline, two clients emailed with urgent requests, and three teammates pinged him for approvals. He realized that if he tried to do everything at once, nothing would get done well. So he grabbed a whiteboard marker and began to prioritize tasks, sorting them into 'must finish today,' 'this week,' and 'can wait.' He delegated the approvals, responded to the most critical client first, and blocked two hours for the project timeline. By the end of the day, his team noticed the calm energy he brought, and Marcus learned that leadership starts with knowing what matters most.",
+    "topicTag": "leadership transition",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "할 일들의 우선순위를 정하다, 즉 어떤 업무를 먼저 처리할지 순서를 매기는 것입니다.",
+    "realUsageKo": "직장에서 여러 업무가 동시에 쏟아질 때, 중요도와 긴급성을 기준으로 처리 순서를 결정하는 상황에서 자주 씁니다. 단순히 목록을 나열하는 것이 아니라 전략적으로 판단한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "'prioritize'는 라틴어 'prior(앞선)'에서 유래한 'priority'에 동사형 접미사 '-ize'가 붙어 만들어진 단어로, '우선순위를 매기다'라는 뜻입니다. 'tasks'는 고대 프랑스어 'tasque(부과된 일)'에서 온 단어입니다.",
+    "nuanceKo": "비즈니스 환경에서 매우 자주 쓰이는 전문적인 표현으로, 단순히 '할 일을 고르다'보다는 체계적이고 능동적으로 업무를 관리한다는 인상을 줍니다. 면접이나 업무 보고에서 자기 역량을 어필할 때도 효과적입니다.",
+    "shortExampleEn": "I need to prioritize tasks before the deadline hits.",
+    "shortExampleKo": "마감이 오기 전에 업무 우선순위를 정해야 해요."
+  }
+}

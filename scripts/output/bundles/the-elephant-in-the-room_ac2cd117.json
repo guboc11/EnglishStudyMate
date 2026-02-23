@@ -1,0 +1,30 @@
+{
+  "id": "the-elephant-in-the-room_ac2cd117",
+  "expression": "the elephant in the room",
+  "selectionMeta": {
+    "selectedPhrase": "the elephant in the room",
+    "selectedSenseLabelKo": "모두가 알지만 말 못 하는 문제",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Nobody wanted to address the elephant in the room — the fact that the project was already three months behind schedule."
+  },
+  "step2": {
+    "story": "The quarterly review meeting dragged on with small talk about office snacks and parking spaces. Everyone could see the plummeting sales chart on the screen, but no one dared mention it — it was the elephant in the room. Finally, the new intern raised her hand and asked the question everyone had been avoiding.",
+    "topicTag": "workplace tension",
+    "moodTag": "uncomfortable"
+  },
+  "step3": {
+    "story": "The Kim family gathered for their annual Chuseok dinner, and the table was full of perfectly prepared dishes. Grandma smiled and asked about everyone's jobs, and the cousins exchanged polite updates. But there was an elephant in the room that made every conversation feel stiff and hollow. Uncle Jinho's empty chair sat at the head of the table — he and Aunt Soyeon had announced their divorce just two weeks ago. The children kept glancing at the chair, and the adults kept steering the conversation toward safe topics like the weather. It wasn't until Grandma quietly said, \"I miss him too,\" that the tension in the room finally began to ease.",
+    "topicTag": "family dynamics",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "방 안에 코끼리가 있다는 뜻으로, 너무 크고 명백해서 무시할 수 없는 존재를 비유합니다.",
+    "realUsageKo": "모두가 인지하고 있지만 불편하거나 민감해서 아무도 언급하지 않는 명백한 문제나 상황을 가리킬 때 사용합니다. 주로 회의, 가족 모임, 대화 등에서 누구도 꺼내지 못하는 핵심 이슈를 표현합니다.",
+    "etymologyKo": "1814년 러시아 우화작가 이반 크릴로프의 작품에서 처음 등장했으며, 박물관에서 작은 물건들만 구경하고 거대한 코끼리는 무시하는 사람의 이야기에서 유래했습니다. 이후 영미권에서 '의도적으로 무시하는 명백한 문제'라는 의미로 널리 쓰이게 되었습니다.",
+    "nuanceKo": "단순히 모르는 것이 아니라, 알면서도 일부러 외면하는 상황에 씁니다. 약간의 비판적 뉘앙스가 있어, 이 표현을 쓰는 것 자체가 '우리 이제 이 문제를 직시하자'는 의미를 내포합니다.",
+    "shortExampleEn": "We need to talk about the elephant in the room — half the team wants to quit.",
+    "shortExampleKo": "우리 모두가 알면서도 말 못 하는 문제를 얘기해야 해 — 팀의 절반이 그만두고 싶어 해."
+  }
+}

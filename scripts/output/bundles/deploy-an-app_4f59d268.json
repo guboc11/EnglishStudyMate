@@ -1,0 +1,30 @@
+{
+  "id": "deploy-an-app_4f59d268",
+  "expression": "deploy an app",
+  "selectionMeta": {
+    "selectedPhrase": "deploy an app",
+    "selectedSenseLabelKo": "앱을 배포하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "After weeks of testing, the team was finally ready to deploy an app that would help millions of users manage their daily tasks."
+  },
+  "step2": {
+    "story": "Jina had been working on her startup's mobile app for six months. Late on a Friday night, she finally ran the last round of tests and decided to deploy an app to the App Store. By Monday morning, over a thousand users had already downloaded it.",
+    "topicTag": "startup launch",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Minho was a junior developer at a fintech company, and today was his first time handling a production release on his own. His hands trembled slightly as he reviewed the deployment checklist one last time. His senior mentor, Soojin, stood behind him and gave a reassuring nod. With a deep breath, Minho clicked the button to deploy an app that processed thousands of financial transactions every hour. The progress bar moved slowly, but when the green checkmark appeared, the entire team erupted in applause. Soojin patted him on the shoulder and said, 'You're a real engineer now.'",
+    "topicTag": "career milestone",
+    "moodTag": "nervous but proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "앱(애플리케이션)을 배포하다, 즉 완성된 소프트웨어를 사용자들이 접근할 수 있는 서버나 스토어에 올리는 행위를 뜻합니다.",
+    "realUsageKo": "개발이 완료된 앱을 실제 운영 환경(프로덕션)에 올려서 사용자들이 쓸 수 있게 만드는 과정을 말합니다. 단순히 코드를 작성하는 것이 아니라, 테스트를 마치고 공식적으로 '출시'하는 마지막 단계를 강조합니다.",
+    "etymologyKo": "'deploy'는 원래 군사 용어로 부대를 '전개하다/배치하다'라는 뜻에서 유래했으며, IT 분야에서 소프트웨어를 서버에 배치하여 실행 가능하게 만든다는 의미로 확장되었습니다.",
+    "nuanceKo": "일상 대화보다는 개발자, IT 업계 종사자들 사이에서 주로 사용되는 기술 표현입니다. 'release an app'보다 기술적이고 구체적인 뉘앙스를 가지며, 인프라와 서버 작업을 포함하는 느낌을 줍니다.",
+    "shortExampleEn": "We plan to deploy an app by the end of this quarter.",
+    "shortExampleKo": "우리는 이번 분기 말까지 앱을 배포할 계획입니다."
+  }
+}

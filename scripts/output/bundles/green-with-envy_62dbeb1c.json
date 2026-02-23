@@ -1,0 +1,30 @@
+{
+  "id": "green-with-envy_62dbeb1c",
+  "expression": "green with envy",
+  "selectionMeta": {
+    "selectedPhrase": "green with envy",
+    "selectedSenseLabelKo": "몹시 부럽다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When Sarah showed up in her brand-new sports car, I have to admit I was green with envy."
+  },
+  "step2": {
+    "story": "My coworker just got promoted to senior manager after only two years at the company. Everyone in the office congratulated him, but I could tell a few people were green with envy. I tried to be happy for him, but honestly, I felt the same way.",
+    "topicTag": "career jealousy",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "Lisa had been saving for months to afford a modest vacation, so when her best friend posted photos from a luxury resort in the Maldives, she couldn't help feeling green with envy. The crystal-clear water, the private villa, the sunset dinners — it all looked like a dream. She stared at her phone, scrolling through picture after picture, each one making her chest tighten a little more. She knew comparing herself to others was pointless, but the feeling was hard to shake. Finally, she put her phone down and reminded herself that her own camping trip by the lake had its own kind of magic. Sometimes happiness isn't about having the best — it's about appreciating what you have.",
+    "topicTag": "social comparison",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '부러움으로 초록색이 된'이라는 뜻입니다.",
+    "realUsageKo": "다른 사람이 가진 것이나 이룬 것을 보고 몹시 부러워하거나 질투하는 감정을 표현할 때 사용합니다. 단순한 부러움보다 강한 질투의 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "셰익스피어의 《오셀로》에서 질투를 'green-eyed monster(초록 눈의 괴물)'로 표현한 데서 유래했습니다. 중세 시대에는 초록색이 병이나 불쾌한 감정과 연관되었습니다.",
+    "nuanceKo": "일상 대화에서 가볍게 쓸 수도 있고, 진지한 질투를 표현할 때도 씁니다. 자기 자신의 감정을 솔직하게 인정할 때 자주 사용됩니다.",
+    "shortExampleEn": "He was green with envy when he saw his neighbor's new swimming pool.",
+    "shortExampleKo": "그는 이웃의 새 수영장을 보고 몹시 부러워했다."
+  }
+}

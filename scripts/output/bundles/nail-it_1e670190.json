@@ -1,0 +1,30 @@
+{
+  "id": "nail-it_1e670190",
+  "expression": "nail it",
+  "selectionMeta": {
+    "selectedPhrase": "nail it",
+    "selectedSenseLabelKo": "완벽하게 해내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She studied all weekend and absolutely nailed it on the final exam."
+  },
+  "step2": {
+    "story": "Marcus had been rehearsing his presentation for weeks, running through every slide until he could recite them in his sleep. When the big day came, he walked into the conference room with quiet confidence and completely nailed it. His manager pulled him aside afterward to say it was the best pitch the team had ever delivered.",
+    "topicTag": "career achievement",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Jenna stared at the judges from behind the curtain, her hands trembling slightly around her guitar neck. She had entered the talent competition on a dare from her best friend, never expecting to make it past the first round. But here she was in the finals, about to perform an original song she had written in her tiny apartment. The spotlight hit her as she stepped onto the stage, and something clicked — her fingers found the strings naturally, her voice carried through the silent auditorium without a single crack. When the last note faded, the crowd erupted into applause, and she knew she had nailed it. Sometimes all it takes is one moment of courage to discover what you are truly capable of.",
+    "topicTag": "overcoming stage fright",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '못을 박다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 일을 완벽하게 해냈을 때 사용합니다. 시험, 발표, 공연 등에서 기대 이상으로 훌륭하게 수행했다는 의미로 널리 쓰입니다.",
+    "etymologyKo": "못을 정확히 제자리에 박는 행위에서 유래했습니다. 못을 한 번에 정확하게 박는 것처럼 무언가를 정확하고 완벽하게 해내는 모습을 비유한 표현입니다.",
+    "nuanceKo": "일상적이고 캐주얼한 표현으로, 칭찬이나 축하의 맥락에서 자주 사용됩니다. 격식 있는 자리보다는 친구나 동료 사이에서 더 자연스럽게 쓰입니다.",
+    "shortExampleEn": "You really nailed it with that speech — everyone was impressed!",
+    "shortExampleKo": "그 연설 정말 완벽하게 해냈어 — 다들 감동받았어!"
+  }
+}

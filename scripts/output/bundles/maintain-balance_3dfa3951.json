@@ -1,0 +1,30 @@
+{
+  "id": "maintain-balance_3dfa3951",
+  "expression": "maintain balance",
+  "selectionMeta": {
+    "selectedPhrase": "maintain balance",
+    "selectedSenseLabelKo": "균형을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After switching to a remote job, she had to learn how to maintain balance between her work responsibilities and personal life."
+  },
+  "step2": {
+    "story": "Jake used to work twelve-hour shifts without taking a single break. When his doctor warned him about burnout, he finally decided to maintain balance by setting strict boundaries between work and rest. Now he finishes by six and spends his evenings cooking dinner with his family.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mina had always been the type to say yes to everything. Extra projects at work, weekend volunteering, late-night study sessions for her online degree. But one Monday morning, she collapsed at her desk from exhaustion. Her manager told her she needed to maintain balance or she would burn out completely. Reluctantly, Mina started blocking off her calendar, protecting her evenings and weekends like sacred ground. It felt strange at first, almost guilty, but within a month she was sleeping better, thinking more clearly, and actually enjoying the work she once dreaded.",
+    "topicTag": "self-care",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "균형(balance)을 유지하다(maintain)라는 뜻으로, 여러 요소 사이의 안정적인 상태를 지속적으로 지키는 것을 의미합니다.",
+    "realUsageKo": "일과 삶, 건강과 업무, 감정과 이성 등 서로 상충할 수 있는 요소들 사이에서 한쪽으로 치우치지 않고 적절한 균형 상태를 유지할 때 사용합니다. 물리적 균형(자세, 운동)뿐 아니라 추상적 균형(삶의 영역 간 조화)에도 널리 쓰입니다.",
+    "etymologyKo": "maintain은 라틴어 manu tenere(손으로 잡다)에서 유래했고, balance는 라틴어 bilanx(두 개의 접시를 가진 저울)에서 왔습니다. 저울의 두 접시를 손으로 잡아 수평을 유지한다는 이미지에서 비롯된 표현입니다.",
+    "nuanceKo": "keep balance보다 더 의식적이고 지속적인 노력을 함축합니다. maintain이 '꾸준히 유지하다'라는 의미를 담고 있어서 일시적 균형이 아닌 장기적 균형 관리를 강조하는 뉘앙스입니다.",
+    "shortExampleEn": "It's not easy to maintain balance when you have so many commitments.",
+    "shortExampleKo": "해야 할 일이 이렇게 많을 때 균형을 유지하기란 쉽지 않다."
+  }
+}

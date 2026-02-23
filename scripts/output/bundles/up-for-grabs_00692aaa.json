@@ -1,0 +1,30 @@
+{
+  "id": "up-for-grabs_00692aaa",
+  "expression": "up for grabs",
+  "selectionMeta": {
+    "selectedPhrase": "up for grabs",
+    "selectedSenseLabelKo": "아무나 가질 수 있는",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The corner office is up for grabs now that the director has retired."
+  },
+  "step2": {
+    "story": "When the tech startup announced free concert tickets on their bulletin board, everyone rushed over. The tickets were up for grabs, and only the fastest would claim them. Sarah snagged the last pair just seconds before her coworker reached the board.",
+    "topicTag": "office perks",
+    "moodTag": "competitive"
+  },
+  "step3": {
+    "story": "The annual neighborhood yard sale was legendary on Maple Street. Every spring, families hauled out everything from vintage furniture to barely-used kitchen gadgets, all up for grabs at bargain prices. This year, Tom spotted a pristine 1960s turntable sitting on a folding table, priced at just ten dollars. He couldn't believe his luck — someone's forgotten treasure was now anyone's to claim. He handed over the cash before the seller could even finish arranging the rest of the display. Walking home with the turntable under his arm, he already imagined the warm crackle of vinyl filling his living room.",
+    "topicTag": "hidden treasures",
+    "moodTag": "excited"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '잡으려고 올려놓은 것'으로, 누구든 손을 뻗어 가져갈 수 있는 상태를 뜻합니다.",
+    "realUsageKo": "어떤 기회, 자리, 물건 등이 아직 주인이 정해지지 않아서 누구든 차지할 수 있는 상황에 씁니다. 경쟁 상황에서 '선착순', '쟁탈전'의 뉘앙스로도 자주 사용됩니다.",
+    "etymologyKo": "미국 영어에서 유래한 관용 표현으로, 1960년대부터 널리 쓰이기 시작했습니다. 'grab(움켜쥐다)'이라는 동사에서 알 수 있듯이 빠르게 차지해야 한다는 느낌이 담겨 있습니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 주로 쓰이며, 경쟁적이면서도 흥미로운 상황을 묘사할 때 적합합니다. 부정적인 뉘앙스 없이 기회가 열려 있다는 긍정적 느낌으로 많이 사용됩니다.",
+    "shortExampleEn": "With the team captain leaving, the leadership role is up for grabs.",
+    "shortExampleKo": "팀 캡틴이 떠나면서 리더 자리는 누구든 차지할 수 있게 되었다."
+  }
+}

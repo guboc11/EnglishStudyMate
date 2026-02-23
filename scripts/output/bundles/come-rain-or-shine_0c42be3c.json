@@ -1,0 +1,30 @@
+{
+  "id": "come-rain-or-shine_0c42be3c",
+  "expression": "come rain or shine",
+  "selectionMeta": {
+    "selectedPhrase": "come rain or shine",
+    "selectedSenseLabelKo": "어떤 일이 있어도",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Come rain or shine, my grandmother walks to the park every morning at six."
+  },
+  "step2": {
+    "story": "Jenna promised to be at every one of her daughter's soccer games, come rain or shine. Last Saturday, a thunderstorm rolled in just before kickoff, but Jenna was already in the stands with her umbrella. Her daughter scored the winning goal and pointed straight at her mom in the crowd.",
+    "topicTag": "family dedication",
+    "moodTag": "heartwarming"
+  },
+  "step3": {
+    "story": "When Marcus opened his small coffee cart on the corner of Fifth and Oak, nobody gave him much of a chance. The first winter was brutal — freezing winds, sleet, and mornings so cold his fingers went numb. But Marcus showed up every single day, come rain or shine, brewing fresh cups before the sun was fully up. Regulars started to notice his stubborn consistency and told their friends. By spring, the line stretched halfway down the block. Five years later, that little cart became a beloved neighborhood café, and Marcus still opens the doors himself every morning at five.",
+    "topicTag": "perseverance",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "비가 오든 햇빛이 비추든, 즉 날씨에 상관없이라는 뜻입니다.",
+    "realUsageKo": "날씨뿐만 아니라 어떤 상황이나 어려움이 닥쳐도 반드시 무언가를 하겠다는 강한 의지나 약속을 표현할 때 사용합니다.",
+    "etymologyKo": "영국의 우편 배달부들이 어떤 날씨에도 편지를 배달한다는 전통에서 유래했으며, 17세기경부터 사용된 표현입니다.",
+    "nuanceKo": "굳은 결심이나 헌신을 강조하는 긍정적인 표현으로, 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I'll be there for you, come rain or shine.",
+    "shortExampleKo": "어떤 일이 있어도 네 곁에 있을게."
+  }
+}

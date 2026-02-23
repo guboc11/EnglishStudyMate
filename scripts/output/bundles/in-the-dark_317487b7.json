@@ -1,0 +1,30 @@
+{
+  "id": "in-the-dark_317487b7",
+  "expression": "in the dark",
+  "selectionMeta": {
+    "selectedPhrase": "in the dark",
+    "selectedSenseLabelKo": "모르는 상태에 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The employees were kept in the dark about the upcoming layoffs until the official announcement."
+  },
+  "step2": {
+    "story": "Maria noticed her coworkers whispering in the hallway every time she walked by. She asked her manager what was going on, but he just smiled and changed the subject. She hated being left in the dark, especially when it clearly involved her.",
+    "topicTag": "workplace communication",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "For weeks, Jason had no idea why his best friend suddenly stopped returning his calls. Their mutual friends seemed to know something but kept dodging his questions. He felt completely in the dark, and it was eating him up inside. Finally, he showed up at David's apartment unannounced and demanded an honest conversation. It turned out David had been diagnosed with a serious illness and didn't want to burden anyone. Jason wished he hadn't been kept in the dark for so long — he would have been there from day one.",
+    "topicTag": "friendship and honesty",
+    "moodTag": "emotional"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '어둠 속에 있다'라는 뜻으로, 빛이 없어 아무것도 볼 수 없는 상태를 가리킵니다.",
+    "realUsageKo": "실제로는 어떤 정보나 상황에 대해 전혀 모르는 상태를 의미합니다. 주로 누군가가 의도적으로 정보를 알려주지 않아서 모르고 있을 때 사용합니다.",
+    "etymologyKo": "어둠 속에서는 앞을 볼 수 없듯이, 정보가 없으면 상황을 파악할 수 없다는 비유에서 유래했습니다. 17세기 영어에서부터 '무지한 상태'를 뜻하는 표현으로 사용되었습니다.",
+    "nuanceKo": "단순히 모르는 것보다는 '알아야 할 것을 모르고 있다'는 뉘앙스가 강합니다. 'keep someone in the dark' 형태로 쓰이면 의도적으로 정보를 숨긴다는 부정적인 느낌이 있습니다.",
+    "shortExampleEn": "Don't keep me in the dark — just tell me what happened.",
+    "shortExampleKo": "나한테 숨기지 마 — 무슨 일이 있었는지 그냥 말해 줘."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "drop-off_ef54a74c",
+  "expression": "drop off",
+  "selectionMeta": {
+    "selectedPhrase": "drop off",
+    "selectedSenseLabelKo": "내려주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Could you drop me off at the corner store on your way home?"
+  },
+  "step2": {
+    "story": "Maria was running late for her job interview when her neighbor offered to drop her off downtown. She grabbed her bag and jumped into the car, grateful for the ride. They arrived just in time, and Maria waved goodbye before rushing inside.",
+    "topicTag": "commute",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Every morning, David made it a point to drop his daughter off at school before heading to work. It was their special time — a few quiet minutes in the car where she would tell him about her plans for the day. One rainy Tuesday, she asked him to drop her off a block away so her friends wouldn't see. He laughed, remembering when she used to beg him to walk her all the way to the classroom door. As he watched her disappear around the corner, he felt a bittersweet mix of pride and nostalgia. He sat for a moment before pulling back into traffic, already looking forward to picking her up that afternoon.",
+    "topicTag": "parenting",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 특정 장소에서 차에서 내려주다.",
+    "realUsageKo": "주로 차를 운전하며 동승자를 목적지에 내려줄 때 사용하며, 일상적인 이동 상황에서 매우 자주 쓰이는 표현이다.",
+    "etymologyKo": "'drop'은 '떨어뜨리다'는 뜻이고 'off'는 분리를 나타내어, 누군가를 차에서 '내려놓는' 행위를 묘사하게 되었다.",
+    "nuanceKo": "격식 없이 친근하게 쓰이는 표현으로, 상대방에게 부탁하거나 친절을 베풀 때 자연스럽게 사용된다.",
+    "shortExampleEn": "I'll drop you off at the airport on my way to work.",
+    "shortExampleKo": "출근하는 길에 공항에 내려줄게."
+  }
+}

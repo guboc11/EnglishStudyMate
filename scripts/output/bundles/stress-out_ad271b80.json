@@ -1,0 +1,30 @@
+{
+  "id": "stress-out_ad271b80",
+  "expression": "stress out",
+  "selectionMeta": {
+    "selectedPhrase": "stress out",
+    "selectedSenseLabelKo": "스트레스를 받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I always stress out before big exams, even when I've studied enough."
+  },
+  "step2": {
+    "story": "Maya had three deadlines due on the same day. She started to stress out and couldn't focus on any of them. Finally, she took a deep breath, made a priority list, and tackled them one by one.",
+    "topicTag": "work pressure",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "Jason noticed his hands were shaking as he stared at the email from his manager. The company was restructuring, and everyone on his team had to reapply for their positions. He began to stress out, imagining the worst-case scenarios. His colleague Sarah saw the worry on his face and brought him a cup of coffee. She reminded him that he had the best track record on the team and there was no reason to panic. Gradually, Jason calmed down and started updating his resume with renewed confidence.",
+    "topicTag": "job uncertainty",
+    "moodTag": "anxious then hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '스트레스가 밖으로 나오다'로, 스트레스가 표면으로 드러날 정도로 압박을 느끼는 상태를 뜻합니다.",
+    "realUsageKo": "실제로는 '스트레스를 받다', '너무 걱정하다'라는 뜻으로 일상에서 매우 자주 쓰입니다. 시험, 업무, 인간관계 등 다양한 상황에서 부담감을 느낄 때 사용합니다.",
+    "etymologyKo": "'stress'는 라틴어 'strictus(팽팽한)'에서 유래했고, 'out'이 붙어 스트레스가 외부로 표출되는 느낌을 더합니다. 1980년대부터 구어체로 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "격식 없는 일상 표현으로, 친구나 동료 사이에서 자연스럽게 씁니다. 'be stressed'보다 더 감정적이고 구어적인 느낌이 있으며, 일시적인 압박감을 강조합니다.",
+    "shortExampleEn": "Don't stress out about the presentation — you'll do great.",
+    "shortExampleKo": "발표 때문에 너무 스트레스 받지 마 — 잘할 거야."
+  }
+}

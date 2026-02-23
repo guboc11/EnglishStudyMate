@@ -1,0 +1,30 @@
+{
+  "id": "raise-the-bar_50e52fa3",
+  "expression": "raise the bar",
+  "selectionMeta": {
+    "selectedPhrase": "raise the bar",
+    "selectedSenseLabelKo": "기준을 높이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new CEO wants to raise the bar for customer service across every department."
+  },
+  "step2": {
+    "story": "After receiving mediocre reviews for three straight quarters, the marketing director decided it was time to raise the bar. She restructured the entire creative process and brought in fresh talent. Within months, the team was producing campaigns that competitors couldn't ignore.",
+    "topicTag": "professional growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jenna joined the regional swim team, she was barely making the qualifying times. Her coach, however, saw potential and kept pushing her to raise the bar with every practice session. At first, Jenna resented the grueling early-morning drills and the constant pressure to shave off milliseconds. But as the season progressed, she noticed herself gliding through the water with a confidence she had never felt before. By the time championships arrived, she didn't just meet the standard — she shattered it. Her coach smiled from the stands, knowing that raising the bar had turned raw talent into something extraordinary.",
+    "topicTag": "personal achievement",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "막대(bar)를 더 높이 올린다는 뜻으로, 높이뛰기에서 바를 올리는 모습에서 유래했습니다.",
+    "realUsageKo": "기대치나 기준을 이전보다 더 높게 설정할 때 사용합니다. 품질, 성과, 서비스 등 다양한 분야에서 '수준을 한 단계 끌어올리다'라는 의미로 폭넓게 쓰입니다.",
+    "etymologyKo": "높이뛰기(high jump) 경기에서 선수가 바(bar)를 넘을 때마다 바의 높이를 올리는 데서 유래한 표현입니다. 스포츠 용어가 일상 영어로 확장된 대표적인 사례입니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강합니다. 단순히 '더 어렵게 만들다'가 아니라 '더 높은 수준을 추구하다'는 발전적 의미를 담고 있어, 칭찬이나 동기부여 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "This year's conference really raised the bar for future events.",
+    "shortExampleKo": "올해 컨퍼런스는 향후 행사의 기준을 확실히 높여놓았다."
+  }
+}

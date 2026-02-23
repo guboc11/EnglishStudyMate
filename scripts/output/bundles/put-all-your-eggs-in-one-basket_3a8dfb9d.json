@@ -1,0 +1,30 @@
+{
+  "id": "put-all-your-eggs-in-one-basket_3a8dfb9d",
+  "expression": "put all your eggs in one basket",
+  "selectionMeta": {
+    "selectedPhrase": "put all your eggs in one basket",
+    "selectedSenseLabelKo": "한 곳에 모든 것을 걸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My financial advisor warned me not to put all my eggs in one basket, so I spread my savings across several different investments."
+  },
+  "step2": {
+    "story": "Jake invested his entire life savings into a single cryptocurrency. When the market crashed overnight, he lost everything. His brother shook his head and said, \"I told you never to put all your eggs in one basket.\"",
+    "topicTag": "financial risk",
+    "moodTag": "cautionary"
+  },
+  "step3": {
+    "story": "Sofia had been running a successful online clothing store for three years. When a major social media platform offered her an exclusive partnership deal, she was tempted to close her website and sell only through their marketplace. Her mentor, who had seen businesses collapse before, sat her down for coffee. \"Sofia, you're about to put all your eggs in one basket,\" he said firmly. \"What happens if they change their algorithm or raise their fees?\" She took his advice and kept her own website running alongside the partnership. Six months later, when the platform suddenly doubled its commission rates, Sofia's independent store saved her business.",
+    "topicTag": "business strategy",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "모든 달걀을 한 바구니에 담다라는 뜻으로, 바구니를 떨어뜨리면 달걀이 모두 깨진다는 의미입니다.",
+    "realUsageKo": "모든 자원이나 노력을 하나의 선택지에만 집중하는 것을 경고할 때 사용합니다. 주로 투자, 사업, 진로 등 중요한 결정 상황에서 위험 분산의 필요성을 강조하며 쓰입니다.",
+    "etymologyKo": "17세기 유럽 속담에서 유래했으며, 미겔 데 세르반테스의 소설 돈키호테(1605)에도 비슷한 표현이 등장합니다. 달걀을 한 바구니에 담으면 넘어졌을 때 전부 깨지는 실생활 경험에서 나온 비유입니다.",
+    "nuanceKo": "보통 부정문(Don't put all your eggs in one basket)으로 사용되며 조언이나 경고의 톤을 담고 있습니다. 격식/비격식 구분 없이 널리 쓰이는 일상적 표현입니다.",
+    "shortExampleEn": "Don't put all your eggs in one basket — apply to several companies, not just one.",
+    "shortExampleKo": "한 곳에 모든 걸 걸지 마 — 한 회사만 말고 여러 곳에 지원해."
+  }
+}

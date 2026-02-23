@@ -1,0 +1,30 @@
+{
+  "id": "the-last-resort_afadd5cd",
+  "expression": "the last resort",
+  "selectionMeta": {
+    "selectedPhrase": "the last resort",
+    "selectedSenseLabelKo": "마지막 수단",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After trying every possible fix, calling a professional plumber was the last resort."
+  },
+  "step2": {
+    "story": "The startup was running out of cash, and investors kept turning them down. Selling the patent was the last resort, but it was the only way to keep the team together. With heavy hearts, they signed the deal and vowed to start fresh.",
+    "topicTag": "business survival",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "Maya had been studying for weeks, but organic chemistry still made no sense. She tried textbooks, YouTube tutorials, and even a study group, but nothing clicked. Hiring a private tutor was the last resort since she could barely afford groceries. She found a retired professor who offered discounted rates for struggling students. After just three sessions, the reactions started making sense. Sometimes the thing you resist the most turns out to be exactly what you need.",
+    "topicTag": "academic challenge",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'마지막으로 의지할 곳'이라는 뜻으로, 모든 다른 방법이 실패한 후 남은 유일한 선택지를 가리킵니다.",
+    "realUsageKo": "다른 모든 방법을 시도한 후에야 어쩔 수 없이 선택하는 최후의 수단을 말할 때 씁니다. 'as a last resort(최후의 수단으로)'라는 형태로도 자주 사용됩니다.",
+    "etymologyKo": "'resort'는 프랑스어 'resortir(다시 나가다)'에서 유래했으며, 원래 '도움을 구하러 가는 곳'이라는 뜻이었습니다. 'last resort'는 17세기부터 '마지막으로 기댈 곳'이라는 의미로 쓰였습니다.",
+    "nuanceKo": "절박하고 다른 선택지가 없는 상황을 강조하는 표현입니다. 부정적이거나 꺼리는 뉘앙스가 있어, 그 선택이 이상적이지 않지만 어쩔 수 없다는 느낌을 줍니다.",
+    "shortExampleEn": "Surgery should only be considered as the last resort.",
+    "shortExampleKo": "수술은 최후의 수단으로만 고려해야 합니다."
+  }
+}

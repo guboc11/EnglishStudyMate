@@ -1,0 +1,30 @@
+{
+  "id": "single-out_cb411d2b",
+  "expression": "single out",
+  "selectionMeta": {
+    "selectedPhrase": "single out",
+    "selectedSenseLabelKo": "골라내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The teacher singled out Maria for her outstanding presentation on climate change."
+  },
+  "step2": {
+    "story": "During the company meeting, the director singled out Jake's team for exceeding their quarterly targets. Jake felt proud but also a bit embarrassed as everyone turned to look at them. Still, the recognition motivated the whole team to keep pushing forward.",
+    "topicTag": "workplace recognition",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "When Soyeon transferred to a new school in London, she struggled to fit in with the other students. One afternoon, the art teacher singled out her painting during a class critique, calling it the most emotionally powerful piece she had seen all year. At first, Soyeon worried that being singled out would make her classmates jealous. But instead, several students approached her after class, curious about her technique and wanting to collaborate. That single moment of recognition broke the invisible wall between her and the rest of the class. She realized that standing out wasn't always something to fear — sometimes it opened doors she never expected.",
+    "topicTag": "belonging and identity",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'single'(하나의) + 'out'(밖으로) → 여럿 중에서 하나를 골라 밖으로 꺼내다.",
+    "realUsageKo": "여러 사람이나 사물 중에서 특정 대상을 선택하거나 지목할 때 사용합니다. 칭찬이나 비판의 대상으로 지목하는 맥락 모두에 쓰입니다.",
+    "etymologyKo": "'single'은 라틴어 'singulus'(하나의)에서 유래했으며, 'out'과 결합하여 '하나를 골라내다'라는 구동사가 되었습니다. 16세기부터 사용된 표현입니다.",
+    "nuanceKo": "긍정적(칭찬)으로도 부정적(비난, 차별)으로도 쓰일 수 있어 문맥에 따라 뉘앙스가 달라집니다. 'pick out'과 유사하지만, single out은 특별한 주목이나 대우를 암시합니다.",
+    "shortExampleEn": "Why did they single me out for extra work?",
+    "shortExampleKo": "왜 나만 골라서 추가 업무를 시키는 거죠?"
+  }
+}

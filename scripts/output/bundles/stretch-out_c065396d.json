@@ -1,0 +1,30 @@
+{
+  "id": "stretch-out_c065396d",
+  "expression": "stretch out",
+  "selectionMeta": {
+    "selectedPhrase": "stretch out",
+    "selectedSenseLabelKo": "뻗다 / 늘이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After sitting at her desk for hours, she stood up and stretched out her arms to relieve the tension in her shoulders."
+  },
+  "step2": {
+    "story": "Mark had been driving for six hours straight without a break. He pulled into a rest area, opened the car door, and stretched out his legs on the grass. The relief was instant, and he felt ready to tackle the remaining two hours of the journey.",
+    "topicTag": "road trip",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jina had spent the entire morning hunched over her laptop, coding a feature that refused to work. Her neck was stiff and her back ached from the awkward posture. She finally pushed her chair back and stretched out her whole body, arms reaching toward the ceiling. A satisfying pop ran down her spine. She walked to the office window and stretched out her fingers against the cold glass, watching the city below. Sometimes the best debugging tool was simply giving your body a moment to breathe.",
+    "topicTag": "office life",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stretch'(늘이다)와 'out'(바깥으로)의 결합으로, 몸이나 물체를 바깥 방향으로 쭉 펴거나 늘이는 동작을 뜻합니다.",
+    "realUsageKo": "팔, 다리, 몸 등을 쭉 뻗는 신체 동작에 가장 많이 쓰입니다. 또한 소파나 잔디밭에 길게 누워 쉬는 상황에서도 자주 사용되며, 시간이나 공간을 확장하는 비유적 의미로도 쓰입니다.",
+    "etymologyKo": "고대 영어 'streccan'(펴다, 늘이다)에서 유래했으며, 부사 'out'이 결합되어 '바깥으로 쭉 펴다'라는 방향성이 더해진 구동사입니다.",
+    "nuanceKo": "일상적이고 편안한 톤의 표현으로, 격식 없는 대화에서 자연스럽게 쓰입니다. 긴장을 풀거나 편하게 쉬는 느낌이 담겨 있어 긍정적인 뉘앙스를 줍니다.",
+    "shortExampleEn": "He stretched out on the couch and fell asleep within minutes.",
+    "shortExampleKo": "그는 소파에 길게 누워 몇 분 만에 잠이 들었다."
+  }
+}

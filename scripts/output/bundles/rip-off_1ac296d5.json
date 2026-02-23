@@ -1,0 +1,30 @@
+{
+  "id": "rip-off_1ac296d5",
+  "expression": "rip off",
+  "selectionMeta": {
+    "selectedPhrase": "rip off",
+    "selectedSenseLabelKo": "바가지 씌우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "That souvenir shop near the beach will totally rip you off if you don't bargain."
+  },
+  "step2": {
+    "story": "Kevin paid fifty dollars for a tiny keychain at the tourist market. His friend laughed and said the vendor had completely ripped him off. From that day on, Kevin always checked prices online before buying anything while traveling.",
+    "topicTag": "travel shopping",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Elena had just moved to a new city and needed her car fixed urgently. The first mechanic she visited quoted her three thousand dollars for what seemed like a minor repair. Something felt wrong, so she decided to get a second opinion. The next shop diagnosed the same issue and charged only four hundred dollars. Elena realized the first mechanic had tried to rip her off because she was new in town. She left a detailed review online to warn others and promised herself she would always do her research before trusting a stranger with her money.",
+    "topicTag": "consumer awareness",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'rip off'는 직역하면 '뜯어내다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 누군가에게 바가지를 씌우거나, 부당하게 비싼 값을 받는 것을 의미합니다. 물건이나 서비스에 터무니없는 가격을 매길 때 주로 사용합니다.",
+    "etymologyKo": "원래 'rip'은 무언가를 찢거나 뜯는 행위를 뜻하며, 1960년대 미국 속어에서 '남의 돈을 부당하게 빼앗다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "비격식적이고 다소 감정적인 표현으로, 사기를 당했다는 불쾌감이나 분노를 담고 있습니다. 일상 대화에서 자주 쓰이며, 격식 있는 자리에서는 'overcharge'를 대신 사용합니다.",
+    "shortExampleEn": "Don't buy from that website — they'll rip you off.",
+    "shortExampleKo": "그 웹사이트에서 사지 마 — 바가지 씌울 거야."
+  }
+}

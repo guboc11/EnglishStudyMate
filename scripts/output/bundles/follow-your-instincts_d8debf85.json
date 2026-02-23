@@ -1,0 +1,30 @@
+{
+  "id": "follow-your-instincts_d8debf85",
+  "expression": "follow your instincts",
+  "selectionMeta": {
+    "selectedPhrase": "follow your instincts",
+    "selectedSenseLabelKo": "직관을 따르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When you're unsure which path to take, sometimes the best thing to do is follow your instincts."
+  },
+  "step2": {
+    "story": "Maya had two job offers on the table — one safe, one exciting. Everyone told her to pick the stable company, but she decided to follow her instincts and join the startup. Three years later, she was leading her own product team.",
+    "topicTag": "career decision",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Daniel stood at the trailhead, staring at the fork in the path. The map said to go left toward the main road, but something pulled him right, deeper into the forest. He decided to follow his instincts. The narrow trail wound through towering pines and opened onto a hidden lake, perfectly still and reflecting the mountains. He sat on a mossy rock, breathing in the silence. Sometimes the unmarked path leads you exactly where you need to be.",
+    "topicTag": "self-discovery",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 본능(직감)을 따르다라는 뜻으로, 말 그대로 내면의 느낌이 이끄는 대로 행동한다는 의미입니다.",
+    "realUsageKo": "논리적 분석보다 직감이나 감각적 판단을 믿고 행동할 때 사용합니다. 중요한 결정 앞에서 '머리보다 마음이 시키는 대로 해'라는 뉘앙스로 자주 쓰입니다.",
+    "etymologyKo": "instinct는 라틴어 instinctus(내적 충동)에서 유래했으며, follow와 결합하여 '타고난 감각을 신뢰하고 따르다'라는 표현이 되었습니다.",
+    "nuanceKo": "긍정적이고 격려하는 톤으로 주로 사용됩니다. 논리적 근거가 부족하더라도 자기 자신을 믿으라는 조언의 느낌이 강합니다.",
+    "shortExampleEn": "I didn't have a plan — I just followed my instincts and it worked out.",
+    "shortExampleKo": "계획은 없었어요 — 그냥 직감을 따랐더니 잘 풀렸어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "think-outside-the-box_9403ef1e",
+  "expression": "think outside the box",
+  "selectionMeta": {
+    "selectedPhrase": "think outside the box",
+    "selectedSenseLabelKo": "창의적으로 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to think outside the box if we want to solve this problem before the deadline."
+  },
+  "step2": {
+    "story": "The marketing team had been stuck on the same campaign idea for weeks. During a late-night brainstorm, their new intern suggested they think outside the box and partner with a local street artist. The campaign went viral overnight.",
+    "topicTag": "creative problem-solving",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Jina stared at the blank whiteboard, feeling the weight of her team's expectations. Every proposal they had submitted to the client had been rejected. Her manager pulled her aside and said, \"We've tried every conventional approach — it's time to think outside the box.\" That night, Jina visited a children's museum for inspiration. Watching kids build wild structures from recycled materials sparked something in her mind. The next morning, she pitched a completely unconventional design concept that won the client's approval on the spot.",
+    "topicTag": "workplace innovation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "상자 바깥에서 생각하다라는 뜻으로, 정해진 틀 밖에서 사고한다는 의미입니다.",
+    "realUsageKo": "기존의 방식이나 고정관념에서 벗어나 창의적이고 독창적으로 생각할 때 사용합니다. 주로 문제 해결이나 새로운 아이디어가 필요한 상황에서 쓰입니다.",
+    "etymologyKo": "1970년대 경영 컨설턴트들이 사용하던 '9개 점 퍼즐'에서 유래했습니다. 점들이 이루는 사각형 밖으로 선을 그어야 풀 수 있는 문제로, 기존 틀을 벗어나는 사고를 상징하게 되었습니다.",
+    "nuanceKo": "긍정적이고 격려하는 뉘앙스가 강합니다. 비즈니스, 교육, 일상 대화 등 다양한 상황에서 널리 쓰이며, 다소 진부하게 느껴질 수도 있지만 여전히 자주 사용됩니다.",
+    "shortExampleEn": "To stay competitive, companies must think outside the box.",
+    "shortExampleKo": "경쟁력을 유지하려면 기업은 창의적으로 생각해야 합니다."
+  }
+}

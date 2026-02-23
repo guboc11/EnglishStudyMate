@@ -1,0 +1,30 @@
+{
+  "id": "let-off-the-hook_97ca4ac9",
+  "expression": "let off the hook",
+  "selectionMeta": {
+    "selectedPhrase": "let off the hook",
+    "selectedSenseLabelKo": "면제해주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The professor decided to let the students off the hook and canceled the pop quiz since most of them were clearly unprepared."
+  },
+  "step2": {
+    "story": "Jake forgot to submit the monthly report on time, and his boss called him into the office. He braced himself for a serious warning, but his manager smiled and said mistakes happen. She let him off the hook with just a reminder to set calendar alerts in the future.",
+    "topicTag": "workplace forgiveness",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mia had been dreading Sunday dinner ever since she accidentally dented her dad's car in the parking lot. She rehearsed her apology a dozen times on the drive over, imagining the disappointed look on his face. When she finally confessed at the dinner table, her father paused, set down his fork, and let out a long sigh. Then he laughed and told her about the time he had backed into a mailbox at her age. He let her off the hook completely, saying the car was old and due for a few battle scars anyway. Mia felt a wave of relief wash over her as the rest of the family burst into laughter.",
+    "topicTag": "family understanding",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "낚시 바늘(hook)에서 풀어준다는 뜻으로, 물고기를 놓아주는 이미지입니다.",
+    "realUsageKo": "벌이나 책임을 면제해주거나 곤란한 상황에서 빠져나가게 해줄 때 사용합니다. '봐주다', '넘어가주다'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "낚시에서 유래한 표현으로, 잡힌 물고기를 낚시 바늘에서 풀어 다시 물에 놓아주는 행위에서 비롯되었습니다.",
+    "nuanceKo": "주로 잘못이나 의무가 있는 사람을 관대하게 용서하거나 면제해줄 때 쓰이며, 가벼운 상황부터 진지한 상황까지 폭넓게 사용됩니다.",
+    "shortExampleEn": "I can't believe the teacher let him off the hook for cheating on the exam.",
+    "shortExampleKo": "선생님이 시험에서 부정행위한 그를 그냥 봐줬다니 믿을 수가 없어."
+  }
+}

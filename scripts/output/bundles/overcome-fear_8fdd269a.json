@@ -1,0 +1,30 @@
+{
+  "id": "overcome-fear_8fdd269a",
+  "expression": "overcome fear",
+  "selectionMeta": {
+    "selectedPhrase": "overcome fear",
+    "selectedSenseLabelKo": "두려움을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had to overcome fear of public speaking before giving her first presentation at work."
+  },
+  "step2": {
+    "story": "Mia had avoided swimming ever since she nearly drowned as a child. One summer, she signed up for adult swim lessons, determined to overcome fear that had controlled her for years. By the end of the course, she was swimming laps with a smile on her face.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jake stared at the climbing wall, his palms sweating and his heart pounding. Heights had terrified him ever since he fell from a tree as a boy. His therapist had suggested this exercise as a way to overcome fear gradually, one step at a time. He clipped into the harness, took a deep breath, and reached for the first hold. Halfway up, he paused and looked down — the ground seemed impossibly far away, but he kept going. When he finally touched the top, he let out a shaky laugh, realizing the fear no longer owned him.",
+    "topicTag": "facing phobias",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "두려움을 이겨내다, 극복하다라는 뜻입니다.",
+    "realUsageKo": "무언가가 무섭거나 불안하지만 용기를 내어 그것을 해내거나 두려움 자체를 떨쳐낼 때 사용합니다. 구체적인 공포(고소공포증, 발표 공포 등)부터 막연한 불안감까지 폭넓게 쓰입니다.",
+    "etymologyKo": "overcome은 고대 영어 ofercuman(정복하다, 이기다)에서 유래했으며, fear는 고대 영어 fǣr(위험, 갑작스러운 재난)에서 왔습니다. 두 단어가 결합하여 '두려움을 정복하다'라는 의미로 자연스럽게 사용됩니다.",
+    "nuanceKo": "overcome은 단순히 '참는다'가 아니라 적극적으로 맞서서 '이겨낸다'는 뉘앙스를 담고 있어, 노력과 용기가 수반되는 느낌을 줍니다.",
+    "shortExampleEn": "He finally overcame his fear of flying and booked a trip abroad.",
+    "shortExampleKo": "그는 마침내 비행 공포증을 극복하고 해외여행을 예약했다."
+  }
+}

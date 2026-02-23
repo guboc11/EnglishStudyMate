@@ -1,0 +1,32 @@
+{
+  "id": "give-off_29d84252",
+  "expression": "give off",
+  "selectionMeta": {
+    "selectedPhrase": "give off",
+    "selectedSenseLabelKo": "냄새/빛을 내다",
+    "selectedDomain": "general",
+    "selectedLevel": "B2",
+    "selectedType": "phrasal_verb"
+  },
+  "step1": {
+    "sentence": "The old leather jacket gives off a rich, earthy smell whenever it gets wet."
+  },
+  "step2": {
+    "story": "Maya walked into the kitchen and immediately noticed something burning. The toaster was giving off thick gray smoke, filling the entire room. She quickly unplugged it and opened every window to let the air clear out.",
+    "topicTag": "kitchen accident",
+    "moodTag": "alarmed"
+  },
+  "step3": {
+    "story": "The abandoned factory on the edge of town had been closed for over a decade, but it still gave off a strange chemical odor that drifted through the neighborhood on warm evenings. Residents had complained to the city council dozens of times, yet nothing changed. One evening, a young journalist named Sora decided to investigate. She parked near the rusted gate and noticed the building was giving off a faint greenish glow from the basement windows. Her heart raced as she documented everything with her camera, determined to finally expose the truth. The story she published the next week forced the authorities to launch a full environmental cleanup.",
+    "topicTag": "environmental investigation",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 밖으로 내보내다, 방출하다라는 뜻입니다.",
+    "realUsageKo": "냄새, 빛, 열, 연기 등 감각으로 느낄 수 있는 것을 자연스럽게 발산할 때 사용합니다. 사람이 특정 분위기나 인상을 풍길 때도 비유적으로 쓰입니다.",
+    "etymologyKo": "'give'(주다)와 'off'(떨어져 나가는 방향)가 결합된 구동사로, 어떤 물질이나 에너지가 대상으로부터 자연스럽게 빠져나온다는 이미지에서 유래했습니다.",
+    "nuanceKo": "의도적으로 내뿜는 것이 아니라 자연스럽게 발산되는 느낌입니다. 부정적인 맥락(악취, 연기)에서 자주 쓰이지만, 빛이나 온기처럼 긍정적 맥락에서도 사용됩니다.",
+    "shortExampleEn": "These flowers give off a sweet fragrance at night.",
+    "shortExampleKo": "이 꽃들은 밤에 달콤한 향기를 풍긴다."
+  }
+}

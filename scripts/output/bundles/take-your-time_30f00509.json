@@ -1,0 +1,30 @@
+{
+  "id": "take-your-time_30f00509",
+  "expression": "take your time",
+  "selectionMeta": {
+    "selectedPhrase": "take your time",
+    "selectedSenseLabelKo": "천천히 해라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "There's no rush to finish the report, so take your time and make sure everything is accurate."
+  },
+  "step2": {
+    "story": "Mina stared at the job application form, her hands trembling with anxiety. Her older sister sat beside her and said, \"Take your time — there's no deadline until Friday.\" Mina exhaled slowly, picked up her pen, and began writing with a steadier hand.",
+    "topicTag": "overcoming anxiety",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "Daniel had just moved to a new city and felt pressured to make friends immediately. Every weekend, he forced himself to attend networking events, but the conversations always felt shallow and exhausting. One evening, his therapist reminded him, \"Take your time — meaningful connections aren't built overnight.\" Daniel decided to stop rushing and instead joined a small weekend hiking group that matched his interests. Over the following months, he naturally bonded with a few regulars on the trail. He realized that the best relationships grew slowly, like the wildflowers along the mountain path.",
+    "topicTag": "building friendships",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '너의 시간을 가져라'로, 서두르지 말고 충분한 시간을 들이라는 뜻입니다.",
+    "realUsageKo": "상대방에게 급하지 않으니 편하게 천천히 하라고 안심시킬 때 사용합니다. 압박감을 줄여주는 배려의 표현입니다.",
+    "etymologyKo": "중세 영어 시대부터 사용된 표현으로, 'take'는 '취하다/갖다'의 의미로 시간을 충분히 확보하라는 뜻에서 유래했습니다.",
+    "nuanceKo": "따뜻하고 배려하는 톤의 표현으로, 상대가 서두르고 있거나 불안해할 때 주로 씁니다. 명령문 형태지만 부드러운 권유에 가깝습니다.",
+    "shortExampleEn": "Take your time choosing — we're in no hurry.",
+    "shortExampleKo": "천천히 골라, 우리 안 급해."
+  }
+}

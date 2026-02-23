@@ -1,0 +1,30 @@
+{
+  "id": "lose-your-cool_6e38aa09",
+  "expression": "lose your cool",
+  "selectionMeta": {
+    "selectedPhrase": "lose your cool",
+    "selectedSenseLabelKo": "평정심을 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I almost lost my cool when the client changed the deadline for the third time this week."
+  },
+  "step2": {
+    "story": "The meeting had been going in circles for over an hour. When the manager suggested starting the project from scratch, Jake finally lost his cool and slammed his notebook on the table. Everyone went silent, and he immediately regretted the outburst.",
+    "topicTag": "work stress",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Sarah had been practicing deep breathing all morning, determined to stay calm during her performance review. Her boss began listing every small mistake she had made over the past quarter, one after another. She clenched her fists under the table, feeling the heat rise in her chest. When he casually mentioned that her promotion would be delayed again, she nearly lost her cool right there. But she took a slow breath, steadied her voice, and asked what specific goals she needed to meet. Walking out of the office afterward, she felt proud that she had kept her composure when it mattered most.",
+    "topicTag": "self-control",
+    "moodTag": "tense but resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'자신의 차가움(냉정함)을 잃다'라는 뜻으로, 침착함을 유지하지 못하는 상황을 표현합니다.",
+    "realUsageKo": "화가 나거나 스트레스를 받아서 평정심을 잃고 감정적으로 반응할 때 사용합니다. 주로 참고 있던 감정이 폭발하는 순간을 묘사합니다.",
+    "etymologyKo": "'cool'은 1960년대부터 '침착함, 냉정함'이라는 의미로 쓰였으며, 'keep your cool(냉정을 유지하다)'의 반대 표현으로 'lose your cool'이 자연스럽게 생겨났습니다.",
+    "nuanceKo": "일상 대화에서 자주 쓰이는 캐주얼한 표현입니다. 단순히 화를 내는 것보다 '참다가 결국 폭발했다'는 뉘앙스가 강합니다.",
+    "shortExampleEn": "Don't lose your cool — just explain the situation calmly.",
+    "shortExampleKo": "평정심을 잃지 마 — 그냥 상황을 차분하게 설명해."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "reach-out_a6a4b236",
+  "expression": "reach out",
+  "selectionMeta": {
+    "selectedPhrase": "reach out",
+    "selectedSenseLabelKo": "연락하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I decided to reach out to my old college friend after seeing her post online."
+  },
+  "step2": {
+    "story": "Mina had been struggling with a big project at work for weeks. She finally decided to reach out to a former colleague who had experience in the field. That one phone call changed everything and gave her the direction she needed.",
+    "topicTag": "work challenges",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jake stared at his phone for the third time that evening, scrolling past the same contact name. He and David had been best friends through high school, but a stupid argument five years ago had ended everything. Now, hearing that David was going through a rough divorce, Jake felt a pull he couldn't ignore. He took a deep breath and decided to reach out with a simple text: 'Hey, I heard what's going on. I'm here if you need to talk.' Within seconds, the typing indicator appeared. Sometimes all it takes is one person brave enough to break the silence.",
+    "topicTag": "reconnecting with old friends",
+    "moodTag": "vulnerable"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '손을 뻗다'라는 뜻으로, 물리적으로 팔을 뻗는 동작을 나타냅니다.",
+    "realUsageKo": "실제로는 누군가에게 연락하거나 도움을 요청할 때 사용합니다. 특히 오랜만에 연락하거나, 도움이 필요해서 먼저 다가가는 뉘앙스가 강합니다.",
+    "etymologyKo": "'reach'(닿다, 뻗다)와 'out'(바깥으로)의 결합으로, 물리적으로 손을 뻗는 행위에서 비유적으로 '누군가에게 다가가다/연락하다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 '연락하다'보다 적극적이고 따뜻한 느낌이 있습니다. 도움을 주거나 받기 위해, 또는 관계를 회복하기 위해 먼저 다가가는 뉘앙스를 담고 있어 비즈니스와 일상 모두에서 자주 쓰입니다.",
+    "shortExampleEn": "Don't hesitate to reach out if you need any help.",
+    "shortExampleKo": "도움이 필요하면 주저하지 말고 연락하세요."
+  }
+}

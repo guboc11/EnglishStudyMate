@@ -1,0 +1,30 @@
+{
+  "id": "wolf-in-sheep's-clothing_1482bc19",
+  "expression": "wolf in sheep's clothing",
+  "selectionMeta": {
+    "selectedPhrase": "wolf in sheep's clothing",
+    "selectedSenseLabelKo": "양의 탈을 쓴 늑대",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Be careful around the new manager — he acts friendly, but several employees think he's a wolf in sheep's clothing."
+  },
+  "step2": {
+    "story": "Everyone at the office loved the new consultant who always smiled and offered help. But after a few weeks, they realized he had been secretly reporting their mistakes to upper management to get them fired. He was a true wolf in sheep's clothing.",
+    "topicTag": "workplace betrayal",
+    "moodTag": "suspicious"
+  },
+  "step3": {
+    "story": "When David joined the neighborhood volunteer group, he seemed like the kindest person anyone had ever met. He organized charity events, helped elderly residents carry groceries, and always had warm words for everyone. But slowly, people noticed money disappearing from the group's donation fund. An investigation revealed that David had been skimming cash for months, using his good reputation as a cover. The whole community was shocked to learn that their most trusted member was nothing but a wolf in sheep's clothing. It was a painful reminder that appearances can be deeply deceiving.",
+    "topicTag": "trust and deception",
+    "moodTag": "disillusioned"
+  },
+  "meaning": {
+    "literalMeaningKo": "양의 옷을 입은 늑대라는 뜻으로, 겉보기에는 순하고 착해 보이지만 실제로는 위험하거나 악의적인 사람을 말합니다.",
+    "realUsageKo": "겉으로는 친절하고 선한 척하지만 속으로는 나쁜 의도를 품고 있는 사람을 경고하거나 묘사할 때 사용합니다. '저 사람 믿지 마, 양의 탈을 쓴 늑대야'처럼 씁니다.",
+    "etymologyKo": "성경 마태복음 7장 15절 '거짓 선지자들을 삼가라 양의 옷을 입고 너희에게 나아오나 속에는 노략질하는 이리라'에서 유래한 표현입니다. 이솝 우화에도 비슷한 이야기가 등장합니다.",
+    "nuanceKo": "단순히 거짓말쟁이가 아니라, 의도적으로 선한 모습을 연기하며 신뢰를 악용하는 사람에게 쓰는 표현입니다. 상당히 강한 비난의 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Don't trust him — he's a wolf in sheep's clothing who only pretends to care.",
+    "shortExampleKo": "그를 믿지 마 — 관심 있는 척하는 양의 탈을 쓴 늑대야."
+  }
+}

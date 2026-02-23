@@ -1,0 +1,30 @@
+{
+  "id": "turn-into_1141333e",
+  "expression": "turn into",
+  "selectionMeta": {
+    "selectedPhrase": "turn into",
+    "selectedSenseLabelKo": "변하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The abandoned warehouse turned into a thriving community art center after the neighborhood came together to renovate it."
+  },
+  "step2": {
+    "story": "Maya started her morning walk under clear skies, but within an hour, the weather turned into a violent thunderstorm. She ducked into a small bookshop to wait it out. By the time the rain stopped, she had found three books she couldn't resist buying.",
+    "topicTag": "unexpected moments",
+    "moodTag": "whimsical"
+  },
+  "step3": {
+    "story": "When Leo first adopted the tiny, trembling kitten from the shelter, his roommates thought he was crazy. The apartment was small, and none of them had ever owned a pet. But within weeks, the nervous little creature turned into the most confident cat any of them had ever seen. She would strut across the kitchen counter, knock pens off desks, and demand belly rubs from every visitor. Leo's quiet apartment turned into a lively gathering spot because everyone wanted to see her antics. What started as a random act of kindness had turned into something that changed all their lives for the better.",
+    "topicTag": "personal growth",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "'turn'은 '돌다/변하다', 'into'는 '~안으로'라는 뜻으로, 직역하면 '~속으로 변하다'입니다.",
+    "realUsageKo": "어떤 사람이나 사물, 상황이 완전히 다른 형태나 상태로 바뀔 때 사용합니다. 물리적 변화뿐 아니라 성격, 분위기, 상황의 변화에도 폭넓게 쓰입니다.",
+    "etymologyKo": "'turn'은 고대 영어 'turnian'(회전하다)에서 유래했으며, 'into'와 결합하여 '방향을 틀어 다른 것이 되다'라는 의미로 발전했습니다.",
+    "nuanceKo": "단순한 변화보다는 본질적이고 눈에 띄는 변화를 강조할 때 자주 씁니다. 긍정적·부정적 변화 모두에 사용 가능하며, 일상 대화에서 매우 자연스러운 표현입니다.",
+    "shortExampleEn": "The caterpillar will eventually turn into a beautiful butterfly.",
+    "shortExampleKo": "그 애벌레는 결국 아름다운 나비로 변할 것이다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "chip-in_6ec70816",
+  "expression": "chip in",
+  "selectionMeta": {
+    "selectedPhrase": "chip in",
+    "selectedSenseLabelKo": "보태다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Everyone decided to chip in a few dollars to buy a farewell gift for our colleague."
+  },
+  "step2": {
+    "story": "The office was buzzing with excitement about Sarah's retirement party. When Mark suggested renting a nice venue, everyone was happy to chip in for the cost. Within an hour, they had collected more than enough to throw her an unforgettable celebration.",
+    "topicTag": "teamwork",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When the old community playground was damaged by a storm, the neighbors gathered to discuss what to do. Replacing the equipment would cost thousands, far more than the town budget could cover. One by one, families began to chip in whatever they could afford — some gave fifty dollars, others donated materials or their time. A local carpenter volunteered to rebuild the slide, and a retired teacher organized a bake sale. Within three weeks, the playground looked better than ever. It was a powerful reminder that when everyone chips in, even a small contribution can make a huge difference.",
+    "topicTag": "community spirit",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'칩(chip)'을 안에(in) 넣다, 즉 돈이나 자원을 공동의 목적에 보태다라는 뜻입니다.",
+    "realUsageKo": "여러 사람이 돈·노력·의견 등을 함께 보태는 상황에서 씁니다. '각자 조금씩 내다', '힘을 보태다'라는 의미로 일상에서 매우 자주 사용됩니다.",
+    "etymologyKo": "카드 게임에서 칩(chip)을 판돈으로 내놓는 데서 유래했습니다. 판에 칩을 넣는(in) 행위가 '자기 몫을 보태다'라는 비유로 확장되었습니다.",
+    "nuanceKo": "자발적이고 협력적인 느낌이 강합니다. 강제가 아니라 각자 기꺼이 참여한다는 뉘앙스를 담고 있어 긍정적인 맥락에서 주로 쓰입니다.",
+    "shortExampleEn": "We all chipped in to buy Mom a birthday cake.",
+    "shortExampleKo": "우리 모두 돈을 모아 엄마 생일 케이크를 샀다."
+  }
+}

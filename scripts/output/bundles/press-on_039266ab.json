@@ -1,0 +1,30 @@
+{
+  "id": "press-on_039266ab",
+  "expression": "press on",
+  "selectionMeta": {
+    "selectedPhrase": "press on",
+    "selectedSenseLabelKo": "계속 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the pouring rain and aching legs, the hikers decided to press on toward the mountain summit."
+  },
+  "step2": {
+    "story": "Maria had been studying for her medical exams for three exhausting months. When she failed her first practice test, she wanted to quit everything. But she reminded herself why she started and chose to press on, knowing that giving up was never really an option.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The startup had burned through most of its funding, and two co-founders had already left the team. Investors were losing patience, and the product still had critical bugs that needed fixing before launch. James sat alone in the empty office at midnight, staring at lines of code on his screen. He thought about updating his resume and going back to a comfortable corporate job. But then he remembered the thousands of users who had signed up for the beta, all waiting and believing in his vision. He took a deep breath and decided to press on, fixing one bug at a time until the sun came up.",
+    "topicTag": "startup life",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'눌러서 앞으로 나아가다'라는 뜻으로, 물리적으로 밀고 전진하는 이미지입니다.",
+    "realUsageKo": "어려움이나 장애물이 있음에도 포기하지 않고 계속 진행한다는 의미로 사용됩니다. 힘든 상황에서도 멈추지 않고 꿋꿋이 나아갈 때 쓰는 표현입니다.",
+    "etymologyKo": "'press'는 고대 프랑스어 'presser(누르다, 압박하다)'에서 유래했으며, 'on'과 결합하여 압박을 뚫고 앞으로 나아간다는 의미가 되었습니다.",
+    "nuanceKo": "단순히 '계속하다'보다 더 강한 의지와 결단이 담긴 표현입니다. 보통 역경이나 피로, 좌절 속에서도 포기하지 않겠다는 뉘앙스를 전달합니다.",
+    "shortExampleEn": "We need to press on if we want to finish before the deadline.",
+    "shortExampleKo": "마감 전에 끝내려면 계속 나아가야 합니다."
+  }
+}

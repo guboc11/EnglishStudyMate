@@ -1,0 +1,30 @@
+{
+  "id": "speak-volumes_cc498371",
+  "expression": "speak volumes",
+  "selectionMeta": {
+    "selectedPhrase": "speak volumes",
+    "selectedSenseLabelKo": "많은 것을 말해주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The fact that she stayed up all night to help you speaks volumes about her loyalty."
+  },
+  "step2": {
+    "story": "When the CEO resigned without giving a reason, the silence from the board spoke volumes. Employees began whispering in the hallways, reading between the lines. Sometimes what people don't say speaks volumes more than any official statement ever could.",
+    "topicTag": "corporate culture",
+    "moodTag": "uneasy"
+  },
+  "step3": {
+    "story": "Minjun had been working at the design firm for three years without a single promotion. He never complained, but his portfolio spoke volumes — every major client praised his work, and his projects consistently outperformed the team average. One Friday, he quietly placed a resignation letter on his manager's desk. The manager stared at the single page, stunned. No angry words, no dramatic exit. The empty chair on Monday morning spoke volumes about how the company had failed to recognize real talent.",
+    "topicTag": "career recognition",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '많은 양(volumes)을 말하다'로, 책 여러 권 분량만큼 많은 이야기를 전한다는 뜻입니다.",
+    "realUsageKo": "말이나 설명 없이도 어떤 행동, 표정, 상황 자체가 많은 것을 암시하거나 드러낼 때 사용합니다. '그것만 봐도 알 수 있다'는 뉘앙스입니다.",
+    "etymologyKo": "'Volume'은 원래 책 한 권을 뜻하는 라틴어 'volumen'에서 유래했습니다. 즉, 책 여러 권에 해당하는 양만큼 많은 것을 전달한다는 비유에서 이 표현이 생겨났습니다.",
+    "nuanceKo": "주로 긍정적이든 부정적이든 강한 인상을 남기는 상황에서 쓰이며, 직접적인 말보다 행동이나 상황이 더 많은 것을 보여준다는 점을 강조하는 표현입니다.",
+    "shortExampleEn": "Her smile spoke volumes about how relieved she was.",
+    "shortExampleKo": "그녀의 미소만 봐도 얼마나 안도했는지 알 수 있었다."
+  }
+}

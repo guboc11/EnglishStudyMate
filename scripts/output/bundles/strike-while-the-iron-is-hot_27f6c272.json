@@ -1,0 +1,30 @@
+{
+  "id": "strike-while-the-iron-is-hot_27f6c272",
+  "expression": "strike while the iron is hot",
+  "selectionMeta": {
+    "selectedPhrase": "strike while the iron is hot",
+    "selectedSenseLabelKo": "기회를 놓치지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company just announced a new funding round, so we need to strike while the iron is hot and pitch our proposal today."
+  },
+  "step2": {
+    "story": "After months of negotiation, the client finally seemed interested in our product. My manager pulled me aside and said we should strike while the iron is hot and send the contract immediately. By the end of the day, we had a signed deal.",
+    "topicTag": "business opportunity",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Jenna had been waiting for the perfect moment to ask her boss about a promotion. One Friday afternoon, the team exceeded their quarterly targets by a huge margin, and the whole office was buzzing with excitement. Her colleague nudged her and whispered, \"You should strike while the iron is hot.\" Jenna took a deep breath, knocked on her manager's door, and laid out her case with confidence. Her boss, still riding the high of the great results, listened carefully and agreed to move her up. Sometimes all you need is the right timing and a little courage.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "쇠가 뜨거울 때 두드려라 — 대장장이가 쇠를 달궜을 때 망치로 쳐야 형태를 잡을 수 있다는 뜻입니다.",
+    "realUsageKo": "좋은 기회가 왔을 때 망설이지 말고 바로 행동하라는 의미로 사용됩니다. 타이밍이 중요한 상황에서 즉각적인 행동을 촉구할 때 자주 쓰입니다.",
+    "etymologyKo": "대장장이(blacksmith)가 철을 불에 달군 뒤 뜨거울 때 망치로 두드려 원하는 모양을 만드는 작업에서 유래한 표현입니다. 14세기 영어 문헌에서부터 등장합니다.",
+    "nuanceKo": "긍정적이고 행동 지향적인 뉘앙스를 가집니다. 조언이나 격려의 맥락에서 주로 사용되며, 기회를 놓치면 후회한다는 암시가 담겨 있습니다.",
+    "shortExampleEn": "The housing prices just dropped — let's strike while the iron is hot and make an offer.",
+    "shortExampleKo": "집값이 방금 떨어졌어 — 기회를 놓치지 말고 바로 제안하자."
+  }
+}

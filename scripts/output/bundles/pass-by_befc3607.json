@@ -1,0 +1,30 @@
+{
+  "id": "pass-by_befc3607",
+  "expression": "pass by",
+  "selectionMeta": {
+    "selectedPhrase": "pass by",
+    "selectedSenseLabelKo": "지나치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I watched the parade pass by from my apartment window."
+  },
+  "step2": {
+    "story": "Emma sat at the café, staring out the window as strangers passed by on the sidewalk. She noticed an old friend among them but hesitated too long to wave. By the time she stood up, the moment had already passed by.",
+    "topicTag": "missed connections",
+    "moodTag": "wistful"
+  },
+  "step3": {
+    "story": "David had lived on the same street for over twenty years. Every morning, he would sit on his front porch with a cup of coffee and watch the neighborhood pass by. Children walked to school, joggers waved hello, and mail trucks made their rounds. But lately, he noticed things were changing. New faces passed by without a glance, and the old neighbors had moved away one by one. He realized that time doesn't just pass by — it takes pieces of your world with it.",
+    "topicTag": "change and nostalgia",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'pass'(지나가다) + 'by'(옆으로) → 옆을 지나가다, 지나치다.",
+    "realUsageKo": "사람이나 사물, 시간 등이 옆을 지나가거나 흘러가는 것을 표현할 때 씁니다. 물리적 이동뿐 아니라 시간이나 기회가 지나쳐 버리는 추상적 의미로도 자주 사용됩니다.",
+    "etymologyKo": "'pass'는 라틴어 'passus'(걸음)에서 유래했고, 'by'는 고대 영어에서 '옆에'를 뜻하는 전치사입니다. 두 단어가 결합해 '옆을 지나가다'라는 의미가 되었습니다.",
+    "nuanceKo": "단순히 물리적으로 지나가는 것 외에, 기회나 시간이 '그냥 지나쳐 버리다'라는 아쉬움의 뉘앙스로도 많이 쓰입니다. 'Don't let this chance pass by'처럼 기회를 놓치지 말라는 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "Don't let this opportunity pass you by.",
+    "shortExampleKo": "이 기회를 그냥 지나치지 마세요."
+  }
+}

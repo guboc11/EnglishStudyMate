@@ -1,0 +1,30 @@
+{
+  "id": "bang-for-your-buck_ad91bd1e",
+  "expression": "bang for your buck",
+  "selectionMeta": {
+    "selectedPhrase": "bang for your buck",
+    "selectedSenseLabelKo": "가성비",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "This laptop gives you the most bang for your buck if you're on a tight budget."
+  },
+  "step2": {
+    "story": "Mia spent weeks comparing smartphones before making a decision. Her coworker asked why she didn't just buy the most expensive one. \"I don't need the fanciest model — I want the best bang for my buck,\" she replied with a confident smile.",
+    "topicTag": "smart shopping",
+    "moodTag": "practical"
+  },
+  "step3": {
+    "story": "Jake had been saving for months to upgrade his home office. He visited three different stores, read dozens of reviews, and made a detailed spreadsheet comparing prices and features. His friends teased him for overthinking it, but Jake didn't care. When he finally chose a desk, chair, and monitor combo that cost half of what others had paid for similar setups, he felt proud. \"It's all about getting the most bang for your buck,\" he told his impressed roommate. Sometimes patience and research pay off more than a big wallet ever could.",
+    "topicTag": "budgeting",
+    "moodTag": "satisfied"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '당신의 돈(buck)에 대한 폭발(bang)'이라는 뜻입니다.",
+    "realUsageKo": "지불한 비용 대비 최대한의 가치를 얻는다는 의미로, 한국어의 '가성비가 좋다'와 거의 같은 뜻으로 쓰입니다. 물건뿐 아니라 시간, 노력 등 다양한 투자 대비 효과를 말할 때도 사용합니다.",
+    "etymologyKo": "1950년대 미국 국방 예산 논의에서 유래했습니다. 'buck'은 미국 달러의 속어이고, 'bang'은 군사 무기의 폭발력을 의미하여, 국방비 대비 군사력의 효율성을 표현한 것이 일상 표현으로 확산되었습니다.",
+    "nuanceKo": "일상적이고 캐주얼한 표현으로, 비격식적 대화에서 자주 쓰입니다. 긍정적인 뉘앙스가 강하며, 현명한 소비나 효율적인 선택을 강조할 때 사용합니다.",
+    "shortExampleEn": "For the price, this restaurant really gives you the best bang for your buck.",
+    "shortExampleKo": "가격 대비, 이 식당은 정말 가성비가 최고예요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cut-costs_23fdefc8",
+  "expression": "cut costs",
+  "selectionMeta": {
+    "selectedPhrase": "cut costs",
+    "selectedSenseLabelKo": "비용을 줄이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company decided to cut costs by switching to a cheaper supplier for office materials."
+  },
+  "step2": {
+    "story": "After reviewing the quarterly report, the manager called an urgent meeting. She explained that the department needed to cut costs by at least fifteen percent before the end of the year. The team brainstormed ideas, from reducing travel expenses to renegotiating vendor contracts.",
+    "topicTag": "budget management",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "When the startup's funding round fell through, the CEO gathered everyone in the conference room. Revenue was growing, but not fast enough to cover their burn rate. They had no choice but to cut costs across the board. First, they moved from their downtown office to a smaller co-working space. Then they froze all new hires and cancelled non-essential software subscriptions. It was painful, but six months later the company reached profitability and the team felt proud of what they had weathered together.",
+    "topicTag": "startup survival",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "비용(costs)을 잘라낸다(cut)는 뜻으로, 지출을 줄인다는 의미입니다.",
+    "realUsageKo": "회사나 개인이 경비를 절감하거나 예산을 축소할 때 널리 쓰입니다. 비즈니스 맥락에서 특히 자주 등장하며, 일상 대화에서도 생활비를 줄이는 상황에 사용합니다.",
+    "etymologyKo": "cut(자르다)과 costs(비용)의 직관적인 조합으로, 불필요한 지출을 '잘라내다'라는 비유에서 유래했습니다.",
+    "nuanceKo": "중립적인 표현이지만, 구조조정이나 해고를 동반하는 맥락에서는 다소 부정적인 뉘앙스를 가질 수 있습니다. 'reduce expenses'보다 간결하고 직접적인 어감입니다.",
+    "shortExampleEn": "We need to cut costs if we want to stay profitable this quarter.",
+    "shortExampleKo": "이번 분기에 수익을 유지하려면 비용을 줄여야 합니다."
+  }
+}

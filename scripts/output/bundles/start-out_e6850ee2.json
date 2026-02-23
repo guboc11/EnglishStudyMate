@@ -1,0 +1,30 @@
+{
+  "id": "start-out_e6850ee2",
+  "expression": "start out",
+  "selectionMeta": {
+    "selectedPhrase": "start out",
+    "selectedSenseLabelKo": "시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She started out as an intern at a small design firm before working her way up to creative director."
+  },
+  "step2": {
+    "story": "Jake started out selling homemade candles at weekend markets. Within a year, his unique scents caught the attention of a national retailer. Now he runs a workshop with five employees and can barely keep up with demand.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Mina first moved to Berlin, she started out teaching Korean to a handful of students in a rented classroom. The work was exhausting, and some months she struggled to cover rent. But word spread quickly about her creative teaching style, and soon her schedule was fully booked. She partnered with a local language school and began designing her own curriculum. Three years later, she launched an online platform that now serves thousands of learners worldwide. Looking back, she often says that those early, uncertain days were the ones that shaped her the most.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'밖으로 시작하다'라는 뜻으로, 어떤 일이나 경력의 출발점을 나타냅니다.",
+    "realUsageKo": "처음에 어떤 상태나 직업으로 시작했다는 의미로 사용됩니다. 주로 과거의 출발점을 회상하며 현재와 대비할 때 많이 씁니다.",
+    "etymologyKo": "'start'(시작하다)에 방향을 나타내는 'out'이 결합된 구동사로, '새로운 여정을 시작하여 나아가다'라는 느낌을 담고 있습니다.",
+    "nuanceKo": "단순히 '시작하다'보다 겸손한 출발이나 성장 과정의 첫 단계를 강조하는 뉘앙스가 있습니다. 성공 스토리를 이야기할 때 자주 등장합니다.",
+    "shortExampleEn": "He started out with nothing but a laptop and a dream.",
+    "shortExampleKo": "그는 노트북 한 대와 꿈 하나만 가지고 시작했다."
+  }
+}

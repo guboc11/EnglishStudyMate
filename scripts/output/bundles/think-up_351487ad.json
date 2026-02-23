@@ -1,0 +1,30 @@
+{
+  "id": "think-up_351487ad",
+  "expression": "think up",
+  "selectionMeta": {
+    "selectedPhrase": "think up",
+    "selectedSenseLabelKo": "생각해내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to think up a creative solution before the deadline tomorrow."
+  },
+  "step2": {
+    "story": "The marketing team sat around the table in silence, struggling to think up a fresh campaign idea. After an hour of brainstorming, Jenna suddenly grabbed a marker and sketched a concept on the whiteboard. Everyone leaned in, excited that someone had finally thought up something worth pitching.",
+    "topicTag": "teamwork",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel stared at the blank screen, knowing his boss expected a new product name by morning. He had already rejected dozens of options, and nothing felt right. He decided to take a walk through the park, hoping a change of scenery might help him think up something original. As he watched children building a sandcastle, an idea suddenly clicked. He rushed back to his desk and typed out the perfect name. Sometimes the best ideas come when you stop trying so hard to think them up.",
+    "topicTag": "creativity",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "'생각하다(think)'와 '위로(up)'가 결합하여, 머릿속에서 아이디어를 끌어올린다는 뜻입니다.",
+    "realUsageKo": "새로운 아이디어나 계획, 해결책 등을 고안하거나 발명할 때 사용합니다. 'come up with'와 비슷한 의미로, 창의적인 사고를 강조하는 표현입니다.",
+    "etymologyKo": "'think'는 고대 영어 'þencan(생각하다)'에서 유래했으며, 'up'은 무언가를 떠올려 표면 위로 끌어올리는 이미지를 더합니다. 16세기부터 '고안하다'라는 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "일상적이고 자연스러운 표현으로, 격식 없는 대화에서 자주 쓰입니다. 'devise'나 'invent'보다 가볍고 친근한 느낌을 줍니다.",
+    "shortExampleEn": "Can you think up a better excuse than that?",
+    "shortExampleKo": "그것보다 더 나은 변명을 생각해낼 수 있어?"
+  }
+}

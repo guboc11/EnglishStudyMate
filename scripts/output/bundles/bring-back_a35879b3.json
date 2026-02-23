@@ -1,0 +1,30 @@
+{
+  "id": "bring-back_a35879b3",
+  "expression": "bring back",
+  "selectionMeta": {
+    "selectedPhrase": "bring back",
+    "selectedSenseLabelKo": "돌려놓다 / 기억을 되살리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The old song brought back memories of my childhood summers."
+  },
+  "step2": {
+    "story": "Sarah found her grandmother's recipe book in the attic. The smell of the pages brought back warm memories of baking together every Sunday morning. She decided to make the apple pie recipe that very afternoon.",
+    "topicTag": "nostalgia",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "While cleaning out his old bedroom, Daniel stumbled upon a box of photographs from high school. Each picture brought back a flood of memories — the pranks, the friendships, the late-night study sessions before exams. He paused at one photo of him and his best friend Marcus at graduation, both grinning wide. They had drifted apart over the years, but seeing that image made him want to bring back that closeness. He picked up his phone and sent Marcus a message: 'Hey, been thinking about the old days. Want to grab coffee sometime?' A minute later, three dots appeared on the screen.",
+    "topicTag": "friendship",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 원래 있던 곳이나 상태로 돌려놓다.",
+    "realUsageKo": "물건이나 사람을 되돌려 놓는다는 의미 외에도, 과거의 기억이나 감정을 다시 떠오르게 할 때 자주 사용된다.",
+    "etymologyKo": "'bring'(가져오다)과 'back'(뒤로, 다시)이 결합된 구동사로, 무언가를 이전 상태나 장소로 되돌린다는 개념에서 유래했다.",
+    "nuanceKo": "기억이나 감정과 함께 쓰일 때는 주로 그리움이나 감성적인 뉘앙스를 띠며, 물건을 돌려준다는 의미로 쓰일 때는 중립적인 톤이다.",
+    "shortExampleEn": "The scent of pine trees brings back memories of camping with my family.",
+    "shortExampleKo": "소나무 향기가 가족과 캠핑하던 기억을 되살려 준다."
+  }
+}

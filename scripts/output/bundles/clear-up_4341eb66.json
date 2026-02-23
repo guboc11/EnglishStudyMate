@@ -1,0 +1,30 @@
+{
+  "id": "clear-up_4341eb66",
+  "expression": "clear up",
+  "selectionMeta": {
+    "selectedPhrase": "clear up",
+    "selectedSenseLabelKo": "해결되다 / 맑아지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I hope this misunderstanding between us will clear up soon."
+  },
+  "step2": {
+    "story": "After days of tension, the team finally sat down to talk things through. By the end of the meeting, the confusion about the project deadline had cleared up. Everyone left the room feeling relieved and ready to move forward.",
+    "topicTag": "workplace misunderstanding",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Maya had been worried all week about the argument she had with her best friend. She replayed the conversation over and over, unsure where things had gone wrong. On Saturday morning, she finally called and they talked for over an hour. Piece by piece, the misunderstanding began to clear up as they each shared their perspective. By the time they hung up, the awkwardness had completely faded. Maya stepped outside and noticed the sky had cleared up too, as if the world was echoing how she felt inside.",
+    "topicTag": "friendship conflict",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'clear up'는 문자 그대로 '맑게 하다' 또는 '깨끗하게 정리하다'라는 뜻이다.",
+    "realUsageKo": "실제로는 두 가지 의미로 자주 쓰인다. 첫째, 오해나 문제가 '해소되다/해결되다'의 뜻으로 쓰이고, 둘째, 날씨가 '맑아지다'의 뜻으로도 쓰인다.",
+    "etymologyKo": "'clear'는 라틴어 'clarus(밝은, 명확한)'에서 유래했으며, 'up'은 완료나 강조를 더하는 부사로, 합쳐서 '완전히 밝혀지다/해소되다'라는 의미를 형성했다.",
+    "nuanceKo": "문제나 갈등이 자연스럽게 해소될 때 주로 쓰이며, 긍정적이고 홀가분한 뉘앙스를 담고 있다. 날씨 맥락에서는 구름이 걷히고 해가 나는 상황을 묘사할 때 사용된다.",
+    "shortExampleEn": "The weather should clear up by this afternoon.",
+    "shortExampleKo": "오늘 오후쯤이면 날씨가 맑아질 거야."
+  }
+}

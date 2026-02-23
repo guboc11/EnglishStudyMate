@@ -1,0 +1,30 @@
+{
+  "id": "open-up-to_5063851c",
+  "expression": "open up to",
+  "selectionMeta": {
+    "selectedPhrase": "open up to",
+    "selectedSenseLabelKo": "마음을 열다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took her a few months, but she finally started to open up to her new coworkers about her life outside of work."
+  },
+  "step2": {
+    "story": "Jake had always kept his feelings bottled up, never letting anyone see what was really going on inside. But after his friend stayed up all night just to listen, he decided to open up to her about the anxiety he'd been carrying for years. It felt like a weight had been lifted off his chest.",
+    "topicTag": "friendship",
+    "moodTag": "vulnerable"
+  },
+  "step3": {
+    "story": "When Mina first joined the support group, she sat in the corner with her arms crossed, barely making eye contact. Week after week, she listened to others share their stories of loss and recovery. One evening, a woman named Clara spoke about losing her mother, and Mina felt tears forming before she could stop them. The next session, she raised her hand and began to open up to the group about her own grief. Her voice trembled, but nobody interrupted. By the time she finished, she realized that being honest with strangers had somehow made her feel less alone.",
+    "topicTag": "emotional healing",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 (마음을) 열다, 즉 감정이나 생각을 솔직하게 드러내다.",
+    "realUsageKo": "평소에 잘 말하지 않던 속마음이나 개인적인 이야기를 누군가에게 털어놓을 때 사용합니다. 신뢰가 생긴 후 감정적으로 솔직해지는 과정을 표현합니다.",
+    "etymologyKo": "'open up'은 물리적으로 문이나 뚜껑을 여는 것에서 비유적으로 마음의 문을 여는 의미로 확장되었고, 'to'는 그 대상(상대방)을 가리킵니다.",
+    "nuanceKo": "단순히 말을 많이 하는 것이 아니라, 감정적 장벽을 낮추고 진솔하게 자신을 드러내는 뉘앙스가 있습니다. 약간의 용기가 필요한 행위를 암시합니다.",
+    "shortExampleEn": "He doesn't open up to people easily.",
+    "shortExampleKo": "그는 사람들에게 쉽게 마음을 열지 않는다."
+  }
+}

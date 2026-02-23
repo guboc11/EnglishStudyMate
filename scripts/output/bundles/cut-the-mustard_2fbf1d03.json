@@ -1,0 +1,30 @@
+{
+  "id": "cut-the-mustard_2fbf1d03",
+  "expression": "cut the mustard",
+  "selectionMeta": {
+    "selectedPhrase": "cut the mustard",
+    "selectedSenseLabelKo": "기준에 부합하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new intern really cuts the mustard — she handled three client calls on her first day without breaking a sweat."
+  },
+  "step2": {
+    "story": "Marcus had been a temp worker for six months, hoping to land a permanent position. After his flawless presentation to the board, his manager smiled and said, \"You definitely cut the mustard — welcome to the team.\" Marcus felt a wave of relief wash over him.",
+    "topicTag": "career achievement",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jenna had dreamed of joining the city orchestra ever since she picked up the violin at age seven. For years she practiced four hours a day, sacrificing weekends and holidays. When the audition day finally arrived, her hands trembled as she lifted her bow. She played Tchaikovsky's Violin Concerto with every ounce of emotion she had. The judges exchanged glances and nodded approvingly. \"Congratulations,\" the lead judge announced. \"You more than cut the mustard — that was outstanding.\"",
+    "topicTag": "pursuing a dream",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '겨자를 자르다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '기대나 기준에 부합하다', '요구되는 수준을 충족하다'라는 의미로 사용됩니다. 주로 누군가의 능력이나 성과가 충분한지를 평가할 때 씁니다.",
+    "etymologyKo": "19세기 말 미국 속어에서 유래했으며, 'mustard'가 당시 '최고의 것'을 뜻하는 슬랭으로 쓰였다는 설이 유력합니다. 또 다른 설로는 겨자 수확이 힘든 작업이라 '어려운 일을 해내다'에서 왔다고도 합니다.",
+    "nuanceKo": "주로 부정문이나 의문문에서 많이 쓰이며('can't cut the mustard'), 누군가의 역량이 부족할 때 완곡하게 표현하는 뉘앙스가 있습니다. 격식체보다는 일상 대화에서 자주 사용됩니다.",
+    "shortExampleEn": "If you can't cut the mustard, you'll be replaced.",
+    "shortExampleKo": "기준에 미치지 못하면 교체될 거야."
+  }
+}

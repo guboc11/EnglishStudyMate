@@ -1,0 +1,30 @@
+{
+  "id": "pick-up-the-pace_9a6c6f18",
+  "expression": "pick up the pace",
+  "selectionMeta": {
+    "selectedPhrase": "pick up the pace",
+    "selectedSenseLabelKo": "속도를 높이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We need to pick up the pace if we want to finish the project before the deadline."
+  },
+  "step2": {
+    "story": "The team had been working steadily for weeks, but the client moved the deadline up by ten days. During the Monday meeting, the project manager looked at everyone and said, \"We have to pick up the pace — no more long lunch breaks until this ships.\" By Friday, they had completed twice as much as the previous week.",
+    "topicTag": "work pressure",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Maya signed up for her first marathon, confident that her casual jogging routine would carry her through. But during the training camp, the coach kept shouting at her to pick up the pace whenever she fell behind the group. At first, she resented the constant pushing — her legs burned, and her lungs screamed for air. Slowly, though, she noticed that her average speed was improving week after week. On race day, she found herself overtaking runners who had started faster but couldn't maintain their energy. She crossed the finish line in under four hours, grinning through her exhaustion, grateful for every painful training session that had forced her to go faster.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '속도를 집어 올리다'로, 진행 속도를 끌어올린다는 뜻입니다.",
+    "realUsageKo": "일이나 활동의 속도를 높여야 할 때 사용합니다. 일상 대화, 운동, 업무 등 다양한 상황에서 '더 빨리 하자', '속도를 내자'라는 의미로 폭넓게 쓰입니다.",
+    "etymologyKo": "'pace'는 라틴어 'passus(걸음)'에서 유래했으며, 'pick up'은 무언가를 들어 올린다는 의미에서 속도를 끌어올린다는 비유적 표현으로 발전했습니다.",
+    "nuanceKo": "격식/비격식 모두 사용 가능하며, 약간의 긴박감이나 독려의 뉘앙스를 담고 있습니다. 명령조로 쓰이면 압박감을 줄 수 있고, 자기 자신에게 쓰면 자기 동기부여의 느낌입니다.",
+    "shortExampleEn": "Let's pick up the pace — we're falling behind schedule.",
+    "shortExampleKo": "속도를 좀 높이자 — 일정에 뒤처지고 있어."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "add-up_cd5c4d4c",
+  "expression": "add up",
+  "selectionMeta": {
+    "selectedPhrase": "add up",
+    "selectedSenseLabelKo": "말이 되다 / 합산되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His explanation just doesn't add up — there are too many gaps in the story."
+  },
+  "step2": {
+    "story": "The detective stared at the suspect's alibi, but nothing seemed to add up. The timestamps on the security footage contradicted every word he said. She knew he was hiding something.",
+    "topicTag": "mystery",
+    "moodTag": "suspicious"
+  },
+  "step3": {
+    "story": "After weeks of reviewing the company's financial records, Maya finally understood why the numbers weren't adding up. Small discrepancies had been buried across dozens of spreadsheets, each one insignificant on its own. But when she totaled them together, the missing amount added up to over fifty thousand dollars. She brought her findings to the CFO, who turned pale. It didn't add up that someone so senior could have missed this. By the end of the day, an internal investigation was launched.",
+    "topicTag": "corporate investigation",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'더하다(add)'와 '위로/합쳐서(up)'가 결합하여 숫자나 사실을 합산한다는 뜻입니다.",
+    "realUsageKo": "숫자를 합산할 때도 쓰이지만, 일상에서는 '말이 되다', '앞뒤가 맞다'라는 의미로 더 자주 사용됩니다. 부정형(doesn't add up)으로 '뭔가 이상하다, 앞뒤가 안 맞다'는 뉘앙스를 전달합니다.",
+    "etymologyKo": "수학에서 숫자를 더해 합계를 구하는 기본 의미에서 출발하여, 사실이나 상황이 논리적으로 '합이 맞다'는 비유적 표현으로 확장되었습니다.",
+    "nuanceKo": "긍정형보다 부정형(doesn't add up)이 훨씬 자주 쓰이며, 의심이나 불신을 부드럽게 표현할 때 유용합니다. 격식/비격식 모두 사용 가능합니다.",
+    "shortExampleEn": "The expenses don't add up — we're missing a receipt somewhere.",
+    "shortExampleKo": "경비 내역이 맞지 않아요 — 어딘가 영수증이 빠진 것 같습니다."
+  }
+}

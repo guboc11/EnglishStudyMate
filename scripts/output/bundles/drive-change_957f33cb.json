@@ -1,0 +1,30 @@
+{
+  "id": "drive-change_957f33cb",
+  "expression": "drive change",
+  "selectionMeta": {
+    "selectedPhrase": "drive change",
+    "selectedSenseLabelKo": "변화를 이끌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new CEO is determined to drive change across every department in the company."
+  },
+  "step2": {
+    "story": "Maya had been frustrated with the outdated processes at her company for years. When she was promoted to team lead, she finally had the authority to drive change. Within six months, her department became the most efficient in the entire organization.",
+    "topicTag": "workplace leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel joined the nonprofit, he noticed that most of their outreach programs hadn't been updated in over a decade. Volunteers were burning out, and community engagement was declining steadily. He spent weeks interviewing staff and residents to understand what wasn't working. Armed with data and fresh ideas, Daniel presented a bold proposal to the board to drive change from the ground up. His plan restructured volunteer schedules, introduced digital tools, and created new partnerships with local businesses. By the end of the year, participation had doubled, proving that one person's vision could transform an entire organization.",
+    "topicTag": "community impact",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '변화를 운전하다/몰다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '변화를 주도하다, 변화를 이끌다'라는 의미로 사용됩니다. 단순히 변화에 참여하는 것이 아니라, 적극적으로 변화의 원동력이 되어 이끌어 나간다는 뉘앙스입니다.",
+    "etymologyKo": "'drive'는 원래 '몰다, 추진하다'라는 뜻으로, 마차나 가축을 몰듯이 무언가를 앞으로 밀고 나간다는 의미에서 비롯되었습니다. 여기에 'change'가 결합되어 변화를 적극적으로 추진한다는 표현이 되었습니다.",
+    "nuanceKo": "비즈니스, 리더십, 사회 변혁 맥락에서 자주 쓰이며, 긍정적이고 능동적인 어감을 가집니다. 리더나 혁신가의 역할을 강조할 때 적합한 표현입니다.",
+    "shortExampleEn": "Technology continues to drive change in how we communicate.",
+    "shortExampleKo": "기술은 우리가 소통하는 방식에 계속해서 변화를 이끌고 있다."
+  }
+}

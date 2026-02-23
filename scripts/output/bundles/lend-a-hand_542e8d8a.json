@@ -1,0 +1,30 @@
+{
+  "id": "lend-a-hand_542e8d8a",
+  "expression": "lend a hand",
+  "selectionMeta": {
+    "selectedPhrase": "lend a hand",
+    "selectedSenseLabelKo": "도와주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Could you lend a hand with carrying these boxes upstairs?"
+  },
+  "step2": {
+    "story": "Sarah noticed her elderly neighbor struggling to carry grocery bags from the car. She rushed over and offered to lend a hand, grabbing the heaviest bags without hesitation. Her neighbor smiled warmly and thanked her for the help.",
+    "topicTag": "community kindness",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When a massive storm knocked down several trees in the neighborhood, nobody knew where to start with the cleanup. Tom grabbed his chainsaw and headed outside, hoping others would lend a hand too. Within an hour, a dozen neighbors had gathered with rakes, gloves, and wheelbarrows. They worked side by side all morning, clearing driveways and sidewalks together. By noon, the street looked almost normal again. Tom realized that sometimes all it takes is one person to start, and others will follow.",
+    "topicTag": "teamwork",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '손을 빌려주다'라는 뜻입니다.",
+    "realUsageKo": "누군가를 도와주다, 도움의 손길을 내밀다는 의미로 사용됩니다. 일상적인 도움부터 큰 프로젝트까지 폭넓게 쓰입니다.",
+    "etymologyKo": "중세 영어 시대부터 사용된 표현으로, 물리적으로 손을 내밀어 돕는 행위에서 유래했습니다.",
+    "nuanceKo": "정중하고 따뜻한 느낌의 표현으로, 격식 없는 일상 대화에서 자주 쓰입니다. 'help'보다 더 친근하고 자발적인 느낌을 줍니다.",
+    "shortExampleEn": "Can you lend a hand with the dishes?",
+    "shortExampleKo": "설거지 좀 도와줄 수 있어?"
+  }
+}

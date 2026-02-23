@@ -1,0 +1,30 @@
+{
+  "id": "walk-away_8f58e94b",
+  "expression": "walk away",
+  "selectionMeta": {
+    "selectedPhrase": "walk away",
+    "selectedSenseLabelKo": "떠나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of being undervalued at work, she finally decided to walk away and start her own business."
+  },
+  "step2": {
+    "story": "Jake had poured three years into the startup, but the toxic culture was destroying his health. One Monday morning, he packed his desk quietly and walked away without looking back. Sometimes the bravest thing you can do is leave.",
+    "topicTag": "career change",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "Mina stared at the contract on the table, her pen hovering above the signature line. The deal was worth millions, but something felt deeply wrong about the terms. Her business partner kept pressuring her, insisting they would never get another chance like this. She set the pen down and pushed the papers back across the table. 'I'd rather walk away than compromise what we stand for,' she said firmly. As she stepped out of the conference room, a wave of relief washed over her — she knew she had made the right call.",
+    "topicTag": "integrity",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "걸어서 떠나다, 그 자리를 벗어나다.",
+    "realUsageKo": "단순히 물리적으로 떠나는 것뿐 아니라, 관계·직장·상황 등에서 더 이상 관여하지 않겠다고 결심하고 떠나는 것을 의미합니다. 포기보다는 '스스로 선택해서 빠지다'라는 뉘앙스가 강합니다.",
+    "etymologyKo": "'walk'(걷다)와 'away'(멀리)의 결합으로, 물리적 이동에서 출발해 비유적으로 '상황이나 관계를 떠나다'라는 의미로 확장되었습니다.",
+    "nuanceKo": "감정적으로 힘든 상황에서 자발적으로 떠나는 뉘앙스가 있으며, 용기 있는 결단이나 자존심을 지키는 행위로 쓰이는 경우가 많습니다. 부정적 의미로는 책임을 회피한다는 느낌도 있을 수 있습니다.",
+    "shortExampleEn": "You can't just walk away from your responsibilities.",
+    "shortExampleKo": "책임에서 그냥 손 떼고 떠날 수는 없어."
+  }
+}

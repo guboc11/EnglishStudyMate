@@ -1,0 +1,30 @@
+{
+  "id": "fend-off_94f508f3",
+  "expression": "fend off",
+  "selectionMeta": {
+    "selectedPhrase": "fend off",
+    "selectedSenseLabelKo": "막다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to fend off all the tough questions from the reporters during the press conference."
+  },
+  "step2": {
+    "story": "The small startup was growing fast, and bigger companies began trying to acquire it. The CEO had to fend off multiple hostile takeover attempts while keeping the team focused. In the end, their determination paid off and they stayed independent.",
+    "topicTag": "business survival",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "When Maya first opened her bakery in the neighborhood, she never expected the challenges that would follow. A large chain store moved in across the street and slashed their prices to steal her customers. For weeks, Maya struggled to fend off the competition by offering unique recipes and personal service. Her loyal regulars spread the word, and new customers began lining up each morning. Slowly, the chain store realized they couldn't beat the warmth of a local shop. Maya had fended off the threat not with money, but with heart.",
+    "topicTag": "local business competition",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'fend'는 '방어하다', 'off'는 '떨어뜨리다'로, 직역하면 '방어하여 떨어뜨리다'입니다.",
+    "realUsageKo": "공격, 위협, 비판, 원치 않는 접근 등을 성공적으로 막아내거나 물리칠 때 사용합니다. 물리적 공격뿐 아니라 질문, 경쟁, 유혹 등 추상적인 것도 대상이 됩니다.",
+    "etymologyKo": "'fend'는 'defend(방어하다)'의 축약형으로, 중세 영어에서 유래했습니다. 원래 검술에서 상대의 공격을 막아내는 동작을 가리켰습니다.",
+    "nuanceKo": "단순히 '막다'보다는 적극적으로 밀어내는 느낌이 강합니다. 상대가 계속 밀고 들어오는 상황에서 버텨내며 물리친다는 뉘앙스가 있습니다.",
+    "shortExampleEn": "He fended off the attacker with a chair.",
+    "shortExampleKo": "그는 의자로 공격자를 막아냈다."
+  }
+}

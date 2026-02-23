@@ -1,0 +1,30 @@
+{
+  "id": "cross-your-fingers_fd9c0386",
+  "expression": "cross your fingers",
+  "selectionMeta": {
+    "selectedPhrase": "cross your fingers",
+    "selectedSenseLabelKo": "행운을 빌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I'm crossing my fingers that the weather stays nice for our picnic tomorrow."
+  },
+  "step2": {
+    "story": "Sarah had been waiting weeks for the results of her university application. Every night before bed, she crossed her fingers and whispered a little wish. When the acceptance email finally arrived, she screamed with joy and called her mom right away.",
+    "topicTag": "university admission",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jake had spent three months preparing for his first marathon. On race day, dark clouds gathered overhead and the forecast predicted heavy rain. His best friend met him at the starting line and said, \"Cross your fingers — maybe the storm will pass.\" Jake laughed nervously and crossed his fingers on both hands. Miraculously, the rain held off until he crossed the finish line. Soaking wet but grinning, he held up his medal and said, \"I guess it worked.\"",
+    "topicTag": "marathon challenge",
+    "moodTag": "anxious but triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "손가락을 교차하다 — 중지를 검지 위에 올려 X자 모양을 만드는 동작을 뜻합니다.",
+    "realUsageKo": "좋은 결과가 나오길 바랄 때 '행운을 빌다'라는 의미로 씁니다. 시험, 면접, 발표 등 결과를 기다리는 상황에서 자주 사용합니다.",
+    "etymologyKo": "중세 유럽 기독교 문화에서 십자가 모양을 만들면 악을 막고 행운을 부른다고 믿었던 데서 유래했습니다.",
+    "nuanceKo": "가볍고 친근한 표현으로, 격식 없는 일상 대화에서 주로 쓰입니다. 진지한 기도보다는 '잘 되길 바라자!'에 가까운 톤입니다.",
+    "shortExampleEn": "Cross your fingers for me — I have a job interview today!",
+    "shortExampleKo": "행운을 빌어줘 — 오늘 면접이 있거든!"
+  }
+}

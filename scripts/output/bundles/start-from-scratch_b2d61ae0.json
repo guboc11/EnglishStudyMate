@@ -1,0 +1,30 @@
+{
+  "id": "start-from-scratch_b2d61ae0",
+  "expression": "start from scratch",
+  "selectionMeta": {
+    "selectedPhrase": "start from scratch",
+    "selectedSenseLabelKo": "처음부터 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the client rejected every draft, the design team had no choice but to start from scratch."
+  },
+  "step2": {
+    "story": "Maya spent three months building her portfolio website, but a server crash wiped everything out. She stared at the blank screen for a long moment, then took a deep breath and decided to start from scratch. This time, she backed everything up to the cloud.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel opened his bakery five years ago, he had a proven recipe book passed down from his grandmother. But after a kitchen fire destroyed the building and every handwritten note inside, he was left with nothing. Friends suggested he try a different career, but Daniel refused. He rented a tiny space across town and decided to start from scratch, experimenting with ingredients from memory. The first few batches were disasters, but slowly the familiar flavors returned. By the end of the year, loyal customers said the bread tasted even better than before.",
+    "topicTag": "rebuilding after loss",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'scratch'(출발선)에서부터 시작한다는 뜻으로, 아무것도 없는 상태에서 처음부터 다시 시작한다는 의미입니다.",
+    "realUsageKo": "기존 작업이나 결과물을 버리고 완전히 처음부터 다시 시작할 때 사용합니다. 프로젝트, 요리, 학습 등 다양한 상황에서 쓰입니다.",
+    "etymologyKo": "과거 육상 경기에서 출발선을 땅에 긁어(scratch) 표시한 데서 유래했습니다. 출발선에서 다시 시작한다는 의미가 '처음부터 다시'로 확장되었습니다.",
+    "nuanceKo": "보통 이전 시도가 실패하거나 불만족스러울 때 쓰이며, 힘들지만 새로운 시작에 대한 각오가 담긴 표현입니다. 부정적이기보다는 도전적인 뉘앙스가 강합니다.",
+    "shortExampleEn": "The code was too messy, so I decided to start from scratch.",
+    "shortExampleKo": "코드가 너무 지저분해서 처음부터 다시 작성하기로 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "look-up-to_4ccc63f2",
+  "expression": "look up to",
+  "selectionMeta": {
+    "selectedPhrase": "look up to",
+    "selectedSenseLabelKo": "존경하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've always looked up to my grandmother for her quiet strength and kindness."
+  },
+  "step2": {
+    "story": "When Jake started his first job, he felt completely lost. Fortunately, his manager Sarah was patient and always willing to teach. Over time, Jake truly looked up to her as a mentor who shaped his career.",
+    "topicTag": "mentorship",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "Growing up in a small town, Mina didn't have many role models around her. But every summer, her uncle visited from the city and told her stories about the world beyond their village. He spoke about the importance of curiosity and never giving up, no matter how hard things got. Mina looked up to him more than anyone else in her life. Years later, when she graduated from university as the first in her family, she called him first. She wanted him to know that his words had carried her all the way there.",
+    "topicTag": "family inspiration",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 올려다보다, 즉 자신보다 위에 있는 사람을 바라보는 것을 뜻합니다.",
+    "realUsageKo": "실제로는 누군가를 존경하거나 롤모델로 삼을 때 사용합니다. 주로 나이, 경험, 인품 등에서 본받고 싶은 사람에게 쓰는 표현입니다.",
+    "etymologyKo": "물리적으로 키가 큰 사람을 올려다보는 행위에서 비유적으로 확장되어, 존경하는 사람을 '올려다본다'는 의미로 발전했습니다.",
+    "nuanceKo": "단순한 호감이 아니라 진심 어린 존경과 동경의 뉘앙스를 담고 있습니다. 부모, 선생님, 멘토 등 인생에 영향을 준 사람에게 자주 쓰입니다.",
+    "shortExampleEn": "Many young athletes look up to her as a role model.",
+    "shortExampleKo": "많은 어린 선수들이 그녀를 롤모델로 존경합니다."
+  }
+}

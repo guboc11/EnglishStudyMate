@@ -1,0 +1,30 @@
+{
+  "id": "drive-someone-up-the-wall_19ddfca6",
+  "expression": "drive someone up the wall",
+  "selectionMeta": {
+    "selectedPhrase": "drive someone up the wall",
+    "selectedSenseLabelKo": "미치게 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My neighbor's dog barks all night long and it really drives me up the wall."
+  },
+  "step2": {
+    "story": "Jake's coworker had a habit of clicking his pen nonstop during meetings. The repetitive sound drove Jake up the wall, but he tried to stay calm. Finally, he politely offered his coworker a stress ball instead.",
+    "topicTag": "workplace habits",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Mina had just moved into her new apartment, excited for a fresh start. But within the first week, she discovered that her upstairs neighbor practiced tap dancing every evening from 9 to 11 PM. The constant tapping drove her up the wall, especially when she was trying to focus on her freelance projects. She left a friendly note on his door, suggesting quieter hours. To her surprise, he apologized and invited her to watch his upcoming recital. They ended up becoming good friends, and the tapping didn't bother her quite as much after that.",
+    "topicTag": "neighbor relations",
+    "moodTag": "lighthearted"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 벽 위로 올라가게 만들다는 뜻으로, 극도로 짜증나게 하거나 미치게 만든다는 의미입니다.",
+    "realUsageKo": "반복적이거나 성가신 행동이 극심한 짜증을 유발할 때 사용합니다. 예를 들어, 시끄러운 소음이나 누군가의 습관이 참기 어려울 정도로 신경 쓰일 때 씁니다.",
+    "etymologyKo": "벽을 기어오를 만큼 미칠 것 같다는 과장된 이미지에서 유래했습니다. 갇힌 공간에서 탈출하려는 듯한 극단적 좌절감을 표현합니다.",
+    "nuanceKo": "일상 대화에서 자주 쓰이는 캐주얼한 표현으로, 심각한 분노보다는 짜증이나 답답함의 뉘앙스가 강합니다. 유머러스하게 쓰이는 경우도 많습니다.",
+    "shortExampleEn": "Stop humming that song — it's driving me up the wall!",
+    "shortExampleKo": "그 노래 흥얼거리는 거 그만해 — 정말 미치겠어!"
+  }
+}

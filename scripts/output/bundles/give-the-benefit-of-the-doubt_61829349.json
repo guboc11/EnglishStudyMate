@@ -1,0 +1,30 @@
+{
+  "id": "give-the-benefit-of-the-doubt_61829349",
+  "expression": "give the benefit of the doubt",
+  "selectionMeta": {
+    "selectedPhrase": "give the benefit of the doubt",
+    "selectedSenseLabelKo": "일단 믿어주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I decided to give him the benefit of the doubt and trust that he had a good reason for being late."
+  },
+  "step2": {
+    "story": "When my coworker missed the morning meeting without any notice, everyone assumed the worst. But our manager said, \"Let's give her the benefit of the doubt — she's never been unreliable before.\" Sure enough, she had been stuck in an elevator for over an hour.",
+    "topicTag": "workplace trust",
+    "moodTag": "understanding"
+  },
+  "step3": {
+    "story": "Jake stared at the email from his business partner, Daniel, who had transferred company funds to an unfamiliar account. His first instinct was to call a lawyer. But then he remembered the years they'd spent building the company together — the late nights, the failures they'd survived side by side. He decided to give Daniel the benefit of the doubt and called him directly instead. Daniel answered on the first ring, panicked, explaining that their supplier had changed banks and demanded immediate payment to avoid losing a critical shipment. Jake exhaled slowly, relieved that trust had won over suspicion. Sometimes, giving someone the benefit of the doubt is the hardest — and most rewarding — choice you can make.",
+    "topicTag": "business partnership",
+    "moodTag": "tense but hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'의심의 이익을 주다'라는 뜻으로, 확실한 증거가 없을 때 상대방에게 유리하게 판단해 주는 것을 의미합니다.",
+    "realUsageKo": "상대방의 행동이나 말이 의심스럽지만, 확실한 근거가 없으니 일단 좋게 해석하고 믿어주겠다는 뜻으로 사용합니다. '일단은 네 말을 믿어볼게'라는 느낌입니다.",
+    "etymologyKo": "법률 용어에서 유래했습니다. 재판에서 피고인의 유죄가 확실히 증명되지 않으면 무죄로 추정하는 '의심스러울 때는 피고인에게 유리하게(benefit of the doubt)'라는 원칙에서 일상 표현으로 확장되었습니다.",
+    "nuanceKo": "단순히 믿는다는 것이 아니라, 의심이 드는 상황에서도 의도적으로 상대를 신뢰하기로 선택한다는 뉘앙스가 있습니다. 관대함과 성숙한 태도를 내포합니다.",
+    "shortExampleEn": "She was acting strangely, but I gave her the benefit of the doubt.",
+    "shortExampleKo": "그녀가 이상하게 행동했지만, 나는 일단 그녀를 믿어주기로 했다."
+  }
+}

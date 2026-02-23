@@ -1,0 +1,30 @@
+{
+  "id": "set-aside_cd14570b",
+  "expression": "set aside",
+  "selectionMeta": {
+    "selectedPhrase": "set aside",
+    "selectedSenseLabelKo": "따로 두다 / 무시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I try to set aside at least thirty minutes every evening to read before bed."
+  },
+  "step2": {
+    "story": "Mina and Jake had been arguing about the project deadline for days. Finally, their manager asked them to set aside their differences and focus on the client's needs. By the end of the week, they delivered the best presentation the team had ever seen.",
+    "topicTag": "teamwork",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "For years, Sujin dreamed of traveling to Iceland, but something always got in the way — bills, overtime, family obligations. One January morning, she decided enough was enough. She opened a new savings account and promised herself to set aside a fixed amount from every paycheck, no matter how small. Her coworkers laughed when she brought lunch from home instead of ordering out. Six months later, though, she was standing on a black sand beach, watching waves crash under the midnight sun. Sometimes you have to set aside the comfortable habits to make room for something extraordinary.",
+    "topicTag": "personal goals",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "'옆에 놓다'라는 뜻으로, 무언가를 따로 빼놓거나 한쪽에 치워두는 행위를 나타냅니다.",
+    "realUsageKo": "돈이나 시간을 특정 목적을 위해 '따로 마련해 두다'라는 뜻으로 자주 쓰이며, 감정이나 의견 차이를 '무시하다/접어두다'라는 의미로도 널리 사용됩니다.",
+    "etymologyKo": "'set'(놓다)과 'aside'(옆으로)의 결합으로, 물건을 옆으로 빼놓는 물리적 동작에서 출발해 추상적인 의미로 확장되었습니다.",
+    "nuanceKo": "긍정적 맥락에서는 계획적으로 준비한다는 뉘앙스이고, 갈등 상황에서는 성숙하게 감정을 접는다는 뉘앙스를 줍니다. 격식·비격식 모두 자연스럽게 쓰입니다.",
+    "shortExampleEn": "Let's set aside our disagreements and work together.",
+    "shortExampleKo": "의견 차이는 접어두고 함께 일합시다."
+  }
+}

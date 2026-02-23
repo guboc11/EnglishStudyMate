@@ -1,0 +1,30 @@
+{
+  "id": "make-hay-while-the-sun-shines_ea9bcc9b",
+  "expression": "make hay while the sun shines",
+  "selectionMeta": {
+    "selectedPhrase": "make hay while the sun shines",
+    "selectedSenseLabelKo": "좋을 때 최대한 활용하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company's stock price is soaring right now, so we should make hay while the sun shines and sell some shares to fund our expansion."
+  },
+  "step2": {
+    "story": "Tourist season was in full swing, and Maria's small beachside café was packed every evening. She decided to make hay while the sun shines, extending her hours and adding a breakfast menu. By the end of summer, she had saved enough to renovate the entire kitchen.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "After years of struggling as a freelance photographer, Joon finally got his big break when a travel magazine featured his work. Suddenly, brands and agencies started reaching out with offers. His mentor advised him to make hay while the sun shines, because the spotlight never lasts forever. So Joon worked sixteen-hour days, taking on every project he could manage. He built a portfolio that would speak for itself long after the buzz faded. Within six months, he had transformed a lucky moment into a sustainable career.",
+    "topicTag": "career growth",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "해가 비치는 동안 건초를 만들어라.",
+    "realUsageKo": "기회가 있을 때, 또는 상황이 유리할 때 최대한 활용하라는 뜻으로 사용됩니다. 지금 아니면 기회가 사라질 수 있으니 서두르라는 느낌을 담고 있습니다.",
+    "etymologyKo": "농경 시대에 건초는 햇볕에 말려야 했기 때문에, 날씨가 좋은 날에 최대한 많은 건초를 만들어야 했던 데서 유래했습니다. 16세기 영국 속담으로 처음 기록되었습니다.",
+    "nuanceKo": "긍정적이고 실용적인 조언의 느낌입니다. 격식/비격식 모두 사용 가능하며, 게으름을 경계하기보다는 좋은 시기를 놓치지 말라는 격려의 뉘앙스가 강합니다.",
+    "shortExampleEn": "Interest rates are low right now — let's make hay while the sun shines and refinance the mortgage.",
+    "shortExampleKo": "지금 금리가 낮으니까, 좋을 때 최대한 활용해서 주택 담보 대출을 재융자하자."
+  }
+}

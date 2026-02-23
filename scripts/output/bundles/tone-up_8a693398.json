@@ -1,0 +1,30 @@
+{
+  "id": "tone-up_8a693398",
+  "expression": "tone up",
+  "selectionMeta": {
+    "selectedPhrase": "tone up",
+    "selectedSenseLabelKo": "몸을 탄탄하게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've been going to the gym every morning to tone up before summer."
+  },
+  "step2": {
+    "story": "After months of working from home, Maya noticed her clothes fitting differently. She signed up for a fitness class three times a week to tone up. Within two months, she felt stronger and more energetic than ever.",
+    "topicTag": "fitness routine",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Jake had always been slim but never really athletic. When his company organized a charity hiking trip, he realized he could barely keep up on the practice trails. Embarrassed but determined, he started a simple workout plan—push-ups, squats, and short jogs every evening after work. His goal wasn't to bulk up but simply to tone up and build some functional strength. After six weeks, the difference was remarkable. On the day of the hike, he reached the summit with energy to spare, grinning at how far he'd come.",
+    "topicTag": "personal challenge",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'tone'은 근육의 긴장도를 뜻하고, 'up'은 높이다/향상시키다라는 뜻으로, 근육의 탄력을 높인다는 의미입니다.",
+    "realUsageKo": "살을 빼는 것보다는 몸매를 탄탄하게 다듬는 데 초점을 둘 때 사용합니다. 가벼운 운동이나 꾸준한 트레이닝으로 체형을 개선하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'tone'은 라틴어 'tonus'(긴장, 탄력)에서 유래했으며, 근육이 적절한 긴장 상태를 유지하는 것을 의미합니다. 여기에 'up'이 결합되어 '탄력을 높이다'라는 구동사가 되었습니다.",
+    "nuanceKo": "벌크업(bulk up)처럼 근육을 크게 키우는 것이 아니라, 기존 체형에서 군살을 빼고 탄탄하게 만든다는 가벼운 느낌입니다. 일상적이고 긍정적인 뉘앙스를 가집니다.",
+    "shortExampleEn": "She does yoga every day to tone up her arms and legs.",
+    "shortExampleKo": "그녀는 팔과 다리를 탄탄하게 하려고 매일 요가를 합니다."
+  }
+}

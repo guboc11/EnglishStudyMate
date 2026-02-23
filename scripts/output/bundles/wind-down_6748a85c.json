@@ -1,0 +1,30 @@
+{
+  "id": "wind-down_6748a85c",
+  "expression": "wind down",
+  "selectionMeta": {
+    "selectedPhrase": "wind down",
+    "selectedSenseLabelKo": "긴장을 풀다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a hectic week at work, I like to wind down by reading a book on the couch."
+  },
+  "step2": {
+    "story": "James had been staring at spreadsheets for twelve hours straight. He finally closed his laptop, made a cup of chamomile tea, and sat by the window to wind down. The quiet hum of the city at night slowly melted his tension away.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sophie had promised herself she would stop bringing work home, but tonight was different — a product launch had gone sideways. She dropped her bag by the door and kicked off her shoes. The apartment was dark and still. She lit a candle, ran a warm bath, and put on her favorite jazz playlist. As she sank into the water, she finally began to wind down. By the time the last song faded out, the knots in her shoulders had loosened and her mind felt clear again.",
+    "topicTag": "self-care",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'wind'(감다)와 'down'(아래로)이 합쳐져, 태엽이 풀리듯 서서히 느슨해진다는 뜻입니다.",
+    "realUsageKo": "바쁜 일과나 긴장된 상황이 끝난 뒤 몸과 마음을 편하게 이완시킬 때 사용합니다. 예를 들어 퇴근 후 휴식을 취하거나 잠자리에 들기 전 긴장을 풀 때 자주 씁니다.",
+    "etymologyKo": "시계나 태엽 장치를 감는 'wind up'의 반대 개념에서 유래했습니다. 태엽이 풀리면 장치가 천천히 멈추듯, 활동이나 긴장이 서서히 줄어드는 것을 비유합니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 자주 쓰이며, 긍정적이고 편안한 뉘앙스를 갖습니다. 'relax'보다 '서서히 이완되는 과정'을 강조합니다.",
+    "shortExampleEn": "Let's wind down with some music before bed.",
+    "shortExampleKo": "자기 전에 음악 들으면서 긴장 좀 풀자."
+  }
+}

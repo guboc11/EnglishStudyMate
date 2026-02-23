@@ -1,0 +1,30 @@
+{
+  "id": "dwell-on_4de428ae",
+  "expression": "dwell on",
+  "selectionMeta": {
+    "selectedPhrase": "dwell on",
+    "selectedSenseLabelKo": "계속 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Try not to dwell on the mistakes you made during the presentation — focus on what you learned instead."
+  },
+  "step2": {
+    "story": "After the job interview, Mina couldn't stop replaying every answer in her head. Her friend told her not to dwell on it because worrying wouldn't change the outcome. She took a deep breath and decided to spend the evening doing something she enjoyed instead.",
+    "topicTag": "job interview anxiety",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Jinho had always been the type to dwell on things that went wrong. When his startup failed after two years of hard work, he spent weeks lying in bed, replaying every decision he had made. His co-founder called one afternoon and said something that stuck with him: \"We can dwell on what happened, or we can figure out what's next.\" That night, Jinho opened his laptop and started sketching ideas for a new project. It wasn't easy to let go of the past, but he realized that dwelling on failure was just another way of standing still. Slowly, he began to channel that energy into building something better.",
+    "topicTag": "overcoming failure",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'dwell'은 '머무르다', 'on'은 '~위에'로, 어떤 것 위에 계속 머문다는 뜻입니다.",
+    "realUsageKo": "부정적인 일이나 실수를 계속 곱씹으며 생각할 때 사용합니다. 주로 'Don't dwell on it'처럼 그만 생각하라는 조언으로 자주 쓰입니다.",
+    "etymologyKo": "'Dwell'은 고대 영어 'dwellan(길을 잃다, 지체하다)'에서 유래했으며, 시간이 지나며 '머무르다'라는 뜻으로 변했습니다. 'Dwell on'은 생각이 한 곳에 오래 머문다는 비유적 표현입니다.",
+    "nuanceKo": "대부분 부정적인 맥락에서 사용되며, 지나간 일에 대해 불필요하게 오래 생각한다는 뉘앙스를 담고 있습니다. 긍정적인 일에 대해서는 잘 쓰지 않습니다.",
+    "shortExampleEn": "Don't dwell on the past — there's nothing you can change about it.",
+    "shortExampleKo": "과거에 연연하지 마세요 — 바꿀 수 있는 건 아무것도 없으니까요."
+  }
+}

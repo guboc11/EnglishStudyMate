@@ -1,0 +1,30 @@
+{
+  "id": "gut-feeling_4e94eb52",
+  "expression": "gut feeling",
+  "selectionMeta": {
+    "selectedPhrase": "gut feeling",
+    "selectedSenseLabelKo": "직감",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I had a gut feeling that something was wrong when she didn't answer her phone all day."
+  },
+  "step2": {
+    "story": "Marcus stared at the contract on his desk, reading every clause carefully. Despite the generous terms, he couldn't shake this gut feeling that the deal was too good to be true. He decided to hire an independent lawyer to review it before signing.",
+    "topicTag": "business decisions",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Jenna had been offered a high-paying position at a prestigious firm downtown. Everyone around her said it was a dream opportunity. But every time she imagined herself walking through those glass doors, a gut feeling told her it wasn't right. She thought about the small startup she'd been volunteering at on weekends — the messy office, the passionate team, the late-night brainstorming sessions. The next morning, she declined the offer and called the startup's founder instead. Sometimes you just have to trust what your heart already knows.",
+    "topicTag": "career choices",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'gut'은 내장(배), 'feeling'은 느낌으로, 직역하면 '배 속에서 오는 느낌'이라는 뜻입니다.",
+    "realUsageKo": "논리적 근거 없이 본능적으로 느끼는 강한 직감을 표현할 때 사용합니다. '뭔가 느낌이 이상해' 또는 '직감적으로 그렇게 느껴'라는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "옛날부터 서양 문화에서 내장(gut)은 감정과 본능의 중심지로 여겨졌습니다. 머리가 아닌 배에서 오는 원초적 감각이라는 의미에서 유래했습니다.",
+    "nuanceKo": "일상 대화에서 매우 자연스럽게 쓰이는 표현으로, 격식 있는 자리에서도 사용 가능합니다. 긍정적·부정적 직감 모두에 쓸 수 있습니다.",
+    "shortExampleEn": "Trust your gut feeling — it's usually right.",
+    "shortExampleKo": "직감을 믿어 — 대개 맞거든."
+  }
+}

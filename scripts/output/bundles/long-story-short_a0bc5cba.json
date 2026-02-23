@@ -1,0 +1,30 @@
+{
+  "id": "long-story-short_a0bc5cba",
+  "expression": "long story short",
+  "selectionMeta": {
+    "selectedPhrase": "long story short",
+    "selectedSenseLabelKo": "짧게 말하면",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Long story short, I missed the train and had to take a cab to the airport."
+  },
+  "step2": {
+    "story": "My friend asked me how my job interview went yesterday. I took a deep breath and said, \"Long story short, they offered me the position on the spot.\" She screamed with excitement and gave me the biggest hug.",
+    "topicTag": "career milestone",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Last summer, I planned a simple weekend trip to the coast with two friends. We packed the car, loaded up snacks, and hit the road full of energy. About an hour in, we took a wrong turn and ended up on a dirt road leading to a tiny fishing village we'd never heard of. The locals were so welcoming that we ended up staying for three days, eating fresh seafood and sleeping in a guesthouse by the harbor. Long story short, the best vacation I ever had was the one that went completely off plan. Now we go back to that village every year.",
+    "topicTag": "unexpected adventure",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "긴 이야기를 짧게 하면",
+    "realUsageKo": "복잡하거나 긴 사연을 생략하고 핵심 결과만 전달할 때 사용합니다. 보통 문장 앞에 붙여서 '결론만 말하자면'이라는 뉘앙스로 씁니다.",
+    "etymologyKo": "영어 관용구 'to make a long story short'에서 유래했으며, 19세기부터 널리 쓰였습니다. 긴 설명을 줄여서 요점만 전달하겠다는 화자의 의도를 나타냅니다.",
+    "nuanceKo": "일상 대화에서 자연스럽게 쓰이는 캐주얼한 표현입니다. 격식 있는 자리보다는 친구나 동료와의 대화에서 주로 사용하며, 약간의 드라마틱한 효과를 줄 때도 씁니다.",
+    "shortExampleEn": "Long story short, we ended up moving to a completely different city.",
+    "shortExampleKo": "짧게 말하면, 우리는 결국 완전히 다른 도시로 이사하게 됐어."
+  }
+}

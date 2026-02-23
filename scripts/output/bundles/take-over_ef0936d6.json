@@ -1,0 +1,30 @@
+{
+  "id": "take-over_ef0936d6",
+  "expression": "take over",
+  "selectionMeta": {
+    "selectedPhrase": "take over",
+    "selectedSenseLabelKo": "인수하다 / 장악하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the founder retired, his daughter decided to take over the family business."
+  },
+  "step2": {
+    "story": "The CEO announced her sudden resignation on Friday morning. By Monday, the board had chosen a new leader to take over the company. Employees held their breath, wondering what changes lay ahead.",
+    "topicTag": "leadership transition",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "When Marcus first joined the small bakery as a teenager, he never imagined he would one day take over the entire operation. For years, he worked alongside the elderly owner, learning every recipe by heart. Then one rainy afternoon, the owner handed him the keys and said it was time. Marcus felt the weight of responsibility settle on his shoulders. He kept every tradition alive while slowly introducing his own creations. Within a year, the bakery had doubled its customers, and Marcus finally felt like the place was truly his.",
+    "topicTag": "following your passion",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'take'(가져가다)와 'over'(넘어서)의 조합으로, 무언가를 넘겨받아 가져간다는 뜻입니다.",
+    "realUsageKo": "회사, 직책, 역할 등을 다른 사람으로부터 이어받아 맡게 될 때 사용합니다. 비즈니스 인수합병부터 단순히 업무를 넘겨받는 상황까지 폭넓게 쓰입니다.",
+    "etymologyKo": "고대 영어 'tacan'(잡다)과 'ofer'(위로, 넘어서)에서 유래했으며, 16세기부터 '지배권을 넘겨받다'는 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "중립적인 표현이지만, 문맥에 따라 적대적 인수(hostile takeover)처럼 강압적인 뉘앙스를 가질 수도 있고, 자연스러운 승계의 의미일 수도 있습니다.",
+    "shortExampleEn": "She will take over as team leader starting next month.",
+    "shortExampleKo": "그녀가 다음 달부터 팀 리더를 맡게 됩니다."
+  }
+}

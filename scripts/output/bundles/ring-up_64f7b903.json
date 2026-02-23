@@ -1,0 +1,30 @@
+{
+  "id": "ring-up_64f7b903",
+  "expression": "ring up",
+  "selectionMeta": {
+    "selectedPhrase": "ring up",
+    "selectedSenseLabelKo": "전화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I'll ring up the restaurant to see if they have a table available tonight."
+  },
+  "step2": {
+    "story": "Emma realized she had left her jacket at the café. She decided to ring up the café before heading back. The staff found it right away and promised to keep it safe for her.",
+    "topicTag": "daily life",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jake hadn't spoken to his grandmother in weeks, and guilt was creeping in. One quiet Sunday morning, he finally picked up his phone and decided to ring her up. She answered on the second ring, her voice lighting up instantly. They talked for over an hour about her garden, his new job, and the family recipe she wanted to pass down. When he hung up, Jake felt a warmth he hadn't expected. He promised himself he'd ring her up every weekend from now on.",
+    "topicTag": "family connection",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "'ring'은 전화벨 소리를, 'up'은 연결을 의미하여, 전화벨을 울려 연결한다는 뜻입니다.",
+    "realUsageKo": "누군가에게 전화를 걸 때 사용하는 캐주얼한 표현입니다. 'call'과 같은 뜻이지만 주로 영국 영어에서 자주 쓰입니다.",
+    "etymologyKo": "초기 전화기에서 교환원을 호출할 때 벨을 울리는(ring) 동작에서 유래했습니다. 'up'은 전화 연결이 성립되는 것을 나타냅니다.",
+    "nuanceKo": "격식 없는 일상 대화에서 주로 쓰이며, 미국 영어보다 영국 영어에서 훨씬 자연스럽게 사용됩니다. 'call'보다 친근하고 가벼운 느낌을 줍니다.",
+    "shortExampleEn": "Could you ring up the doctor and make an appointment?",
+    "shortExampleKo": "의사에게 전화해서 예약 좀 잡아줄 수 있어?"
+  }
+}

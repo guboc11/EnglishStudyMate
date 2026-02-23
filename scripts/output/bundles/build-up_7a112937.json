@@ -1,0 +1,30 @@
+{
+  "id": "build-up_7a112937",
+  "expression": "build up",
+  "selectionMeta": {
+    "selectedPhrase": "build up",
+    "selectedSenseLabelKo": "쌓아올리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She's been trying to build up her savings so she can travel abroad next summer."
+  },
+  "step2": {
+    "story": "After months of barely scraping by, Jina decided to build up an emergency fund. She cut unnecessary expenses and put aside a little each week. By the end of the year, she felt a sense of security she hadn't known before.",
+    "topicTag": "financial planning",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Marco first joined the marketing team, he had zero connections in the industry. He knew that to succeed, he'd have to build up his network from scratch. Every conference became an opportunity — he introduced himself to strangers, exchanged ideas over coffee, and followed up with genuine interest. Slowly, his contact list grew into something meaningful. Within two years, people were reaching out to him for advice and partnerships. He realized that trust, like anything worthwhile, has to be built up one conversation at a time.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'build(짓다/쌓다) + up(위로)' — 무언가를 아래에서 위로 차곡차곡 쌓아 올린다는 뜻입니다.",
+    "realUsageKo": "실력, 자신감, 재산, 인맥 등 추상적인 것을 점진적으로 늘려가거나 강화할 때 폭넓게 사용됩니다. '경험을 쌓다', '체력을 키우다'처럼 시간을 들여 조금씩 축적하는 느낌입니다.",
+    "etymologyKo": "고대 영어 byldan(건물을 짓다)에서 유래했으며, up이 붙으면서 '점차 증가시키다'라는 확장된 의미를 갖게 되었습니다.",
+    "nuanceKo": "한 번에 뚝딱 만드는 게 아니라, 시간과 노력을 들여 서서히 쌓아간다는 뉘앙스가 강합니다. 긍정적인 맥락(자신감, 실력, 신뢰)에서 주로 쓰이지만 부정적인 것(스트레스, 압박감)이 누적될 때도 사용합니다.",
+    "shortExampleEn": "You need to build up your confidence before the presentation.",
+    "shortExampleKo": "발표 전에 자신감을 쌓아야 해."
+  }
+}

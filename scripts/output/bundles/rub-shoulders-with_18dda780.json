@@ -1,0 +1,30 @@
+{
+  "id": "rub-shoulders-with_18dda780",
+  "expression": "rub shoulders with",
+  "selectionMeta": {
+    "selectedPhrase": "rub shoulders with",
+    "selectedSenseLabelKo": "어울리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "At the charity gala, I got to rub shoulders with some of the most influential people in the tech industry."
+  },
+  "step2": {
+    "story": "Maya had never expected her internship to lead anywhere special. But on her very first week, she found herself rubbing shoulders with top executives at a company retreat. By the end of the month, she had built connections that would shape her entire career.",
+    "topicTag": "career networking",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Daniel grew up in a small town where everyone knew each other by name. When he moved to New York to study film, the scale of the city overwhelmed him. One evening, a classmate dragged him to an indie film screening in Brooklyn. To his amazement, he ended up rubbing shoulders with award-winning directors and producers who genuinely wanted to hear his ideas. That single night shifted his perspective entirely. He realized that opportunity wasn't about where you came from — it was about showing up and being ready.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '~와 어깨를 비비다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 유명하거나 영향력 있는 사람들과 어울리거나 교류하는 것을 의미합니다. 주로 사교 모임이나 특별한 자리에서 저명인사들과 함께하는 상황에 씁니다.",
+    "etymologyKo": "사람들이 붐비는 사교 모임에서 서로 어깨가 닿을 정도로 가까이 서 있는 모습에서 유래한 표현입니다. 18세기경부터 영어에서 사용되기 시작했습니다.",
+    "nuanceKo": "단순히 만나는 것이 아니라, 보통 자신보다 사회적 지위가 높거나 유명한 사람들과 같은 공간에서 교류한다는 뉘앙스가 있습니다. 긍정적인 느낌으로 많이 쓰입니다.",
+    "shortExampleEn": "She rubbed shoulders with celebrities at the film premiere.",
+    "shortExampleKo": "그녀는 영화 시사회에서 유명인들과 어울렸다."
+  }
+}

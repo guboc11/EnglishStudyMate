@@ -1,0 +1,30 @@
+{
+  "id": "delegate-tasks_ab6ec3dd",
+  "expression": "delegate tasks",
+  "selectionMeta": {
+    "selectedPhrase": "delegate tasks",
+    "selectedSenseLabelKo": "업무를 위임하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "As the project grew more complex, the team lead decided to delegate tasks to the senior developers so nothing would fall through the cracks."
+  },
+  "step2": {
+    "story": "Sarah had been working twelve-hour days trying to handle every detail of the product launch herself. Her manager finally pulled her aside and said, \"You need to delegate tasks — you can't do everything alone.\" That afternoon, she assigned the marketing brief to Jake and the vendor coordination to Mina, and for the first time in weeks, she left the office before sunset.",
+    "topicTag": "work-life balance",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "When David was promoted to department head, he struggled with his new role. He spent every evening buried in spreadsheets, reviewing reports that his team members could easily handle. His mentor noticed the dark circles under his eyes and gave him blunt advice: \"Leadership isn't about doing everything yourself — it's about learning to delegate tasks effectively.\" David resisted at first, worried that passing work to others meant he wasn't pulling his weight. But he started small, assigning the weekly analytics report to Clara and the client follow-ups to Tom. Within a month, the team's output had doubled, and David finally understood that trusting his people was the real job.",
+    "topicTag": "leadership growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '과업들을 대리인에게 맡기다'라는 뜻입니다.",
+    "realUsageKo": "업무나 책임을 다른 사람에게 나누어 맡길 때 사용합니다. 주로 관리자나 리더가 팀원에게 일을 배분하는 상황에서 쓰이며, 단순히 '시키다'보다는 신뢰를 바탕으로 권한과 함께 넘긴다는 뉘앙스가 있습니다.",
+    "etymologyKo": "delegate는 라틴어 delegare(보내다, 위임하다)에서 유래했으며, de-(~로부터) + legare(사절로 보내다)의 결합입니다. 원래 대리인을 파견한다는 의미에서 권한이나 업무를 넘긴다는 뜻으로 발전했습니다.",
+    "nuanceKo": "delegate tasks는 단순히 일을 떠넘기는 것이 아니라, 적절한 사람에게 적절한 업무를 전략적으로 배분한다는 긍정적이고 전문적인 어감을 갖고 있습니다. 비즈니스와 리더십 맥락에서 매우 자주 쓰입니다.",
+    "shortExampleEn": "A good manager knows when to delegate tasks instead of micromanaging.",
+    "shortExampleKo": "좋은 관리자는 세세하게 간섭하는 대신 언제 업무를 위임해야 하는지 압니다."
+  }
+}

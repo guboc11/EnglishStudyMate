@@ -1,0 +1,30 @@
+{
+  "id": "see-red_69d0c0a8",
+  "expression": "see red",
+  "selectionMeta": {
+    "selectedPhrase": "see red",
+    "selectedSenseLabelKo": "화를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When I found out someone had scratched my car in the parking lot, I saw red."
+  },
+  "step2": {
+    "story": "Mark had spent weeks preparing his presentation, but his coworker took full credit for it in front of the boss. He saw red and had to step outside to cool down before saying something he'd regret. After a long walk around the block, he decided to address the issue calmly with his manager.",
+    "topicTag": "workplace conflict",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Jenna had always been a patient person, but today was different. She arrived at the restaurant for her anniversary dinner, only to find that her reservation had been given away. The host shrugged and offered no apology, which made her see red. She could feel her hands trembling as she tried to keep her composure in front of her husband. Taking a deep breath, she asked to speak with the manager and explained the situation firmly but politely. In the end, they were seated at an even better table, but it took her the entire appetizer course to calm down.",
+    "topicTag": "dining experience",
+    "moodTag": "intense"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '빨간색을 보다'라는 뜻입니다.",
+    "realUsageKo": "극도로 화가 나서 이성을 잃을 정도가 되는 상황을 표현할 때 사용합니다. 단순한 짜증이 아니라 분노가 폭발하는 순간을 나타냅니다.",
+    "etymologyKo": "투우에서 유래한 표현으로, 투우사가 빨간 천(물레타)을 흔들면 소가 흥분하여 돌진하는 모습에서 비롯되었습니다.",
+    "nuanceKo": "일상 대화에서 자주 쓰이며, 격식 없는 상황에서 강한 분노를 생생하게 전달할 때 효과적입니다. 유머러스하게 쓰일 수도 있습니다.",
+    "shortExampleEn": "She saw red when her brother broke her favorite vase.",
+    "shortExampleKo": "오빠가 그녀가 가장 아끼는 꽃병을 깨뜨렸을 때, 그녀는 불같이 화를 냈다."
+  }
+}

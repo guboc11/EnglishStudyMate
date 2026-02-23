@@ -1,0 +1,30 @@
+{
+  "id": "turn-back_e76f5189",
+  "expression": "turn back",
+  "selectionMeta": {
+    "selectedPhrase": "turn back",
+    "selectedSenseLabelKo": "돌아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had to turn back because the road ahead was completely flooded."
+  },
+  "step2": {
+    "story": "The hikers reached the narrow ridge just as dark clouds rolled in over the mountain. The guide checked the weather radar and told everyone they had to turn back immediately. Disappointed but safe, they began the long descent back to base camp.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Elena had driven three hours into the countryside when she noticed the fuel gauge dropping faster than expected. The next gas station was still forty miles away, and the road was getting rougher with every mile. She pulled over to check her map and realized there was no shortcut ahead. With a heavy sigh, she decided to turn back to the last town she had passed. It stung to lose all that progress, but running out of gas on a deserted road at night would have been far worse. By the time she refueled and set out again, the sunset painted the sky in a way that almost made the detour worth it.",
+    "topicTag": "road trip",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'방향을 돌려 되돌아가다'라는 뜻입니다.",
+    "realUsageKo": "진행하던 방향이나 계획을 멈추고 원래 있던 곳으로 되돌아갈 때 사용합니다. 물리적인 이동뿐 아니라 '이미 시작한 일을 포기하고 원점으로 돌아가다'라는 비유적 의미로도 쓰입니다.",
+    "etymologyKo": "'turn(돌다)'과 'back(뒤로)'의 조합으로, 중세 영어 시대부터 물리적으로 몸을 돌려 뒤로 가는 동작을 표현하는 데 사용되어 왔습니다.",
+    "nuanceKo": "단순히 되돌아가는 행위뿐 아니라 포기나 후퇴의 뉘앙스가 담길 수 있습니다. 'There's no turning back'처럼 '이제 돌이킬 수 없다'는 결의를 나타내는 표현에도 자주 쓰입니다.",
+    "shortExampleEn": "It's too late to turn back now — we're almost at the summit.",
+    "shortExampleKo": "지금 돌아가기엔 너무 늦었어 — 거의 정상에 다 왔잖아."
+  }
+}

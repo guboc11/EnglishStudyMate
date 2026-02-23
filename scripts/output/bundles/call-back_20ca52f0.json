@@ -1,0 +1,30 @@
+{
+  "id": "call-back_20ca52f0",
+  "expression": "call back",
+  "selectionMeta": {
+    "selectedPhrase": "call back",
+    "selectedSenseLabelKo": "다시 전화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I missed her call during the meeting, so I'll call back as soon as I'm free."
+  },
+  "step2": {
+    "story": "Jake saw a missed call from his doctor's office and felt a knot in his stomach. He stepped outside the office to call back and get the test results he'd been anxiously waiting for.",
+    "topicTag": "health anxiety",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Sarah had been in back-to-back presentations all afternoon when she noticed three missed calls from an unknown number. She almost ignored them, but something told her to call back before heading home. On the other end was a hospital administrator — her mother had been brought in after a fall. Sarah's hands trembled as she grabbed her keys, grateful she had taken the moment to call back instead of dismissing the notifications. Sometimes a two-minute phone call can change everything.",
+    "topicTag": "family emergency",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "전화를 다시 걸다, 또는 부재중 전화에 회신 전화를 하다.",
+    "realUsageKo": "상대방이 먼저 전화했으나 받지 못했을 때 다시 전화하는 상황에서 주로 사용한다. 비즈니스와 일상 모두에서 매우 빈번하게 쓰인다.",
+    "etymologyKo": "동사 'call'(전화하다)에 부사 'back'(되돌아)이 결합된 구동사로, '전화를 되돌려 걸다'라는 의미에서 유래했다.",
+    "nuanceKo": "정중하고 중립적인 표현이며, 'return your call'보다 구어적이다. 상대방에 대한 배려나 책임감을 내포하는 경우가 많다.",
+    "shortExampleEn": "He left a message asking her to call back when she got a chance.",
+    "shortExampleKo": "그는 시간이 될 때 다시 전화해 달라는 메시지를 남겼다."
+  }
+}
