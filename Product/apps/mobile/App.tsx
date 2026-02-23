@@ -8,11 +8,12 @@ import { ExampleFlowScreen } from '@/screens/ExampleFlowScreen';
 import { HomeScreen } from '@/screens/HomeScreen';
 import { MeaningGateScreen } from '@/screens/MeaningGateScreen';
 import { MeaningScreen } from '@/screens/MeaningScreen';
-import { SearchHistoryScreen } from '@/screens/SearchHistoryScreen';
+import { ReviewSessionScreen } from '@/screens/ReviewSessionScreen';
 import {
   resolveAndGenerateLearning,
 } from '@/services/gemini';
 import { addSearchHistory } from '@/services/searchHistory';
+import { addExpressionToProfile } from '@/services/vocabularyProfile';
 import type { LearningBundle } from '@/types/learning';
 import type { ResolveAndGenerateResult } from '@/types/selection';
 import '@/global.css';
@@ -31,7 +32,7 @@ type RootStackParamList = {
     expression: string;
     bundle: LearningBundle;
   };
-  SearchHistory: undefined;
+  ReviewSession: undefined;
 };
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -65,6 +66,7 @@ export default function App() {
 
                     if (result.status === 'ready') {
                       await addSearchHistory(result.expression);
+                      await addExpressionToProfile(result.expression, result.bundle);
                       navigation.navigate('ExampleFlow', {
                         expression: result.expression,
                         bundle: result.bundle,
@@ -84,7 +86,7 @@ export default function App() {
                     setIsSearching(false);
                   }
                 }}
-                onReviewPress={() => navigation.navigate('SearchHistory')}
+                onReviewPress={() => navigation.navigate('ReviewSession')}
               />
             )}
           </Stack.Screen>
@@ -94,12 +96,13 @@ export default function App() {
                 rawInput={route.params.rawInput}
                 initialResult={route.params.initialResult}
                 onClose={() => navigation.popToTop()}
-                onResolved={(expression, bundle) =>
+                onResolved={(expression, bundle) => {
+                  void addExpressionToProfile(expression, bundle);
                   navigation.replace('ExampleFlow', {
                     expression,
                     bundle,
-                  })
-                }
+                  });
+                }}
               />
             )}
           </Stack.Screen>
@@ -128,9 +131,9 @@ export default function App() {
               />
             )}
           </Stack.Screen>
-          <Stack.Screen name="SearchHistory">
+          <Stack.Screen name="ReviewSession">
             {({ navigation }) => (
-              <SearchHistoryScreen onClose={() => navigation.popToTop()} />
+              <ReviewSessionScreen onClose={() => navigation.popToTop()} />
             )}
           </Stack.Screen>
         </Stack.Navigator>

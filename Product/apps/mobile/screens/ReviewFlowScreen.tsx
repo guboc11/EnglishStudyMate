@@ -45,13 +45,13 @@ export function ReviewFlowScreen({
 
   const pageInfo = useMemo(() => {
     if (step === 1) {
-      return { pageKey: 'review1' as ImagePageKey, story: bundle.review1.story };
+      return { pageKey: 'step2' as ImagePageKey, story: bundle.step2.story };
     }
     if (step === 2) {
-      return { pageKey: 'review2' as ImagePageKey, story: bundle.review2.story };
+      return { pageKey: 'step3' as ImagePageKey, story: bundle.step3.story };
     }
-    return { pageKey: 'review3' as ImagePageKey, story: bundle.review3.story };
-  }, [bundle.review1.story, bundle.review2.story, bundle.review3.story, step]);
+    return { pageKey: 'step3' as ImagePageKey, story: bundle.step3.story };
+  }, [bundle.step2.story, bundle.step3.story, step]);
 
   const story = pageInfo.story;
   const highlightedStory = splitByExpressionMatch(story, expression);
