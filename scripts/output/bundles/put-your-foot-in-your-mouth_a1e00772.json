@@ -1,0 +1,30 @@
+{
+  "id": "put-your-foot-in-your-mouth_a1e00772",
+  "expression": "put your foot in your mouth",
+  "selectionMeta": {
+    "selectedPhrase": "put your foot in your mouth",
+    "selectedSenseLabelKo": "실언을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the team meeting, Jake really put his foot in his mouth when he complained about the new policy, not realizing his manager was sitting right behind him."
+  },
+  "step2": {
+    "story": "Sarah was trying to compliment her coworker's presentation, but she put her foot in her mouth by accidentally mentioning that the previous version was much better. The room went silent, and her coworker's smile faded instantly. Sarah wished she could take back every word she had just said.",
+    "topicTag": "workplace awkwardness",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "At the company dinner, Tom had been doing well keeping the conversation light until someone asked about the recent layoffs. Without thinking, he put his foot in his mouth by joking that only the least productive employees were let go—not realizing that one of the people laid off was the wife of the man sitting next to him. The table fell into an uncomfortable silence, and Tom's face turned bright red. He fumbled with his napkin, trying desperately to change the subject, but the damage was already done. By the end of the night, he had apologized three times and still wasn't sure if he had been forgiven.",
+    "topicTag": "social blunder",
+    "moodTag": "mortified"
+  },
+  "meaning": {
+    "literalMeaningKo": "발을 자신의 입에 넣다.",
+    "realUsageKo": "본의 아니게 실수로 부적절하거나 민망한 말을 해서 상황을 어색하게 만들 때 사용한다. 특히 상대방의 감정을 상하게 하거나 눈치 없이 행동했을 때 자주 쓰인다.",
+    "etymologyKo": "19세기 미국에서 유래한 표현으로, 발이 입에 들어갈 만큼 터무니없는 실수를 저지른다는 의미에서 비롯되었다.",
+    "nuanceKo": "의도치 않은 실언이나 눈치 없는 발언에 주로 쓰이며, 자기 자신을 당황스럽게 만드는 상황에서 자조적으로 사용하기도 한다.",
+    "shortExampleEn": "I really put my foot in my mouth when I asked when the baby was due — she wasn't even pregnant.",
+    "shortExampleKo": "아기가 언제 태어나냐고 물었다가 정말 실언을 했어 — 그녀는 임신한 게 아니었거든."
+  }
+}

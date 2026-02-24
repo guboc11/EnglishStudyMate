@@ -1,0 +1,30 @@
+{
+  "id": "dream-big_c73872ba",
+  "expression": "dream big",
+  "selectionMeta": {
+    "selectedPhrase": "dream big",
+    "selectedSenseLabelKo": "크게 꿈꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always told her students to dream big and never let fear hold them back."
+  },
+  "step2": {
+    "story": "As a child, Marcus dreamed big about becoming an astronaut, covering his bedroom walls with pictures of the stars. His parents smiled at his ambition, never once telling him it was impossible. Years later, he wore his space suit with pride.",
+    "topicTag": "personal ambition",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "Growing up in a small town, Priya was constantly told to be realistic and keep her expectations low. But she refused to listen and chose to dream big, applying to universities far beyond what anyone around her had attempted. Every rejection letter arrived like a cold wave, yet she kept going, revising her essays and pushing harder. The morning a thick acceptance envelope landed on her doorstep, she sat on the porch steps and cried with relief. She had bet on herself when no one else would, and the world had finally answered back. That day, dreaming big stopped being a wish and became a habit she would never break.",
+    "topicTag": "overcoming doubt",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "크게 꿈꾸다, 즉 웅장하거나 야심 찬 목표를 품다는 뜻입니다.",
+    "realUsageKo": "실제로는 현실적인 한계에 얽매이지 말고 원대한 목표를 세우라고 격려할 때 사용합니다. 특히 자기계발·동기부여 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'dream'은 고대 영어 'drēam(기쁨, 음악)'에서 유래했으며, 'big'은 '크게'라는 의미의 부사로 함께 쓰여 '원대하게 꿈꾸다'라는 뜻의 관용 표현이 되었습니다.",
+    "nuanceKo": "낙관적이고 고무적인 어조를 띠며, 주로 격려나 동기부여의 맥락에서 사용됩니다. 비판적이거나 비꼬는 맥락에서는 반어적으로 쓰이기도 합니다.",
+    "shortExampleEn": "If you're going to set a goal, you might as well dream big.",
+    "shortExampleKo": "목표를 세울 거라면, 크게 꿈꾸는 편이 낫지 않겠어요?"
+  }
+}

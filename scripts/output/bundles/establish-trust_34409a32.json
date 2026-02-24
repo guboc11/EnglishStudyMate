@@ -1,0 +1,30 @@
+{
+  "id": "establish-trust_34409a32",
+  "expression": "establish trust",
+  "selectionMeta": {
+    "selectedPhrase": "establish trust",
+    "selectedSenseLabelKo": "신뢰를 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It takes time and consistent effort to establish trust with a new team, but once you do, collaboration becomes effortless."
+  },
+  "step2": {
+    "story": "Maya joined the company as an outsider, and her colleagues were skeptical at first. Over the next few months, she worked hard to establish trust by always delivering on her promises and being transparent about her decisions. Gradually, the team began to open up, and she became one of the most respected members of the group.",
+    "topicTag": "workplace relationships",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel took over as the new manager, the team was still recovering from the chaos left by his predecessor. He knew that before anything else, he needed to establish trust. He started by holding one-on-one meetings with each team member, listening carefully without interrupting or judging. He followed through on every commitment he made, no matter how small, and was the first to admit when he was wrong. Slowly, the atmosphere in the office shifted — people began to speak more freely in meetings and support one another. By the end of the quarter, the team's performance had improved dramatically, built on a foundation of genuine trust.",
+    "topicTag": "leadership",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "신뢰를 형성하다, 즉 상대방이 자신을 믿을 수 있는 관계를 만들어 내다.",
+    "realUsageKo": "직장, 인간관계, 비즈니스 등 다양한 상황에서 시간과 노력을 들여 상대방의 믿음을 얻는 과정을 표현할 때 사용한다. '신뢰를 쌓다'는 단순한 호감이 아니라 반복된 행동과 일관성을 통해 형성되는 것임을 함의한다.",
+    "etymologyKo": "'establish'는 라틴어 'stabilire(안정시키다)'에서 유래하여 '확립하다, 세우다'의 의미를 가지며, 'trust'는 고대 노르드어 'traust(신뢰, 도움)'에서 비롯되었다.",
+    "nuanceKo": "단순히 친해지는 것과 달리, 'establish trust'는 의도적이고 지속적인 노력의 결과로 얻어지는 신뢰를 강조한다. 특히 공식적이거나 전문적인 맥락에서 자주 쓰이며, 신뢰 구축이 쉽지 않음을 내포한다.",
+    "shortExampleEn": "The new doctor worked hard to establish trust with her patients by being honest about diagnoses.",
+    "shortExampleKo": "새로 온 의사는 진단에 솔직하게 임함으로써 환자들과의 신뢰를 쌓기 위해 노력했다."
+  }
+}

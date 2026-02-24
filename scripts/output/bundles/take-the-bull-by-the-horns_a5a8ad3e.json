@@ -1,0 +1,30 @@
+{
+  "id": "take-the-bull-by-the-horns_a5a8ad3e",
+  "expression": "take the bull by the horns",
+  "selectionMeta": {
+    "selectedPhrase": "take the bull by the horns",
+    "selectedSenseLabelKo": "정면 돌파하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of waiting for the situation to resolve itself, she decided to take the bull by the horns and schedule a direct meeting with the difficult client."
+  },
+  "step2": {
+    "story": "The team had been avoiding the budget crisis for weeks, hoping it would somehow fix itself. Finally, the manager decided to take the bull by the horns and called an emergency meeting to address every line item. By the end of the day, they had a clear plan to cut costs and stay on track.",
+    "topicTag": "workplace problem-solving",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had been dreading the conversation with his landlord for months. The heating had been broken since November, and every time he thought about bringing it up, he found a reason to put it off. His sister finally told him to stop making excuses and take the bull by the horns. So one morning, he knocked on the landlord's door, laid out all the issues calmly, and handed over a written list of repairs. To his surprise, the landlord apologized and promised to send a contractor within the week. Sometimes facing a problem head-on was all it took.",
+    "topicTag": "everyday conflict",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "황소의 뿔을 직접 붙잡는다는 뜻으로, 위험하거나 어려운 것을 피하지 않고 정면으로 맞선다는 이미지에서 비롯됐습니다.",
+    "realUsageKo": "어렵거나 불편한 상황을 회피하지 않고 적극적으로 나서서 해결할 때 사용합니다. 주로 용기 있는 결단이나 행동을 칭찬하는 맥락에서 씁니다.",
+    "etymologyKo": "스페인 투우 경기에서 투우사가 황소의 뿔을 직접 잡아 제압하는 행위에서 유래했으며, 19세기 중반 영어권에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "단순히 문제를 해결한다는 것을 넘어, 용감하게 위험을 감수하는 적극적 태도를 강조합니다. 격려하거나 결단력을 높이 살 때 긍정적인 뉘앙스로 사용됩니다.",
+    "shortExampleEn": "He took the bull by the horns and confronted his boss about the unfair workload.",
+    "shortExampleKo": "그는 불공평한 업무량에 대해 상사에게 직접 이야기하며 정면 돌파했다."
+  }
+}

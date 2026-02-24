@@ -1,0 +1,30 @@
+{
+  "id": "fail-forward_7da52aa5",
+  "expression": "fail forward",
+  "selectionMeta": {
+    "selectedPhrase": "fail forward",
+    "selectedSenseLabelKo": "실패를 발판으로 삼다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing the regional competition, she chose to fail forward, using every critique from the judges to sharpen her performance for next year."
+  },
+  "step2": {
+    "story": "Marcus launched his first app and watched it flop within weeks. Instead of giving up, he decided to fail forward, turning each bad review into a checklist of improvements. Six months later, his second version became the top download in its category.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Priya had spent two years building a startup that ultimately collapsed under poor market timing. Friends expected her to retreat into a safe corporate job, but she sat down with a notebook and methodically mapped every decision that had gone wrong. She called it her 'failure autopsy,' a way to fail forward rather than simply fail. Each lesson became a concrete principle she wove into her next venture. Within eighteen months she had secured seed funding, armed not despite her past failure but because of how openly she owned and learned from it. Her investors later said they bet on her precisely because she could articulate exactly what she had failed at and why that made her sharper.",
+    "topicTag": "startup culture",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "실패하면서도 앞으로 나아간다는 뜻으로, 실패를 멈춤이 아닌 전진의 계기로 삼는다는 의미입니다.",
+    "realUsageKo": "주로 창업·자기계발·리더십 맥락에서 '실패 경험을 학습 자원으로 전환해 성장한다'는 태도를 표현할 때 씁니다. 단순히 실패를 감수하는 것이 아니라, 실패에서 적극적으로 교훈을 끌어내는 행동 방식을 강조합니다.",
+    "etymologyKo": "'fail forward'는 실리콘밸리 스타트업 문화에서 2000년대 이후 널리 퍼진 표현으로, 실패를 수치가 아닌 반복적 학습 과정의 일부로 보는 '애자일·린 스타트업' 철학에서 비롯되었습니다.",
+    "nuanceKo": "긍정적이고 능동적인 어감을 지니며, 단순한 위로('괜찮아')와 달리 실패 후 구체적 행동을 촉구하는 뉘앙스가 있습니다. 자기계발서나 TED 강연처럼 동기부여 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "The best founders don't fear failure — they know how to fail forward.",
+    "shortExampleKo": "최고의 창업자들은 실패를 두려워하지 않습니다 — 그들은 실패를 발판으로 삼는 법을 알고 있습니다."
+  }
+}

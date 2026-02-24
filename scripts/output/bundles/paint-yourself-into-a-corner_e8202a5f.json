@@ -1,0 +1,30 @@
+{
+  "id": "paint-yourself-into-a-corner_e8202a5f",
+  "expression": "paint yourself into a corner",
+  "selectionMeta": {
+    "selectedPhrase": "paint yourself into a corner",
+    "selectedSenseLabelKo": "스스로 궁지에 몰리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "By agreeing to both deadlines without checking the calendar, she had effectively painted herself into a corner."
+  },
+  "step2": {
+    "story": "Marcus promised his boss he'd deliver the report by Friday and also told a client he'd attend their meeting that same afternoon. He had painted himself into a corner with no easy way out. In the end, he had to stay up all night to finish the report before the morning meeting.",
+    "topicTag": "work stress",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Elena had been so eager to impress her new investors that she agreed to every condition they put on the table — a strict six-month launch deadline, a fixed budget, and a team size she couldn't expand. It was only weeks later, staring at her project plan, that she realized she had painted herself into a corner. Every resource was already allocated, yet the scope kept growing. She couldn't delay the launch without losing funding, and she couldn't hire more developers without breaking the budget agreement. With no good options left, Elena called an emergency team meeting and asked everyone to help her find any path forward. It was a hard lesson about the danger of saying yes before thinking through the consequences.",
+    "topicTag": "startup pressure",
+    "moodTag": "anxious"
+  },
+  "meaning": {
+    "literalMeaningKo": "바닥을 페인트칠하다가 스스로 구석에 갇혀버리다.",
+    "realUsageKo": "자신의 선택이나 행동으로 인해 빠져나갈 방법이 없는 곤란한 상황을 자초했을 때 사용한다. 주로 협상, 약속, 계획 등에서 스스로 선택지를 줄여버린 경우에 쓴다.",
+    "etymologyKo": "바닥에 페인트를 칠하다가 자신이 서 있는 구석까지 칠해버려 도망갈 곳이 없어지는 상황에서 유래했다. 20세기 중반 미국 영어에서 비유적으로 쓰이기 시작했다.",
+    "nuanceKo": "단순한 어려움이 아닌 '스스로 초래한' 궁지임을 강조한다. 자업자득의 뉘앙스가 강하며, 약간의 아이러니나 자조적인 톤으로 자주 사용된다.",
+    "shortExampleEn": "He painted himself into a corner by refusing every compromise during the negotiation.",
+    "shortExampleKo": "그는 협상 중 모든 타협을 거부하다가 스스로 궁지에 몰렸다."
+  }
+}

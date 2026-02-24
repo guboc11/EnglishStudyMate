@@ -8,7 +8,10 @@ import { ExampleFlowScreen } from '@/screens/ExampleFlowScreen';
 import { HomeScreen } from '@/screens/HomeScreen';
 import { MeaningGateScreen } from '@/screens/MeaningGateScreen';
 import { MeaningScreen } from '@/screens/MeaningScreen';
+import { ReviewCountdownScreen } from '@/screens/ReviewCountdownScreen';
+import { ReviewEndScreen } from '@/screens/ReviewEndScreen';
 import { ReviewSessionScreen } from '@/screens/ReviewSessionScreen';
+import type { VocabularyEntry } from '@/types/vocabularyProfile';
 import {
   resolveAndGenerateLearning,
 } from '@/services/gemini';
@@ -32,7 +35,9 @@ type RootStackParamList = {
     expression: string;
     bundle: LearningBundle;
   };
+  ReviewCountdown: undefined;
   ReviewSession: undefined;
+  ReviewEnd: { entries: VocabularyEntry[] };
 };
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -86,7 +91,7 @@ export default function App() {
                     setIsSearching(false);
                   }
                 }}
-                onReviewPress={() => navigation.navigate('ReviewSession')}
+                onReviewPress={() => navigation.navigate('ReviewCountdown')}
               />
             )}
           </Stack.Screen>
@@ -131,9 +136,28 @@ export default function App() {
               />
             )}
           </Stack.Screen>
+          <Stack.Screen name="ReviewCountdown">
+            {({ navigation }) => (
+              <ReviewCountdownScreen
+                onStart={() => navigation.replace('ReviewSession')}
+              />
+            )}
+          </Stack.Screen>
           <Stack.Screen name="ReviewSession">
             {({ navigation }) => (
-              <ReviewSessionScreen onClose={() => navigation.popToTop()} />
+              <ReviewSessionScreen
+                onClose={() => navigation.popToTop()}
+                onComplete={(entries) => navigation.navigate('ReviewEnd', { entries })}
+                onEarlyEnd={(entries) => navigation.navigate('ReviewEnd', { entries })}
+              />
+            )}
+          </Stack.Screen>
+          <Stack.Screen name="ReviewEnd">
+            {({ navigation, route }) => (
+              <ReviewEndScreen
+                entries={route.params.entries}
+                onDone={() => navigation.navigate('Home')}
+              />
             )}
           </Stack.Screen>
         </Stack.Navigator>

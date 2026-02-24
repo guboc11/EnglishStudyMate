@@ -1,0 +1,30 @@
+{
+  "id": "step-up-to-the-plate_709e732d",
+  "expression": "step up to the plate",
+  "selectionMeta": {
+    "selectedPhrase": "step up to the plate",
+    "selectedSenseLabelKo": "나서서 책임지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When no one else volunteered to lead the struggling project, Marcus stepped up to the plate and took full responsibility for its success."
+  },
+  "step2": {
+    "story": "The team had been paralyzed for weeks after their manager suddenly resigned. Nobody wanted to take charge, but Claire finally stepped up to the plate and organized the first planning meeting. Her willingness to lead turned everything around.",
+    "topicTag": "leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The annual charity gala was just two weeks away, and the organizing committee had fallen apart. Sponsors were threatening to pull out, volunteers were confused, and the venue had sent a stern warning about unpaid deposits. Everyone looked around the room hoping someone else would act. Then Daniel, who had always stayed in the background, stepped up to the plate. He called an emergency meeting, divided tasks clearly, and personally called every sponsor to reassure them. By the end of the week, the event was back on track—and Daniel had earned the respect of everyone who had doubted him.",
+    "topicTag": "event planning",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "야구에서 타자가 타석(plate)으로 걸어 나오는 행동을 의미한다.",
+    "realUsageKo": "어려운 상황에서 자발적으로 나서서 책임을 지거나 도전을 받아들일 때 사용한다. 주로 누군가가 용기 있게 행동에 나서는 상황을 묘사한다.",
+    "etymologyKo": "미국 야구에서 유래한 표현으로, 타자가 홈플레이트(home plate) 앞에 서서 타격을 준비하는 모습에서 비롯되었다. 19세기 말부터 '책임을 지다'는 비유적 의미로 확장되었다.",
+    "nuanceKo": "단순히 일을 맡는 것이 아니라 아무도 나서지 않는 어려운 순간에 자발적으로 나선다는 뉘앙스가 강하다. 용기와 책임감을 동시에 강조하는 표현이다.",
+    "shortExampleEn": "She stepped up to the plate when the company needed a new leader.",
+    "shortExampleKo": "회사에 새로운 리더가 필요했을 때 그녀가 나서서 책임을 졌다."
+  }
+}

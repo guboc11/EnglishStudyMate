@@ -1,0 +1,30 @@
+{
+  "id": "lose-the-plot_adab4651",
+  "expression": "lose the plot",
+  "selectionMeta": {
+    "selectedPhrase": "lose the plot",
+    "selectedSenseLabelKo": "갈피를 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After working three consecutive all-nighters, she started to lose the plot and sent a meeting invitation to the wrong team."
+  },
+  "step2": {
+    "story": "During the product launch week, our manager completely lost the plot and began assigning the same tasks to three different people. No one knew who was responsible for what, and deadlines were slipping through the cracks. We had to call an emergency standup just to get everyone back on the same page.",
+    "topicTag": "work stress",
+    "moodTag": "chaotic"
+  },
+  "step3": {
+    "story": "James had been juggling five projects at once for two straight months without a day off. When his boss piled on a sixth assignment on a Friday afternoon, something snapped—he completely lost the plot. He accidentally replied-all to an internal email meant for his closest colleague, venting about the workload to the entire department. By Monday, HR had scheduled a meeting and his inbox was flooded with concerned messages from teammates he barely knew. Standing in the conference room, red-faced and exhausted, James realized losing the plot had cost him his carefully maintained professional image. He took a week off, came back with a clear head, and never let himself get that close to the edge again.",
+    "topicTag": "workplace burnout",
+    "moodTag": "overwhelmed"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '줄거리를 잃다', 즉 이야기의 흐름을 놓쳐버린다는 뜻이다.",
+    "realUsageKo": "실제로는 상황이 너무 복잡하거나 스트레스가 심해져서 무엇을 해야 할지 갈피를 잡지 못하거나 이성적인 판단력을 잃을 때 사용한다. 때로는 행동이나 발언이 갑자기 이상하거나 극단적으로 변하는 상황을 묘사하기도 한다.",
+    "etymologyKo": "영국 영어에서 유래한 표현으로, 1980년대 후반부터 일상 구어에서 쓰이기 시작했다. 원래 연극이나 소설에서 '플롯(줄거리)'을 놓친다는 이미지에서 파생되어, 상황의 맥락이나 목적을 잃어버린다는 의미로 확장되었다.",
+    "nuanceKo": "주로 영국·호주 영어에서 자주 쓰이며, 약간의 유머나 풍자 뉘앙스가 담긴 경우가 많다. 비격식 표현으로, 뉴스 기사보다는 일상 대화나 가벼운 글에 어울린다."  ,
+    "shortExampleEn": "He totally lost the plot when the server crashed right before the presentation.",
+    "shortExampleKo": "발표 직전에 서버가 다운되자 그는 완전히 갈피를 잃었다."
+  }
+}

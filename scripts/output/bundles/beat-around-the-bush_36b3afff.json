@@ -1,0 +1,30 @@
+{
+  "id": "beat-around-the-bush_36b3afff",
+  "expression": "beat around the bush",
+  "selectionMeta": {
+    "selectedPhrase": "beat around the bush",
+    "selectedSenseLabelKo": "빙빙 돌려 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of beating around the bush, she finally told her manager that she wanted a raise."
+  },
+  "step2": {
+    "story": "Jake had been nervous all week about telling his roommate that he wanted to move out. At dinner, he started talking about the weather and his new job hours, beating around the bush for nearly ten minutes. Finally, his roommate smiled and said, 'Just say it — I already know you're leaving.'",
+    "topicTag": "difficult conversations",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "The quarterly review meeting had already run forty minutes over schedule, and everyone in the room could feel the tension. The director shuffled his papers and made vague comments about 'performance trends' and 'team alignment,' clearly beating around the bush about the real issue — budget cuts were coming. Sarah, the team lead, leaned forward and said quietly, 'I think we all know what this is about. Can we just address it directly?' A hush fell over the room. The director set down his papers, took a breath, and finally said the words everyone had been dreading.",
+    "topicTag": "workplace tension",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "덤불 주변을 빙빙 돌며 두드린다는 뜻으로, 핵심을 직접 건드리지 않는 모습을 묘사합니다.",
+    "realUsageKo": "하고 싶은 말을 직접 꺼내지 않고 관련 없는 이야기를 늘어놓거나 돌려 말할 때 사용합니다. 주로 'Stop beating around the bush'처럼 상대에게 직설적으로 말하라고 요구할 때 씁니다.",
+    "etymologyKo": "중세 유럽의 사냥 관습에서 유래했습니다. 사냥꾼들이 덤불을 두드려 새나 짐승을 몰아내는 동안, 일부는 덤불 주변만 맴돌며 정작 안으로 들어가지 않았다는 데서 '본론을 피하다'는 의미가 생겼습니다.",
+    "nuanceKo": "다소 답답하거나 비판적인 뉘앙스를 담고 있어, 상대방의 태도를 꼬집을 때 자주 쓰입니다. 격식체와 비격식체 모두에서 사용 가능하며, 직장이나 일상 대화에서 널리 쓰입니다.",
+    "shortExampleEn": "Stop beating around the bush and tell me what really happened.",
+    "shortExampleKo": "빙빙 돌려 말하지 말고 실제로 무슨 일이 있었는지 말해봐."
+  }
+}

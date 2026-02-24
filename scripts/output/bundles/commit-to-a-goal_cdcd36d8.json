@@ -1,0 +1,30 @@
+{
+  "id": "commit-to-a-goal_cdcd36d8",
+  "expression": "commit to a goal",
+  "selectionMeta": {
+    "selectedPhrase": "commit to a goal",
+    "selectedSenseLabelKo": "목표에 헌신하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to commit to a goal of running a marathon by the end of the year, training every morning without exception."
+  },
+  "step2": {
+    "story": "After years of starting and stopping, Marcus finally committed to a goal of learning Spanish fluently. He put a sticky note on his bathroom mirror and spent thirty minutes every morning with his language app. Three months later, he was holding his first real conversation with a native speaker.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For as long as she could remember, Yuna had dreamed of opening her own bakery, but she never took the first step. One January morning, staring at a blank notebook, she decided it was time to truly commit to a goal and stopped treating the dream as a someday fantasy. She wrote down a concrete plan: save a set amount each month, take a professional pastry course, and scout a location by autumn. There were weeks when doubt crept in and the savings felt painfully slow, but she kept returning to that handwritten page as her anchor. By the following spring, the smell of fresh bread was drifting out of a small corner shop with her name above the door.",
+    "topicTag": "pursuing a dream",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "목표에 전념하다, 즉 어떤 목표를 이루기 위해 시간과 에너지를 헌신적으로 바치겠다고 결심하는 것을 뜻한다.",
+    "realUsageKo": "단순히 목표를 세우는 것을 넘어 그 목표를 향해 꾸준히 행동하겠다는 강한 의지를 표현할 때 사용한다. 자기계발, 스포츠, 직장, 개인적 도전 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'commit'은 라틴어 'committere(함께 묶다, 맡기다)'에서 유래했으며, 자신을 어떤 대상에 묶어두듯 책임을 지겠다는 의미로 발전했다. 'to a goal'과 결합해 목표 지향적 헌신을 나타낸다.",
+    "nuanceKo": "단순한 희망(hope)이나 계획(plan)보다 훨씬 강한 책임감과 결의를 내포한다. 외부에 선언하거나 구체적인 행동이 뒤따를 때 주로 사용되며, 중도 포기 없이 끝까지 하겠다는 뉘앙스가 강하다.",
+    "shortExampleEn": "If you truly commit to a goal, small daily actions will eventually add up to big results.",
+    "shortExampleKo": "목표에 진정으로 헌신한다면, 매일의 작은 행동들이 결국 큰 결과로 이어질 것이다."
+  }
+}

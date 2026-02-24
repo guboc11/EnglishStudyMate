@@ -1,0 +1,30 @@
+{
+  "id": "run-the-show_3dd3132a",
+  "expression": "run the show",
+  "selectionMeta": {
+    "selectedPhrase": "run the show",
+    "selectedSenseLabelKo": "주도권을 쥐다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Ever since the director left on medical leave, Maya has been running the show and keeping every department on track."
+  },
+  "step2": {
+    "story": "The project was falling apart until Daniel stepped in and decided to run the show himself. Within a week, he had reorganized the entire team and set clear deadlines for everyone.",
+    "topicTag": "workplace leadership",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "When the CEO announced her retirement, everyone wondered who would run the show going forward. The board quietly promoted James, a soft-spoken manager who had spent fifteen years learning every corner of the business. On his first day in charge, he called a company-wide meeting and laid out a bold new direction with calm confidence. Some employees had doubted him at first, but by the end of the quarter it was clear that James knew exactly how to run the show.",
+    "topicTag": "organizational leadership",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "쇼를 운영하다, 즉 공연이나 행사 전체를 관리하다.",
+    "realUsageKo": "어떤 조직, 프로젝트, 또는 상황 전체를 총괄하며 주도권을 쥐고 결정권을 행사할 때 사용한다. 격식·비격식 상황 모두에서 쓰인다.",
+    "etymologyKo": "연극이나 서커스에서 무대 전체를 감독하는 사람을 가리키던 표현에서 유래했으며, 20세기 초부터 일반적인 리더십의 의미로 확장되었다.",
+    "nuanceKo": "중립적으로 리더십을 묘사할 때도 쓰이지만, 맥락에 따라 다른 사람이 통제권을 독점한다는 약간의 비판적 뉘앙스를 담을 수도 있다.",
+    "shortExampleEn": "With the founder abroad, his deputy is running the show.",
+    "shortExampleKo": "창업자가 해외에 있는 동안 그의 부대표가 주도권을 쥐고 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "jump-to-conclusions_2b5908e0",
+  "expression": "jump to conclusions",
+  "selectionMeta": {
+    "selectedPhrase": "jump to conclusions",
+    "selectedSenseLabelKo": "성급한 결론을 내리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't jump to conclusions just because he didn't reply — he's probably just busy."
+  },
+  "step2": {
+    "story": "When Maya saw her colleague leave the meeting early, she jumped to conclusions and assumed he was upset with her. Later, she found out he simply had a doctor's appointment. She promised herself to ask before assuming next time.",
+    "topicTag": "workplace misunderstanding",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Tom noticed that his best friend had been unusually quiet all week and wasn't responding to messages as quickly as usual. He jumped to conclusions, convinced that he had somehow offended him at last Saturday's gathering. For days, Tom replayed every conversation in his head, growing more anxious with each passing hour. Finally, he sent a long apologetic message — only to receive a laughing reply explaining that his friend had simply lost his phone charger and was conserving battery. Tom shook his head and laughed at himself, realizing how much unnecessary stress he had created by not simply asking sooner.",
+    "topicTag": "friendship communication",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "결론으로 뛰어오른다는 뜻으로, 충분한 근거 없이 빠르게 판단을 내리는 것을 의미합니다.",
+    "realUsageKo": "상황을 제대로 파악하기 전에 섣불리 결론을 내릴 때 사용하며, 주로 누군가의 성급한 판단을 지적하거나 경고할 때 씁니다.",
+    "etymologyKo": "18세기부터 사용된 표현으로, '결론을 향해 건너뛴다(jump over the reasoning process)'는 개념에서 유래했습니다.",
+    "nuanceKo": "가벼운 비판이나 자기반성의 맥락에서 자주 사용되며, 직접적으로 틀렸다고 지적하기보다 사고 과정의 성급함을 부드럽게 꼬집는 뉘앙스를 가집니다.",
+    "shortExampleEn": "She jumped to conclusions when she saw the empty box and thought someone had stolen her lunch.",
+    "shortExampleKo": "그녀는 빈 상자를 보고 누군가 자신의 점심을 훔쳤다고 성급하게 결론을 내렸다."
+  }
+}

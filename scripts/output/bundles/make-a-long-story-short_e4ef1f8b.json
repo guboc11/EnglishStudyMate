@@ -1,0 +1,30 @@
+{
+  "id": "make-a-long-story-short_e4ef1f8b",
+  "expression": "make a long story short",
+  "selectionMeta": {
+    "selectedPhrase": "make a long story short",
+    "selectedSenseLabelKo": "간단히 말하면",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "To make a long story short, we missed the flight and had to book a hotel for the night."
+  },
+  "step2": {
+    "story": "Jake started explaining everything that went wrong during his business trip—the delayed trains, the lost luggage, and the mix-up at the hotel. His colleague interrupted him with a smile: 'Just make a long story short, Jake—did you get the deal?' Jake sighed and nodded, 'Yes, we did.'",
+    "topicTag": "business travel",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sara had been on the phone with customer support for over an hour, navigating a maze of automated menus and hold music. When she finally reached a real person, she took a deep breath and decided not to recount every frustrating detail. 'Let me make a long story short,' she said calmly. 'I ordered a laptop two weeks ago, it arrived broken, and I just need a replacement.' The agent on the other end paused, then replied, 'That's all I needed to know—I'll process your replacement right away.' Sara leaned back in her chair, relieved that cutting to the chase had actually worked.",
+    "topicTag": "customer service",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "긴 이야기를 짧게 만들다.",
+    "realUsageKo": "복잡하거나 긴 상황을 설명할 때, 세부 사항을 생략하고 핵심만 간결하게 전달하겠다는 의미로 사용한다. 주로 이야기를 시작하거나 정리할 때 앞에 붙인다.",
+    "etymologyKo": "17세기 영어 문학에서 등장한 표현으로, 장황한 이야기를 요약하겠다는 의도를 청자에게 미리 알리는 관용구로 자리 잡았다.",
+    "nuanceKo": "격식·비격식 모두 사용 가능하며, 자조적이거나 약간 유머러스한 뉘앙스를 담기도 한다. 화자가 자신의 말이 길어질 수 있음을 인식하고 있다는 겸손함을 표현한다.",
+    "shortExampleEn": "To make a long story short, I quit my job and started my own business.",
+    "shortExampleKo": "간단히 말하면, 나는 회사를 그만두고 내 사업을 시작했어."
+  }
+}

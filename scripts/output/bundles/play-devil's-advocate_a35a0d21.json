@@ -1,0 +1,30 @@
+{
+  "id": "play-devil's-advocate_a35a0d21",
+  "expression": "play devil's advocate",
+  "selectionMeta": {
+    "selectedPhrase": "play devil's advocate",
+    "selectedSenseLabelKo": "반론을 제기하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the strategy meeting, Sarah decided to play devil's advocate and challenged every assumption the team had made about the new product launch."
+  },
+  "step2": {
+    "story": "The team was convinced their marketing plan was flawless, but Daniel chose to play devil's advocate and pointed out several overlooked risks. His counterarguments were uncomfortable to hear, but they ultimately led to a stronger, more resilient strategy.",
+    "topicTag": "workplace discussion",
+    "moodTag": "constructive"
+  },
+  "step3": {
+    "story": "Professor Kim's philosophy seminar was known for its intense debates. Whenever students reached a comfortable consensus, she would play devil's advocate, presenting the strongest possible case for the opposing view. At first, students found it frustrating — they wanted validation, not more questions. But over time, they realized her challenges were sharpening their thinking. By the end of the semester, each student had learned to question their own beliefs before anyone else could. It was an uncomfortable habit, but an invaluable one.",
+    "topicTag": "academic debate",
+    "moodTag": "intellectually challenging"
+  },
+  "meaning": {
+    "literalMeaningKo": "악마의 변호인 역할을 맡다.",
+    "realUsageKo": "자신이 실제로 그 의견에 동의하지 않더라도, 토론을 심화시키거나 논리를 검증하기 위해 의도적으로 반대 입장을 취하는 것을 의미한다.",
+    "etymologyKo": "가톨릭 교회의 시성(諡聖) 절차에서 유래했다. '악마의 변호인(Advocatus Diaboli)'은 성인 후보자의 약점과 결점을 공식적으로 논증하던 직책으로, 검증 과정에서 반론을 제기하는 역할을 맡았다.",
+    "nuanceKo": "부정적인 의도 없이 논리 점검이나 토론 활성화를 위해 쓰이며, 주로 지적·전문적인 맥락에서 사용된다. 단순한 트집 잡기와 달리 건설적인 비판의 뉘앙스를 가진다.",
+    "shortExampleEn": "I'll play devil's advocate here — what if our biggest assumption turns out to be wrong?",
+    "shortExampleKo": "여기서 반론을 한번 제기해 볼게요 — 우리의 가장 핵심적인 가정이 틀렸다면 어떻게 될까요?"
+  }
+}

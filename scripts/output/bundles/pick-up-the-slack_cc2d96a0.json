@@ -1,0 +1,30 @@
+{
+  "id": "pick-up-the-slack_cc2d96a0",
+  "expression": "pick up the slack",
+  "selectionMeta": {
+    "selectedPhrase": "pick up the slack",
+    "selectedSenseLabelKo": "빈자리를 메우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When our lead developer went on leave, the rest of the team had to pick up the slack and finish the project on time."
+  },
+  "step2": {
+    "story": "After Maya quit without notice, her colleagues scrambled to pick up the slack. Nobody complained — they just divided her tasks and kept moving forward.",
+    "topicTag": "workplace",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The restaurant had been understaffed all summer, and every shift felt like a battle. When their most experienced server called in sick on the busiest Friday of the year, the kitchen crew knew they'd have to pick up the slack. The chef started taking orders himself, the dishwasher helped run food, and even the manager stepped behind the bar. By closing time, every table had been served and no guest had left unhappy. It wasn't easy, but the team had come together when it mattered most.",
+    "topicTag": "teamwork",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "느슨해진 부분(slack)을 집어 올린다(pick up)는 의미로, 팽팽하게 당겨야 할 부분이 처져 있을 때 이를 잡아당기는 동작에서 유래합니다.",
+    "realUsageKo": "누군가 자리를 비우거나 역할을 제대로 하지 못할 때, 다른 사람이 그 빈자리를 채우고 부족한 부분을 보완한다는 뜻으로 사용합니다.",
+    "etymologyKo": "'slack'은 밧줄이나 천이 느슨하게 처진 상태를 가리키는 말로, 항해에서 돛줄의 느슨한 부분을 팽팽하게 당기는 행위에서 이 표현이 생겨났습니다.",
+    "nuanceKo": "주로 직장이나 팀 환경에서 쓰이며, 자발적인 책임감과 협력의 뉘앙스를 담고 있습니다. 때로는 불만의 뉘앙스 없이 담담하게 역할을 수행한다는 의미로도 쓰입니다.",
+    "shortExampleEn": "Can you pick up the slack while I'm on vacation?",
+    "shortExampleKo": "내가 휴가 가 있는 동안 네가 빈자리를 좀 메워줄 수 있어?"
+  }
+}

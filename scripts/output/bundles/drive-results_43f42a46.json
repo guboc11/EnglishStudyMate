@@ -1,0 +1,30 @@
+{
+  "id": "drive-results_43f42a46",
+  "expression": "drive results",
+  "selectionMeta": {
+    "selectedPhrase": "drive results",
+    "selectedSenseLabelKo": "성과를 이끌다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The new marketing strategy helped the team drive results that exceeded the quarterly targets by 20%."
+  },
+  "step2": {
+    "story": "After months of preparation, Sarah launched the product campaign with a clear vision. Her data-driven approach and relentless focus on customer needs helped drive results that surprised even the most skeptical executives.",
+    "topicTag": "marketing campaign",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had just taken over as head of the underperforming sales department. The first thing he did was sit down with each team member to understand what was holding them back. He restructured the incentive plan, introduced weekly coaching sessions, and set clear, measurable goals for everyone. Within two quarters, the changes began to drive results no one had thought possible — revenue climbed 35% and morale was at an all-time high. At the company-wide meeting, the CEO singled out James's team as the model for the rest of the organization.",
+    "topicTag": "sales leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "결과를 이끌어내다, 즉 어떤 행동이나 전략이 긍정적인 성과를 만들어낸다는 뜻이다.",
+    "realUsageKo": "비즈니스 환경에서 전략, 리더십, 또는 특정 이니셔티브가 측정 가능한 성과나 성공을 가져올 때 사용한다. 주로 성과 중심 문화에서 자주 등장하는 표현이다.",
+    "etymologyKo": "'Drive'는 고대 영어 'drīfan'에서 유래해 '힘으로 앞으로 나아가게 하다'라는 의미를 가지며, 'results'와 결합해 목표를 향해 성과를 끌어낸다는 뉘앙스를 형성했다.",
+    "nuanceKo": "단순히 결과가 나왔다는 사실 보고보다 능동적이고 의도적인 노력으로 성과를 만들어냈다는 점을 강조하는 표현이다. 리더십과 실행력을 부각할 때 적합하다.",
+    "shortExampleEn": "Her innovative approach to customer engagement helped drive results across all sales channels.",
+    "shortExampleKo": "고객 참여에 대한 그녀의 혁신적인 접근 방식은 모든 판매 채널에서 성과를 이끌어내는 데 기여했다."
+  }
+}

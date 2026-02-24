@@ -1,0 +1,30 @@
+{
+  "id": "take-the-plunge_28f25425",
+  "expression": "take the plunge",
+  "selectionMeta": {
+    "selectedPhrase": "take the plunge",
+    "selectedSenseLabelKo": "결정적인 도약을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of hesitation, she finally decided to take the plunge and quit her corporate job to open her own bakery."
+  },
+  "step2": {
+    "story": "Marcus had been saving for years, dreaming of starting his own business but always finding reasons to wait. One morning, he looked at his bank account and decided the time was right. He took the plunge, handed in his resignation, and filed his business registration that same week.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Emma had been renting the same small apartment for six years, telling herself the housing market was never quite right to buy. Her friends urged her to stop overthinking, but every time she toured a new place, doubt crept back in. Then one spring afternoon, she walked into a cozy townhouse on Maple Street and felt something click inside her. She called her realtor on the spot and decided to take the plunge. The mortgage paperwork was daunting and the down payment wiped out most of her savings, but she signed anyway. Standing in her empty living room that first night, keys in hand, she knew the leap had been worth it.",
+    "topicTag": "homeownership",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "물속으로 뛰어들다.",
+    "realUsageKo": "오랜 망설임 끝에 중요한 결정을 내리거나, 위험을 감수하고 과감히 행동에 나설 때 사용합니다. 큰 변화나 도전을 앞두고 마침내 실행에 옮기는 상황에 자주 쓰입니다.",
+    "etymologyKo": "다이빙이나 수영에서 물속으로 뛰어드는 행위에서 유래했습니다. 처음에는 차가운 물에 뛰어드는 두려움을 극복하는 것을 의미하다가, 점차 어떤 중요한 일을 과감히 시작하는 비유적 표현으로 확장되었습니다.",
+    "nuanceKo": "결정을 내리기까지 상당한 고민이나 두려움이 있었음을 내포합니다. 주로 긍정적인 맥락에서 쓰이며, 용기 있는 결단을 칭찬하거나 스스로를 격려할 때 자주 등장합니다.",
+    "shortExampleEn": "He finally took the plunge and proposed to his girlfriend.",
+    "shortExampleKo": "그는 마침내 결심하고 여자친구에게 청혼했다."
+  }
+}

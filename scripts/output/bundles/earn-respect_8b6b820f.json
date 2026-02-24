@@ -1,0 +1,30 @@
+{
+  "id": "earn-respect_8b6b820f",
+  "expression": "earn respect",
+  "selectionMeta": {
+    "selectedPhrase": "earn respect",
+    "selectedSenseLabelKo": "존중을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She worked hard every day to earn respect from her colleagues and prove her dedication to the team."
+  },
+  "step2": {
+    "story": "Marcus was new to the neighborhood and nobody paid much attention to him. He quietly helped an elderly neighbor carry groceries every week without asking for anything in return. Slowly, he began to earn respect from everyone on the block.",
+    "topicTag": "community",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Priya joined the research lab as a junior scientist, the senior staff barely acknowledged her presence. She didn't complain or try to impress anyone with words. Instead, she stayed late, double-checked her data, and always helped teammates when they were stuck. Month by month, her quiet consistency began to earn respect from even the most skeptical professors. By the end of the year, they were asking for her input in meetings. Priya had learned that respect wasn't demanded — it was built, one careful action at a time.",
+    "topicTag": "professional growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "노력이나 행동을 통해 다른 사람의 존중을 얻어내다.",
+    "realUsageKo": "단순히 존중받는 것이 아니라, 자신의 행동·태도·노력으로 인해 주변 사람들이 자연스럽게 존중하게 되는 상황을 표현한다. 직장, 사회관계, 스포츠 등 다양한 상황에서 폭넓게 쓰인다.",
+    "etymologyKo": "'earn'은 고대 영어 'earnian'(노동으로 무언가를 얻다)에서 유래했으며, 'respect'는 라틴어 'respectus'(돌아보다, 다시 살펴보다)에서 왔다. 두 단어가 결합되어 '노력으로 존중을 획득한다'는 의미를 형성한다.",
+    "nuanceKo": "존중이 저절로 주어지는 것이 아니라 반드시 행동과 시간을 통해 쌓아야 한다는 뉘앙스를 담고 있다. 수동적으로 '받는' 것이 아닌 능동적으로 '획득하는' 느낌이 강하다.",
+    "shortExampleEn": "You have to earn respect; it's never given for free.",
+    "shortExampleKo": "존중은 얻어내야 하는 것이지, 그냥 주어지는 것이 아니다."
+  }
+}

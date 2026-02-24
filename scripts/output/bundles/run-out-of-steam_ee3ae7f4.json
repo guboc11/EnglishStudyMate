@@ -1,0 +1,30 @@
+{
+  "id": "run-out-of-steam_ee3ae7f4",
+  "expression": "run out of steam",
+  "selectionMeta": {
+    "selectedPhrase": "run out of steam",
+    "selectedSenseLabelKo": "기운이 빠지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After working non-stop for twelve hours, she finally ran out of steam and had to take a break."
+  },
+  "step2": {
+    "story": "Jake had been enthusiastically repainting his apartment all morning. By mid-afternoon, he ran out of steam and slumped onto the floor surrounded by half-finished walls. He decided to call a friend to come help him push through the rest.",
+    "topicTag": "home renovation",
+    "moodTag": "exhausted"
+  },
+  "step3": {
+    "story": "Maya had signed up for her first marathon with enormous confidence, training hard through the cold winter months. On race day, she started at a strong pace, energized by the cheering crowds lining the streets. But around the twenty-mile mark, she began to run out of steam—her legs felt like lead and her breathing grew ragged. She slowed to a walk, doubting whether she could finish. Then she remembered why she had started: her late father, who had always told her to keep moving no matter what. Drawing on that memory, she pushed through the final miles and crossed the finish line with tears in her eyes.",
+    "topicTag": "marathon",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "증기(스팀)가 다 떨어지다.",
+    "realUsageKo": "어떤 일을 하다가 에너지나 의욕이 바닥나서 더 이상 계속하기 힘든 상태를 표현할 때 씁니다. 사람뿐 아니라 프로젝트나 협상처럼 추진력이 필요한 상황에도 사용됩니다.",
+    "etymologyKo": "19세기 증기 기관(steam engine) 시대에서 유래한 표현입니다. 증기가 모두 소모되면 기관차나 기계가 멈추는 것에 빗대어 사람이나 활동이 동력을 잃는 상황을 나타내게 되었습니다.",
+    "nuanceKo": "단순히 피곤하다는 의미 외에, 프로젝트나 운동·협상 등의 추진력 자체가 사라졌다는 뉘앙스가 강합니다. 다소 구어적이며, 자신이나 타인의 한계를 자연스럽게 인정하는 편안한 어조로 쓰입니다.",
+    "shortExampleEn": "The negotiations ran out of steam after both sides refused to compromise.",
+    "shortExampleKo": "양측이 타협을 거부하면서 협상은 동력을 잃었다."
+  }
+}

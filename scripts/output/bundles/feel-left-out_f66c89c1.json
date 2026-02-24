@@ -1,0 +1,30 @@
+{
+  "id": "feel-left-out_f66c89c1",
+  "expression": "feel left out",
+  "selectionMeta": {
+    "selectedPhrase": "feel left out",
+    "selectedSenseLabelKo": "소외감을 느끼다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She felt left out when her coworkers went to lunch without inviting her."
+  },
+  "step2": {
+    "story": "Everyone at the party was laughing and sharing inside jokes, but Tom didn't know anyone there. He stood by the snack table, quietly sipping his drink, feeling left out. Eventually, a friendly stranger noticed him and struck up a conversation.",
+    "topicTag": "social gathering",
+    "moodTag": "lonely"
+  },
+  "step3": {
+    "story": "Mia had just transferred to a new school mid-semester, and the friend groups were already well established. During lunch, she watched clusters of students chatting and laughing at tables she wasn't welcome at, and she deeply felt left out. She ate alone for the first week, scrolling through her phone to look busy. One afternoon, a girl named Sophie slid a tray next to hers and said, 'I remember my first week here — it was brutal.' From that moment, Mia no longer had to feel left out.",
+    "topicTag": "school life",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '밖에 남겨진 느낌'을 뜻한다.",
+    "realUsageKo": "어떤 그룹이나 활동에서 제외되어 소외감이나 외로움을 느낄 때 사용한다. 의도적 배제뿐 아니라 실수로 빠진 상황에도 쓸 수 있다.",
+    "etymologyKo": "'leave out'은 '빠뜨리다, 제외하다'는 뜻의 구동사로, 여기에 감정을 나타내는 'feel'이 결합되어 '소외감을 느끼다'는 의미가 되었다.",
+    "nuanceKo": "단순한 물리적 배제보다 감정적 소외감을 강조하는 표현이다. 친구 모임, 직장, 가족 상황 등 다양한 인간관계에서 자연스럽게 사용된다.",
+    "shortExampleEn": "He felt left out when no one told him about the team outing.",
+    "shortExampleKo": "팀 회식 소식을 아무도 알려주지 않아서 그는 소외감을 느꼈다."
+  }
+}

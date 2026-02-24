@@ -1,0 +1,30 @@
+{
+  "id": "expand-your-network_950eeee4",
+  "expression": "expand your network",
+  "selectionMeta": {
+    "selectedPhrase": "expand your network",
+    "selectedSenseLabelKo": "네트워크를 확장하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Attending industry conferences is one of the best ways to expand your network and open doors to new opportunities."
+  },
+  "step2": {
+    "story": "After being passed over for a promotion, Maya decided it was time to expand your network beyond her immediate team. She signed up for a local tech meetup and exchanged contacts with a dozen professionals in her field. Within months, one of those connections referred her to a role that doubled her salary.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had spent five years at the same company, comfortable but stagnant. His mentor pulled him aside one afternoon and urged him to expand your network if he ever hoped to move into leadership. Taking the advice seriously, Daniel began attending weekly networking breakfasts and joined two professional associations he had long ignored. He started sharing insights online and was surprised when executives from rival firms began responding to his posts. One casual coffee meeting led to a consulting contract, then a full-time offer he couldn't refuse. Looking back, he realized that expanding his network hadn't just advanced his career — it had reshaped how he thought about opportunity altogether.",
+    "topicTag": "professional networking",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 인맥(네트워크)을 더 넓고 크게 늘린다는 뜻이다.",
+    "realUsageKo": "비즈니스 맥락에서 새로운 사람들을 만나고 직업적 관계를 쌓아 기회를 넓히는 행동을 가리킬 때 사용한다. 단순한 친목이 아닌 경력 개발, 파트너십 발굴, 업계 정보 획득 등 전략적 목적을 내포한다.",
+    "etymologyKo": "'expand'는 라틴어 expandere(펼치다)에서 유래했으며, 'network'는 그물(net)처럼 촘촘히 연결된 관계망을 의미한다. 1980년대 이후 비즈니스 영어에서 인맥 관리를 뜻하는 핵심 표현으로 자리 잡았다.",
+    "nuanceKo": "능동적이고 의도적인 노력을 강조하는 표현으로, 단순히 아는 사람이 늘어나는 것이 아니라 본인이 적극적으로 관계를 구축한다는 뉘앙스를 담고 있다. 이력서나 링크드인 프로필에도 자주 등장하는 공식적인 비즈니스 어투이다.",
+    "shortExampleEn": "She joined a mentorship program to expand your network and gain new perspectives.",
+    "shortExampleKo": "그녀는 인맥을 넓히고 새로운 시각을 얻기 위해 멘토링 프로그램에 참여했다."
+  }
+}

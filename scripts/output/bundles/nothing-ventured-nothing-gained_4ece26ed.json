@@ -1,0 +1,30 @@
+{
+  "id": "nothing-ventured-nothing-gained_4ece26ed",
+  "expression": "nothing ventured nothing gained",
+  "selectionMeta": {
+    "selectedPhrase": "nothing ventured nothing gained",
+    "selectedSenseLabelKo": "모험 없이는 얻는 것도 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to apply for the prestigious scholarship abroad, reminding herself that nothing ventured nothing gained."
+  },
+  "step2": {
+    "story": "Marcus had been hesitating for months about asking his boss for a promotion. His mentor finally told him, 'Nothing ventured nothing gained — the worst she can say is no.' He took a deep breath, walked into her office, and made his case.",
+    "topicTag": "career growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Priya had always dreamed of starting her own bakery, but the thought of leaving her stable office job terrified her. For two years she kept the business plan tucked in a drawer, convincing herself the timing wasn't right. One evening, her grandmother noticed the folder and said softly, 'Nothing ventured nothing gained, my dear — regret hurts far longer than failure.' The words stayed with Priya all night. By morning she had emailed her landlord about a small commercial space and submitted her resignation letter. Six months later, the warm smell of fresh bread greeted customers at the door of Priya's Pastries, and she couldn't imagine having chosen any other path.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "아무것도 시도하지 않으면 아무것도 얻을 수 없다.",
+    "realUsageKo": "위험을 감수하거나 새로운 시도를 해야만 좋은 결과를 얻을 수 있다는 뜻으로, 누군가에게 용기를 내어 도전하도록 격려할 때 사용한다.",
+    "etymologyKo": "중세 영어 속담에서 유래한 표현으로, 14세기부터 'nought venture nought have' 형태로 기록되어 있으며, 오랜 세월을 거쳐 현재의 형태로 굳어졌다.",
+    "nuanceKo": "주로 긍정적이고 격려하는 어조로 사용되며, 두려움이나 망설임을 극복하도록 독려하는 상황에서 자주 쓰인다. 충고나 자기 다짐의 맥락 모두에 잘 어울린다.",
+    "shortExampleEn": "I was nervous about auditioning, but nothing ventured nothing gained, so I went for it.",
+    "shortExampleKo": "오디션이 두려웠지만, 모험 없이는 얻는 것도 없다는 마음으로 도전했다."
+  }
+}

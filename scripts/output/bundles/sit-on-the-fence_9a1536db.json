@@ -1,0 +1,30 @@
+{
+  "id": "sit-on-the-fence_9a1536db",
+  "expression": "sit on the fence",
+  "selectionMeta": {
+    "selectedPhrase": "sit on the fence",
+    "selectedSenseLabelKo": "입장을 정하지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always sits on the fence when the team argues about the new policy, never committing to either side."
+  },
+  "step2": {
+    "story": "During the heated company meeting, everyone expected Marcus to voice his opinion on the restructuring plan. Instead, he chose to sit on the fence, saying he could see merit in both proposals. His colleagues grew frustrated, wishing he would just pick a side.",
+    "topicTag": "workplace decision",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "The neighborhood association had been divided for weeks over whether to allow a new shopping center to be built on the old park land. When it was finally time to vote, all eyes turned to Diana, the most respected member of the group. True to form, she sat on the fence, listing the economic benefits on one hand and the environmental concerns on the other. The room grew tense as people urged her to commit. Diana sighed and admitted that sitting on the fence had always been her way of avoiding conflict, but she knew that this time, the community needed her to lead. She took a deep breath and cast her vote.",
+    "topicTag": "community conflict",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "울타리 위에 앉는다는 뜻으로, 어느 쪽에도 내려오지 않는 모습을 나타낸다.",
+    "realUsageKo": "어떤 논쟁이나 결정에서 어느 편도 들지 않고 중립을 유지하거나 입장 표명을 회피할 때 사용한다.",
+    "etymologyKo": "19세기 미국 정치 언어에서 유래했으며, 울타리(fence)가 두 영역의 경계를 상징하는 데서 비롯되었다.",
+    "nuanceKo": "우유부단하거나 비겁하다는 부정적 뉘앙스를 담고 있으며, 결단력 부족을 비판할 때 자주 쓰인다.",
+    "shortExampleEn": "You can't sit on the fence forever — you need to decide whether you support the new policy or not.",
+    "shortExampleKo": "언제까지나 입장을 정하지 않을 수는 없어 — 새 정책을 지지하는지 아닌지 결정해야 해."
+  }
+}

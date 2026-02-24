@@ -1,0 +1,30 @@
+{
+  "id": "break-a-sweat_6cd5fecc",
+  "expression": "break a sweat",
+  "selectionMeta": {
+    "selectedPhrase": "break a sweat",
+    "selectedSenseLabelKo": "땀을 흘리다 / 애쓰다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She carried all the grocery bags up five flights of stairs without breaking a sweat."
+  },
+  "step2": {
+    "story": "Jake finished the entire 1,000-piece puzzle in under two hours without breaking a sweat. His friends watched in disbelief as he snapped the last piece into place and leaned back with a grin.",
+    "topicTag": "daily challenge",
+    "moodTag": "effortless"
+  },
+  "step3": {
+    "story": "Everyone in the office was dreading the year-end report, but Maya had been preparing quietly for weeks. When the deadline arrived, she submitted the finished document before lunch without breaking a sweat. Her manager scrolled through the polished slides, eyebrows raised in surprise. 'How did you do this so fast?' he asked. Maya just shrugged and said she had simply stayed one step ahead. The rest of the team exchanged glances, quietly vowing to start earlier next time.",
+    "topicTag": "work preparation",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "땀을 흘리다 — 신체적으로 땀이 나는 상태를 말한다.",
+    "realUsageKo": "실제로는 '전혀 힘들이지 않고 해내다' 또는 '별 노력 없이 처리하다'는 의미로 쓰인다. 주로 부정문(without breaking a sweat)으로 쓰여 어떤 일이 그 사람에게 전혀 어렵지 않음을 강조한다.",
+    "etymologyKo": "격렬한 활동을 할 때 땀이 난다는 신체 반응에서 유래했다. 땀을 흘리지 않는다는 것은 그만큼 힘을 쓰지 않았다는 뜻이 되어, '힘들이지 않고 해내다'라는 의미가 굳어졌다.",
+    "nuanceKo": "상대방의 능력을 칭찬하거나 놀라움을 표현할 때 자주 쓰인다. 때로는 반어적으로 사용하여 사실은 많이 힘들었지만 겉으로 아무렇지 않게 보였다는 뉘앙스를 줄 수도 있다.",
+    "shortExampleEn": "He solved three math problems on the board without breaking a sweat.",
+    "shortExampleKo": "그는 칠판에 적힌 수학 문제 세 개를 땀 한 방울 흘리지 않고 풀어냈다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sleep-on-it_41b9a64e",
+  "expression": "sleep on it",
+  "selectionMeta": {
+    "selectedPhrase": "sleep on it",
+    "selectedSenseLabelKo": "하룻밤 생각해 보다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "The job offer sounds exciting, but I told them I needed to sleep on it before giving my final answer."
+  },
+  "step2": {
+    "story": "Maria received two competing job offers and felt overwhelmed by the decision. Her mentor advised her to sleep on it rather than rush into anything. The next morning, with a clear head, the right choice felt obvious.",
+    "topicTag": "career decision",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "Jake had been staring at the contract for nearly an hour, his pen hovering just above the signature line. The deal seemed too good to pass up, but something in the back of his mind kept nagging at him. His business partner noticed his hesitation and placed a hand on his shoulder. 'You don't have to sign tonight,' she said quietly. 'Sleep on it — the deal will still be here tomorrow.' Jake set the pen down, grateful for the reminder that important decisions rarely need to be made in the moment. By morning, he had spotted a clause he would have otherwise missed.",
+    "topicTag": "business decision",
+    "moodTag": "cautious"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '그것 위에서 자다'라는 뜻이다.",
+    "realUsageKo": "중요한 결정을 내리기 전에 서두르지 않고 하룻밤 동안 충분히 생각해 보라는 의미로 사용한다. 보통 누군가에게 즉각적인 답변을 요구받을 때 '좀 더 생각해 보겠다'는 뜻으로 쓴다.",
+    "etymologyKo": "수면 중에 뇌가 낮 동안 얻은 정보를 정리하고 통합한다는 개념에서 비롯되었으며, 17세기부터 영어에서 사용된 표현이다.",
+    "nuanceKo": "성급한 결정을 경계하는 신중하고 차분한 어조를 담고 있다. 거절을 완곡하게 표현하거나 시간을 벌 때도 자연스럽게 쓸 수 있는 정중한 표현이다.",
+    "shortExampleEn": "It's a big purchase — why don't you sleep on it and decide tomorrow?",
+    "shortExampleKo": "큰 구매 결정이잖아 — 하룻밤 생각해 보고 내일 결정하는 게 어때?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hold-your-horses_7dad209e",
+  "expression": "hold your horses",
+  "selectionMeta": {
+    "selectedPhrase": "hold your horses",
+    "selectedSenseLabelKo": "잠깐 기다려라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Hold your horses — we need to review the contract before signing anything."
+  },
+  "step2": {
+    "story": "Everyone at the meeting was ready to vote on the new proposal right away. The manager raised her hand and said, 'Hold your horses — we haven't heard from the legal team yet.' The room settled down, and they agreed to wait until all the facts were in.",
+    "topicTag": "workplace decision-making",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Jake had been saving up for months and finally found a car he loved at the dealership. He was about to hand over his credit card when his older brother grabbed his arm. 'Hold your horses,' his brother said with a firm look. 'You haven't even taken it for a test drive or checked the service history.' Jake paused, feeling the excitement drain into embarrassment — he had almost made a huge mistake. They spent the next hour going over every detail, and in the end, Jake discovered the car had been in two accidents. He walked out without it, grateful his brother had made him slow down.",
+    "topicTag": "impulsive decisions",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "말(horse)을 붙잡고 있으라는 뜻으로, 말이 달려나가지 않도록 제어하는 모습에서 비롯됐습니다.",
+    "realUsageKo": "실제로는 '잠깐 멈춰라', '서두르지 마라'는 의미로 사용되며, 누군가 너무 급하게 행동하려 할 때 제지하는 표현입니다.",
+    "etymologyKo": "19세기 미국에서 마차나 말을 이용하던 시절, 출발을 서두르는 마부에게 말을 진정시키라고 외치던 데서 유래했습니다.",
+    "nuanceKo": "가벼운 경고나 제지의 뉘앙스를 가지며, 화가 난 것보다는 '잠깐만, 천천히 가자'는 친근하고 구어적인 톤입니다.",
+    "shortExampleEn": "Hold your horses! The store doesn't open for another ten minutes.",
+    "shortExampleKo": "잠깐만요! 가게가 열리려면 아직 10분이나 남았어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fuel-growth_cdce53da",
+  "expression": "fuel growth",
+  "selectionMeta": {
+    "selectedPhrase": "fuel growth",
+    "selectedSenseLabelKo": "성장을 촉진하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The company plans to reinvest its profits to fuel growth in emerging markets."
+  },
+  "step2": {
+    "story": "After securing a major round of funding, the startup used the capital to fuel growth by doubling its engineering team. Within six months, their user base had tripled and revenue was climbing steadily.",
+    "topicTag": "startup funding",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "Maya stood before the board, presenting the five-year expansion plan she had spent months preparing. 'We need to fuel growth aggressively,' she said, pointing to the untapped markets in Southeast Asia. The board members leaned in as she outlined how strategic partnerships and targeted marketing would drive adoption. By the end of the presentation, every head in the room was nodding — they had all seen the same opportunity. The vote to approve the budget was unanimous, and Maya left the meeting with renewed energy, ready to build something extraordinary.",
+    "topicTag": "business expansion",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "연료를 공급하듯이 성장을 촉진하거나 가속화한다는 뜻입니다.",
+    "realUsageKo": "비즈니스나 경제 맥락에서 투자, 전략, 혁신 등이 성장을 이끄는 원동력이 될 때 사용합니다. '성장을 촉진하다', '성장을 가속화하다'와 같은 의미로 자주 쓰입니다.",
+    "etymologyKo": "'fuel'은 고대 프랑스어 'fouaille'에서 유래해 '불을 지피는 연료'를 의미했으며, 이후 비유적으로 '어떤 것을 추진하거나 강화하는 힘'을 뜻하게 되었습니다.",
+    "nuanceKo": "단순히 성장을 돕는다는 것 이상으로, 에너지나 자원을 적극적으로 투입해 성장을 강력하게 밀어붙인다는 뉘앙스가 있습니다. 능동적이고 목적의식적인 행동을 강조할 때 사용됩니다.",
+    "shortExampleEn": "New partnerships helped fuel growth across all business segments.",
+    "shortExampleKo": "새로운 파트너십은 모든 사업 부문의 성장을 촉진하는 데 도움이 되었습니다."
+  }
+}

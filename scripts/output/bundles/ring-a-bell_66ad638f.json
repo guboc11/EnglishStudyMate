@@ -1,0 +1,30 @@
+{
+  "id": "ring-a-bell_66ad638f",
+  "expression": "ring a bell",
+  "selectionMeta": {
+    "selectedPhrase": "ring a bell",
+    "selectedSenseLabelKo": "어디서 들어본 것 같다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "The name of the restaurant doesn't ring a bell, but maybe I've seen it somewhere before."
+  },
+  "step2": {
+    "story": "Sarah mentioned a colleague named Marcus, and the name immediately rang a bell for Daniel. He couldn't quite place where he'd heard it, but something about it felt familiar. Later that evening, he realized Marcus was someone he'd met briefly at a conference two years ago.",
+    "topicTag": "memory and recognition",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "While flipping through an old photo album, Mia came across a picture of a woman she didn't fully recognize. The face rang a bell, but she couldn't put a name to it. She asked her mother, who laughed and pointed out that the woman was their neighbor from when Mia was only four years old. Suddenly, a few faint memories began to surface — the smell of fresh-baked cookies and a warm front porch. It was strange how a single image could unlock something buried so deep in her mind. Mia sat quietly for a moment, letting the fragments of the past slowly come back together.",
+    "topicTag": "nostalgia and memory",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "종(bell)이 울리다 — 머릿속에서 무언가가 딸랑 울리는 듯한 느낌.",
+    "realUsageKo": "어떤 이름, 장소, 정보를 들었을 때 확실히 기억나지는 않지만 어딘가서 들어본 것 같다는 느낌을 표현할 때 쓴다. 주로 'That rings a bell' 또는 'Does that ring a bell?' 형태로 사용된다.",
+    "etymologyKo": "19세기 영어에서 유래한 표현으로, 종소리가 사람의 주의를 환기시키듯 기억 속 어딘가를 '울린다'는 비유에서 비롯되었다.",
+    "nuanceKo": "완전히 기억한다는 의미가 아니라 희미하게 낯익다는 뉘앙스를 담고 있으며, 가볍고 일상적인 대화에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "Does the name 'Green Valley Inn' ring a bell?",
+    "shortExampleKo": "'그린 밸리 인'이라는 이름, 어디서 들어본 것 같지 않아?"
+  }
+}

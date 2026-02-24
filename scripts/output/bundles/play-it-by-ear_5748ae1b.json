@@ -1,0 +1,30 @@
+{
+  "id": "play-it-by-ear_5748ae1b",
+  "expression": "play it by ear",
+  "selectionMeta": {
+    "selectedPhrase": "play it by ear",
+    "selectedSenseLabelKo": "그때그때 판단하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We don't have a strict itinerary for the trip, so we'll just play it by ear and see what feels right each day."
+  },
+  "step2": {
+    "story": "Sarah didn't book any restaurants for her anniversary dinner — she wanted to play it by ear depending on how she and her husband felt that evening. They ended up wandering into a cozy little bistro they'd never noticed before, and it turned out to be perfect.",
+    "topicTag": "spontaneous plans",
+    "moodTag": "relaxed"
+  },
+  "step3": {
+    "story": "When Marcus arrived in Lisbon with no hotel reservation and no tour booked, his friends thought he was crazy. But Marcus had learned long ago that the best travel experiences happen when you play it by ear. On his first morning, he simply followed a street musician's melody down a winding alley, which led him to a tiny market full of local vendors. By afternoon, he'd been invited to a family's Sunday lunch, something no guidebook could have arranged. That evening, sitting on a terrace overlooking the city, he raised his glass to the beauty of improvised living.",
+    "topicTag": "solo travel",
+    "moodTag": "adventurous"
+  },
+  "meaning": {
+    "literalMeaningKo": "악보 없이 귀로 들으며 즉흥 연주하다.",
+    "realUsageKo": "사전에 계획을 세우지 않고 상황을 보며 그때그때 판단하고 대응하겠다는 의미로 쓰인다.",
+    "etymologyKo": "음악에서 악보를 보지 않고 귀(ear)로 듣는 것만으로 연주하는 행위에서 유래했으며, 이후 일상 상황에서 즉흥적으로 대처한다는 뜻으로 확장되었다.",
+    "nuanceKo": "계획 없음을 부정적으로 표현하기보다 유연하고 자유로운 태도를 나타낼 때 주로 쓰이며, 격식체보다는 일상 대화나 구어체에서 자주 사용된다.",
+    "shortExampleEn": "We're not sure how many people will show up, so let's just play it by ear.",
+    "shortExampleKo": "얼마나 많은 사람이 올지 모르니, 그냥 그때그때 보면서 결정하자."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "come-to-a-head_e98e482f",
+  "expression": "come to a head",
+  "selectionMeta": {
+    "selectedPhrase": "come to a head",
+    "selectedSenseLabelKo": "절정에 달하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of tension between the two departments, the conflict finally came to a head during the annual budget meeting."
+  },
+  "step2": {
+    "story": "The arguments between the co-founders had been simmering for over a year, but everything came to a head when they disagreed publicly in front of the entire staff. By the end of the day, one of them had packed up his desk and walked out.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sarah had been quietly managing the growing resentment within her team for months, smoothing over complaints and mediating small disputes. The long hours, unclear expectations, and lack of recognition had built up a pressure that everyone could feel but no one dared to name. It all came to a head on a Thursday afternoon when three senior engineers handed in their resignations at the same time. The room fell silent as Sarah read through each letter, finally realizing that the situation had gone far beyond what quiet diplomacy could fix. That night, she drafted a candid report to the executive team outlining every systemic issue she had witnessed.",
+    "topicTag": "team management",
+    "moodTag": "crisis"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 머리 부분에 도달한다는 뜻으로, 종기나 상처가 곪아 터지기 직전의 상태를 묘사합니다.",
+    "realUsageKo": "실제로는 오랫동안 쌓여온 문제나 긴장이 더 이상 억누를 수 없는 상태가 되어 결정적인 순간을 맞이하거나 폭발하는 상황에 사용됩니다.",
+    "etymologyKo": "16세기 영어에서 종기(boil)가 곪아 고름이 터지는 상태를 'come to a head'라고 표현한 데서 유래했으며, 이후 비유적으로 갈등이나 상황이 임계점에 달한다는 의미로 확장되었습니다.",
+    "nuanceKo": "주로 부정적이거나 긴장된 상황이 극에 달할 때 쓰이며, 그 시점이 대개 해결이나 폭발의 전환점이 된다는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "The long-running dispute over territory finally came to a head when both sides refused to negotiate.",
+    "shortExampleKo": "영토를 둘러싼 오랜 분쟁은 양측이 협상을 거부하면서 마침내 절정에 달했다."
+  }
+}

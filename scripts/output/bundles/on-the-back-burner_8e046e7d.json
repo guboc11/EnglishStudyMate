@@ -1,0 +1,30 @@
+{
+  "id": "on-the-back-burner_8e046e7d",
+  "expression": "on the back burner",
+  "selectionMeta": {
+    "selectedPhrase": "on the back burner",
+    "selectedSenseLabelKo": "뒤로 미루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had to put the expansion plans on the back burner until the company's finances stabilized."
+  },
+  "step2": {
+    "story": "Maya had been dreaming of starting her own bakery for years, but after her mother fell ill, she had to put the idea on the back burner. She threw herself into caregiving, setting her ambitions aside without resentment. Still, on quiet evenings, she would sketch cake designs in her notebook, keeping the dream alive.",
+    "topicTag": "personal dreams",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "The startup's marketing team had an ambitious social media campaign ready to launch, but when the app encountered a critical bug, everything else was put on the back burner. Engineers worked around the clock while the campaign sat untouched in a shared folder. Two weeks passed before the bug was finally resolved, and the team returned to the launch plan with fresh eyes. Ironically, the delay turned out to be a blessing — they had time to refine the messaging and target the right audience. When the campaign finally went live, it performed far better than anyone had originally projected. Sometimes, what ends up on the back burner comes out better for the wait.",
+    "topicTag": "startup challenges",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "가스레인지의 뒷쪽 버너에 올려놓다 — 덜 급한 것을 뒤로 치워두는 이미지에서 유래.",
+    "realUsageKo": "어떤 계획이나 목표를 당장 처리하지 않고 잠시 미뤄두거나 우선순위를 낮출 때 사용한다. 포기가 아닌 '일시 보류' 의 뉘앙스를 담고 있다.",
+    "etymologyKo": "가정용 가스레인지에서 뒷 버너(back burner)는 약불로 천천히 끓이거나 보온하는 용도로 쓰이는 데서 비롯되었으며, 20세기 중반 미국 영어에서 비유적으로 굳어졌다.",
+    "nuanceKo": "완전히 포기하지 않고 나중을 기약하며 미룬다는 뉘앙스가 강하다. 부정적이기보다는 실용적이고 현실적인 선택을 표현할 때 주로 쓰인다.",
+    "shortExampleEn": "The renovation project has been on the back burner since we had the baby.",
+    "shortExampleKo": "아기가 태어난 이후로 집 수리 프로젝트는 뒤로 미뤄져 있어."
+  }
+}

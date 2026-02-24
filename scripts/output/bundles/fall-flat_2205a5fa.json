@@ -1,0 +1,30 @@
+{
+  "id": "fall-flat_2205a5fa",
+  "expression": "fall flat",
+  "selectionMeta": {
+    "selectedPhrase": "fall flat",
+    "selectedSenseLabelKo": "실패하다 / 반응이 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His attempt at humor fell flat during the presentation, and the room stayed completely silent."
+  },
+  "step2": {
+    "story": "The marketing team spent weeks crafting their new campaign, but it fell flat with customers who found it confusing. Sales numbers barely moved, and management called an emergency review meeting. Everyone agreed they needed to start over with a clearer message.",
+    "topicTag": "marketing failure",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "Sara had rehearsed her stand-up comedy routine for months, convinced it would be a hit at the open mic night. She walked onto the stage with a big smile, delivered her opening joke, and waited for the laughter — but it fell completely flat. A few polite coughs broke the silence as the audience stared back blankly. Flustered, she pushed through the rest of her set, but each punchline landed just as badly as the first. Backstage afterward, she sat alone replaying every beat in her head, trying to figure out where it had gone wrong. She pulled out her notebook and started rewriting, determined not to let the same thing happen next time.",
+    "topicTag": "performing arts",
+    "moodTag": "deflated but determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '납작하게 떨어지다'라는 뜻으로, 무언가가 바닥에 힘없이 떨어지는 이미지에서 비롯되었습니다.",
+    "realUsageKo": "농담, 계획, 연설, 캠페인 등이 기대했던 반응이나 효과를 전혀 얻지 못했을 때 사용합니다. '완전히 실패하다' 또는 '아무런 반응도 얻지 못하다'는 의미입니다.",
+    "etymologyKo": "17세기 영어에서 유래했으며, 원래는 맥주나 와인이 탄산이 빠져 '김빠진' 상태를 뜻했습니다. 이후 활기나 효과가 사라진 상황 전반을 가리키는 표현으로 확장되었습니다.",
+    "nuanceKo": "주로 공개적인 상황(발표, 공연, 농담)에서 기대와 현실 사이의 낙차를 강조할 때 씁니다. 단순히 나쁜 결과보다는 '반응 자체가 없는' 민망한 상황에 특히 잘 어울립니다.",
+    "shortExampleEn": "The comedian's new special fell flat with critics and audiences alike.",
+    "shortExampleKo": "그 코미디언의 신작 스페셜은 평론가와 관객 모두에게 아무런 반응도 얻지 못했다."
+  }
+}

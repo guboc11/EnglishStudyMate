@@ -1,0 +1,30 @@
+{
+  "id": "lay-your-cards-on-the-table_9a67d866",
+  "expression": "lay your cards on the table",
+  "selectionMeta": {
+    "selectedPhrase": "lay your cards on the table",
+    "selectedSenseLabelKo": "솔직하게 털어놓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of hiding his concerns, Marcus decided to lay his cards on the table and tell his business partner exactly how he felt about the direction of the company."
+  },
+  "step2": {
+    "story": "The negotiation had been going in circles for hours, with neither side willing to budge. Finally, Claire took a deep breath and laid her cards on the table, listing every condition her team needed to move forward. The honesty broke the deadlock, and by evening they had a deal.",
+    "topicTag": "business negotiation",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "For three weeks, Daniel had been dodging the conversation, canceling coffee plans and sending vague texts whenever his best friend tried to bring up the falling-out between them. He knew it couldn't go on like this. One rainy Tuesday, he knocked on the door and asked if they could talk. Sitting across from each other at the kitchen table, Daniel finally laid his cards on the table — the jealousy he'd felt, the misunderstanding that had festered, the apology he'd been too proud to say. His friend listened quietly, then nodded slowly. It wasn't easy, but that honesty was the only thing that could have saved their friendship.",
+    "topicTag": "friendship and reconciliation",
+    "moodTag": "vulnerable"
+  },
+  "meaning": {
+    "literalMeaningKo": "카드 패를 테이블 위에 펼쳐 보인다는 뜻으로, 포커 게임에서 자신의 패를 상대방에게 공개하는 행위를 가리킵니다.",
+    "realUsageKo": "자신의 생각, 감정, 의도, 또는 조건을 숨기지 않고 상대방에게 완전히 솔직하게 털어놓을 때 사용합니다. 협상, 관계, 갈등 해결 상황에서 자주 쓰입니다.",
+    "etymologyKo": "카드 게임, 특히 포커에서 유래한 표현입니다. 상대방에게 자신의 패를 공개하는 것은 전략적으로 불리할 수 있지만, 완전한 투명성을 보여주는 행위로 전용되었습니다.",
+    "nuanceKo": "단순한 정보 공유를 넘어, 용기 있는 솔직함 또는 전략적 투명성의 뉘앙스를 담고 있습니다. 상황에 따라 결단력 있는 태도로도, 취약함을 드러내는 행위로도 읽힐 수 있습니다.",
+    "shortExampleEn": "It's time to lay your cards on the table and tell us what you really want from this deal.",
+    "shortExampleKo": "이제 솔직하게 털어놓고 이 거래에서 당신이 진정으로 원하는 것이 무엇인지 말할 때입니다."
+  }
+}

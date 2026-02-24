@@ -1,0 +1,30 @@
+{
+  "id": "conquer-your-fears_972bb68b",
+  "expression": "conquer your fears",
+  "selectionMeta": {
+    "selectedPhrase": "conquer your fears",
+    "selectedSenseLabelKo": "두려움을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She signed up for the public speaking class to conquer her fears and become more confident at work."
+  },
+  "step2": {
+    "story": "Mark had always been terrified of heights, but he knew he had to conquer his fears before the climbing trip. He practiced on an indoor wall every weekend until the shaking in his hands finally stopped. By the time he stood at the summit, fear had turned into pride.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For years, Lena refused every invitation that involved crowds — concerts, markets, even birthday parties. The anxiety felt like a wall she could never climb. Then her therapist suggested something simple: face one small fear each week. Lena started with a quiet coffee shop on a Saturday morning, sitting alone for fifteen minutes before leaving. Week by week the challenges grew, and so did she. By autumn she stood in a packed concert hall, heart pounding but feet planted, knowing she was finally beginning to conquer her fears.",
+    "topicTag": "overcoming anxiety",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 두려움을 정복하다, 즉 두려움을 이겨내다.",
+    "realUsageKo": "특정 공포나 불안을 극복하고 그것에 더 이상 지배받지 않게 되는 과정을 표현할 때 사용한다. 개인 성장, 도전 극복, 자기계발 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'conquer'는 라틴어 'conquirere(완전히 획득하다)'에서 유래했으며, 전쟁에서 적을 정복한다는 의미가 내면의 장애물을 극복하는 비유적 표현으로 확장되었다.",
+    "nuanceKo": "단순히 두려움을 참는 것이 아니라 능동적으로 맞서 이겨낸다는 강한 의지와 성취감을 담고 있다. 동기부여적 맥락에서 격려의 뉘앙스로 자주 사용된다.",
+    "shortExampleEn": "He decided to conquer his fears by taking his first solo trip abroad.",
+    "shortExampleKo": "그는 처음으로 혼자 해외여행을 떠남으로써 두려움을 극복하기로 결심했다."
+  }
+}

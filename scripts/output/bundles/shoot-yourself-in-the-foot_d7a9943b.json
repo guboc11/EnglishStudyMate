@@ -1,0 +1,30 @@
+{
+  "id": "shoot-yourself-in-the-foot_d7a9943b",
+  "expression": "shoot yourself in the foot",
+  "selectionMeta": {
+    "selectedPhrase": "shoot yourself in the foot",
+    "selectedSenseLabelKo": "스스로 발등을 찍다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "By sending that angry email to the whole team, Marcus really shot himself in the foot right before his performance review."
+  },
+  "step2": {
+    "story": "Clara had been lobbying for a promotion for months, but she shot herself in the foot by skipping the key client meeting to run a personal errand. Her manager noticed immediately, and the opportunity went to a colleague instead.",
+    "topicTag": "workplace mistake",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Daniel had spent weeks preparing his pitch for the startup competition, confident he had the strongest idea in the room. But when the judges asked about his financial projections, he shot himself in the foot by admitting he had never actually run the numbers properly. A wave of doubt swept across the panel's faces, and the energy in the room shifted. He scrambled to recover, but the damage was done. What could have been a triumphant moment turned into a painful lesson about the importance of preparation.",
+    "topicTag": "startup pitch",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 자기 발에 총을 쏘는 것을 의미한다.",
+    "realUsageKo": "실제로는 스스로의 실수나 섣부른 행동으로 자신의 입장이나 계획을 망쳐버리는 상황을 표현할 때 쓰인다.",
+    "etymologyKo": "전쟁 중 병사가 징집이나 전투를 피하기 위해 의도적으로 자기 발에 총을 쏘았다는 이야기에서 유래했다는 설이 있으며, 스스로 자초한 피해를 뜻하는 표현으로 굳어졌다.",
+    "nuanceKo": "자기 자신에게 불리한 결과를 스스로 불러온다는 어리석음이나 아이러니를 담고 있으며, 약간의 비판적·유머러스한 뉘앙스를 가진다.",
+    "shortExampleEn": "He shot himself in the foot by arguing with the interviewer.",
+    "shortExampleKo": "그는 면접관과 언쟁을 벌이다 스스로 발등을 찍었다."
+  }
+}

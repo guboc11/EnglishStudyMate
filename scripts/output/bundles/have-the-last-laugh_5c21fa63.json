@@ -1,0 +1,30 @@
+{
+  "id": "have-the-last-laugh_5c21fa63",
+  "expression": "have the last laugh",
+  "selectionMeta": {
+    "selectedPhrase": "have the last laugh",
+    "selectedSenseLabelKo": "결국 승리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of being overlooked for promotions, she finally had the last laugh when she was headhunted by a rival company for a director role."
+  },
+  "step2": {
+    "story": "Everyone in the office laughed when Marcus pitched his unconventional app idea, calling it naive and impractical. Two years later, his startup was acquired for millions, and Marcus had the last laugh.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "When Claire told her high school classmates she wanted to become an architect, they snickered and said she wasn't smart enough. She struggled through the first year of university, doubting herself every single day. But she pushed through, graduated at the top of her class, and went on to design a landmark building in the city. At her ten-year reunion, she stood quietly by the window looking out at her building on the skyline — she had the last laugh, and she didn't even need to say a word.",
+    "topicTag": "perseverance",
+    "moodTag": "quietly triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "마지막으로 웃다, 즉 결국 자신이 웃게 된다는 뜻이다.",
+    "realUsageKo": "처음에는 비웃음을 당하거나 불리한 상황에 처했지만, 결국 성공하거나 유리한 결과를 얻어 상대방을 이기는 상황에서 사용한다.",
+    "etymologyKo": "\"He who laughs last, laughs best(또는 longest)\"라는 영어 속담에서 유래했으며, 최후의 웃음이 가장 의미 있다는 뜻을 담고 있다.",
+    "nuanceKo": "단순한 승리가 아닌 '역전승'의 뉘앙스가 강하며, 이전에 자신을 무시하거나 반대했던 사람들에 대한 암묵적인 반전을 내포한다.",
+    "shortExampleEn": "They doubted his plan from the start, but he had the last laugh when the project became a huge success.",
+    "shortExampleKo": "그들은 처음부터 그의 계획을 의심했지만, 그 프로젝트가 큰 성공을 거두면서 그가 결국 승리했다."
+  }
+}

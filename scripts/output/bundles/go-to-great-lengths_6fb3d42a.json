@@ -1,0 +1,30 @@
+{
+  "id": "go-to-great-lengths_6fb3d42a",
+  "expression": "go to great lengths",
+  "selectionMeta": {
+    "selectedPhrase": "go to great lengths",
+    "selectedSenseLabelKo": "큰 노력을 기울이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She went to great lengths to make sure every guest felt welcomed at the event."
+  },
+  "step2": {
+    "story": "Marcus went to great lengths to repair his friendship with Daniel after their falling out. He drove three hours to apologize in person and brought a heartfelt handwritten letter. Daniel was moved, and the two reconciled over coffee.",
+    "topicTag": "friendship",
+    "moodTag": "sincere"
+  },
+  "step3": {
+    "story": "Ava had always believed that good science required sacrifice. When her research team faced a critical deadline, she went to great lengths to secure the final data they needed — staying awake for thirty-six hours, reaching out to colleagues across three time zones, and personally driving lab samples to a facility two cities away. Her supervisor watched in quiet admiration as she coordinated everything with calm precision. When the results finally came in, confirming their hypothesis, the entire lab erupted in relieved cheers. Ava simply smiled, knowing that every difficult step had been worth it.",
+    "topicTag": "scientific research",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '매우 먼 거리까지 나아간다'는 의미입니다.",
+    "realUsageKo": "실제로는 어떤 목표를 이루기 위해 매우 많은 노력이나 희생을 기꺼이 감수한다는 뜻으로 쓰입니다. 긍정적인 맥락에서 헌신을 강조하거나, 부정적인 맥락에서 지나친 집착을 표현하기도 합니다.",
+    "etymologyKo": "'length'는 고대 영어 'lengþu'에서 유래하여 '거리' 또는 '범위'를 의미했습니다. 'go to great lengths'는 비유적으로 '매우 넓은 범위까지 노력을 뻗친다'는 뜻에서 발전했습니다.",
+    "nuanceKo": "노력의 정도가 일반적인 수준을 훨씬 초과할 때 사용하며, 약간의 놀라움이나 감탄의 뉘앙스를 담습니다. 문맥에 따라 칭찬이 될 수도, 완곡한 비판이 될 수도 있습니다.",
+    "shortExampleEn": "He went to great lengths to keep the surprise party a secret.",
+    "shortExampleKo": "그는 깜짝 파티를 비밀로 지키기 위해 큰 노력을 기울였다."
+  }
+}

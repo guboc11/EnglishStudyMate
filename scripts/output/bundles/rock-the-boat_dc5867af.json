@@ -1,0 +1,30 @@
+{
+  "id": "rock-the-boat_dc5867af",
+  "expression": "rock the boat",
+  "selectionMeta": {
+    "selectedPhrase": "rock the boat",
+    "selectedSenseLabelKo": "분란을 일으키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided not to rock the boat by questioning the manager's new policy in front of the entire team."
+  },
+  "step2": {
+    "story": "Everyone at the office had grown tired of the outdated reporting process, but no one wanted to rock the boat. Marcus finally spoke up in the quarterly meeting, suggesting a simpler system. His colleagues were relieved someone had finally said what they were all thinking.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "The family reunion had always followed the same routine for twenty years: the same venue, the same potluck dishes, the same awkward speeches from Uncle Ray. When Priya suggested they hold it at a beach resort this year, her mother shot her a warning glance—nobody rocks the boat at a Kim family gathering. But Priya had done her research and presented a cost breakdown showing it would actually be cheaper. One by one, cousins began nodding in quiet agreement. By the end of the evening, even Uncle Ray admitted the idea had merit. Sometimes, she realized, rocking the boat was the only way to steer it somewhere better.",
+    "topicTag": "family tradition",
+    "moodTag": "quietly determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "배를 흔들다, 즉 탑승자 모두를 위험에 빠뜨릴 수 있는 행동을 하다.",
+    "realUsageKo": "기존의 안정된 상황이나 합의를 깨뜨리는 행동을 할 때 쓰며, 주로 '분란을 일으키다' 또는 '긁어 부스럼 만들다'는 의미로 사용된다.",
+    "etymologyKo": "실제 보트에서 갑자기 움직이면 배가 뒤집힐 수 있다는 물리적 상황에서 유래했으며, 19세기 후반부터 비유적으로 사용되기 시작했다.",
+    "nuanceKo": "현재 상태를 유지하길 원하는 사람들의 압박이 느껴지는 표현으로, 종종 변화를 제안하는 사람을 만류할 때 'don't rock the boat'의 형태로 자주 쓰인다.",
+    "shortExampleEn": "He knew the plan had flaws, but he didn't want to rock the boat so close to the deadline.",
+    "shortExampleKo": "그는 계획에 결함이 있다는 것을 알았지만, 마감 직전에 분란을 일으키고 싶지 않았다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "play-hardball_7073e0ba",
+  "expression": "play hardball",
+  "selectionMeta": {
+    "selectedPhrase": "play hardball",
+    "selectedSenseLabelKo": "강경한 태도를 취하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "When the supplier refused to lower their prices, the procurement director decided it was time to play hardball and threatened to switch vendors entirely."
+  },
+  "step2": {
+    "story": "The merger talks had stalled for weeks, so the CEO decided to play hardball and issued a final deadline to the other party. By the end of the day, the rival company had agreed to every term on the table.",
+    "topicTag": "business negotiation",
+    "moodTag": "assertive"
+  },
+  "step3": {
+    "story": "For months, the startup had been trying to secure a distribution deal with the retail giant, but every proposal was met with lowball counteroffers. Frustrated, the founder gathered her team and announced they would play hardball going forward. She sent a letter withdrawing the current offer and hinting that a competitor had expressed serious interest. The tactic worked: within 48 hours, the retailer called back with a far more favorable contract. Sometimes, she reflected, showing you are willing to walk away is the most powerful move in any negotiation.",
+    "topicTag": "startup deal",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '딱딱한 공을 가지고 경기하다'로, 규칙이 엄격한 야구 경기에서 유래한 표현이다.",
+    "realUsageKo": "협상이나 비즈니스 상황에서 양보 없이 강경하고 단호한 태도를 취할 때 사용한다. 상대방에게 압박을 가하며 자신의 조건을 굽히지 않는 전략적 행동을 묘사한다.",
+    "etymologyKo": "미국 야구에서 소프트볼(softball)에 대비되는 하드볼(hardball)에서 유래했다. 19세기 후반부터 '진지하고 격렬한 경쟁'을 뜻하는 비유적 표현으로 쓰이기 시작했으며, 20세기 들어 정치·비즈니스 협상에서 강경한 전술을 의미하게 되었다.",
+    "nuanceKo": "단순히 강경한 것을 넘어 상대방을 압박하거나 위협에 가까운 전술을 쓴다는 뉘앙스가 있다. 다소 공격적이고 냉정한 태도를 내포하므로 긍정적·부정적 양면으로 모두 사용될 수 있다.",
+    "shortExampleEn": "The union decided to play hardball and threatened to strike if wages weren't raised by 10%.",
+    "shortExampleKo": "노조는 강경한 태도를 취하며 임금이 10% 인상되지 않으면 파업하겠다고 위협했다."
+  }
+}

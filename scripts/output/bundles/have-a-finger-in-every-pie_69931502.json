@@ -1,0 +1,30 @@
+{
+  "id": "have-a-finger-in-every-pie_69931502",
+  "expression": "have a finger in every pie",
+  "selectionMeta": {
+    "selectedPhrase": "have a finger in every pie",
+    "selectedSenseLabelKo": "모든 일에 끼어있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The deputy manager seemed to have a finger in every pie, from approving supply orders to rewriting the intern onboarding schedule."
+  },
+  "step2": {
+    "story": "Everyone in the office knew that Marcus had a finger in every pie — he sat on the product team, the events committee, and somehow always ended up cc'd on legal emails. His colleagues admired his energy, though some quietly wished he'd let them handle things on their own. When a real crisis finally hit, however, Marcus was already three steps ahead.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "restless"
+  },
+  "step3": {
+    "story": "Daniel had a finger in every pie at the small publishing house where he worked. He edited manuscripts in the morning, negotiated with printers in the afternoon, and somehow still found time to manage the company's social media accounts. His colleagues joked that the business would collapse without him — but they also grew frustrated that no decision ever got made without his input. When a new director arrived and asked for a clear org chart, Daniel's name appeared in nearly every box. It took a tense all-hands meeting for everyone to agree: Daniel needed to delegate, or the company would never grow beyond his own bandwidth.",
+    "topicTag": "career and control",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "모든 파이에 손가락을 집어넣다.",
+    "realUsageKo": "여러 분야나 일에 동시에 관여하고 있을 때 사용하며, 지나치게 많은 일에 끼어든다는 부정적인 뉘앙스가 포함되는 경우가 많다.",
+    "etymologyKo": "중세 영어에서 파이(pie)는 다양한 재료가 한데 섞인 음식을 뜻했으며, '모든 파이에 손가락을 넣는다'는 표현이 여러 일에 관여하는 행위를 묘사하는 데 쓰이기 시작했다.",
+    "nuanceKo": "단순히 바쁘다는 의미를 넘어, 타인의 영역까지 침범하거나 과도하게 개입한다는 비판적인 함의가 담길 때가 많다.",
+    "shortExampleEn": "He always has a finger in every pie — you can't make a single decision without him weighing in.",
+    "shortExampleKo": "그는 항상 모든 일에 끼어든다 — 그가 한마디 보태지 않고는 아무 결정도 내릴 수가 없다."
+  }
+}

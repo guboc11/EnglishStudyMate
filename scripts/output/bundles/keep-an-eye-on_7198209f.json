@@ -1,0 +1,30 @@
+{
+  "id": "keep-an-eye-on_7198209f",
+  "expression": "keep an eye on",
+  "selectionMeta": {
+    "selectedPhrase": "keep an eye on",
+    "selectedSenseLabelKo": "주시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Could you keep an eye on my bag while I grab a coffee?"
+  },
+  "step2": {
+    "story": "Sarah asked her neighbor to keep an eye on her house while she was away on vacation. The neighbor checked the mailbox daily and made sure everything looked normal.",
+    "topicTag": "neighborhood trust",
+    "moodTag": "reassured"
+  },
+  "step3": {
+    "story": "Marcus had been keeping an eye on the stock market all morning, watching the numbers fluctuate with growing unease. His manager walked over and reminded him to keep an eye on the new intern as well, since it was only her second day. Balancing both tasks felt overwhelming, but Marcus knew that staying alert was part of his job. By the end of the day, the market had stabilized and the intern had impressed everyone with her quick learning.",
+    "topicTag": "workplace responsibility",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈을 어떤 것 위에 올려두다, 즉 시선을 고정시키다.",
+    "realUsageKo": "누군가나 무언가를 주의 깊게 살피거나 감시할 때 사용한다. 부탁이나 지시의 형태로 자주 쓰인다.",
+    "etymologyKo": "'eye'를 감시의 도구로 비유한 표현으로, 16세기 영어에서부터 사용된 관용어다.",
+    "nuanceKo": "중립적이거나 친근한 어조로 쓰이며, 보호나 감독의 뉘앙스를 담고 있다. 명령보다는 부탁에 가까운 느낌을 준다.",
+    "shortExampleEn": "Please keep an eye on the children while they play outside.",
+    "shortExampleKo": "아이들이 밖에서 놀 때 잘 지켜봐 주세요."
+  }
+}

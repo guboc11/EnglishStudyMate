@@ -1,0 +1,30 @@
+{
+  "id": "leave-no-stone-unturned_7d1e0c80",
+  "expression": "leave no stone unturned",
+  "selectionMeta": {
+    "selectedPhrase": "leave no stone unturned",
+    "selectedSenseLabelKo": "모든 수단을 쓰다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The detective vowed to leave no stone unturned in her search for the missing child."
+  },
+  "step2": {
+    "story": "After her brother went missing, Maya left no stone unturned in her search — she posted flyers across three cities, contacted every shelter, and hired a private investigator. Weeks of relentless effort finally paid off when a tip led her to a small town two hours away.",
+    "topicTag": "family crisis",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the startup's lead investor suddenly pulled out two weeks before launch, CEO Daniel refused to panic. He left no stone unturned, reaching out to every contact in his network, attending back-to-back pitch meetings, and even cold-emailing venture firms he had never spoken to before. His team watched him work eighteen-hour days, driven by a quiet certainty that a solution existed if only he looked hard enough. On the final Friday before the deadline, a small fund he had nearly forgotten about replied with a term sheet. The launch went ahead as planned, and Daniel later credited not luck but sheer persistence for saving the company.",
+    "topicTag": "startup pressure",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 돌도 뒤집지 않고 내버려 두지 않는다는 뜻으로, 가능한 모든 곳을 샅샅이 뒤진다는 의미입니다.",
+    "realUsageKo": "목표를 이루기 위해 모든 가능한 방법과 수단을 동원한다는 뜻으로, 노력이나 탐색이 철저함을 강조할 때 씁니다.",
+    "etymologyKo": "고대 그리스 전설에서 유래했으며, 페르시아 장군의 보물을 찾기 위해 모든 돌을 뒤집어 보라는 신탁의 조언에서 비롯되었습니다.",
+    "nuanceKo": "의지와 철저함을 긍정적으로 강조하는 표현으로, 공식적인 상황과 일상 대화 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "We will leave no stone unturned until we find a cure for this disease.",
+    "shortExampleKo": "우리는 이 병의 치료법을 찾을 때까지 모든 수단을 동원할 것입니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bridge-the-gap_4021856b",
+  "expression": "bridge the gap",
+  "selectionMeta": {
+    "selectedPhrase": "bridge the gap",
+    "selectedSenseLabelKo": "격차를 좁히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The mentorship program was designed to bridge the gap between fresh graduates and the demands of the professional world."
+  },
+  "step2": {
+    "story": "Sarah noticed that her younger colleagues struggled to communicate with senior executives. She launched a series of workshops to bridge the gap between the two groups. Within months, collaboration across levels had noticeably improved.",
+    "topicTag": "workplace communication",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For years, residents in rural towns had limited access to healthcare specialists who were concentrated in major cities. A local nonprofit decided to bridge the gap by deploying mobile clinics that traveled to underserved communities every week. Doctors volunteered their weekends, and nurses coordinated schedules to ensure no village was left without care. Patients who had once traveled hours for a routine check-up could now be seen just down the road. The initiative became a model for other regions, proving that with enough determination, even the widest gaps can be closed.",
+    "topicTag": "rural healthcare",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 지점 사이의 간격을 다리로 연결하다.",
+    "realUsageKo": "두 집단, 개념, 수준 사이의 차이나 격차를 줄이거나 연결하는 행동을 표현할 때 사용된다. 교육, 직업, 기술, 소통 등 다양한 맥락에서 폭넓게 쓰인다.",
+    "etymologyKo": "'bridge'는 고대 영어 'brycg(다리)'에서 유래했으며, 동사로 쓰일 때 '연결하다'는 의미를 갖는다. 'gap'은 '틈, 간격'을 뜻하며, 두 단어가 결합해 '격차를 연결하다'는 관용 표현이 되었다.",
+    "nuanceKo": "단순히 차이를 인식하는 것을 넘어 적극적으로 해소하려는 노력과 행동을 강조하는 표현이다. 긍정적이고 건설적인 뉘앙스를 띠며, 공식적인 글쓰기와 일상 대화 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "Online tutoring platforms help bridge the gap for students without access to quality teachers.",
+    "shortExampleKo": "온라인 과외 플랫폼은 양질의 교사에게 접근하기 어려운 학생들의 격차를 좁히는 데 도움을 준다."
+  }
+}

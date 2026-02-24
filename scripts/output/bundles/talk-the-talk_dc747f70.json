@@ -1,0 +1,30 @@
+{
+  "id": "talk-the-talk_dc747f70",
+  "expression": "talk the talk",
+  "selectionMeta": {
+    "selectedPhrase": "talk the talk",
+    "selectedSenseLabelKo": "말만 그럴듯하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He can talk the talk, but when the project hit a real deadline, he was nowhere to be found."
+  },
+  "step2": {
+    "story": "During the interview, Marcus impressed everyone with his bold plans and industry jargon — he really knew how to talk the talk. But once he started the job, it became clear he had little hands-on experience. His manager quietly reassigned his key tasks to more reliable teammates.",
+    "topicTag": "workplace",
+    "moodTag": "disillusioned"
+  },
+  "step3": {
+    "story": "At the startup pitch event, Daniel walked onto the stage with polished slides and a rehearsed speech that wowed the audience. He talked about disrupting entire industries, scaling globally, and building a product that would 'change lives.' He could definitely talk the talk. But when investors started asking detailed questions about revenue models and unit economics, his answers fell apart. Behind the scenes, his co-founder exchanged a worried glance — they both knew the product wasn't even close to being ready. Talking a good game had gotten them this far, but it wouldn't be enough anymore.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "말을 그럴듯하게 잘 한다는 뜻으로, 행동이나 실력 없이 말만 능숙한 상태를 가리킨다.",
+    "realUsageKo": "실제로는 능력이나 행동이 따르지 않으면서 말만 전문가처럼 하는 사람을 비판할 때 사용한다. 흔히 'walk the walk(말한 대로 실천하다)'와 대비되어 쓰인다.",
+    "etymologyKo": "'talk the talk, walk the walk'라는 전체 관용구에서 유래했으며, 말과 행동의 일치를 강조하는 미국 영어 표현이다. 20세기 중반부터 비즈니스·스포츠 맥락에서 자주 사용되었다.",
+    "nuanceKo": "단독으로 쓰일 때는 대개 부정적 뉘앙스를 띠며, 상대방의 허세나 과장을 꼬집는 느낌이 강하다. 'walk the walk'와 함께 쓰이면 칭찬이 될 수도 있다.",
+    "shortExampleEn": "She can talk the talk, but I've never seen her actually lead a team.",
+    "shortExampleKo": "그녀는 말만 그럴듯하지, 실제로 팀을 이끄는 모습은 한 번도 본 적이 없어."
+  }
+}

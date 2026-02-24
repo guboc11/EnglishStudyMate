@@ -1,0 +1,30 @@
+{
+  "id": "have-mixed-feelings_5b99affd",
+  "expression": "have mixed feelings",
+  "selectionMeta": {
+    "selectedPhrase": "have mixed feelings",
+    "selectedSenseLabelKo": "복잡한 감정이다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She had mixed feelings about moving to a new city — excited for the fresh start but sad to leave her friends behind."
+  },
+  "step2": {
+    "story": "Tom had mixed feelings when he found out his best friend was getting married. He was genuinely happy for them, yet deep down he felt a pang of nostalgia for the carefree days they used to share. Standing at the reception, he raised his glass and smiled, letting both emotions exist at once.",
+    "topicTag": "friendship and change",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "When Maya received the promotion offer, she had mixed feelings she couldn't quite shake. The new role meant a bigger salary and real recognition for years of hard work, which thrilled her. But it also meant relocating to the company's headquarters overseas, far from her aging parents and the neighborhood she had called home for a decade. She sat at her kitchen table that evening, staring at the offer letter, turning it over in her hands. Part of her wanted to jump at the chance without hesitation; another part whispered that some things couldn't be replaced with a paycheck. In the end, she decided to sleep on it, knowing that holding two truths at once was simply part of growing up.",
+    "topicTag": "career decision",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "뒤섞인 감정들을 가지다 — 즉, 기쁨과 슬픔, 희망과 걱정처럼 서로 상반되거나 복잡한 감정이 동시에 존재하는 상태를 말한다.",
+    "realUsageKo": "어떤 사건이나 결정에 대해 긍정적인 감정과 부정적인 감정이 동시에 들 때 사용한다. 예를 들어 기대되면서도 두렵거나, 기쁘면서도 아쉬울 때 자주 쓰인다.",
+    "etymologyKo": "'mixed'는 '섞인'을, 'feelings'는 '감정들'을 의미하며, 두 단어를 합쳐 '뒤섞인 감정'이라는 뜻이 된다. 19세기 영어 문학에서부터 자연스럽게 정착된 표현이다.",
+    "nuanceKo": "단순히 '모르겠다'는 표현보다 훨씬 감정적인 깊이를 담고 있으며, 어떤 결정이나 상황이 복잡하고 다층적임을 암시한다. 가볍지 않은 맥락에서 주로 쓰인다.",
+    "shortExampleEn": "I have mixed feelings about quitting my job — it feels like both a relief and a risk.",
+    "shortExampleKo": "직장을 그만두는 것에 복잡한 감정이 든다 — 홀가분하기도 하고 불안하기도 하다."
+  }
+}

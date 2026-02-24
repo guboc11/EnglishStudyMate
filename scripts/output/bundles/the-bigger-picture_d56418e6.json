@@ -1,0 +1,30 @@
+{
+  "id": "the-bigger-picture_d56418e6",
+  "expression": "the bigger picture",
+  "selectionMeta": {
+    "selectedPhrase": "the bigger picture",
+    "selectedSenseLabelKo": "큰 그림",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before you get frustrated over this one setback, try to see the bigger picture and remember how far you've already come."
+  },
+  "step2": {
+    "story": "Maya had been obsessing over a single failed presentation for days. Her mentor sat her down and reminded her to look at the bigger picture — her project was still on track and the team still trusted her. That shift in perspective gave her the clarity she needed to move forward.",
+    "topicTag": "work stress",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Daniel had spent weeks agonizing over a minor budget overrun on his department's quarterly report. Every small number that didn't add up kept him awake at night, convinced the entire project was a failure. His director called him into her office and spread out a year's worth of performance charts on the desk. 'You're missing the bigger picture,' she said calmly, pointing to a steady upward trend across all key metrics. Daniel stared at the charts and slowly realized the overrun was a tiny blip in an otherwise strong record. He left the meeting feeling relieved, and more importantly, reminded that progress is rarely measured in a single moment.",
+    "topicTag": "perspective and growth",
+    "moodTag": "enlightened"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '더 큰 그림'을 뜻하며, 세부 사항보다 전체적인 상황이나 맥락을 가리킵니다.",
+    "realUsageKo": "작은 문제나 세부 사항에 집착하지 말고 전체적인 상황, 목표, 혹은 장기적인 관점을 바라보라는 의미로 사용됩니다.",
+    "etymologyKo": "그림이나 사진에서 멀리서 볼수록 전체 구도가 보인다는 비유에서 유래했으며, 영어권에서 19세기 이후부터 비유적 의미로 널리 쓰이게 되었습니다.",
+    "nuanceKo": "주로 누군가가 지나치게 사소한 일에 집중하거나 낙담했을 때 관점을 되찾도록 권유하는 따뜻하고 조언적인 뉘앙스를 가집니다.",
+    "shortExampleEn": "Stop worrying about one bad grade — look at the bigger picture of your overall progress.",
+    "shortExampleKo": "성적 하나에 너무 연연하지 마 — 전체적인 네 성장의 큰 그림을 봐."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "build-resilience_9892a483",
+  "expression": "build resilience",
+  "selectionMeta": {
+    "selectedPhrase": "build resilience",
+    "selectedSenseLabelKo": "회복력을 기르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Regular exercise and a strong support network can help you build resilience in the face of life's inevitable setbacks."
+  },
+  "step2": {
+    "story": "After losing her job unexpectedly, Maya decided to use the time to build resilience rather than dwell in despair. She started journaling, reconnected with old friends, and enrolled in an online course. Slowly, she began to feel stronger and more prepared for whatever came next.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the pandemic forced Daniel's small bakery to close for months, he had a choice: give up or find a way forward. He chose to build resilience by restructuring his business model, launching online orders, and offering baking classes via video call. Some days were exhausting, filled with doubt and long hours of problem-solving. But each obstacle he overcame made him more confident in his ability to adapt. By the time the doors reopened, Daniel had not only saved his bakery but had also discovered a steadiness in himself he never knew existed.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'build'는 '쌓다·키우다', 'resilience'는 '역경에서 회복하는 능력'을 뜻하며, 합쳐서 '회복력을 기르다'라는 의미입니다.",
+    "realUsageKo": "심리적·정서적 강인함을 의도적으로 발전시키는 과정을 표현할 때 사용하며, 개인 성장, 직장 생활, 교육 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'resilience'는 라틴어 'resilire(튀어 오르다)'에서 유래했으며, 'build'는 고대 영어 'byldan(집을 짓다)'에서 왔습니다.",
+    "nuanceKo": "단순한 '참기'보다 적극적이고 의도적인 노력을 강조하는 표현으로, 긍정적이고 성장 지향적인 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Therapists often encourage patients to build resilience through mindfulness and healthy routines.",
+    "shortExampleKo": "치료사들은 마음챙김과 건강한 루틴을 통해 회복력을 기르도록 환자들을 자주 격려합니다."
+  }
+}

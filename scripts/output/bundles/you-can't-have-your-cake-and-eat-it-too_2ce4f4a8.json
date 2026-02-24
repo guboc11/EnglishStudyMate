@@ -1,0 +1,30 @@
+{
+  "id": "you-can't-have-your-cake-and-eat-it-too_2ce4f4a8",
+  "expression": "you can't have your cake and eat it too",
+  "selectionMeta": {
+    "selectedPhrase": "you can't have your cake and eat it too",
+    "selectedSenseLabelKo": "두 마리 토끼를 잡을 수 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She wanted to keep her cushy office job while also traveling the world full-time, but her manager reminded her that you can't have your cake and eat it too."
+  },
+  "step2": {
+    "story": "Tom dreamed of being debt-free while still spending lavishly on gadgets and vacations. His financial advisor shook her head and said, 'You can't have your cake and eat it too — you need to choose.' Reluctantly, Tom started cutting back on luxuries and watched his savings grow.",
+    "topicTag": "personal finance",
+    "moodTag": "realistic"
+  },
+  "step3": {
+    "story": "Maya had been offered a prestigious promotion that required relocating to New York, but she also desperately wanted to stay close to her aging parents in her hometown. She spent weeks agonizing over the decision, hoping some clever arrangement would let her accept both. Her older sister listened patiently before saying gently, 'You can't have your cake and eat it too, Maya — at some point you have to commit.' The words stung, but Maya knew they were true. She turned down the promotion, negotiated a raise in her current role, and found a way to advance without leaving behind what mattered most.",
+    "topicTag": "career and family",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "케이크를 갖고 있으면서 동시에 먹을 수는 없다.",
+    "realUsageKo": "서로 양립할 수 없는 두 가지를 동시에 얻으려 할 때, 결국 하나를 포기해야 한다는 현실을 지적할 때 씁니다.",
+    "etymologyKo": "16세기 영어 속담에서 유래했으며, 케이크를 먹어버리면 더 이상 소유할 수 없다는 물리적 사실에서 비롯된 표현입니다.",
+    "nuanceKo": "충고나 현실 직시를 요구하는 맥락에서 자주 쓰이며, 다소 직설적이지만 비판적이기보다는 현실적인 어조를 띱니다.",
+    "shortExampleEn": "You want a high salary but also a relaxed work schedule? You can't have your cake and eat it too.",
+    "shortExampleKo": "높은 연봉도 원하고 여유로운 근무 환경도 원한다고요? 두 마리 토끼를 동시에 잡을 수는 없어요."
+  }
+}

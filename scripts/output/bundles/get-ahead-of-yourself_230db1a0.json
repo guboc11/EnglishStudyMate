@@ -1,0 +1,30 @@
+{
+  "id": "get-ahead-of-yourself_230db1a0",
+  "expression": "get ahead of yourself",
+  "selectionMeta": {
+    "selectedPhrase": "get ahead of yourself",
+    "selectedSenseLabelKo": "지나치게 앞서가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't get ahead of yourself — we still need to finish the proposal before we start celebrating."
+  },
+  "step2": {
+    "story": "Mia had just sent her job application and was already browsing apartments near the new office. Her friend laughed and said, 'You're getting ahead of yourself — they haven't even called you yet!' Mia blushed, realizing she had skipped ten steps in her excitement.",
+    "topicTag": "career ambition",
+    "moodTag": "overeager"
+  },
+  "step3": {
+    "story": "The product launch was still three weeks away, but Daniel had already drafted a press release announcing record-breaking sales. His manager pulled him aside after the meeting and said quietly, 'You're getting ahead of yourself, Daniel. We don't even have confirmed orders yet.' Daniel stared at his notes, embarrassed by his overconfidence. He had been so caught up in the best-case scenario that he forgot to account for everything that could still go wrong. From that day on, he made a habit of checking his assumptions before sharing projections with the team.",
+    "topicTag": "workplace overconfidence",
+    "moodTag": "humbled"
+  },
+  "meaning": {
+    "literalMeaningKo": "자기 자신보다 앞으로 나아간다는 뜻으로, 현재 상황보다 훨씬 앞선 단계를 생각하거나 행동하는 것을 의미합니다.",
+    "realUsageKo": "아직 일어나지 않은 일을 이미 결정된 것처럼 생각하거나 행동할 때 사용합니다. 주로 흥분이나 낙관 때문에 순서를 건너뛰는 상황에서 씁니다.",
+    "etymologyKo": "'ahead of'는 '~보다 앞에'라는 위치 표현이며, 'yourself'와 결합해 '자신의 현재 상태를 앞질러 간다'는 비유적 표현으로 굳어졌습니다. 20세기 초 영어 구어체에서 널리 퍼진 표현입니다.",
+    "nuanceKo": "가벼운 경고나 충고의 뉘앙스를 담고 있으며, 비판보다는 걱정이나 조언의 맥락에서 자주 쓰입니다. 자신에 대해 쓰면 자기반성의 의미가 되기도 합니다.",
+    "shortExampleEn": "Let's not get ahead of ourselves — we still have to pass the first round of interviews.",
+    "shortExampleKo": "너무 앞서가지 말자 — 아직 1차 면접도 통과해야 해."
+  }
+}

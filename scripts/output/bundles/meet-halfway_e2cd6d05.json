@@ -1,0 +1,30 @@
+{
+  "id": "meet-halfway_e2cd6d05",
+  "expression": "meet halfway",
+  "selectionMeta": {
+    "selectedPhrase": "meet halfway",
+    "selectedSenseLabelKo": "중간에서 타협하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hours of negotiation, both sides agreed to meet halfway and sign the contract by Friday."
+  },
+  "step2": {
+    "story": "The two business partners had been arguing over the budget for weeks, neither willing to budge. Finally, their manager stepped in and asked them to meet halfway on the numbers. They shook hands that afternoon and moved forward with the project.",
+    "topicTag": "workplace negotiation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sara and her roommate had clashing schedules that made sharing the apartment stressful. Sara wanted quiet evenings for studying, while her roommate liked having friends over after work. One Sunday morning, they sat down over coffee and laid out their frustrations honestly. Sara offered to use headphones when studying, and her roommate agreed to keep gatherings to the weekends. It wasn't a perfect solution for either of them, but they were both willing to meet halfway. The tension eased, and the apartment felt like home again.",
+    "topicTag": "roommate conflict",
+    "moodTag": "understanding"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 사람이 각각 절반씩 이동하여 중간 지점에서 만난다는 뜻이다.",
+    "realUsageKo": "서로 다른 입장을 가진 양측이 각자 일부씩 양보하여 합의점을 찾을 때 사용한다. 협상, 갈등 해결, 관계 조율 등 다양한 상황에서 쓰인다.",
+    "etymologyKo": "물리적으로 두 사람이 서로를 향해 걸어가 정확히 중간 지점에서 만난다는 이미지에서 유래했으며, 이것이 타협과 상호 양보의 비유적 의미로 발전했다.",
+    "nuanceKo": "일방적인 양보가 아닌 쌍방이 모두 조금씩 양보한다는 공정함의 뉘앙스를 담고 있다. 강요나 굴복이 아닌 자발적인 합의를 암시하므로 긍정적인 어조로 사용된다.",
+    "shortExampleEn": "If you lower your price a little, I'll meet you halfway.",
+    "shortExampleKo": "가격을 조금 낮춰 주시면, 저도 중간에서 타협하겠습니다."
+  }
+}

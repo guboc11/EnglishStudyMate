@@ -1,0 +1,30 @@
+{
+  "id": "give-the-benefit-of-the-doubt_86a6846c",
+  "expression": "give the benefit of the doubt",
+  "selectionMeta": {
+    "selectedPhrase": "give the benefit of the doubt",
+    "selectedSenseLabelKo": "선의로 해석하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even though Jake was late again, his manager decided to give him the benefit of the doubt and assumed there was a good reason."
+  },
+  "step2": {
+    "story": "When Sara didn't reply to her friend's messages for two days, her friend chose to give her the benefit of the doubt and assumed she was just busy. A few days later, Sara explained she had been dealing with a family emergency. Her friend was glad she hadn't jumped to conclusions.",
+    "topicTag": "friendship",
+    "moodTag": "understanding"
+  },
+  "step3": {
+    "story": "Tom had worked at the company for three years without any issues, so when his sales numbers suddenly dropped, his supervisor decided to give him the benefit of the doubt. Instead of immediately putting him on a performance plan, she scheduled a one-on-one meeting to understand what was going on. It turned out Tom had been quietly managing his mother's illness while trying to keep up with his workload. His supervisor was moved by his dedication and arranged for him to take some personal leave. When Tom returned, he was more focused than ever, and his numbers climbed back up within a month. The team learned that choosing to trust someone first can make all the difference.",
+    "topicTag": "workplace compassion",
+    "moodTag": "empathetic"
+  },
+  "meaning": {
+    "literalMeaningKo": "불확실한 상황에서 상대방에게 유리한 쪽으로 판단을 내리다.",
+    "realUsageKo": "증거가 불분명하거나 상황이 애매할 때, 상대방의 행동이나 의도를 나쁘게 보지 않고 좋은 쪽으로 해석할 때 사용한다. 주로 신뢰 관계를 유지하거나 성급한 판단을 피하고 싶을 때 쓴다.",
+    "etymologyKo": "법률 용어에서 유래했으며, 증거가 확실하지 않을 때 피고인에게 유리한 판결('benefit')을 내리는 원칙에서 비롯되었다. 이후 일상 언어로 확장되어 쓰이게 되었다.",
+    "nuanceKo": "상대방을 무조건 믿는 것이 아니라, 확신이 없는 상황에서 신뢰를 선택하는 너그러운 태도를 담고 있다. 관계를 소중히 여기는 맥락에서 쓰이며, 상대방에 대한 배려와 관용의 뉘앙스가 강하다.",
+    "shortExampleEn": "I'll give him the benefit of the doubt and assume he forgot rather than ignored my message.",
+    "shortExampleKo": "나는 그가 내 메시지를 무시한 게 아니라 잊었다고 선의로 해석하기로 했다."
+  }
+}

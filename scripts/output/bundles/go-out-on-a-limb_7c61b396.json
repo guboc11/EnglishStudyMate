@@ -1,0 +1,30 @@
+{
+  "id": "go-out-on-a-limb_7c61b396",
+  "expression": "go out on a limb",
+  "selectionMeta": {
+    "selectedPhrase": "go out on a limb",
+    "selectedSenseLabelKo": "위험을 감수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to go out on a limb and recommend her friend for the senior position, even though he lacked some of the required experience."
+  },
+  "step2": {
+    "story": "Marcus went out on a limb and pitched his unconventional marketing idea to the entire board of directors. The room fell silent, and for a moment he feared he had made a terrible mistake. But then the CEO smiled and said it was exactly the bold thinking they needed.",
+    "topicTag": "workplace courage",
+    "moodTag": "daring"
+  },
+  "step3": {
+    "story": "Everyone at the lab told Dr. Chen her theory was too radical to publish, but she decided to go out on a limb and submit it to the leading science journal anyway. The weeks of waiting were agonizing — colleagues avoided the subject, and she began to second-guess herself. Then one morning, an email arrived with the subject line: 'Accepted for publication.' Her hands trembled as she read it. The editors called her findings 'a groundbreaking contribution,' and within days, researchers from around the world were reaching out to collaborate. Going out on that limb had changed the course of her career.",
+    "topicTag": "scientific research",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "나뭇가지 끝으로 기어 나가다 — 지지대 없이 불안정한 위치에 스스로를 놓는 것을 의미합니다.",
+    "realUsageKo": "실제로는 실패나 비판의 위험을 감수하면서도 대담한 행동을 하거나 자신 없는 의견을 내놓을 때 사용합니다.",
+    "etymologyKo": "19세기 미국에서 유래한 표현으로, 나무 위에서 가지(limb) 끝까지 기어 나가면 가지가 부러져 떨어질 위험이 있다는 이미지에서 비롯되었습니다.",
+    "nuanceKo": "단순한 도전이 아니라 타인의 반대나 실패 가능성을 충분히 인식하면서도 용기 있게 나서는 뉘앙스를 담고 있으며, 약간 구어적인 표현입니다.",
+    "shortExampleEn": "I'll go out on a limb and say this is the best film of the decade.",
+    "shortExampleKo": "위험을 감수하고 말하자면, 이번 영화가 10년 최고작인 것 같아."
+  }
+}

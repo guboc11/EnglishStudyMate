@@ -1,0 +1,30 @@
+{
+  "id": "hit-the-nail-on-the-head_b113c25c",
+  "expression": "hit the nail on the head",
+  "selectionMeta": {
+    "selectedPhrase": "hit the nail on the head",
+    "selectedSenseLabelKo": "정확히 짚다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the consultant said the team was struggling with unclear priorities, she really hit the nail on the head."
+  },
+  "step2": {
+    "story": "During the meeting, nobody could figure out why sales had dropped. Then Marcus spoke up and hit the nail on the head — customers weren't leaving because of price, but because of slow customer support. The room fell silent as everyone realized he was exactly right.",
+    "topicTag": "workplace insight",
+    "moodTag": "clarity"
+  },
+  "step3": {
+    "story": "The team had spent weeks debating why their app's user retention was so low. They tried redesigning the interface, adding new features, and cutting subscription prices, but nothing seemed to work. Then a junior developer, Sofia, quietly suggested that users might be abandoning the app simply because the onboarding process was too confusing. Her manager nodded slowly — she had hit the nail on the head. Within a month of simplifying the first-time experience, retention rates climbed by thirty percent. Sometimes the most accurate insight comes from the person least expected to speak.",
+    "topicTag": "product improvement",
+    "moodTag": "realization"
+  },
+  "meaning": {
+    "literalMeaningKo": "망치로 못의 머리를 정확히 치다.",
+    "realUsageKo": "어떤 상황이나 문제의 핵심을 정확히 파악하거나 딱 맞는 말을 했을 때 사용한다. 주로 누군가의 발언이나 판단이 완전히 옳다고 인정할 때 쓴다.",
+    "etymologyKo": "목수가 망치질을 할 때 못 머리를 정확히 맞혀야 박힌다는 데서 유래했다. 16세기 영어 문헌에서부터 '핵심을 정확히 짚다'는 의미로 사용되어 왔다.",
+    "nuanceKo": "칭찬이나 동의의 뉘앙스가 강하며, 격식체와 비격식체 모두에서 자연스럽게 쓰인다. 직접적인 맞장구보다 조금 더 강조하는 느낌을 준다.",
+    "shortExampleEn": "You hit the nail on the head — the problem was communication all along.",
+    "shortExampleKo": "당신이 정확히 짚었어요 — 문제는 처음부터 소통이었어요."
+  }
+}

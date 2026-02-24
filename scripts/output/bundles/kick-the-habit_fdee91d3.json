@@ -1,0 +1,30 @@
+{
+  "id": "kick-the-habit_fdee91d3",
+  "expression": "kick the habit",
+  "selectionMeta": {
+    "selectedPhrase": "kick the habit",
+    "selectedSenseLabelKo": "습관을 끊다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After years of smoking a pack a day, he finally decided to kick the habit when his doctor warned him about his lung health."
+  },
+  "step2": {
+    "story": "Maria had been biting her nails since childhood, but after her wedding photos came out, she was determined to kick the habit for good. She started wearing bitter-tasting nail polish and kept a stress ball at her desk. Within three months, her nails had grown longer than they ever had before.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had always reached for his phone first thing every morning, scrolling through social media before he even got out of bed. His therapist pointed out that this habit was fueling his anxiety, so he made a commitment to kick the habit once and for all. He placed his phone charger across the room and bought an old-fashioned alarm clock instead. The first week was genuinely difficult — his hands would instinctively reach for the device that wasn't there. But by the second week, he noticed he was waking up calmer, and he started using that quiet morning time to journal or stretch. Kicking the habit had given him back something he hadn't even realized he'd lost: a sense of stillness at the start of each day.",
+    "topicTag": "digital wellness",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '습관을 발로 차다'는 뜻으로, 무언가를 강하게 밀어내는 이미지를 담고 있습니다.",
+    "realUsageKo": "실제로는 오랫동안 지속된 나쁜 습관(흡연, 음주, 손톱 물어뜯기 등)을 의지로 끊어낸다는 의미로 사용됩니다. 주로 중독성 있거나 고치기 어려운 행동을 멈출 때 씁니다.",
+    "etymologyKo": "'Kick'은 '힘차게 밀어내다'는 동사로, 습관을 수동적으로 그만두는 것이 아니라 능동적으로 걷어차 버린다는 뉘앙스를 줍니다. 1900년대 초반부터 특히 마약·흡연 중단 맥락에서 사용되기 시작했습니다.",
+    "nuanceKo": "단순히 'stop'보다 훨씬 강한 의지와 노력이 필요했음을 암시합니다. 성공의 뉘앙스가 강하며, 쉽지 않았지만 결국 해냈다는 성취감이 담겨 있습니다.",
+    "shortExampleEn": "She finally kicked the habit of drinking too much coffee after switching to herbal tea.",
+    "shortExampleKo": "그녀는 허브차로 바꾼 후 마침내 커피를 과하게 마시는 습관을 끊었다."
+  }
+}

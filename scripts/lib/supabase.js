@@ -1,107 +1,134 @@
 'use strict';
 
 /**
- * Phase 1: Local file system storage (replaces Supabase).
- * Phase 2: Replace with @supabase/supabase-js real client.
- *
- * Output layout:
- *   scripts/output/bundles/<id>.json   — bundle data
- *   scripts/output/images/<id>_<step>.<ext>  — image files
+ * scripts/lib/supabase.js
+ * 로컬 번들 파일을 Supabase expressions + stories 테이블에 upsert.
+ * 이미지는 Supabase Storage 'images' 버킷에 업로드.
  */
 
-const fs = require('fs');
+require('dotenv').config();
+const { createClient } = require('@supabase/supabase-js');
 const path = require('path');
-const crypto = require('crypto');
+const fs = require('fs');
 
-const OUTPUT_DIR = path.join(__dirname, '..', 'output');
-const BUNDLES_DIR = path.join(OUTPUT_DIR, 'bundles');
-const IMAGES_DIR = path.join(OUTPUT_DIR, 'images');
+const BUNDLES_DIR = path.join(__dirname, '..', 'output', 'bundles');
 
-function ensureDirs() {
-  for (const dir of [OUTPUT_DIR, BUNDLES_DIR, IMAGES_DIR]) {
-    if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  }
-}
+/** @type {import('@supabase/supabase-js').SupabaseClient | null} */
+let _client = null;
 
-function makeBundleId(bundle) {
-  const phrase = String(bundle.selectionMeta?.selectedPhrase || bundle.expression || 'unknown');
-  const sense = String(bundle.selectionMeta?.selectedSenseLabelKo || 'unknown');
-  const hash = crypto
-    .createHash('md5')
-    .update(`${phrase}_${sense}`)
-    .digest('hex')
-    .slice(0, 8);
-  const slug = phrase.replace(/\s+/g, '-').toLowerCase();
-  return `${slug}_${hash}`;
+function getClient() {
+  if (_client) return _client;
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (!url || !key) throw new Error('Missing SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY in scripts/.env');
+  _client = createClient(url, key);
+  return _client;
 }
 
 /**
- * Upsert a learning bundle to local storage.
+ * 번들을 expressions + stories 테이블에 upsert.
+ * expressions: ON CONFLICT (id) DO NOTHING
+ * stories: 항상 INSERT
+ *
  * @param {object} bundle
- * @returns {Promise<{id: string, path: string}>}
+ * @returns {Promise<{ id: string; path: string }>}
  */
 async function upsertBundle(bundle) {
-  ensureDirs();
-  const id = makeBundleId(bundle);
-  const record = { id, ...bundle, savedAt: new Date().toISOString() };
-  const filePath = path.join(BUNDLES_DIR, `${id}.json`);
-  fs.writeFileSync(filePath, JSON.stringify(record, null, 2), 'utf8');
-  return { id, path: filePath };
+  const supabase = getClient();
+  const id = bundle.id;
+
+  const { error: exprError } = await supabase
+    .from('expressions')
+    .upsert(
+      {
+        id,
+        phrase: bundle.selectionMeta?.selectedPhrase ?? bundle.expression,
+        sense_label_ko: bundle.selectionMeta?.selectedSenseLabelKo ?? '',
+        domain: bundle.selectionMeta?.selectedDomain ?? 'general',
+        meaning: bundle.meaning,
+        selection_meta: bundle.selectionMeta,
+      },
+      { onConflict: 'id', ignoreDuplicates: true }
+    );
+
+  if (exprError) throw new Error(`expressions upsert failed: ${exprError.message}`);
+
+  const { error: storyError } = await supabase.from('stories').insert({
+    expression_id: id,
+    step1_sentence: bundle.step1?.sentence ?? '',
+    step2_story: bundle.step2?.story ?? '',
+    step3_story: bundle.step3?.story ?? '',
+    topic_tag: bundle.step2?.topicTag ?? null,
+    mood_tag: bundle.step2?.moodTag ?? null,
+  });
+
+  if (storyError) throw new Error(`stories insert failed: ${storyError.message}`);
+
+  return { id, path: `bundles/${id}.json` };
 }
 
 /**
- * Read a bundle from local storage by ID.
+ * ID로 번들 조회 (expressions + stories JOIN)
  * @param {string} id
- * @returns {Promise<object>}
+ * @returns {Promise<object | null>}
  */
 async function getBundle(id) {
-  const filePath = path.join(BUNDLES_DIR, `${id}.json`);
-  if (!fs.existsSync(filePath)) throw new Error(`Bundle not found: ${id}`);
-  return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  const supabase = getClient();
+  const { data, error } = await supabase
+    .from('expressions')
+    .select('*, stories(*)')
+    .eq('id', id)
+    .single();
+  if (error || !data) return null;
+  return data;
 }
 
 /**
- * Save an image buffer to local storage and update the bundle JSON with the path.
+ * 이미지를 Supabase Storage 'images' 버킷에 업로드.
+ * 경로: images/{bundleId}/{step}.png
+ *
  * @param {string} bundleId
- * @param {string} step - 'step2' or 'step3'
+ * @param {'step2' | 'step3'} step
  * @param {Buffer} buffer
- * @param {string} mimeType - e.g. 'image/png'
- * @returns {Promise<string>} Absolute path to saved image
+ * @param {string} mimeType
+ * @returns {Promise<string>} Storage path
  */
 async function uploadImage(bundleId, step, buffer, mimeType = 'image/png') {
-  ensureDirs();
-  const ext = (mimeType.split('/')[1] || 'png').split(';')[0];
-  const fileName = `${bundleId}_${step}.${ext}`;
-  const filePath = path.join(IMAGES_DIR, fileName);
+  const supabase = getClient();
+  const storagePath = `${bundleId}/${step}.png`;
 
-  fs.writeFileSync(filePath, buffer);
+  const { error } = await supabase.storage
+    .from('images')
+    .upload(storagePath, buffer, { contentType: mimeType, upsert: true });
 
-  // Update bundle JSON to record image path
-  const bundlePath = path.join(BUNDLES_DIR, `${bundleId}.json`);
-  if (fs.existsSync(bundlePath)) {
-    const bundle = JSON.parse(fs.readFileSync(bundlePath, 'utf8'));
-    if (!bundle[step]) bundle[step] = {};
-    bundle[step].imageUrl = filePath;
-    fs.writeFileSync(bundlePath, JSON.stringify(bundle, null, 2), 'utf8');
-  }
-
-  return filePath;
+  if (error) throw new Error(`Storage upload failed: ${error.message}`);
+  return storagePath;
 }
 
 /**
- * List all bundles that are missing step2 or step3 images.
+ * step2 또는 step3 이미지가 Storage에 없는 번들 목록 반환.
+ * 로컬 bundles/ 디렉토리 파일을 기준으로, Storage에 없는 것을 찾는다.
+ *
  * @returns {Promise<object[]>}
  */
 async function listBundlesWithoutImages() {
-  ensureDirs();
+  const supabase = getClient();
   const files = fs.readdirSync(BUNDLES_DIR).filter((f) => f.endsWith('.json'));
   const result = [];
+
   for (const file of files) {
     const bundle = JSON.parse(fs.readFileSync(path.join(BUNDLES_DIR, file), 'utf8'));
-    const hasStep2 = Boolean(bundle.step2?.imageUrl);
-    const hasStep3 = Boolean(bundle.step3?.imageUrl);
+    const id = bundle.id;
+
+    const { data: step2 } = await supabase.storage.from('images').list(id, { search: 'step2.png' });
+    const { data: step3 } = await supabase.storage.from('images').list(id, { search: 'step3.png' });
+
+    const hasStep2 = Array.isArray(step2) && step2.length > 0;
+    const hasStep3 = Array.isArray(step3) && step3.length > 0;
+
     if (!hasStep2 || !hasStep3) result.push(bundle);
   }
+
   return result;
 }
 

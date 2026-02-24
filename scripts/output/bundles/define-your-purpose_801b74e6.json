@@ -1,0 +1,30 @@
+{
+  "id": "define-your-purpose_801b74e6",
+  "expression": "define your purpose",
+  "selectionMeta": {
+    "selectedPhrase": "define your purpose",
+    "selectedSenseLabelKo": "목적을 정의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before you start chasing success, you need to define your purpose so that every decision aligns with what truly matters to you."
+  },
+  "step2": {
+    "story": "After years of jumping from job to job, Sara finally sat down to define her purpose. She realized she wanted to help people through education, not just earn a paycheck. That clarity changed everything — she applied to teach abroad the very next morning.",
+    "topicTag": "self-discovery",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had spent his thirties building a successful career in finance, yet he felt hollow inside. One evening, staring at the city lights from his apartment, he decided it was time to define his purpose rather than let life define it for him. He started journaling every night, asking himself what he would do if money were no obstacle. Slowly, a clear answer emerged: he wanted to mentor young people from underprivileged backgrounds. He began volunteering on weekends, and within a year he had launched a non-profit. Looking back, he understood that defining his purpose had been the single most important decision of his life.",
+    "topicTag": "life direction",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 목적이 무엇인지 명확하게 규정하다.",
+    "realUsageKo": "단순히 목표를 세우는 것을 넘어, 삶이나 일에서 자신이 진정으로 추구하는 가치와 방향을 스스로 뚜렷하게 정하는 행위를 표현할 때 사용한다.",
+    "etymologyKo": "'define'은 라틴어 'definire(경계를 짓다, 한정하다)'에서 유래하며, 'purpose'는 고대 프랑스어 'porpos(의도, 계획)'에서 비롯되었다.",
+    "nuanceKo": "단순한 목표 설정보다 더 깊은 내면의 탐색을 암시하며, 자기 계발·리더십·동기부여 맥락에서 진지하고 성찰적인 뉘앙스로 자주 쓰인다.",
+    "shortExampleEn": "The workshop helped employees define their purpose and reconnect with why they do their work.",
+    "shortExampleKo": "그 워크숍은 직원들이 자신의 목적을 정의하고 자신이 일하는 이유와 다시 연결될 수 있도록 도와주었다."
+  }
+}

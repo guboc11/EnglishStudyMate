@@ -1,0 +1,30 @@
+{
+  "id": "can't-see-the-wood-for-the-trees_3ffbc870",
+  "expression": "can't see the wood for the trees",
+  "selectionMeta": {
+    "selectedPhrase": "can't see the wood for the trees",
+    "selectedSenseLabelKo": "나무를 보느라 숲을 못 보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was so buried in spreadsheet details that she couldn't see the wood for the trees and missed the bigger strategic problem."
+  },
+  "step2": {
+    "story": "David had spent three weeks refining every slide of his presentation, tweaking fonts and adjusting chart colors. His manager finally pulled him aside and told him he couldn't see the wood for the trees — the core message was still unclear. He stepped back, scrapped the decorative work, and rebuilt it around a single compelling argument.",
+    "topicTag": "work stress",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "The engineering team had been debating the database schema for over a month, arguing over field names, index strategies, and edge-case constraints. Meanwhile, the product launch date was quietly slipping past them. During the retrospective, the tech lead admitted that the team couldn't see the wood for the trees — they had become so absorbed in technical minutiae that they lost sight of the goal: shipping a working product to real users. They agreed on a rule going forward: no discussion lasting more than two days without connecting it back to user impact. It was a painful lesson, but it reshaped how they made decisions.",
+    "topicTag": "project management",
+    "moodTag": "cautionary"
+  },
+  "meaning": {
+    "literalMeaningKo": "나무들 때문에 숲 전체를 볼 수 없다는 뜻으로, 세부 사항에 너무 집중한 나머지 전체적인 상황을 파악하지 못하는 상태를 나타냅니다.",
+    "realUsageKo": "어떤 일의 세세한 부분에 너무 몰두하여 전체 맥락이나 핵심 목표를 놓치고 있을 때 사용합니다. 주로 비판적인 조언이나 자기 반성의 맥락에서 씁니다.",
+    "etymologyKo": "영국식 영어 표현으로, 숲(wood)과 그 안의 나무들(trees)이라는 비유에서 유래했습니다. 미국 영어에서는 같은 의미로 'can't see the forest for the trees'를 사용합니다.",
+    "nuanceKo": "단순한 실수가 아니라 집중력의 방향이 잘못되었음을 지적하는 뉘앙스입니다. 직접적이지만 비난보다는 통찰을 권유하는 느낌으로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "You can't see the wood for the trees — stop fixing typos and fix the broken logic first.",
+    "shortExampleKo": "나무를 보느라 숲을 못 보고 있어 — 오타 수정은 그만하고 먼저 잘못된 로직을 고쳐."
+  }
+}

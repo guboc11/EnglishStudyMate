@@ -1,0 +1,30 @@
+{
+  "id": "go-down-in-flames_93c0f346",
+  "expression": "go down in flames",
+  "selectionMeta": {
+    "selectedPhrase": "go down in flames",
+    "selectedSenseLabelKo": "처참히 실패하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite months of preparation, their product launch went down in flames when the app crashed during the live demo."
+  },
+  "step2": {
+    "story": "Marcus had pitched his startup idea to investors with complete confidence, but the presentation went down in flames the moment the projector died and the backup files were corrupted. He stood in silence as the investors quietly filed out of the room. It was the most humiliating afternoon of his career.",
+    "topicTag": "startup failure",
+    "moodTag": "humiliated"
+  },
+  "step3": {
+    "story": "The theatrical production had been hyped for months as the most ambitious show the small town had ever seen. Opening night arrived with a packed audience, but within the first twenty minutes the lead actor forgot his lines, two set pieces collapsed, and the sound system began playing the wrong music at full volume. The director watched from the wings as the whole performance went down in flames in front of a crowd of five hundred people. Critics posted scathing reviews before the curtain even fell. By morning, the remaining performances had been cancelled and refunds were being issued. What was supposed to be a triumph became a cautionary tale everyone in town would remember for years.",
+    "topicTag": "theater disaster",
+    "moodTag": "mortified"
+  },
+  "meaning": {
+    "literalMeaningKo": "불꽃 속에서 추락하다 — 마치 비행기가 화염에 휩싸여 추락하는 장면을 묘사한 표현입니다.",
+    "realUsageKo": "계획, 프로젝트, 공연, 관계 등이 완전히 그리고 매우 눈에 띄게 실패했을 때 사용합니다. 단순한 실패가 아니라 주변에서 모두 목격하는 처참한 실패를 강조합니다.",
+    "etymologyKo": "2차 세계대전 시기 격추된 전투기가 화염을 내뿜으며 추락하는 모습에서 유래했으며, 이후 어떤 일이든 극적으로 실패하는 상황에 비유적으로 사용되기 시작했습니다.",
+    "nuanceKo": "실패의 규모가 크고 공개적이며 돌이킬 수 없다는 뉘앙스를 담고 있습니다. 다소 과장된 표현으로, 유머러스하게 혹은 자조적으로 쓰이기도 합니다.",
+    "shortExampleEn": "The merger negotiations went down in flames after both CEOs refused to compromise.",
+    "shortExampleKo": "두 CEO 모두 양보를 거부하면서 합병 협상은 처참히 실패로 끝났다."
+  }
+}

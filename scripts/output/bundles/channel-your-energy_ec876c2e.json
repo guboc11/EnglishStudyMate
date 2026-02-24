@@ -1,0 +1,30 @@
+{
+  "id": "channel-your-energy_ec876c2e",
+  "expression": "channel your energy",
+  "selectionMeta": {
+    "selectedPhrase": "channel your energy",
+    "selectedSenseLabelKo": "에너지를 집중시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of worrying about things you can't control, try to channel your energy into the tasks that actually matter."
+  },
+  "step2": {
+    "story": "After the difficult breakup, Maya decided to channel her energy into learning photography. Within months, she had built a small portfolio and found a sense of purpose she hadn't felt in years.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For years, Daniel had struggled with frustration at work, letting small setbacks spiral into days of low productivity. His mentor finally sat him down and said, 'You're wasting yourself. Channel your energy into solving one problem at a time.' It was simple advice, but it changed everything. Daniel started writing down a single daily goal each morning, and instead of scattering his focus, he poured everything into that one target. By the end of the quarter, he had delivered more results than in the previous six months combined. He had learned that intensity of focus, not volume of effort, was the real engine of progress.",
+    "topicTag": "work productivity",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 에너지를 특정 방향으로 흐르도록 집중시키다.",
+    "realUsageKo": "감정, 열정, 능력 등을 흩트리지 않고 특정 목표나 활동에 집중적으로 쏟아붓는 것을 표현할 때 사용한다. 부정적인 감정을 생산적인 방향으로 전환할 때도 자주 쓰인다.",
+    "etymologyKo": "'channel'은 원래 물이 흐르는 수로(水路)를 뜻하며, 여기서 확장되어 '무언가를 특정 방향으로 이끌다'는 의미로 발전했다. 에너지를 물처럼 원하는 곳으로 흘려보낸다는 비유적 표현이다.",
+    "nuanceKo": "의지적이고 주도적인 뉘앙스가 강하다. 단순히 노력한다는 것이 아니라, 분산된 힘을 한곳에 모아 의도적으로 투입한다는 느낌을 준다. 코칭이나 자기계발 맥락에서 특히 자주 등장한다.",
+    "shortExampleEn": "She channeled her energy into training for the marathon after losing her job.",
+    "shortExampleKo": "그녀는 직장을 잃은 후 마라톤 훈련에 에너지를 집중했다."
+  }
+}

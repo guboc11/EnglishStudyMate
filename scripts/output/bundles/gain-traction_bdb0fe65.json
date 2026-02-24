@@ -1,0 +1,30 @@
+{
+  "id": "gain-traction_bdb0fe65",
+  "expression": "gain traction",
+  "selectionMeta": {
+    "selectedPhrase": "gain traction",
+    "selectedSenseLabelKo": "주목을 받다 / 진행되다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup's new subscription model began to gain traction after a positive review in a major tech publication."
+  },
+  "step2": {
+    "story": "After months of quiet development, Sarah's app finally started to gain traction on social media. Downloads doubled every week, and investors began reaching out for the first time.",
+    "topicTag": "startup growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Marcus had been pitching his sustainable packaging idea to retailers for over a year with little success. Then a popular eco-lifestyle blogger featured his product, and suddenly it began to gain traction across multiple markets. Supermarket chains that had previously ignored his emails were now scheduling meetings. Within three months, his small factory was running double shifts to keep up with demand. The idea hadn't changed — but the moment it gained traction, everything else fell into place.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '견인력(traction)을 얻다'는 뜻으로, 바퀴가 노면을 잡아 앞으로 나아가는 이미지에서 비롯됩니다.",
+    "realUsageKo": "비즈니스나 사회적 맥락에서 아이디어, 프로젝트, 제품 등이 사람들의 관심을 받거나 실질적인 진전을 이루기 시작할 때 사용합니다.",
+    "etymologyKo": "'traction'은 라틴어 'trahere(끌다)'에서 유래했으며, 물리적 마찰력을 뜻하다가 20세기 들어 '추진력·진전'이라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 성공보다는 '서서히 모멘텀이 붙는 과정'에 초점이 있으며, 주로 초기 단계에서 반응이 생기기 시작하는 시점을 묘사할 때 씁니다.",
+    "shortExampleEn": "The campaign slowly gained traction as more people shared it online.",
+    "shortExampleKo": "더 많은 사람들이 온라인에서 공유하면서 그 캠페인은 서서히 주목을 받기 시작했다."
+  }
+}

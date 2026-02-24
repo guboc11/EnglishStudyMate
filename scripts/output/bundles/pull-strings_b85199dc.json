@@ -1,0 +1,30 @@
+{
+  "id": "pull-strings_b85199dc",
+  "expression": "pull strings",
+  "selectionMeta": {
+    "selectedPhrase": "pull strings",
+    "selectedSenseLabelKo": "뒷줄을 당기다 (인맥 이용)",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to get her son into the prestigious school by pulling strings with a board member she knew."
+  },
+  "step2": {
+    "story": "Jake had applied for the government contract through the official process, but weeks passed without a response. Frustrated, he asked his old college friend, now a senior official, to pull strings on his behalf. The next day, Jake received a call inviting him to a final interview.",
+    "topicTag": "career",
+    "moodTag": "calculating"
+  },
+  "step3": {
+    "story": "Maya had dreamed of performing at the city's biggest music festival for years, but the application list was always closed to unknown artists. Her manager suggested they try a different route — he knew the festival's director from a charity event years ago. Reluctantly, Maya agreed to let him pull strings, even though it felt like cheating. Within a week, she had a confirmed slot on the Saturday evening stage. Standing backstage on the night of the show, she felt a mix of excitement and unease, wondering if she truly deserved her spot. She promised herself that from that moment on, she would earn every stage on her own merit.",
+    "topicTag": "music",
+    "moodTag": "conflicted"
+  },
+  "meaning": {
+    "literalMeaningKo": "줄을 당기다 — 마치 인형극에서 조종사가 줄을 당겨 인형을 움직이듯, 보이지 않는 곳에서 힘을 행사한다는 뜻입니다.",
+    "realUsageKo": "공식적인 절차나 자격 요건을 우회하기 위해 인맥이나 영향력을 이용할 때 사용합니다. 주로 부탁이나 특혜를 얻는 상황에서 씁니다.",
+    "etymologyKo": "인형극(puppet theater)에서 유래한 표현으로, 뒤에서 줄을 당겨 인형을 조종하는 행위에서 '배후에서 영향력을 행사한다'는 의미가 생겼습니다.",
+    "nuanceKo": "중립적이거나 약간 부정적인 어감을 가집니다. 정당한 노력 없이 연줄로 무언가를 얻는다는 뉘앙스가 있어 때로는 불공정함을 암시하기도 합니다.",
+    "shortExampleEn": "He pulled strings to get his nephew hired at the firm.",
+    "shortExampleKo": "그는 인맥을 이용해 조카를 그 회사에 취직시켰다."
+  }
+}

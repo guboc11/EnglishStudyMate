@@ -1,0 +1,30 @@
+{
+  "id": "crush-it_3749e3da",
+  "expression": "crush it",
+  "selectionMeta": {
+    "selectedPhrase": "crush it",
+    "selectedSenseLabelKo": "압도적으로 잘하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She prepared for weeks, and when the day of the presentation finally came, she absolutely crushed it."
+  },
+  "step2": {
+    "story": "Jake had been training every day for the marathon. On race day, he ignored his nerves and crushed it, finishing in his best time ever. His teammates couldn't stop cheering.",
+    "topicTag": "sports achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Mia had spent three months preparing her startup pitch, rehearsing in front of mirrors and refining every slide. When she finally walked into the investor meeting, her heart was pounding. But the moment she started speaking, all that preparation kicked in and she crushed it — confident, clear, and compelling from start to finish. The lead investor leaned forward and said it was the best pitch he'd heard all year. Mia walked out of the room with a term sheet in hand and a smile she couldn't suppress.",
+    "topicTag": "career breakthrough",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '그것을 으스러뜨리다'라는 뜻이다.",
+    "realUsageKo": "어떤 일을 압도적으로 잘 해냈을 때, 또는 누군가를 응원하며 '최고로 잘해봐!'라는 의미로 사용한다.",
+    "etymologyKo": "'crush'는 '짓이기다, 압도하다'는 뜻으로, 경쟁이나 도전을 완전히 제압한다는 이미지에서 비롯된 미국식 구어 표현이다.",
+    "nuanceKo": "구어적이고 에너지 넘치는 표현으로, 특히 스포츠·발표·오디션 등 퍼포먼스 상황에서 자주 쓰인다. 격려할 때는 'Go crush it!'처럼 사용한다.",
+    "shortExampleEn": "You've got this — go out there and crush it!",
+    "shortExampleKo": "넌 할 수 있어 — 나가서 완전히 압도해버려!"
+  }
+}

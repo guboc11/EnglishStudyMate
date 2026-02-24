@@ -1,0 +1,30 @@
+{
+  "id": "steal-the-show_09f4bc63",
+  "expression": "steal the show",
+  "selectionMeta": {
+    "selectedPhrase": "steal the show",
+    "selectedSenseLabelKo": "주목을 받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The young violinist completely stole the show at the annual gala with her breathtaking performance."
+  },
+  "step2": {
+    "story": "The opening act was forgettable, but then Maya walked on stage in a stunning red dress and stole the show. The audience couldn't take their eyes off her confident presence and powerful voice.",
+    "topicTag": "performance",
+    "moodTag": "dazzling"
+  },
+  "step3": {
+    "story": "Everyone expected the headliner to be the highlight of the evening, but nobody had counted on the surprise guest. A ten-year-old boy named Leo stepped up to the microphone during the talent portion and began to sing with a voice far beyond his years. The crowd fell silent, then erupted into thunderous applause. Even the judges were visibly moved, dabbing at their eyes. By the time Leo finished his final note, it was clear he had completely stolen the show. The headliner later joked that he had never been upstaged so beautifully in his career.",
+    "topicTag": "talent show",
+    "moodTag": "awe-inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "공연(show)을 훔친다(steal)는 뜻으로, 무대를 독차지한다는 의미입니다.",
+    "realUsageKo": "공연이나 행사에서 다른 사람들을 압도하고 가장 큰 주목과 칭찬을 받을 때 사용합니다. 꼭 공연 상황이 아니더라도 어떤 자리에서든 단연 돋보이는 사람이나 것을 묘사할 때 쓸 수 있습니다.",
+    "etymologyKo": "19세기 연극 무대에서 유래한 표현으로, 주연 배우보다 조연이 더 큰 갈채를 받는 상황을 묘사하면서 생겨났습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 예상치 못한 사람이 두각을 나타낼 때 특히 자주 사용됩니다. 가끔 유머러스하게 쓰이기도 합니다.",
+    "shortExampleEn": "Her acceptance speech was so funny and heartfelt that she stole the show from the award winners.",
+    "shortExampleKo": "그녀의 수상소감이 너무 재미있고 감동적이어서 수상자들보다 더 주목을 받았다."
+  }
+}

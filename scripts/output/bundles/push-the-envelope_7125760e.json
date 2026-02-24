@@ -1,0 +1,30 @@
+{
+  "id": "push-the-envelope_7125760e",
+  "expression": "push the envelope",
+  "selectionMeta": {
+    "selectedPhrase": "push the envelope",
+    "selectedSenseLabelKo": "한계에 도전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The young engineer decided to push the envelope with a battery design that no one had attempted before."
+  },
+  "step2": {
+    "story": "The startup's lead designer pushed the envelope by proposing a completely wireless charging system when everyone expected a conventional solution. Her team was skeptical at first, but the prototype exceeded every expectation. By daring to go further than the standard, she changed the direction of the whole product line.",
+    "topicTag": "innovation",
+    "moodTag": "daring"
+  },
+  "step3": {
+    "story": "Maya had always been told to play it safe, but when the annual design competition arrived she knew it was time to push the envelope. She spent weeks prototyping a solar-powered water purifier small enough to fit in a backpack, a concept her professors called impossibly ambitious. On the day of the presentation, she stood in front of the judges with a working model and a quiet confidence that filled the room. The device functioned flawlessly, filtering a liter of water in under two minutes. One of the judges leaned forward and asked how she had solved the filtration bottleneck that had stumped researchers for years. Maya smiled and said she simply refused to accept that the limit was where everyone else had stopped.",
+    "topicTag": "engineering challenge",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "봉투를 밀다 — 봉투의 가장자리, 즉 한계선을 물리적으로 밀어낸다는 뜻입니다.",
+    "realUsageKo": "기존의 한계나 경계를 넘어 더 대담하게 도전하거나 새로운 시도를 할 때 사용합니다. 기술, 예술, 비즈니스 등 다양한 분야에서 혁신적인 시도를 묘사할 때 자주 쓰입니다.",
+    "etymologyKo": "항공 공학에서 비롯된 표현으로, 'envelope'는 비행기가 안전하게 비행할 수 있는 속도·고도·하중 범위를 나타내는 그래프 곡선을 가리킵니다. 테스트 파일럿들이 이 한계 곡선(envelope)을 밀어붙이며 성능 한계를 시험했던 데서 유래했습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 단순한 무모함보다는 의도적이고 용기 있는 도전을 의미합니다. 비판적인 맥락보다는 칭찬이나 격려의 맥락에서 주로 사용됩니다.",
+    "shortExampleEn": "This filmmaker has always pushed the envelope with controversial but thought-provoking narratives.",
+    "shortExampleKo": "이 영화감독은 논란이 있지만 생각을 자극하는 서사로 항상 한계에 도전해 왔습니다."
+  }
+}

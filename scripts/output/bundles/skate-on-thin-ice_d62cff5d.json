@@ -1,0 +1,30 @@
+{
+  "id": "skate-on-thin-ice_d62cff5d",
+  "expression": "skate on thin ice",
+  "selectionMeta": {
+    "selectedPhrase": "skate on thin ice",
+    "selectedSenseLabelKo": "위험한 상황에 처하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "By lying to his manager about missing the deadline, Jake was skating on thin ice and risked losing his job."
+  },
+  "step2": {
+    "story": "Emma had been skating on thin ice all semester, turning in assignments late and skipping lectures. When the professor warned her that one more absence could mean failing the course, she finally realized how serious her situation was.",
+    "topicTag": "academic pressure",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Marcus had been skating on thin ice with his business partner for months, making financial decisions without proper consultation. The tension finally came to a head at their quarterly meeting when the partner discovered a series of unauthorized expenses. Marcus tried to explain himself, but every word he said only seemed to make things worse. As the silence in the room grew heavier, he understood that his reckless choices had put everything they had built together at serious risk.",
+    "topicTag": "business conflict",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "얇은 얼음 위에서 스케이트를 타다 — 언제 깨질지 모르는 위험한 표면 위를 나아가는 상황을 묘사한다.",
+    "realUsageKo": "실제로는 규칙을 어기거나, 누군가의 인내심을 시험하거나, 위험한 결정을 내리는 등 언제든 문제가 터질 수 있는 위태로운 상황에 처했을 때 사용한다.",
+    "etymologyKo": "실제로 얇은 얼음 위에서 스케이트를 타면 빠질 위험이 크다는 데서 유래했으며, 19세기 영어권에서 비유적 표현으로 정착되었다.",
+    "nuanceKo": "경고나 충고의 뉘앙스를 띠는 경우가 많으며, 당사자가 위험을 자각하지 못하고 있을 때 제3자가 지적하는 맥락에서도 자주 쓰인다.",
+    "shortExampleEn": "You're skating on thin ice if you keep arguing with the boss like that.",
+    "shortExampleKo": "그런 식으로 상사에게 계속 반박하면 위험한 상황에 처하게 될 거야."
+  }
+}

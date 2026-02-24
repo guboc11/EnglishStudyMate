@@ -1,0 +1,30 @@
+{
+  "id": "give-and-take_da297c15",
+  "expression": "give and take",
+  "selectionMeta": {
+    "selectedPhrase": "give and take",
+    "selectedSenseLabelKo": "주고받기",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A good friendship requires give and take from both sides."
+  },
+  "step2": {
+    "story": "Sarah and her roommate had different schedules and habits, but they made things work through give and take. When Sarah needed quiet to study, her roommate wore headphones; in return, Sarah kept her cooking smells to a minimum. Their willingness to compromise made their shared apartment feel like home.",
+    "topicTag": "roommate life",
+    "moodTag": "cooperative"
+  },
+  "step3": {
+    "story": "The union and management had been at odds for weeks, each side convinced the other was being unreasonable. Finally, a veteran mediator stepped in and reminded both parties that successful negotiations are always about give and take. Management agreed to a modest wage increase; the union agreed to more flexible shift rotations. Neither side got everything they wanted, but both left the table with something meaningful. The workers returned the next morning with a renewed sense of trust, and the managers breathed a quiet sigh of relief. It was a reminder that compromise, not victory, keeps an organization alive.",
+    "topicTag": "workplace negotiation",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "주는 것과 받는 것, 즉 상호 교환을 뜻한다.",
+    "realUsageKo": "관계나 협상에서 서로 양보하고 타협하는 태도를 나타낼 때 사용한다. 한쪽만 희생하는 것이 아니라 쌍방이 균형 있게 조율한다는 뉘앙스를 담고 있다.",
+    "etymologyKo": "중세 영어 시절부터 '주다(give)'와 '받다(take)'를 쌍으로 묶어 균형을 표현해 온 관용구로, 18세기 이후 협상·외교 맥락에서 널리 쓰이기 시작했다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 건강한 관계나 성숙한 협상의 덕목을 설명할 때 자주 등장한다. '타협'보다 더 자연스럽고 구어적인 표현이다.",
+    "shortExampleEn": "Marriage works best when there's a lot of give and take.",
+    "shortExampleKo": "결혼 생활은 서로 주고받는 게 많을 때 가장 잘 굴러간다."
+  }
+}

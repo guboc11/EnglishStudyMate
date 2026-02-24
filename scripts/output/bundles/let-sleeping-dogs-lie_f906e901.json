@@ -1,0 +1,30 @@
+{
+  "id": "let-sleeping-dogs-lie_f906e901",
+  "expression": "let sleeping dogs lie",
+  "selectionMeta": {
+    "selectedPhrase": "let sleeping dogs lie",
+    "selectedSenseLabelKo": "긁어 부스럼 만들지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My coworker suggested bringing up the old salary dispute again, but I told her it was better to let sleeping dogs lie."
+  },
+  "step2": {
+    "story": "After the project ended in a messy disagreement, Marcus considered sending a long email to clarify his side of the story. His mentor shook his head and said, 'Let sleeping dogs lie — everyone has moved on.' Marcus deleted the draft and focused on his next assignment instead.",
+    "topicTag": "workplace conflict",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Years after leaving her hometown, Clara heard that her old neighbor was spreading rumors about why she had moved away. Her sister urged her to call him and set the record straight once and for all. Clara sat by the phone for a long time, thinking about the heated argument that had driven her away in the first place. She remembered how exhausting it had been — the raised voices, the hurt feelings, the weeks of tension on the street. In the end, she put the phone down and made herself a cup of tea. Some things were better left undisturbed; it was wiser to let sleeping dogs lie than to reopen wounds that had finally begun to heal.",
+    "topicTag": "personal relationships",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자고 있는 개를 그냥 내버려 두라는 뜻으로, 건드리지 않는 것이 낫다는 의미입니다.",
+    "realUsageKo": "과거의 문제나 갈등을 다시 꺼내면 오히려 상황이 나빠질 수 있으니 그냥 덮어두는 것이 낫다고 조언할 때 사용합니다.",
+    "etymologyKo": "중세 영어 속담에서 유래했으며, 잠든 개를 깨우면 물릴 수 있다는 경험에서 비롯된 표현입니다. 14세기부터 문헌에 등장하기 시작했습니다.",
+    "nuanceKo": "충고나 경고의 뉘앙스로 사용되며, 문제를 회피하는 것이 아니라 불필요한 갈등을 피하는 현명한 선택임을 강조합니다.",
+    "shortExampleEn": "Don't mention the argument to Dad — just let sleeping dogs lie.",
+    "shortExampleKo": "아빠한테 그 말다툼 얘기는 꺼내지 마 — 긁어 부스럼 만들지 마."
+  }
+}

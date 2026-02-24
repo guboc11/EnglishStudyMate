@@ -1,0 +1,30 @@
+{
+  "id": "stretch-the-truth_78f7b37b",
+  "expression": "stretch the truth",
+  "selectionMeta": {
+    "selectedPhrase": "stretch the truth",
+    "selectedSenseLabelKo": "과장하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He stretched the truth a little when he told his friends he had single-handedly finished the project in one night."
+  },
+  "step2": {
+    "story": "During the job interview, Maya stretched the truth when she claimed she had led a team of twenty people. In reality, she had only supervised two interns. She hoped the exaggeration would help her land the position.",
+    "topicTag": "job interview",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "When Daniel returned from his weekend hiking trip, he gathered his coworkers around and began stretching the truth about the dangers he had faced on the trail. He described a bear encounter that had actually been nothing more than a distant rustle in the bushes. His colleagues listened wide-eyed as the story grew more dramatic with each retelling. By the time lunch ended, the bear had apparently chased him for half a mile. Daniel knew deep down that he was exaggerating, but the attention felt too good to stop.",
+    "topicTag": "storytelling",
+    "moodTag": "boastful"
+  },
+  "meaning": {
+    "literalMeaningKo": "진실을 늘린다는 뜻으로, 사실을 실제보다 크거나 인상적으로 부풀리는 것을 의미한다.",
+    "realUsageKo": "거짓말까지는 아니지만 사실을 과장하거나 일부를 부풀려서 말할 때 사용한다. 주로 자신을 좋게 보이려 하거나 이야기를 더 흥미롭게 만들려는 상황에서 쓰인다.",
+    "etymologyKo": "'Stretch(늘이다)'와 'truth(진실)'의 결합으로, 고무줄처럼 진실을 필요 이상으로 늘려서 왜곡한다는 비유적 표현이다. 19세기 영어권에서 과장된 이야기를 묘사하는 데 널리 쓰이기 시작했다.",
+    "nuanceKo": "노골적인 거짓말보다 가벼운 뉘앙스를 띠며, 비교적 가벼운 과장이나 허풍을 표현할 때 사용된다. 상황에 따라 유머러스하게 쓰일 수도 있고, 상대방의 신뢰성을 살짝 꼬집는 비판적인 맥락에서 쓰이기도 한다.",
+    "shortExampleEn": "She stretched the truth when she said the meeting lasted all day — it was only two hours.",
+    "shortExampleKo": "그녀는 회의가 하루 종일 계속됐다고 했지만 사실은 두 시간뿐이었으니, 약간 과장한 것이었다."
+  }
+}

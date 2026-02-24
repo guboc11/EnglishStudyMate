@@ -1,0 +1,30 @@
+{
+  "id": "off-the-top-of-your-head_5071d7b4",
+  "expression": "off the top of your head",
+  "selectionMeta": {
+    "selectedPhrase": "off the top of your head",
+    "selectedSenseLabelKo": "즉석에서",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Can you name five European capitals off the top of your head?"
+  },
+  "step2": {
+    "story": "The interviewer asked Sara to estimate the project budget off the top of her head. She paused for a second, then confidently rattled off a number that turned out to be surprisingly accurate. Her quick thinking impressed everyone in the room.",
+    "topicTag": "job interview",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "During the team meeting, the manager suddenly turned to Jake and asked him to list the top three competitors off the top of his head. Jake hadn't prepared for the question, but he took a breath and began speaking calmly. He named each company and briefly explained what made them a threat. His colleagues exchanged glances, visibly impressed by how much he knew without any notes. The manager nodded approvingly and moved on to the next agenda item. Jake quietly exhaled, grateful for all the reading he had done the night before.",
+    "topicTag": "workplace",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리 꼭대기에서 바로 꺼낸다는 뜻으로, 준비 없이 즉시 떠오르는 것을 말합니다.",
+    "realUsageKo": "사전에 생각하거나 준비하지 않고 즉흥적으로 대답하거나 정보를 제공할 때 사용합니다. 주로 어림잡아 말하거나 순간적으로 떠오르는 것을 표현할 때 씁니다.",
+    "etymologyKo": "머릿속 깊이 저장된 정보가 아닌, 머리 '표면' 즉 즉각적으로 접근 가능한 곳에서 꺼낸다는 이미지에서 유래했습니다. 17세기부터 사용된 표현으로 알려져 있습니다.",
+    "nuanceKo": "자신의 답이 정확하지 않을 수 있음을 미리 양해 구하는 뉘앙스가 있습니다. 겸손하게 즉흥적 의견임을 밝힐 때 자주 사용됩니다.",
+    "shortExampleEn": "Off the top of my head, I'd say we have about fifty employees.",
+    "shortExampleKo": "즉석에서 말하자면, 직원이 약 50명 정도 될 것 같아요."
+  }
+}

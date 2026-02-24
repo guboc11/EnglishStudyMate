@@ -1,0 +1,30 @@
+{
+  "id": "swim-against-the-tide_565fafa0",
+  "expression": "swim against the tide",
+  "selectionMeta": {
+    "selectedPhrase": "swim against the tide",
+    "selectedSenseLabelKo": "시류에 거슬러 가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to swim against the tide and pursue a career in art despite her family's pressure to study medicine."
+  },
+  "step2": {
+    "story": "Everyone in the office agreed to cut corners to meet the deadline, but Marcus chose to swim against the tide and insisted on doing the work properly. His colleagues mocked him at first, but when the quality of his report stood out, the manager took notice.",
+    "topicTag": "workplace integrity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the entire town was swept up in speculative land investments, Elena was the only one willing to swim against the tide. Her neighbors laughed at her caution, calling her old-fashioned and timid. She quietly saved her money and watched as the market eventually crashed, leaving many families in debt. In the years that followed, Elena's steady savings allowed her to buy a modest home outright while others were still recovering. It was not easy standing alone against the prevailing excitement, but she had learned early that following the crowd is not always the wisest path.",
+    "topicTag": "financial wisdom",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "조류를 거슬러 헤엄치다.",
+    "realUsageKo": "대다수의 의견이나 사회적 흐름에 반하여 자신만의 방식을 고집하거나 반대 입장을 취할 때 사용한다.",
+    "etymologyKo": "물살을 거슬러 헤엄치는 물고기의 이미지에서 유래했으며, 대세나 여론에 맞서는 행동을 비유적으로 표현한다.",
+    "nuanceKo": "단순한 반항보다는 신념이나 원칙에 따른 용감한 선택을 강조하는 뉘앙스가 있으며, 긍정적·부정적 맥락 모두에서 사용된다.",
+    "shortExampleEn": "It takes courage to swim against the tide when everyone else is moving in the same direction.",
+    "shortExampleKo": "모두가 같은 방향으로 움직일 때 시류에 거슬러 가는 것은 용기가 필요하다."
+  }
+}

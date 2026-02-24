@@ -1,0 +1,30 @@
+{
+  "id": "out-of-the-blue_02024195",
+  "expression": "out of the blue",
+  "selectionMeta": {
+    "selectedPhrase": "out of the blue",
+    "selectedSenseLabelKo": "갑자기",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She received a job offer from her dream company completely out of the blue, and she could hardly believe it."
+  },
+  "step2": {
+    "story": "Tom had been quietly working at his desk when, out of the blue, his old college friend called him after years of silence. The unexpected call brought a flood of memories and left him smiling for the rest of the afternoon.",
+    "topicTag": "unexpected reunion",
+    "moodTag": "surprised and warm"
+  },
+  "step3": {
+    "story": "Maya had settled into her quiet evening routine when, out of the blue, her doorbell rang. Standing on the porch was her sister, who lived across the country and had given no warning of a visit. Maya stood there speechless, still holding her mug of tea, as her sister grinned and announced she had quit her job and moved back home. The two of them laughed and cried at the same time, overwhelmed by the sudden, joyful disruption to an otherwise ordinary night.",
+    "topicTag": "family surprise",
+    "moodTag": "joyful and overwhelmed"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '파란 하늘 밖에서'라는 뜻으로, 아무런 징조 없이 나타나는 상황을 묘사한다.",
+    "realUsageKo": "예고나 예상 없이 갑자기 일어나는 일을 표현할 때 사용한다. 주로 놀라움이나 당혹감을 동반한 상황에 쓰인다.",
+    "etymologyKo": "맑고 평온한 파란 하늘에서 갑자기 번개가 치는 상황에서 유래했다. 'a bolt from the blue(맑은 하늘의 벼락)'라는 표현에서 발전했다.",
+    "nuanceKo": "중립적이거나 긍정적인 놀라움과 부정적인 충격 모두에 쓸 수 있으며, 전혀 예상하지 못한 사건임을 강조하는 뉘앙스가 강하다.",
+    "shortExampleEn": "Out of the blue, he decided to quit his job and travel the world.",
+    "shortExampleKo": "그는 갑자기 직장을 그만두고 세계 여행을 떠나기로 결심했다."
+  }
+}

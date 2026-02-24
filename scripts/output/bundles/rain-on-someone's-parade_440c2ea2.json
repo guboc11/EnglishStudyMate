@@ -1,0 +1,30 @@
+{
+  "id": "rain-on-someone's-parade_440c2ea2",
+  "expression": "rain on someone's parade",
+  "selectionMeta": {
+    "selectedPhrase": "rain on someone's parade",
+    "selectedSenseLabelKo": "흥을 깨다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I hate to rain on your parade, but the concert has been cancelled due to the storm."
+  },
+  "step2": {
+    "story": "Emma had been excitedly planning her birthday party for weeks, but her roommate rained on her parade by announcing she had double-booked the apartment that night. Emma's face fell as she realized she would have to reschedule everything. She took a deep breath and started making calls, determined not to let it ruin her mood.",
+    "topicTag": "everyday life",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "After months of hard work, James finally got the promotion he had been dreaming about and rushed home to share the news with his family. His sister, however, rained on his parade almost immediately, pointing out that the new role came with a brutal travel schedule and long overtime hours. James felt the excitement drain out of him as he sat down and stared at the offer letter again. He wished she had at least let him enjoy the moment before raising concerns. Still, he knew she meant well, so he forced a smile and promised to think it over carefully. By morning he had decided to accept the position anyway, choosing to focus on the opportunity rather than the drawbacks.",
+    "topicTag": "career milestone",
+    "moodTag": "conflicted"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 퍼레이드에 비를 내리다.",
+    "realUsageKo": "누군가가 기뻐하거나 신나 있을 때 부정적인 말이나 행동으로 그 흥을 꺾어버리는 상황을 표현한다. 주로 'hate to rain on your parade'처럼 상대방의 기분을 이해하면서도 나쁜 소식을 전할 때 쓰인다.",
+    "etymologyKo": "19세기 미국에서 야외 퍼레이드나 축제가 열릴 때 비가 오면 행사를 망친다는 데서 유래했다. 이후 비유적으로 확장되어 누군가의 기쁨이나 계획을 방해하는 모든 행위를 가리키게 되었다.",
+    "nuanceKo": "상대를 비난하기보다는 아쉬움을 담아 나쁜 소식을 전할 때 자주 사용된다. 'I hate to rain on your parade, but...' 형태로 쓰면 배려하는 어조를 유지하면서도 현실을 직시하게 한다.",
+    "shortExampleEn": "I don't want to rain on your parade, but the flight tickets are already sold out.",
+    "shortExampleKo": "흥을 깨고 싶지 않지만, 항공권이 이미 매진됐어."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "get-buy-in_a39159ba",
+  "expression": "get buy-in",
+  "selectionMeta": {
+    "selectedPhrase": "get buy-in",
+    "selectedSenseLabelKo": "동의를 얻다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before launching the new product line, the marketing director spent two weeks meeting with department heads to get buy-in on the revised campaign strategy."
+  },
+  "step2": {
+    "story": "Sarah knew her cost-cutting proposal would face resistance, so she scheduled one-on-one meetings with key stakeholders before the board meeting. By the time she presented, she had already gotten buy-in from the CFO and two senior managers. The vote passed unanimously.",
+    "topicTag": "workplace negotiation",
+    "moodTag": "strategic"
+  },
+  "step3": {
+    "story": "When Daniel proposed shifting the entire company to a four-day workweek, he knew the idea would be controversial. Rather than presenting it cold to the executive team, he spent three weeks quietly gathering data and talking to team leads one by one. He listened carefully to their concerns and adjusted his proposal to address them, slowly getting buy-in from the people whose voices carried the most weight. By the time the formal meeting arrived, the room was already on his side. The CEO looked around at the nodding heads and smiled. 'It seems like the hard work was done before we even sat down,' she said.",
+    "topicTag": "organizational change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 '사다(buy)'는 행위에서 파생되어, 어떤 아이디어나 계획에 대한 동의·지지를 '얻어내다'는 의미입니다.",
+    "realUsageKo": "주로 비즈니스 맥락에서 새로운 아이디어, 정책, 전략을 실행하기 전에 관련 이해관계자들의 동의와 지지를 확보하는 과정을 가리킵니다. 단순한 승인을 넘어 심리적 동참까지 포함하는 표현입니다.",
+    "etymologyKo": "'Buy-in'은 원래 포커 등 도박에서 게임 참가를 위해 돈을 내는 행위를 뜻했으며, 이후 비즈니스에서 어떤 계획에 '참여하기로 결정하다'는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 허락을 받는 것(get approval)과 달리, 상대방이 능동적으로 동참하고 지지하도록 설득하는 뉘앙스가 강합니다. 위계적 명령보다 협력과 설득을 중시하는 현대 조직 문화에서 자주 쓰입니다.",
+    "shortExampleEn": "We need to get buy-in from the engineering team before we commit to this timeline.",
+    "shortExampleKo": "이 일정을 확정하기 전에 엔지니어링 팀의 동의를 얻어야 합니다."
+  }
+}

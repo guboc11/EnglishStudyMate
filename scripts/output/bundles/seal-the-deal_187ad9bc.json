@@ -1,0 +1,30 @@
+{
+  "id": "seal-the-deal_187ad9bc",
+  "expression": "seal the deal",
+  "selectionMeta": {
+    "selectedPhrase": "seal the deal",
+    "selectedSenseLabelKo": "거래를 성사시키다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After months of negotiation, the sales director finally sealed the deal with a handshake and a signed contract."
+  },
+  "step2": {
+    "story": "Maya had spent three weeks pitching her proposal to the investors, refining every detail they questioned. At the final meeting, she answered their last concern with calm confidence. Her thorough preparation sealed the deal, and they agreed to fund her startup on the spot.",
+    "topicTag": "startup funding",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "James had been pursuing the partnership with Hartwell Corp for almost a year. Every time he thought they were close, a new condition appeared and pushed the finish line further away. He flew to their headquarters one last time, determined to end the back-and-forth. Over dinner, he listened carefully, addressed every remaining concern, and presented a revised terms sheet tailored to their priorities. The CEO extended his hand across the table. They sealed the deal that evening, and James boarded the late flight home with a signed agreement in his briefcase.",
+    "topicTag": "business negotiation",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '거래를 봉인하다'로, 계약이나 합의에 최종 도장을 찍는 행위를 뜻합니다.",
+    "realUsageKo": "협상이나 논의가 마무리되어 공식적으로 합의에 이르는 순간을 표현할 때 사용하며, 비즈니스 계약뿐 아니라 일상의 합의 상황에도 폭넓게 쓰입니다.",
+    "etymologyKo": "과거 중요한 계약서에 밀랍(seal)으로 인장을 찍어 효력을 확정하던 관행에서 유래했으며, 이 물리적 행위가 '최종 합의'를 뜻하는 관용구로 굳어졌습니다.",
+    "nuanceKo": "단순히 계약서에 서명하는 것을 넘어, 오랜 협상 끝에 성공적으로 마무리를 짓는다는 성취감과 결정적 행동의 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "A free upgrade sealed the deal for the hesitant customer.",
+    "shortExampleKo": "무료 업그레이드 제안이 망설이던 고객의 마음을 돌려 계약을 성사시켰다."
+  }
+}

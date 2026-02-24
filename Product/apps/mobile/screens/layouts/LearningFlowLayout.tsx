@@ -15,7 +15,7 @@ export function LearningFlowLayout({
   onClose,
 }: LearningFlowLayoutProps) {
   return (
-    <SafeAreaView style={{ flex: 1, backgroundColor: '#f5f7fb' }}>
+    <SafeAreaView style={{ flex: 1, backgroundColor: '#FAF7F2' }}>
       <View
         style={{
           width: '100%',

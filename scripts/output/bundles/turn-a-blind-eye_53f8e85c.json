@@ -1,0 +1,30 @@
+{
+  "id": "turn-a-blind-eye_53f8e85c",
+  "expression": "turn a blind eye",
+  "selectionMeta": {
+    "selectedPhrase": "turn a blind eye",
+    "selectedSenseLabelKo": "못 본 척하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager decided to turn a blind eye to his team's occasional late arrivals, knowing they always stayed late to finish their work."
+  },
+  "step2": {
+    "story": "Sarah noticed her coworker sneaking extra snacks from the office kitchen every afternoon. She chose to turn a blind eye, figuring it was harmless and not worth the awkwardness. Some things, she decided, were simply better left unaddressed.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "tolerant"
+  },
+  "step3": {
+    "story": "During the school trip, Mr. Harrison spotted a few students whispering and passing notes during the museum tour. He had always been strict about such distractions, but today he decided to turn a blind eye — the students were otherwise engaged and genuinely curious about the exhibits. He watched from a distance as they pointed and laughed quietly, sharing inside jokes about the ancient artifacts. Sometimes, he reflected, enforcing every rule meant missing the bigger picture of a lesson actually working. The joy on their faces was worth more than perfect silence.",
+    "topicTag": "education",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈먼 눈을 돌리다, 즉 한쪽 눈을 감아버리다.",
+    "realUsageKo": "어떤 잘못이나 문제를 알면서도 의도적으로 모른 척하거나 무시할 때 사용한다. 주로 불편한 진실이나 규칙 위반을 눈감아줄 때 쓴다.",
+    "etymologyKo": "영국 해군 제독 호레이쇼 넬슨(Horatio Nelson)이 1801년 코펜하겐 전투에서 퇴각 신호를 받자 망가진 눈에 망원경을 대고 '신호가 보이지 않는다'며 공격을 계속한 일화에서 유래했다.",
+    "nuanceKo": "단순한 무관심이 아니라 알고도 일부러 무시하는 의도적 행동을 강조한다. 관대함으로 볼 수도 있지만, 책임 회피나 묵인의 부정적 뉘앙스를 동시에 띤다.",
+    "shortExampleEn": "The referee seemed to turn a blind eye to the foul in the final minutes of the game.",
+    "shortExampleKo": "심판은 경기 막판에 일어난 반칙을 못 본 척한 것 같았다."
+  }
+}

@@ -43,7 +43,7 @@ export function HomeScreen({
   };
 
   return (
-    <Box className="flex-1 items-center justify-center bg-background-50 px-4">
+    <Box className="flex-1 items-center justify-center px-4" style={{ backgroundColor: '#FAF7F2' }}>
       <VStack
         className="gap-3"
         style={{
@@ -56,7 +56,7 @@ export function HomeScreen({
         <Text size="sm" style={{ textAlign: 'center' }}>
           모바일 화면에 최적화 되어 있습니다.
         </Text>
-        <Input size="lg" variant="outline">
+        <Input size="lg" variant="outline" style={{ borderColor: '#E8E0D5', backgroundColor: '#FFFFFF' }}>
           <InputField
             placeholder="검색할 단어를 입력하세요"
             value={query}
@@ -80,11 +80,17 @@ export function HomeScreen({
           action="primary"
           onPress={handleSearchPress}
           isDisabled={isSearching}
+          style={{ backgroundColor: '#D97706' }}
         >
           <ButtonText>{isSearching ? '생성 중...' : '단어 검색'}</ButtonText>
         </Button>
-        <Button size="lg" action="secondary" onPress={onReviewPress}>
-          <ButtonText>복습하기</ButtonText>
+        <Button
+          size="lg"
+          action="secondary"
+          onPress={onReviewPress}
+          style={{ backgroundColor: '#FFFFFF', borderColor: '#D97706' }}
+        >
+          <ButtonText style={{ color: '#D97706' }}>복습하기</ButtonText>
         </Button>
       </VStack>
     </Box>

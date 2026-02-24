@@ -1,0 +1,30 @@
+{
+  "id": "let-the-cat-out-of-the-bag_fafeabe4",
+  "expression": "let the cat out of the bag",
+  "selectionMeta": {
+    "selectedPhrase": "let the cat out of the bag",
+    "selectedSenseLabelKo": "비밀을 누설하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She accidentally let the cat out of the bag about the surprise party when she mentioned it to the guest of honor."
+  },
+  "step2": {
+    "story": "Tom had been keeping the promotion announcement secret for weeks. But during a casual lunch, he let the cat out of the bag when he congratulated his colleague in front of everyone. The room went quiet, and his manager shot him a sharp look.",
+    "topicTag": "workplace secret",
+    "moodTag": "awkward"
+  },
+  "step3": {
+    "story": "The whole family had spent three months planning the surprise reunion. Everyone was sworn to secrecy, and no one breathed a word — until Aunt Clara called Grandma to 'just confirm the date.' Without thinking, she let the cat out of the bag, and Grandma immediately knew something was up. The group chat exploded with panicked messages as everyone scrambled to come up with a cover story. In the end, they decided to come clean and tell Grandma the truth. To their relief, she laughed and said she had already guessed something was going on.",
+    "topicTag": "family surprise",
+    "moodTag": "lighthearted"
+  },
+  "meaning": {
+    "literalMeaningKo": "자루에서 고양이를 꺼내다.",
+    "realUsageKo": "의도치 않게 혹은 부주의하게 비밀이나 숨겨진 정보를 누설할 때 사용한다. 주로 말실수나 충동적인 발언으로 비밀이 드러나는 상황에 쓰인다.",
+    "etymologyKo": "중세 유럽의 시장에서 상인이 돼지 대신 고양이를 자루에 넣어 팔다가 자루가 열려 사기가 들통난 데서 유래했다는 설이 가장 널리 알려져 있다.",
+    "nuanceKo": "대부분 실수나 무심코 한 행동으로 비밀이 새어나가는 상황을 묘사하며, 의도적인 폭로보다는 우발적인 누설에 더 자주 쓰인다. 가볍고 일상적인 어조의 표현이다.",
+    "shortExampleEn": "He let the cat out of the bag when he mentioned the wedding ring he had ordered.",
+    "shortExampleKo": "그는 주문한 결혼반지를 언급하다가 비밀을 누설하고 말았다."
+  }
+}

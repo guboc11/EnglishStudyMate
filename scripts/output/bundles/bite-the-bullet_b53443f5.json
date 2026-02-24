@@ -1,0 +1,30 @@
+{
+  "id": "bite-the-bullet_b53443f5",
+  "expression": "bite the bullet",
+  "selectionMeta": {
+    "selectedPhrase": "bite the bullet",
+    "selectedSenseLabelKo": "힘든 일을 감수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of hesitation, she decided to bite the bullet and schedule the difficult conversation with her manager."
+  },
+  "step2": {
+    "story": "Jake had been putting off going to the dentist for months, dreading the pain. Finally, he bit the bullet, made an appointment, and walked in with clenched fists. The procedure was over in twenty minutes, and he felt relieved he had faced it at last.",
+    "topicTag": "personal resolve",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The company's sales had been declining for two quarters, and everyone on the leadership team knew what needed to be done. They had to restructure the department, which meant letting go of people they cared about. The CEO took a deep breath and told the board it was time to bite the bullet. The announcement was painful, and the office fell quiet for days afterward. But within a month, the remaining team refocused, morale steadied, and the numbers began to turn around. Looking back, everyone agreed that facing the hard truth early had saved the company.",
+    "topicTag": "workplace restructuring",
+    "moodTag": "somber yet resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '총알을 깨물다'는 뜻이다.",
+    "realUsageKo": "고통스럽거나 불쾌한 일을 피하지 않고 용기 있게 감수하거나 결행할 때 쓴다. 주로 오랫동안 망설이다가 어렵지만 필요한 결정을 내리는 상황에서 사용된다.",
+    "etymologyKo": "19세기 전장에서 마취 없이 수술을 받아야 하는 부상 병사가 고통을 참기 위해 실제로 총알을 입에 물었던 관행에서 유래했다는 설이 가장 널리 받아들여진다.",
+    "nuanceKo": "단순히 참는다는 의미를 넘어, 상황의 불가피성을 인정하고 능동적으로 어려움에 맞선다는 뉘앙스가 강하다. 자기 결의나 성숙한 판단을 강조할 때 어울린다."  ,
+    "shortExampleEn": "We need to bite the bullet and invest in new equipment before things get worse.",
+    "shortExampleKo": "상황이 더 나빠지기 전에 우리는 힘든 일을 감수하고 새 장비에 투자해야 한다."
+  }
+}

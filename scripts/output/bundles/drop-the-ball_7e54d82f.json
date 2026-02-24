@@ -1,0 +1,30 @@
+{
+  "id": "drop-the-ball_7e54d82f",
+  "expression": "drop the ball",
+  "selectionMeta": {
+    "selectedPhrase": "drop the ball",
+    "selectedSenseLabelKo": "실수하다 / 놓치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I completely dropped the ball on the client presentation and forgot to send them the updated slides."
+  },
+  "step2": {
+    "story": "Maya had been trusted to handle the venue booking for the company retreat, but she dropped the ball and forgot to confirm the reservation. When the team arrived, the hall was already taken by another group. Her manager was disappointed, but Maya immediately started calling other venues to fix her mistake.",
+    "topicTag": "workplace responsibility",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "James had promised his team he would submit the grant application before the Friday deadline. He spent the whole week working on other urgent tasks, assuming he still had plenty of time. On Friday morning, he opened his email to find a reminder — the deadline had been midnight Thursday. He had dropped the ball on one of the most important opportunities of the year. His colleagues were frustrated, and James felt a wave of guilt wash over him as he typed an apologetic message to his manager. From that day on, he started using a calendar with alerts for every critical deadline.",
+    "topicTag": "deadline management",
+    "moodTag": "guilty"
+  },
+  "meaning": {
+    "literalMeaningKo": "공을 떨어뜨리다 — 손에 쥔 공을 놓쳐버리는 동작을 의미합니다.",
+    "realUsageKo": "맡은 일이나 책임을 제대로 처리하지 못하고 실수하거나 놓쳤을 때 사용합니다. 주로 업무·약속·기회를 그르쳤을 때 씁니다.",
+    "etymologyKo": "미식축구나 럭비에서 선수가 공을 잡지 못하고 떨어뜨리면 팀에 손해가 생기는 데서 유래했습니다. 20세기 초부터 일상적인 실수·태만을 뜻하는 관용어로 확장되었습니다.",
+    "nuanceKo": "단순한 실수보다는 '책임을 방기하거나 기대를 저버린' 뉘앙스가 강합니다. 비판적·실망스러운 어조로 쓰이는 경우가 많으며, 자기 반성 표현으로도 자주 사용됩니다.",
+    "shortExampleEn": "Sorry, I dropped the ball on sending those reports — I'll get them out right away.",
+    "shortExampleKo": "죄송해요, 보고서 보내는 걸 깜빡했어요 — 지금 바로 보낼게요."
+  }
+}

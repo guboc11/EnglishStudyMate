@@ -1,0 +1,30 @@
+{
+  "id": "on-a-roll_e38f0477",
+  "expression": "on a roll",
+  "selectionMeta": {
+    "selectedPhrase": "on a roll",
+    "selectedSenseLabelKo": "잘 풀리고 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After closing three deals in one day, Sarah felt like she was on a roll and kept pushing through her call list."
+  },
+  "step2": {
+    "story": "Marcus had aced his morning presentation and then landed a big client right after lunch. He was clearly on a roll, so his team let him lead the afternoon meeting too. By the end of the day, they had hit every target on their list.",
+    "topicTag": "work success",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "It started with a lucky free throw in the first quarter — then another, and another. By halftime, Jamie had scored eighteen points and the crowd was chanting his name. He was on a roll, and even the opposing coach called a timeout to break his momentum. Back on the court, Jamie felt unstoppable, reading every play a second before it happened. He finished the game with a career-high thirty-two points, grinning as his teammates mobbed him at the buzzer.",
+    "topicTag": "sports achievement",
+    "moodTag": "euphoric"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '굴러가는 중'이라는 뜻이다.",
+    "realUsageKo": "실제로는 연속으로 성공하거나 일이 잘 풀리는 상태를 묘사할 때 쓴다. 좋은 흐름이 계속 이어지고 있음을 강조한다.",
+    "etymologyKo": "도박 용어에서 유래했으며, 주사위나 볼링공이 연속으로 유리하게 굴러가는 상황을 가리켰다. 20세기 초부터 일상적인 성공의 연속을 뜻하는 표현으로 확장되었다.",
+    "nuanceKo": "주로 긍정적이고 신이 난 어조로 쓰이며, 지금 이 순간의 흐름을 멈추지 말라는 뉘앙스도 담긴다. 스포츠, 업무, 게임 등 다양한 상황에서 자연스럽게 사용된다.",
+    "shortExampleEn": "Don't interrupt her — she's on a roll with her writing.",
+    "shortExampleKo": "그녀 방해하지 마 — 지금 글쓰기가 잘 풀리고 있거든."
+  }
+}

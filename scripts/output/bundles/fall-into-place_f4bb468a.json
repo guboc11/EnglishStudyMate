@@ -1,0 +1,30 @@
+{
+  "id": "fall-into-place_f4bb468a",
+  "expression": "fall into place",
+  "selectionMeta": {
+    "selectedPhrase": "fall into place",
+    "selectedSenseLabelKo": "자리를 잡아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of confusion, everything suddenly started to fall into place once she found the right team."
+  },
+  "step2": {
+    "story": "Marcus had been struggling to launch his small business for nearly a year, unsure of his direction. One afternoon, after a long conversation with a mentor, the whole plan began to fall into place. He finally knew exactly what steps to take next.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For three semesters, Yuna had felt lost in her architecture program, unable to connect the theory with real-world design. She kept second-guessing every sketch, convinced she had chosen the wrong path. Then, during a site visit to a building she had studied for months, something shifted. The structural logic she had memorized suddenly made visual sense, and her design instincts began to fall into place. She walked back to the studio that evening with a clarity she hadn't felt in years. By the end of the week, her portfolio had transformed.",
+    "topicTag": "education and growth",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "조각들이 제자리에 떨어져 맞춰지다.",
+    "realUsageKo": "오랫동안 혼란스럽거나 불확실하던 상황이 서서히 명확해지거나 잘 정돈되기 시작할 때 사용한다.",
+    "etymologyKo": "퍼즐 조각이 딱 맞는 위치에 '떨어져(fall)' 끼워지는 이미지에서 유래했으며, 20세기 초부터 비유적 의미로 널리 쓰이기 시작했다.",
+    "nuanceKo": "노력 끝에 자연스럽게 정리되는 뉘앙스를 담고 있어, 억지로 맞춘 것이 아니라 시간이 지나면서 저절로 해결되는 느낌을 전달한다.",
+    "shortExampleEn": "Once we hired the last team member, the whole project finally fell into place.",
+    "shortExampleKo": "마지막 팀원을 채용하고 나서야 프로젝트 전체가 비로소 자리를 잡았다."
+  }
+}

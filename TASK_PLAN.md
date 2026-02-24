@@ -18,6 +18,8 @@ config:
 ---
 kanban
   작업전[🗂 작업전]
+  작업중[🔨 작업중]
+  리뷰전[👀 리뷰전]
     T01[T01-SQL]
     T02[T02-LAYOUT]
     T03[T03-HOME]
@@ -31,8 +33,6 @@ kanban
     T11[T11-APP]
     T12[T12-SCRIPTS-SUPABASE]
     T13[T13-UPLOAD]
-  작업중[🔨 작업중]
-  리뷰전[👀 리뷰전]
   리뷰중[🔍 리뷰중]
   리뷰완료[✅ 리뷰완료]
   컨펌완료[🎉 컨펌완료]
@@ -101,7 +101,7 @@ CONTENT1 완료 + T01-SQL 완료 후:
 
 ### T01-SQL — Supabase Migration SQL 파일 생성
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** 없음
 **소요:** ~5분
 
@@ -150,7 +150,7 @@ CREATE INDEX idx_stories_expression_id ON stories(expression_id);
 
 ### T02-LAYOUT — LearningFlowLayout 배경색 변경
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** 없음
 **소요:** ~5분
 
@@ -182,7 +182,7 @@ ExampleFlowScreen, MeaningScreen, MeaningGateScreen의 배경이 자동으로 �
 
 ### T03-HOME — HomeScreen 크림 테마
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** 없음
 **소요:** ~15분
 
@@ -255,7 +255,7 @@ Input 컴포넌트에 `style` prop 추가:
 
 ### T04-EXAMPLE — ExampleFlowScreen 색상 + StepIndicator
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T02-LAYOUT 컨펌완료 (배경은 LearningFlowLayout에서 처리됨)
 **소요:** ~30분
 
@@ -382,7 +382,7 @@ backgroundColor: '#E8E0D5',
 
 ### T05-REVIEW-UI — ReviewSessionScreen 색상 변경
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** 없음 (색상만 변경; End 버튼/navigate는 T10-SESSION-MODIFY)
 **소요:** ~20분
 
@@ -457,7 +457,7 @@ style={segment.isMatch ? { color: '#D97706' } : undefined}
 
 ### T06-COUNTDOWN — ReviewCountdownScreen 신규 생성
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** 없음
 **소요:** ~20분
 
@@ -538,7 +538,7 @@ export function ReviewCountdownScreen({ onStart }: ReviewCountdownScreenProps) {
 
 ### T07-BACKEND-LIB — backend/lib/supabase.js 신규 생성
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T01-SQL 컨펌완료 (@supabase/supabase-js는 이미 설치됨)
 **소요:** ~30분
 
@@ -696,7 +696,7 @@ module.exports = {
 
 ### T08-LEARNING-ROUTE — backend/src/routes/learning.js 수정
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T07-BACKEND-LIB 컨펌완료
 **소요:** ~20분
 
@@ -799,7 +799,7 @@ router.post('/generate-bundle', async (req, res, next) => {
 
 ### T09-END-SCREEN — ReviewEndScreen 신규 생성
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T06-COUNTDOWN 컨펌완료
 **소요:** ~30분
 
@@ -942,7 +942,7 @@ export function ReviewEndScreen({ entries, onDone }: ReviewEndScreenProps) {
 
 ### T10-SESSION-MODIFY — ReviewSessionScreen 수정
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T05-REVIEW-UI 컨펌완료, T06-COUNTDOWN 컨펌완료, T09-END-SCREEN 컨펌완료
 **소요:** ~25분
 
@@ -1053,7 +1053,7 @@ const handleNext = () => {
 
 ### T11-APP — App.tsx 수정
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T06-COUNTDOWN 컨펌완료, T09-END-SCREEN 컨펌완료, T10-SESSION-MODIFY 컨펌완료
 **소요:** ~30분
 
@@ -1147,7 +1147,7 @@ onReviewPress={() => navigation.navigate('ReviewCountdown')}
 
 ### T12-SCRIPTS-SUPABASE — scripts/lib/supabase.js Supabase 교체
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T01-SQL 컨펌완료 + CONTENT1 완료(pending=0) + scripts/.env에 SUPABASE 값 설정 확인
 **소요:** ~40분
 
@@ -1308,7 +1308,7 @@ module.exports = { upsertBundle, getBundle, uploadImage, listBundlesWithoutImage
 
 ### T13-UPLOAD — scripts/upload-bundles.js 신규 생성
 
-**상태:** `[ 작업전 ]`
+**상태:** `[ 리뷰전 ]`
 **전제:** T12-SCRIPTS-SUPABASE 컨펌완료
 **소요:** ~20분
 

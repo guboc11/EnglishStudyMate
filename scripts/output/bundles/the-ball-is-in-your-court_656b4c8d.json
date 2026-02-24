@@ -1,0 +1,30 @@
+{
+  "id": "the-ball-is-in-your-court_656b4c8d",
+  "expression": "the ball is in your court",
+  "selectionMeta": {
+    "selectedPhrase": "the ball is in your court",
+    "selectedSenseLabelKo": "이제 당신 차례이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've already sent my proposal and made my case, so now the ball is in your court."
+  },
+  "step2": {
+    "story": "After weeks of negotiating the salary, Maya finally laid out all her terms to the hiring manager. She said, 'I've been transparent about what I need — the ball is in your court.' Now she waited calmly, confident she had done everything she could.",
+    "topicTag": "job negotiation",
+    "moodTag": "calm and confident"
+  },
+  "step3": {
+    "story": "Daniel had spent three months working on the business partnership proposal, refining every detail and presenting it to the investors with care. He answered every question honestly, addressed every concern, and left nothing out. At the end of the meeting, he smiled and said, 'I believe we've covered everything — the ball is in your court.' On the drive home, he felt a rare sense of peace, knowing he had given it his best effort. Whatever the investors decided, he had done his part. The outcome was no longer his to control.",
+    "topicTag": "business proposal",
+    "moodTag": "peaceful and resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "공이 당신의 코트에 있다 — 테니스나 농구에서 공격 기회가 상대방에게 넘어간 상황을 가리키는 표현이다.",
+    "realUsageKo": "어떤 결정이나 다음 행동의 주도권이 상대방에게 넘어갔음을 나타낼 때 사용한다. 협상, 제안, 관계에서 '이제 당신이 결정해야 할 차례'라는 의미로 폭넓게 쓰인다.",
+    "etymologyKo": "테니스, 배구, 농구 등의 스포츠에서 유래한 표현으로, 공이 상대 코트에 넘어가면 그쪽에서 플레이해야 하는 규칙에서 비롯됐다. 1970년대부터 비즈니스·일상 영어에서 관용적으로 사용되기 시작했다.",
+    "nuanceKo": "압박이나 비난 없이 책임을 정중하게 넘기는 뉘앙스를 담고 있어 공식적인 자리에서도 자연스럽게 쓸 수 있다. 상대에게 결정권을 존중하는 태도를 보여주며, 기다림의 여유로움을 함께 전달한다.",
+    "shortExampleEn": "I've said everything I can — the ball is in your court now.",
+    "shortExampleKo": "제가 할 말은 다 했어요 — 이제 결정은 당신 몫이에요."
+  }
+}

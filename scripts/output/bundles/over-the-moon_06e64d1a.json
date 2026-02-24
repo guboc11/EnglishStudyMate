@@ -1,0 +1,30 @@
+{
+  "id": "over-the-moon_06e64d1a",
+  "expression": "over the moon",
+  "selectionMeta": {
+    "selectedPhrase": "over the moon",
+    "selectedSenseLabelKo": "매우 기쁘다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was over the moon when she found out she got the job offer."
+  },
+  "step2": {
+    "story": "Marcus had been waiting weeks for the test results. When the email finally arrived saying he had passed with top marks, he was over the moon. He called his mom immediately, barely able to get the words out.",
+    "topicTag": "personal achievement",
+    "moodTag": "elated"
+  },
+  "step3": {
+    "story": "After months of rehearsals and late nights, the school play was finally over. As the curtain came down and the audience burst into applause, Lily stood on stage with tears in her eyes. Her drama teacher had always believed in her, and tonight she had proven herself. When the director handed her a bouquet and whispered, 'You were perfect,' she felt over the moon. Walking off stage, she hugged her parents tight, all the anxiety and hard work melting away into pure joy.",
+    "topicTag": "performance and recognition",
+    "moodTag": "overjoyed"
+  },
+  "meaning": {
+    "literalMeaningKo": "달 위에 있다는 뜻으로, 몸이 하늘 높이 떠오를 만큼 기쁜 상태를 비유적으로 표현한 것이다.",
+    "realUsageKo": "어떤 좋은 소식이나 성취에 매우 기뻐하고 흥분한 상태를 묘사할 때 사용한다. 주로 'be over the moon' 형태로 쓰인다.",
+    "etymologyKo": "19세기 영국에서 유래한 표현으로, 기쁨이 너무 커서 달을 넘어 하늘로 날아갈 것 같다는 과장된 이미지에서 비롯되었다.",
+    "nuanceKo": "매우 강한 기쁨을 나타내는 표현으로, 일상적인 대화에서 자연스럽게 쓰이며 어린이 동요 'Hey Diddle Diddle'의 '달을 뛰어넘는 소'에서 대중화되었다는 설도 있다.",
+    "shortExampleEn": "He was over the moon when his daughter was born.",
+    "shortExampleKo": "그는 딸이 태어났을 때 너무나 기뻤다."
+  }
+}

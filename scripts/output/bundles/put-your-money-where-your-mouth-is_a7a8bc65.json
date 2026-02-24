@@ -1,0 +1,30 @@
+{
+  "id": "put-your-money-where-your-mouth-is_a7a8bc65",
+  "expression": "put your money where your mouth is",
+  "selectionMeta": {
+    "selectedPhrase": "put your money where your mouth is",
+    "selectedSenseLabelKo": "말로만 하지 말고 실천하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you really care about local businesses, stop just talking and put your money where your mouth is by shopping there."
+  },
+  "step2": {
+    "story": "Jake had been lecturing his friends about supporting environmental causes for years, but they grew tired of empty words. They finally challenged him to put his money where his mouth is and donate to a local conservation project. The next morning, he made the largest contribution the group had ever seen.",
+    "topicTag": "environmental activism",
+    "moodTag": "challenged"
+  },
+  "step3": {
+    "story": "For months, Marcus had been telling his colleagues that the company needed to invest in better safety equipment for their workers. Everyone nodded in agreement at every meeting, but nothing ever changed. His supervisor finally pulled him aside and said, \"If you really believe this matters, put your money where your mouth is.\" Inspired by the challenge, Marcus personally organized a fundraiser and matched every donation dollar for dollar. By the end of the month, the factory had brand-new protective gear for every employee, and Marcus had earned the respect of the entire team.",
+    "topicTag": "workplace safety",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말을 한 곳에 돈을 넣어라 — 즉, 말뿐 아니라 실제로 돈을 써서 행동으로 보여주라는 뜻이다.",
+    "realUsageKo": "실제로는 말로만 주장하거나 떠들지 말고 직접 행동이나 투자로 자신의 신념을 증명하라는 의미로 사용된다. 누군가의 진심이나 헌신을 시험하거나 요구할 때 자주 쓰인다.",
+    "etymologyKo": "도박이나 내기에서 유래한 표현으로, 말로만 하는 주장보다 실제로 돈을 걸어야 진심을 인정받는다는 개념에서 비롯되었다. 20세기 중반 미국 영어에서 널리 퍼졌다.",
+    "nuanceKo": "다소 도전적이거나 촉구하는 어조가 담겨 있으며, 말과 행동이 일치하지 않는 사람에게 비판적으로 사용되기도 한다. 비즈니스·정치·활동가 담론에서 특히 자주 등장한다.",
+    "shortExampleEn": "If you truly believe in this project, put your money where your mouth is and invest.",
+    "shortExampleKo": "이 프로젝트를 진심으로 믿는다면, 말로만 하지 말고 직접 투자해 보세요."
+  }
+}

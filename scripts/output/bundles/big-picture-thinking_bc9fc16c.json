@@ -1,0 +1,30 @@
+{
+  "id": "big-picture-thinking_bc9fc16c",
+  "expression": "big picture thinking",
+  "selectionMeta": {
+    "selectedPhrase": "big picture thinking",
+    "selectedSenseLabelKo": "큰 그림으로 생각하기",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The CEO praised her for her big picture thinking, which helped the company anticipate market shifts before competitors did."
+  },
+  "step2": {
+    "story": "During the quarterly review, Marcus stood out for his big picture thinking when he connected the supply chain delays to a broader shift in consumer behavior. While others focused on short-term fixes, he proposed a strategy that would reposition the company for the next five years. His manager immediately asked him to lead the new long-term planning committee.",
+    "topicTag": "strategic planning",
+    "moodTag": "visionary"
+  },
+  "step3": {
+    "story": "Elena had always been the kind of manager who got lost in spreadsheets and daily task lists, but a leadership workshop changed everything. The facilitator challenged her to practice big picture thinking—to step back from the immediate noise and ask where the company needed to be in a decade. At first it felt uncomfortable, like trying to see a mosaic from two inches away. Slowly, she began connecting dots she had never noticed: a stagnating product line, a restless young workforce, and an untapped market segment all told the same story. She brought her insights to the board, and for the first time in years, the room felt genuinely energized. Big picture thinking, she realized, was not a luxury for executives—it was the lens that made every small decision matter.",
+    "topicTag": "leadership growth",
+    "moodTag": "transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "전체적인 맥락이나 장기적 관점에서 상황을 바라보는 사고방식을 뜻합니다.",
+    "realUsageKo": "세부 사항보다는 전략적 목표와 장기적 방향에 초점을 맞추어 생각하는 능력을 가리킬 때 사용합니다. 주로 비즈니스, 리더십, 기획 맥락에서 긍정적인 역량으로 언급됩니다.",
+    "etymologyKo": "'big picture'는 20세기 초 영어에서 '전체 상황'을 뜻하는 표현으로 자리 잡았으며, 'thinking'과 결합되어 경영·리더십 분야에서 하나의 고정 연어(collocation)로 굳어졌습니다.",
+    "nuanceKo": "단순히 추상적으로 생각한다는 의미가 아니라 세부 사항을 넘어 전략적 맥락을 파악하는 능력을 강조합니다. 칭찬의 뉘앙스가 강하며, 리더나 기획자에게 특히 바람직한 자질로 묘사됩니다.",
+    "shortExampleEn": "We need someone with big picture thinking to lead this five-year initiative.",
+    "shortExampleKo": "이 5개년 계획을 이끌 큰 그림으로 생각할 수 있는 사람이 필요합니다."
+  }
+}

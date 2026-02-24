@@ -1,0 +1,30 @@
+{
+  "id": "execute-flawlessly_1af72003",
+  "expression": "execute flawlessly",
+  "selectionMeta": {
+    "selectedPhrase": "execute flawlessly",
+    "selectedSenseLabelKo": "완벽하게 실행하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The project team managed to execute flawlessly under enormous pressure, delivering the product launch on time and within budget."
+  },
+  "step2": {
+    "story": "Sarah had rehearsed the client presentation dozens of times. When the moment came, she executed flawlessly, answering every question with confidence and clarity. The clients signed the contract before she even left the room.",
+    "topicTag": "workplace performance",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "The annual product summit was the most high-stakes event of Marcus's career. For months, his team had mapped out every detail — the keynote slides, the live demo, the Q&A format. On the day of the event, they executed flawlessly: the demo ran without a single glitch, the speakers hit every cue, and the audience responded with a standing ovation. Marcus watched from backstage, letting out a long breath he hadn't realized he'd been holding. That evening, the CEO pulled him aside and said it was the best summit the company had ever run. All that preparation had been worth it.",
+    "topicTag": "corporate event planning",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 일이나 계획을 결함 없이 완벽하게 수행하다.",
+    "realUsageKo": "비즈니스나 스포츠 등 고압적인 상황에서 계획이나 임무를 실수 없이 완수했을 때 주로 사용된다. 사전 준비와 전문성의 결실을 강조하는 표현이다.",
+    "etymologyKo": "'execute'는 라틴어 'exsequi(끝까지 따르다)'에서 유래했으며, 'flawlessly'는 '결함(flaw)'이 없음을 뜻하는 부사다. 두 단어가 결합해 '흠잡을 데 없이 실행하다'는 의미를 형성한다.",
+    "nuanceKo": "단순히 '잘했다'는 수준을 넘어, 기대치를 완전히 충족했거나 초과했다는 뉘앙스를 담고 있다. 공식적이고 전문적인 맥락에서 자주 쓰이며, 칭찬이나 감탄의 의미를 내포한다.",
+    "shortExampleEn": "The surgeon executed the procedure flawlessly, and the patient recovered ahead of schedule.",
+    "shortExampleKo": "그 외과의사는 수술을 완벽하게 집도했고, 환자는 예정보다 빨리 회복했다."
+  }
+}

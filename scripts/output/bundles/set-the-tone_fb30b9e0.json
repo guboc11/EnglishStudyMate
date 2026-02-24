@@ -1,0 +1,30 @@
+{
+  "id": "set-the-tone_fb30b9e0",
+  "expression": "set the tone",
+  "selectionMeta": {
+    "selectedPhrase": "set the tone",
+    "selectedSenseLabelKo": "분위기를 결정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager's calm and focused attitude during the crisis helped set the tone for the entire team."
+  },
+  "step2": {
+    "story": "Before the big presentation, Sarah took a deep breath and smiled confidently at her colleagues. Her composed demeanor set the tone for the meeting, and soon everyone relaxed and contributed freely.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "The new principal arrived at the school on the first day carrying fresh flowers for the staff lounge. She greeted every teacher by name and listened carefully to their concerns before the semester began. Her warmth and genuine interest set the tone for the entire academic year. Students noticed how their teachers seemed more motivated and approachable. By mid-semester, the school had transformed into a place where creativity and collaboration thrived.",
+    "topicTag": "leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "음악에서 '음조(tone)를 설정하다'는 뜻으로, 특정 분위기나 방향성을 처음부터 정해놓는다는 의미입니다.",
+    "realUsageKo": "어떤 사람이나 사건이 이후 상황 전체의 분위기나 방향을 결정짓는 상황에서 사용합니다. 주로 회의, 행사, 관계의 시작 단계에서 쓰입니다.",
+    "etymologyKo": "음악 용어에서 유래했습니다. 오케스트라에서 첫 번째 음(tone)을 맞추는 것이 전체 연주의 분위기를 결정했던 관행에서 비롯되어, 일반적인 분위기나 태도를 설정한다는 의미로 확장되었습니다.",
+    "nuanceKo": "긍정적·부정적 상황 모두에 쓰이며, 누군가가 의도적으로 또는 무의식적으로 전체 상황에 영향을 미칠 때 사용합니다. 리더십이나 첫인상과 관련된 문맥에서 자주 등장합니다.",
+    "shortExampleEn": "The opening speech set the tone for a productive conference.",
+    "shortExampleKo": "개막 연설이 생산적인 컨퍼런스의 분위기를 결정지었다."
+  }
+}

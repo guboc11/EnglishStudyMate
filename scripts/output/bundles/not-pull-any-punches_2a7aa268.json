@@ -1,0 +1,30 @@
+{
+  "id": "not-pull-any-punches_2a7aa268",
+  "expression": "not pull any punches",
+  "selectionMeta": {
+    "selectedPhrase": "not pull any punches",
+    "selectedSenseLabelKo": "거침없이 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My mentor didn't pull any punches when she reviewed my portfolio — she pointed out every flaw with brutal honesty."
+  },
+  "step2": {
+    "story": "After the team's worst performance of the season, the coach gathered everyone in the locker room. He didn't pull any punches, telling them exactly where they had failed and what needed to change. The players left the meeting shaken but motivated.",
+    "topicTag": "sports coaching",
+    "moodTag": "intense"
+  },
+  "step3": {
+    "story": "The editor had a reputation for being direct, and when she finally read Marcus's manuscript, she lived up to it. She didn't pull any punches — the opening chapter was weak, the pacing dragged in the middle, and two of the main characters felt flat. Marcus sat across from her, jaw tight, absorbing every word. It stung, but deep down he knew she was right. By the time he walked out of her office, the initial pain had shifted into something closer to gratitude. Her unfiltered critique was exactly what his writing needed to grow.",
+    "topicTag": "creative writing",
+    "moodTag": "candid"
+  },
+  "meaning": {
+    "literalMeaningKo": "권투에서 주먹을 자제하지 않는다는 뜻으로, 힘을 아끼지 않고 있는 그대로 말하거나 행동한다는 의미입니다.",
+    "realUsageKo": "주로 비판이나 의견을 솔직하고 거침없이 전달할 때 사용하며, 상대방의 감정을 배려하지 않고 직설적으로 말하는 상황에서 씁니다.",
+    "etymologyKo": "권투(boxing)에서 유래한 표현으로, 상대를 봐주기 위해 주먹의 힘을 줄이는 행위를 '펀치를 당긴다(pull punches)'고 했던 데서 비롯되었습니다.",
+    "nuanceKo": "직설적이고 냉정한 어조를 띠며, 듣는 사람이 불편할 수 있지만 진실을 전달하겠다는 결의가 담겨 있습니다. 칭찬보다는 비판이나 부정적인 피드백 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "The documentary didn't pull any punches about the government's failures.",
+    "shortExampleKo": "그 다큐멘터리는 정부의 실패에 대해 거침없이 다루었다."
+  }
+}

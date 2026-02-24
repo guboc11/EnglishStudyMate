@@ -1,0 +1,30 @@
+{
+  "id": "the-whole-nine-yards_f6017233",
+  "expression": "the whole nine yards",
+  "selectionMeta": {
+    "selectedPhrase": "the whole nine yards",
+    "selectedSenseLabelKo": "완전히 / 전부 다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She planned the whole nine yards for the wedding — the flowers, the catering, the music, and even a fireworks display."
+  },
+  "step2": {
+    "story": "When Marcus decided to apologize to his team, he went the whole nine yards — a handwritten note, a team lunch, and a heartfelt speech. He wasn't going to do things halfway. His teammates were genuinely moved by the effort.",
+    "topicTag": "workplace relationships",
+    "moodTag": "sincere"
+  },
+  "step3": {
+    "story": "Elena had always done things properly, but for her mother's 70th birthday she went the whole nine yards. She booked the family's favorite restaurant, hired a jazz trio, and had custom photo albums printed for every sibling. She even tracked down childhood friends her mother hadn't seen in decades and flew them in as a surprise. When her mother walked through the door to find the crowded room, tears streamed down her face. It was the kind of gesture that reminded everyone why Elena never did anything halfway.",
+    "topicTag": "family celebration",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '9야드 전체'를 의미하지만, 실제로는 어떤 일을 빠짐없이 완전히 한다는 뜻이다.",
+    "realUsageKo": "어떤 것을 가능한 모든 노력을 기울여 끝까지 완수하거나, 아무것도 빠뜨리지 않고 전부 다 한다는 의미로 사용된다.",
+    "etymologyKo": "정확한 어원은 불분명하지만, 2차 세계대전 당시 기관총 탄약 벨트의 길이(약 9야드)에서 유래했다는 설이 가장 널리 알려져 있다. 탄약을 전부 쏟아붓는다는 이미지에서 '전부 다'라는 의미가 파생된 것으로 추정된다.",
+    "nuanceKo": "주로 긍정적인 맥락에서 쓰이며, 어떤 일에 아낌없이 최선을 다했음을 강조할 때 사용한다. 격식체와 비격식체 모두에서 자연스럽게 쓰인다."  ,
+    "shortExampleEn": "They decorated the office the whole nine yards for the holiday party.",
+    "shortExampleKo": "그들은 연말 파티를 위해 사무실을 완전히 빠짐없이 꾸몄다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rub-salt-in-the-wound_5d8202bf",
+  "expression": "rub salt in the wound",
+  "selectionMeta": {
+    "selectedPhrase": "rub salt in the wound",
+    "selectedSenseLabelKo": "상처에 소금을 뿌리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Bringing up her past failures during the meeting only rubbed salt in the wound after she had already apologized."
+  },
+  "step2": {
+    "story": "Jake had just been passed over for the promotion he worked years to earn. His manager then assigned him to train the colleague who got the role instead, rubbing salt in the wound. He smiled through it, quietly updating his resume that evening.",
+    "topicTag": "workplace setback",
+    "moodTag": "bitter"
+  },
+  "step3": {
+    "story": "Sarah had barely recovered from the breakup when her ex posted vacation photos with someone new. Her friends showed her the pictures without thinking, completely rubbing salt in the wound. She sat quietly, scrolling through the images with a hollow feeling in her chest. The relationship had ended only three weeks ago, and seeing him so happy so quickly felt like a second rejection. She closed the app, put her phone face-down on the table, and told herself she needed to stop looking. Healing, she realized, required distance from everything that made the pain feel fresh again.",
+    "topicTag": "heartbreak",
+    "moodTag": "sorrowful"
+  },
+  "meaning": {
+    "literalMeaningKo": "상처 난 곳에 소금을 문지르다 — 소금이 상처에 닿으면 극심한 통증을 유발하는 것에서 비롯된 표현이다.",
+    "realUsageKo": "이미 힘든 상황에 처한 사람에게 추가적인 고통이나 모욕을 가할 때 사용한다. 의도적이든 무의식적이든 상대의 아픔을 악화시키는 말이나 행동을 묘사하는 데 쓰인다.",
+    "etymologyKo": "고대부터 소금은 방부제로 쓰였지만 상처에 닿으면 극심한 통증을 일으켰다. 이 신체적 경험이 비유적으로 확장되어, 이미 고통받는 사람의 상처를 더 쓰라리게 만드는 행위를 뜻하게 되었다.",
+    "nuanceKo": "단순한 실수보다는 이미 취약한 상태에 있는 사람에게 추가 타격을 주는 상황에서 사용된다. 가해자가 의도하지 않았더라도 결과적으로 상대를 더 아프게 했을 때도 자연스럽게 쓸 수 있다.",
+    "shortExampleEn": "Sending her the wedding invitation right after the divorce was really rubbing salt in the wound.",
+    "shortExampleKo": "이혼 직후에 그녀에게 청첩장을 보낸 건 정말 상처에 소금을 뿌리는 격이었다."
+  }
+}

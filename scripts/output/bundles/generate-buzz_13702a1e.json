@@ -1,0 +1,30 @@
+{
+  "id": "generate-buzz_13702a1e",
+  "expression": "generate buzz",
+  "selectionMeta": {
+    "selectedPhrase": "generate buzz",
+    "selectedSenseLabelKo": "입소문을 내다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup's viral marketing campaign managed to generate buzz well before the product even launched."
+  },
+  "step2": {
+    "story": "The team decided to leak a short teaser video online to generate buzz about their upcoming app. Within hours, tech blogs were picking up the story and thousands of people were signing up for early access.",
+    "topicTag": "product launch",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Maya had spent months quietly preparing for the launch, but she knew that a great product alone wouldn't be enough. She partnered with a few well-known influencers to generate buzz on social media, seeding the idea before anyone had seen the final version. The strategy worked better than she had hoped — by launch day, the waiting list had grown to over fifty thousand people. Investors started calling, journalists wanted interviews, and her small team scrambled to keep up with the demand. What had started as a calculated risk had turned into the kind of organic momentum that money alone couldn't buy.",
+    "topicTag": "startup marketing",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "'buzz'(웅성거림, 화제)를 만들어낸다는 뜻으로, 사람들 사이에 관심과 소문을 일으킨다는 의미입니다.",
+    "realUsageKo": "주로 제품 출시, 이벤트, 캠페인 전에 대중의 기대감과 관심을 끌어올리는 마케팅·홍보 맥락에서 사용됩니다. '입소문을 만들다', '화제를 불러일으키다'와 같이 번역됩니다.",
+    "etymologyKo": "'buzz'는 벌이 윙윙거리는 소리에서 유래했으며, 많은 사람들이 수군거리고 떠드는 상황을 묘사하는 데 쓰이게 되었습니다. 여기에 '만들어내다'는 뜻의 'generate'가 결합해 의도적으로 화제를 조성한다는 뜻이 되었습니다.",
+    "nuanceKo": "단순히 알리는 것을 넘어 사람들이 자발적으로 이야기하도록 유도하는 전략적 뉘앙스가 있습니다. 긍정적인 기대감을 조성할 때 주로 쓰이며, 광고보다 자연스러운 관심 유발을 강조합니다.",
+    "shortExampleEn": "The celebrity endorsement helped generate buzz for the new clothing line.",
+    "shortExampleKo": "유명인의 홍보 덕분에 새 의류 라인에 대한 입소문이 퍼졌다."
+  }
+}

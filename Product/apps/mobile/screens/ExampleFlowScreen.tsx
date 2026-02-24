@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import {
   ActivityIndicator,
   Image,
@@ -27,6 +27,34 @@ type ExampleFlowScreenProps = {
 type ExampleStep = 1 | 2 | 3;
 
 const FALLBACK_IMAGE = require('../assets/example2.png');
+
+function StepIndicator({ current }: { current: ExampleStep }) {
+  return (
+    <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
+      {([1, 2, 3] as ExampleStep[]).map((i) => (
+        <React.Fragment key={i}>
+          <View
+            style={{
+              width: 8,
+              height: 8,
+              borderRadius: 4,
+              backgroundColor: i <= current ? '#D97706' : '#E8E0D5',
+            }}
+          />
+          {i < 3 && (
+            <View
+              style={{
+                width: 32,
+                height: 2,
+                backgroundColor: i < current ? '#D97706' : '#E8E0D5',
+              }}
+            />
+          )}
+        </React.Fragment>
+      ))}
+    </View>
+  );
+}
 
 const STEP_LABEL: Record<ExampleStep, string> = {
   1: '맥락 문장',
@@ -109,6 +137,7 @@ export function ExampleFlowScreen({
         className="gap-5"
         style={{ width: contentWidth }}
       >
+        <StepIndicator current={step} />
         <Text size="xl" bold>
           {STEP_LABEL[step]}
         </Text>
@@ -126,7 +155,7 @@ export function ExampleFlowScreen({
                 width: contentWidth,
                 borderRadius: 12,
                 overflow: 'hidden',
-                backgroundColor: '#e5e7eb',
+                backgroundColor: '#E8E0D5',
                 alignItems: 'center',
                 justifyContent: 'center',
               }}
@@ -159,7 +188,12 @@ export function ExampleFlowScreen({
         ) : null}
         <Text size="md">
           {highlightedText.map((segment, index) => (
-            <Text key={`${segment.text}-${index}`} size="md" bold={segment.isMatch}>
+            <Text
+              key={`${segment.text}-${index}`}
+              size="md"
+              bold={segment.isMatch}
+              style={segment.isMatch ? { color: '#D97706' } : undefined}
+            >
               {segment.text}
             </Text>
           ))}
@@ -169,12 +203,18 @@ export function ExampleFlowScreen({
             size="lg"
             action="primary"
             onPress={() => setStep((prev) => (prev + 1) as ExampleStep)}
+            style={{ backgroundColor: '#D97706' }}
           >
             <ButtonText>다음</ButtonText>
           </Button>
         ) : (
-          <Button size="lg" action="secondary" onPress={onMeaningPress}>
-            <ButtonText>뜻 보러 가기</ButtonText>
+          <Button
+            size="lg"
+            action="secondary"
+            onPress={onMeaningPress}
+            style={{ backgroundColor: '#FFFFFF', borderColor: '#D97706' }}
+          >
+            <ButtonText style={{ color: '#D97706' }}>뜻 보러 가기</ButtonText>
           </Button>
         )}
       </VStack>

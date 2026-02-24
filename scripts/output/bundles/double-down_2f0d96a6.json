@@ -1,0 +1,30 @@
+{
+  "id": "double-down_2f0d96a6",
+  "expression": "double down",
+  "selectionMeta": {
+    "selectedPhrase": "double down",
+    "selectedSenseLabelKo": "더욱 강화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the product launch received mixed reviews, the CEO decided to double down on marketing efforts rather than pivot to a new strategy."
+  },
+  "step2": {
+    "story": "Sarah's first attempt at the business pitch didn't go well, but she chose to double down on her preparation for the next meeting. She spent the entire weekend refining her slides and rehearsing her answers. When Monday came, her confidence and thoroughness won the investors over.",
+    "topicTag": "business presentation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The campaign numbers were disappointing after the first week, and several team members suggested they abandon the approach entirely. But Marcus had studied the data carefully and believed the core idea was sound—the execution just needed work. He decided to double down, reallocating more budget and bringing in two additional designers to strengthen the visuals. His manager raised an eyebrow but gave him the green light to proceed. By the end of the month, engagement had tripled and the campaign became a case study for the whole company. Sometimes betting on yourself a second time is exactly the right call.",
+    "topicTag": "marketing campaign",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "원래의 입장이나 노력을 두 배로 강화하다.",
+    "realUsageKo": "어떤 전략이나 결정이 도전받을 때 물러서지 않고 오히려 더 강하게 밀어붙이거나 투자를 늘릴 때 사용한다. 비판이나 역경에도 불구하고 기존 방침을 고수하며 더욱 적극적으로 나서는 상황에 잘 어울린다.",
+    "etymologyKo": "블랙잭 도박에서 유래한 표현으로, 처음 두 장의 패를 받은 후 베팅 금액을 두 배로 늘리는 행위를 'double down'이라 불렀다. 이후 '유리하다고 판단될 때 위험을 감수하고 베팅을 강화하다'는 의미로 일반적인 언어에 확산되었다.",
+    "nuanceKo": "단순히 노력을 더 기울인다는 뜻을 넘어, 외부의 반대나 불리한 상황에도 자신의 판단을 믿고 더 강하게 밀어붙인다는 강한 의지의 뉘앙스를 담고 있다. 때로는 고집스럽거나 무모하다는 부정적인 함의로도 쓰일 수 있다.",
+    "shortExampleEn": "Despite the setback, she doubled down on her training schedule.",
+    "shortExampleKo": "차질이 생겼음에도 불구하고, 그녀는 훈련 일정을 더욱 강화했다."
+  }
+}

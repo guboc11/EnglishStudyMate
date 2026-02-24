@@ -1,0 +1,30 @@
+{
+  "id": "learn-the-ropes_d0d6b5cc",
+  "expression": "learn the ropes",
+  "selectionMeta": {
+    "selectedPhrase": "learn the ropes",
+    "selectedSenseLabelKo": "요령을 배우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took her a few weeks to learn the ropes at her new job, but now she handles everything confidently."
+  },
+  "step2": {
+    "story": "Jake started his first shift at the busy café feeling overwhelmed by all the orders and the complicated espresso machine. His manager, Sophie, stayed close by and patiently showed him how everything worked. By closing time, Jake had learned the ropes and was already pulling shots on his own.",
+    "topicTag": "new job",
+    "moodTag": "encouraged"
+  },
+  "step3": {
+    "story": "When Mia joined the small marketing agency fresh out of university, she quickly realized that real work was nothing like her textbooks had described. Her senior colleague, Daniel, took her under his wing for the first month, walking her through client calls, campaign briefs, and budget spreadsheets one step at a time. There were moments when Mia felt she would never learn the ropes—deadlines collided and revisions piled up faster than she could manage. But Daniel reminded her that everyone stumbles at the start, and that the chaos would eventually feel familiar. Slowly, the fog began to lift: she started anticipating what clients wanted before they asked, and her reports earned genuine praise. Six months in, Mia was the one showing the newest intern how things worked.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "밧줄(ropes)을 배운다는 뜻으로, 선박에서 각 밧줄의 용도를 익히는 모습에서 유래했습니다.",
+    "realUsageKo": "새로운 일, 직장, 환경에서 기본적인 방법과 절차를 익히는 것을 의미하며, 초보자가 경험을 통해 요령을 터득하는 과정을 묘사할 때 자주 씁니다.",
+    "etymologyKo": "19세기 항해 용어에서 비롯된 표현으로, 신참 선원이 복잡하게 얽힌 배의 밧줄(rigging) 각각의 이름과 기능을 배우는 훈련 과정을 가리켰습니다.",
+    "nuanceKo": "긍정적이고 중립적인 뉘앙스를 가지며, 노력과 시간이 필요하지만 결국 숙달될 수 있다는 희망적인 느낌을 줍니다. 비격식적인 일상 대화와 직장 상황 모두에 자연스럽게 어울립니다.",
+    "shortExampleEn": "Give him a few days to learn the ropes and he'll be a great addition to the team.",
+    "shortExampleKo": "그에게 며칠만 시간을 주면 요령을 터득해서 팀에 큰 보탬이 될 거예요."
+  }
+}

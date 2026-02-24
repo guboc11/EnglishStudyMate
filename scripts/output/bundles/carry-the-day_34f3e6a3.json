@@ -1,0 +1,30 @@
+{
+  "id": "carry-the-day_34f3e6a3",
+  "expression": "carry the day",
+  "selectionMeta": {
+    "selectedPhrase": "carry the day",
+    "selectedSenseLabelKo": "승리하다 / 설득하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her compelling argument about the environmental impact ultimately carried the day, convincing the entire board to approve the new policy."
+  },
+  "step2": {
+    "story": "The debate had gone on for hours, with neither side willing to back down. Then Marcus presented a single, undeniable statistic that carried the day—every person in the room fell silent and nodded in agreement. The proposal passed unanimously.",
+    "topicTag": "debate and persuasion",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "The city council meeting had grown tense as residents and developers argued over the fate of the old community park. For two hours, the developer's lawyers presented glossy renderings and promised economic benefits, and it seemed the vote would go their way. Then Elena, a retired schoolteacher, stood up and quietly described thirty years of children learning to ride bikes and elderly neighbors finding solace in that green space. Her words carried the day in a way no polished presentation ever could. The council voted six to one to preserve the park, and the crowd erupted in applause. Elena simply smiled, gathered her notes, and walked home through the very park she had saved.",
+    "topicTag": "community and civic life",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '그날을 나르다'라는 뜻이지만, 실제로는 특정 상황에서 승리하거나 상대를 설득하는 데 성공했음을 의미합니다.",
+    "realUsageKo": "논쟁, 토론, 경쟁 등에서 최종적으로 승리하거나 반대편을 설득하는 데 결정적인 역할을 했을 때 사용합니다. 주로 한 사람의 주장이나 행동이 결과를 뒤집거나 확정 지을 때 씁니다.",
+    "etymologyKo": "중세 군사 용어에서 유래했으며, 전투에서 하루를 '가져간다(carry)'는 것은 그날의 전투에서 승리한다는 의미였습니다. 이후 비유적으로 확장되어 논쟁이나 경쟁에서 이기는 상황에 사용되게 되었습니다.",
+    "nuanceKo": "단순히 이긴다는 의미보다는 결정적인 한 방, 즉 압도적인 논리나 감동으로 상대방을 납득시켰을 때의 뉘앙스가 강합니다. 격식체 또는 문어체적 표현으로, 연설문이나 보도 기사에서 자주 쓰입니다.",
+    "shortExampleEn": "His passionate speech about fairness carried the day, and the motion passed with overwhelming support.",
+    "shortExampleKo": "공정성에 대한 그의 열정적인 연설이 결국 승리를 가져왔고, 안건은 압도적인 지지로 통과되었다."
+  }
+}

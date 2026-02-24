@@ -1,0 +1,30 @@
+{
+  "id": "hit-below-the-belt_88e1f607",
+  "expression": "hit below the belt",
+  "selectionMeta": {
+    "selectedPhrase": "hit below the belt",
+    "selectedSenseLabelKo": "비열한 수를 쓰다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Bringing up her past mistakes during the presentation was hitting below the belt, and everyone in the room could tell it was intentional."
+  },
+  "step2": {
+    "story": "During the heated debate, Marcus accused his opponent of hitting below the belt when she brought up his family troubles to undermine his credibility. The audience gasped — that kind of personal attack had nothing to do with the actual policy discussion. He kept his composure, refusing to retaliate in kind.",
+    "topicTag": "debate and conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sandra and her colleague had always competed for the same promotion, but she never expected him to go this far. He had slipped a note to their manager suggesting that Sandra's recent performance review was inflated due to favoritism — a rumor with no basis in fact. It was a clear attempt to hit below the belt, targeting her reputation rather than her actual work. Sandra sat at her desk, hands trembling, unsure whether to confront him directly or let the truth speak for itself. After a deep breath, she decided to schedule a meeting with HR and lay out every metric that proved her results. She wasn't going to fight dirty — but she wasn't going to let it slide either.",
+    "topicTag": "workplace rivalry",
+    "moodTag": "unsettled"
+  },
+  "meaning": {
+    "literalMeaningKo": "벨트 아래를 치다, 즉 권투에서 반칙인 하체 타격을 가하다.",
+    "realUsageKo": "경쟁이나 논쟁에서 상대방의 약점·개인사·취약한 부분을 의도적으로 공격하여 비열하거나 불공정한 방식으로 타격을 주는 행동을 묘사할 때 사용한다.",
+    "etymologyKo": "권투 규칙에서 유래한 표현으로, 상대의 허리띠(belt) 아래를 치는 것은 규정 위반이자 비겁한 행위로 간주되었다. 이 스포츠 이미지가 일상 언어로 확장되어 '부당하고 비열한 공격'을 뜻하게 되었다.",
+    "nuanceKo": "단순한 실수나 강한 비판이 아니라, 의도적으로 상대를 흠집 내려는 악의적인 행동에 초점이 맞춰진 표현이다. 주로 비난의 어조로 사용되며, 도덕적으로 선을 넘었다는 뉘앙스를 강하게 담고 있다.",
+    "shortExampleEn": "Telling the press about his health issues to win the election was really hitting below the belt.",
+    "shortExampleKo": "선거에서 이기려고 그의 건강 문제를 언론에 흘린 건 정말 비열한 수였다."
+  }
+}

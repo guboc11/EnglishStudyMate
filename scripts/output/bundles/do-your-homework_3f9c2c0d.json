@@ -1,0 +1,30 @@
+{
+  "id": "do-your-homework_3f9c2c0d",
+  "expression": "do your homework",
+  "selectionMeta": {
+    "selectedPhrase": "do your homework",
+    "selectedSenseLabelKo": "충분히 준비하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before signing the contract, make sure you do your homework on the company's financial history."
+  },
+  "step2": {
+    "story": "Mia was excited about the investment opportunity, but her mentor warned her to do her homework first. She spent a week researching the market, and her thorough preparation paid off when she spotted a hidden risk others had missed.",
+    "topicTag": "financial decision",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When Daniel was shortlisted for the senior manager position, he knew the panel interview would be tough. He decided to do his homework: he read the company's annual reports, studied its competitors, and even reached out to a former employee for insights. Walking into the conference room, he felt calm and ready. The interviewers were visibly impressed when he referenced specific quarterly figures and proposed a realistic growth strategy. His preparation made all the difference, and he received the offer by the end of the week.",
+    "topicTag": "job interview",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '숙제를 하다'라는 뜻이다.",
+    "realUsageKo": "실제로는 어떤 일을 시작하기 전에 충분히 조사하고 준비하다는 의미로 쓰인다. 비즈니스, 투자, 협상, 취업 등 중요한 결정 앞에서 자주 등장한다.",
+    "etymologyKo": "학교에서 교사가 '숙제를 해 오라'고 하듯, 어떤 주제에 대해 미리 공부해 온다는 학교 교육 맥락에서 유래하여 일반적인 사전 조사·준비의 의미로 확장되었다.",
+    "nuanceKo": "단순한 준비를 넘어 '제대로, 철저히' 조사했다는 뉘앙스를 담고 있다. 충분한 준비 없이 행동하는 사람을 지적할 때도 'You didn't do your homework'처럼 사용된다.",
+    "shortExampleEn": "You should do your homework before negotiating the price.",
+    "shortExampleKo": "가격 협상을 시작하기 전에 충분히 조사해 두어야 한다."
+  }
+}

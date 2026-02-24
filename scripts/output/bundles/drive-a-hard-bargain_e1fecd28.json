@@ -1,0 +1,30 @@
+{
+  "id": "drive-a-hard-bargain_e1fecd28",
+  "expression": "drive a hard bargain",
+  "selectionMeta": {
+    "selectedPhrase": "drive a hard bargain",
+    "selectedSenseLabelKo": "강하게 협상하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The supplier drives a hard bargain, refusing to lower the price despite our large order volume."
+  },
+  "step2": {
+    "story": "Maria walked into the contract negotiation determined to drive a hard bargain. She had done her research and knew exactly what concessions she could afford to give up. After two hours of tense back-and-forth, she secured terms that saved her company over a hundred thousand dollars.",
+    "topicTag": "contract negotiation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had been preparing for weeks before the acquisition meeting. The seller's asking price was far too high, but James was ready to drive a hard bargain and bring it down to a fair valuation. He arrived early, laid out his detailed financial analysis, and calmly challenged every inflated figure the other side presented. Each time they pushed back, he held his ground without losing composure. By the end of the afternoon, the seller had dropped the price by nearly twenty percent. Walking out into the cool evening air, James allowed himself a quiet smile — a hard bargain well driven.",
+    "topicTag": "business acquisition",
+    "moodTag": "strategic"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '거래를 강하게 몰아붙이다'라는 뜻이다.",
+    "realUsageKo": "실제로는 협상에서 자신에게 유리한 조건을 얻기 위해 강경하게 밀어붙이는 태도나 행동을 묘사할 때 사용한다. 비즈니스·계약·구매 등 이해관계가 걸린 상황에서 주로 쓰인다.",
+    "etymologyKo": "'bargain'은 중세 영어와 고대 프랑스어 'bargaignier(흥정하다)'에서 유래했으며, 'drive'는 어떤 행위를 강하게 추진한다는 의미로 결합되어 19세기부터 이 표현이 정착되었다.",
+    "nuanceKo": "부정적이기보다는 중립적이거나 약간 감탄하는 뉘앙스를 띠는 경우가 많다. 상대방이 협상에서 타협 없이 자기 이익을 극대화한다는 점을 인정하는 어조로 사용되기도 한다.",
+    "shortExampleEn": "He always drives a hard bargain, but the deals he closes are always worth it.",
+    "shortExampleKo": "그는 항상 강하게 협상하지만, 그가 성사시키는 거래는 언제나 그만한 가치가 있다."
+  }
+}

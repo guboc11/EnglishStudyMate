@@ -1,0 +1,30 @@
+{
+  "id": "light-at-the-end-of-the-tunnel_cdbea803",
+  "expression": "light at the end of the tunnel",
+  "selectionMeta": {
+    "selectedPhrase": "light at the end of the tunnel",
+    "selectedSenseLabelKo": "터널 끝의 빛 (희망의 빛)",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of struggling with debt, she finally saw the light at the end of the tunnel when she landed a stable job."
+  },
+  "step2": {
+    "story": "The project had been dragging on for nearly a year, and the team was exhausted. Then the client approved the final design, and for the first time, everyone could see the light at the end of the tunnel. Spirits lifted immediately, and the remaining work felt manageable.",
+    "topicTag": "work stress",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Marcus had been caring for his ailing mother for two years, putting his own career and social life on hold. There were days when the weight of it all felt unbearable, and he wondered if things would ever get easier. Then her doctor announced that her condition was stabilizing and she might regain her independence within months. For the first time in a long while, Marcus felt there was light at the end of the tunnel. He started making small plans for the future — a weekend trip, a course he'd always wanted to take. Hope, once distant, now felt within reach.",
+    "topicTag": "personal hardship",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "터널 끝에서 비치는 빛.",
+    "realUsageKo": "오랜 어려움이나 힘든 상황이 곧 끝날 것 같은 희망의 징조가 보일 때 사용한다. 주로 '힘든 시간이 지나고 드디어 희망이 보인다'는 의미로 쓰인다.",
+    "etymologyKo": "19세기 철도 시대에 긴 터널을 통과하던 승객들이 출구의 빛을 보며 안도했던 경험에서 유래한 표현이다. 이후 비유적으로 고난의 끝이 보인다는 의미로 확장되었다.",
+    "nuanceKo": "희망적이고 긍정적인 뉘앙스를 지니며, 주로 오랜 고생 끝에 상황이 나아질 조짐이 보일 때 씁니다. 반드시 완전한 해결이 아닌 '희망의 징조'를 뜻하므로 아직 어려움이 남아 있는 상태에서도 사용할 수 있습니다.",
+    "shortExampleEn": "After years of treatment, the doctors finally saw light at the end of the tunnel.",
+    "shortExampleKo": "수년간의 치료 끝에, 의사들은 마침내 희망의 빛을 볼 수 있었다."
+  }
+}

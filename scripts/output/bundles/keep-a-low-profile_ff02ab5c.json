@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-low-profile_ff02ab5c",
+  "expression": "keep a low profile",
+  "selectionMeta": {
+    "selectedPhrase": "keep a low profile",
+    "selectedSenseLabelKo": "조용히 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the embarrassing mistake at the meeting, Daniel decided to keep a low profile for the rest of the week."
+  },
+  "step2": {
+    "story": "The manager had made a costly error in the quarterly report, and news spread quickly through the office. He chose to keep a low profile, avoiding the break room and skipping the Friday lunch gathering. Quietly getting his work done, he hoped the whole incident would blow over soon.",
+    "topicTag": "workplace mistake",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Emma had accidentally forwarded an internal email to the wrong mailing list, causing a minor uproar across the department. Her inbox filled up with replies ranging from confused to mildly annoyed, and she felt her face flush every time someone walked past her desk. She decided to keep a low profile for the next few days, responding only to essential messages and skipping the usual coffee chats. She stayed late each evening, quietly clearing her backlog and letting the noise die down naturally. By the following week, most people had forgotten about it, and Emma cautiously rejoined the team's conversations with renewed care. The experience taught her that sometimes the wisest move is simply to step back, stay quiet, and let time do the work.",
+    "topicTag": "office life",
+    "moodTag": "sheepish"
+  },
+  "meaning": {
+    "literalMeaningKo": "낮은 자세를 유지하다, 즉 눈에 띄지 않게 조용히 지내다.",
+    "realUsageKo": "주목받기를 피하거나 논란에서 벗어나기 위해 의도적으로 조용히 행동하는 상황에서 사용된다. 실수 후 잠잠히 지내거나, 민감한 시기에 드러나지 않으려 할 때 자주 쓰인다.",
+    "etymologyKo": "'profile'은 옆모습이나 사람의 두드러진 특징을 뜻하며, 'low profile'은 눈에 잘 띄지 않는 낮은 존재감을 의미한다. 군사·외교 분야에서 유래해 일상 언어로 확산된 표현이다.",
+    "nuanceKo": "자신을 드러내지 않으려는 의도적인 선택을 강조하는 표현으로, 부끄러움·신중함·전략적 판단 등 다양한 맥락에서 쓰인다. 비교적 격식 없는 표현이며 부정적인 뉘앙스 없이 중립적으로 사용된다.",
+    "shortExampleEn": "She decided to keep a low profile until the controversy died down.",
+    "shortExampleKo": "그녀는 논란이 가라앉을 때까지 조용히 지내기로 했다."
+  }
+}

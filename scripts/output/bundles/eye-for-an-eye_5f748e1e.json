@@ -1,0 +1,30 @@
+{
+  "id": "eye-for-an-eye_5f748e1e",
+  "expression": "eye for an eye",
+  "selectionMeta": {
+    "selectedPhrase": "eye for an eye",
+    "selectedSenseLabelKo": "눈에는 눈",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She refused to forgive him, insisting on an eye for an eye after he publicly humiliated her."
+  },
+  "step2": {
+    "story": "After his car was vandalized, Mark wanted revenge—an eye for an eye felt like the only real justice. But his wife urged him to let it go, warning that this cycle of retaliation never truly ends. He took a deep breath and chose to walk away.",
+    "topicTag": "conflict and revenge",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "When the rival company stole their product design, the CEO demanded an eye for an eye and ordered the legal team to file an aggressive lawsuit. The board was divided—some wanted swift retaliation, while others feared the public backlash would hurt their brand. Weeks of courtroom battles dragged on, and both companies suffered serious damage to their reputations. Customers began choosing competitors who seemed more focused on innovation than corporate feuds. The CEO finally realized that pursuing an eye for an eye had cost them far more than the stolen design ever could. In the end, they reached a settlement and agreed to move forward, leaving the cycle of retaliation behind.",
+    "topicTag": "business conflict",
+    "moodTag": "intense"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가가 당신에게 해를 끼쳤다면, 당신도 그에게 똑같이 해를 가해야 한다는 뜻이다.",
+    "realUsageKo": "보복이나 응보의 원칙을 표현할 때 사용하며, 피해를 입은 만큼 상대방에게 동일하게 되갚아야 한다는 생각을 나타낸다.",
+    "etymologyKo": "성경 구약(레위기 24:20, 출애굽기 21:24)에서 유래한 표현으로, '동해복수(同害報讐)'의 원칙을 담고 있으며 수천 년 전부터 법과 도덕의 원리로 사용되어 왔다.",
+    "nuanceKo": "보복을 정당화할 때도, 반대로 그 악순환을 비판할 때도 모두 쓰일 수 있으며, 문맥에 따라 분노·냉철한 판단·도덕적 논쟁 등 다양한 뉘앙스를 갖는다.",
+    "shortExampleEn": "He believes in an eye for an eye, so he'll never let the insult go unanswered.",
+    "shortExampleKo": "그는 눈에는 눈이라고 믿기 때문에 그 모욕을 절대 그냥 넘기지 않을 것이다."
+  }
+}

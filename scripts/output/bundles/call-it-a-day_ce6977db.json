@@ -1,0 +1,30 @@
+{
+  "id": "call-it-a-day_ce6977db",
+  "expression": "call it a day",
+  "selectionMeta": {
+    "selectedPhrase": "call it a day",
+    "selectedSenseLabelKo": "오늘은 여기서 마치다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After finishing the last report, Sarah leaned back in her chair and decided to call it a day."
+  },
+  "step2": {
+    "story": "Tom had been painting the fence since early morning, and by late afternoon his arms were aching. He stepped back, looked at the progress he had made, and decided to call it a day. He packed up his brushes, knowing the rest could wait until tomorrow.",
+    "topicTag": "home chores",
+    "moodTag": "tired but satisfied"
+  },
+  "step3": {
+    "story": "Maya had been staring at her laptop screen for nearly ten hours straight, trying to finish the proposal before the deadline. Her eyes were burning and her coffee had gone cold hours ago. She saved her document one final time and stretched her arms above her head. 'That's it,' she muttered to herself, 'I'm going to call it a day.' She shut the laptop and walked to the window, watching the city lights come on as dusk settled in. Tomorrow she would tackle the remaining slides with fresh eyes.",
+    "topicTag": "work stress",
+    "moodTag": "exhausted yet resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "하루를 '그것'이라고 부르다, 즉 오늘 할 일을 여기서 마무리 짓는다는 뜻이다.",
+    "realUsageKo": "일이나 활동을 충분히 했다고 판단하고 오늘은 이만 끝내기로 결정할 때 사용한다. 직장, 취미, 운동 등 다양한 상황에서 폭넓게 쓰인다.",
+    "etymologyKo": "19세기 영어에서 유래했으며, 하루치 작업(a day's work)을 완료했다고 선언하는 표현에서 비롯되었다. 'call'은 '선언하다'는 의미로 사용되었다.",
+    "nuanceKo": "억지로 그만두는 것이 아니라 충분히 했다는 만족감이나 피로감을 바탕으로 자연스럽게 마무리하는 뉘앙스를 담고 있다. 격식·비격식 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "We've hit our targets for today, so let's call it a day.",
+    "shortExampleKo": "오늘 목표는 다 달성했으니, 이만 마무리합시다."
+  }
+}

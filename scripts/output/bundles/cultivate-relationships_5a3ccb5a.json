@@ -1,0 +1,30 @@
+{
+  "id": "cultivate-relationships_5a3ccb5a",
+  "expression": "cultivate relationships",
+  "selectionMeta": {
+    "selectedPhrase": "cultivate relationships",
+    "selectedSenseLabelKo": "관계를 키우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She makes a point to cultivate relationships with colleagues across different departments so that collaboration comes naturally when projects overlap."
+  },
+  "step2": {
+    "story": "After moving to a new city, Marcus felt isolated and struggled at work. He decided to cultivate relationships by joining a community board and attending local networking events. Within a few months, he had a circle of trusted friends and mentors who genuinely supported him.",
+    "topicTag": "social connection",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Yuna first became a team lead, she focused entirely on deliverables and forgot about the people behind them. Deadlines were met, but the team felt cold and transactional. Her mentor pulled her aside one afternoon and told her that the best leaders take time to cultivate relationships before they need them. Yuna started scheduling brief one-on-ones, remembering birthdays, and asking about her team members' goals outside of work. Slowly the atmosphere shifted — people began sharing ideas freely and covering for each other without being asked. She realized that the trust she had built was the invisible engine powering everything her team accomplished.",
+    "topicTag": "leadership",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'cultivate'는 농작물을 경작하듯 정성껏 가꾼다는 뜻으로, 'cultivate relationships'는 관계를 씨앗처럼 심고 꾸준히 키워 나간다는 의미입니다.",
+    "realUsageKo": "직장, 사교 모임, 지역 사회 등에서 의도적으로 시간과 노력을 들여 인간관계를 쌓고 발전시킬 때 쓰이며, 단순히 친구를 사귄다기보다 장기적 신뢰를 형성하는 행위를 강조합니다.",
+    "etymologyKo": "'cultivate'는 라틴어 'cultivare(경작하다)'에서 유래했으며, 16세기부터 비유적으로 '능력이나 관계를 가꾸다'는 의미로 쓰이기 시작했습니다.",
+    "nuanceKo": "수동적이거나 우연한 만남이 아닌, 능동적이고 지속적인 노력을 함축하며 다소 격식 있는 뉘앙스를 띱니다. 비즈니스나 자기계발 맥락에서 특히 자주 등장합니다.",
+    "shortExampleEn": "Networking events are a great opportunity to cultivate relationships with people in your industry.",
+    "shortExampleKo": "네트워킹 행사는 같은 업계 사람들과 관계를 키울 수 있는 좋은 기회입니다."
+  }
+}

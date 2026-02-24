@@ -1,0 +1,30 @@
+{
+  "id": "count-your-blessings_5443dd35",
+  "expression": "count your blessings",
+  "selectionMeta": {
+    "selectedPhrase": "count your blessings",
+    "selectedSenseLabelKo": "감사한 것을 생각하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Whenever life feels overwhelming, my grandmother always tells me to count your blessings and focus on what you have rather than what you lack."
+  },
+  "step2": {
+    "story": "After losing her job, Maya felt devastated and hopeless. Her friend sat beside her and gently reminded her to count your blessings — she had her health, a loving family, and skills that no layoff could take away. Slowly, Maya began to feel the weight lift from her shoulders.",
+    "topicTag": "personal resilience",
+    "moodTag": "comforting"
+  },
+  "step3": {
+    "story": "James stared at the ceiling at midnight, exhausted after another rough week at work. Every small setback felt enormous, and he couldn't shake the feeling that everything was falling apart. His sister called just then, as if sensing his mood, and told him to count your blessings instead of dwelling on the negatives. He grabbed a notebook and started writing: a stable home, good health, friends who cared. By the time he filled half the page, the knot in his chest had loosened. He fell asleep that night not with despair, but with a quiet sense of gratitude he hadn't felt in weeks.",
+    "topicTag": "gratitude and perspective",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신이 가진 축복들을 하나씩 세어 보다.",
+    "realUsageKo": "현재 자신이 가진 좋은 것들, 즉 감사한 것들을 떠올리며 긍정적인 관점을 가지라고 조언하거나 스스로 다짐할 때 사용한다.",
+    "etymologyKo": "기독교 찬송가 'Count Your Blessings'(1897)에서 유래했으며, 어려운 상황에서도 신의 은혜를 헤아리라는 의미에서 비롯되었다.",
+    "nuanceKo": "위로나 격려의 맥락에서 주로 쓰이며, 불평이나 비관적인 태도에 대한 부드러운 반론으로 사용될 수 있다. 다소 교훈적인 어감이 있어 상황에 따라 조심스럽게 사용해야 한다.",
+    "shortExampleEn": "Instead of complaining about the rain, count your blessings — at least you have a roof over your head.",
+    "shortExampleKo": "비가 온다고 불평하는 대신 감사한 것들을 생각해봐 — 적어도 머리 위에 지붕이 있잖아."
+  }
+}

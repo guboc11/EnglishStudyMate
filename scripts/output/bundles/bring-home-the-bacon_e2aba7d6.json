@@ -1,0 +1,30 @@
+{
+  "id": "bring-home-the-bacon_e2aba7d6",
+  "expression": "bring home the bacon",
+  "selectionMeta": {
+    "selectedPhrase": "bring home the bacon",
+    "selectedSenseLabelKo": "돈을 벌어오다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After years of working two jobs, she was finally able to bring home the bacon and give her family the stable life they deserved."
+  },
+  "step2": {
+    "story": "Mark had just landed a promotion he had been chasing for two years. He called his wife from the parking lot, barely able to contain his excitement, and told her he was finally going to bring home the bacon like they had always planned. That night, they celebrated over a home-cooked meal for the first time in months.",
+    "topicTag": "career growth",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "For three years, Lisa had been the one to bring home the bacon while her husband finished his graduate degree. It wasn't easy — early mornings, back-to-back shifts, and no real vacation — but she never once complained. She believed in their plan, and more importantly, she believed in him. When he finally landed his first full-time position, he looked at her across the dinner table with grateful eyes. 'Now it's my turn,' he said quietly. Lisa smiled, knowing that what they had built together was worth every sacrifice.",
+    "topicTag": "family sacrifice",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "베이컨을 집으로 가져오다.",
+    "realUsageKo": "가족을 부양하기 위해 돈을 벌어온다는 의미로, 생계를 책임지는 사람을 표현할 때 자주 쓰입니다.",
+    "etymologyKo": "20세기 초 미국에서 유래된 표현으로, 베이컨이 서민 가정의 핵심 식재료였던 시절, 베이컨을 살 만큼 돈을 벌어온다는 의미에서 비롯되었습니다.",
+    "nuanceKo": "구어체 표현으로 가볍고 친근한 느낌을 줍니다. 생계 부양에 대한 자부심이나 책임감을 강조할 때 쓰이며, 때로는 유머러스한 맥락에서도 사용됩니다.",
+    "shortExampleEn": "He works overtime every week just to bring home the bacon for his three kids.",
+    "shortExampleKo": "그는 세 아이들을 부양하기 위해 매주 초과 근무를 합니다."
+  }
+}

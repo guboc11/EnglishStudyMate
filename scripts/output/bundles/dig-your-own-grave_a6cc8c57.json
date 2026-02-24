@@ -1,0 +1,30 @@
+{
+  "id": "dig-your-own-grave_a6cc8c57",
+  "expression": "dig your own grave",
+  "selectionMeta": {
+    "selectedPhrase": "dig your own grave",
+    "selectedSenseLabelKo": "자신의 무덤을 파다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "By leaking confidential information to the press, the executive was essentially digging his own grave within the company."
+  },
+  "step2": {
+    "story": "Marcus kept missing deadlines and ignoring his manager's warnings. Everyone in the office could see he was digging his own grave, but he refused to change his ways. When the layoffs came, his name was first on the list.",
+    "topicTag": "workplace behavior",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sara had been warned repeatedly about her aggressive negotiating tactics with clients, but she brushed off every piece of advice. She believed her results justified her methods, even as relationships soured one by one. Her colleagues watched quietly as she continued digging her own grave, securing short-term wins while burning the bridges that held her career together. When the biggest client finally walked away and cited her conduct as the reason, management had no choice but to let her go. What had seemed like confidence turned out to be a slow and entirely self-inflicted downfall.",
+    "topicTag": "career mistakes",
+    "moodTag": "cautionary"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 자기 자신의 무덤을 직접 파는 행위를 뜻한다.",
+    "realUsageKo": "실제로는 스스로의 행동이나 결정으로 인해 자신의 실패나 파멸을 초래하는 상황을 묘사할 때 사용한다. 주로 경고나 비판의 뉘앙스로 쓰인다.",
+    "etymologyKo": "무덤을 판다는 이미지에서 비롯된 표현으로, 죽음을 자초한다는 비유적 의미가 오랜 시간에 걸쳐 '스스로 파멸을 자초하다'는 관용적 의미로 굳어졌다.",
+    "nuanceKo": "다소 강한 표현으로, 당사자가 자신의 실수나 잘못을 인식하지 못한 채 스스로를 망치고 있다는 뉘앙스를 담고 있다. 제3자가 안타까움이나 비판을 담아 쓰는 경우가 많다.",
+    "shortExampleEn": "He's digging his own grave by refusing to apologize to the team.",
+    "shortExampleKo": "그는 팀에게 사과하기를 거부함으로써 스스로 무덤을 파고 있다."
+  }
+}

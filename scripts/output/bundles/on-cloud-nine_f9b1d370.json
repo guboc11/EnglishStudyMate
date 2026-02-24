@@ -1,0 +1,30 @@
+{
+  "id": "on-cloud-nine_f9b1d370",
+  "expression": "on cloud nine",
+  "selectionMeta": {
+    "selectedPhrase": "on cloud nine",
+    "selectedSenseLabelKo": "아주 행복하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She's been on cloud nine ever since she got the job offer from her dream company."
+  },
+  "step2": {
+    "story": "Jake proposed to his girlfriend at their favorite restaurant last night, and she said yes. He called his best friend this morning, barely able to contain his excitement. 'I've been on cloud nine since the moment she put on the ring,' he said, his voice full of joy.",
+    "topicTag": "relationships",
+    "moodTag": "joyful"
+  },
+  "step3": {
+    "story": "After months of grueling auditions and rehearsals, Maya finally landed the lead role in the city's biggest musical production. When the director called her name at the final callback, she felt a wave of disbelief wash over her. She drove home in a daze, replaying the moment over and over in her mind. Her roommate took one look at her glowing face and already knew the answer before asking. 'I'm on cloud nine and I don't ever want to come down,' Maya laughed, spinning around the living room. That evening, she video-called her parents, who cried happy tears along with her from thousands of miles away.",
+    "topicTag": "achievement",
+    "moodTag": "elated"
+  },
+  "meaning": {
+    "literalMeaningKo": "아홉 번째 구름 위에 있다는 뜻으로, 매우 높은 곳에 떠 있는 상태를 묘사합니다.",
+    "realUsageKo": "극도로 행복하거나 기쁜 상태를 표현할 때 사용합니다. 좋은 소식을 들었거나 꿈이 이루어졌을 때처럼 황홀한 기분을 묘사하는 데 적합합니다.",
+    "etymologyKo": "미국 기상청이 구름을 분류할 때 9번째 구름인 적란운(Cumulonimbus)이 가장 높이 위치한다는 데서 유래했습니다. 1930년대부터 영어 구어체에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "매우 긍정적이고 밝은 감정을 나타내는 표현으로, 주로 사랑, 성공, 기쁜 소식과 같은 특별한 순간에 사용됩니다. 일시적으로 현실을 잊을 만큼 행복한 상태를 강조합니다.",
+    "shortExampleEn": "He's been on cloud nine since his team won the championship.",
+    "shortExampleKo": "그는 팀이 우승한 이후로 줄곧 행복에 젖어 있다."
+  }
+}

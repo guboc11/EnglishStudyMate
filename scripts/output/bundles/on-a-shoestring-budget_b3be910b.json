@@ -1,0 +1,30 @@
+{
+  "id": "on-a-shoestring-budget_b3be910b",
+  "expression": "on a shoestring budget",
+  "selectionMeta": {
+    "selectedPhrase": "on a shoestring budget",
+    "selectedSenseLabelKo": "아주 적은 예산으로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "They managed to renovate the entire apartment on a shoestring budget by doing most of the work themselves."
+  },
+  "step2": {
+    "story": "Maya had always dreamed of traveling through Southeast Asia, but she could only afford to go on a shoestring budget. She stayed in hostels, cooked her own meals, and took local buses instead of taxis. Despite spending almost nothing, she had the adventure of a lifetime.",
+    "topicTag": "travel",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "When Daniel decided to launch his own food truck, everyone warned him it was too risky. Undeterred, he started the business on a shoestring budget, buying second-hand equipment and sourcing ingredients directly from local farmers. He painted the truck himself on weekends and relied on social media instead of paid advertising. Customers were drawn in by the honest, homemade feel of everything he did. Within a year, the small operation had turned a profit, proving that passion and creativity can stretch even the tightest budget further than anyone expects.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "신발 끈처럼 아주 가는 실 하나로 생활한다는 뜻으로, 극도로 적은 돈으로 무언가를 한다는 의미입니다.",
+    "realUsageKo": "매우 제한된 예산 안에서 무언가를 계획하거나 실행할 때 사용합니다. 여행, 창업, 영화 제작 등 다양한 상황에서 '빠듯한 예산으로'라는 뉘앙스로 씁니다.",
+    "etymologyKo": "'shoestring'은 원래 신발 끈을 뜻하며, 19세기 미국에서 아주 적은 돈을 가리키는 속어로 쓰이기 시작했습니다. 신발 끈을 팔아 생계를 유지할 만큼 가난한 행상인에서 유래했다는 설이 있습니다.",
+    "nuanceKo": "단순히 '저렴하게'보다 더 강한 제약을 암시하며, 때로는 그 어려움을 극복하는 창의성이나 의지를 함께 강조하는 긍정적 뉘앙스로 사용되기도 합니다.",
+    "shortExampleEn": "The indie film was shot on a shoestring budget but won several awards.",
+    "shortExampleKo": "그 인디 영화는 아주 적은 예산으로 촬영됐지만 여러 상을 받았다."
+  }
+}

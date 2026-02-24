@@ -1,0 +1,30 @@
+{
+  "id": "foster-collaboration_400d8d04",
+  "expression": "foster collaboration",
+  "selectionMeta": {
+    "selectedPhrase": "foster collaboration",
+    "selectedSenseLabelKo": "협업을 장려하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The new manager restructured the office layout to foster collaboration between the design and engineering teams."
+  },
+  "step2": {
+    "story": "After the merger, the two companies struggled to work as one unit. The CEO launched a series of cross-departmental workshops to foster collaboration and break down the old silos. Within months, joint projects began producing results that neither team could have achieved alone.",
+    "topicTag": "teamwork",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maya had inherited a department where every sub-team hoarded information and competed for credit. She knew that to turn things around, she needed to foster collaboration at every level. She started small — pairing engineers with product managers for weekly one-on-ones and opening a shared channel for ideas. Gradually, people stopped guarding their work and started building on each other's contributions. By the end of the quarter, the department had shipped three features that had been stuck for months. Maya's approach proved that a culture shift, not more headcount, was all they had ever needed.",
+    "topicTag": "leadership",
+    "moodTag": "transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "'foster'는 '육성하다·촉진하다', 'collaboration'은 '협업·협력'을 뜻하므로, 글자 그대로는 '협업을 키워나가다'라는 의미이다.",
+    "realUsageKo": "주로 비즈니스·조직 맥락에서 팀 간 소통이나 협력 문화를 적극적으로 조성·장려할 때 쓰인다. 정책 발표, 리더십 발언, 기획 문서 등에서 자주 등장한다.",
+    "etymologyKo": "'foster'는 고대 영어 'fostrian(양육하다)'에서 유래했으며, 'collaboration'은 라틴어 'collaborare(함께 일하다)'에서 비롯됐다.",
+    "nuanceKo": "단순히 '협업하다(collaborate)'가 아니라 협업이 일어날 환경이나 문화를 의도적으로 만들어간다는 능동적·전략적 뉘앙스가 강하다. 리더나 조직이 주체가 되는 경우가 많다.",
+    "shortExampleEn": "Regular team lunches are a simple way to foster collaboration across departments.",
+    "shortExampleKo": "정기적인 팀 점심 자리는 부서 간 협업을 장려하는 간단한 방법이다."
+  }
+}

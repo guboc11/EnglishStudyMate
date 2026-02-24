@@ -1,0 +1,30 @@
+{
+  "id": "keep-your-cards-close-to-your-chest_34e934b3",
+  "expression": "keep your cards close to your chest",
+  "selectionMeta": {
+    "selectedPhrase": "keep your cards close to your chest",
+    "selectedSenseLabelKo": "속을 드러내지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the salary negotiation, Marcus kept his cards close to his chest and waited for the employer to name a number first."
+  },
+  "step2": {
+    "story": "The two rival companies had been in merger talks for weeks, but neither side was willing to reveal their true intentions. Both CEOs kept their cards close to their chests, waiting for the other to blink first. The negotiation table felt more like a poker game than a boardroom.",
+    "topicTag": "business negotiation",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Elena had spent months developing a groundbreaking product idea, and now she sat across from three potential investors. She knew the room was full of people who might steal her concept if given the chance. So she kept her cards close to her chest, sharing just enough to spark interest without revealing the core innovation. The investors leaned forward, intrigued but clearly frustrated by her measured disclosure. 'You're very cautious,' one of them said with a thin smile. 'In this industry,' Elena replied calmly, 'that's how you survive.'",
+    "topicTag": "startup pitch",
+    "moodTag": "strategic"
+  },
+  "meaning": {
+    "literalMeaningKo": "카드 패를 가슴 가까이 붙들고 있다 — 즉, 상대방이 자신의 패를 볼 수 없게 한다는 뜻이다.",
+    "realUsageKo": "자신의 계획, 의도, 감정이나 정보를 남에게 드러내지 않고 비밀스럽게 유지할 때 사용한다. 협상, 경쟁, 비즈니스 상황에서 전략적으로 정보를 숨길 때 특히 자주 쓰인다.",
+    "etymologyKo": "카드 게임(특히 포커)에서 유래한 표현으로, 자신의 패를 상대방이 볼 수 없도록 가슴 가까이 대고 있는 행동에서 비롯되었다. 19세기부터 비유적 의미로 쓰이기 시작했다.",
+    "nuanceKo": "단순히 말이 없는 사람이 아니라, 의도적으로 정보를 통제하는 계산적이고 신중한 태도를 강조한다. 부정적이기보다는 전략적이고 현명한 행동으로 묘사될 때가 많다.",
+    "shortExampleEn": "He kept his cards close to his chest throughout the interview, never revealing which other companies had made him offers.",
+    "shortExampleKo": "그는 면접 내내 속을 드러내지 않았으며, 다른 어느 회사가 오퍼를 했는지 절대 밝히지 않았다."
+  }
+}

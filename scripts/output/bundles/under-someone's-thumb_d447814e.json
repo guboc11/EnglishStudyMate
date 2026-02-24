@@ -1,0 +1,30 @@
+{
+  "id": "under-someone's-thumb_d447814e",
+  "expression": "under someone's thumb",
+  "selectionMeta": {
+    "selectedPhrase": "under someone's thumb",
+    "selectedSenseLabelKo": "누군가의 지배 하에 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Ever since she joined the firm, she has been completely under her manager's thumb, unable to make any decision without his approval."
+  },
+  "step2": {
+    "story": "Jake had always been under his boss's thumb, following every order without question. One day, he finally gathered the courage to propose his own idea in a meeting. To his surprise, everyone loved it — and he realized he didn't have to live under someone's thumb forever.",
+    "topicTag": "workplace independence",
+    "moodTag": "empowering"
+  },
+  "step3": {
+    "story": "For years, Mia had been under her controlling partner's thumb, asking permission before making even the smallest choices about her own life. Her friends watched helplessly as she slowly lost her confidence and sense of self. Then one autumn, Mia enrolled in a night class without telling him — a tiny act of freedom that felt enormous. Week by week, she rediscovered her own voice and opinions. By spring, she had moved into her own apartment, no longer under anyone's thumb. She smiled at her reflection and barely recognized the strong woman staring back.",
+    "topicTag": "personal freedom",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 엄지손가락 아래에 있다.",
+    "realUsageKo": "어떤 사람이 다른 사람에게 완전히 통제되거나 지배받는 상태를 나타낼 때 사용한다. 자신의 의지나 판단을 펼치지 못하고 상대방의 뜻에 따라야 하는 상황에 쓰인다.",
+    "etymologyKo": "엄지손가락(thumb)으로 무언가를 꽉 누르는 모습에서 유래했다. 16세기경부터 '통제하다'는 의미로 쓰이기 시작했으며, 권력자가 약자를 손가락으로 눌러 제압하는 이미지를 담고 있다.",
+    "nuanceKo": "부정적인 뉘앙스가 강하며, 자유 의지가 억압된 상태를 강조한다. 주로 직장 상사, 부모, 파트너 등 친밀하거나 권위 있는 관계에서 사용되며, 당사자가 그 상황을 불편하게 여기는 맥락에서 자주 등장한다.",
+    "shortExampleEn": "He has been under his father's thumb his whole life and never made a decision on his own.",
+    "shortExampleKo": "그는 평생 아버지의 지배 하에 살아왔고 스스로 결정을 내린 적이 없다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "close-the-deal_4d0d027b",
+  "expression": "close the deal",
+  "selectionMeta": {
+    "selectedPhrase": "close the deal",
+    "selectedSenseLabelKo": "거래를 성사시키다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After months of negotiations, Sarah finally managed to close the deal with the overseas supplier."
+  },
+  "step2": {
+    "story": "The sales team had been chasing the contract for six weeks. On the last day of the quarter, Marcus flew to the client's headquarters and closed the deal over a handshake and coffee. Everyone back at the office celebrated when he called with the news.",
+    "topicTag": "sales negotiation",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Elena had prepared for this moment for three months. She had studied the client's annual reports, rehearsed every possible objection, and revised her proposal four times. When she finally sat across from the CFO in the boardroom, her hands were steady and her voice was calm. She walked through the numbers, addressed their concerns one by one, and waited. The CFO leaned back, exchanged a glance with his colleague, and extended his hand. 'Let's close the deal,' he said. Elena smiled, shook his hand firmly, and felt all three months of pressure lift off her shoulders at once.",
+    "topicTag": "business negotiation",
+    "moodTag": "relieved and confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "거래(deal)를 닫다(close), 즉 협상을 마무리 짓다.",
+    "realUsageKo": "비즈니스 협상에서 최종 합의에 도달하거나 계약을 체결할 때 사용한다. 영업, 투자, 파트너십 등 다양한 거래 상황에서 두루 쓰인다.",
+    "etymologyKo": "'Close'는 라틴어 'claudere(닫다)'에서 유래했으며, 협상의 열린 상태를 '닫아' 확정 짓는다는 의미로 비즈니스 영어에 정착했다.",
+    "nuanceKo": "단순히 계약서에 서명하는 행위를 넘어, 설득과 노력 끝에 성과를 이루었다는 뉘앙스를 담고 있다. 영업 문화에서 특히 자주 쓰이며 성취감이 실린 표현이다.",
+    "shortExampleEn": "We need to close the deal before the competitor submits their offer.",
+    "shortExampleKo": "경쟁사가 제안서를 제출하기 전에 거래를 성사시켜야 합니다."
+  }
+}

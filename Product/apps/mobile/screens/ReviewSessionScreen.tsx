@@ -12,9 +12,11 @@ import { splitByExpressionMatch } from '@/utils/highlightExpression';
 
 type ReviewSessionScreenProps = {
   onClose: () => void;
+  onComplete: (entries: VocabularyEntry[]) => void;
+  onEarlyEnd: (entries: VocabularyEntry[]) => void;
 };
 
-type SessionPhase = 'size-select' | 'reading' | 'complete';
+type SessionPhase = 'size-select' | 'reading';
 
 const SESSION_SIZES = [5, 10, 20] as const;
 
@@ -24,7 +26,7 @@ const FAMILIARITY_LABEL: Record<string, string> = {
   unknown: '모르겠어',
 };
 
-export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
+export function ReviewSessionScreen({ onClose, onComplete, onEarlyEnd }: ReviewSessionScreenProps) {
   const [phase, setPhase] = useState<SessionPhase>('size-select');
   const [entries, setEntries] = useState<VocabularyEntry[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -50,7 +52,7 @@ export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
 
   const handleNext = () => {
     if (currentIndex + 1 >= entries.length) {
-      setPhase('complete');
+      onComplete(entries);
     } else {
       setCurrentIndex((prev) => prev + 1);
     }
@@ -58,7 +60,7 @@ export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
 
   if (phase === 'size-select') {
     return (
-      <SafeAreaView style={{ flex: 1, backgroundColor: '#f5f7fb' }}>
+      <SafeAreaView style={{ flex: 1, backgroundColor: '#FAF7F2' }}>
         <View style={{ width: '100%', alignItems: 'flex-end', paddingHorizontal: 16, paddingTop: 4 }}>
           <Button size="sm" variant="link" action="secondary" onPress={onClose}>
             <ButtonText size="xl">X</ButtonText>
@@ -78,8 +80,13 @@ export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
                 <Text size="sm" style={{ textAlign: 'center', color: '#6b7280' }}>
                   표현을 검색하면 복습 목록에 추가됩니다.
                 </Text>
-                <Button size="lg" action="secondary" onPress={onClose}>
-                  <ButtonText>홈으로 이동</ButtonText>
+                <Button
+                  size="lg"
+                  action="secondary"
+                  onPress={onClose}
+                  style={{ backgroundColor: '#FFFFFF', borderColor: '#D97706' }}
+                >
+                  <ButtonText style={{ color: '#D97706' }}>홈으로 이동</ButtonText>
                 </Button>
               </>
             ) : (
@@ -118,34 +125,6 @@ export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
     );
   }
 
-  if (phase === 'complete') {
-    return (
-      <SafeAreaView style={{ flex: 1, backgroundColor: '#f5f7fb' }}>
-        <View style={{ width: '100%', alignItems: 'flex-end', paddingHorizontal: 16, paddingTop: 4 }}>
-          <Button size="sm" variant="link" action="secondary" onPress={onClose}>
-            <ButtonText size="xl">X</ButtonText>
-          </Button>
-        </View>
-        <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', paddingHorizontal: 16 }}>
-          <VStack className="w-full max-w-[360px] gap-4">
-            <Text size="xl" bold style={{ textAlign: 'center' }}>
-              복습 완료!
-            </Text>
-            <Text size="md" style={{ textAlign: 'center' }}>
-              {`${entries.length}개 표현을 복습했습니다.`}
-            </Text>
-            <Button size="lg" action="primary" onPress={onClose}>
-              <ButtonText>홈으로 이동</ButtonText>
-            </Button>
-            <Button size="lg" action="secondary" onPress={() => setPhase('size-select')}>
-              <ButtonText>한 번 더 복습</ButtonText>
-            </Button>
-          </VStack>
-        </View>
-      </SafeAreaView>
-    );
-  }
-
   // phase === 'reading'
   const entry = entries[currentIndex];
   if (!entry) return null;
@@ -156,14 +135,24 @@ export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
   const isLast = currentIndex + 1 >= entries.length;
 
   return (
-    <SafeAreaView style={{ flex: 1, backgroundColor: '#f5f7fb' }}>
+    <SafeAreaView style={{ flex: 1, backgroundColor: '#FAF7F2' }}>
       <View style={{ width: '100%', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingHorizontal: 16, paddingTop: 4 }}>
         <Text size="sm" style={{ color: '#6b7280' }}>
           {progress}
         </Text>
-        <Button size="sm" variant="link" action="secondary" onPress={onClose}>
-          <ButtonText size="xl">X</ButtonText>
-        </Button>
+        <View style={{ flexDirection: 'row', gap: 8, alignItems: 'center' }}>
+          <Button
+            size="sm"
+            variant="link"
+            action="secondary"
+            onPress={() => onEarlyEnd(entries.slice(0, currentIndex + 1))}
+          >
+            <ButtonText style={{ color: '#D97706' }}>종료</ButtonText>
+          </Button>
+          <Button size="sm" variant="link" action="secondary" onPress={onClose}>
+            <ButtonText size="xl">X</ButtonText>
+          </Button>
+        </View>
       </View>
       <ScrollView
         contentContainerStyle={{
@@ -196,7 +185,7 @@ export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
                 key={`${segment.text}-${index}`}
                 size="md"
                 bold={segment.isMatch}
-                style={segment.isMatch ? { color: '#2563eb' } : undefined}
+                style={segment.isMatch ? { color: '#D97706' } : undefined}
               >
                 {segment.text}
               </Text>
@@ -209,8 +198,14 @@ export function ReviewSessionScreen({ onClose }: ReviewSessionScreenProps) {
             size="lg"
             action={isLast ? 'secondary' : 'primary'}
             onPress={handleNext}
+            style={isLast
+              ? { backgroundColor: '#FFFFFF', borderColor: '#D97706' }
+              : { backgroundColor: '#D97706' }
+            }
           >
-            <ButtonText>{isLast ? '복습 완료' : '다음'}</ButtonText>
+            <ButtonText style={isLast ? { color: '#D97706' } : undefined}>
+              {isLast ? '복습 완료' : '다음'}
+            </ButtonText>
           </Button>
         </VStack>
       </ScrollView>

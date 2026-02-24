@@ -1,0 +1,30 @@
+{
+  "id": "win-win-situation_95bf4433",
+  "expression": "win-win situation",
+  "selectionMeta": {
+    "selectedPhrase": "win-win situation",
+    "selectedSenseLabelKo": "서로에게 이익인 상황",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Allowing employees to work from home turned out to be a win-win situation — productivity went up and the company saved on office costs."
+  },
+  "step2": {
+    "story": "The two rival companies decided to share distribution channels instead of competing. It reduced costs for both and expanded their reach into new markets. Everyone at the negotiating table agreed it was a win-win situation.",
+    "topicTag": "business negotiation",
+    "moodTag": "optimistic"
+  },
+  "step3": {
+    "story": "Sarah had been struggling to balance her workload when her manager proposed a new arrangement. She would mentor the two junior analysts, and in return she could adjust her hours to leave early on Fridays. At first Sarah hesitated, unsure whether she was taking on too much. But after the first month, the junior staff handled routine reports on their own, freeing Sarah for higher-level strategy work. Her manager praised the team's growth, and Sarah finally reclaimed her weekends. It was a win-win situation that neither of them had expected to work out so perfectly.",
+    "topicTag": "workplace flexibility",
+    "moodTag": "satisfied"
+  },
+  "meaning": {
+    "literalMeaningKo": "양쪽 모두가 이기는 상황, 즉 관련된 모든 당사자에게 이익이 되는 결과를 뜻합니다.",
+    "realUsageKo": "협상·협력·거래에서 어느 한쪽도 손해를 보지 않고 서로 이득을 얻는 결과를 묘사할 때 씁니다. 비즈니스 회의나 협상 자리에서 제안의 긍정적 측면을 강조할 때 자주 등장합니다.",
+    "etymologyKo": "게임 이론에서 양측이 모두 이익을 얻는 결과를 'win-win'이라 부른 데서 유래했으며, 1960~70년대 경영·협상 분야에서 대중화되었습니다.",
+    "nuanceKo": "낙관적이고 협력적인 어감을 지닙니다. 경쟁보다 협력을 강조하는 맥락에서 사용하며, 너무 자주 쓰이면 진부하게 들릴 수 있으니 적절히 활용하는 것이 좋습니다.",
+    "shortExampleEn": "Partnering with a local supplier was a win-win situation for both businesses.",
+    "shortExampleKo": "현지 공급업체와 파트너십을 맺는 것은 두 회사 모두에게 윈윈 상황이었다."
+  }
+}

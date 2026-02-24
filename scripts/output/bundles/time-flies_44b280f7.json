@@ -1,0 +1,30 @@
+{
+  "id": "time-flies_44b280f7",
+  "expression": "time flies",
+  "selectionMeta": {
+    "selectedPhrase": "time flies",
+    "selectedSenseLabelKo": "시간이 빠르다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I can't believe the semester is already over — time flies when you're busy with things you love."
+  },
+  "step2": {
+    "story": "Maya looked at the calendar and gasped — her daughter's first birthday was tomorrow. It felt like just yesterday she had brought her home from the hospital. Time flies when you're watching someone grow.",
+    "topicTag": "parenting",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "David sat at his desk, flipping through an old photo album from his college days. The faces were familiar, but the memories felt distant, wrapped in a soft haze. He remembered late-night study sessions, spontaneous road trips, and friendships that felt like they would last forever. Now, a decade later, everyone had scattered across the country with careers and families of their own. He smiled to himself, shaking his head — time flies, and it spares no one. Still, he was grateful for every moment captured in those faded photographs.",
+    "topicTag": "nostalgia and growing up",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간이 날아간다는 뜻으로, 시간이 매우 빠르게 지나가는 것을 표현합니다.",
+    "realUsageKo": "즐거운 일을 할 때나 바쁘게 지내다 보면 어느새 시간이 많이 흘렀음을 깨달을 때 주로 사용합니다. 'Time flies when you're having fun'이라는 확장 표현으로도 자주 쓰입니다.",
+    "etymologyKo": "라틴어 격언 'Tempus fugit(시간은 도망간다)'에서 유래한 표현으로, 영어에서는 수백 년 전부터 사용되어 왔습니다.",
+    "nuanceKo": "주로 과거를 돌아보며 감탄하거나 아쉬워하는 상황에서 쓰이며, 가볍고 자연스러운 어조입니다. 부정적이거나 긍정적인 맥락 모두에서 사용할 수 있습니다.",
+    "shortExampleEn": "Time flies — we've been friends for over ten years already.",
+    "shortExampleKo": "시간이 정말 빠르다 — 우리가 친구가 된 지 벌써 10년이 넘었어."
+  }
+}

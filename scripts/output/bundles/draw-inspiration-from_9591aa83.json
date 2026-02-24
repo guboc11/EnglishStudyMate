@@ -1,0 +1,30 @@
+{
+  "id": "draw-inspiration-from_9591aa83",
+  "expression": "draw inspiration from",
+  "selectionMeta": {
+    "selectedPhrase": "draw inspiration from",
+    "selectedSenseLabelKo": "영감을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She often draws inspiration from her travels abroad to create vivid paintings that capture the spirit of different cultures."
+  },
+  "step2": {
+    "story": "Every morning, Marcus sits by the window and draws inspiration from the quiet neighborhood below. The way sunlight hits the old brick buildings gives him ideas for his next short story. By noon, he has already filled three pages.",
+    "topicTag": "creative writing",
+    "moodTag": "peaceful"
+  },
+  "step3": {
+    "story": "Lena had been stuck on her novel for weeks, staring at a blank page that refused to fill itself. One afternoon, she decided to take a long walk through the botanical garden near her apartment. As she wandered among the flowering trees and listening to children laugh nearby, she began to draw inspiration from the simple joy around her. She pulled out her notebook and started writing—first a sentence, then a paragraph, then pages. By the time she returned home, the block had lifted completely. The garden had given her exactly what she needed.",
+    "topicTag": "writer's block",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가로부터 영감을 끌어내다, 즉 특정 대상에서 창의적 자극을 얻다.",
+    "realUsageKo": "예술, 글쓰기, 비즈니스 등 창의적 활동에서 아이디어의 원천을 언급할 때 사용한다. '~에서 영감을 받다'라는 의미로 폭넓게 쓰인다.",
+    "etymologyKo": "'draw'는 '끌어내다'는 뜻이고, 'inspiration'은 라틴어 'inspirare(숨을 불어넣다)'에서 유래했다. 원래는 신이 창작자에게 생명력을 불어넣는다는 개념에서 비롯되었다.",
+    "nuanceKo": "능동적이고 의도적으로 영감을 찾는 뉘앙스가 있다. 단순히 영향을 받는 것보다 더 적극적인 탐색의 느낌을 준다.",
+    "shortExampleEn": "He drew inspiration from jazz music to compose his first symphony.",
+    "shortExampleKo": "그는 재즈 음악에서 영감을 얻어 첫 번째 교향곡을 작곡했다."
+  }
+}

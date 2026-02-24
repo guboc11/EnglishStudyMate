@@ -1,0 +1,30 @@
+{
+  "id": "look-on-the-bright-side_2701e22d",
+  "expression": "look on the bright side",
+  "selectionMeta": {
+    "selectedPhrase": "look on the bright side",
+    "selectedSenseLabelKo": "밝은 면을 보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even though she didn't get the promotion, her friend encouraged her to look on the bright side — at least she had gained valuable experience."
+  },
+  "step2": {
+    "story": "Tom's flight was cancelled, leaving him stranded at the airport for hours. His travel companion nudged him and said, 'Look on the bright side — we found that amazing bookshop in the terminal.' By the time they finally boarded, Tom had to admit the unexpected detour had been worth it.",
+    "topicTag": "travel setback",
+    "moodTag": "optimistic"
+  },
+  "step3": {
+    "story": "After three months of hard work, Maya's startup pitch was rejected by every investor she had approached. She sat alone in her apartment, staring at the stack of rejection emails, feeling utterly defeated. Her mentor called that evening and gently said, 'I know it hurts, but try to look on the bright side — each 'no' taught you exactly what your pitch was missing.' Maya forced herself to re-read the feedback she had dismissed as too harsh. Slowly, she began to see patterns: her market research was thin, and her financial projections were overly optimistic. Six months later, armed with sharper data and a leaner plan, she walked into a new pitch meeting with genuine confidence.",
+    "topicTag": "startup failure",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "밝은 면을 바라보다 — 어떤 상황에서 긍정적인 측면에 시선을 돌린다는 뜻입니다.",
+    "realUsageKo": "실망스럽거나 힘든 상황에서도 좋은 점이나 희망적인 측면을 찾으려 할 때 씁니다. 주로 위로나 격려의 맥락에서 자주 등장합니다.",
+    "etymologyKo": "'bright side'는 19세기 영어에서 '밝게 빛나는 쪽', 즉 긍정적인 면을 상징하는 표현으로 자리 잡았으며, '어두운 구름에도 은빛 테두리가 있다(every cloud has a silver lining)'는 사상과 맞닿아 있습니다.",
+    "nuanceKo": "상대방을 억지로 낙관하게 만들려는 뉘앙스가 될 수 있어, 너무 이른 시점에 쓰면 공감 부족으로 들릴 수 있습니다. 상황이 어느 정도 정리된 후 사용하는 것이 자연스럽습니다.",
+    "shortExampleEn": "I failed the exam, but I'm trying to look on the bright side — now I know exactly what to study.",
+    "shortExampleKo": "시험에 떨어졌지만, 밝은 면을 보려고 해 — 이제 무엇을 공부해야 할지 정확히 알게 됐잖아."
+  }
+}

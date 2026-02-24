@@ -1,0 +1,30 @@
+{
+  "id": "save-face_b8ac0c97",
+  "expression": "save face",
+  "selectionMeta": {
+    "selectedPhrase": "save face",
+    "selectedSenseLabelKo": "체면을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager quietly revised the deadline to save face after publicly promising a delivery date the team couldn't meet."
+  },
+  "step2": {
+    "story": "During the board meeting, the director realized his proposal had a major flaw but reframed it as a 'pilot concept' to save face. The room went along with it, and no one mentioned the obvious problems. He spent the rest of the day quietly reworking the numbers.",
+    "topicTag": "workplace politics",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Yuna had confidently told her entire family that she passed the bar exam on her first attempt. When the results came back negative, she panicked — the family dinner was only two days away. She called her cousin and asked her to simply say nothing, hoping to save face until she retook the exam in the spring. At dinner, her aunt brought up the results anyway, and Yuna felt her cheeks flush. She smiled and said she was 'still waiting on the final confirmation,' knowing it was a thin excuse but needing something to hold on to. It wasn't a perfect solution, but it bought her a little dignity for the evening.",
+    "topicTag": "family pressure",
+    "moodTag": "anxious"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '얼굴을 구하다'는 뜻이다.",
+    "realUsageKo": "실제로는 창피스러운 상황에서 자신의 체면이나 사회적 품위를 지키는 행동을 가리킬 때 쓴다. 실수나 실패를 인정하기보다 겉으로 괜찮아 보이려 할 때 자주 사용된다.",
+    "etymologyKo": "중국어 '체면(面子, miànzi)' 개념에서 유래했으며, 19세기 후반 영어권에서 외교·무역 맥락을 통해 정착되었다. 동양 문화에서 사회적 명예를 얼굴에 비유하는 전통이 반영된 표현이다.",
+    "nuanceKo": "자존심을 지키려는 행동에 약간의 아이러니나 안타까움이 담길 때가 많다. 비판적이기보다는 중립적인 톤으로 쓰이며, 상대방의 처지를 이해하는 뉘앙스가 있다.",
+    "shortExampleEn": "He apologized just enough to save face without admitting he was wrong.",
+    "shortExampleKo": "그는 잘못을 인정하지 않으면서도 체면을 유지할 만큼만 사과했다."
+  }
+}

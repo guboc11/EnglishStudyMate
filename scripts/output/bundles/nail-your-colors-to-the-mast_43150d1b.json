@@ -1,0 +1,30 @@
+{
+  "id": "nail-your-colors-to-the-mast_43150d1b",
+  "expression": "nail your colors to the mast",
+  "selectionMeta": {
+    "selectedPhrase": "nail your colors to the mast",
+    "selectedSenseLabelKo": "확실한 입장을 취하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the committee pressed her for a definitive answer, she nailed her colors to the mast and declared she would never support the proposed cuts to the arts program."
+  },
+  "step2": {
+    "story": "During the heated shareholders' meeting, the CEO finally nailed his colors to the mast and announced the company would not pursue the controversial acquisition no matter the pressure. The room fell silent, then broke into applause from those who had been waiting for a clear stance.",
+    "topicTag": "business decision",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "The election campaign had grown tense, and most candidates were carefully hedging their answers to avoid upsetting voters. But Councillor Reyes had had enough of the ambiguity. Standing at the podium in front of hundreds of constituents, she nailed her colors to the mast and gave a passionate speech declaring her full support for the affordable housing plan, knowing it would cost her votes in wealthier districts. The crowd stirred with mixed reactions — some cheered loudly, others shook their heads. Yet by the end of the evening, even her opponents admitted they knew exactly where she stood. That clarity, she believed, was worth more than any short-term political convenience.",
+    "topicTag": "politics",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "깃발(colors)을 돛대에 못으로 고정하다.",
+    "realUsageKo": "자신의 신념이나 입장을 공개적으로 분명히 밝히고, 어떠한 압박이 있어도 그것을 바꾸지 않겠다는 강한 의지를 나타낼 때 사용한다.",
+    "etymologyKo": "과거 해전에서 배의 깃발(colors)은 소속 국가를 나타냈고, 항복할 때는 깃발을 내렸다. 깃발을 돛대에 못으로 박아 내릴 수 없게 하면 끝까지 싸우겠다는 결의를 의미했다.",
+    "nuanceKo": "다소 공식적이고 결연한 어감을 지니며, 특히 논쟁적인 상황에서 용감하게 자신의 의견을 공표하는 맥락에서 주로 쓰인다. 단순한 의견 표명보다 강한 결심의 뉘앙스가 있다.",
+    "shortExampleEn": "She nailed her colors to the mast by publicly endorsing the unpopular tax reform.",
+    "shortExampleKo": "그녀는 인기 없는 세금 개혁을 공개적으로 지지함으로써 확실한 입장을 취했다."
+  }
+}

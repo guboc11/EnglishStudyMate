@@ -1,0 +1,30 @@
+{
+  "id": "out-of-your-depth_4933a257",
+  "expression": "out of your depth",
+  "selectionMeta": {
+    "selectedPhrase": "out of your depth",
+    "selectedSenseLabelKo": "감당이 안 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the project was handed to her without any training, she quickly felt completely out of her depth."
+  },
+  "step2": {
+    "story": "Marcus had confidently volunteered to lead the international negotiations, but when the lawyers started debating complex contract clauses, he realized he was way out of his depth. He quietly excused himself and called a colleague for urgent backup.",
+    "topicTag": "work pressure",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "Priya had always been the top student in her undergraduate program, so she accepted the graduate research fellowship without hesitation. But on her first day in the lab, her supervisor rattled off a list of advanced methodologies she had never encountered, and she felt completely out of her depth. The other researchers spoke in shorthand she couldn't follow, and every question she asked seemed to reveal another gap in her knowledge. That evening she sat alone in the library, surrounded by textbooks, wondering if she had made a terrible mistake. But instead of giving up, she mapped out everything she didn't know and started filling the gaps one concept at a time. Three months later, she was the one explaining the methodology to a new arrival.",
+    "topicTag": "academic challenge",
+    "moodTag": "vulnerable but resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "물의 깊이가 발이 닿지 않을 만큼 깊어 헤엄칠 수 없는 상태.",
+    "realUsageKo": "자신의 능력이나 지식 수준을 넘어서는 상황에 처해 감당하기 어렵다는 뜻으로 쓰인다. 주로 업무·학업·사회적 상황에서 버거움을 느낄 때 사용한다.",
+    "etymologyKo": "수영에서 유래한 표현으로, 발이 바닥에 닿지 않을 정도로 깊은 물(depth)에 들어가 있다는 물리적 이미지에서 '역량을 초과하는 상황'이라는 비유적 의미로 확장되었다.",
+    "nuanceKo": "단순한 어려움이 아니라 준비나 능력이 부족하다는 자기 인식을 담고 있어, 겸손하거나 솔직하게 한계를 인정하는 뉘앙스가 강하다. 부끄러움이나 당혹감이 함께 느껴지는 표현이다.",
+    "shortExampleEn": "He tried to fix the server himself, but he was clearly out of his depth.",
+    "shortExampleKo": "그는 직접 서버를 고치려 했지만, 명백히 감당이 안 되는 상황이었다."
+  }
+}

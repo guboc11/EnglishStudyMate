@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 2000,
-    "content_done": 1602,
-    "pending": 388,
+    "content_done": 1700,
+    "pending": 291,
     "errors": 0,
-    "last_updated": "2026-02-24T07:09:41.000Z",
+    "last_updated": "2026-02-24T11:15:00.000Z",
     "in_progress": 0
   },
   "expressions": [
@@ -20740,10 +20740,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/jump-to-conclusions_2b5908e0.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:25:33.806Z",
+      "claimed_at": "2026-02-24T10:25:33.806Z"
     },
     {
       "id": "keep-a-low-profile_ff02ab5c",
@@ -20752,10 +20753,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/keep-a-low-profile_ff02ab5c.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:26:00.000Z",
+      "claimed_at": "2026-02-24T10:25:43.042Z"
     },
     {
       "id": "keep-an-eye-on_7198209f",
@@ -20764,10 +20766,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/keep-an-eye-on_7198209f.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:25:45.000Z",
+      "claimed_at": "2026-02-24T10:25:44.952Z"
     },
     {
       "id": "keep-your-head-above-water_e3f81888",
@@ -20776,10 +20779,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/keep-your-head-above-water_e3f81888.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:26:24.281Z",
+      "claimed_at": "2026-02-24T10:26:24.281Z"
     },
     {
       "id": "kick-the-habit_fdee91d3",
@@ -20788,10 +20792,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/kick-the-habit_fdee91d3.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:26:44.000Z",
+      "claimed_at": "2026-02-24T10:26:44.008Z"
     },
     {
       "id": "leave-no-stone-unturned_7d1e0c80",
@@ -20800,10 +20805,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/leave-no-stone-unturned_7d1e0c80.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:27:00.000Z",
+      "claimed_at": "2026-02-24T10:26:50.821Z"
     },
     {
       "id": "let-sleeping-dogs-lie_f906e901",
@@ -20812,10 +20818,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/let-sleeping-dogs-lie_f906e901.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:27:50.000Z",
+      "claimed_at": "2026-02-24T10:27:40.189Z"
     },
     {
       "id": "let-the-cat-out-of-the-bag_fafeabe4",
@@ -20824,10 +20831,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/let-the-cat-out-of-the-bag_fafeabe4.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:27:47.931Z",
+      "claimed_at": "2026-02-24T10:27:47.931Z"
     },
     {
       "id": "look-on-the-bright-side_2701e22d",
@@ -20836,10 +20844,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/look-on-the-bright-side_2701e22d.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:28:09.471Z",
+      "claimed_at": "2026-02-24T10:28:09.471Z"
     },
     {
       "id": "lose-the-plot_adab4651",
@@ -20848,10 +20857,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/lose-the-plot_adab4651.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:29:00.000Z",
+      "claimed_at": "2026-02-24T10:28:59.161Z"
     },
     {
       "id": "make-a-long-story-short_e4ef1f8b",
@@ -20860,10 +20870,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/make-a-long-story-short_e4ef1f8b.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:29:00.000Z",
+      "claimed_at": "2026-02-24T10:28:59.876Z"
     },
     {
       "id": "on-a-shoestring-budget_b3be910b",
@@ -20872,10 +20883,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/on-a-shoestring-budget_b3be910b.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:29:10.000Z",
+      "claimed_at": "2026-02-24T10:29:07.908Z"
     },
     {
       "id": "on-the-fence_7a233fc6",
@@ -20884,10 +20896,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/on-the-fence_7a233fc6.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:30:00.000Z",
+      "claimed_at": "2026-02-24T10:29:45.376Z"
     },
     {
       "id": "out-of-the-blue_02024195",
@@ -20896,10 +20909,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/out-of-the-blue_02024195.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:31:00.552Z",
+      "claimed_at": "2026-02-24T10:30:09.393Z"
     },
     {
       "id": "over-the-moon_06e64d1a",
@@ -20908,10 +20922,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/over-the-moon_06e64d1a.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:30:11.542Z",
+      "claimed_at": "2026-02-24T10:30:11.542Z"
     },
     {
       "id": "pick-up-the-slack_cc2d96a0",
@@ -20920,10 +20935,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/pick-up-the-slack_cc2d96a0.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:31:26.360Z",
+      "claimed_at": "2026-02-24T10:30:41.908Z"
     },
     {
       "id": "play-devil's-advocate_a35a0d21",
@@ -20932,10 +20948,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/play-devil's-advocate_a35a0d21.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:31:27.000Z",
+      "claimed_at": "2026-02-24T10:31:16.737Z"
     },
     {
       "id": "play-hardball_7073e0ba",
@@ -20944,10 +20961,11 @@
       "domain": "business",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/play-hardball_7073e0ba.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:31:27.000Z",
+      "claimed_at": "2026-02-24T10:31:25.161Z"
     },
     {
       "id": "put-your-foot-in-your-mouth_a1e00772",
@@ -20956,10 +20974,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/put-your-foot-in-your-mouth_a1e00772.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:32:48.851Z",
+      "claimed_at": "2026-02-24T10:31:34.549Z"
     },
     {
       "id": "rock-the-boat_dc5867af",
@@ -20968,10 +20987,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/rock-the-boat_dc5867af.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:35:00.000Z",
+      "claimed_at": "2026-02-24T10:32:22.915Z"
     },
     {
       "id": "run-out-of-steam_ee3ae7f4",
@@ -20980,10 +21000,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/run-out-of-steam_ee3ae7f4.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:33:00.000Z",
+      "claimed_at": "2026-02-24T10:32:36.647Z"
     },
     {
       "id": "save-face_b8ac0c97",
@@ -20992,10 +21013,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/save-face_b8ac0c97.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:33:52.943Z",
+      "claimed_at": "2026-02-24T10:33:00.732Z"
     },
     {
       "id": "scratch-the-surface_21d6731f",
@@ -21004,10 +21026,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/scratch-the-surface_21d6731f.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:35:00.000Z",
+      "claimed_at": "2026-02-24T10:33:12.761Z"
     },
     {
       "id": "shoot-yourself-in-the-foot_d7a9943b",
@@ -21016,10 +21039,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/shoot-yourself-in-the-foot_d7a9943b.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:35:00.000Z",
+      "claimed_at": "2026-02-24T10:33:50.377Z"
     },
     {
       "id": "sit-on-the-fence_9a1536db",
@@ -21028,10 +21052,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/sit-on-the-fence_9a1536db.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:34:54.270Z",
+      "claimed_at": "2026-02-24T10:34:01.106Z"
     },
     {
       "id": "skate-on-thin-ice_d62cff5d",
@@ -21040,10 +21065,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/skate-on-thin-ice_d62cff5d.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:35:00.000Z",
+      "claimed_at": "2026-02-24T10:34:24.541Z"
     },
     {
       "id": "sleep-on-it_41b9a64e",
@@ -21052,10 +21078,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/sleep-on-it_41b9a64e.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:35:30.000Z",
+      "claimed_at": "2026-02-24T10:34:49.474Z"
     },
     {
       "id": "steal-the-show_09f4bc63",
@@ -21064,10 +21091,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/steal-the-show_09f4bc63.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:35:52.228Z",
+      "claimed_at": "2026-02-24T10:35:07.055Z"
     },
     {
       "id": "step-up-to-the-plate_709e732d",
@@ -21076,10 +21104,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/step-up-to-the-plate_709e732d.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:36:18.851Z",
+      "claimed_at": "2026-02-24T10:35:23.466Z"
     },
     {
       "id": "stretch-the-truth_78f7b37b",
@@ -21088,10 +21117,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/stretch-the-truth_78f7b37b.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:35:46.863Z",
+      "claimed_at": "2026-02-24T10:35:46.863Z"
     },
     {
       "id": "take-the-bull-by-the-horns_a5a8ad3e",
@@ -21100,10 +21130,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/take-the-bull-by-the-horns_a5a8ad3e.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:36:53.616Z",
+      "claimed_at": "2026-02-24T10:36:04.120Z"
     },
     {
       "id": "talk-the-talk_dc747f70",
@@ -21112,10 +21143,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/talk-the-talk_dc747f70.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:37:00.000Z",
+      "claimed_at": "2026-02-24T10:36:31.510Z"
     },
     {
       "id": "the-ball-is-in-your-court_656b4c8d",
@@ -21124,10 +21156,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/the-ball-is-in-your-court_656b4c8d.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:37:00.000Z",
+      "claimed_at": "2026-02-24T10:36:44.554Z"
     },
     {
       "id": "the-bigger-picture_d56418e6",
@@ -21136,10 +21169,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/the-bigger-picture_d56418e6.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:37:05.965Z",
+      "claimed_at": "2026-02-24T10:37:05.965Z"
     },
     {
       "id": "think-outside-the-box_dab4560c",
@@ -21148,10 +21182,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/think-outside-the-box_dab4560c.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:38:00.000Z",
+      "claimed_at": "2026-02-24T10:37:29.751Z"
     },
     {
       "id": "time-flies_44b280f7",
@@ -21160,10 +21195,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "A2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/time-flies_44b280f7.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:37:41.722Z",
+      "claimed_at": "2026-02-24T10:37:41.722Z"
     },
     {
       "id": "turn-a-blind-eye_53f8e85c",
@@ -21172,10 +21208,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/turn-a-blind-eye_53f8e85c.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:38:53.000Z",
+      "claimed_at": "2026-02-24T10:38:12.452Z"
     },
     {
       "id": "under-the-radar_d461e6e6",
@@ -21184,10 +21221,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/under-the-radar_d461e6e6.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:38:30.934Z",
+      "claimed_at": "2026-02-24T10:38:30.934Z"
     },
     {
       "id": "up-in-the-air_36abb152",
@@ -21196,10 +21234,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/up-in-the-air_36abb152.json",
       "added_at": "2026-02-23T12:37:18.254Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:38:38.984Z",
+      "claimed_at": "2026-02-24T10:38:38.984Z"
     },
     {
       "id": "bite-the-bullet_b53443f5",
@@ -21208,10 +21247,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/bite-the-bullet_b53443f5.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:39:10.088Z",
+      "claimed_at": "2026-02-24T10:39:10.088Z"
     },
     {
       "id": "break-even_7a26786c",
@@ -21220,10 +21260,11 @@
       "domain": "business",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/break-even_7a26786c.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:40:00.000Z",
+      "claimed_at": "2026-02-24T10:39:52.231Z"
     },
     {
       "id": "bring-home-the-bacon_e2aba7d6",
@@ -21232,10 +21273,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/bring-home-the-bacon_e2aba7d6.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:42:00.000Z",
+      "claimed_at": "2026-02-24T10:40:12.390Z"
     },
     {
       "id": "call-it-a-day_ce6977db",
@@ -21244,10 +21286,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/call-it-a-day_ce6977db.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:40:14.295Z",
+      "claimed_at": "2026-02-24T10:40:14.295Z"
     },
     {
       "id": "can't-see-the-wood-for-the-trees_3ffbc870",
@@ -21256,10 +21299,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/can't-see-the-wood-for-the-trees_3ffbc870.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:41:00.000Z",
+      "claimed_at": "2026-02-24T10:40:56.731Z"
     },
     {
       "id": "carry-the-day_34f3e6a3",
@@ -21268,10 +21312,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/carry-the-day_34f3e6a3.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:41:20.501Z",
+      "claimed_at": "2026-02-24T10:41:20.501Z"
     },
     {
       "id": "come-to-a-head_e98e482f",
@@ -21280,10 +21325,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/come-to-a-head_e98e482f.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:41:38.385Z",
+      "claimed_at": "2026-02-24T10:41:38.385Z"
     },
     {
       "id": "cost-an-arm-and-a-leg_25797a36",
@@ -21292,10 +21338,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/cost-an-arm-and-a-leg_25797a36.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:42:00.000Z",
+      "claimed_at": "2026-02-24T10:41:54.349Z"
     },
     {
       "id": "count-your-blessings_5443dd35",
@@ -21304,10 +21351,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/count-your-blessings_5443dd35.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:42:21.363Z",
+      "claimed_at": "2026-02-24T10:42:21.363Z"
     },
     {
       "id": "cross-that-bridge-when-you-come-to-it_ff4953bb",
@@ -21316,10 +21364,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/cross-that-bridge-when-you-come-to-it_ff4953bb.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:43:00.000Z",
+      "claimed_at": "2026-02-24T10:42:56.892Z"
     },
     {
       "id": "dig-your-own-grave_a6cc8c57",
@@ -21328,10 +21377,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/dig-your-own-grave_a6cc8c57.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:43:00.000Z",
+      "claimed_at": "2026-02-24T10:42:56.964Z"
     },
     {
       "id": "drive-a-hard-bargain_e1fecd28",
@@ -21340,10 +21390,11 @@
       "domain": "business",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/drive-a-hard-bargain_e1fecd28.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:43:26.238Z",
+      "claimed_at": "2026-02-24T10:43:26.238Z"
     },
     {
       "id": "drop-the-ball_7e54d82f",
@@ -21352,10 +21403,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/drop-the-ball_7e54d82f.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:44:00.000Z",
+      "claimed_at": "2026-02-24T10:43:59.520Z"
     },
     {
       "id": "eat-humble-pie_3807010e",
@@ -21364,10 +21416,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/eat-humble-pie_3807010e.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:44:12.783Z",
+      "claimed_at": "2026-02-24T10:44:12.783Z"
     },
     {
       "id": "eye-for-an-eye_5f748e1e",
@@ -21376,10 +21429,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/eye-for-an-eye_5f748e1e.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T00:00:00.000Z",
+      "claimed_at": "2026-02-24T10:44:27.322Z"
     },
     {
       "id": "fall-flat_2205a5fa",
@@ -21388,10 +21442,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/fall-flat_2205a5fa.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:45:09.515Z",
+      "claimed_at": "2026-02-24T10:45:09.515Z"
     },
     {
       "id": "feel-left-out_f66c89c1",
@@ -21400,10 +21455,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/feel-left-out_f66c89c1.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:46:05.801Z",
+      "claimed_at": "2026-02-24T10:45:12.460Z"
     },
     {
       "id": "get-ahead-of-yourself_230db1a0",
@@ -21412,10 +21468,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/get-ahead-of-yourself_230db1a0.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:46:25.852Z",
+      "claimed_at": "2026-02-24T10:45:42.789Z"
     },
     {
       "id": "get-the-ball-rolling_ead155d8",
@@ -21424,10 +21481,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/get-the-ball-rolling_ead155d8.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:46:51.410Z",
+      "claimed_at": "2026-02-24T10:46:07.912Z"
     },
     {
       "id": "give-the-benefit-of-the-doubt_86a6846c",
@@ -21436,10 +21494,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/give-the-benefit-of-the-doubt_86a6846c.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:46:14.662Z",
+      "claimed_at": "2026-02-24T10:46:14.662Z"
     },
     {
       "id": "give-and-take_da297c15",
@@ -21448,10 +21507,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/give-and-take_da297c15.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:47:00.000Z",
+      "claimed_at": "2026-02-24T10:46:36.788Z"
     },
     {
       "id": "go-down-in-flames_93c0f346",
@@ -21460,10 +21520,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/go-down-in-flames_93c0f346.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:47:44.988Z",
+      "claimed_at": "2026-02-24T10:46:58.425Z"
     },
     {
       "id": "go-out-on-a-limb_7c61b396",
@@ -21472,10 +21533,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/go-out-on-a-limb_7c61b396.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:48:00.000Z",
+      "claimed_at": "2026-02-24T10:47:39.965Z"
     },
     {
       "id": "go-to-great-lengths_6fb3d42a",
@@ -21484,10 +21546,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/go-to-great-lengths_6fb3d42a.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:48:41.108Z",
+      "claimed_at": "2026-02-24T10:47:53.594Z"
     },
     {
       "id": "grow-on-you_bba64f97",
@@ -21496,10 +21559,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/grow-on-you_bba64f97.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:48:47.439Z",
+      "claimed_at": "2026-02-24T10:47:53.956Z"
     },
     {
       "id": "have-a-finger-in-every-pie_69931502",
@@ -21508,10 +21572,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/have-a-finger-in-every-pie_69931502.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:49:00.000Z",
+      "claimed_at": "2026-02-24T10:48:48.430Z"
     },
     {
       "id": "have-mixed-feelings_5b99affd",
@@ -21520,10 +21585,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/have-mixed-feelings_5b99affd.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:49:49.018Z",
+      "claimed_at": "2026-02-24T10:48:50.381Z"
     },
     {
       "id": "have-the-last-laugh_5c21fa63",
@@ -21532,10 +21598,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/have-the-last-laugh_5c21fa63.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:49:00.000Z",
+      "claimed_at": "2026-02-24T10:48:58.600Z"
     },
     {
       "id": "hit-below-the-belt_88e1f607",
@@ -21544,10 +21611,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/hit-below-the-belt_88e1f607.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:50:00.000Z",
+      "claimed_at": "2026-02-24T10:49:57.119Z"
     },
     {
       "id": "hit-the-nail-on-the-head_b113c25c",
@@ -21556,10 +21624,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/hit-the-nail-on-the-head_b113c25c.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:50:09.718Z",
+      "claimed_at": "2026-02-24T10:50:09.718Z"
     },
     {
       "id": "hold-your-horses_7dad209e",
@@ -21568,10 +21637,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/hold-your-horses_7dad209e.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:52:00.000Z",
+      "claimed_at": "2026-02-24T10:50:39.812Z"
     },
     {
       "id": "keep-your-cards-close-to-your-chest_34e934b3",
@@ -21580,10 +21650,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/keep-your-cards-close-to-your-chest_34e934b3.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:52:00.000Z",
+      "claimed_at": "2026-02-24T10:51:06.444Z"
     },
     {
       "id": "lay-your-cards-on-the-table_9a67d866",
@@ -21592,10 +21663,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/lay-your-cards-on-the-table_9a67d866.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:51:08.000Z",
+      "claimed_at": "2026-02-24T10:51:07.837Z"
     },
     {
       "id": "learn-the-ropes_d0d6b5cc",
@@ -21604,10 +21676,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/learn-the-ropes_d0d6b5cc.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:52:01.000Z",
+      "claimed_at": "2026-02-24T10:51:37.119Z"
     },
     {
       "id": "let-the-dust-settle_72dd32b1",
@@ -21616,10 +21689,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/let-the-dust-settle_72dd32b1.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:52:58.526Z",
+      "claimed_at": "2026-02-24T10:52:09.632Z"
     },
     {
       "id": "light-at-the-end-of-the-tunnel_cdbea803",
@@ -21628,10 +21702,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/light-at-the-end-of-the-tunnel_cdbea803.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:52:28.000Z",
+      "claimed_at": "2026-02-24T10:52:28.549Z"
     },
     {
       "id": "meet-halfway_e2cd6d05",
@@ -21640,10 +21715,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/meet-halfway_e2cd6d05.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:52:39.667Z",
+      "claimed_at": "2026-02-24T10:52:39.667Z"
     },
     {
       "id": "nail-your-colors-to-the-mast_43150d1b",
@@ -21652,10 +21728,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/nail-your-colors-to-the-mast_43150d1b.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:00:00.000Z",
+      "claimed_at": "2026-02-24T10:53:09.371Z"
     },
     {
       "id": "no-pain-no-gain_77e79ca7",
@@ -21664,10 +21741,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "A2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/no-pain-no-gain_77e79ca7.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:53:38.129Z",
+      "claimed_at": "2026-02-24T10:53:38.129Z"
     },
     {
       "id": "not-pull-any-punches_2a7aa268",
@@ -21676,10 +21754,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/not-pull-any-punches_2a7aa268.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:53:47.868Z",
+      "claimed_at": "2026-02-24T10:53:47.868Z"
     },
     {
       "id": "nothing-ventured-nothing-gained_4ece26ed",
@@ -21688,10 +21767,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/nothing-ventured-nothing-gained_4ece26ed.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:54:18.362Z",
+      "claimed_at": "2026-02-24T10:54:18.362Z"
     },
     {
       "id": "off-the-top-of-your-head_5071d7b4",
@@ -21700,10 +21780,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/off-the-top-of-your-head_5071d7b4.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:54:32.649Z",
+      "claimed_at": "2026-02-24T10:54:32.649Z"
     },
     {
       "id": "on-a-roll_e38f0477",
@@ -21712,10 +21793,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/on-a-roll_e38f0477.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:55:00.000Z",
+      "claimed_at": "2026-02-24T10:54:49.990Z"
     },
     {
       "id": "on-cloud-nine_f9b1d370",
@@ -21724,10 +21806,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/on-cloud-nine_f9b1d370.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:56:04.525Z",
+      "claimed_at": "2026-02-24T10:55:14.888Z"
     },
     {
       "id": "on-the-back-burner_8e046e7d",
@@ -21736,10 +21819,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/on-the-back-burner_8e046e7d.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:56:35.834Z",
+      "claimed_at": "2026-02-24T10:55:48.793Z"
     },
     {
       "id": "on-the-tip-of-your-tongue_2a544800",
@@ -21748,10 +21832,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/on-the-tip-of-your-tongue_2a544800.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:00:00.000Z",
+      "claimed_at": "2026-02-24T10:55:50.523Z"
     },
     {
       "id": "open-a-can-of-worms_fdcc092e",
@@ -21760,10 +21845,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/open-a-can-of-worms_fdcc092e.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:00:00.000Z",
+      "claimed_at": "2026-02-24T10:56:14.975Z"
     },
     {
       "id": "out-of-your-depth_4933a257",
@@ -21772,10 +21858,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/out-of-your-depth_4933a257.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:57:44.969Z",
+      "claimed_at": "2026-02-24T10:56:46.485Z"
     },
     {
       "id": "paint-yourself-into-a-corner_e8202a5f",
@@ -21784,10 +21871,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/paint-yourself-into-a-corner_e8202a5f.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:57:54.449Z",
+      "claimed_at": "2026-02-24T10:57:12.631Z"
     },
     {
       "id": "play-it-by-ear_5748ae1b",
@@ -21796,10 +21884,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/play-it-by-ear_5748ae1b.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:58:18.039Z",
+      "claimed_at": "2026-02-24T10:57:27.642Z"
     },
     {
       "id": "pull-strings_b85199dc",
@@ -21808,10 +21897,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/pull-strings_b85199dc.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:58:00.000Z",
+      "claimed_at": "2026-02-24T10:57:53.064Z"
     },
     {
       "id": "push-the-envelope_7125760e",
@@ -21820,10 +21910,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/push-the-envelope_7125760e.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:58:56.644Z",
+      "claimed_at": "2026-02-24T10:58:03.076Z"
     },
     {
       "id": "put-your-money-where-your-mouth-is_a7a8bc65",
@@ -21832,10 +21923,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/put-your-money-where-your-mouth-is_a7a8bc65.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:58:29.916Z",
+      "claimed_at": "2026-02-24T10:58:29.916Z"
     },
     {
       "id": "rain-on-someone's-parade_440c2ea2",
@@ -21844,10 +21936,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/rain-on-someone's-parade_440c2ea2.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:59:00.000Z",
+      "claimed_at": "2026-02-24T10:58:49.077Z"
     },
     {
       "id": "ring-a-bell_66ad638f",
@@ -21856,10 +21949,11 @@
       "domain": "daily",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/ring-a-bell_66ad638f.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T10:59:08.529Z",
+      "claimed_at": "2026-02-24T10:59:08.529Z"
     },
     {
       "id": "rub-salt-in-the-wound_5d8202bf",
@@ -21868,10 +21962,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/rub-salt-in-the-wound_5d8202bf.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:00:00.000Z",
+      "claimed_at": "2026-02-24T10:59:52.486Z"
     },
     {
       "id": "run-the-show_3dd3132a",
@@ -21880,10 +21975,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/run-the-show_3dd3132a.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:01:02.064Z",
+      "claimed_at": "2026-02-24T11:00:12.895Z"
     },
     {
       "id": "seal-the-deal_187ad9bc",
@@ -21892,10 +21988,11 @@
       "domain": "business",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/seal-the-deal_187ad9bc.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:01:04.058Z",
+      "claimed_at": "2026-02-24T11:00:13.909Z"
     },
     {
       "id": "set-the-tone_fb30b9e0",
@@ -21904,10 +22001,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/set-the-tone_fb30b9e0.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:01:10.000Z",
+      "claimed_at": "2026-02-24T11:00:53.136Z"
     },
     {
       "id": "strike-while-the-iron-is-hot_97b1c018",
@@ -21916,10 +22014,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/strike-while-the-iron-is-hot_97b1c018.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:01:59.825Z",
+      "claimed_at": "2026-02-24T11:01:14.428Z"
     },
     {
       "id": "swim-against-the-tide_565fafa0",
@@ -21928,10 +22027,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/swim-against-the-tide_565fafa0.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:01:53.788Z",
+      "claimed_at": "2026-02-24T11:01:15.450Z"
     },
     {
       "id": "take-the-plunge_28f25425",
@@ -21940,10 +22040,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/take-the-plunge_28f25425.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:02:30.000Z",
+      "claimed_at": "2026-02-24T11:02:01.509Z"
     },
     {
       "id": "the-whole-nine-yards_f6017233",
@@ -21952,10 +22053,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/the-whole-nine-yards_f6017233.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:02:07.127Z",
+      "claimed_at": "2026-02-24T11:02:07.127Z"
     },
     {
       "id": "twist-someone's-arm_e6b5bbbf",
@@ -21964,10 +22066,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/twist-someone's-arm_e6b5bbbf.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:03:07.524Z",
+      "claimed_at": "2026-02-24T11:02:10.525Z"
     },
     {
       "id": "under-someone's-thumb_d447814e",
@@ -21976,10 +22079,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/under-someone's-thumb_d447814e.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:03:07.524Z",
+      "claimed_at": "2026-02-24T11:03:05.139Z"
     },
     {
       "id": "win-win-situation_95bf4433",
@@ -21988,10 +22092,11 @@
       "domain": "business",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/win-win-situation_95bf4433.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:03:17.997Z",
+      "claimed_at": "2026-02-24T11:03:17.997Z"
     },
     {
       "id": "you-can't-have-your-cake-and-eat-it-too_2ce4f4a8",
@@ -22000,10 +22105,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/you-can't-have-your-cake-and-eat-it-too_2ce4f4a8.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:03:19.964Z",
+      "claimed_at": "2026-02-24T11:03:19.964Z"
     },
     {
       "id": "zero-in-on_8b7e00df",
@@ -22012,10 +22118,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/zero-in-on_8b7e00df.json",
       "added_at": "2026-02-23T12:38:10.796Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:03:50.230Z",
+      "claimed_at": "2026-02-24T11:03:50.230Z"
     },
     {
       "id": "beat-around-the-bush_36b3afff",
@@ -22024,10 +22131,11 @@
       "domain": "general",
       "type": "idiom",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/beat-around-the-bush_36b3afff.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:05:14.929Z",
+      "claimed_at": "2026-02-24T11:04:30.523Z"
     },
     {
       "id": "big-picture-thinking_bc9fc16c",
@@ -22036,10 +22144,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/big-picture-thinking_bc9fc16c.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:05:54.552Z",
+      "claimed_at": "2026-02-24T11:04:48.473Z"
     },
     {
       "id": "break-a-sweat_6cd5fecc",
@@ -22048,10 +22157,11 @@
       "domain": "daily",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/break-a-sweat_6cd5fecc.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:06:02.150Z",
+      "claimed_at": "2026-02-24T11:04:58.691Z"
     },
     {
       "id": "bridge-the-gap_4021856b",
@@ -22060,10 +22170,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/bridge-the-gap_4021856b.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:06:16.163Z",
+      "claimed_at": "2026-02-24T11:05:21.764Z"
     },
     {
       "id": "build-resilience_9892a483",
@@ -22072,10 +22183,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/build-resilience_9892a483.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:06:30.000Z",
+      "claimed_at": "2026-02-24T11:06:06.672Z"
     },
     {
       "id": "channel-your-energy_ec876c2e",
@@ -22084,10 +22196,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/channel-your-energy_ec876c2e.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:07:11.086Z",
+      "claimed_at": "2026-02-24T11:06:14.169Z"
     },
     {
       "id": "close-the-deal_4d0d027b",
@@ -22096,10 +22209,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/close-the-deal_4d0d027b.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:06:23.850Z",
+      "claimed_at": "2026-02-24T11:06:23.850Z"
     },
     {
       "id": "commit-to-a-goal_cdcd36d8",
@@ -22108,10 +22222,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/commit-to-a-goal_cdcd36d8.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:07:13.000Z",
+      "claimed_at": "2026-02-24T11:07:12.857Z"
     },
     {
       "id": "conquer-your-fears_972bb68b",
@@ -22120,10 +22235,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/conquer-your-fears_972bb68b.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:08:00.000Z",
+      "claimed_at": "2026-02-24T11:07:20.058Z"
     },
     {
       "id": "crush-it_3749e3da",
@@ -22132,10 +22248,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/crush-it_3749e3da.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T00:00:00.000Z",
+      "claimed_at": "2026-02-24T11:07:24.765Z"
     },
     {
       "id": "cultivate-relationships_5a3ccb5a",
@@ -22144,10 +22261,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/cultivate-relationships_5a3ccb5a.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:08:58.740Z",
+      "claimed_at": "2026-02-24T11:08:08.324Z"
     },
     {
       "id": "define-your-purpose_801b74e6",
@@ -22156,10 +22274,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/define-your-purpose_801b74e6.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:10:00.000Z",
+      "claimed_at": "2026-02-24T11:08:18.138Z"
     },
     {
       "id": "dig-deeper_9b98b32f",
@@ -22168,10 +22287,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/dig-deeper_9b98b32f.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:09:00.000Z",
+      "claimed_at": "2026-02-24T11:08:40.426Z"
     },
     {
       "id": "do-your-homework_3f9c2c0d",
@@ -22180,10 +22300,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/do-your-homework_3f9c2c0d.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:09:30.000Z",
+      "claimed_at": "2026-02-24T11:09:06.139Z"
     },
     {
       "id": "double-down_2f0d96a6",
@@ -22192,10 +22313,11 @@
       "domain": "general",
       "type": "phrasal_verb",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/double-down_2f0d96a6.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:10:04.636Z",
+      "claimed_at": "2026-02-24T11:09:19.172Z"
     },
     {
       "id": "draw-inspiration-from_9591aa83",
@@ -22204,10 +22326,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/draw-inspiration-from_9591aa83.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:10:56.256Z",
+      "claimed_at": "2026-02-24T11:09:55.150Z"
     },
     {
       "id": "dream-big_c73872ba",
@@ -22216,10 +22339,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "A2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/dream-big_c73872ba.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:10:12.323Z",
+      "claimed_at": "2026-02-24T11:10:12.323Z"
     },
     {
       "id": "drive-results_43f42a46",
@@ -22228,10 +22352,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/drive-results_43f42a46.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:11:34.669Z",
+      "claimed_at": "2026-02-24T11:10:38.021Z"
     },
     {
       "id": "earn-respect_8b6b820f",
@@ -22240,10 +22365,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/earn-respect_8b6b820f.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:11:08.156Z",
+      "claimed_at": "2026-02-24T11:11:08.156Z"
     },
     {
       "id": "establish-trust_34409a32",
@@ -22252,10 +22378,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/establish-trust_34409a32.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:11:12.672Z",
+      "claimed_at": "2026-02-24T11:11:12.672Z"
     },
     {
       "id": "execute-flawlessly_1af72003",
@@ -22264,10 +22391,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/execute-flawlessly_1af72003.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:12:00.000Z",
+      "claimed_at": "2026-02-24T11:11:46.145Z"
     },
     {
       "id": "expand-your-network_950eeee4",
@@ -22276,10 +22404,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/expand-your-network_950eeee4.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:12:13.872Z",
+      "claimed_at": "2026-02-24T11:12:13.872Z"
     },
     {
       "id": "fail-forward_7da52aa5",
@@ -22288,10 +22417,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/fail-forward_7da52aa5.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:12:14.115Z",
+      "claimed_at": "2026-02-24T11:12:14.115Z"
     },
     {
       "id": "fall-into-place_f4bb468a",
@@ -22300,10 +22430,11 @@
       "domain": "general",
       "type": "phrasal_verb",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/fall-into-place_f4bb468a.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:13:30.000Z",
+      "claimed_at": "2026-02-24T11:12:57.998Z"
     },
     {
       "id": "foster-collaboration_400d8d04",
@@ -22312,10 +22443,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/foster-collaboration_400d8d04.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:13:30.000Z",
+      "claimed_at": "2026-02-24T11:13:18.288Z"
     },
     {
       "id": "fuel-growth_cdce53da",
@@ -22324,10 +22456,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/fuel-growth_cdce53da.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:14:00.000Z",
+      "claimed_at": "2026-02-24T11:13:29.557Z"
     },
     {
       "id": "gain-traction_bdb0fe65",
@@ -22336,10 +22469,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/gain-traction_bdb0fe65.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:14:46.811Z",
+      "claimed_at": "2026-02-24T11:13:58.416Z"
     },
     {
       "id": "generate-buzz_13702a1e",
@@ -22348,10 +22482,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/generate-buzz_13702a1e.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:14:20.000Z",
+      "claimed_at": "2026-02-24T11:14:16.114Z"
     },
     {
       "id": "get-buy-in_a39159ba",
@@ -22360,10 +22495,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/get-buy-in_a39159ba.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:15:00.000Z",
+      "claimed_at": "2026-02-24T11:14:41.822Z"
     },
     {
       "id": "get-momentum_ac3e287e",
@@ -22372,10 +22508,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/get-momentum_ac3e287e.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:15:00.000Z",
+      "claimed_at": "2026-02-24T11:14:55.777Z"
     },
     {
       "id": "get-results_e336caf9",
@@ -22384,10 +22521,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
+      "status": "in_progress",
       "bundle_path": null,
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": null,
+      "claimed_at": "2026-02-24T11:15:24.109Z"
     },
     {
       "id": "give-back_6143381a",
@@ -22396,10 +22534,11 @@
       "domain": "general",
       "type": "phrasal_verb",
       "level": "B1",
-      "status": "pending",
+      "status": "in_progress",
       "bundle_path": null,
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": null,
+      "claimed_at": "2026-02-24T11:15:44.965Z"
     },
     {
       "id": "grab-attention_9598a35e",

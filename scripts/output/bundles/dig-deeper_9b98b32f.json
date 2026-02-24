@@ -1,0 +1,30 @@
+{
+  "id": "dig-deeper_9b98b32f",
+  "expression": "dig deeper",
+  "selectionMeta": {
+    "selectedPhrase": "dig deeper",
+    "selectedSenseLabelKo": "더 깊이 파고들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before accepting the report at face value, the journalist decided to dig deeper and uncover the real story behind the numbers."
+  },
+  "step2": {
+    "story": "Maria noticed that her team's sales were declining but couldn't figure out why. She decided to dig deeper and spent two days analyzing customer feedback and call logs. What she found surprised everyone — most customers were leaving because of a confusing billing process, not the product itself.",
+    "topicTag": "problem solving",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Dr. Patel reviewed the initial test results, something felt off — the numbers were too clean, almost suspiciously perfect. Instead of moving on, he chose to dig deeper into the raw data and compare it against historical records. He stayed late in the lab, cross-referencing sample batches and running additional analyses. Slowly, a pattern emerged: a calibration error had been skewing every reading for weeks. Had he not dug deeper, the faulty data would have influenced months of critical research. His persistence not only corrected the study but also strengthened the entire team's quality review process.",
+    "topicTag": "scientific research",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '더 깊이 파다'라는 뜻으로, 땅을 더 깊게 파는 행위를 가리킵니다.",
+    "realUsageKo": "실제로는 어떤 문제나 주제를 표면적으로만 보지 않고 더 철저하게 조사하거나 분석할 때 사용합니다. 연구, 취재, 업무 분석 등 다양한 상황에서 쓰입니다.",
+    "etymologyKo": "'dig'는 고대 영어 *dīcian*에서 유래해 '땅을 파다'는 의미였고, 비유적으로 '깊이 탐구하다'는 뜻으로 발전했습니다. 'deeper'는 비교급으로, 현재의 수준보다 한 단계 더 나아가는 것을 강조합니다.",
+    "nuanceKo": "단순한 조사가 아니라 기존보다 한 단계 더 나아가는 추가적인 노력을 함의합니다. 비판적 사고, 탐구 정신, 꼼꼼함과 같은 긍정적인 뉘앙스를 띠며, 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "The auditor had to dig deeper to find where the missing funds had gone.",
+    "shortExampleKo": "감사관은 사라진 자금이 어디로 갔는지 알아내기 위해 더 깊이 파고들어야 했다."
+  }
+}

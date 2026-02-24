@@ -1,0 +1,30 @@
+{
+  "id": "grow-on-you_bba64f97",
+  "expression": "grow on you",
+  "selectionMeta": {
+    "selectedPhrase": "grow on you",
+    "selectedSenseLabelKo": "점점 좋아지다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I wasn't sure about the new neighborhood at first, but it really started to grow on me after a few weeks."
+  },
+  "step2": {
+    "story": "Mia reluctantly tried a new jazz café her friend had recommended. The music felt strange at first, but by her third visit, it had started to grow on her. Now she goes every Sunday without fail.",
+    "topicTag": "personal taste",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Daniel transferred to a new office, he found the open-plan layout distracting and the constant chatter exhausting. He missed his old quiet corner desk and nearly asked to work from home permanently. But after a month of small talk over coffee and impromptu lunch groups, the lively atmosphere began to grow on him. He realized he was arriving earlier than he needed to, just to catch up with colleagues before the day started. By the end of the quarter, he couldn't imagine going back to working alone.",
+    "topicTag": "workplace adjustment",
+    "moodTag": "gradually uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '당신에게 자라다'라는 뜻으로, 무언가가 시간이 지나면서 점점 더 마음에 들게 된다는 의미입니다.",
+    "realUsageKo": "처음에는 별로였던 음악, 장소, 사람, 음식 등이 시간이 지남에 따라 점점 좋아지거나 익숙해질 때 사용합니다.",
+    "etymologyKo": "18세기 영어에서 유래한 표현으로, 식물이 서서히 자라듯 감정이나 취향이 천천히 커져간다는 비유에서 비롯되었습니다.",
+    "nuanceKo": "처음의 거부감이나 무관심을 전제로 하며, 변화가 자연스럽고 점진적임을 강조하는 따뜻하고 긍정적인 뉘앙스를 가집니다.",
+    "shortExampleEn": "The song didn't impress me at first, but it really grew on me.",
+    "shortExampleKo": "처음에는 그 노래가 별로였는데, 점점 좋아지더라고."
+  }
+}
