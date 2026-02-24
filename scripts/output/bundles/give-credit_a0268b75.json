@@ -1,0 +1,30 @@
+{
+  "id": "give-credit_a0268b75",
+  "expression": "give credit",
+  "selectionMeta": {
+    "selectedPhrase": "give credit",
+    "selectedSenseLabelKo": "공을 인정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You should give credit to the entire team, not just the project lead, for making this launch a success."
+  },
+  "step2": {
+    "story": "After the product launch went viral, the CEO stood up at the all-hands meeting and made sure to give credit to every single engineer and designer who had worked weekends to meet the deadline. The room erupted in applause, and for the first time in months, the team felt truly seen. That moment of recognition changed the entire culture of the company.",
+    "topicTag": "workplace recognition",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "Maya had been quietly fixing bugs and optimizing the codebase for months while her manager, Dylan, presented the results to upper management as if they were his own achievements. One day, the VP of Engineering visited the team and asked who was behind the impressive performance improvements. Dylan hesitated, but a senior colleague spoke up and said it was all Maya's work. The VP turned to Dylan and said, \"You need to give credit where it's due — that's what real leadership looks like.\" Dylan's face turned red, and he mumbled an apology. From that day on, Maya made sure to document her contributions, and the team adopted a practice of publicly acknowledging each person's role in every project review.",
+    "topicTag": "fairness at work",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 '크레딧(공로)'을 '준다(give)'는 뜻으로, 직역하면 '공을 돌리다'입니다.",
+    "realUsageKo": "어떤 성과나 결과에 대해 실제로 기여한 사람의 노력과 역할을 인정하고 칭찬할 때 사용합니다. 'give credit to someone' 또는 'give someone credit' 형태로 씁니다.",
+    "etymologyKo": "'credit'은 라틴어 'creditum(신뢰, 믿음)'에서 유래했으며, 원래 금융에서 '신용'을 뜻했지만 점차 '공로, 인정'이라는 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 칭찬보다 공식적이고 공정한 느낌이 있으며, 특히 직장이나 팀 환경에서 누군가의 기여를 정당하게 인정할 때 자주 씁니다. 'Give credit where credit is due(공이 있는 곳에 공을 돌려라)'라는 관용 표현도 매우 흔합니다.",
+    "shortExampleEn": "I have to give credit to Sarah — she came up with the entire marketing strategy.",
+    "shortExampleKo": "Sarah의 공을 인정해야 해 — 마케팅 전략 전체를 그녀가 구상한 거거든."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "overcome-limitations_b7cfff46",
+  "expression": "overcome limitations",
+  "selectionMeta": {
+    "selectedPhrase": "overcome limitations",
+    "selectedSenseLabelKo": "한계를 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of intense training, she finally managed to overcome limitations that had held her back from competing at the national level."
+  },
+  "step2": {
+    "story": "Jake was born with a hearing impairment, but he refused to let it define his future. He learned to read lips, studied harder than anyone in his class, and eventually earned a scholarship to a top university. By choosing to overcome limitations rather than accept them, he proved that determination matters more than circumstance.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "When Mia joined the engineering team, she was the only member without a formal degree. Her colleagues doubted her abilities, and she doubted herself. But instead of shrinking away, she spent every evening studying textbooks and watching tutorials. Within six months, she had designed a component that reduced production costs by fifteen percent. Her manager told the whole department that Mia was living proof of what happens when someone decides to overcome limitations. From that day on, nobody questioned her place on the team.",
+    "topicTag": "career development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "제한이나 한계를 넘어서다, 극복하다라는 뜻입니다.",
+    "realUsageKo": "신체적, 환경적, 심리적 제약을 노력이나 의지로 뛰어넘을 때 사용합니다. 자기계발, 동기부여 맥락에서 자주 쓰이며, 단순한 문제 해결보다는 근본적인 장벽을 돌파하는 뉘앙스가 있습니다.",
+    "etymologyKo": "overcome은 고대 영어 ofercuman(정복하다)에서 유래했고, limitation은 라틴어 limitatio(경계 설정)에서 왔습니다. 두 단어가 결합해 '설정된 경계를 정복하다'라는 의미를 갖게 되었습니다.",
+    "nuanceKo": "격식적이면서도 긍정적인 어조를 가집니다. 연설, 자기소개서, 동기부여 글에서 자주 사용되며, 단순히 문제를 피하는 것이 아니라 정면으로 부딪혀 극복한다는 적극적인 느낌을 줍니다.",
+    "shortExampleEn": "With the right mindset, you can overcome limitations and achieve things you never thought possible.",
+    "shortExampleKo": "올바른 마음가짐만 있으면, 한계를 극복하고 불가능하다고 생각했던 일도 이룰 수 있습니다."
+  }
+}

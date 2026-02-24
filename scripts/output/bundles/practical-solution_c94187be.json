@@ -1,0 +1,30 @@
+{
+  "id": "practical-solution_c94187be",
+  "expression": "practical solution",
+  "selectionMeta": {
+    "selectedPhrase": "practical solution",
+    "selectedSenseLabelKo": "실용적인 해결책",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hours of debating, the team finally came up with a practical solution that everyone could agree on."
+  },
+  "step2": {
+    "story": "The office had been struggling with constant scheduling conflicts for months. Instead of buying expensive software, Maya suggested a simple shared spreadsheet where everyone could mark their availability. It was a practical solution that saved the company both time and money.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "When the city announced budget cuts to the community garden, residents feared it would be shut down permanently. Dozens of people attended the town hall meeting, but most proposals were either too expensive or too complicated to implement. Then a retired engineer named Mr. Park stood up and proposed dividing maintenance duties among volunteers on a rotating weekly schedule. The mayor paused, clearly impressed by such a practical solution to what had seemed like an impossible problem. Within a week, over fifty families had signed up for shifts. The garden not only survived but thrived more than ever before.",
+    "topicTag": "community",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'practical'은 '실용적인, 현실적인', 'solution'은 '해결책'으로, 직역하면 '실용적인 해결책'입니다.",
+    "realUsageKo": "이론적이거나 이상적인 방법이 아니라, 현실에서 실제로 적용 가능하고 효과적인 해결 방법을 말할 때 사용합니다. 비용, 시간, 자원 등 현실적 제약을 고려한 합리적인 대안을 강조할 때 자주 쓰입니다.",
+    "etymologyKo": "'practical'은 그리스어 'praktikos(실행에 관한)'에서 유래했고, 'solution'은 라틴어 'solutio(풀기, 해소)'에서 왔습니다. 두 단어가 결합하여 '실행 가능한 해결책'이라는 의미의 자연스러운 연어(collocation)를 형성합니다.",
+    "nuanceKo": "이 표현은 공상적이거나 비현실적인 아이디어와 대비되는 느낌을 줍니다. 비즈니스, 엔지니어링, 일상 문제 해결 등 다양한 맥락에서 '현실 감각 있는 접근'이라는 긍정적 뉘앙스로 사용됩니다.",
+    "shortExampleEn": "We need a practical solution, not just another theory.",
+    "shortExampleKo": "우리는 또 다른 이론이 아니라 실용적인 해결책이 필요합니다."
+  }
+}

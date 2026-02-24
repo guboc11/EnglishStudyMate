@@ -1,0 +1,30 @@
+{
+  "id": "keep-pace-with_99b20dc2",
+  "expression": "keep pace with",
+  "selectionMeta": {
+    "selectedPhrase": "keep pace with",
+    "selectedSenseLabelKo": "보조를 맞추다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Small businesses often struggle to keep pace with rapid changes in technology."
+  },
+  "step2": {
+    "story": "Jenna had always been a top performer, but after the company adopted three new software platforms in a single quarter, she found it nearly impossible to keep pace with all the updates. She stayed late every evening, watching tutorials and taking notes. By the end of the month, her effort paid off and she felt confident navigating every tool.",
+    "topicTag": "workplace adaptation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Marco moved from a quiet countryside town to Seoul for his new marketing role, the speed of city life hit him like a wall. Meetings were scheduled back to back, trends shifted overnight, and his colleagues seemed to operate at double speed. For the first few weeks, he could barely keep pace with the endless flow of emails and project updates. He started waking up an hour earlier to plan his day and began asking senior colleagues for advice on managing the workload. Slowly, the chaos turned into a rhythm he could follow. Three months later, Marco wasn't just keeping pace with his team — he was setting it.",
+    "topicTag": "career growth",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'pace(속도, 걸음)'를 'keep(유지하다)'한다는 뜻으로, 누군가 또는 무언가와 같은 속도를 유지한다는 의미입니다.",
+    "realUsageKo": "변화, 발전, 경쟁 등에서 뒤처지지 않고 따라간다는 의미로 폭넓게 사용됩니다. 기술 발전, 업무 속도, 학습 진도 등 다양한 맥락에서 '~에 뒤처지지 않다, ~와 보조를 맞추다'라는 뜻으로 쓰입니다.",
+    "etymologyKo": "'pace'는 라틴어 'passus(걸음)'에서 유래했으며, 'keep pace'는 원래 함께 걷거나 달릴 때 같은 걸음 속도를 유지한다는 물리적 의미에서 출발하여, 비유적으로 어떤 흐름이나 변화에 뒤처지지 않는다는 뜻으로 확장되었습니다.",
+    "nuanceKo": "중립적이거나 약간 긴장감 있는 뉘앙스를 가집니다. 뒤처질 수 있다는 압박감이 내포되어 있어, 단순히 '따라가다'보다 '노력해서 겨우 따라가다'라는 느낌이 강합니다. 비즈니스, 기술, 교육 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "It's hard to keep pace with all the new regulations in our industry.",
+    "shortExampleKo": "우리 업계의 새로운 규정들을 모두 따라가기가 어렵다."
+  }
+}

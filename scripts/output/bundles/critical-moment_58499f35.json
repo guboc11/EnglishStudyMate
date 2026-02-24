@@ -1,0 +1,30 @@
+{
+  "id": "critical-moment_58499f35",
+  "expression": "critical moment",
+  "selectionMeta": {
+    "selectedPhrase": "critical moment",
+    "selectedSenseLabelKo": "중요한 순간",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "At that critical moment, she decided to speak up and share her honest opinion with the entire board."
+  },
+  "step2": {
+    "story": "The surgeon paused and looked at the monitor. It was a critical moment — one wrong move could change everything. She steadied her hands, took a breath, and made the incision with precision.",
+    "topicTag": "medical decision",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "James had been preparing for this presentation for weeks. As he stood before the investors, his laptop froze and the screen went black. It was a critical moment that could make or break his startup's future. The room fell silent, and he could feel every eye on him. Instead of panicking, he stepped away from the podium and spoke directly from the heart about his vision. By the time the laptop rebooted, the investors were already nodding — they had seen something no slide deck could show.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '비판적인/결정적인 순간'으로, 매우 중요하고 결과에 큰 영향을 미치는 시점을 가리킵니다.",
+    "realUsageKo": "어떤 일의 성패가 갈리는 중대한 순간을 표현할 때 씁니다. 수술, 협상, 시험 등 결과가 크게 달라질 수 있는 긴장된 시점에서 자주 사용됩니다.",
+    "etymologyKo": "'Critical'은 그리스어 'kritikos(판단하는)'에서 유래했으며, 'moment'는 라틴어 'momentum(움직임의 힘)'에서 왔습니다. 합쳐져서 '판단이 필요한 결정적 시점'이라는 의미가 되었습니다.",
+    "nuanceKo": "단순히 '중요한'이 아니라 '결과가 극적으로 달라질 수 있는 긴박한 순간'이라는 뉘앙스를 담고 있어, 긴장감과 무게감이 느껴지는 표현입니다.",
+    "shortExampleEn": "The negotiation reached a critical moment when both sides threatened to walk away.",
+    "shortExampleKo": "양측이 협상장을 떠나겠다고 위협했을 때, 협상은 중요한 순간에 도달했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "have-your-cake-and-eat-it-too_dfda979f",
+  "expression": "have your cake and eat it too",
+  "selectionMeta": {
+    "selectedPhrase": "have your cake and eat it too",
+    "selectedSenseLabelKo": "두 마리 토끼를 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She wanted to work part-time and still get a full salary — you can't have your cake and eat it too."
+  },
+  "step2": {
+    "story": "Jake told his boss he wanted to work remotely from Bali while leading the New York office team. His manager laughed and said, \"You can't have your cake and eat it too, Jake.\" He had to choose one or the other.",
+    "topicTag": "work-life balance",
+    "moodTag": "realistic"
+  },
+  "step3": {
+    "story": "Mina had been offered two incredible opportunities at the same time. A prestigious law firm wanted her to start immediately, but a nonprofit in Amsterdam had also extended an offer for her dream role. She spent nights agonizing over spreadsheets, trying to find a way to accept both. Her best friend finally sat her down over coffee and said, \"Mina, you can't have your cake and eat it too — pick the one that makes your heart race.\" After a long pause, Mina closed her laptop and smiled. She booked a one-way ticket to Amsterdam.",
+    "topicTag": "life decisions",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "케이크를 가지고 있으면서 동시에 먹을 수는 없다는 뜻으로, 두 가지를 동시에 누릴 수 없다는 의미입니다.",
+    "realUsageKo": "양립할 수 없는 두 가지를 동시에 원할 때 사용합니다. 한쪽을 선택하면 다른 쪽을 포기해야 하는 상황에서 \"둘 다 가질 순 없어\"라는 의미로 씁니다.",
+    "etymologyKo": "16세기 영국 속담에서 유래했으며, 케이크를 먹으면 더 이상 가지고 있을 수 없다는 단순한 논리에 기반합니다.",
+    "nuanceKo": "가벼운 충고나 현실 직시를 권할 때 주로 쓰이며, 약간 훈계하는 톤이 있지만 일상 대화에서도 자연스럽게 사용됩니다.",
+    "shortExampleEn": "You want a big house and no mortgage? You can't have your cake and eat it too.",
+    "shortExampleKo": "큰 집도 갖고 싶고 대출도 없길 바란다고? 두 마리 토끼를 동시에 잡을 순 없어."
+  }
+}

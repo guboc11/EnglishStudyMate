@@ -1,0 +1,30 @@
+{
+  "id": "show-initiative_ecd3ff6e",
+  "expression": "show initiative",
+  "selectionMeta": {
+    "selectedPhrase": "show initiative",
+    "selectedSenseLabelKo": "주도권을 보이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new intern impressed everyone by showing initiative and organizing the messy supply room without being asked."
+  },
+  "step2": {
+    "story": "Mina noticed that her team's shared folder was a mess, with files scattered everywhere and no naming convention. Without waiting for her manager to assign the task, she spent an afternoon reorganizing everything and creating a clear guide. Her boss praised her for showing initiative, saying it was exactly the kind of attitude the team needed.",
+    "topicTag": "workplace proactivity",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Jaeho had only been at the marketing firm for three months, but he could already see a problem no one was talking about. The weekly reports were being compiled manually, eating up hours of everyone's time. One evening after work, he built a simple spreadsheet template that automated most of the calculations. The next morning, he nervously shared it with his team lead. She stared at the screen for a moment, then broke into a wide smile. \"This is exactly what we needed — I love it when someone shows initiative like this,\" she said. Word spread quickly, and by Friday, every department was using his template.",
+    "topicTag": "career growth",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '주도성을 보여주다'로, 스스로 나서서 행동하는 모습을 드러낸다는 뜻입니다.",
+    "realUsageKo": "누군가에게 시키지 않아도 스스로 문제를 파악하고 행동에 나설 때 사용합니다. 직장에서 상사가 부하 직원의 적극적인 태도를 칭찬할 때 자주 쓰이는 표현입니다.",
+    "etymologyKo": "initiative는 라틴어 initium(시작)에서 유래했으며, '처음으로 행동을 시작하는 힘'이라는 의미를 담고 있습니다. show와 결합하여 '그 힘을 겉으로 드러내 보이다'라는 뜻이 됩니다.",
+    "nuanceKo": "긍정적이고 칭찬의 뉘앙스가 강합니다. 수동적으로 지시를 기다리는 것과 대비되는 능동적 태도를 강조하며, 특히 직장이나 학교 등 조직 환경에서 높이 평가받는 자질을 나타냅니다.",
+    "shortExampleEn": "Employees who show initiative are more likely to get promoted.",
+    "shortExampleKo": "주도적으로 행동하는 직원이 승진할 가능성이 더 높다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "false-hope_4cd63a11",
+  "expression": "false hope",
+  "selectionMeta": {
+    "selectedPhrase": "false hope",
+    "selectedSenseLabelKo": "헛된 희망",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The doctor didn't want to give her false hope, so he explained the risks honestly before the surgery."
+  },
+  "step2": {
+    "story": "After three failed interviews, Marcus received a vague email saying the company would 'be in touch soon.' He knew better than to cling to false hope — he'd learned that such phrases rarely led anywhere. Instead, he kept applying and landed a real offer the following week.",
+    "topicTag": "job searching",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Jenna had been waiting for months to hear back about her grant application. Every time her phone buzzed, her heart raced. Her colleague kept telling her it was a good sign that she hadn't been rejected yet, but Jenna refused to build her plans on false hope. She had seen too many friends crushed by expectations that never materialized. So she quietly continued her research with the funding she already had, preparing for either outcome. When the acceptance letter finally arrived, the joy felt even sweeter because she had never let herself take it for granted.",
+    "topicTag": "academic life",
+    "moodTag": "cautiously optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'거짓된 희망'이라는 뜻으로, 실현될 가능성이 없거나 극히 낮은 기대를 의미합니다.",
+    "realUsageKo": "실제로는 이루어지지 않을 일에 대해 근거 없이 기대를 품거나, 다른 사람에게 그런 기대를 갖게 만들 때 사용합니다. 'Don't give me false hope'처럼 상대방에게 헛된 기대를 주지 말라는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'false'(거짓된)와 'hope'(희망)의 결합으로, 중세 영어 시기부터 사용된 표현입니다. 근거 없는 낙관을 경계하는 맥락에서 오랫동안 쓰여 왔습니다.",
+    "nuanceKo": "단순한 '헛된 바람'보다 더 무거운 뉘앙스를 가지며, 특히 의료·법률·관계 상황에서 상대방의 감정을 고려할 때 자주 등장합니다. 부정적이지만 현실적인 태도를 나타냅니다.",
+    "shortExampleEn": "I don't want to give you false hope, but there's still a small chance.",
+    "shortExampleKo": "헛된 희망을 주고 싶지는 않지만, 아직 작은 가능성은 남아 있어요."
+  }
+}

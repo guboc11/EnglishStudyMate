@@ -1,0 +1,30 @@
+{
+  "id": "lose-your-head_1e193ee3",
+  "expression": "lose your head",
+  "selectionMeta": {
+    "selectedPhrase": "lose your head",
+    "selectedSenseLabelKo": "당황하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't lose your head over one bad grade — you can still pass the course."
+  },
+  "step2": {
+    "story": "The fire alarm went off in the middle of the meeting, and everyone started pushing toward the exit. Sarah told her coworkers not to lose their heads and to follow the evacuation plan calmly. Thanks to her steady voice, the whole floor got out safely in under three minutes.",
+    "topicTag": "emergency response",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Jake had spent six months preparing for his first solo presentation to the board of directors. He rehearsed every slide, memorized every statistic, and even practiced his breathing exercises. But when the projector flickered and went dark two minutes in, he felt his pulse spike and nearly lost his head in front of everyone. His mentor, sitting in the back row, gave him a calm nod. Jake closed his eyes for a second, took a deep breath, and switched to the whiteboard instead. By the end, the directors were so impressed by his composure that they approved his proposal on the spot.",
+    "topicTag": "career pressure",
+    "moodTag": "anxious then triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '머리를 잃다'로, 마치 머리가 없어져서 생각을 못 하는 것처럼 느끼는 상태를 뜻합니다.",
+    "realUsageKo": "실제로는 갑작스러운 상황에서 침착함을 잃고 당황하거나 패닉에 빠지는 것을 의미합니다. 주로 'Don't lose your head'처럼 부정형으로 써서 '당황하지 마'라고 조언할 때 많이 씁니다.",
+    "etymologyKo": "프랑스 혁명 시대 단두대(guillotine)에서 실제로 '머리를 잃는' 것에서 유래했다는 설이 있으며, 이성과 판단력의 중심인 머리를 잃는다는 은유에서 비롯되었습니다.",
+    "nuanceKo": "일상 대화에서 자연스럽게 쓰이는 표현으로, 격식 없는 상황부터 직장 대화까지 폭넓게 사용됩니다. 비난보다는 걱정이나 조언의 뉘앙스가 강합니다.",
+    "shortExampleEn": "She completely lost her head when she realized she had left her passport at the hotel.",
+    "shortExampleKo": "그녀는 여권을 호텔에 두고 온 걸 알았을 때 완전히 당황했다."
+  }
+}

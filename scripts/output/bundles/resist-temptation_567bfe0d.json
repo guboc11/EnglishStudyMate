@@ -1,0 +1,30 @@
+{
+  "id": "resist-temptation_567bfe0d",
+  "expression": "resist temptation",
+  "selectionMeta": {
+    "selectedPhrase": "resist temptation",
+    "selectedSenseLabelKo": "유혹을 참다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had to resist temptation and walk past the bakery without buying a single croissant."
+  },
+  "step2": {
+    "story": "Jake was on a strict diet for his upcoming marathon, but his coworkers brought pizza to the office every Friday. Each week, he had to resist temptation as the smell filled the room. He kept a photo of the finish line on his desk to remind himself why it mattered.",
+    "topicTag": "self-discipline",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maria had been saving for a year to put a down payment on her first apartment. Every weekend, her friends invited her to expensive dinners and weekend getaways that she could barely afford. She learned to resist temptation by reminding herself of the bigger picture — a place she could truly call her own. Some nights were harder than others, especially when online sales popped up with deals that seemed too good to pass up. But each time she checked her growing savings account, the sacrifice felt worthwhile. By the end of the year, she held the keys to her new home, proud that she had stayed the course.",
+    "topicTag": "financial goals",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'유혹에 저항하다'라는 뜻으로, 하고 싶은 것을 참고 이겨내는 것을 의미합니다.",
+    "realUsageKo": "다이어트 중 맛있는 음식을 참거나, 충동 구매를 억제하는 등 일상에서 자기 절제가 필요한 상황에서 폭넓게 사용됩니다. 'I couldn't resist temptation'처럼 부정형으로도 자주 쓰입니다.",
+    "etymologyKo": "'resist'는 라틴어 'resistere(맞서다)'에서, 'temptation'은 라틴어 'temptare(시험하다)'에서 유래했습니다. 원래 종교적 맥락에서 악의 유혹에 맞서는 것을 뜻했으나, 현대에는 일반적인 자기 절제 상황에서 널리 쓰입니다.",
+    "nuanceKo": "단순히 '참다'보다 의지력을 발휘해 적극적으로 이겨낸다는 뉘앙스가 강합니다. 격식체와 비격식체 모두에서 자연스럽게 쓰이며, 진지한 맥락부터 가벼운 일상 대화까지 폭넓게 활용됩니다.",
+    "shortExampleEn": "I'm trying to resist temptation, but that chocolate cake looks incredible.",
+    "shortExampleKo": "유혹을 참으려고 하는데, 저 초콜릿 케이크가 정말 맛있어 보여요."
+  }
+}

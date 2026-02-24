@@ -1,0 +1,30 @@
+{
+  "id": "give-someone-a-piece-of-your-mind_05b7a162",
+  "expression": "give someone a piece of your mind",
+  "selectionMeta": {
+    "selectedPhrase": "give someone a piece of your mind",
+    "selectedSenseLabelKo": "솔직히 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of being ignored, she finally decided to give her landlord a piece of her mind about the broken heater."
+  },
+  "step2": {
+    "story": "The restaurant had messed up David's order for the third time this month. He marched up to the counter and gave the manager a piece of his mind, calmly but firmly explaining every mistake. The manager apologized and offered a full refund.",
+    "topicTag": "customer service",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Mina had stayed quiet through three team meetings while her coworker, Jake, kept taking credit for her designs. She rehearsed what she would say on her commute home every evening, but each morning she lost her nerve. Then one Friday, Jake presented her latest concept to the director without even mentioning her name. That was the final straw. Mina stood up in front of the entire room and gave Jake a piece of her mind, laying out every instance with dates and screenshots. The room went silent, and the director quietly asked Jake to step into his office.",
+    "topicTag": "workplace conflict",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '누군가에게 자기 마음의 한 조각을 주다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 참았던 불만이나 화를 상대에게 직접적이고 솔직하게 말할 때 사용합니다. 단순한 의견 전달이 아니라 강하게 따지거나 항의하는 뉘앙스입니다.",
+    "etymologyKo": "17세기 영어에서 유래했으며, 'piece of mind'는 원래 '마음속 생각의 일부'를 뜻했습니다. 시간이 지나면서 불만을 직설적으로 말한다는 의미로 굳어졌습니다.",
+    "nuanceKo": "화가 나거나 오랫동안 참아왔던 감정을 터뜨릴 때 쓰는 표현으로, 격식 없는 상황에서 주로 사용됩니다. 부드러운 조언이 아니라 강한 불만 표출을 의미합니다.",
+    "shortExampleEn": "I'm going to give my neighbor a piece of my mind about the noise.",
+    "shortExampleKo": "이웃에게 소음 문제에 대해 한마디 단단히 해야겠어."
+  }
+}

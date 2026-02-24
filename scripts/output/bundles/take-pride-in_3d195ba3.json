@@ -1,0 +1,30 @@
+{
+  "id": "take-pride-in_3d195ba3",
+  "expression": "take pride in",
+  "selectionMeta": {
+    "selectedPhrase": "take pride in",
+    "selectedSenseLabelKo": "~을 자랑스러워하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She takes pride in every dish she serves at her small restaurant."
+  },
+  "step2": {
+    "story": "Marco spent three months restoring his grandfather's old wooden boat. When he finally sailed it across the harbor, he couldn't stop smiling. He truly took pride in bringing something beautiful back to life.",
+    "topicTag": "craftsmanship",
+    "moodTag": "fulfillment"
+  },
+  "step3": {
+    "story": "Yuna had been teaching elementary school for over fifteen years, and she still prepared every lesson as if it were her first. Her colleagues sometimes teased her for staying late to decorate the classroom before a new semester. But Yuna took pride in creating a space where her students felt excited to learn. One afternoon, a former student visited and told her that her class had inspired him to become a teacher himself. Yuna's eyes filled with tears as she realized the ripple effect of her dedication. That moment reminded her exactly why she took pride in her work every single day.",
+    "topicTag": "teaching",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '~에 대해 자부심을 갖다'라는 뜻입니다.",
+    "realUsageKo": "자신이 한 일이나 자신과 관련된 것에 대해 뿌듯함과 자랑스러움을 느낄 때 사용합니다. 단순한 자랑이 아니라, 노력이나 가치에 대한 진심 어린 만족감을 표현합니다.",
+    "etymologyKo": "'pride'는 고대 영어 'prȳde(용기, 자부심)'에서 유래했으며, 'take'와 결합하여 '자부심을 갖다'라는 관용적 표현이 되었습니다.",
+    "nuanceKo": "긍정적이고 진지한 뉘앙스를 가집니다. 자신의 노력이나 성과, 혹은 소속감에 대한 건강한 자부심을 나타내며, 과시와는 다른 내면의 만족감을 전달합니다.",
+    "shortExampleEn": "He takes pride in his ability to solve difficult problems.",
+    "shortExampleKo": "그는 어려운 문제를 해결하는 자신의 능력을 자랑스러워한다."
+  }
+}

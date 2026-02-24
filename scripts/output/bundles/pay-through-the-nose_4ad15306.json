@@ -1,0 +1,30 @@
+{
+  "id": "pay-through-the-nose_4ad15306",
+  "expression": "pay through the nose",
+  "selectionMeta": {
+    "selectedPhrase": "pay through the nose",
+    "selectedSenseLabelKo": "비싸게 지불하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had to pay through the nose for last-minute plane tickets during the holiday rush."
+  },
+  "step2": {
+    "story": "Sarah desperately needed a plumber on Christmas Eve when her kitchen pipe burst. Every company she called quoted triple the normal rate. She had no choice but to pay through the nose just to keep her house from flooding.",
+    "topicTag": "unexpected expenses",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Jason had been dreaming about courtside seats at an NBA Finals game for years. When his favorite team finally made it, he checked ticket prices and nearly choked — over three thousand dollars each. His friends warned him it was a rip-off, but he bought two anyway. He knew he was paying through the nose, yet the moment the arena lights dimmed and the crowd roared, every dollar felt worth it. His buddy Mark, who had refused to come, spent the whole night texting him asking for updates. Jason just smiled and soaked it all in, grateful he had splurged.",
+    "topicTag": "once-in-a-lifetime experience",
+    "moodTag": "exhilarated"
+  },
+  "meaning": {
+    "literalMeaningKo": "코를 통해 돈을 지불하다라는 뜻으로, 직역하면 말이 되지 않는 관용 표현입니다.",
+    "realUsageKo": "터무니없이 비싼 값을 치르다, 바가지를 쓰다라는 의미로 사용됩니다. 어쩔 수 없이 과도한 비용을 지불해야 할 때 주로 씁니다.",
+    "etymologyKo": "9세기 아일랜드를 지배한 바이킹(덴마크인)이 세금을 내지 않는 주민의 코를 갈라 벌을 주었다는 데서 유래했다는 설이 가장 유력합니다.",
+    "nuanceKo": "단순히 '비싸다'보다 강한 불만이나 억울함의 뉘앙스가 있습니다. 일상 대화에서 자주 쓰이는 캐주얼한 표현입니다.",
+    "shortExampleEn": "Tourists always pay through the nose for coffee near the Eiffel Tower.",
+    "shortExampleKo": "관광객들은 에펠탑 근처에서 커피 한 잔에 항상 바가지를 씁니다."
+  }
+}

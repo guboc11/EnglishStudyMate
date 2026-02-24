@@ -1,0 +1,30 @@
+{
+  "id": "inevitable-change_0e4235c2",
+  "expression": "inevitable change",
+  "selectionMeta": {
+    "selectedPhrase": "inevitable change",
+    "selectedSenseLabelKo": "불가피한 변화",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As the industry evolved, the team had to embrace the inevitable change and adopt new technologies to stay competitive."
+  },
+  "step2": {
+    "story": "After twenty years at the same company, Mr. Park watched as automation began replacing manual processes one by one. He resisted at first, but eventually recognized the inevitable change sweeping through his industry. Rather than fighting it, he enrolled in a coding bootcamp and reinvented his career.",
+    "topicTag": "career adaptation",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "The small bookstore on the corner of Maple Street had been a neighborhood landmark for three decades. When a massive online retailer opened a local warehouse, the owner, Mrs. Chen, felt the ground shift beneath her feet. Loyal customers started drifting away, drawn by lower prices and next-day delivery. She knew this was an inevitable change that no amount of nostalgia could prevent. Instead of closing her doors in defeat, she transformed the shop into a cozy reading lounge with author events and curated collections. The bookstore survived not by resisting the tide, but by becoming something the internet could never replicate.",
+    "topicTag": "small business survival",
+    "moodTag": "bittersweet yet hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "피할 수 없는 변화, 즉 반드시 일어날 수밖에 없는 변화를 뜻합니다.",
+    "realUsageKo": "시대의 흐름, 기술 발전, 조직 개편 등 개인의 의지와 상관없이 반드시 찾아오는 변화를 말할 때 사용합니다. 주로 변화에 적응해야 한다는 맥락에서 쓰입니다.",
+    "etymologyKo": "inevitable은 라틴어 inevitabilis(피할 수 없는)에서 유래했으며, in-(부정) + evitare(피하다)의 결합입니다. change는 고대 프랑스어 changier에서 온 단어로, 두 단어가 합쳐져 '피할 수 없는 변화'라는 자연스러운 연어를 형성합니다.",
+    "nuanceKo": "단순히 '변화'가 아니라 '저항해도 소용없는, 받아들여야 하는 변화'라는 뉘앙스를 담고 있습니다. 약간의 체념이나 수용의 태도가 함께 느껴지는 표현입니다.",
+    "shortExampleEn": "Globalization brought inevitable change to local markets everywhere.",
+    "shortExampleKo": "세계화는 전 세계 지역 시장에 불가피한 변화를 가져왔다."
+  }
+}

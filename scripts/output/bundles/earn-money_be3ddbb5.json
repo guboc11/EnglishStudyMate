@@ -1,0 +1,30 @@
+{
+  "id": "earn-money_be3ddbb5",
+  "expression": "earn money",
+  "selectionMeta": {
+    "selectedPhrase": "earn money",
+    "selectedSenseLabelKo": "돈을 벌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to earn money by tutoring younger students after school."
+  },
+  "step2": {
+    "story": "Jake had always relied on his parents for pocket money, but when he turned sixteen, he wanted to earn money on his own. He started mowing lawns in the neighborhood every weekend. By the end of summer, he had saved enough to buy the guitar he had been dreaming about.",
+    "topicTag": "independence",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After graduating from college, Mina moved to a small city where rent was cheap but jobs were scarce. She knew she had to earn money quickly before her savings ran out. At first, she picked up freelance translation work online, staying up late to meet tight deadlines. Slowly, word spread about her quality, and clients began reaching out on their own. Within six months, she was earning enough to cover all her expenses and even set aside a little each month. Looking back, she realized that the pressure to earn money had pushed her to discover a career she truly enjoyed.",
+    "topicTag": "career building",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "돈을 벌다, 즉 노동이나 서비스의 대가로 금전을 받는 것을 의미합니다.",
+    "realUsageKo": "일이나 활동을 통해 수입을 얻는 상황에서 폭넓게 사용됩니다. 정규직 급여뿐 아니라 아르바이트, 프리랜서, 투자 수익 등 다양한 형태의 소득에 모두 쓸 수 있습니다.",
+    "etymologyKo": "earn은 고대 영어 'earnian(노동의 대가를 받다)'에서 유래했으며, money는 라틴어 'moneta(화폐)'에서 왔습니다. 두 단어의 결합은 '정당한 노력으로 돈을 얻다'라는 핵심 의미를 담고 있습니다.",
+    "nuanceKo": "earn은 단순히 돈을 '받다(get/receive)'와 달리 노력이나 자격의 뉘앙스가 있어, 정당하게 벌었다는 긍정적 어감을 줍니다. make money와 비슷하지만 earn이 좀 더 성실함과 노력을 강조합니다.",
+    "shortExampleEn": "He earns money by delivering food on weekends.",
+    "shortExampleKo": "그는 주말에 음식 배달을 해서 돈을 번다."
+  }
+}

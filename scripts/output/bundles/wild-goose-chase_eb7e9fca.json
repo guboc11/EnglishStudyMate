@@ -1,0 +1,30 @@
+{
+  "id": "wild-goose-chase_eb7e9fca",
+  "expression": "wild goose chase",
+  "selectionMeta": {
+    "selectedPhrase": "wild goose chase",
+    "selectedSenseLabelKo": "헛수고",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We spent three hours looking for the restaurant, but it turned out to be a wild goose chase because it had closed down last month."
+  },
+  "step2": {
+    "story": "Jake was convinced he'd left his wallet at the coffee shop downtown. He rushed back through heavy traffic, searched every corner, and even asked the staff to check the lost-and-found. It was a complete wild goose chase — his wallet had been in his coat pocket the entire time.",
+    "topicTag": "everyday frustration",
+    "moodTag": "exasperated"
+  },
+  "step3": {
+    "story": "When Sara received an anonymous tip that a rare first-edition book was hidden in an old bookstore across town, she couldn't resist investigating. She took the day off work, drove forty minutes through traffic, and wandered through three different shops that all claimed to have never heard of the title. By the afternoon, she realized someone had been playing a prank on her, and the whole adventure was nothing but a wild goose chase. Exhausted and frustrated, she slumped into her car and laughed at herself for falling for it so easily. At least she'd discovered a charming little café next to the last bookstore, so the day wasn't a total loss.",
+    "topicTag": "curiosity and disappointment",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '야생 거위를 쫓는 것'으로, 잡을 수 없는 것을 쫓아다니는 행위를 뜻합니다.",
+    "realUsageKo": "결과가 없는 헛된 노력이나 시간 낭비를 의미할 때 사용합니다. 누군가 잘못된 정보를 따라 쓸데없이 이리저리 돌아다녔을 때 주로 씁니다.",
+    "etymologyKo": "16세기 영국에서 유래한 표현으로, 셰익스피어의 '로미오와 줄리엣'에도 등장합니다. 원래는 말들이 선두 말을 따라 일렬로 달리는 경마 형태를 가리켰는데, 야생 거위가 V자로 나는 모습과 비슷해서 이 이름이 붙었습니다.",
+    "nuanceKo": "부정적이고 약간 짜증 섞인 톤으로 쓰이며, 시간과 노력을 낭비한 상황에 대한 실망감을 담고 있습니다. 일상 회화에서 자주 쓰이는 친숙한 표현입니다.",
+    "shortExampleEn": "Don't send me on another wild goose chase — make sure the address is correct this time.",
+    "shortExampleKo": "또 헛수고 시키지 마 — 이번에는 주소가 맞는지 확인해."
+  }
+}

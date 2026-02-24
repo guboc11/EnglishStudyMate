@@ -1,0 +1,30 @@
+{
+  "id": "difficult-choice_6a9e7237",
+  "expression": "difficult choice",
+  "selectionMeta": {
+    "selectedPhrase": "difficult choice",
+    "selectedSenseLabelKo": "어려운 선택",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After receiving two job offers on the same day, she faced a difficult choice that would shape her entire career."
+  },
+  "step2": {
+    "story": "Marcus stared at the two envelopes on his desk — one from a prestigious university abroad, the other from a local company offering his dream role. It was a difficult choice, and every friend he asked gave a different answer. In the end, he closed his eyes, took a deep breath, and followed his gut.",
+    "topicTag": "career decisions",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "When the hospital called to say her mother needed full-time care, Yuna knew she had a difficult choice ahead of her. She had just been promoted to lead her team's biggest project, the one she had spent two years working toward. Turning it down meant watching someone else take credit for her vision. But staying meant her mother would be alone during the hardest months of her life. Yuna sat in the parking lot for an hour, gripping the steering wheel, unable to start the car. Finally, she picked up the phone and told her boss she needed to take a leave of absence.",
+    "topicTag": "family vs career",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'difficult choice'는 말 그대로 '어려운 선택'을 의미합니다.",
+    "realUsageKo": "두 가지 이상의 선택지가 있지만, 어느 쪽이든 포기해야 할 것이 있어 쉽게 결정할 수 없는 상황에서 사용합니다. 일상 대화에서 가벼운 고민부터 인생을 바꿀 중대한 결정까지 폭넓게 쓰입니다.",
+    "etymologyKo": "'difficult'는 라틴어 'difficilis(쉽지 않은)'에서, 'choice'는 고대 프랑스어 'chois(선택)'에서 유래했습니다. 두 단어가 결합되어 영어에서 매우 자연스러운 연어(collocation)로 자리 잡았습니다.",
+    "nuanceKo": "'hard choice'와 거의 같은 뜻이지만, 'difficult choice'는 약간 더 격식 있고 신중한 느낌을 줍니다. 감정적 무게감이 있는 상황에서 자주 쓰입니다.",
+    "shortExampleEn": "Leaving her hometown was a difficult choice, but she knew it was the right one.",
+    "shortExampleKo": "고향을 떠나는 것은 어려운 선택이었지만, 그녀는 그것이 옳은 결정이라는 것을 알고 있었다."
+  }
+}

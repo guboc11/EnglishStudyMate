@@ -1,0 +1,30 @@
+{
+  "id": "once-bitten-twice-shy_2fc5106b",
+  "expression": "once bitten twice shy",
+  "selectionMeta": {
+    "selectedPhrase": "once bitten twice shy",
+    "selectedSenseLabelKo": "한 번 데인 사람이 더 조심한다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing all his savings in a bad investment, Mark became once bitten twice shy and refused to put money into anything without months of research."
+  },
+  "step2": {
+    "story": "Sarah trusted her business partner completely, but he disappeared with all their profits. Now, whenever someone proposes a new venture, she insists on airtight contracts and background checks. Her friends say she's once bitten twice shy, but Sarah calls it being smart.",
+    "topicTag": "trust and business",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When Jamie was twenty-two, she moved across the country for a job that turned out to be a scam. She spent three months in a strange city with no income, surviving on instant noodles before she could scrape together enough for a bus ticket home. Years later, a recruiter called with an incredible offer in another state — great salary, full benefits, relocation package. Jamie's heart raced with excitement, but her stomach churned with memory. Once bitten twice shy, she spent two weeks verifying the company, calling current employees, and even visiting the office in person before finally signing. Her new colleagues found it amusing, but Jamie slept soundly on her first night knowing this time was real.",
+    "topicTag": "career decisions",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "한 번 물리면 두 번째는 겁이 난다는 뜻으로, 직역하면 '한 번 물린 사람은 두 배로 조심한다'입니다.",
+    "realUsageKo": "과거에 나쁜 경험을 한 사람이 비슷한 상황에서 지나치게 조심하거나 경계하는 태도를 보일 때 사용합니다. 투자 실패, 연애 상처, 사기 피해 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "이 표현은 중세 영어 속담에서 유래했으며, 동물에게 물린 경험이 있는 사람이 같은 동물을 다시 만났을 때 본능적으로 피하게 되는 모습에서 비롯되었습니다.",
+    "nuanceKo": "부정적 뉘앙스보다는 자기 보호 본능을 인정하는 중립적 표현입니다. 때로는 지나치게 조심하는 것을 약간 안타까워하는 어감도 있습니다.",
+    "shortExampleEn": "I won't lend money to friends again — once bitten twice shy.",
+    "shortExampleKo": "친구에게 다시는 돈을 빌려주지 않을 거야 — 한 번 데었으니까."
+  }
+}

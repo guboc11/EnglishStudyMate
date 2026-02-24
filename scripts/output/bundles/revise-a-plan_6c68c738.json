@@ -1,0 +1,30 @@
+{
+  "id": "revise-a-plan_6c68c738",
+  "expression": "revise a plan",
+  "selectionMeta": {
+    "selectedPhrase": "revise a plan",
+    "selectedSenseLabelKo": "계획을 수정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After reviewing the budget constraints, the team decided to revise a plan they had drafted earlier in the quarter."
+  },
+  "step2": {
+    "story": "The marketing campaign was supposed to launch in March, but unexpected supply chain delays forced the team to revise a plan that had taken weeks to finalize. They gathered in the conference room, spreadsheets open, and reworked the timeline from scratch. By the end of the day, the new version felt even stronger than the original.",
+    "topicTag": "project management",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "Jenna had been planning her cross-country road trip for months, mapping out every stop from Nashville to Portland. But when her travel partner dropped out just two weeks before departure, she had no choice but to revise a plan she had poured her heart into. She sat at her kitchen table, crossing out motels meant for two and searching for solo-friendly hostels instead. The budget needed adjusting too — gas costs would fall entirely on her now. After three long evenings of reworking the route, she realized the revised itinerary actually suited her better. Sometimes a forced change opens a door you never thought to knock on.",
+    "topicTag": "travel planning",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "계획을 수정하다 — 기존에 세운 계획을 다시 검토하고 고쳐서 새로운 버전으로 만드는 것을 의미합니다.",
+    "realUsageKo": "업무, 프로젝트, 개인 일정 등에서 상황이 바뀌거나 문제가 발견되었을 때 기존 계획을 조정하거나 개선하는 맥락에서 사용됩니다. 단순히 작은 부분을 고치는 것보다는 전체적으로 재검토하여 수정한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "revise는 라틴어 'revisere'(다시 보다)에서 유래했으며, re-(다시) + visere(보다)의 결합입니다. 즉, '다시 살펴보고 고치다'라는 원래 의미를 그대로 간직하고 있습니다.",
+    "nuanceKo": "revise는 change나 modify보다 더 체계적이고 신중한 수정을 암시합니다. 단순 변경이 아니라 검토 과정을 거친 후의 수정이라는 점에서 격식 있는 비즈니스·학술 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "We need to revise a plan before presenting it to the board.",
+    "shortExampleKo": "이사회에 발표하기 전에 계획을 수정해야 합니다."
+  }
+}

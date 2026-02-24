@@ -1,0 +1,30 @@
+{
+  "id": "gain-confidence_3010ccb5",
+  "expression": "gain confidence",
+  "selectionMeta": {
+    "selectedPhrase": "gain confidence",
+    "selectedSenseLabelKo": "자신감을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After presenting her project successfully, she began to gain confidence in her public speaking skills."
+  },
+  "step2": {
+    "story": "Mina had always dreaded speaking up during team meetings. But after her manager praised her idea in front of the whole department, she started to gain confidence. Now she volunteers to lead discussions whenever she can.",
+    "topicTag": "workplace growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "When Jisu first joined the marketing team, she barely spoke during brainstorming sessions. She worried her ideas weren't good enough and kept them to herself. One day, a colleague asked for her opinion on a campaign slogan, and her suggestion was chosen as the final version. That small win helped her gain confidence she never knew she had. Over the following months, she pitched bold ideas and even led a product launch presentation. Looking back, she realized that confidence wasn't something she lacked — it was something she simply hadn't discovered yet.",
+    "topicTag": "personal development",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'자신감을 얻다'라는 뜻으로, gain은 '획득하다', confidence는 '자신감'을 의미합니다.",
+    "realUsageKo": "경험이나 성공을 통해 점차 자신감이 생기는 과정을 표현할 때 사용합니다. 단번에 자신감이 생기는 것이 아니라, 시간이 지나면서 서서히 쌓이는 느낌을 줍니다.",
+    "etymologyKo": "gain은 고대 프랑스어 'gaaignier(얻다, 획득하다)'에서 유래했고, confidence는 라틴어 'confidentia(신뢰, 확신)'에서 왔습니다. 두 단어가 결합하여 '자신에 대한 믿음을 얻다'라는 의미를 형성합니다.",
+    "nuanceKo": "build confidence와 비슷하지만, gain은 외부 경험이나 결과를 통해 자신감을 '얻는' 느낌이 강하고, build는 스스로 '쌓아가는' 느낌이 더 강합니다. 긍정적이고 성장 지향적인 맥락에서 주로 쓰입니다.",
+    "shortExampleEn": "He gained confidence after passing the interview on his first try.",
+    "shortExampleKo": "그는 첫 번째 면접에서 합격한 후 자신감을 얻었다."
+  }
+}

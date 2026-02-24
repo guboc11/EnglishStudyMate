@@ -1,0 +1,30 @@
+{
+  "id": "strengthen-a-bond_e819b49e",
+  "expression": "strengthen a bond",
+  "selectionMeta": {
+    "selectedPhrase": "strengthen a bond",
+    "selectedSenseLabelKo": "유대를 강화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Volunteering together every weekend helped them strengthen a bond that had been slowly fading over the years."
+  },
+  "step2": {
+    "story": "After years of living in different cities, the two sisters decided to take a road trip together. Sharing meals, laughing at old memories, and navigating unfamiliar towns helped them strengthen a bond they feared they had lost. By the end of the trip, they promised to never let distance come between them again.",
+    "topicTag": "family relationships",
+    "moodTag": "heartwarming"
+  },
+  "step3": {
+    "story": "When Jisoo transferred to a new school in the middle of the semester, she felt invisible. No one talked to her during lunch, and group projects felt painfully awkward. Then one day, a classmate named Hana invited her to join the school's community garden club. They spent afternoons planting seeds, pulling weeds, and talking about everything from favorite books to family struggles. Working side by side in the dirt helped them strengthen a bond that quickly grew deeper than either had expected. By winter, Jisoo realized that the garden had given her not just a hobby, but a true friend.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '유대(결속)를 강화하다'라는 뜻입니다.",
+    "realUsageKo": "사람들 사이의 관계나 연결을 더 깊고 단단하게 만든다는 의미로 사용됩니다. 가족, 친구, 동료 등 다양한 관계에서 함께 시간을 보내거나 경험을 공유하며 관계가 더 돈독해질 때 자주 쓰입니다.",
+    "etymologyKo": "'strengthen'은 'strong(강한)'에서 파생된 동사이고, 'bond'는 원래 '묶는 것, 결속'을 뜻하는 고대 영어에서 유래했습니다. 물리적으로 묶여 있는 것이 비유적으로 인간관계의 유대로 확장된 표현입니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 사용되며, 긍정적이고 따뜻한 뉘앙스를 담고 있습니다. 주로 의도적인 노력이나 공유된 경험을 통해 관계가 깊어지는 상황에서 쓰입니다.",
+    "shortExampleEn": "Cooking dinner together every Sunday has really strengthened our bond.",
+    "shortExampleKo": "매주 일요일 함께 저녁을 만드는 것이 우리의 유대를 정말 강하게 해주었다."
+  }
+}

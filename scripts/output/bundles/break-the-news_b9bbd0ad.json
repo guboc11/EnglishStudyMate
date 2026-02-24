@@ -1,0 +1,30 @@
+{
+  "id": "break-the-news_b9bbd0ad",
+  "expression": "break the news",
+  "selectionMeta": {
+    "selectedPhrase": "break the news",
+    "selectedSenseLabelKo": "소식을 전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I didn't know how to break the news to my parents that I had decided to quit my job."
+  },
+  "step2": {
+    "story": "Sarah sat across from her best friend at the cafe, nervously stirring her coffee. She had been trying to find the right moment to break the news about moving to another country. Finally, she took a deep breath and told her everything, and her friend's eyes filled with both sadness and pride.",
+    "topicTag": "life changes",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "Dr. Park walked slowly down the hospital corridor, reviewing the patient's chart one more time. He had performed hundreds of surgeries, but the hardest part of his job was always what came after. The family was waiting in the small room at the end of the hall, their faces full of hope. He paused at the door, composing himself before stepping inside. He knew he had to break the news gently — the operation had been successful, but the recovery would take much longer than expected. As he spoke, he watched relief and worry pass across their faces in equal measure.",
+    "topicTag": "medical communication",
+    "moodTag": "solemn"
+  },
+  "meaning": {
+    "literalMeaningKo": "'뉴스를 깨뜨리다'라는 뜻으로, 소식을 처음으로 알리다라는 의미입니다.",
+    "realUsageKo": "중요하거나 놀라운 소식(좋든 나쁘든)을 상대방에게 처음으로 전할 때 사용합니다. 특히 상대방이 예상하지 못한 소식을 조심스럽게 알려줄 때 많이 씁니다.",
+    "etymologyKo": "'break'는 원래 '처음으로 공개하다'라는 뜻이 있으며, 언론에서 뉴스를 최초로 보도할 때 'break a story'라고 쓰던 표현에서 유래했습니다.",
+    "nuanceKo": "대체로 나쁜 소식이나 전하기 어려운 소식을 알릴 때 쓰이는 경우가 많지만, 좋은 소식에도 사용할 수 있습니다. 'break the news gently'처럼 부드럽게 전한다는 표현과 자주 함께 쓰입니다.",
+    "shortExampleEn": "Who is going to break the news to him that the project was canceled?",
+    "shortExampleKo": "프로젝트가 취소됐다는 소식을 누가 그에게 전할 건가요?"
+  }
+}

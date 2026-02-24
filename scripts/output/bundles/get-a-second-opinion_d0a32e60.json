@@ -1,0 +1,30 @@
+{
+  "id": "get-a-second-opinion_d0a32e60",
+  "expression": "get a second opinion",
+  "selectionMeta": {
+    "selectedPhrase": "get a second opinion",
+    "selectedSenseLabelKo": "두 번째 의견을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before agreeing to the surgery, she decided to get a second opinion from another specialist."
+  },
+  "step2": {
+    "story": "The mechanic said the engine needed a complete replacement, which would cost thousands of dollars. Something about the diagnosis didn't sit right with Marco, so he decided to get a second opinion at another garage. The second mechanic found it was just a faulty sensor — a simple fifty-dollar fix.",
+    "topicTag": "smart decisions",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When Dr. Park told Jisoo that she needed knee surgery and would have to give up running for good, her heart sank. Running marathons was the one thing that kept her sane through years of stressful office work. Her husband urged her to get a second opinion before making any drastic decisions. Reluctantly, she booked an appointment with a sports medicine specialist across town. After a thorough examination and new imaging, the second doctor explained that physical therapy could likely solve the problem without surgery. Jisoo left the clinic that day feeling a wave of relief, grateful that she hadn't rushed into a decision.",
+    "topicTag": "health choices",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '두 번째 의견을 얻다'라는 뜻으로, 다른 전문가나 사람에게 추가적인 판단을 구하는 것을 의미합니다.",
+    "realUsageKo": "중요한 결정을 내리기 전에 한 사람의 판단에만 의존하지 않고 다른 전문가의 의견도 들어보는 상황에서 사용합니다. 의료, 법률, 재정 등 전문적인 영역에서 특히 자주 쓰이지만, 일상적인 결정에서도 널리 사용됩니다.",
+    "etymologyKo": "의료 분야에서 유래한 표현으로, 한 의사의 진단에 확신이 서지 않을 때 다른 의사에게 진찰을 받는 관행에서 비롯되었습니다. 이후 의료 외 다양한 분야로 의미가 확장되었습니다.",
+    "nuanceKo": "이 표현은 신중함과 현명함을 내포하고 있으며, 첫 번째 의견을 무시하는 것이 아니라 더 나은 판단을 위해 추가 정보를 구한다는 긍정적인 뉘앙스를 가집니다.",
+    "shortExampleEn": "The contractor's estimate seemed too high, so we decided to get a second opinion.",
+    "shortExampleKo": "시공업체의 견적이 너무 높아 보여서 다른 곳의 의견도 들어보기로 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sustain-effort_658ffc42",
+  "expression": "sustain effort",
+  "selectionMeta": {
+    "selectedPhrase": "sustain effort",
+    "selectedSenseLabelKo": "노력을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It takes real discipline to sustain effort when you can't see immediate results."
+  },
+  "step2": {
+    "story": "Mina had been studying for the bar exam for over a year. Some mornings she wanted to quit, but she reminded herself why she started. She found that the only way to sustain effort was to focus on small daily wins rather than the distant finish line.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had been training for a marathon for six months, waking up at five every morning to run before work. By month four, his motivation had faded and every alarm felt like a battle. His coach told him that talent gets you started, but only those who sustain effort cross the finish line. So James changed his approach — he joined a running group and started tracking his progress in a journal. Sharing his struggles with others made the grind feel lighter. On race day, as he crossed the finish line exhausted but smiling, he realized the marathon had never been about speed — it was about proving he could keep going.",
+    "topicTag": "athletic training",
+    "moodTag": "inspirational"
+  },
+  "meaning": {
+    "literalMeaningKo": "'sustain'은 '유지하다, 지탱하다'를 뜻하고, 'effort'는 '노력'을 뜻하므로, 직역하면 '노력을 유지하다'입니다.",
+    "realUsageKo": "장기적으로 포기하지 않고 꾸준히 노력을 이어간다는 의미로 사용됩니다. 단순히 열심히 하는 것이 아니라, 힘든 상황에서도 지속적으로 에너지를 쏟는 느낌을 강조할 때 씁니다.",
+    "etymologyKo": "'sustain'은 라틴어 'sustinere'(아래에서 받치다)에서 유래했으며, 'effort'는 프랑스어 'esfort'(힘을 쏟다)에서 왔습니다. 합쳐서 '노력을 아래에서 받쳐 계속 유지한다'는 이미지입니다.",
+    "nuanceKo": "격식체에 가까우며, 비즈니스나 자기계발 맥락에서 자주 쓰입니다. 일상 대화보다는 발표, 에세이, 코칭 등에서 더 자연스럽습니다.",
+    "shortExampleEn": "The team managed to sustain effort throughout the entire project despite budget cuts.",
+    "shortExampleKo": "팀은 예산 삭감에도 불구하고 프로젝트 전체에 걸쳐 노력을 유지해냈다."
+  }
+}

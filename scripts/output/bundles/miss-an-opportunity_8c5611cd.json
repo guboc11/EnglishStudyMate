@@ -1,0 +1,30 @@
+{
+  "id": "miss-an-opportunity_8c5611cd",
+  "expression": "miss an opportunity",
+  "selectionMeta": {
+    "selectedPhrase": "miss an opportunity",
+    "selectedSenseLabelKo": "기회를 놓치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I didn't want to miss an opportunity to study abroad, so I submitted my application before the deadline."
+  },
+  "step2": {
+    "story": "Sarah saw a job posting at her dream company but kept putting off her application. By the time she finally sat down to apply, the listing had been taken down. She realized she had missed an opportunity that might not come around again.",
+    "topicTag": "career decisions",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "James had been working at the same company for five years when his manager offered him a chance to lead a new project overseas. He hesitated, worried about leaving his comfort zone and moving to a foreign country. Weeks passed as he weighed the pros and cons, unable to commit. When he finally decided to accept, he learned the position had already been filled by a younger colleague. James couldn't help but feel he had missed an opportunity that could have changed the entire direction of his career. That experience taught him that sometimes waiting for the perfect moment means the moment passes you by.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "기회를 놓치다, 즉 어떤 좋은 기회가 왔을 때 그것을 잡지 못하고 지나쳐 버리는 것을 뜻합니다.",
+    "realUsageKo": "실제로는 행동하지 않거나 결정을 미루어서 좋은 기회를 잃어버렸을 때 사용합니다. 후회의 감정이 담겨 있는 경우가 많으며, 취업, 투자, 인간관계 등 다양한 상황에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'miss'는 고대 영어 'missan'에서 유래하여 '빗나가다, 놓치다'라는 뜻이고, 'opportunity'는 라틴어 'opportunitas(적절한 때)'에서 왔습니다. 두 단어가 결합하여 '적절한 때를 놓치다'라는 자연스러운 연어 표현이 되었습니다.",
+    "nuanceKo": "단순히 기회가 없었다는 의미가 아니라, 기회가 있었는데 본인의 선택이나 부주의로 놓쳤다는 뉘앙스가 강합니다. 약간의 자책이나 아쉬움이 담긴 표현입니다.",
+    "shortExampleEn": "Don't miss an opportunity to learn something new every day.",
+    "shortExampleKo": "매일 새로운 것을 배울 기회를 놓치지 마세요."
+  }
+}

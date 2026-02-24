@@ -1,0 +1,30 @@
+{
+  "id": "hold-the-line_c04513e1",
+  "expression": "hold the line",
+  "selectionMeta": {
+    "selectedPhrase": "hold the line",
+    "selectedSenseLabelKo": "원칙을 지키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite pressure from investors to cut corners, the CEO decided to hold the line on product quality."
+  },
+  "step2": {
+    "story": "The new manager wanted to slash the training budget, but Sarah held the line. She presented data showing how previous cuts had led to costly mistakes. In the end, the board agreed to keep the budget intact.",
+    "topicTag": "workplace principles",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the school district announced plans to remove arts programs, Mrs. Park knew she had to act. She organized a meeting with parents and teachers, presenting research on how creative education boosts overall academic performance. The superintendent pushed back hard, citing budget shortfalls. But Mrs. Park held the line, refusing to accept the cuts without a proper review. After weeks of negotiation, the board agreed to a compromise that preserved the core arts curriculum. Her persistence reminded everyone that some principles are worth fighting for.",
+    "topicTag": "education advocacy",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '선을 유지하다'로, 전화를 끊지 않고 기다리라는 뜻으로도 쓰입니다.",
+    "realUsageKo": "실제로는 압박이나 반대에도 불구하고 자신의 입장이나 원칙을 굳건히 지킨다는 의미로 사용됩니다. 양보하지 않고 버틴다는 뉘앙스가 강합니다.",
+    "etymologyKo": "군사 용어에서 유래했으며, 전투에서 병사들이 방어선을 무너뜨리지 않고 자리를 지키는 것을 의미했습니다. 이후 일상에서 원칙을 고수한다는 비유적 표현으로 확장되었습니다.",
+    "nuanceKo": "단순히 고집을 부리는 것이 아니라, 옳다고 믿는 가치나 기준을 지키기 위해 단호하게 버틴다는 긍정적인 뉘앙스를 가집니다. 공식적이거나 진지한 상황에서 자주 쓰입니다.",
+    "shortExampleEn": "We need to hold the line on our pricing strategy despite the competition.",
+    "shortExampleKo": "경쟁이 치열하더라도 우리의 가격 전략에 대한 원칙을 지켜야 합니다."
+  }
+}

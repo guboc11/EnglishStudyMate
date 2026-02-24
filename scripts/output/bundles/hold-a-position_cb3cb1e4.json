@@ -1,0 +1,30 @@
+{
+  "id": "hold-a-position_cb3cb1e4",
+  "expression": "hold a position",
+  "selectionMeta": {
+    "selectedPhrase": "hold a position",
+    "selectedSenseLabelKo": "직위를 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She has held a position as regional director for over five years, earning the respect of everyone in the company."
+  },
+  "step2": {
+    "story": "Marcus had held a position as lead engineer at a small startup for three years. When a bigger company offered him twice the salary, he hesitated. He realized the creative freedom he enjoyed was worth more than any paycheck.",
+    "topicTag": "career decisions",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "After graduating with honors, Jiyeon moved to London to hold a position at an international consulting firm. The first few months were overwhelming — different work culture, endless meetings in rapid English, and the constant pressure to prove herself. But she kept showing up, asking smart questions and delivering solid reports. By the end of her first year, her manager told her she was being considered for a promotion. Jiyeon smiled, remembering how close she had come to giving up during those early weeks. Holding that position had taught her more about resilience than any textbook ever could.",
+    "topicTag": "professional growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'position(직위, 자리)을 hold(잡다, 유지하다)한다'는 뜻으로, 특정 직책이나 역할을 맡고 있다는 의미입니다.",
+    "realUsageKo": "회사나 조직에서 특정 직위·직책을 맡아 일하고 있을 때 사용합니다. 단순히 '일하다'보다 공식적인 역할이나 직함이 있을 때 쓰이며, 일정 기간 그 자리를 유지해 왔다는 뉘앙스가 있습니다.",
+    "etymologyKo": "'hold'는 고대 영어 healdan(잡다, 지키다)에서 유래했고, 'position'은 라틴어 positio(놓다, 배치하다)에서 왔습니다. 두 단어가 결합되어 '자리를 잡고 유지하다'라는 뜻의 콜로케이션으로 자리잡았습니다.",
+    "nuanceKo": "격식체에 가까운 표현으로, 이력서·면접·공식 문서에서 자주 쓰입니다. 'have a job'보다 전문적이고 권위 있는 느낌을 줍니다.",
+    "shortExampleEn": "He currently holds a position as vice president of marketing.",
+    "shortExampleKo": "그는 현재 마케팅 부사장 직위를 맡고 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "achieve-a-balance_2df68e58",
+  "expression": "achieve a balance",
+  "selectionMeta": {
+    "selectedPhrase": "achieve a balance",
+    "selectedSenseLabelKo": "균형을 이루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of overworking, she finally managed to achieve a balance between her career ambitions and her personal well-being."
+  },
+  "step2": {
+    "story": "Jake had been pulling late nights at the office every week, barely seeing his family. One evening, his daughter asked why he never came to her soccer games anymore. That question hit him hard, and he decided it was time to achieve a balance between work and the moments that truly mattered.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mira was a rising architect at a prestigious firm, but the endless deadlines were draining her creativity and health. She started skipping meals, losing sleep, and snapping at the people she loved most. One rainy Sunday, she sat alone in a coffee shop and wrote down everything that mattered to her — design, family, running, reading. She realized she had been treating life like a sprint when it was really a marathon. The next Monday, she walked into her manager's office and proposed a restructured schedule. It wasn't easy, but over the following weeks she began to achieve a balance that let her do meaningful work without sacrificing herself in the process.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "균형을 달성하다, 즉 서로 다른 요소들 사이에서 조화로운 상태를 이루는 것을 의미합니다.",
+    "realUsageKo": "일과 생활, 공부와 휴식 등 상충하는 두 가지 이상의 영역에서 적절한 균형점을 찾았을 때 사용합니다. 단순히 '균형을 잡다'보다 노력 끝에 균형을 '이루어냈다'는 성취의 뉘앙스가 담겨 있습니다.",
+    "etymologyKo": "'achieve'는 고대 프랑스어 'achever(완수하다)'에서 유래했고, 'balance'는 라틴어 'bilanx(두 개의 접시를 가진 저울)'에서 왔습니다. 두 단어가 합쳐져 '저울의 두 접시가 수평을 이루는 상태를 달성하다'라는 의미를 형성합니다.",
+    "nuanceKo": "격식과 비격식 모두에서 자연스럽게 쓰이며, 특히 자기 계발, 건강, 경영 맥락에서 자주 등장합니다. 'find a balance'보다 의도적이고 능동적인 노력의 느낌이 강합니다.",
+    "shortExampleEn": "It's important to achieve a balance between studying hard and getting enough rest.",
+    "shortExampleKo": "열심히 공부하는 것과 충분한 휴식을 취하는 것 사이에서 균형을 이루는 것이 중요합니다."
+  }
+}

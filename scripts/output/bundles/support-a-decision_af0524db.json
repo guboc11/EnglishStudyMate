@@ -1,0 +1,30 @@
+{
+  "id": "support-a-decision_af0524db",
+  "expression": "support a decision",
+  "selectionMeta": {
+    "selectedPhrase": "support a decision",
+    "selectedSenseLabelKo": "결정을 지지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even though the proposal was controversial, the entire board voted to support the decision made by the CEO."
+  },
+  "step2": {
+    "story": "The marketing team proposed a bold new strategy that divided opinions across the company. After reviewing the data, the vice president stood up during the all-hands meeting and publicly chose to support the decision. Her endorsement gave the team the confidence they needed to move forward.",
+    "topicTag": "workplace leadership",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "Jenna had been skeptical when her manager announced the plan to restructure the entire department. The changes meant new roles, unfamiliar responsibilities, and months of uncertainty. She spent the weekend reading through the proposal carefully, weighing every detail against the team's long-term goals. By Monday morning, she realized the plan addressed problems they had been ignoring for years. She walked into the meeting room and told her colleagues she had decided to support the decision wholeheartedly. Her calm reasoning helped ease the tension and brought the divided team closer together.",
+    "topicTag": "team dynamics",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'결정을 지지하다'라는 뜻으로, 누군가의 판단이나 선택에 동의하고 힘을 보태는 것을 의미합니다.",
+    "realUsageKo": "직장이나 일상에서 누군가의 결정에 찬성하고 그 결정이 실행되도록 돕겠다는 의사를 표현할 때 사용합니다. 단순한 동의를 넘어 적극적으로 뒷받침한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "support는 라틴어 supportare(아래에서 받치다)에서 유래했으며, decision은 라틴어 decidere(잘라내다, 결정하다)에서 왔습니다. 두 단어가 합쳐져 '결정을 아래에서 받쳐준다'는 이미지를 형성합니다.",
+    "nuanceKo": "단순히 '동의한다(agree)'보다 더 적극적인 표현입니다. 결정에 대해 책임감을 공유하고 실행을 돕겠다는 의지가 담겨 있어 비즈니스나 공식적인 상황에서 자주 쓰입니다.",
+    "shortExampleEn": "I fully support your decision to expand the team.",
+    "shortExampleKo": "팀을 확장하겠다는 당신의 결정을 전적으로 지지합니다."
+  }
+}

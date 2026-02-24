@@ -1,0 +1,30 @@
+{
+  "id": "sharp-mind_853dc6f9",
+  "expression": "sharp mind",
+  "selectionMeta": {
+    "selectedPhrase": "sharp mind",
+    "selectedSenseLabelKo": "예리한 마음",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her sharp mind allowed her to spot the flaw in the contract before anyone else noticed."
+  },
+  "step2": {
+    "story": "The new intern surprised everyone during the meeting. She pointed out a critical error in the financial report that three senior analysts had missed. Her sharp mind quickly earned her the respect of the entire team.",
+    "topicTag": "career growth",
+    "moodTag": "impressive"
+  },
+  "step3": {
+    "story": "Professor Lee was known across the university for her sharp mind. Students would come to her lectures expecting a routine class, but she always challenged them with unexpected questions that forced them to think deeply. One day, a student presented a research proposal filled with confident conclusions. Professor Lee listened quietly, then asked a single question that unraveled the entire argument. The student was stunned at first, but later admitted it was the most valuable feedback he had ever received. That moment reminded everyone why a sharp mind is not just about intelligence — it is about seeing what others overlook.",
+    "topicTag": "education",
+    "moodTag": "thought-provoking"
+  },
+  "meaning": {
+    "literalMeaningKo": "'날카로운 마음'이라는 뜻으로, 지적 능력이 뛰어나고 빠르게 파악하는 두뇌를 의미합니다.",
+    "realUsageKo": "머리 회전이 빠르고 분석력이 뛰어난 사람을 묘사할 때 사용합니다. 단순히 똑똑하다는 것을 넘어, 핵심을 빠르게 꿰뚫는 능력을 강조할 때 쓰입니다.",
+    "etymologyKo": "'sharp'는 원래 칼날이 날카롭다는 물리적 의미에서 출발하여, 중세 영어 시기부터 지적 능력이 예리하다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "칭찬의 뉘앙스가 강하며, 격식체와 비격식체 모두에서 자연스럽게 사용됩니다. 'smart'보다 더 구체적으로 '분석적이고 빠른 판단력'을 내포합니다.",
+    "shortExampleEn": "You need a sharp mind to solve these puzzles quickly.",
+    "shortExampleKo": "이 퍼즐들을 빠르게 풀려면 예리한 머리가 필요합니다."
+  }
+}

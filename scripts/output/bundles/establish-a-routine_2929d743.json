@@ -1,0 +1,30 @@
+{
+  "id": "establish-a-routine_2929d743",
+  "expression": "establish a routine",
+  "selectionMeta": {
+    "selectedPhrase": "establish a routine",
+    "selectedSenseLabelKo": "루틴을 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After moving to a new city, she decided to establish a routine to bring some stability to her daily life."
+  },
+  "step2": {
+    "story": "Jake had been feeling scattered ever since he started working remotely. His productivity was all over the place, and he barely had time for exercise. Once he decided to establish a routine — waking at 6, working out, then sitting down at his desk by 8 — everything started falling into place.",
+    "topicTag": "remote work",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Mina first arrived in London for her graduate program, the unfamiliar surroundings left her feeling anxious and unmoored. She couldn't sleep well, skipped meals, and spent most evenings doom-scrolling on her phone. Her advisor noticed and gently suggested she establish a routine to anchor herself. Mina started small: a morning walk along the Thames, breakfast at the same café, and thirty minutes of reading before bed. Within two weeks, the anxiety had loosened its grip. The routine didn't make her problems disappear, but it gave her a sturdy framework to face each day with confidence.",
+    "topicTag": "adjusting abroad",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'루틴을 세우다'라는 뜻으로, 일정한 생활 패턴이나 습관을 만들어 정착시키는 것을 의미합니다.",
+    "realUsageKo": "새로운 환경에 적응하거나 생활을 개선하고 싶을 때, 규칙적인 일과를 의도적으로 만들어가는 상황에서 자주 씁니다. 단순히 습관 하나가 아니라 전반적인 생활 패턴을 체계적으로 구축한다는 뉘앙스입니다.",
+    "etymologyKo": "establish는 라틴어 stabilire(안정시키다)에서 유래했고, routine은 프랑스어 route(길)에서 파생되어 '정해진 길=반복되는 절차'라는 뜻을 갖게 되었습니다.",
+    "nuanceKo": "set up a routine이나 build a routine보다 격식 있고 의도적인 느낌이 강합니다. 단순히 습관이 생기는 것이 아니라 의식적으로 체계를 잡는다는 뉘앙스를 전달합니다.",
+    "shortExampleEn": "It took me a month to establish a routine after starting my new job.",
+    "shortExampleKo": "새 직장을 시작하고 루틴을 잡는 데 한 달이 걸렸다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "take-a-leaf-out-of-someone's-book_73eb218e",
+  "expression": "take a leaf out of someone's book",
+  "selectionMeta": {
+    "selectedPhrase": "take a leaf out of someone's book",
+    "selectedSenseLabelKo": "본받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You should take a leaf out of Maria's book and start preparing for meetings the night before."
+  },
+  "step2": {
+    "story": "Jason always struggled to stay organized at work, missing deadlines and losing track of tasks. One day, he decided to take a leaf out of his colleague Priya's book and started using a detailed planner. Within weeks, his performance reviews improved dramatically.",
+    "topicTag": "workplace habits",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Growing up, Nora watched her older sister Elena handle every setback with quiet determination. When Elena lost her scholarship, she didn't complain—she found two part-time jobs and kept studying. When Nora faced her own crisis years later, failing her medical school entrance exam, she remembered that resilience. She decided to take a leaf out of Elena's book and refused to let one failure define her future. She restructured her study plan, sought help from mentors, and showed up every single day. The following year, she passed with flying colors, grateful for the example her sister had set.",
+    "topicTag": "personal growth",
+    "moodTag": "inspirational"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 책에서 한 페이지를 빼내다라는 뜻으로, 직역하면 타인의 책에서 한 장을 가져오는 행위를 의미합니다.",
+    "realUsageKo": "다른 사람의 좋은 행동이나 방식을 본받아 자신도 따라 하겠다는 뜻으로 사용됩니다. '~를 본받다', '~의 방식을 따르다'와 비슷한 의미입니다.",
+    "etymologyKo": "여기서 'leaf'는 나뭇잎이 아니라 책의 한 페이지를 뜻하는 고어 표현에서 유래했습니다. 16세기경부터 사용된 관용구로, 타인의 책(경험)에서 한 페이지를 빌려온다는 비유입니다.",
+    "nuanceKo": "긍정적인 맥락에서 주로 사용되며, 존경이나 감탄의 뉘앙스를 담고 있습니다. 격식체와 비격식체 모두에서 자연스럽게 쓰이며, 조언이나 권유의 톤으로 자주 등장합니다.",
+    "shortExampleEn": "Maybe you should take a leaf out of Tom's book and wake up early to exercise.",
+    "shortExampleKo": "톰을 본받아서 일찍 일어나 운동해 보는 건 어때?"
+  }
+}

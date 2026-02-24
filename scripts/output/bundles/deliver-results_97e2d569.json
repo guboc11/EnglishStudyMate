@@ -1,0 +1,30 @@
+{
+  "id": "deliver-results_97e2d569",
+  "expression": "deliver results",
+  "selectionMeta": {
+    "selectedPhrase": "deliver results",
+    "selectedSenseLabelKo": "결과를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new marketing team was under enormous pressure to deliver results within the first quarter."
+  },
+  "step2": {
+    "story": "After months of restructuring, the CEO gave the product division one clear mandate: deliver results or face budget cuts. The team rallied together, working late nights and weekends to hit every milestone. By the end of the quarter, their revenue numbers spoke for themselves.",
+    "topicTag": "workplace pressure",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jenna had been promoted to regional director just three months ago, and the board was already growing impatient. Her predecessor had left behind a trail of missed targets and broken promises. She knew that fancy presentations and optimistic forecasts wouldn't be enough — she needed to deliver results. So she stripped away every unnecessary meeting, empowered her team leads to make decisions on the ground, and focused relentlessly on the three metrics that mattered most. Within eight weeks, customer retention climbed by fifteen percent. When she walked into the next board meeting, she didn't need to say a word — the numbers on the screen did all the talking.",
+    "topicTag": "leadership",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "'결과를 전달하다'라는 뜻으로, 약속하거나 기대된 성과를 실제로 만들어 내는 것을 의미합니다.",
+    "realUsageKo": "비즈니스나 업무 환경에서 '말만 하지 않고 실제로 성과를 내다'라는 의미로 자주 사용됩니다. 단순히 결과물을 내놓는 것이 아니라, 기대에 부응하는 수준의 성과를 달성했을 때 씁니다.",
+    "etymologyKo": "deliver는 라틴어 'deliberare(해방하다)'에서 유래했으며, '무언가를 상대에게 넘겨주다'라는 뜻이 확장되어 '약속한 것을 이행하다'라는 의미를 갖게 되었습니다. results와 결합하여 '성과를 실현하다'라는 비즈니스 표현으로 정착했습니다.",
+    "nuanceKo": "격식 있고 프로페셔널한 느낌의 표현입니다. 일상 대화보다는 회의, 보고서, 평가 등 업무 맥락에서 주로 사용되며, '실력으로 증명하다'라는 뉘앙스가 담겨 있습니다.",
+    "shortExampleEn": "We hired her because she has a proven track record of delivering results.",
+    "shortExampleKo": "우리가 그녀를 채용한 것은 그녀가 성과를 내온 검증된 이력이 있기 때문입니다."
+  }
+}

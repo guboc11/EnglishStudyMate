@@ -1,0 +1,30 @@
+{
+  "id": "go-down-in-flames_e643df35",
+  "expression": "go down in flames",
+  "selectionMeta": {
+    "selectedPhrase": "go down in flames",
+    "selectedSenseLabelKo": "처참하게 실패하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His ambitious startup went down in flames after investors pulled out at the last minute."
+  },
+  "step2": {
+    "story": "Marcus spent two years building the perfect pitch for his restaurant concept. On the day of the big presentation, his business partner revealed they had secretly drained the funding account. The entire venture went down in flames before it even opened its doors.",
+    "topicTag": "business failure",
+    "moodTag": "devastating"
+  },
+  "step3": {
+    "story": "Elena had always dreamed of directing her first feature film. She maxed out her credit cards, called in every favor, and convinced a small crew to work for almost nothing. For six grueling months, they poured their hearts into the project. But when the lead actor quit two weeks before the premiere, everything fell apart. The film went down in flames at the festival, drawing empty seats and brutal reviews. Standing alone in the lobby afterward, Elena realized that sometimes passion alone isn't enough to keep a dream alive.",
+    "topicTag": "shattered dreams",
+    "moodTag": "melancholic"
+  },
+  "meaning": {
+    "literalMeaningKo": "불꽃 속으로 추락하다 — 비행기가 화염에 휩싸여 떨어지는 모습을 떠올리면 됩니다.",
+    "realUsageKo": "어떤 계획, 사업, 시도 등이 아주 처참하고 눈에 띄게 실패할 때 사용합니다. 단순히 실패한 게 아니라 화려하게, 돌이킬 수 없이 망했다는 뉘앙스입니다.",
+    "etymologyKo": "제2차 세계대전 당시 격추당한 전투기가 불길에 휩싸여 추락하는 모습에서 유래한 표현입니다. 이후 일상 영어에서 극적이고 완전한 실패를 묘사하는 비유로 자리잡았습니다.",
+    "nuanceKo": "일상 대화에서 자주 쓰이며, 다소 극적인 어감을 가지고 있습니다. 유머러스하게 자기 실패를 이야기할 때도 쓰지만, 진지한 맥락에서 처참한 결말을 강조할 때도 사용됩니다.",
+    "shortExampleEn": "The new product launch went down in flames when customers discovered a major defect.",
+    "shortExampleKo": "신제품 출시가 고객들이 심각한 결함을 발견하면서 처참하게 실패했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "schedule-a-meeting_888996a3",
+  "expression": "schedule a meeting",
+  "selectionMeta": {
+    "selectedPhrase": "schedule a meeting",
+    "selectedSenseLabelKo": "미팅을 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I need to schedule a meeting with the design team before we finalize the project timeline."
+  },
+  "step2": {
+    "story": "Jenna realized the product launch was only two weeks away, and no one had aligned on the marketing strategy. She quickly opened her calendar app to schedule a meeting with the entire cross-functional team. Within minutes, everyone confirmed, and she felt a wave of relief knowing things would finally move forward.",
+    "topicTag": "project coordination",
+    "moodTag": "proactive"
+  },
+  "step3": {
+    "story": "David had been putting off an uncomfortable conversation with his co-founder for days. Their startup was burning through cash faster than expected, and they needed to make tough decisions about which features to cut. On Monday morning, he finally gathered the courage to schedule a meeting for that afternoon, blocking out a full hour so they could talk without interruptions. He prepared a simple spreadsheet showing their runway and three possible scenarios. When they sat down together, the conversation was hard but productive. By the end of the meeting, they had a clear plan and felt more united than they had in weeks.",
+    "topicTag": "startup challenges",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "회의를 일정에 넣다, 즉 미팅 시간과 장소를 정하다.",
+    "realUsageKo": "업무 환경에서 동료, 클라이언트, 팀원 등과 특정 시간에 만나 논의하기로 약속을 잡을 때 사용합니다. 캘린더에 일정을 등록하는 행위까지 포함하는 느낌입니다.",
+    "etymologyKo": "schedule은 라틴어 scheda(종이 조각)에서 유래하여 '일정표'를 뜻하게 되었고, meeting은 고대 영어 mēting(만남)에서 왔습니다. 합쳐져 '만남을 일정표에 올리다'라는 의미가 되었습니다.",
+    "nuanceKo": "격식 있는 비즈니스 표현으로, 단순히 '만나자'보다 공식적이고 체계적인 느낌을 줍니다. 캐주얼한 자리보다는 업무 목적의 만남에 주로 쓰입니다.",
+    "shortExampleEn": "Can we schedule a meeting for Thursday to go over the quarterly results?",
+    "shortExampleKo": "분기 실적을 검토하기 위해 목요일에 미팅을 잡을 수 있을까요?"
+  }
+}

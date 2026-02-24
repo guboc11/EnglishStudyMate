@@ -1,0 +1,30 @@
+{
+  "id": "valuable-lesson_8b436a20",
+  "expression": "valuable lesson",
+  "selectionMeta": {
+    "selectedPhrase": "valuable lesson",
+    "selectedSenseLabelKo": "귀중한 교훈",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Losing that client taught me a valuable lesson about the importance of follow-up communication."
+  },
+  "step2": {
+    "story": "When Sarah rushed through her first big presentation without preparing backup data, the client asked tough questions she couldn't answer. She lost the deal, but her manager told her it was a valuable lesson that would shape her career. From that day on, she never walked into a meeting unprepared again.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Jake had always been the fastest coder on his team, often skipping code reviews to meet deadlines. One Friday evening, he pushed an untested update directly to production, confident it would work fine. By Saturday morning, the entire payment system was down and thousands of customers were affected. The engineering lead spent the whole weekend fixing the mess while Jake watched helplessly. It was a valuable lesson he would never forget — speed means nothing without reliability. After that incident, Jake became the team's biggest advocate for thorough testing and peer reviews.",
+    "topicTag": "professional responsibility",
+    "moodTag": "humbled"
+  },
+  "meaning": {
+    "literalMeaningKo": "가치 있는(valuable) 교훈(lesson)이라는 뜻으로, 경험을 통해 얻은 소중한 깨달음을 의미합니다.",
+    "realUsageKo": "실수나 어려운 경험을 겪은 후 그로부터 중요한 것을 배웠다는 맥락에서 자주 사용됩니다. 주로 'learn a valuable lesson' 또는 'teach someone a valuable lesson' 형태로 쓰입니다.",
+    "etymologyKo": "'valuable'은 라틴어 'valere(가치가 있다)'에서, 'lesson'은 라틴어 'lectio(읽기, 배움)'에서 유래했습니다. 두 단어가 결합하여 '값진 배움'이라는 의미의 관용적 연어가 되었습니다.",
+    "nuanceKo": "대체로 실패나 고생 끝에 얻은 교훈을 가리키며, 긍정적이고 성찰적인 톤으로 사용됩니다. 단순한 지식 습득이 아닌 뼈저리게 체득한 깨달음이라는 뉘앙스가 있습니다.",
+    "shortExampleEn": "Traveling alone for the first time taught me a valuable lesson about self-reliance.",
+    "shortExampleKo": "처음으로 혼자 여행한 것은 자립에 대한 귀중한 교훈을 가르쳐 주었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "develop-a-habit_23db6ab8",
+  "expression": "develop a habit",
+  "selectionMeta": {
+    "selectedPhrase": "develop a habit",
+    "selectedSenseLabelKo": "습관을 개발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After reading about the benefits of meditation, she decided to develop a habit of sitting quietly for ten minutes every morning."
+  },
+  "step2": {
+    "story": "James kept forgetting to drink enough water throughout the day, so he set hourly reminders on his phone. Within a month, he managed to develop a habit of reaching for his water bottle without even thinking about it. His energy levels improved noticeably.",
+    "topicTag": "health routine",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When Mina started her new job, she noticed that the most successful people on her team always reviewed their goals first thing in the morning. She wanted to develop a habit like theirs, so she began writing three priorities in her notebook before opening her laptop. The first two weeks felt forced and awkward, and some mornings she forgot entirely. But gradually, the routine started to feel natural, like brushing her teeth. By the third month, she couldn't imagine starting her day any other way. Her manager even commented on how much more focused and organized she had become.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'습관을 발전시키다'라는 뜻으로, 반복적인 행동을 의식적으로 만들어 나간다는 의미입니다.",
+    "realUsageKo": "새로운 행동 패턴을 의도적으로 길러서 자연스러운 습관으로 자리 잡게 할 때 사용합니다. 주로 긍정적인 습관을 형성하는 맥락에서 쓰이지만, 나쁜 습관에도 사용할 수 있습니다.",
+    "etymologyKo": "'develop'은 원래 프랑스어에서 '펼치다, 드러내다'라는 뜻에서 유래했으며, 시간을 들여 점진적으로 성장시킨다는 의미를 담고 있습니다. 'habit'은 라틴어 'habitus(상태, 조건)'에서 왔습니다.",
+    "nuanceKo": "'make a habit'보다 더 의도적이고 점진적인 과정을 강조합니다. 단순히 습관이 생기는 것이 아니라 노력을 들여 키워나간다는 뉘앙스가 있어, 자기계발이나 건강 관련 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "It takes about 21 days to develop a habit of exercising regularly.",
+    "shortExampleKo": "규칙적으로 운동하는 습관을 기르는 데는 약 21일이 걸립니다."
+  }
+}

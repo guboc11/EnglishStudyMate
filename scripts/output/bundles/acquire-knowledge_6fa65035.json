@@ -1,0 +1,30 @@
+{
+  "id": "acquire-knowledge_6fa65035",
+  "expression": "acquire knowledge",
+  "selectionMeta": {
+    "selectedPhrase": "acquire knowledge",
+    "selectedSenseLabelKo": "지식을 습득하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spent years traveling the world to acquire knowledge about different cultures and traditions."
+  },
+  "step2": {
+    "story": "David had always been curious about astronomy, so he enrolled in an evening course at the local university. Over the semester, he managed to acquire knowledge that transformed stargazing from a casual hobby into a deep passion. By the end, he could identify constellations and explain the life cycles of stars to his amazed friends.",
+    "topicTag": "lifelong learning",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "When Mina first arrived in Berlin, she barely spoke a word of German and felt completely lost. Determined not to stay that way, she set out to acquire knowledge not just of the language but of the city's rich history. She visited museums on weekday mornings, chatted with elderly neighbors over coffee, and read local newspapers with a dictionary by her side. Slowly, the unfamiliar streets began to feel like home. Her colleagues noticed the change too — she could reference historical events in meetings and connect them to modern business trends. What had started as survival became the most rewarding intellectual journey of her life.",
+    "topicTag": "cultural adaptation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'지식을 획득하다'라는 뜻으로, 학습이나 경험을 통해 새로운 정보나 기술을 얻는 것을 의미합니다.",
+    "realUsageKo": "단순히 정보를 접하는 것이 아니라, 노력과 시간을 들여 체계적으로 지식을 쌓아가는 과정을 강조할 때 사용합니다. 학술적이거나 격식 있는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "acquire는 라틴어 'acquirere(얻다, 추가하다)'에서 유래했으며, knowledge는 고대 영어 'cnawlece(인식, 앎)'에서 발전한 단어입니다. 두 단어의 조합은 능동적으로 앎을 추구하는 행위를 나타냅니다.",
+    "nuanceKo": "gain knowledge나 get knowledge보다 격식 있고 학술적인 느낌을 줍니다. 의도적이고 체계적인 학습 과정을 암시하며, 에세이나 공식 발표에서 선호되는 표현입니다.",
+    "shortExampleEn": "Reading widely is one of the best ways to acquire knowledge.",
+    "shortExampleKo": "폭넓게 독서하는 것은 지식을 습득하는 가장 좋은 방법 중 하나입니다."
+  }
+}

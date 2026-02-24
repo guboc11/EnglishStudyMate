@@ -1,0 +1,30 @@
+{
+  "id": "handle-pressure_7516d204",
+  "expression": "handle pressure",
+  "selectionMeta": {
+    "selectedPhrase": "handle pressure",
+    "selectedSenseLabelKo": "압박을 처리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She learned to handle pressure by focusing on one task at a time instead of worrying about everything at once."
+  },
+  "step2": {
+    "story": "The project deadline was moved up by two weeks, and the entire team felt overwhelmed. Mina, however, knew how to handle pressure — she calmly reorganized the schedule, delegated tasks, and kept everyone motivated. By Friday, they delivered the project ahead of the new deadline.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Joon had always avoided leadership roles because he didn't think he could handle pressure well. But when his manager suddenly resigned, he was asked to step in temporarily. The first week was brutal — clients called nonstop, and his inbox overflowed with urgent requests. He stayed late every night, feeling the weight of responsibility pressing down on him. Slowly, though, he developed a routine: prioritize, delegate, breathe. By the end of the month, his team told him he was the calmest leader they'd ever had, and Joon realized he could handle pressure far better than he'd imagined.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'handle'은 '다루다', 'pressure'는 '압박'으로, 직역하면 '압박을 다루다'라는 뜻입니다.",
+    "realUsageKo": "스트레스가 많은 상황이나 긴박한 마감, 높은 기대치 등에서 흔들리지 않고 잘 대처한다는 의미로 사용됩니다. 직장, 스포츠, 학업 등 다양한 상황에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'handle'은 고대 영어 'handlian(손으로 다루다)'에서 유래했고, 'pressure'는 라틴어 'pressura(누르다)'에서 왔습니다. 물리적 압력을 손으로 다룬다는 비유가 심리적 압박 대처로 확장되었습니다.",
+    "nuanceKo": "단순히 '견딘다'보다 적극적으로 '잘 대처한다'는 뉘앙스가 강합니다. 'handle pressure well'이면 칭찬, 'can't handle pressure'이면 약점을 지적하는 표현이 됩니다.",
+    "shortExampleEn": "Good leaders know how to handle pressure without losing their composure.",
+    "shortExampleKo": "좋은 리더는 침착함을 잃지 않고 압박을 잘 다룰 줄 압니다."
+  }
+}

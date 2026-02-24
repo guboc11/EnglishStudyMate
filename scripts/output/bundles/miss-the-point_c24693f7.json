@@ -1,0 +1,30 @@
+{
+  "id": "miss-the-point_c24693f7",
+  "expression": "miss the point",
+  "selectionMeta": {
+    "selectedPhrase": "miss the point",
+    "selectedSenseLabelKo": "핵심을 놓치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I tried to explain why the project failed, but he completely missed the point and blamed the budget instead."
+  },
+  "step2": {
+    "story": "During the team meeting, Sarah presented data showing that customer complaints were about poor service quality. Her manager responded by suggesting they lower prices. Sarah sighed, realizing he had completely missed the point of her presentation.",
+    "topicTag": "workplace communication",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Jake spent weeks preparing a detailed report on why employee turnover was so high at the company. He gathered anonymous surveys, conducted interviews, and identified toxic management practices as the root cause. When he finally presented his findings to the board, the CEO nodded thoughtfully and announced they would install a new coffee machine in the break room. Jake stared in disbelief. The entire board had missed the point. His colleague whispered, 'They hear what they want to hear.' Jake realized that sometimes the hardest part isn't finding the truth — it's getting people to actually listen.",
+    "topicTag": "corporate culture",
+    "moodTag": "disillusioned"
+  },
+  "meaning": {
+    "literalMeaningKo": "'요점을 놓치다'라는 뜻으로, 핵심이나 중요한 부분을 이해하지 못하는 것을 의미합니다.",
+    "realUsageKo": "상대방이 말하고자 하는 핵심을 파악하지 못하거나, 상황의 본질을 이해하지 못할 때 사용합니다. 논쟁이나 토론에서 상대가 엉뚱한 부분에 초점을 맞출 때 자주 쓰입니다.",
+    "etymologyKo": "'point'는 '요점, 핵심'을 뜻하며, 'miss'는 '놓치다'를 의미합니다. 과녁(point)을 빗나가는 이미지에서 유래하여, 대화나 논의의 핵심을 제대로 맞추지 못하는 상황을 표현합니다.",
+    "nuanceKo": "단순한 오해보다는 핵심을 놓쳤다는 약간의 답답함이나 비판적 뉘앙스가 담겨 있습니다. 'You're missing the point'라고 하면 '당신이 핵심을 못 보고 있다'는 직설적인 지적이 됩니다.",
+    "shortExampleEn": "You're missing the point — it's not about money, it's about trust.",
+    "shortExampleKo": "핵심을 놓치고 있어요 — 돈 문제가 아니라 신뢰의 문제예요."
+  }
+}

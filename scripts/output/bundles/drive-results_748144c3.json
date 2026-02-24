@@ -1,0 +1,30 @@
+{
+  "id": "drive-results_748144c3",
+  "expression": "drive results",
+  "selectionMeta": {
+    "selectedPhrase": "drive results",
+    "selectedSenseLabelKo": "결과를 이끌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new marketing strategy is designed to drive results across every department."
+  },
+  "step2": {
+    "story": "The CEO brought in a consultant known for her ability to drive results under tight deadlines. Within three weeks, the team restructured their workflow and hit every quarterly target. The board was so impressed they extended her contract for the rest of the year.",
+    "topicTag": "leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jisoo joined the struggling startup as head of operations, morale was at an all-time low and revenue had been declining for two straight quarters. She gathered the entire team on her first day and laid out a clear, measurable action plan. Rather than making empty promises, she focused on small wins that would drive results quickly and rebuild confidence. Within a month, the sales pipeline doubled and customer retention rates started climbing. Her secret was simple: she removed unnecessary meetings, gave each team member ownership of a specific metric, and held everyone accountable with weekly check-ins. By the end of the quarter, the startup had not only recovered but was outperforming its original projections.",
+    "topicTag": "business turnaround",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'결과를 운전하다'라는 직역으로, 결과를 향해 적극적으로 밀고 나간다는 의미입니다.",
+    "realUsageKo": "비즈니스나 조직 환경에서 구체적인 성과나 목표를 달성하기 위해 적극적으로 행동하고 추진한다는 의미로 사용됩니다. '성과를 내다', '결과를 이끌어내다'와 비슷합니다.",
+    "etymologyKo": "'drive'는 원래 '몰다, 추진하다'라는 뜻의 고대 영어에서 유래했으며, 비유적으로 무언가를 강하게 밀어붙여 이루어낸다는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 결과가 생긴 것이 아니라, 능동적이고 의도적으로 성과를 만들어냈다는 뉘앙스가 강합니다. 주로 비즈니스, 리더십, 마케팅 맥락에서 전문적이고 긍정적인 어감으로 쓰입니다.",
+    "shortExampleEn": "A strong team culture can drive results that exceed expectations.",
+    "shortExampleKo": "강한 팀 문화는 기대를 뛰어넘는 성과를 이끌어낼 수 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ask-for-forgiveness_6be18769",
+  "expression": "ask for forgiveness",
+  "selectionMeta": {
+    "selectedPhrase": "ask for forgiveness",
+    "selectedSenseLabelKo": "용서를 구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After realizing how much his words had hurt her, he decided to ask for forgiveness before it was too late."
+  },
+  "step2": {
+    "story": "Jake had snapped at his coworker during a stressful meeting, saying things he didn't mean. That evening, guilt weighed heavily on him, so he walked over to her desk the next morning to ask for forgiveness. She smiled and said everyone has tough days.",
+    "topicTag": "workplace relationships",
+    "moodTag": "remorseful"
+  },
+  "step3": {
+    "story": "Mia hadn't spoken to her older sister in over two years. A careless argument at their mother's birthday dinner had spiraled into silence, and pride kept them both from reaching out. One rainy afternoon, Mia found an old photo of them laughing together as children, and something inside her shifted. She picked up her phone, hands trembling, and called her sister to ask for forgiveness. The line was quiet for a long moment, then she heard a sniffle. They talked for three hours that night, promising never to let pride steal their time again.",
+    "topicTag": "family reconciliation",
+    "moodTag": "emotional"
+  },
+  "meaning": {
+    "literalMeaningKo": "용서를 요청하다, 즉 자신의 잘못에 대해 상대방에게 용서해 달라고 부탁하는 것입니다.",
+    "realUsageKo": "자신이 실수하거나 잘못했을 때, 진심으로 사과하며 상대방의 마음을 풀어달라고 할 때 사용합니다. 단순한 'sorry'보다 더 진지하고 무게감 있는 표현입니다.",
+    "etymologyKo": "'ask for'는 '~을 요청하다'라는 뜻의 구동사이고, 'forgiveness'는 'forgive(용서하다)'에서 파생된 명사입니다. 중세 영어 시대부터 사용된 표현으로, 종교적 맥락에서 신에게 용서를 구하는 의미로도 많이 쓰였습니다.",
+    "nuanceKo": "일상적인 가벼운 사과보다는 진지한 상황에서 쓰이며, 자신의 잘못을 인정하고 관계 회복을 원한다는 뉘앙스를 담고 있습니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "It takes courage to ask for forgiveness when you know you were wrong.",
+    "shortExampleKo": "자신이 잘못했다는 것을 알면서 용서를 구하는 데는 용기가 필요합니다."
+  }
+}

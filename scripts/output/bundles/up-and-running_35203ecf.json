@@ -1,0 +1,30 @@
+{
+  "id": "up-and-running_35203ecf",
+  "expression": "up and running",
+  "selectionMeta": {
+    "selectedPhrase": "up and running",
+    "selectedSenseLabelKo": "가동 중인",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of debugging, the new payment system is finally up and running."
+  },
+  "step2": {
+    "story": "The entire office had been tense for days as the IT team scrambled to fix the crashed server. Late on Friday afternoon, the lead engineer typed one last command and leaned back in her chair. She smiled and announced, \"We're up and running again — go ahead and send those reports.\"",
+    "topicTag": "workplace technology",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Marcus had quit his corporate job three months ago to open a small coffee roastery in his hometown. The renovations took longer than expected, permits got delayed, and his industrial roaster arrived with a cracked gauge. Every setback made him question whether he had made the right decision. But this morning, standing in front of his gleaming shop with the aroma of freshly roasted beans drifting into the street, he finally felt it was real. The roastery was up and running, and the first customers were already lining up at the door. He took a deep breath and whispered to himself, \"This is just the beginning.\"",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '위로 올라가서 달리고 있는' 상태를 뜻합니다.",
+    "realUsageKo": "시스템, 사업, 기계 등이 정상적으로 작동하고 있는 상태를 나타낼 때 사용합니다. 특히 문제가 있었거나 새로 시작한 후 제대로 돌아가기 시작했다는 뉘앙스로 자주 쓰입니다.",
+    "etymologyKo": "기계나 엔진이 시동이 걸려(up) 가동 중인(running) 상태를 묘사하는 데서 유래했으며, 산업혁명 시대 공장 기계의 작동 상태를 표현하던 것이 일상 영어로 확장되었습니다.",
+    "nuanceKo": "단순히 '작동 중'이라는 의미보다는, 준비 과정이나 문제 해결을 거쳐 마침내 정상 가동에 이르렀다는 성취감이 담긴 표현입니다. 격식체·비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "The website should be up and running by tomorrow morning.",
+    "shortExampleKo": "내일 아침까지 웹사이트가 정상 가동될 겁니다."
+  }
+}

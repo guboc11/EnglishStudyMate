@@ -1,0 +1,30 @@
+{
+  "id": "pay-attention-to-detail_ca730bf8",
+  "expression": "pay attention to detail",
+  "selectionMeta": {
+    "selectedPhrase": "pay attention to detail",
+    "selectedSenseLabelKo": "세부 사항에 주의를 기울이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to succeed as a graphic designer, you really need to pay attention to detail in every project you take on."
+  },
+  "step2": {
+    "story": "Mia reviewed the contract one last time before sending it to the client. She always made it a point to pay attention to detail, even when deadlines were tight. Her careful eye had saved the company from costly mistakes more than once.",
+    "topicTag": "professional diligence",
+    "moodTag": "meticulous"
+  },
+  "step3": {
+    "story": "When Jun started his internship at an architecture firm, his supervisor handed him a thick stack of blueprints and said, \"In this office, we pay attention to detail — every millimeter matters.\" At first, Jun found the endless revisions exhausting. He would squint at measurements and double-check angles late into the evening. But after a few weeks, something shifted. He began to notice subtle errors that others missed, and his confidence grew. By the end of his internship, Jun realized that learning to pay attention to detail had sharpened not just his drafting skills, but the way he approached every challenge in life.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "세부 사항에 주의를 기울이다, 즉 작은 부분까지 신경 써서 살피다라는 뜻입니다.",
+    "realUsageKo": "업무나 작업에서 사소한 부분도 꼼꼼하게 확인하고 놓치지 않는다는 의미로 자주 사용됩니다. 직장에서 꼼꼼한 성격이나 업무 태도를 칭찬하거나 요구할 때 특히 많이 씁니다.",
+    "etymologyKo": "'pay attention'은 '주의를 기울이다'라는 뜻이고, 여기에 'to detail(세부 사항에)'이 결합된 연어 표현입니다. 'pay'가 '지불하다'에서 '(노력을) 쏟다'로 의미가 확장되어 사용됩니다.",
+    "nuanceKo": "단순히 '조심하다'보다 전문적이고 체계적인 느낌을 줍니다. 이력서나 면접에서 자신의 강점으로 자주 언급되며, 긍정적이고 프로페셔널한 뉘앙스를 가집니다.",
+    "shortExampleEn": "A good editor always pays attention to detail.",
+    "shortExampleKo": "좋은 편집자는 항상 세부 사항에 주의를 기울인다."
+  }
+}

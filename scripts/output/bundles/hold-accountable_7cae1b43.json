@@ -1,0 +1,30 @@
+{
+  "id": "hold-accountable_7cae1b43",
+  "expression": "hold accountable",
+  "selectionMeta": {
+    "selectedPhrase": "hold accountable",
+    "selectedSenseLabelKo": "책임을 지우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The board decided to hold the CEO accountable for the company's declining performance."
+  },
+  "step2": {
+    "story": "After the data breach exposed millions of customer records, the public demanded answers. The senate committee held the tech company's executives accountable by calling them to testify under oath. Several executives resigned within the following week.",
+    "topicTag": "corporate responsibility",
+    "moodTag": "serious"
+  },
+  "step3": {
+    "story": "Maria had always believed that leadership meant more than just giving orders. When her department missed the quarterly target by a wide margin, she didn't point fingers at her team. Instead, she stood before the entire company at the town hall meeting and took full responsibility. Her director, however, wasn't satisfied with words alone. He held Maria accountable by requiring her to submit a detailed recovery plan within 48 hours. It was a tough moment, but Maria later admitted that being held accountable pushed her to become a far better manager.",
+    "topicTag": "leadership growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'accountable(책임이 있는)' 상태로 'hold(유지하다, 잡아두다)'한다는 뜻으로, 누군가에게 책임을 지게 하는 것을 의미합니다.",
+    "realUsageKo": "어떤 사람이나 조직이 한 행동이나 결과에 대해 책임을 지도록 요구할 때 사용합니다. 주로 실수, 잘못, 또는 약속 불이행에 대해 '당신이 책임져야 한다'는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "'accountable'은 'account(설명하다, 보고하다)'에서 파생된 형용사로, 원래 '설명할 수 있는'이라는 뜻이었습니다. 중세 영어에서 재정 보고의 의무에서 확장되어 '책임이 있는'이라는 의미로 발전했습니다.",
+    "nuanceKo": "단순히 '책임지다'보다 더 공식적이고 강한 어감입니다. 권위 있는 위치에서 아래로, 혹은 대중이 권력자에게 책임을 묻는 상황에서 자주 사용되며, 비즈니스·정치·법률 맥락에서 특히 많이 쓰입니다.",
+    "shortExampleEn": "Parents should hold their children accountable for their actions.",
+    "shortExampleKo": "부모는 자녀가 자신의 행동에 책임을 지도록 해야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lay-the-groundwork_517fa961",
+  "expression": "lay the groundwork",
+  "selectionMeta": {
+    "selectedPhrase": "lay the groundwork",
+    "selectedSenseLabelKo": "기반을 마련하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before launching the product, the team spent months laying the groundwork by conducting market research and building key partnerships."
+  },
+  "step2": {
+    "story": "Mina had been quietly laying the groundwork for her own bakery for over a year. She took evening classes in business management, saved every spare penny, and built relationships with local suppliers. When she finally opened the doors, everything fell into place because of that careful preparation.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After years of working in a corporate office, Daniel decided it was time to pursue his dream of becoming a full-time author. He knew he couldn't just quit overnight, so he began laying the groundwork while still employed. Every morning before work, he wrote for two hours, slowly building a manuscript. He also started a blog to grow an audience and connected with literary agents at weekend conferences. By the time he handed in his resignation letter, he already had a completed novel and a small but loyal readership. His careful preparation turned what could have been a reckless leap into a confident, well-planned transition.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '기초 공사를 놓다'라는 뜻입니다.",
+    "realUsageKo": "어떤 일이 성공할 수 있도록 미리 필요한 준비와 토대를 마련하는 것을 의미합니다. 주로 프로젝트, 사업, 관계 등에서 본격적인 실행 전에 하는 사전 작업을 가리킵니다.",
+    "etymologyKo": "건축에서 건물을 짓기 전에 기초(groundwork)를 다지는 작업에서 유래한 비유적 표현입니다. 'lay'는 '놓다, 깔다'라는 뜻으로, 물리적 기반을 다지는 이미지가 추상적 준비 과정으로 확장되었습니다.",
+    "nuanceKo": "단순한 준비가 아니라, 장기적이고 전략적인 사전 작업이라는 뉘앙스가 있습니다. 긍정적이고 계획적인 느낌을 주며, 비즈니스나 공식적인 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "The negotiations laid the groundwork for a historic peace agreement.",
+    "shortExampleKo": "그 협상은 역사적인 평화 협정의 기반을 마련했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "under-the-table_88ac7019",
+  "expression": "under the table",
+  "selectionMeta": {
+    "selectedPhrase": "under the table",
+    "selectedSenseLabelKo": "비밀리에",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The contractor offered to do the renovation work under the table so neither of them would have to deal with taxes."
+  },
+  "step2": {
+    "story": "Maria needed extra income but couldn't take on official work due to her visa restrictions. Her neighbor offered to pay her under the table for tutoring his kids after school. She felt uneasy about the arrangement, but the money was too good to refuse.",
+    "topicTag": "financial pressure",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "When Jake first started working at the restaurant, everything seemed normal. But after a few weeks, he noticed the owner handing cash to some employees in the back office. One night, the owner pulled him aside and said he could earn an extra five hundred dollars a week, all paid under the table. Jake hesitated — the money would solve a lot of problems, but he knew unreported income could land him in serious trouble. He watched his coworkers spending freely and wondered how long they'd been doing this. In the end, Jake decided the risk wasn't worth it and quietly started looking for a new job.",
+    "topicTag": "workplace ethics",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '테이블 아래에서'라는 뜻으로, 남들 눈에 보이지 않는 곳에서 무언가를 주고받는 이미지입니다.",
+    "realUsageKo": "주로 세금을 피하기 위해 공식 기록 없이 현금으로 거래하거나, 뇌물·비공식 보수 등을 몰래 주고받을 때 사용합니다. 'under-the-table payment(비공식 지급)'처럼 형용사로도 쓰입니다.",
+    "etymologyKo": "테이블 위에서 공개적으로 거래하는 것과 대비하여, 테이블 아래에서 몰래 돈을 건네는 행위에서 유래했습니다. 도박판에서 규칙을 어기며 테이블 밑으로 칩을 전달하던 관행에서 비롯되었다는 설도 있습니다.",
+    "nuanceKo": "불법이거나 최소한 비윤리적인 뉘앙스가 강합니다. 단순한 '비밀'이 아니라 법적·제도적 규정을 우회한다는 부정적 의미를 내포합니다.",
+    "shortExampleEn": "He was paid under the table to avoid paying taxes.",
+    "shortExampleKo": "그는 세금을 피하기 위해 비공식적으로 현금을 받았다."
+  }
+}

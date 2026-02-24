@@ -1,0 +1,30 @@
+{
+  "id": "borrow-money_e83f3434",
+  "expression": "borrow money",
+  "selectionMeta": {
+    "selectedPhrase": "borrow money",
+    "selectedSenseLabelKo": "돈을 빌리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I had to borrow money from my parents to pay the security deposit on my new apartment."
+  },
+  "step2": {
+    "story": "Jake stared at the repair bill for his car and sighed. He hated the idea, but he needed to borrow money from his older brother to cover the cost. He promised himself he would pay it back by the end of the month.",
+    "topicTag": "unexpected expenses",
+    "moodTag": "reluctant"
+  },
+  "step3": {
+    "story": "Mina had been saving for months to open her own bakery, but she was still short by a significant amount. After nights of going back and forth, she finally decided to borrow money from the bank. The loan officer walked her through every detail of the repayment plan. Mina felt a knot in her stomach as she signed the papers, but she reminded herself this was an investment in her dream. On opening day, when a line of customers stretched down the sidewalk, she knew the risk had been worth it. She made her first loan payment that very evening with a proud smile.",
+    "topicTag": "chasing dreams",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람이나 기관으로부터 돈을 빌려서 나중에 갚는 것을 뜻합니다.",
+    "realUsageKo": "일상에서 친구, 가족, 은행 등에게 돈을 빌릴 때 폭넓게 사용됩니다. 격식/비격식 상관없이 모든 상황에서 쓸 수 있는 기본 표현입니다.",
+    "etymologyKo": "'borrow'는 고대 영어 'borgian(담보를 잡다)'에서 유래했으며, 원래 무언가를 담보로 맡기고 빌린다는 의미였습니다. 현대에는 담보 없이도 빌리는 행위 전반을 가리킵니다.",
+    "nuanceKo": "'borrow money'는 중립적인 표현이지만, 돈을 빌리는 것에 대해 약간의 부담감이나 미안함의 뉘앙스가 동반될 수 있습니다. 반대 표현인 'lend money(돈을 빌려주다)'와 혼동하지 않도록 주의하세요.",
+    "shortExampleEn": "Can I borrow money from you until Friday?",
+    "shortExampleKo": "금요일까지 돈 좀 빌려도 될까?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "zero-hour_61953da4",
+  "expression": "zero hour",
+  "selectionMeta": {
+    "selectedPhrase": "zero hour",
+    "selectedSenseLabelKo": "결정적인 순간",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As zero hour approached, the entire team fell silent, knowing there was no turning back from the product launch."
+  },
+  "step2": {
+    "story": "The startup had spent two years building their app in secret. When zero hour finally arrived, the founder's hands trembled as she pressed the publish button. Within minutes, thousands of downloads flooded in, and she knew every sleepless night had been worth it.",
+    "topicTag": "startup launch",
+    "moodTag": "tense anticipation"
+  },
+  "step3": {
+    "story": "Captain Reyes stared at the mission clock ticking down on the bridge screen. The crew had rehearsed the deep-sea recovery operation dozens of times, but nothing could fully prepare them for the real thing. Zero hour was set for 0600, and the ocean outside the porthole was still pitch black. She reviewed the checklist one final time, her voice steady despite the knot in her stomach. When the clock struck six, she gave the order and the submersible dropped beneath the waves. In that decisive moment, months of planning collapsed into a single breath held by everyone on board.",
+    "topicTag": "ocean exploration",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'제로 시간'이라는 뜻으로, 카운트다운이 0에 도달하는 순간을 가리킵니다.",
+    "realUsageKo": "중요한 작전이나 행동이 시작되는 결정적인 순간을 의미합니다. 더 이상 미룰 수 없는, 실행에 옮겨야 하는 바로 그 시점을 강조할 때 사용합니다.",
+    "etymologyKo": "제1차 세계대전 당시 군사 용어에서 유래했습니다. 공격 개시 시각을 'H-hour' 또는 'zero hour'로 불렀으며, 이후 일상 영어에서도 '결정적 순간'이라는 의미로 확장되었습니다.",
+    "nuanceKo": "긴장감과 비장함이 담긴 표현으로, 일상적인 마감보다는 중대한 결정이나 행동의 시작점을 묘사할 때 어울립니다. 격식체와 비격식체 모두에서 사용 가능합니다.",
+    "shortExampleEn": "With zero hour just minutes away, the soldiers checked their equipment one last time.",
+    "shortExampleKo": "결정적인 순간이 불과 몇 분 앞으로 다가오자, 병사들은 마지막으로 장비를 점검했다."
+  }
+}

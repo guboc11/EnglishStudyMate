@@ -1,0 +1,30 @@
+{
+  "id": "offer-a-solution_0fca0a30",
+  "expression": "offer a solution",
+  "selectionMeta": {
+    "selectedPhrase": "offer a solution",
+    "selectedSenseLabelKo": "해결책을 제시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the team couldn't agree on the budget, Sarah offered a solution that satisfied everyone at the table."
+  },
+  "step2": {
+    "story": "The neighborhood had been arguing about the noisy construction for weeks. At the town hall meeting, a retired engineer stood up and offered a solution: rotating the work schedule so no single block was affected two days in a row. The room fell silent, then erupted in applause.",
+    "topicTag": "community conflict",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jin had been staring at the failing test results for three straight hours. Every deployment crashed the payment module, and the product launch was forty-eight hours away. His manager paced behind him, phone buzzing with messages from the CEO. Just when the pressure felt unbearable, Mia from the infrastructure team walked over and offered a solution she had been quietly prototyping on her own branch. She suggested swapping the synchronous API calls for an event-driven queue, which would eliminate the timeout errors entirely. Jin reviewed the code, ran the tests, and watched every single one turn green. Sometimes the best breakthroughs come from someone who has been listening while everyone else was panicking.",
+    "topicTag": "workplace crisis",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'해결책을 제안하다'라는 뜻으로, 문제 상황에서 구체적인 방안을 내놓는 행위를 말합니다.",
+    "realUsageKo": "단순히 아이디어를 말하는 것이 아니라, 상대방이 받아들일 수 있도록 정리된 해결 방안을 적극적으로 제시할 때 사용합니다. 비즈니스 회의, 갈등 중재, 기술 문제 해결 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "'offer'는 라틴어 'offerre(~을 향해 가져가다)'에서 유래했고, 'solution'은 라틴어 'solutio(풀다, 해체하다)'에서 왔습니다. 합쳐서 '문제를 풀어주는 것을 가져다주다'라는 의미가 됩니다.",
+    "nuanceKo": "suggest a solution보다 더 적극적이고 책임감 있는 뉘앙스입니다. offer는 '내가 직접 해결해 주겠다'는 의지가 담겨 있어, 단순 제안보다 실행 가능한 방안을 내놓을 때 주로 사용합니다.",
+    "shortExampleEn": "Instead of just complaining, try to offer a solution.",
+    "shortExampleKo": "불평만 하지 말고, 해결책을 제시해 보세요."
+  }
+}

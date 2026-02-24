@@ -1,0 +1,30 @@
+{
+  "id": "work-toward-a-goal_e2f5e629",
+  "expression": "work toward a goal",
+  "selectionMeta": {
+    "selectedPhrase": "work toward a goal",
+    "selectedSenseLabelKo": "목표를 향해 노력하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to work toward a goal of running a full marathon by the end of the year."
+  },
+  "step2": {
+    "story": "James had always dreamed of opening his own bakery. Every morning before his office job, he woke up at 4 a.m. to practice recipes and save money. His friends admired how he continued to work toward a goal that most people would have given up on long ago.",
+    "topicTag": "career ambition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After being laid off from her corporate job, Mina felt lost for the first time in her adult life. She spent weeks on the couch, unsure of what to do next. Then one afternoon, she stumbled upon a free online coding course and felt a spark she hadn't felt in years. She enrolled immediately and began to work toward a goal of becoming a software developer within twelve months. Some nights were brutal — she struggled with algorithms and doubted herself constantly. But each small breakthrough reminded her that the effort was worth it, and slowly, a new career began to take shape.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "목표를 향해 일하다, 즉 어떤 목표 달성을 위해 꾸준히 노력한다는 뜻입니다.",
+    "realUsageKo": "단기적인 노력보다는 장기적이고 지속적인 과정을 강조할 때 사용합니다. 'work toward'는 아직 도달하지 못했지만 그 방향으로 계속 나아가고 있다는 느낌을 줍니다.",
+    "etymologyKo": "'work'(일하다)와 'toward'(~을 향해)의 결합으로, 목적지에 도달하기 위해 과정 속에서 꾸준히 전진한다는 의미가 자연스럽게 형성되었습니다.",
+    "nuanceKo": "단순히 '노력하다'보다 방향성과 목적의식이 뚜렷한 표현입니다. 진지하고 성실한 태도를 내포하며, 일상 대화와 비즈니스 맥락 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "We need to work toward a goal that benefits the entire team.",
+    "shortExampleKo": "우리는 팀 전체에 도움이 되는 목표를 향해 노력해야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ignore-a-problem_11b058b6",
+  "expression": "ignore a problem",
+  "selectionMeta": {
+    "selectedPhrase": "ignore a problem",
+    "selectedSenseLabelKo": "문제를 무시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You can't just ignore a problem and hope it goes away on its own."
+  },
+  "step2": {
+    "story": "The kitchen faucet had been dripping for weeks, but Jake kept telling himself it was nothing serious. By the time he finally called a plumber, the leak had caused water damage under the sink. He learned the hard way that choosing to ignore a problem only makes it worse.",
+    "topicTag": "home maintenance",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Sarah noticed her team's morale dropping after the company announced budget cuts. People were whispering in hallways and productivity was slipping, but her manager kept running meetings as if everything were normal. Sarah pulled him aside and said they couldn't afford to ignore a problem this visible. Reluctantly, he agreed to hold a town hall where employees could voice their concerns. The honest conversation didn't solve everything, but it stopped the rumors and rebuilt some trust. Sometimes the bravest thing a leader can do is face an uncomfortable truth head-on.",
+    "topicTag": "workplace leadership",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제를 무시하다, 즉 존재하는 문제에 의도적으로 관심을 주지 않는 것을 뜻합니다.",
+    "realUsageKo": "실제로는 문제가 있다는 걸 알면서도 대처하지 않고 방치하는 상황에서 자주 쓰입니다. 주로 부정적인 결과를 경고하거나 비판할 때 사용됩니다.",
+    "etymologyKo": "ignore는 라틴어 ignorare(알지 못하다)에서 유래했으며, problem은 그리스어 problema(앞에 던져진 것)에서 왔습니다. 두 단어의 조합은 '눈앞의 과제를 모른 척하다'라는 뜻을 자연스럽게 형성합니다.",
+    "nuanceKo": "단순히 모르는 것이 아니라, 알면서도 일부러 외면한다는 뉘앙스가 강합니다. 따라서 비판적이거나 충고하는 톤으로 많이 쓰입니다.",
+    "shortExampleEn": "If we ignore a problem now, it will only get bigger later.",
+    "shortExampleKo": "지금 문제를 무시하면 나중에 더 커질 뿐이다."
+  }
+}

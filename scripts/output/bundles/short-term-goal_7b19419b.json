@@ -1,0 +1,30 @@
+{
+  "id": "short-term-goal_7b19419b",
+  "expression": "short-term goal",
+  "selectionMeta": {
+    "selectedPhrase": "short-term goal",
+    "selectedSenseLabelKo": "단기 목표",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Setting a short-term goal like reading one chapter a day helped me finally finish the book."
+  },
+  "step2": {
+    "story": "After months of feeling overwhelmed by her career plans, Jina decided to focus on a short-term goal instead. She committed to updating her resume and applying to three jobs by Friday. That small, achievable target gave her the momentum she desperately needed.",
+    "topicTag": "career planning",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Marcus had always dreamed of running a marathon, but the idea of training for 26 miles felt paralyzing. His coach suggested breaking the journey into pieces. The first short-term goal was simple: run two kilometers without stopping. Within a week, Marcus hit that target and felt a rush of accomplishment he hadn't expected. Each new short-term goal built on the last, gradually stretching his limits. By the time race day arrived, those small victories had quietly transformed him into a runner.",
+    "topicTag": "fitness journey",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "짧은 기간 안에 달성하려는 목표를 뜻합니다.",
+    "realUsageKo": "장기적인 큰 목표를 이루기 위한 중간 단계나, 당장 실천할 수 있는 구체적인 목표를 세울 때 사용합니다. 업무, 학습, 건강 등 다양한 분야에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'short-term'은 '단기의'라는 뜻의 형용사이고 'goal'은 '목표'를 의미합니다. 경영학과 자기계발 분야에서 장기 목표(long-term goal)와 대비되는 개념으로 널리 쓰이게 되었습니다.",
+    "nuanceKo": "실현 가능하고 구체적인 느낌을 줍니다. 막연한 꿈이 아니라 당장 행동으로 옮길 수 있는 계획이라는 뉘앙스가 있어, 실용적이고 전략적인 인상을 줍니다.",
+    "shortExampleEn": "My short-term goal is to save enough money for a new laptop by next month.",
+    "shortExampleKo": "제 단기 목표는 다음 달까지 새 노트북을 살 돈을 모으는 것입니다."
+  }
+}

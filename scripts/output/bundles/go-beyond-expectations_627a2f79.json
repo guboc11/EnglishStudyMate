@@ -1,0 +1,30 @@
+{
+  "id": "go-beyond-expectations_627a2f79",
+  "expression": "go beyond expectations",
+  "selectionMeta": {
+    "selectedPhrase": "go beyond expectations",
+    "selectedSenseLabelKo": "기대를 뛰어넘다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new intern managed to go beyond expectations by completing the entire project two weeks ahead of schedule."
+  },
+  "step2": {
+    "story": "Maya was hired as a junior designer at a struggling startup. Within her first month, she redesigned the entire user interface and boosted engagement by forty percent. Her colleagues agreed she had truly gone beyond expectations, and the CEO offered her a leadership role on the spot.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "When Daniel signed up to volunteer at the local food bank, he only planned to help sort cans on Saturday mornings. But after seeing how many families depended on the service, he couldn't just stop there. He organized a fundraising campaign at his office and rallied his neighbors to donate supplies. Within three months, the food bank's inventory had doubled. The director told a local reporter that Daniel had gone beyond expectations in every possible way. What started as a small weekend commitment had transformed into something that changed the entire community.",
+    "topicTag": "community service",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "기대(expectations)를 넘어서(go beyond) 간다는 뜻으로, 예상했던 수준 이상의 결과를 낸다는 의미입니다.",
+    "realUsageKo": "누군가가 맡은 일이나 역할에서 기대 이상의 성과를 보여줄 때 사용합니다. 직장, 학교, 봉사활동 등 다양한 상황에서 칭찬의 의미로 쓰입니다.",
+    "etymologyKo": "'go beyond'는 '~을 넘어서다'라는 뜻의 기본 구동사이고, 'expectations'(기대)와 결합하여 '기대치를 초과하다'라는 관용적 연어(collocation)로 굳어졌습니다.",
+    "nuanceKo": "단순히 일을 잘했다는 것보다 더 강한 표현으로, 상대방이 예상한 범위를 확실히 뛰어넘었다는 뉘앙스입니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "The restaurant's service went beyond expectations — they even remembered my birthday.",
+    "shortExampleKo": "그 레스토랑의 서비스는 기대 이상이었다 — 내 생일까지 기억해 주었다."
+  }
+}

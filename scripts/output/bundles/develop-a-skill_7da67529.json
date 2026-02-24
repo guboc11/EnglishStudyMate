@@ -1,0 +1,30 @@
+{
+  "id": "develop-a-skill_7da67529",
+  "expression": "develop a skill",
+  "selectionMeta": {
+    "selectedPhrase": "develop a skill",
+    "selectedSenseLabelKo": "기술을 개발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to develop a skill in graphic design so she could create her own marketing materials."
+  },
+  "step2": {
+    "story": "After getting laid off, Marco realized he needed to develop a skill that would make him more competitive. He enrolled in an online coding bootcamp and spent every evening practicing. Within six months, he landed a junior developer position at a startup.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jina had always admired people who could speak in public with confidence. One day, her manager asked her to present the quarterly results to the entire company. Terrified but motivated, she decided it was finally time to develop a skill she had been avoiding for years. She joined a local speaking club and practiced her delivery every weekend. Her colleagues noticed the change almost immediately — her voice grew steadier, her eye contact sharper. By the time the presentation day arrived, she walked up to the podium and delivered the report as if she had been doing it her whole life.",
+    "topicTag": "self-improvement",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "기술을 발전시키다, 능력을 키우다라는 뜻입니다.",
+    "realUsageKo": "새로운 능력을 배우거나 기존 능력을 향상시키기 위해 의식적으로 노력하는 상황에서 사용합니다. 단순히 배우는 것이 아니라 시간과 노력을 들여 실력을 쌓는 과정을 강조합니다.",
+    "etymologyKo": "develop는 프랑스어 développer(펼치다, 드러내다)에서 유래했고, skill은 고대 노르드어 skil(분별력, 지식)에서 왔습니다. 잠재된 능력을 펼쳐서 드러낸다는 의미가 담겨 있습니다.",
+    "nuanceKo": "단기간에 되는 것이 아니라 꾸준한 연습과 노력이 수반되는 뉘앙스를 가집니다. 'learn a skill'보다 더 능동적이고 장기적인 과정을 암시합니다.",
+    "shortExampleEn": "You need to develop a skill that sets you apart from other candidates.",
+    "shortExampleKo": "다른 지원자들과 차별화할 수 있는 기술을 개발해야 합니다."
+  }
+}

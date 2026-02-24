@@ -1,0 +1,30 @@
+{
+  "id": "pose-a-challenge_39dc1522",
+  "expression": "pose a challenge",
+  "selectionMeta": {
+    "selectedPhrase": "pose a challenge",
+    "selectedSenseLabelKo": "도전을 제시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new regulations pose a challenge for small businesses trying to stay competitive in the market."
+  },
+  "step2": {
+    "story": "Maya had just been promoted to lead the overseas expansion project. The language barriers and cultural differences posed a challenge she hadn't anticipated. Still, she spent every evening researching local customs, determined to make it work.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Professor Kim announced the final group project, the entire class fell silent. Each team had to design a working prototype in just two weeks using only recycled materials. The strict constraints posed a challenge that pushed students far beyond their comfort zones. Some teams argued over ideas late into the night, while others divided tasks with military precision. By the deadline, every group had produced something remarkable. The experience taught them that real innovation often emerges when limitations force creative thinking.",
+    "topicTag": "education",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'도전을 놓다/제기하다'라는 뜻으로, 어떤 상황이나 대상이 해결해야 할 어려움을 만들어낸다는 의미입니다.",
+    "realUsageKo": "어떤 상황, 문제, 조건 등이 누군가에게 극복해야 할 어려움이나 난관을 제시할 때 사용합니다. 주로 사물이나 상황이 주어로 오며, 사람이 의도적으로 도전하는 것이 아니라 상황 자체가 어려움을 '야기한다'는 뉘앙스입니다.",
+    "etymologyKo": "'pose'는 라틴어 'ponere(놓다, 배치하다)'에서 유래했으며, '질문을 던지다, 문제를 제기하다'라는 의미로 확장되었습니다. 'challenge'와 결합하여 '도전적 상황을 제기하다'라는 콜로케이션으로 정착했습니다.",
+    "nuanceKo": "격식체에서 자주 쓰이며, 뉴스 기사, 학술 글, 비즈니스 보고서 등에서 특히 많이 등장합니다. 단순히 '어렵다'보다 객관적이고 분석적인 톤을 줍니다.",
+    "shortExampleEn": "Climate change poses a serious challenge to coastal communities worldwide.",
+    "shortExampleKo": "기후 변화는 전 세계 해안 지역 사회에 심각한 도전을 제시하고 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "that-ship-has-sailed_646527ce",
+  "expression": "that ship has sailed",
+  "selectionMeta": {
+    "selectedPhrase": "that ship has sailed",
+    "selectedSenseLabelKo": "기회가 지나갔다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I wanted to apologize to her, but that ship has sailed — she moved to another city last month."
+  },
+  "step2": {
+    "story": "Mark spent years putting off his dream of studying abroad, always saying he'd apply next semester. When he finally checked the program website, he discovered it had been permanently discontinued. He sighed and muttered to himself, \"Well, that ship has sailed.\"",
+    "topicTag": "missed opportunities",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Jenny had always imagined opening a small bakery on the corner of Maple Street. Every morning on her way to her office job, she would glance at the empty storefront and picture her name on the sign. For three years, the rent stayed surprisingly low, and her friends kept urging her to take the leap. But she always found an excuse — not enough savings, not the right time, too risky. Then one Tuesday, she walked past and saw construction crews gutting the interior. A trendy coffee chain had signed a ten-year lease. That ship has sailed, she realized, and the weight of her hesitation settled heavy on her shoulders.",
+    "topicTag": "unfulfilled dreams",
+    "moodTag": "melancholic"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '그 배는 이미 출항했다'라는 뜻입니다.",
+    "realUsageKo": "이미 기회가 지나가서 더 이상 어떻게 할 수 없는 상황을 말할 때 씁니다. '이미 늦었다', '이제 와서 소용없다'와 비슷한 의미입니다.",
+    "etymologyKo": "항구에서 배가 출항하면 더 이상 탈 수 없다는 데서 유래한 표현입니다. 과거 대서양 횡단 여객선 시대에 배를 놓치면 다음 배까지 몇 주를 기다려야 했던 상황에서 비롯되었습니다.",
+    "nuanceKo": "아쉬움이나 체념의 뉘앙스가 있으며, 주로 본인이나 상대방이 행동하지 않아서 기회를 놓쳤을 때 사용합니다. 격식 없는 일상 대화에서 자주 쓰입니다.",
+    "shortExampleEn": "You could have invested early, but that ship has sailed.",
+    "shortExampleKo": "일찍 투자할 수도 있었는데, 이미 기회는 지나갔어."
+  }
+}

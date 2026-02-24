@@ -1,0 +1,30 @@
+{
+  "id": "manage-conflict_61f28877",
+  "expression": "manage conflict",
+  "selectionMeta": {
+    "selectedPhrase": "manage conflict",
+    "selectedSenseLabelKo": "갈등을 관리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As a team leader, she had to manage conflict between two departments that disagreed on the project timeline."
+  },
+  "step2": {
+    "story": "The new manager noticed tension rising between the marketing and engineering teams over budget allocation. She scheduled a joint meeting where each side could voice their concerns openly. By helping them manage conflict through honest dialogue, she turned rivals into collaborators.",
+    "topicTag": "workplace collaboration",
+    "moodTag": "diplomatic"
+  },
+  "step3": {
+    "story": "Jason had been promoted to regional director just three weeks ago when the first crisis hit. Two of his best senior managers were locked in a bitter dispute over territory assignments, and their teams were starting to take sides. He knew that if he didn't manage conflict quickly, the entire quarter's targets would be at risk. Instead of choosing a winner, he brought both managers into his office and asked each one to explain the other person's perspective. The room went silent for a long moment before they started truly listening. By the end of the hour, they had drafted a shared territory plan that neither had imagined walking in.",
+    "topicTag": "leadership challenge",
+    "moodTag": "tense but hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "갈등(conflict)을 관리하다(manage), 즉 대립이나 충돌 상황을 다루고 조절한다는 뜻입니다.",
+    "realUsageKo": "직장, 팀, 가정 등에서 의견 차이나 감정적 대립이 생겼을 때 이를 건설적으로 해결하거나 통제하는 상황에서 사용합니다. 단순히 갈등을 없앤다는 뜻보다는 갈등이 파괴적으로 번지지 않도록 조율한다는 의미가 강합니다.",
+    "etymologyKo": "manage는 이탈리아어 maneggiare(다루다, 특히 말을 다루다)에서 유래했고, conflict는 라틴어 confligere(서로 부딪치다)에서 왔습니다. 두 단어가 결합하여 '충돌 상황을 능숙하게 다루다'라는 비즈니스·대인관계 맥락의 연어로 정착했습니다.",
+    "nuanceKo": "manage conflict는 중립적이고 전문적인 톤을 가집니다. 갈등을 완전히 해결(resolve)하는 것과 달리, 진행 중인 갈등을 악화되지 않게 조절한다는 뉘앙스가 있어 리더십·조직 관리 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "Good leaders know how to manage conflict without taking sides.",
+    "shortExampleKo": "훌륭한 리더는 어느 편도 들지 않으면서 갈등을 관리하는 방법을 알고 있다."
+  }
+}

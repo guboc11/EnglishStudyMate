@@ -1,0 +1,30 @@
+{
+  "id": "gain-recognition_b33e62a5",
+  "expression": "gain recognition",
+  "selectionMeta": {
+    "selectedPhrase": "gain recognition",
+    "selectedSenseLabelKo": "인정을 받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of quiet dedication, her innovative research finally helped her gain recognition from the scientific community."
+  },
+  "step2": {
+    "story": "Marcus had been painting murals in his neighborhood for over a decade, never expecting anything in return. When a local journalist featured his work in a widely-read article, he began to gain recognition across the city. Suddenly, galleries were calling and commissions were pouring in.",
+    "topicTag": "artistic perseverance",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For five years, Jiwon ran a tiny bakery on a side street that most people walked right past. She woke up at three every morning to bake sourdough loaves using a recipe her grandmother had perfected decades ago. A food blogger stumbled upon her shop one rainy afternoon and wrote a glowing review that went viral overnight. Within weeks, Jiwon began to gain recognition not just locally but from food critics across the country. Lines stretched around the block, and she had to hire three new bakers to keep up with demand. She often reminded herself that the years of obscurity had taught her patience — the very ingredient that made her bread extraordinary.",
+    "topicTag": "small business success",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'인정(recognition)을 얻다(gain)'라는 뜻으로, 자신의 능력이나 업적을 다른 사람들로부터 인정받게 되는 것을 의미합니다.",
+    "realUsageKo": "오랜 노력 끝에 실력이나 성과를 주변으로부터 인정받게 될 때 주로 사용합니다. 단순히 유명해지는 것이 아니라, 실질적인 능력이나 기여에 대해 정당한 평가를 받는다는 뉘앙스가 강합니다.",
+    "etymologyKo": "'gain'은 고대 프랑스어 'gaignier(획득하다)'에서, 'recognition'은 라틴어 'recognitio(다시 알아봄)'에서 유래했습니다. 두 단어가 결합하여 '노력의 결과로 인정을 획득하다'라는 의미의 연어가 되었습니다.",
+    "nuanceKo": "'get recognition'보다 격식 있고, 점진적인 과정을 통해 인정을 쌓아간다는 느낌이 있습니다. 학술, 비즈니스, 예술 등 전문 분야에서 자주 쓰이며, 긍정적이고 성취 지향적인 톤을 가집니다.",
+    "shortExampleEn": "The startup gained recognition for its sustainable packaging solutions.",
+    "shortExampleKo": "그 스타트업은 지속 가능한 포장 솔루션으로 인정을 받았다."
+  }
+}

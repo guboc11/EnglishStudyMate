@@ -1,0 +1,30 @@
+{
+  "id": "bold-decision_e7644a03",
+  "expression": "bold decision",
+  "selectionMeta": {
+    "selectedPhrase": "bold decision",
+    "selectedSenseLabelKo": "대담한 결정",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Leaving her stable corporate job to launch a startup was a bold decision that changed everything."
+  },
+  "step2": {
+    "story": "After years of playing it safe, Marcus made a bold decision to move across the country for a job he truly believed in. His friends thought he was reckless, but he knew staying put would mean a lifetime of regret. Within six months, he had built a life he was genuinely proud of.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena stared at the resignation letter on her desk, her heart pounding. She had spent twelve years climbing the corporate ladder, yet every morning felt heavier than the last. Her therapist had once told her that growth begins where comfort ends. Taking a deep breath, she signed the letter — it was a bold decision, but one she had been putting off for far too long. The next day, she enrolled in culinary school, something she had dreamed about since childhood. Her colleagues were stunned, but Elena had never felt more alive.",
+    "topicTag": "following passion",
+    "moodTag": "liberating"
+  },
+  "meaning": {
+    "literalMeaningKo": "'대담한 결정'이라는 뜻으로, 용기가 필요한 중요한 선택을 의미합니다.",
+    "realUsageKo": "위험이나 불확실성이 있지만 큰 변화를 이끌어낼 수 있는 결단력 있는 선택을 할 때 사용합니다. 주로 커리어 전환, 인생의 전환점 등 중대한 상황에서 씁니다.",
+    "etymologyKo": "'bold'는 고대 영어 'bald'(대담한, 용감한)에서 유래했으며, 'decision'은 라틴어 'decidere'(잘라내다, 결정하다)에서 왔습니다. 두 단어가 결합해 '과감하게 결단을 내리다'라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 '큰 결정'이 아니라, 위험을 감수하는 용기와 결단력이 내포되어 있습니다. 긍정적인 뉘앙스로 쓰이는 경우가 많지만, 무모하다는 의미로도 사용될 수 있습니다.",
+    "shortExampleEn": "Quitting without a backup plan was a bold decision, but it paid off.",
+    "shortExampleKo": "대안 없이 그만둔 것은 대담한 결정이었지만, 결국 좋은 결과를 가져왔다."
+  }
+}

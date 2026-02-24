@@ -1,0 +1,30 @@
+{
+  "id": "sudden-change_493d0fb0",
+  "expression": "sudden change",
+  "selectionMeta": {
+    "selectedPhrase": "sudden change",
+    "selectedSenseLabelKo": "갑작스러운 변화",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sudden change in weather caught everyone off guard, turning a sunny afternoon into a downpour."
+  },
+  "step2": {
+    "story": "Maya had been enjoying her routine at the marketing firm for three years. Then came a sudden change — the company announced a complete restructuring, and her entire department was being merged with another. She felt anxious at first, but decided to see it as a fresh start.",
+    "topicTag": "career transition",
+    "moodTag": "anxious but hopeful"
+  },
+  "step3": {
+    "story": "For as long as he could remember, Daniel had lived in the same quiet coastal town. Every morning he walked the same path to the harbor, greeted the same fishermen, and watched the same horizon. But one autumn evening, a sudden change swept through everything — a massive storm destroyed the old pier and flooded half the town square. Neighbors who had barely spoken to each other for years were suddenly working side by side, clearing debris and sharing supplies. Daniel realized that the sudden change, as painful as it was, had brought the community closer than it had ever been. Standing in the muddy square with a shovel in his hand, he felt something he hadn't felt in a long time — a sense of belonging.",
+    "topicTag": "community and resilience",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "갑작스러운 변화 — 예고 없이 빠르게 일어나는 변화를 뜻합니다.",
+    "realUsageKo": "예상하지 못한 상황의 전환이나 환경의 급변을 표현할 때 사용합니다. 날씨, 감정, 계획, 조직 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'sudden'은 중세 영어 'sodain'에서 유래했으며, 앵글로-프랑스어 'sudein(갑작스러운)'에서 왔습니다. 'change'는 라틴어 'cambiare(교환하다)'에서 유래한 단어입니다.",
+    "nuanceKo": "대체로 중립적인 표현이지만, 문맥에 따라 부정적(예기치 못한 사고)이거나 긍정적(뜻밖의 행운)인 뉘앙스를 모두 가질 수 있습니다. 준비 없이 맞닥뜨리는 느낌이 강합니다.",
+    "shortExampleEn": "The sudden change in his tone made everyone in the room uncomfortable.",
+    "shortExampleKo": "그의 말투가 갑작스럽게 변하자 방 안에 있던 모든 사람이 불편해졌다."
+  }
+}

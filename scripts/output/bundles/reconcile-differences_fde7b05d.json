@@ -1,0 +1,30 @@
+{
+  "id": "reconcile-differences_fde7b05d",
+  "expression": "reconcile differences",
+  "selectionMeta": {
+    "selectedPhrase": "reconcile differences",
+    "selectedSenseLabelKo": "차이를 조율하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of heated debate, the two department heads finally sat down to reconcile their differences before the merger deadline."
+  },
+  "step2": {
+    "story": "Jisoo and her business partner had been clashing over the company's direction for months. One evening over coffee, they decided to reconcile their differences by listing out each concern honestly. By the end of the night, they had a shared vision that combined the best of both ideas.",
+    "topicTag": "business partnership",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "The neighborhood association had been split into two camps for over a year — one side wanted to build a community garden, while the other insisted on a parking lot. Meetings always ended in shouting matches, and friendships were beginning to crack. Then Mrs. Park, the oldest resident on the block, invited both sides to her living room for homemade jjigae and a calm conversation. She reminded them that they all moved here because they loved the neighborhood, not because they wanted to fight. Slowly, people began to listen instead of argue, and they found a way to reconcile their differences with a design that included both green space and parking. The compromise wasn't perfect for anyone, but it was something everyone could live with — and that felt like a small victory.",
+    "topicTag": "community conflict",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'차이점들을 화해시키다'라는 뜻으로, 서로 다른 의견이나 입장을 조정하여 합의에 이르게 한다는 의미입니다.",
+    "realUsageKo": "의견 충돌이나 갈등 상황에서 양측이 서로의 차이를 인정하고 타협점을 찾을 때 사용합니다. 비즈니스 협상, 인간관계, 정치적 맥락 등에서 자주 쓰입니다.",
+    "etymologyKo": "'reconcile'은 라틴어 'reconciliare'(다시 하나로 모으다)에서 유래했으며, 'differences'와 결합하여 '서로 다른 점을 다시 하나로 모으다'라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 양보하는 것이 아니라, 서로의 차이를 진지하게 인정한 후 건설적으로 해결한다는 뉘앙스를 담고 있습니다. 격식 있고 성숙한 표현으로 비즈니스나 공식적 맥락에서 특히 적절합니다.",
+    "shortExampleEn": "The couple went to counseling to reconcile their differences.",
+    "shortExampleKo": "그 부부는 서로의 차이를 조율하기 위해 상담을 받으러 갔다."
+  }
+}

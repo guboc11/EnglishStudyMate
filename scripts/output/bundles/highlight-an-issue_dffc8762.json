@@ -1,0 +1,30 @@
+{
+  "id": "highlight-an-issue_dffc8762",
+  "expression": "highlight an issue",
+  "selectionMeta": {
+    "selectedPhrase": "highlight an issue",
+    "selectedSenseLabelKo": "문제를 강조하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the quarterly review, the manager decided to highlight an issue that had been affecting team productivity for months."
+  },
+  "step2": {
+    "story": "The new intern noticed that customer complaints had doubled over the past quarter, but nobody seemed to be talking about it. She gathered the data into a clear chart and used it to highlight an issue at the team meeting, earning immediate respect from her colleagues. By the end of the week, a task force had been formed to address the problem.",
+    "topicTag": "workplace initiative",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Jenna had only been at the company for three months, but she could already see cracks forming beneath the surface. Customer response times were slipping, and the support team was quietly burning out. She spent a weekend pulling together data from different departments, connecting dots that no one else had bothered to connect. On Monday morning, she walked into the leadership meeting and asked for five minutes to highlight an issue she believed was urgent. Her presentation was brief but powerful — the numbers spoke for themselves. The room fell silent, and by the end of the day, the CEO had approved a restructuring plan that would finally give the support team the resources they needed.",
+    "topicTag": "corporate culture",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'highlight'는 '강조 표시하다', 'issue'는 '문제/사안'으로, 직역하면 '문제를 강조 표시하다'입니다.",
+    "realUsageKo": "어떤 문제나 사안에 대해 사람들의 주의를 환기시키고, 그것이 중요하다는 점을 명확히 드러낼 때 사용합니다. 특히 회의나 보고서에서 간과되고 있는 문제를 공식적으로 제기할 때 자주 쓰입니다.",
+    "etymologyKo": "'highlight'는 원래 그림이나 사진에서 가장 밝은 부분을 뜻했고, 이후 '주목할 만한 것을 두드러지게 하다'라는 의미로 확장되었습니다. 'issue'는 라틴어 'exitus(나가다)'에서 유래하여 '논쟁거리, 해결해야 할 사안'이라는 뜻을 갖게 되었습니다.",
+    "nuanceKo": "단순히 불평하는 것이 아니라, 건설적이고 전문적인 태도로 문제를 지적한다는 뉘앙스를 가집니다. 비즈니스나 공식적인 맥락에서 많이 사용되며, 해결을 위한 첫 단계로서 문제를 드러낸다는 느낌입니다.",
+    "shortExampleEn": "The report highlights an issue with the current supply chain process.",
+    "shortExampleKo": "그 보고서는 현재 공급망 프로세스의 문제점을 강조하고 있다."
+  }
+}

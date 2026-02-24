@@ -1,0 +1,30 @@
+{
+  "id": "it's-a-small-world_edc8bcff",
+  "expression": "it's a small world",
+  "selectionMeta": {
+    "selectedPhrase": "it's a small world",
+    "selectedSenseLabelKo": "세상 참 좁다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I ran into my old college roommate at a tiny cafe in Tokyo — it's a small world!"
+  },
+  "step2": {
+    "story": "Sarah was on vacation in Barcelona when she heard someone call her name. She turned around and saw her childhood neighbor from Seoul standing right behind her in line at a tapas bar. They both laughed and said, \"It's a small world!\"",
+    "topicTag": "unexpected reunion",
+    "moodTag": "surprised and delighted"
+  },
+  "step3": {
+    "story": "Kevin had just moved to London for a new job and didn't know anyone in the city. On his first day at the office, he walked into the break room and froze. Sitting at the table was Jimin, his best friend from middle school who had moved away years ago. They stared at each other in disbelief before bursting into laughter. \"What are you doing here?\" Kevin asked, still in shock. Jimin shook his head and grinned. \"It's a small world, isn't it? I've been working here for two years.\"",
+    "topicTag": "new beginnings",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '세상은 작은 세계이다'라는 뜻입니다.",
+    "realUsageKo": "우연히 아는 사람을 예상치 못한 장소에서 만났을 때 사용합니다. 전혀 다른 곳에서 의외의 인연이 이어질 때 감탄하듯 쓰는 표현입니다.",
+    "etymologyKo": "사람들 사이의 연결이 생각보다 가깝다는 '좁은 세상 이론(six degrees of separation)'에서 유래했으며, 디즈니랜드의 유명 놀이기구 'It's a Small World'가 이 표현을 더욱 대중화시켰습니다.",
+    "nuanceKo": "긍정적이고 가벼운 감탄의 느낌으로 쓰입니다. 놀라움과 반가움이 섞인 톤이며, 격식 없는 일상 대화에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "I can't believe we're on the same flight — it's a small world!",
+    "shortExampleKo": "우리가 같은 비행기를 탔다니, 세상 참 좁다!"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "build-a-reputation_42a54fcf",
+  "expression": "build a reputation",
+  "selectionMeta": {
+    "selectedPhrase": "build a reputation",
+    "selectedSenseLabelKo": "명성을 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spent years working with local charities to build a reputation as someone the community could trust."
+  },
+  "step2": {
+    "story": "After graduating from culinary school, Marco opened a tiny restaurant in a quiet neighborhood. He refused to cut corners on ingredients, even when money was tight. Word spread quickly, and within two years he had built a reputation that drew food critics from across the city.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jiyeon first arrived in London, nobody in the design industry knew her name. She took on small freelance projects, delivering exceptional work every single time, even for clients who could barely pay. One project led to a referral, then another, and soon agencies were reaching out to her directly. It took patience, but she steadily built a reputation as one of the most reliable UX designers in the city. Now, five years later, she turns down more offers than she accepts. She often tells younger designers that talent alone is not enough — you have to show up consistently before people start to believe in you.",
+    "topicTag": "professional identity",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'명성을 짓다/쌓다'라는 뜻으로, reputation(평판)을 build(건설하다)한다는 직역적 의미입니다.",
+    "realUsageKo": "시간과 노력을 들여 특정 분야에서 좋은 평판이나 이미지를 만들어 나갈 때 사용합니다. 긍정적인 맥락에서 주로 쓰이며, 'build a reputation for ~'처럼 구체적인 특성을 뒤에 붙여 쓰는 경우가 많습니다.",
+    "etymologyKo": "build는 고대 영어 byldan(집을 짓다)에서, reputation은 라틴어 reputatio(평가, 숙고)에서 유래했습니다. 건물을 벽돌 하나씩 쌓듯이 평판도 하나씩 쌓아간다는 비유적 표현입니다.",
+    "nuanceKo": "단기간에 이루어지는 것이 아니라 장기적인 노력과 일관성을 강조하는 뉘앙스입니다. 비즈니스, 커리어, 학문 등 전문적인 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "The company has built a reputation for excellent customer service over the past decade.",
+    "shortExampleKo": "그 회사는 지난 10년간 뛰어난 고객 서비스로 명성을 쌓아 왔다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "trigger-an-emotion_160e8268",
+  "expression": "trigger an emotion",
+  "selectionMeta": {
+    "selectedPhrase": "trigger an emotion",
+    "selectedSenseLabelKo": "감정을 유발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A single photograph from her childhood was enough to trigger an emotion she had buried for years."
+  },
+  "step2": {
+    "story": "During the company presentation, the speaker showed a video of families reuniting after years apart. The footage was designed to trigger an emotion in the audience, and it worked — half the room was in tears before it ended. The marketing team knew that connecting with people's feelings was far more powerful than listing product features.",
+    "topicTag": "emotional marketing",
+    "moodTag": "moved"
+  },
+  "step3": {
+    "story": "Jiwon had always considered herself a rational person, someone who made decisions with her head, not her heart. But when she walked into the old apartment where she had grown up, something shifted. The faded wallpaper, the creak of the wooden floor, the faint smell of her grandmother's cooking — every detail seemed to trigger an emotion she couldn't name. She stood in the empty living room, overwhelmed by a mix of nostalgia and grief. It surprised her how a place could hold so much feeling, even after all these years. She realized that some memories don't need words — they live in the walls, waiting to remind you who you used to be.",
+    "topicTag": "nostalgia",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "감정을 촉발하다, 즉 어떤 자극이 감정적 반응을 일으킨다는 뜻입니다.",
+    "realUsageKo": "특정 경험, 이미지, 음악, 장소 등이 강한 감정적 반응을 불러일으킬 때 사용합니다. 의도적으로 감정을 자극하는 경우(마케팅, 연설 등)와 예상치 못하게 감정이 솟아오르는 경우 모두에 쓰입니다.",
+    "etymologyKo": "trigger는 원래 총의 방아쇠를 뜻하는 네덜란드어 'trekker'에서 유래했습니다. 방아쇠를 당기면 즉각적인 반응이 일어나듯, 감정이 순간적으로 촉발되는 이미지를 담고 있습니다.",
+    "nuanceKo": "trigger는 중립적 표현이지만, 감정이 갑자기 또는 강하게 일어나는 뉘앙스가 있습니다. 부정적 감정(트라우마, 슬픔)에도, 긍정적 감정(감동, 기쁨)에도 모두 사용할 수 있습니다.",
+    "shortExampleEn": "The old song triggered an emotion I hadn't felt since high school.",
+    "shortExampleKo": "그 옛날 노래가 고등학교 이후로 느끼지 못했던 감정을 불러일으켰다."
+  }
+}

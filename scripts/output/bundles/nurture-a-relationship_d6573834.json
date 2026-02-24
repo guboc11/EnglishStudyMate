@@ -1,0 +1,30 @@
+{
+  "id": "nurture-a-relationship_d6573834",
+  "expression": "nurture a relationship",
+  "selectionMeta": {
+    "selectedPhrase": "nurture a relationship",
+    "selectedSenseLabelKo": "관계를 가꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She learned that you have to nurture a relationship with consistent effort, not just grand gestures."
+  },
+  "step2": {
+    "story": "After moving to a new city, Jimin realized that keeping old friendships alive required more than occasional texts. She started scheduling weekly video calls and sending small care packages. It took patience, but she discovered that taking time to nurture a relationship made her connections deeper than ever before.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "David had always been the kind of person who took people for granted. When his closest friend stopped returning his calls, he felt a sharp sting of regret. He remembered all the birthdays he had forgotten and the conversations he had cut short. Determined to change, David wrote a heartfelt letter and showed up at his friend's door. Over the following months, he made a conscious effort to nurture a relationship that he had nearly lost. Slowly, trust was rebuilt, and David learned that meaningful bonds require daily attention, not just apologies.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "관계를 양육하다, 즉 관계를 돌보고 키워나간다는 뜻입니다.",
+    "realUsageKo": "사람 사이의 관계를 소중히 여기며 시간과 노력을 들여 꾸준히 가꿔 나간다는 의미로 사용됩니다. 연인, 친구, 동료 등 모든 인간관계에 폭넓게 쓰입니다.",
+    "etymologyKo": "nurture는 라틴어 nutrire(영양을 주다, 기르다)에서 유래했으며, 원래 아이를 양육한다는 뜻에서 확장되어 관계나 재능 등을 정성껏 키운다는 의미로 발전했습니다.",
+    "nuanceKo": "단순히 '관계를 유지하다'보다 훨씬 적극적이고 애정 어린 느낌입니다. 식물에 물을 주듯 꾸준한 관심과 정성이 필요하다는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Long-distance couples need to nurture a relationship through honest communication.",
+    "shortExampleKo": "장거리 커플은 솔직한 소통을 통해 관계를 가꿔 나가야 합니다."
+  }
+}

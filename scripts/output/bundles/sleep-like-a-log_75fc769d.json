@@ -1,0 +1,30 @@
+{
+  "id": "sleep-like-a-log_75fc769d",
+  "expression": "sleep like a log",
+  "selectionMeta": {
+    "selectedPhrase": "sleep like a log",
+    "selectedSenseLabelKo": "깊이 잠들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hiking ten miles through the mountains, I slept like a log and didn't wake up once the entire night."
+  },
+  "step2": {
+    "story": "Jake had been pulling double shifts at the warehouse all week. When Friday finally came, he collapsed onto his bed at seven in the evening and slept like a log. His roommate's alarm blared at six the next morning, but Jake didn't even flinch.",
+    "topicTag": "exhaustion",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Maya had spent three sleepless nights preparing for her bar exam. Her mind raced with case law and legal precedents every time she closed her eyes. On the evening after the exam, she drew a hot bath, made chamomile tea, and crawled into freshly washed sheets. That night, she slept like a log for the first time in weeks. Her cat jumped on the bed twice and knocked a glass off the nightstand, but Maya didn't stir at all. She woke up twelve hours later feeling like a completely different person.",
+    "topicTag": "exam stress",
+    "moodTag": "peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "통나무처럼 잔다는 뜻으로, 움직이지 않고 깊이 잠든다는 의미입니다.",
+    "realUsageKo": "매우 깊이 잠들어서 아무것도 의식하지 못하는 상태를 표현할 때 씁니다. 보통 피곤하거나 지쳐서 푹 잤을 때 사용합니다.",
+    "etymologyKo": "베어낸 통나무(log)가 땅에 누워 꿈쩍도 하지 않는 모습에서 유래했습니다. 16세기경부터 영어에서 사용된 표현입니다.",
+    "nuanceKo": "긍정적이고 가벼운 뉘앙스의 일상 표현입니다. 격식 없는 대화에서 주로 쓰이며, 깊은 수면을 유머러스하게 묘사합니다.",
+    "shortExampleEn": "I was so tired after the flight that I slept like a log.",
+    "shortExampleKo": "비행 후 너무 피곤해서 통나무처럼 푹 잤어요."
+  }
+}

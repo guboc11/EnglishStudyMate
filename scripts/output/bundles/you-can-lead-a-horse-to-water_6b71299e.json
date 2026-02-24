@@ -1,0 +1,30 @@
+{
+  "id": "you-can-lead-a-horse-to-water_6b71299e",
+  "expression": "you can lead a horse to water",
+  "selectionMeta": {
+    "selectedPhrase": "you can lead a horse to water",
+    "selectedSenseLabelKo": "강요할 수 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I've given him every resource he needs to pass the exam, but you can lead a horse to water — he still won't open a single textbook."
+  },
+  "step2": {
+    "story": "Sarah spent weeks preparing a detailed study plan for her younger brother before his college entrance exams. She bought him books, hired a tutor, and even set up a quiet study room. But he kept playing video games instead, and she finally sighed to her mom, \"Well, you can lead a horse to water, but you can't make it drink.\"",
+    "topicTag": "family support",
+    "moodTag": "resigned"
+  },
+  "step3": {
+    "story": "Marcus had been managing the new intern, Jake, for three months. He paired Jake with the best senior developer, gave him access to premium online courses, and scheduled weekly one-on-one mentoring sessions. Despite all this, Jake kept submitting sloppy code without reviewing the feedback. One afternoon, the senior developer pulled Marcus aside and said he was wasting his time. Marcus rubbed his temples and replied, \"I know. You can lead a horse to water, but you can't make it drink.\" He decided to document everything and let Jake's performance review speak for itself. Sometimes, no matter how much effort you pour into someone, the desire to grow has to come from within.",
+    "topicTag": "workplace mentoring",
+    "moodTag": "frustrated"
+  },
+  "meaning": {
+    "literalMeaningKo": "말을 물가로 데려갈 수는 있지만, 억지로 물을 마시게 할 수는 없다는 뜻입니다.",
+    "realUsageKo": "누군가에게 기회나 도움을 줄 수는 있지만, 결국 본인이 행동하지 않으면 소용없다는 의미로 사용됩니다. 주로 상대방의 의지 부족에 대한 아쉬움이나 체념을 표현할 때 씁니다.",
+    "etymologyKo": "12세기 영국 속담에서 유래한 표현으로, 중세 영어 문헌에 처음 등장했습니다. 말이 목마르지 않으면 아무리 물가에 끌고 가도 마시지 않는 가축의 습성에서 비롯되었습니다.",
+    "nuanceKo": "비난보다는 체념의 뉘앙스가 강하며, 충분히 노력했지만 상대의 의지가 없어 어쩔 수 없다는 느낌을 전달합니다. 격식/비격식 모두 사용 가능합니다.",
+    "shortExampleEn": "I offered to help her practice driving, but you can lead a horse to water — she never once asked me for the car keys.",
+    "shortExampleKo": "운전 연습을 도와주겠다고 했지만 소용없었어요 — 그녀는 단 한 번도 차 키를 달라고 하지 않았거든요."
+  }
+}

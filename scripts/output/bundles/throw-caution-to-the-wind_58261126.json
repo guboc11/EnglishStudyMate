@@ -1,0 +1,30 @@
+{
+  "id": "throw-caution-to-the-wind_58261126",
+  "expression": "throw caution to the wind",
+  "selectionMeta": {
+    "selectedPhrase": "throw caution to the wind",
+    "selectedSenseLabelKo": "조심성을 버리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of playing it safe in her corporate job, Maria decided to throw caution to the wind and open her own bakery."
+  },
+  "step2": {
+    "story": "James had been saving every penny for a decade, terrified of financial risk. But when he discovered a crumbling vineyard for sale in Tuscany, he threw caution to the wind and bought it on the spot. His friends thought he was crazy, but he had never felt more alive.",
+    "topicTag": "life change",
+    "moodTag": "liberating"
+  },
+  "step3": {
+    "story": "For thirty years, Helen followed the same routine — the same commute, the same desk, the same lukewarm coffee from the same vending machine. She had always dreamed of painting, but responsibilities kept her brushes dry. Then one rainy Tuesday, she read her company's layoff notice and felt something unexpected: relief. She threw caution to the wind, cashed out her retirement savings, and booked a one-way ticket to Barcelona. Within a month she was renting a tiny studio near La Rambla, painting sunsets over the Mediterranean. It was terrifying and uncertain, but for the first time, her life felt entirely her own.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "bold"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '조심성을 바람에 던져 버리다'라는 뜻입니다.",
+    "realUsageKo": "위험이나 결과를 개의치 않고 과감하게 행동할 때 사용합니다. 평소 신중하던 사람이 대담한 결정을 내리는 상황에서 자주 쓰입니다.",
+    "etymologyKo": "항해 시대에서 유래한 표현으로, 선원들이 바람의 방향을 무시하고 위험을 감수하며 항해하던 것에서 비롯되었습니다.",
+    "nuanceKo": "대체로 긍정적이거나 중립적인 뉘앙스로, 용기 있는 결단을 묘사할 때 많이 씁니다. 다만 무모함을 암시할 수도 있어 문맥에 따라 달라집니다.",
+    "shortExampleEn": "He threw caution to the wind and asked her to marry him on their second date.",
+    "shortExampleKo": "그는 조심성을 버리고 두 번째 데이트에서 그녀에게 청혼했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "strike-a-deal_2703f3b9",
+  "expression": "strike a deal",
+  "selectionMeta": {
+    "selectedPhrase": "strike a deal",
+    "selectedSenseLabelKo": "협상을 마치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of negotiation, the two companies finally struck a deal that satisfied both sides."
+  },
+  "step2": {
+    "story": "Maria had been negotiating with the landlord for months over the rent increase. She presented her case calmly, showing comparable prices in the neighborhood. They struck a deal that kept her rent reasonable while giving the landlord a modest increase.",
+    "topicTag": "negotiation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jason's startup was running out of funding, and he desperately needed a partnership with a major distributor. He flew to Chicago and spent three grueling days in back-to-back meetings, pitching his product and defending his margins. The distributor's team pushed hard on exclusivity terms, but Jason held firm on keeping his online sales channel. On the final evening, over coffee in a quiet conference room, they struck a deal that gave the distributor regional exclusivity while preserving Jason's direct-to-consumer business. He walked out of the building into the cold night air, exhaling with pure relief. It wasn't perfect, but it was the lifeline his company needed.",
+    "topicTag": "business partnership",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'거래를 치다(strike)'라는 뜻으로, 협상 끝에 합의에 도달하는 것을 의미합니다.",
+    "realUsageKo": "비즈니스 협상뿐 아니라 일상적인 타협이나 합의 상황에서도 널리 쓰입니다. '거래를 성사시키다', '합의를 이루다'라는 의미로 사용됩니다.",
+    "etymologyKo": "'strike'는 원래 '(손을) 맞잡다'라는 의미에서 유래했으며, 옛날 거래 성사 시 악수를 하던 관습에서 비롯된 표현입니다.",
+    "nuanceKo": "양측이 서로 양보하며 합의점을 찾았다는 뉘앙스가 있으며, 단순한 구매보다는 협상 과정이 있었음을 암시합니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "We struck a deal with the supplier to lower the price by 15%.",
+    "shortExampleKo": "우리는 공급업체와 가격을 15% 낮추는 거래를 성사시켰다."
+  }
+}

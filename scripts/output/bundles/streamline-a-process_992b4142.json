@@ -1,0 +1,30 @@
+{
+  "id": "streamline-a-process_992b4142",
+  "expression": "streamline a process",
+  "selectionMeta": {
+    "selectedPhrase": "streamline a process",
+    "selectedSenseLabelKo": "프로세스를 간소화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new director was brought in specifically to streamline a process that had become bloated with unnecessary approval steps."
+  },
+  "step2": {
+    "story": "The marketing team spent three days just getting a single social media post approved. Fed up with the delays, the manager decided to streamline a process that involved six separate sign-offs by reducing it to two. Within a week, the team's output tripled and morale soared.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jiyeon joined the logistics startup, she was shocked to find that every customer return required a paper form, three manager signatures, and a phone call to the warehouse. Packages sat in limbo for weeks while employees chased approvals. She proposed a digital dashboard that would streamline a process nobody had questioned for years. At first, senior staff resisted, arguing the old way prevented errors. But after a two-week pilot showed returns being processed in hours instead of days, even the skeptics came around. The CEO later credited Jiyeon's initiative as the turning point that saved the company from losing its biggest client.",
+    "topicTag": "innovation at work",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "프로세스를 유선형으로 만들다, 즉 절차를 매끄럽고 효율적으로 다듬는다는 뜻입니다.",
+    "realUsageKo": "불필요한 단계나 복잡한 절차를 줄여서 업무나 시스템을 더 빠르고 효율적으로 만들 때 사용합니다. 비즈니스, IT, 행정 등 다양한 분야에서 널리 쓰입니다.",
+    "etymologyKo": "Streamline은 원래 물이나 공기의 저항을 줄이기 위한 유선형 디자인을 뜻하는 공학 용어에서 유래했습니다. 20세기 초 산업 효율화 운동과 함께 '절차를 간소화하다'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 '줄이다'보다 전문적이고 체계적인 느낌을 줍니다. 긍정적인 뉘앙스가 강하며, 주로 비즈니스나 공식적인 맥락에서 사용됩니다.",
+    "shortExampleEn": "We need to streamline a process for handling customer complaints so issues are resolved within 24 hours.",
+    "shortExampleKo": "고객 불만 처리 프로세스를 간소화해서 24시간 이내에 문제가 해결되도록 해야 합니다."
+  }
+}

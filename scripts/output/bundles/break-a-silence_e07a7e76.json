@@ -1,0 +1,30 @@
+{
+  "id": "break-a-silence_e07a7e76",
+  "expression": "break a silence",
+  "selectionMeta": {
+    "selectedPhrase": "break a silence",
+    "selectedSenseLabelKo": "침묵을 깨다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After what felt like an eternity of tension at the dinner table, Sarah decided to break the silence by asking about everyone's plans for the weekend."
+  },
+  "step2": {
+    "story": "The two old friends sat on the park bench, neither willing to address the argument from last week. Finally, Mark cleared his throat and broke the silence with a simple apology. That one sentence lifted the weight that had been pressing on both of them for days.",
+    "topicTag": "reconciliation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The conference room was thick with unease after the CEO announced the quarterly losses. Twelve executives stared at their notebooks, avoiding eye contact. Nobody wanted to be the first to speak. Then Jiyeon, the newest director, stood up and broke the silence by presenting an alternative strategy she had been working on quietly for weeks. Her voice was steady, her data was solid, and one by one the others began to nod. By the end of her five-minute pitch, the mood in the room had shifted from dread to cautious optimism.",
+    "topicTag": "workplace leadership",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "침묵을 깨뜨리다, 즉 조용한 상태를 끝내고 말을 꺼내는 것을 의미합니다.",
+    "realUsageKo": "어색하거나 무거운 분위기에서 누군가가 먼저 입을 열 때 주로 사용합니다. 단순히 조용한 상태를 끝내는 것뿐 아니라, 용기를 내어 말을 꺼내는 뉘앙스가 있습니다.",
+    "etymologyKo": "silence(침묵)를 break(깨다)한다는 직관적인 조합으로, 물리적으로 무언가를 깨뜨리는 이미지에서 비유적으로 확장된 표현입니다.",
+    "nuanceKo": "긴장감이나 어색함이 감도는 상황에서 쓰이는 경우가 많아, 단순히 '말을 시작하다'보다 감정적 무게가 실린 표현입니다. 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "He broke the silence by confessing what had really happened that night.",
+    "shortExampleKo": "그는 그날 밤 실제로 무슨 일이 있었는지 고백하며 침묵을 깼다."
+  }
+}

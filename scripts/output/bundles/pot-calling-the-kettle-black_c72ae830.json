@@ -1,0 +1,30 @@
+{
+  "id": "pot-calling-the-kettle-black_c72ae830",
+  "expression": "pot calling the kettle black",
+  "selectionMeta": {
+    "selectedPhrase": "pot calling the kettle black",
+    "selectedSenseLabelKo": "오십보백보",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She accused him of being lazy, but that's the pot calling the kettle black — she hasn't lifted a finger all week."
+  },
+  "step2": {
+    "story": "Marcus rolled his eyes when his coworker Jake complained about people showing up late to meetings. Everyone in the office knew Marcus himself was notorious for arriving fifteen minutes behind schedule. Their manager overheard and laughed, saying it was a classic case of the pot calling the kettle black.",
+    "topicTag": "workplace hypocrisy",
+    "moodTag": "ironic"
+  },
+  "step3": {
+    "story": "Dinner at the Cho family reunion was going smoothly until Aunt Soyeon started lecturing her younger sister about spending too much money on designer bags. The whole table went quiet. Everyone remembered that Soyeon had just returned from a luxury shopping trip to Milan last month, her closet practically bursting with designer labels. Uncle Jaeho couldn't hold back and muttered under his breath that it was the pot calling the kettle black. A few cousins stifled their laughter, while Soyeon turned bright red, suddenly very interested in her plate of japchae. Her sister simply smiled and said nothing, knowing the point had already been made by someone else.",
+    "topicTag": "family dynamics",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "냄비가 주전자보고 검다고 한다는 뜻으로, 자신도 똑같은 결점이 있으면서 남을 비난하는 상황을 가리킵니다.",
+    "realUsageKo": "자기 자신도 같은 문제가 있으면서 다른 사람을 비판할 때 사용합니다. '네가 할 말은 아니지' 또는 '오십보백보'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "옛날 요리용 냄비(pot)와 주전자(kettle) 모두 불 위에 올려놓아 그을음으로 까맣게 변했는데, 냄비가 주전자더러 검다고 비난하는 것이 우스꽝스럽다는 데서 유래했습니다. 17세기 세르반테스의 '돈키호테' 영어 번역본에서 처음 등장한 것으로 알려져 있습니다.",
+    "nuanceKo": "상대방의 위선을 지적할 때 쓰이며, 약간 비꼬는 톤이 담겨 있습니다. 격식 없는 일상 대화에서 주로 사용되며, 유머러스하거나 날카로운 느낌을 줄 수 있습니다.",
+    "shortExampleEn": "You're telling me to eat healthier? That's the pot calling the kettle black!",
+    "shortExampleKo": "나한테 건강하게 먹으라고? 그건 네가 할 말은 아니잖아!"
+  }
+}

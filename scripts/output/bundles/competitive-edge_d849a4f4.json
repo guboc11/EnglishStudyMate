@@ -1,0 +1,30 @@
+{
+  "id": "competitive-edge_d849a4f4",
+  "expression": "competitive edge",
+  "selectionMeta": {
+    "selectedPhrase": "competitive edge",
+    "selectedSenseLabelKo": "경쟁 우위",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new AI-powered analytics platform gives us a competitive edge over other firms in the industry."
+  },
+  "step2": {
+    "story": "After months of research, Jina's startup finally launched its patented battery technology. Investors quickly noticed the product's superior performance, and within weeks, orders flooded in. That innovation gave her company a real competitive edge in the crowded electric vehicle market.",
+    "topicTag": "startup innovation",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Daniel had spent three years working at a mid-sized consulting firm that always seemed to lose bids to larger competitors. One evening, he proposed building an in-house data visualization tool tailored to their clients' specific needs. His manager was skeptical at first, but Daniel stayed late for weeks, refining the prototype until it was polished. When they presented it at the next pitch meeting, the client was visibly impressed. That custom tool became the firm's competitive edge, helping them win contracts they never would have landed before. Within a year, revenue had doubled, and Daniel was promoted to lead the new digital strategy division.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '경쟁적인 날카로움'으로, 경쟁에서 앞서게 해주는 우위나 이점을 뜻합니다.",
+    "realUsageKo": "비즈니스, 취업, 스포츠 등에서 다른 경쟁자보다 유리한 위치를 점하게 해주는 강점이나 차별화 요소를 말할 때 사용합니다. 'edge'가 '칼날'이라는 뜻에서 파생되어 '남보다 한 발 앞선 예리한 강점'이라는 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "'edge'는 고대 영어 'ecg(칼날)'에서 유래했으며, 16세기부터 '우위, 이점'이라는 비유적 의미로 쓰이기 시작했습니다. 'competitive edge'는 20세기 비즈니스 용어로 정착되었습니다.",
+    "nuanceKo": "단순한 '장점'보다 경쟁 상황에서의 결정적 차별화를 강조하는 표현입니다. 격식체와 비격식체 모두에서 자연스럽게 사용되며, 특히 비즈니스와 전략 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "Speaking three languages gives her a competitive edge in the job market.",
+    "shortExampleKo": "세 가지 언어를 구사하는 것이 취업 시장에서 그녀에게 경쟁 우위를 줍니다."
+  }
+}

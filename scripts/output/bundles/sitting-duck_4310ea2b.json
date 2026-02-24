@@ -1,0 +1,30 @@
+{
+  "id": "sitting-duck_4310ea2b",
+  "expression": "sitting duck",
+  "selectionMeta": {
+    "selectedPhrase": "sitting duck",
+    "selectedSenseLabelKo": "쉬운 표적",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Without any cybersecurity measures in place, the small company was a sitting duck for hackers."
+  },
+  "step2": {
+    "story": "The new intern forgot to lock the office server room overnight. By morning, the IT team discovered unauthorized access attempts — the unprotected system had been a sitting duck. They spent the entire weekend patching vulnerabilities and changing passwords.",
+    "topicTag": "cybersecurity",
+    "moodTag": "alarmed"
+  },
+  "step3": {
+    "story": "Rachel had just opened her first bakery on a quiet street corner. Business was slow, and she hadn't invested in security cameras or an alarm system yet. One evening, she noticed someone lurking near the back entrance after closing time. Her neighbor warned her that shops without visible security were sitting ducks for burglars in the area. The next day, Rachel installed cameras, motion-sensor lights, and a proper lock on the back door. She refused to let her dream become an easy target for anyone.",
+    "topicTag": "small business safety",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '앉아 있는 오리'로, 움직이지 않고 가만히 있어 쉽게 잡을 수 있는 오리를 뜻합니다.",
+    "realUsageKo": "방어 수단이 없거나 무방비 상태에 있어 공격이나 비판, 피해를 당하기 쉬운 사람이나 대상을 가리킬 때 사용합니다. '쉬운 먹잇감', '호구'와 비슷한 느낌입니다.",
+    "etymologyKo": "사냥 용어에서 유래했습니다. 물 위에 가만히 앉아 있는 오리는 날아가는 오리보다 훨씬 쏘기 쉬웠기 때문에, 무방비 상태의 쉬운 표적을 뜻하게 되었습니다.",
+    "nuanceKo": "부정적이고 경고의 뉘앙스가 강합니다. 주로 위험에 노출된 상황을 묘사하거나, 누군가에게 조심하라고 충고할 때 씁니다. 격식·비격식 모두 사용 가능합니다.",
+    "shortExampleEn": "Tourists who flash expensive jewelry are sitting ducks for pickpockets.",
+    "shortExampleKo": "비싼 보석을 과시하는 관광객들은 소매치기의 쉬운 표적이다."
+  }
+}

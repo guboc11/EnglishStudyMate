@@ -1,0 +1,30 @@
+{
+  "id": "approach-a-problem_89ea39ec",
+  "expression": "approach a problem",
+  "selectionMeta": {
+    "selectedPhrase": "approach a problem",
+    "selectedSenseLabelKo": "문제에 접근하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before jumping to conclusions, let's approach the problem from a different angle and consider all the options."
+  },
+  "step2": {
+    "story": "Mina stared at the spreadsheet full of errors, feeling completely stuck. Her team leader sat beside her and said, \"Let's approach the problem step by step instead of trying to fix everything at once.\" Within an hour, they had found the root cause and corrected every mistake.",
+    "topicTag": "work collaboration",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Jaeho had been struggling with the customer complaint system for three days straight. Every fix he tried seemed to create two new bugs. On Thursday morning, his colleague Soojin noticed him slumped over his keyboard and pulled up a chair. \"You're too close to it now,\" she said gently. \"Let's approach the problem with fresh eyes — pretend we've never seen this codebase before.\" They grabbed a whiteboard, mapped out the entire data flow, and quickly spotted a logic error buried deep in the validation module. By the end of the day, the system was running smoother than ever, and Jaeho realized that sometimes the best way forward is to take a step back.",
+    "topicTag": "debugging at work",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'문제에 다가가다'라는 뜻으로, 어떤 문제를 해결하기 위해 방법이나 관점을 정하는 것을 의미합니다.",
+    "realUsageKo": "실제로는 '문제를 어떤 방식으로 풀어나가다', '문제에 대한 접근법을 취하다'라는 뜻으로 널리 쓰입니다. 업무, 학습, 일상 대화 등 다양한 상황에서 사용됩니다.",
+    "etymologyKo": "'approach'는 라틴어 'appropiare(가까이 다가가다)'에서 유래했으며, 물리적으로 가까이 가는 것에서 추상적으로 '문제에 접근하다'는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 문제를 '풀다(solve)'와 달리, 문제를 풀기 위한 방법론이나 태도를 강조하는 표현입니다. 체계적이고 신중한 느낌을 줍니다.",
+    "shortExampleEn": "We need to approach this problem calmly and logically.",
+    "shortExampleKo": "우리는 이 문제에 차분하고 논리적으로 접근해야 합니다."
+  }
+}

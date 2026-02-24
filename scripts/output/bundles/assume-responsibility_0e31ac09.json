@@ -1,0 +1,30 @@
+{
+  "id": "assume-responsibility_0e31ac09",
+  "expression": "assume responsibility",
+  "selectionMeta": {
+    "selectedPhrase": "assume responsibility",
+    "selectedSenseLabelKo": "책임을 지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the project manager resigned, Sarah had to assume responsibility for the entire product launch."
+  },
+  "step2": {
+    "story": "When the team lead suddenly left the company, nobody wanted to step up. But Jason decided to assume responsibility for the critical deadline, staying late every night to keep things on track. His courage earned him a promotion within three months.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The morning the news broke about the data breach, the entire office was in chaos. Fingers were pointed in every direction, and the CEO demanded answers. While everyone else scrambled to shift blame, Mina walked into the boardroom and said she would assume responsibility for the security oversight. She laid out a clear recovery plan, assigned tasks to her team, and personally called every affected client to apologize. It was the hardest week of her career, but her willingness to own the mistake transformed the company's crisis response culture. A year later, she was named Chief Security Officer.",
+    "topicTag": "leadership under pressure",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "'책임을 떠맡다'라는 뜻으로, assume은 '(역할·의무 등을) 맡다'라는 의미입니다.",
+    "realUsageKo": "어떤 일이나 결과에 대해 자발적으로 또는 상황에 의해 책임을 지게 될 때 사용합니다. 직장, 공식적인 자리, 리더십 상황에서 자주 쓰이며 단순히 '책임지다'보다 격식 있고 무게감 있는 표현입니다.",
+    "etymologyKo": "assume은 라틴어 assumere(ad- '향해' + sumere '취하다')에서 유래했으며, '자신에게로 가져오다'라는 원뜻에서 '맡다, 떠안다'의 의미로 발전했습니다.",
+    "nuanceKo": "take responsibility보다 격식적이고 무게감이 있습니다. 공식 성명, 비즈니스 문서, 리더십 맥락에서 주로 사용되며, 자발적으로 나서는 뉘앙스가 강합니다.",
+    "shortExampleEn": "The new director will assume responsibility for all overseas operations.",
+    "shortExampleKo": "새 이사가 모든 해외 사업의 책임을 맡게 될 것이다."
+  }
+}

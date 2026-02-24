@@ -1,0 +1,30 @@
+{
+  "id": "demonstrate-value_4803ec1f",
+  "expression": "demonstrate value",
+  "selectionMeta": {
+    "selectedPhrase": "demonstrate value",
+    "selectedSenseLabelKo": "가치를 보여주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During her first month at the company, she found every opportunity to demonstrate value by streamlining outdated processes."
+  },
+  "step2": {
+    "story": "Kevin had been a freelance designer for years, but landing corporate clients was always tough. When a major firm gave him a trial project, he poured everything into it to demonstrate value. By the end of the week, the client extended his contract for six months.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina joined a startup where everyone was skeptical about hiring a fresh graduate. On her first day, she noticed the team spent hours manually compiling weekly reports. She quietly built a simple automation tool over the weekend and presented it on Monday morning. Her manager was stunned — the tool cut reporting time by eighty percent. It was exactly the kind of move that could demonstrate value without saying a single word about her credentials. From that point on, nobody questioned whether she belonged on the team.",
+    "topicTag": "proving yourself",
+    "moodTag": "quietly confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '가치를 증명하다/보여주다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 자신의 능력이나 기여도를 구체적인 성과나 행동으로 입증할 때 사용합니다. 주로 직장, 비즈니스, 면접 등에서 말이 아닌 결과로 자신의 존재 가치를 보여주는 맥락에 쓰입니다.",
+    "etymologyKo": "demonstrate는 라틴어 'demonstrare(명확히 보여주다)'에서 유래했고, value는 라틴어 'valere(강하다, 가치가 있다)'에서 왔습니다. 두 단어가 결합되어 '가치를 명확히 드러내다'라는 의미의 콜로케이션이 되었습니다.",
+    "nuanceKo": "단순히 '잘한다'고 말하는 것이 아니라, 실제 행동과 결과로 증명한다는 뉘앙스가 강합니다. 비즈니스 영어에서 특히 자주 쓰이며, 약간 격식 있는 표현입니다.",
+    "shortExampleEn": "You need to demonstrate value before asking for a raise.",
+    "shortExampleKo": "연봉 인상을 요청하기 전에 먼저 자신의 가치를 보여줘야 합니다."
+  }
+}

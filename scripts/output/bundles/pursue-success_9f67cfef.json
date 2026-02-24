@@ -1,0 +1,30 @@
+{
+  "id": "pursue-success_9f67cfef",
+  "expression": "pursue success",
+  "selectionMeta": {
+    "selectedPhrase": "pursue success",
+    "selectedSenseLabelKo": "성공을 추구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of working odd jobs, Maria decided to pursue success by enrolling in a business program and launching her own startup."
+  },
+  "step2": {
+    "story": "Daniel had always wanted to pursue success on his own terms, not by following the path his parents had chosen for him. He quit his stable accounting job and moved to Berlin to start a design studio. Within two years, his bold decision paid off as clients from across Europe lined up at his door.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Growing up in a small farming town, Jiwon watched her older siblings settle into predictable lives close to home. She loved her family, but something restless burned inside her. At eighteen, she told her parents she wanted to pursue success in the city and study international business. The first year in Seoul was brutal — she worked part-time at a convenience store while attending lectures during the day. But each small victory, a good grade, a kind mentor, a freelance project, reminded her why she had left. By graduation, Jiwon had internship offers from three global firms and the quiet confidence that comes from earning every step yourself.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "성공을 뒤쫓다, 즉 성공이라는 목표를 향해 적극적으로 나아가다라는 뜻입니다.",
+    "realUsageKo": "단순히 성공을 바라는 것이 아니라, 구체적인 행동과 노력을 통해 성공을 이루려고 한다는 의미로 사용됩니다. 커리어, 사업, 개인적 목표 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "pursue는 라틴어 prosequi(뒤따르다, 추적하다)에서 유래했으며, success는 라틴어 successus(좋은 결과)에서 왔습니다. 두 단어가 결합하여 '좋은 결과를 적극적으로 쫓다'라는 뜻이 되었습니다.",
+    "nuanceKo": "pursue는 chase나 seek보다 격식 있고 진지한 느낌을 줍니다. 단기적 욕구보다는 장기적이고 의지가 담긴 노력을 암시하며, 자기계발이나 커리어 성장 맥락에서 긍정적 어감으로 자주 쓰입니다.",
+    "shortExampleEn": "She moved abroad to pursue success in the tech industry.",
+    "shortExampleKo": "그녀는 IT 업계에서 성공을 추구하기 위해 해외로 이주했다."
+  }
+}

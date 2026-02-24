@@ -1,0 +1,30 @@
+{
+  "id": "accept-defeat_483174f9",
+  "expression": "accept defeat",
+  "selectionMeta": {
+    "selectedPhrase": "accept defeat",
+    "selectedSenseLabelKo": "패배를 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing the final match, she had no choice but to accept defeat gracefully."
+  },
+  "step2": {
+    "story": "The chess tournament had been grueling, and Marcus gave everything he had in the final round. When his opponent trapped his king with a brilliant move, Marcus extended his hand across the board to accept defeat. Walking out of the hall, he already felt the quiet fire of wanting to come back stronger.",
+    "topicTag": "competition",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "For three years, Jina had poured her heart into building her startup, believing it would change the way people learned languages. But when the last investor pulled out and the team began to scatter, the numbers told a story she could no longer ignore. Sitting alone in the empty office late one evening, she finally allowed herself to accept defeat. Tears rolled down her cheeks, but beneath the sadness was something unexpected — relief. She realized that accepting defeat didn't mean she had failed as a person; it meant she was brave enough to face reality. The next morning, she woke up lighter, already sketching ideas for what she would build next.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "패배를 받아들이다 — 말 그대로 자신이 졌다는 사실을 인정하고 수용하는 것입니다.",
+    "realUsageKo": "경쟁이나 도전에서 더 이상 이길 수 없다는 것을 깨닫고 그 결과를 담담하게 받아들일 때 사용합니다. 단순히 지는 것이 아니라, 지는 것을 인정하는 태도에 초점이 있습니다.",
+    "etymologyKo": "accept는 라틴어 'accipere(받다)'에서, defeat는 프랑스어 'défaire(무너뜨리다)'에서 유래했습니다. 두 단어가 결합되어 '패배라는 결과를 받아들이다'라는 의미가 되었습니다.",
+    "nuanceKo": "이 표현에는 성숙함과 품격의 뉘앙스가 담겨 있습니다. 억지로 지는 것이 아니라 현실을 직시하는 용기를 내포하며, 'gracefully'와 함께 자주 쓰입니다.",
+    "shortExampleEn": "It's not easy to accept defeat, but sometimes it's the only way to move forward.",
+    "shortExampleKo": "패배를 받아들이는 것은 쉽지 않지만, 때로는 그것이 앞으로 나아가는 유일한 방법입니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pull-out-all-the-stops_ab64e35b",
+  "expression": "pull out all the stops",
+  "selectionMeta": {
+    "selectedPhrase": "pull out all the stops",
+    "selectedSenseLabelKo": "전력을 다하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The marketing team decided to pull out all the stops for the product launch, hiring a celebrity spokesperson and renting the biggest venue in town."
+  },
+  "step2": {
+    "story": "Jenny's bakery was struggling, so when the city's food festival came around, she decided to pull out all the stops. She created twelve new recipes, decorated her booth with fresh flowers, and offered free samples to every passerby. By the end of the weekend, she had more orders than she could handle.",
+    "topicTag": "small business",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had been a decent student throughout college, but his final thesis presentation would determine whether he graduated with honors. He locked himself in the library for two straight weeks, reorganizing every chapter and adding data he'd never thought to include before. His roommate barely saw him, only catching glimpses of empty coffee cups piling up on his desk. On the day of the presentation, Marcus pulled out all the stops — he wore his best suit, spoke with confidence, and answered every question from the panel without hesitation. The professors exchanged impressed glances, and one of them later told him it was the strongest defense she had seen in years. Walking out of the hall, Marcus finally let himself smile, knowing every sleepless night had been worth it.",
+    "topicTag": "academic achievement",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "모든 스톱(장치)을 빼내다 — 파이프 오르간의 음전(音栓)을 모두 열어 최대 음량을 내는 것을 말합니다.",
+    "realUsageKo": "어떤 목표를 이루기 위해 가능한 모든 수단과 노력을 동원할 때 사용합니다. '전력을 다하다', '총력을 기울이다'와 비슷한 의미입니다.",
+    "etymologyKo": "파이프 오르간에서 유래한 표현입니다. 오르간의 '스톱(stop)'은 특정 파이프 열의 공기 흐름을 제어하는 장치인데, 모든 스톱을 빼내면(pull out) 모든 파이프가 동시에 울려 가장 크고 풍성한 소리가 납니다.",
+    "nuanceKo": "긍정적이고 적극적인 뉘앙스를 가집니다. 주로 중요한 행사, 프로젝트, 경쟁 상황에서 최선을 다하는 모습을 표현할 때 씁니다. 일상 대화와 비즈니스 맥락 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "We're pulling out all the stops for Mom's surprise birthday party.",
+    "shortExampleKo": "엄마 깜짝 생일 파티를 위해 전력을 다하고 있어."
+  }
+}

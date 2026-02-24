@@ -1,0 +1,30 @@
+{
+  "id": "find-inspiration_93e366a3",
+  "expression": "find inspiration",
+  "selectionMeta": {
+    "selectedPhrase": "find inspiration",
+    "selectedSenseLabelKo": "영감을 찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to take a walk through the old neighborhood to find inspiration for her next painting."
+  },
+  "step2": {
+    "story": "Marco had been staring at a blank canvas for days, unable to create anything new. One rainy afternoon, he visited a small bookshop and stumbled upon a collection of old travel photographs. In those faded images, he finally found inspiration and rushed home to paint through the night.",
+    "topicTag": "creative block",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Yuna was a songwriter who hadn't written a single lyric in months. Every melody she tried felt hollow and repetitive. Her friend suggested she volunteer at a community kitchen downtown, thinking a change of scenery might help. At first, Yuna was skeptical, but the stories she heard from the people there moved her deeply. She found inspiration in the quiet resilience of a grandmother who sang old folk songs while serving soup. That evening, Yuna sat at her piano and wrote the most honest song of her career.",
+    "topicTag": "human connection",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'영감(inspiration)을 찾다(find)'라는 뜻으로, 창작이나 행동의 동기가 되는 자극을 발견하는 것을 의미합니다.",
+    "realUsageKo": "새로운 아이디어나 창작 동기를 얻을 때 자주 쓰입니다. 예술, 글쓰기, 일상적인 문제 해결 등 폭넓은 상황에서 사용되며, 의도적으로 영감을 구하는 능동적인 뉘앙스가 있습니다.",
+    "etymologyKo": "'inspiration'은 라틴어 'inspirare(숨을 불어넣다)'에서 유래했으며, 신이 인간에게 창조적 영감을 불어넣는다는 고대 관념에서 비롯되었습니다. 'find'와 결합하여 스스로 그 영감을 찾아 나서는 현대적 표현이 되었습니다.",
+    "nuanceKo": "단순히 '아이디어를 떠올리다'보다 더 깊고 감성적인 동기 부여를 의미합니다. 주로 긍정적이고 능동적인 맥락에서 쓰이며, 막혀 있던 상태에서 돌파구를 찾는 느낌을 줍니다.",
+    "shortExampleEn": "I traveled to Japan to find inspiration for my novel.",
+    "shortExampleKo": "나는 소설의 영감을 찾기 위해 일본을 여행했다."
+  }
+}

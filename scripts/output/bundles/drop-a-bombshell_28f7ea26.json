@@ -1,0 +1,30 @@
+{
+  "id": "drop-a-bombshell_28f7ea26",
+  "expression": "drop a bombshell",
+  "selectionMeta": {
+    "selectedPhrase": "drop a bombshell",
+    "selectedSenseLabelKo": "충격적인 소식을 전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the team meeting, Sarah dropped a bombshell by announcing she was leaving the company after fifteen years."
+  },
+  "step2": {
+    "story": "The family gathered around the dinner table for a quiet Sunday meal. Just as everyone started eating, Uncle Robert dropped a bombshell — he had sold the family house and was moving to New Zealand. Forks clattered against plates as stunned silence filled the room.",
+    "topicTag": "family decisions",
+    "moodTag": "shocked"
+  },
+  "step3": {
+    "story": "Jenna had been working at the marketing firm for three years, steadily climbing the ranks and earning the trust of her colleagues. One Friday afternoon, the CEO called an all-hands meeting with no agenda — everyone assumed it was another routine update. But then he dropped a bombshell: the company was merging with their biggest competitor, and half the positions would be eliminated. Jenna felt her stomach sink as whispers erupted around the conference room. She glanced at her best friend across the table, who looked just as blindsided. That evening, they sat together at a café, trying to process what their futures might look like.",
+    "topicTag": "career uncertainty",
+    "moodTag": "anxious"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '폭탄을 떨어뜨리다'라는 뜻입니다.",
+    "realUsageKo": "예상치 못한 충격적인 소식이나 뉴스를 갑자기 전할 때 사용합니다. 주로 듣는 사람이 크게 놀랄 만한 발표나 고백을 할 때 쓰입니다.",
+    "etymologyKo": "제2차 세계대전 당시 폭격기가 폭탄을 투하하는 이미지에서 유래했습니다. 폭탄이 떨어지듯 갑작스럽고 파괴적인 소식을 전하는 상황을 비유적으로 표현한 것입니다.",
+    "nuanceKo": "부정적인 소식에 주로 사용되지만, 결혼이나 임신 발표처럼 놀랍지만 긍정적인 소식에도 쓸 수 있습니다. 다소 비격식적인 표현으로 일상 대화에서 자주 사용됩니다.",
+    "shortExampleEn": "He dropped a bombshell when he told us he was getting married next week.",
+    "shortExampleKo": "그가 다음 주에 결혼한다고 말했을 때, 모두가 깜짝 놀랐다."
+  }
+}

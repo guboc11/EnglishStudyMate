@@ -1,0 +1,30 @@
+{
+  "id": "have-an-impact_aabc30ae",
+  "expression": "have an impact",
+  "selectionMeta": {
+    "selectedPhrase": "have an impact",
+    "selectedSenseLabelKo": "영향을 미치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her keynote speech had an impact on every student in the auditorium, inspiring them to think differently about their futures."
+  },
+  "step2": {
+    "story": "Mina volunteered at a local shelter every weekend, hoping to have an impact on the lives of people who had lost their homes. After six months, a family she had helped sent her a heartfelt letter saying her kindness had changed everything. She realized that small, consistent efforts could truly make a difference.",
+    "topicTag": "volunteering",
+    "moodTag": "heartwarming"
+  },
+  "step3": {
+    "story": "When Jaeho joined the environmental startup, he wondered whether one person could really have an impact on such a massive problem. His first project was designing an app that tracked neighborhood recycling rates. Within three months, the pilot district saw a 30 percent increase in recycling. Local news covered the story, and two more cities asked to adopt the system. Jaeho finally understood that having an impact didn't require grand gestures — just the right idea at the right time. He smiled as he opened his laptop to plan the next rollout.",
+    "topicTag": "environment",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'impact(충격, 영향)'을 '가지다(have)'라는 뜻으로, 직역하면 '영향을 가지다'입니다.",
+    "realUsageKo": "어떤 행동이나 사건이 다른 대상에 눈에 띄는 변화나 효과를 가져올 때 사용합니다. 긍정적·부정적 영향 모두에 쓰이며, 'have a big/significant/lasting impact'처럼 형용사와 함께 쓰는 경우가 많습니다.",
+    "etymologyKo": "'impact'는 라틴어 'impactus(부딪치다)'에서 유래했으며, 물리적 충돌의 의미에서 점차 추상적인 '영향'의 뜻으로 확장되었습니다.",
+    "nuanceKo": "'have an effect'보다 더 강하고 뚜렷한 영향을 암시합니다. 격식체와 일상 대화 모두에서 널리 사용되며, 특히 프레젠테이션이나 글쓰기에서 자주 등장합니다.",
+    "shortExampleEn": "The new policy will have an impact on small businesses across the country.",
+    "shortExampleKo": "새로운 정책은 전국의 소규모 기업들에 영향을 미칠 것이다."
+  }
+}

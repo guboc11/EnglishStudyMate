@@ -1,0 +1,30 @@
+{
+  "id": "prove-a-point_1160e673",
+  "expression": "prove a point",
+  "selectionMeta": {
+    "selectedPhrase": "prove a point",
+    "selectedSenseLabelKo": "요점을 증명하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed up all night finishing the report just to prove a point that she could handle the workload alone."
+  },
+  "step2": {
+    "story": "Marcus's coworkers doubted he could close the deal without their help. He spent the entire weekend preparing a flawless presentation and landed the client on Monday morning. He didn't do it for the bonus — he did it to prove a point.",
+    "topicTag": "workplace confidence",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Elena's professor told her that her research topic was too ambitious for an undergraduate thesis, she felt a fire light inside her. She spent months buried in the library, collecting data that no one had thought to gather before. Her classmates warned her she was wasting her time, but Elena kept going. On the day of her defense, she presented findings so compelling that even her skeptical professor stood up to applaud. Elena hadn't just earned her degree — she had proven a point. Sometimes the best motivation comes from someone telling you it can't be done.",
+    "topicTag": "academic perseverance",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '하나의 요점을 증명하다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 자신의 주장이나 능력이 맞다는 것을 행동으로 보여주기 위해 무언가를 할 때 사용합니다. 단순한 증명이 아니라, 남들의 의심이나 반대를 뒤집으려는 의도가 담겨 있습니다.",
+    "etymologyKo": "'prove'는 라틴어 'probare(시험하다, 증명하다)'에서 유래했으며, 'point'는 핵심 주장을 의미합니다. 중세 영어 시대부터 논쟁에서 자신의 입장을 입증한다는 맥락으로 사용되었습니다.",
+    "nuanceKo": "이 표현은 단순히 사실을 확인하는 것이 아니라, 의지와 자존심이 동기가 되어 행동하는 뉘앙스를 담고 있습니다. 때로는 고집스럽거나 불필요하게 에너지를 쏟는다는 약간 부정적인 뉘앙스도 있을 수 있습니다.",
+    "shortExampleEn": "He ran the marathon just to prove a point to his doubters.",
+    "shortExampleKo": "그는 자신을 의심하는 사람들에게 보여주기 위해 마라톤을 완주했다."
+  }
+}

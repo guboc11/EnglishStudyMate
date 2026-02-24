@@ -1,0 +1,30 @@
+{
+  "id": "manage-a-team_0239e194",
+  "expression": "manage a team",
+  "selectionMeta": {
+    "selectedPhrase": "manage a team",
+    "selectedSenseLabelKo": "팀을 관리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After her promotion, Sarah had to learn how to manage a team of twelve engineers spread across three different time zones."
+  },
+  "step2": {
+    "story": "Daniel had been a brilliant individual contributor for years, but when the company asked him to manage a team, everything changed. He quickly realized that motivating people required a completely different skill set than writing code. Within six months, though, his team became the most productive group in the department.",
+    "topicTag": "leadership transition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Jiyeon first moved to the London office, she was terrified of having to manage a team in a language that wasn't her own. Her eight direct reports came from six different countries, each with their own communication style and expectations. During her first weekly meeting, she stumbled over words and felt her face burn with embarrassment. But she kept showing up, listening more than speaking, and asking genuine questions about each person's goals. By the end of the quarter, her team had not only hit every target but also reported the highest satisfaction scores in the company. Jiyeon learned that to manage a team well, you don't need perfect English — you need honest empathy.",
+    "topicTag": "cross-cultural leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "팀을 관리하다, 즉 한 그룹의 사람들을 이끌고 조율하는 것을 뜻합니다.",
+    "realUsageKo": "직장에서 리더나 매니저로서 팀원들의 업무 배분, 성과 관리, 동기 부여 등을 총괄하는 상황에서 폭넓게 사용됩니다. 단순한 업무 지시뿐 아니라 팀 분위기와 협업까지 책임진다는 뉘앙스를 포함합니다.",
+    "etymologyKo": "manage는 이탈리아어 maneggiare(다루다, 특히 말을 다루다)에서 유래했으며, 라틴어 manus(손)에 뿌리를 둡니다. team은 고대 영어 tēam(한 줄로 묶인 동물들)에서 왔습니다.",
+    "nuanceKo": "manage a team은 중립적이고 전문적인 표현으로, 이력서나 면접에서 자주 쓰입니다. lead a team이 비전 제시에 초점을 둔다면, manage a team은 실무적 운영과 조율에 더 무게를 둡니다.",
+    "shortExampleEn": "She's been managing a team of twenty people since last year.",
+    "shortExampleKo": "그녀는 작년부터 20명으로 구성된 팀을 관리해 오고 있다."
+  }
+}

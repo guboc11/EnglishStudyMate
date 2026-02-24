@@ -1,0 +1,30 @@
+{
+  "id": "express-support_3ecfe983",
+  "expression": "express support",
+  "selectionMeta": {
+    "selectedPhrase": "express support",
+    "selectedSenseLabelKo": "지지를 표하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Several community leaders gathered at city hall to express support for the new environmental policy."
+  },
+  "step2": {
+    "story": "When Maya announced she was leaving her corporate job to start a nonprofit, most of her family was skeptical. But her younger brother was the first to express support, saying he believed in her vision. His encouragement gave her the confidence to move forward.",
+    "topicTag": "career change",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Daniel had been working on a controversial proposal to restructure the entire department. For weeks, his colleagues avoided the topic, and he started to doubt whether it was worth pursuing. Then, during an all-hands meeting, the senior director stood up and publicly expressed support for his plan. One by one, other team members began nodding and raising their hands to volunteer. By the end of the meeting, what had felt like a lonely battle had turned into a shared mission. Daniel realized that sometimes all it takes is one person willing to stand behind you.",
+    "topicTag": "workplace leadership",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "지지(support)를 표현하다(express)라는 뜻으로, 누군가나 무언가에 대한 찬성·응원의 뜻을 드러내는 것을 의미합니다.",
+    "realUsageKo": "특정 사안, 정책, 또는 사람에 대해 공식적·비공식적으로 찬성이나 응원의 입장을 밝힐 때 사용합니다. 단순히 '좋아한다'보다는 적극적으로 의견이나 태도를 표명하는 뉘앙스가 있습니다.",
+    "etymologyKo": "express는 라틴어 exprimere(밖으로 누르다, 드러내다)에서 유래했고, support는 라틴어 supportare(아래에서 받쳐주다)에서 왔습니다. 두 단어가 결합하여 '지지를 밖으로 드러내다'라는 의미가 되었습니다.",
+    "nuanceKo": "일상 대화보다는 공적인 맥락(정치, 비즈니스, 공식 성명 등)에서 더 자주 쓰이며, 단순한 동의보다 적극적이고 의지가 담긴 지지의 느낌을 줍니다.",
+    "shortExampleEn": "The senator expressed support for the education reform bill.",
+    "shortExampleKo": "그 상원의원은 교육 개혁 법안에 대한 지지를 표명했다."
+  }
+}

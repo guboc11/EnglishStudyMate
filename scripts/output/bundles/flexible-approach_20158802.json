@@ -1,0 +1,30 @@
+{
+  "id": "flexible-approach_20158802",
+  "expression": "flexible approach",
+  "selectionMeta": {
+    "selectedPhrase": "flexible approach",
+    "selectedSenseLabelKo": "유연한 접근법",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our manager encouraged us to take a flexible approach when dealing with clients from different cultural backgrounds."
+  },
+  "step2": {
+    "story": "The project was falling behind schedule because the team kept hitting unexpected roadblocks. Instead of sticking rigidly to the original timeline, Sarah suggested they adopt a flexible approach and reprioritize tasks based on what was actually achievable. Within two weeks, the team had found creative workarounds and delivered the core features on time.",
+    "topicTag": "project management",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "When Daniel first joined the international consulting firm, he believed that having a strict methodology was the key to success. But his first overseas assignment in Jakarta quickly proved him wrong. The local partners worked on different schedules, valued relationship-building over rigid agendas, and expected room for negotiation at every stage. His mentor advised him to take a flexible approach rather than forcing his usual framework onto the situation. Daniel started listening more, adjusting his proposals in real time, and leaving space for spontaneous discussions. By the end of the quarter, not only had he closed the deal, but the Jakarta team specifically requested to work with him again.",
+    "topicTag": "cross-cultural business",
+    "moodTag": "adaptive"
+  },
+  "meaning": {
+    "literalMeaningKo": "'유연한 접근법'이라는 뜻으로, 상황에 맞게 방법이나 태도를 조정할 수 있는 방식을 의미합니다.",
+    "realUsageKo": "어떤 문제나 상황에 대해 하나의 정해진 방법만 고집하지 않고, 상황 변화에 따라 전략이나 방법을 바꿀 수 있는 열린 자세를 취할 때 사용합니다. 비즈니스, 교육, 일상 대화 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'flexible'은 라틴어 'flexibilis(구부릴 수 있는)'에서 유래했으며, 'approach'는 프랑스어 'approcher(가까이 가다)'에서 왔습니다. 두 단어가 결합되어 '상황에 맞게 구부러질 수 있는 접근법'이라는 뜻을 형성합니다.",
+    "nuanceKo": "긍정적인 뉘앙스를 가지며, 적응력과 실용성을 강조합니다. 'rigid approach(경직된 접근법)'의 반대 개념으로, 문제 해결 능력이 뛰어난 사람이나 조직을 묘사할 때 자주 쓰입니다.",
+    "shortExampleEn": "We need a flexible approach to handle these last-minute changes.",
+    "shortExampleKo": "이 막판 변경 사항들을 처리하려면 유연한 접근법이 필요합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "defining-moment_d596a425",
+  "expression": "defining moment",
+  "selectionMeta": {
+    "selectedPhrase": "defining moment",
+    "selectedSenseLabelKo": "결정적인 순간",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Winning that scholarship was the defining moment that changed the entire direction of her career."
+  },
+  "step2": {
+    "story": "After years of working in a job she didn't love, Clara finally received an offer from her dream company. Standing in her kitchen, reading the email for the third time, she realized this was the defining moment she had been waiting for. She typed her acceptance without hesitation.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had spent his whole life playing it safe, following the path his parents had chosen for him. But one rainy afternoon, sitting in a lecture hall that felt like a prison, he made a decision. He quietly packed his bag, walked out, and headed straight to the art studio across campus. The professor there looked surprised but handed him a brush without asking questions. Years later, James would look back on that rainy Tuesday as the defining moment when he finally became himself. It wasn't dramatic to anyone else, but it changed everything.",
+    "topicTag": "self-discovery",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'정의하는 순간'이라는 뜻으로, 무언가의 본질이나 방향을 결정짓는 순간을 가리킵니다.",
+    "realUsageKo": "인생이나 경력, 역사 등에서 중대한 전환점이 된 결정적 순간을 표현할 때 사용합니다. '그때가 바로 전환점이었다'는 뉘앙스로, 과거를 돌아보며 쓰는 경우가 많습니다.",
+    "etymologyKo": "'Define(정의하다)'에서 파생된 표현으로, 어떤 사람이나 사건의 성격을 '규정짓는' 순간이라는 의미에서 유래했습니다. 20세기 중반부터 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 사용됩니다. 다소 무게감 있는 표현으로, 사소한 일보다는 인생을 바꾼 중요한 순간에 쓰는 것이 자연스럽습니다.",
+    "shortExampleEn": "That conversation with my mentor was a defining moment in my life.",
+    "shortExampleKo": "멘토와의 그 대화는 내 인생의 결정적인 순간이었다."
+  }
+}

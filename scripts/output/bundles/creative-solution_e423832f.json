@@ -1,0 +1,30 @@
+{
+  "id": "creative-solution_e423832f",
+  "expression": "creative solution",
+  "selectionMeta": {
+    "selectedPhrase": "creative solution",
+    "selectedSenseLabelKo": "창의적인 해결책",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hours of brainstorming, the team finally came up with a creative solution that satisfied everyone's concerns."
+  },
+  "step2": {
+    "story": "The startup was running out of money and couldn't afford traditional advertising. Their marketing lead proposed a creative solution: partnering with local coffee shops to print their app's QR code on every cup sleeve. Within a month, downloads tripled without spending a dime on ads.",
+    "topicTag": "startup marketing",
+    "moodTag": "resourceful"
+  },
+  "step3": {
+    "story": "Jenna stared at the spreadsheet, her stomach sinking. The school's annual arts festival was three weeks away, but budget cuts had slashed their funding by sixty percent. Canceling wasn't an option — hundreds of students had been preparing for months. She called an emergency meeting with the parent volunteers and laid out the numbers honestly. One father, a carpenter, offered to build the stage from reclaimed wood. A mother who ran a bakery volunteered to handle all the refreshments at cost. Inspired by their generosity, Jenna devised a creative solution for the rest: a crowdfunding page paired with student-made thank-you videos that went viral in the neighborhood. The festival not only survived but raised more community spirit than any year before.",
+    "topicTag": "community effort",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "창의적인(creative) 해결책(solution)이라는 뜻으로, 기존 방식과 다른 독창적인 방법으로 문제를 해결하는 것을 의미합니다.",
+    "realUsageKo": "단순한 해결책이 아니라 참신하고 독창적인 접근 방식을 강조할 때 사용합니다. 주로 어려운 상황에서 틀에 박히지 않은 방법으로 문제를 풀어냈을 때 칭찬이나 긍정적 맥락으로 쓰입니다.",
+    "etymologyKo": "creative는 라틴어 'creare(만들다, 창조하다)'에서 유래했고, solution은 라틴어 'solvere(풀다, 해결하다)'에서 왔습니다. 두 단어가 결합되어 '새로운 것을 만들어내며 문제를 푸는 방법'이라는 의미를 형성합니다.",
+    "nuanceKo": "일반적인 solution과 달리 creative solution은 혁신성과 독창성을 내포합니다. 비즈니스, 교육, 일상 등 다양한 맥락에서 사용되며, 기존 방식으로는 해결이 어려웠던 문제를 돌파했다는 뉘앙스를 줍니다.",
+    "shortExampleEn": "We need a creative solution to reduce costs without laying anyone off.",
+    "shortExampleKo": "아무도 해고하지 않으면서 비용을 줄일 수 있는 창의적인 해결책이 필요합니다."
+  }
+}

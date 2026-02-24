@@ -1,0 +1,30 @@
+{
+  "id": "release-tension_2ff47172",
+  "expression": "release tension",
+  "selectionMeta": {
+    "selectedPhrase": "release tension",
+    "selectedSenseLabelKo": "긴장을 풀다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the long meeting, she stepped outside to release tension by taking a slow walk around the park."
+  },
+  "step2": {
+    "story": "Jake had been staring at his screen for hours, his shoulders tight and his jaw clenched. He finally pushed back from his desk and went to the gym to release tension. Thirty minutes on the punching bag left him feeling like a completely different person.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The entire office had been on edge for weeks as the product launch deadline approached. Everyone was snapping at each other over the smallest things. On Friday afternoon, the team lead surprised everyone by canceling the last meeting and ordering pizza instead. She told them they all needed to release tension before the weekend or they would burn out. People started laughing, sharing stories, and slowly the knots in their shoulders began to loosen. By the time they left the office that evening, the atmosphere had completely transformed.",
+    "topicTag": "team dynamics",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'tension(긴장)'을 'release(풀어주다, 방출하다)'한다는 뜻으로, 몸이나 마음에 쌓인 긴장 상태를 해소한다는 의미입니다.",
+    "realUsageKo": "스트레스나 불안으로 인해 몸과 마음이 경직되었을 때, 운동·명상·휴식 등을 통해 그 긴장을 풀어준다는 맥락에서 자주 씁니다. 물리적 근육 긴장과 심리적 긴장 모두에 사용됩니다.",
+    "etymologyKo": "'release'는 라틴어 'relaxare(느슨하게 하다)'에서 유래했고, 'tension'은 라틴어 'tensio(당기다)'에서 왔습니다. 당겨진 것을 느슨하게 풀어준다는 어원적 의미가 그대로 살아 있습니다.",
+    "nuanceKo": "격식·비격식 모두 자연스럽게 쓰이며, 건강·웰빙 관련 글이나 일상 대화에서 긍정적인 뉘앙스로 사용됩니다. 비슷한 표현인 'relieve stress'보다 신체적 긴장 해소의 느낌이 조금 더 강합니다.",
+    "shortExampleEn": "Yoga is a great way to release tension after a stressful day.",
+    "shortExampleKo": "요가는 스트레스 받은 하루 후에 긴장을 풀기에 좋은 방법이다."
+  }
+}

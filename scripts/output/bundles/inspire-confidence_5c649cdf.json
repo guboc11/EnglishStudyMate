@@ -1,0 +1,30 @@
+{
+  "id": "inspire-confidence_5c649cdf",
+  "expression": "inspire confidence",
+  "selectionMeta": {
+    "selectedPhrase": "inspire confidence",
+    "selectedSenseLabelKo": "자신감을 불어넣다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her calm demeanor during the crisis helped inspire confidence in the entire team."
+  },
+  "step2": {
+    "story": "The new manager walked into the struggling department on her first day and listened carefully to every concern. By the end of the week, her clear action plan and genuine empathy had managed to inspire confidence across the whole team. People who had been updating their resumes started volunteering for new projects instead.",
+    "topicTag": "leadership",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Dr. Park took over the failing research lab, morale was at rock bottom. Three senior scientists had already left, and the remaining staff doubted the project would survive another quarter. On her first day, she rolled up her sleeves and sat beside each researcher, asking about their work with genuine curiosity. She shared her vision openly and acknowledged the real challenges ahead without sugarcoating anything. Her honest yet optimistic approach began to inspire confidence in people who had almost given up. Within two months, the lab secured new funding and the team was producing some of their best work in years.",
+    "topicTag": "workplace turnaround",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'inspire confidence'는 직역하면 '자신감을 고취시키다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 누군가의 태도, 능력, 또는 행동이 다른 사람들에게 신뢰감과 안심을 주어 '이 사람이라면 괜찮겠다'라는 믿음을 갖게 할 때 사용합니다. 리더십, 전문성, 위기 대처 상황에서 자주 쓰입니다.",
+    "etymologyKo": "'inspire'는 라틴어 'inspirare(숨을 불어넣다)'에서 유래했고, 'confidence'는 라틴어 'confidentia(신뢰, 확신)'에서 왔습니다. 합치면 '신뢰를 불어넣다'라는 의미가 됩니다.",
+    "nuanceKo": "단순히 '격려하다'보다 더 깊은 의미로, 상대방이 스스로 확신을 갖게 만드는 자연스러운 영향력을 강조합니다. 주로 긍정적이고 진지한 맥락에서 사용됩니다.",
+    "shortExampleEn": "A good teacher can inspire confidence in even the most hesitant students.",
+    "shortExampleKo": "좋은 선생님은 가장 소극적인 학생에게도 자신감을 불어넣을 수 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "conduct-an-interview_6312f418",
+  "expression": "conduct an interview",
+  "selectionMeta": {
+    "selectedPhrase": "conduct an interview",
+    "selectedSenseLabelKo": "인터뷰를 진행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The hiring manager will conduct an interview with each finalist before making a decision."
+  },
+  "step2": {
+    "story": "Sarah had never been on the other side of the table before. Today, she was asked to conduct an interview for a junior developer position at her company. As she prepared her questions, she realized how much responsibility came with evaluating someone's future.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When James first joined the newspaper as an intern, he could barely hold a microphone without trembling. Over the years, he learned to conduct an interview with ease, drawing honest answers from even the most guarded public figures. One rainy afternoon, he sat across from a retired general who had never spoken publicly about the war. James kept his tone calm and his questions open-ended, letting silence do the heavy lifting. By the end of the hour, the general had tears in his eyes and thanked James for listening. That interview went on to win a national journalism award.",
+    "topicTag": "journalism",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'conduct'는 '수행하다/이끌다', 'interview'는 '면접/인터뷰'로, 직역하면 '인터뷰를 수행하다'입니다.",
+    "realUsageKo": "채용 면접, 언론 인터뷰, 연구 조사 등에서 인터뷰를 주도적으로 진행하는 상황에 사용됩니다. 'do an interview'보다 격식 있고 전문적인 느낌을 줍니다.",
+    "etymologyKo": "'conduct'는 라틴어 'conducere(함께 이끌다)'에서 유래했으며, 체계적으로 무언가를 이끌어 나간다는 의미를 담고 있습니다.",
+    "nuanceKo": "격식체 표현으로, 비즈니스·학술·언론 맥락에서 주로 사용됩니다. 일상 대화에서는 'do an interview'가 더 자연스럽습니다.",
+    "shortExampleEn": "She was trained to conduct an interview in a way that puts candidates at ease.",
+    "shortExampleKo": "그녀는 지원자들이 편안하게 느낄 수 있도록 인터뷰를 진행하는 훈련을 받았다."
+  }
+}

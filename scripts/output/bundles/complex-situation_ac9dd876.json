@@ -1,0 +1,30 @@
+{
+  "id": "complex-situation_ac9dd876",
+  "expression": "complex situation",
+  "selectionMeta": {
+    "selectedPhrase": "complex situation",
+    "selectedSenseLabelKo": "복잡한 상황",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager called an urgent meeting to address the complex situation that had arisen between the two departments."
+  },
+  "step2": {
+    "story": "When the company merged with its competitor, employees found themselves in a complex situation where old rivals now had to work as teammates. Sarah, who had spent years competing against her new colleague Mark, decided to suggest a joint project. By choosing collaboration over conflict, they turned the complex situation into an opportunity for innovation.",
+    "topicTag": "workplace adaptation",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "David had been promoted to lead a team of twelve engineers spread across three different time zones. On his very first week, the client changed the project requirements, two senior developers threatened to quit, and the budget was cut by thirty percent. It was an incredibly complex situation that would have overwhelmed most managers. Instead of panicking, David scheduled one-on-one calls with each team member to understand their concerns. He then drafted a revised plan that addressed the client's new demands while keeping his team motivated. Slowly, what had seemed like an impossible complex situation began to untangle as trust and clear communication took hold.",
+    "topicTag": "leadership challenge",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "여러 요소가 얽혀 있어 단순하지 않은 상황을 뜻합니다.",
+    "realUsageKo": "해결하기 어렵거나 여러 이해관계가 충돌하는 상황을 설명할 때 사용합니다. 직장, 인간관계, 정치 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "complex는 라틴어 'complexus'(함께 엮다)에서 유래했고, situation은 라틴어 'situs'(위치, 상태)에서 왔습니다. 합쳐져 '여러 요소가 얽힌 상태'라는 의미가 되었습니다.",
+    "nuanceKo": "단순히 '어려운 상황'보다 격식 있고 객관적인 톤을 가집니다. 감정적 판단 없이 상황의 복잡성 자체를 묘사할 때 자주 쓰여, 비즈니스나 뉴스 맥락에서 특히 선호됩니다.",
+    "shortExampleEn": "We need to carefully analyze this complex situation before making any decisions.",
+    "shortExampleKo": "어떤 결정을 내리기 전에 이 복잡한 상황을 신중히 분석해야 합니다."
+  }
+}

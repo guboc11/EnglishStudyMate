@@ -1,0 +1,30 @@
+{
+  "id": "learn-from-experience_88d805fe",
+  "expression": "learn from experience",
+  "selectionMeta": {
+    "selectedPhrase": "learn from experience",
+    "selectedSenseLabelKo": "경험에서 배우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing money on a bad investment, he vowed to learn from experience and research more carefully next time."
+  },
+  "step2": {
+    "story": "Maya burned her hand on the stove when she was ten, and she never forgot to use oven mitts again. Her grandmother always said the best teachers are our own mistakes. Maya learned from experience that pain has a way of sharpening memory.",
+    "topicTag": "life lessons",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Jinho first moved to London, he trusted a stranger who offered to carry his suitcase at the train station. The man disappeared into the crowd with everything Jinho owned. For weeks, he felt foolish and angry at himself. But over time, that loss taught him to read situations more carefully and trust his instincts. Years later, when a colleague suggested a deal that seemed too good to be true, Jinho politely declined. He had learned from experience, and that hard lesson had quietly shaped him into someone wiser.",
+    "topicTag": "personal growth",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "경험으로부터 교훈을 얻다라는 뜻으로, 직접 겪은 일에서 배움을 얻는 것을 의미합니다.",
+    "realUsageKo": "실제로는 실수나 실패를 겪은 후 같은 잘못을 반복하지 않겠다는 맥락에서 자주 사용됩니다. 단순히 지식을 얻는 것이 아니라, 몸소 겪은 뒤에야 진짜로 깨닫게 되었다는 뉘앙스가 강합니다.",
+    "etymologyKo": "learn(배우다)과 experience(경험)의 조합으로, '경험이 최고의 스승'이라는 오래된 서양 격언에서 유래한 표현입니다.",
+    "nuanceKo": "주로 실패나 어려움을 겪은 후 교훈을 얻었다는 긍정적이고 성숙한 어조로 쓰입니다. 남에게 조언할 때나 자신의 성장을 돌아볼 때 자연스럽게 사용됩니다.",
+    "shortExampleEn": "I learned from experience that you should always back up your files.",
+    "shortExampleKo": "파일은 항상 백업해야 한다는 걸 경험으로 배웠다."
+  }
+}

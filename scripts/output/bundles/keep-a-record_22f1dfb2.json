@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-record_22f1dfb2",
+  "expression": "keep a record",
+  "selectionMeta": {
+    "selectedPhrase": "keep a record",
+    "selectedSenseLabelKo": "기록을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It's important to keep a record of all your expenses so you can manage your budget effectively."
+  },
+  "step2": {
+    "story": "Mia started a small bakery last spring and quickly learned the importance of organization. She decided to keep a record of every ingredient she purchased and every cake she sold. By the end of the year, her detailed notes helped her double her profits.",
+    "topicTag": "small business",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After moving to a new city for work, Daniel realized he was spending far more than he expected. His rent, groceries, and transportation costs were piling up without any clear picture of where his money went. One evening, he sat down with a notebook and decided to keep a record of every single expense, no matter how small. At first it felt tedious, writing down every coffee and bus fare. But after just one month, the patterns became obvious — he was spending a fortune on takeout. Armed with that knowledge, he started cooking at home and managed to save enough for a weekend trip by the end of the second month.",
+    "topicTag": "personal finance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "기록을 보관하다, 즉 어떤 정보를 적어서 남겨두다라는 뜻입니다.",
+    "realUsageKo": "일상이나 업무에서 중요한 정보를 체계적으로 기록하고 보관할 때 사용합니다. 지출 내역, 회의록, 건강 기록 등 다양한 상황에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'keep'은 고대 영어 cēpan(관찰하다, 보살피다)에서, 'record'는 라틴어 recordari(기억하다)에서 유래했습니다. 기억할 것을 보관한다는 의미가 합쳐진 표현입니다.",
+    "nuanceKo": "단순히 메모하는 것보다 체계적이고 지속적으로 관리한다는 느낌이 강합니다. 공식적인 문서 작성부터 개인 일지까지 폭넓은 맥락에서 사용되며, 책임감과 꼼꼼함의 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Please keep a record of all the meetings you attend this quarter.",
+    "shortExampleKo": "이번 분기에 참석하는 모든 회의를 기록으로 남겨 주세요."
+  }
+}

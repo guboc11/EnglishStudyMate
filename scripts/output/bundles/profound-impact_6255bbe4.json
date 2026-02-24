@@ -1,0 +1,30 @@
+{
+  "id": "profound-impact_6255bbe4",
+  "expression": "profound impact",
+  "selectionMeta": {
+    "selectedPhrase": "profound impact",
+    "selectedSenseLabelKo": "깊은 영향",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Meeting her mentor in college had a profound impact on the direction of her career."
+  },
+  "step2": {
+    "story": "After years of working in finance, David volunteered at a local shelter one weekend. The experience had a profound impact on him, and within six months, he had completely changed careers to work in social services.",
+    "topicTag": "life change",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Maya was sixteen, her family moved from a small rural town to Tokyo. The sudden exposure to a massive city, foreign language, and entirely different culture was overwhelming at first. But looking back twenty years later, she realized the move had a profound impact on who she became. It taught her resilience, adaptability, and the courage to embrace the unknown. She often told her own children that the hardest year of her life turned out to be the most transformative. Without that experience, she never would have discovered her passion for cross-cultural education.",
+    "topicTag": "personal growth",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'profound'은 '깊은, 심오한', 'impact'는 '영향, 충격'으로, 직역하면 '깊은 영향'입니다.",
+    "realUsageKo": "어떤 경험이나 사건이 삶, 생각, 행동 등에 매우 크고 근본적인 변화를 가져올 때 사용합니다. 단순히 '큰 영향'보다 더 깊고 본질적인 변화를 강조합니다.",
+    "etymologyKo": "'profound'은 라틴어 'profundus(깊은)'에서 유래했고, 'impact'는 라틴어 'impactus(부딪힌)'에서 왔습니다. 두 단어가 결합되어 '깊이 부딪히는 영향'이라는 의미를 형성합니다.",
+    "nuanceKo": "격식 있고 진지한 톤으로, 학술적 글쓰기나 공식 발표, 인생 회고 등에서 자주 쓰입니다. 일상 대화보다는 깊이 있는 논의에서 더 자연스럽습니다.",
+    "shortExampleEn": "Technology has had a profound impact on how we communicate.",
+    "shortExampleKo": "기술은 우리가 소통하는 방식에 깊은 영향을 미쳤다."
+  }
+}

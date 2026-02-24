@@ -1,0 +1,30 @@
+{
+  "id": "open-a-dialogue_066b6f34",
+  "expression": "open a dialogue",
+  "selectionMeta": {
+    "selectedPhrase": "open a dialogue",
+    "selectedSenseLabelKo": "대화를 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new manager decided to open a dialogue with the team about the upcoming changes before making any final decisions."
+  },
+  "step2": {
+    "story": "After weeks of tension between the two departments, Sarah knew something had to change. She scheduled a meeting and decided to open a dialogue about the miscommunication that had been causing delays. By the end of the hour, both sides felt heard and agreed on a clear plan moving forward.",
+    "topicTag": "workplace communication",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jiwon had been living in London for three months, but she still felt invisible at her office. Her British colleagues were polite yet distant, and lunch breaks were spent in quiet solitude. One Friday afternoon, she gathered her courage and walked over to the break room where a few coworkers were chatting. She smiled and said she wanted to open a dialogue about Korean food culture, since she had noticed everyone ordering the same sandwich every day. The room burst into laughter, and suddenly questions poured in about kimchi, bibimbap, and street food. That small, brave moment transformed her daily routine — she finally had people to sit with, talk to, and laugh alongside.",
+    "topicTag": "cultural exchange",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'대화를 열다'라는 뜻으로, 소통의 문을 연다는 의미입니다.",
+    "realUsageKo": "갈등이나 오해가 있을 때, 또는 새로운 관계에서 솔직한 대화를 시작하자고 할 때 사용합니다. 단순한 잡담이 아니라 진지하고 건설적인 대화를 의미합니다.",
+    "etymologyKo": "'dialogue'는 그리스어 'dialogos(대화)'에서 유래했으며, 'open'과 결합하여 '소통의 통로를 처음 여는 행위'를 나타냅니다.",
+    "nuanceKo": "격식 있고 성숙한 표현으로, 주로 갈등 해결이나 외교적 상황에서 쓰입니다. 일상 대화보다는 비즈니스, 정치, 관계 개선 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "We need to open a dialogue with our neighbors about the noise issue.",
+    "shortExampleKo": "소음 문제에 대해 이웃과 대화를 시작해야 합니다."
+  }
+}

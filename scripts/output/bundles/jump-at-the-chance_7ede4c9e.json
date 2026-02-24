@@ -1,0 +1,30 @@
+{
+  "id": "jump-at-the-chance_7ede4c9e",
+  "expression": "jump at the chance",
+  "selectionMeta": {
+    "selectedPhrase": "jump at the chance",
+    "selectedSenseLabelKo": "기회를 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When they offered her a scholarship to study abroad, she jumped at the chance without hesitation."
+  },
+  "step2": {
+    "story": "Marcus had been working at the same desk job for five years when a recruiter called about a position at a startup in Berlin. He jumped at the chance to reinvent his career. Within a month, he was on a plane with nothing but a suitcase and a hopeful grin.",
+    "topicTag": "career change",
+    "moodTag": "adventurous"
+  },
+  "step3": {
+    "story": "Yuna had always dreamed of performing on a real stage, but opportunities were rare in her small town. One afternoon, her music teacher mentioned that a regional orchestra needed a last-minute violinist for their spring concert. Yuna jumped at the chance, even though she had only two weeks to prepare. She practiced until her fingers ached, skipping meals and losing sleep. On the night of the concert, her hands trembled as she raised her bow. But the moment the music began, every hour of sacrifice melted into pure, soaring sound.",
+    "topicTag": "pursuing dreams",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "기회에 뛰어든다는 뜻으로, 어떤 기회를 향해 몸을 던지듯 달려간다는 이미지입니다.",
+    "realUsageKo": "좋은 기회가 왔을 때 망설이지 않고 즉시 받아들이거나 잡는 것을 의미합니다. 주로 긍정적인 기회에 대해 열정적으로 반응할 때 씁니다.",
+    "etymologyKo": "'jump'(뛰다)과 'chance'(기회)의 결합으로, 기회가 눈앞에 나타났을 때 놓치지 않으려고 재빨리 뛰어오르는 모습에서 유래했습니다.",
+    "nuanceKo": "긍정적이고 적극적인 뉘앙스를 가지며, 기회를 열정적으로 환영한다는 느낌입니다. 격식체보다는 일상 대화나 반격식 상황에서 자주 쓰입니다.",
+    "shortExampleEn": "I'd jump at the chance to work with such a talented team.",
+    "shortExampleKo": "그렇게 재능 있는 팀과 함께 일할 기회가 온다면 당장 잡을 거예요."
+  }
+}

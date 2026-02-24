@@ -1,0 +1,30 @@
+{
+  "id": "penny-wise-pound-foolish_4d58f268",
+  "expression": "penny wise pound foolish",
+  "selectionMeta": {
+    "selectedPhrase": "penny wise pound foolish",
+    "selectedSenseLabelKo": "소탐대실",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't be penny wise pound foolish — skipping regular maintenance on your car will cost you thousands in repairs later."
+  },
+  "step2": {
+    "story": "Lisa refused to pay for a professional accountant, insisting she could handle her company's taxes herself. After filing incorrectly, she ended up owing massive penalties that dwarfed the accountant's fee. Her business partner sighed and said, \"That's the definition of penny wise pound foolish.\"",
+    "topicTag": "business decisions",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "When the old apartment building needed a new roof, the landlord decided to save money by patching only the worst spots instead of replacing the whole thing. He congratulated himself on cutting costs by nearly seventy percent. But that winter, heavy rain seeped through the cheap patches and flooded three units, destroying tenants' furniture and electronics. The insurance claim, emergency repairs, and legal fees ended up costing him five times the price of a full roof replacement. Standing in the waterlogged hallway, his property manager shook her head and muttered, \"This is what people mean by penny wise pound foolish.\" The landlord swore he would never cut corners on critical repairs again.",
+    "topicTag": "property management",
+    "moodTag": "cautionary"
+  },
+  "meaning": {
+    "literalMeaningKo": "페니(작은 돈)에는 현명하지만 파운드(큰 돈)에는 어리석다는 뜻입니다.",
+    "realUsageKo": "작은 비용을 아끼려다 오히려 더 큰 손해를 보는 상황에서 사용합니다. 눈앞의 절약에만 집중해서 장기적으로 더 큰 비용이 발생하는 어리석은 판단을 비판할 때 씁니다.",
+    "etymologyKo": "영국 화폐 단위인 페니(penny)와 파운드(pound)에서 유래했으며, 1 파운드는 원래 240 페니였습니다. 17세기 영국 작가 로버트 버턴의 저서에서 처음 사용된 것으로 알려져 있습니다.",
+    "nuanceKo": "주로 부정적인 뉘앙스로, 누군가의 근시안적인 경제 관념을 지적하거나 비판할 때 사용합니다. 조언이나 경고의 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "Buying the cheapest tires for your car is penny wise pound foolish.",
+    "shortExampleKo": "차에 가장 싼 타이어를 사는 것은 소탐대실이다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "admit-a-mistake_4ae5241b",
+  "expression": "admit a mistake",
+  "selectionMeta": {
+    "selectedPhrase": "admit a mistake",
+    "selectedSenseLabelKo": "실수를 인정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It takes real courage to admit a mistake, especially when everyone is watching."
+  },
+  "step2": {
+    "story": "During the team meeting, Jason realized his budget calculations were completely wrong. His hands trembled as he stood up to admit a mistake in front of the entire department. To his surprise, the manager thanked him for his honesty and the team quickly worked together to fix the numbers.",
+    "topicTag": "workplace honesty",
+    "moodTag": "nervous but relieved"
+  },
+  "step3": {
+    "story": "Sophie had been leading the marketing campaign for three months, confidently presenting rising engagement numbers to the executives every Friday. One evening, while double-checking the analytics dashboard, she discovered a tracking error that had inflated all the results by nearly forty percent. Her stomach dropped. She spent the whole night preparing a corrected report, knowing her reputation was on the line. The next morning, she walked into the boardroom and chose to admit a mistake before anyone else could find out. The room went silent, but the CEO slowly nodded and said he respected her integrity. That single moment of honesty earned Sophie more trust than any perfect report ever could.",
+    "topicTag": "professional integrity",
+    "moodTag": "anxious but courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신이 저지른 실수를 인정하다, 즉 잘못을 솔직하게 받아들인다는 뜻입니다.",
+    "realUsageKo": "일상생활이나 직장에서 자신의 잘못을 솔직히 시인할 때 사용합니다. 단순한 실수뿐 아니라 판단 착오나 잘못된 결정을 인정하는 상황에서도 폭넓게 쓰입니다.",
+    "etymologyKo": "admit는 라틴어 admittere(받아들이다, 허락하다)에서 유래했으며, mistake는 고대 노르드어 mistaka(잘못 취하다)에서 왔습니다. 두 단어가 결합하여 '잘못을 받아들이다'라는 의미의 자연스러운 연어가 되었습니다.",
+    "nuanceKo": "이 표현은 용기와 정직함의 뉘앙스를 담고 있습니다. 실수를 인정하는 것이 쉽지 않다는 전제가 깔려 있어, 이 표현을 쓰면 화자의 성숙함이나 책임감이 느껴집니다.",
+    "shortExampleEn": "The company was quick to admit a mistake and issued a full refund.",
+    "shortExampleKo": "그 회사는 신속하게 실수를 인정하고 전액 환불을 해주었다."
+  }
+}

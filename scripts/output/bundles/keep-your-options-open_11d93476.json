@@ -1,0 +1,30 @@
+{
+  "id": "keep-your-options-open_11d93476",
+  "expression": "keep your options open",
+  "selectionMeta": {
+    "selectedPhrase": "keep your options open",
+    "selectedSenseLabelKo": "선택지를 열어두다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I haven't decided on a major yet — I want to keep my options open for at least another semester."
+  },
+  "step2": {
+    "story": "Maya received two job offers on the same day. Instead of rushing into a decision, she asked both companies for a week to think it over. Her mentor had always told her to keep her options open until she had all the facts.",
+    "topicTag": "career decisions",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "Jordan stared at the three acceptance letters spread across his kitchen table. His parents wanted him to pick the safe choice — the state university close to home. His best friend kept pushing for the art school in New York. But Jordan's advisor had given him different advice: keep your options open and visit every campus before committing. So he booked three flights over spring break, determined to experience each place firsthand. By the time he returned, the decision felt obvious — not because one school was perfect, but because he finally understood what mattered most to him.",
+    "topicTag": "life choices",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 선택지들을 열어둔 채로 유지하다.",
+    "realUsageKo": "아직 최종 결정을 내리지 않고 여러 가능성을 열어둘 때 사용합니다. 성급하게 하나를 고르지 말고 상황을 지켜보라는 조언으로 자주 쓰입니다.",
+    "etymologyKo": "비즈니스와 협상 용어에서 유래했으며, 'option(선택권)'이라는 단어가 계약이나 거래에서 선택 가능한 조건을 뜻하던 것에서 일상 표현으로 확장되었습니다.",
+    "nuanceKo": "신중하고 전략적인 뉘앙스를 가지며, 긍정적으로는 현명한 판단을, 부정적으로는 우유부단함을 암시할 수도 있습니다.",
+    "shortExampleEn": "Don't sign anything yet — keep your options open.",
+    "shortExampleKo": "아직 아무것도 서명하지 마 — 선택지를 열어둬."
+  }
+}

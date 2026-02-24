@@ -1,0 +1,30 @@
+{
+  "id": "golden-opportunity_d7364097",
+  "expression": "golden opportunity",
+  "selectionMeta": {
+    "selectedPhrase": "golden opportunity",
+    "selectedSenseLabelKo": "절호의 기회",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the company announced an opening for a senior designer, Sarah knew this was a golden opportunity she couldn't let slip away."
+  },
+  "step2": {
+    "story": "After years of freelancing, Marco finally received an invitation to present his portfolio at a major tech conference. He recognized it as a golden opportunity to land a full-time position at a top firm. He spent every evening preparing his presentation until it was perfect.",
+    "topicTag": "career breakthrough",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jenna had been running her small bakery for five years, barely breaking even each month. One afternoon, a food blogger with two million followers walked in and tried her signature croissant. The blogger's eyes lit up and she asked if she could feature the bakery on her channel. Jenna realized this was a golden opportunity that could change everything. She stayed up all night perfecting her menu and decorating the shop for the filming day. Within a week of the video going live, the line outside her door stretched around the block.",
+    "topicTag": "small business growth",
+    "moodTag": "excited"
+  },
+  "meaning": {
+    "literalMeaningKo": "'황금 기회'라는 뜻으로, 금처럼 귀하고 빛나는 기회를 비유적으로 표현한 것입니다.",
+    "realUsageKo": "매우 드물고 유리한 기회가 왔을 때 사용합니다. 놓치면 다시 오지 않을 수도 있는 절호의 찬스를 강조할 때 주로 쓰입니다.",
+    "etymologyKo": "'golden'은 금을 의미하며, 고대부터 금은 가장 귀한 것의 상징이었습니다. 'golden opportunity'는 17세기경부터 영어에서 '더없이 좋은 기회'라는 뜻으로 사용되기 시작했습니다.",
+    "nuanceKo": "단순한 기회(opportunity)보다 훨씬 강한 표현으로, 흔치 않고 시기적으로 완벽한 기회라는 뉘앙스를 담고 있습니다. 격식체와 일상 대화 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Don't miss this golden opportunity to study abroad.",
+    "shortExampleKo": "유학할 수 있는 이 절호의 기회를 놓치지 마세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "face-a-dilemma_4e959c3a",
+  "expression": "face a dilemma",
+  "selectionMeta": {
+    "selectedPhrase": "face a dilemma",
+    "selectedSenseLabelKo": "딜레마에 직면하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After receiving job offers from two great companies, she had to face a dilemma about which path to choose."
+  },
+  "step2": {
+    "story": "Marcus got promoted to regional manager, but the role required relocating to another city. His wife had just started her dream job locally. He had to face a dilemma that would reshape their entire future.",
+    "topicTag": "career decisions",
+    "moodTag": "torn"
+  },
+  "step3": {
+    "story": "Dr. Yoon stared at the two patient files on her desk. One was a young mother who needed an emergency organ transplant. The other was an elderly professor whose condition was deteriorating rapidly. With only one donor organ available, she had to face a dilemma no medical textbook could prepare her for. She called her senior colleague for advice, but he simply said the decision was hers. After hours of agonizing thought, she made her choice, knowing she would carry the weight of it for the rest of her career.",
+    "topicTag": "ethical choices",
+    "moodTag": "heavy"
+  },
+  "meaning": {
+    "literalMeaningKo": "딜레마를 마주하다, 즉 두 가지 선택지 사이에서 어려운 결정을 내려야 하는 상황에 놓이다.",
+    "realUsageKo": "어떤 선택을 해도 쉽지 않은 상황에 처했을 때 사용합니다. 단순한 고민이 아니라, 양쪽 모두 장단점이 있어서 결정이 매우 어려운 경우에 씁니다.",
+    "etymologyKo": "dilemma는 그리스어 'di-(둘)'와 'lemma(전제)'에서 유래하여, 두 가지 전제 사이에 끼인 상황을 뜻합니다. face는 '직면하다'라는 의미로 결합되어 피할 수 없는 어려운 선택을 마주한다는 뉘앙스를 줍니다.",
+    "nuanceKo": "단순히 '고민하다'보다 무겁고 진지한 느낌입니다. 비즈니스, 윤리적 상황, 인생의 중대한 갈림길에서 주로 사용되며, 격식체와 일상 대화 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "The company faced a dilemma between cutting costs and keeping employees.",
+    "shortExampleKo": "그 회사는 비용 절감과 직원 유지 사이에서 딜레마에 직면했다."
+  }
+}

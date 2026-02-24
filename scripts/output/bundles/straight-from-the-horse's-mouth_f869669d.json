@@ -1,0 +1,30 @@
+{
+  "id": "straight-from-the-horse's-mouth_f869669d",
+  "expression": "straight from the horse's mouth",
+  "selectionMeta": {
+    "selectedPhrase": "straight from the horse's mouth",
+    "selectedSenseLabelKo": "직접 들은 / 가장 믿을 수 있는",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I heard it straight from the horse's mouth — the company is launching a new product next month."
+  },
+  "step2": {
+    "story": "Everyone in the office was buzzing with rumors about layoffs. Jenna refused to panic until she got the facts straight from the horse's mouth, so she walked right into the CEO's office and asked. He laughed and told her the company was actually hiring twenty more people.",
+    "topicTag": "workplace rumors",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "For weeks, the neighborhood had been whispering that the old bookstore on Maple Street was closing down. Some said a coffee chain would replace it. Others claimed it would become a gym. Marcus, a regular customer, decided he'd had enough of the gossip. He marched in one Saturday morning and asked the owner, Mr. Hayashi, directly. Straight from the horse's mouth, Mr. Hayashi explained that he wasn't closing — he was expanding into the unit next door to add a reading lounge. Marcus left the store grinning, eager to set the record straight with the rest of the neighborhood.",
+    "topicTag": "community gossip",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "말(horse)의 입에서 직접 나온 이야기라는 뜻입니다.",
+    "realUsageKo": "소문이나 간접 전달이 아니라 가장 믿을 수 있는 당사자에게서 직접 들은 정보임을 강조할 때 사용합니다. 예를 들어, 회사의 중요한 결정을 사장 본인에게서 직접 들었다고 말할 때 쓸 수 있습니다.",
+    "etymologyKo": "경마에서 유래한 표현으로, 말의 나이를 가장 정확하게 알 수 있는 방법은 직접 말의 입(치아)을 확인하는 것이었기 때문에 '가장 확실한 출처'라는 의미가 되었습니다.",
+    "nuanceKo": "비격식적이지만 일상 회화에서 매우 자주 쓰이는 관용구입니다. 정보의 신뢰성을 강조하는 긍정적 뉘앙스를 가지며, 비즈니스 상황에서도 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Don't believe the rumors — I got the news straight from the horse's mouth.",
+    "shortExampleKo": "소문을 믿지 마 — 나는 그 소식을 당사자에게서 직접 들었어."
+  }
+}

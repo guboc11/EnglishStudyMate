@@ -1,0 +1,30 @@
+{
+  "id": "maintain-discipline_f2208938",
+  "expression": "maintain discipline",
+  "selectionMeta": {
+    "selectedPhrase": "maintain discipline",
+    "selectedSenseLabelKo": "규율을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when motivation fades, successful athletes maintain discipline by sticking to their training schedule every single day."
+  },
+  "step2": {
+    "story": "After three months of working from home, Jake noticed his productivity dropping sharply. He decided to maintain discipline by setting strict work hours and turning off social media during the day. Within weeks, his manager praised him for delivering the best quarterly results on the team.",
+    "topicTag": "remote work",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sergeant Park stood before the new recruits on a freezing January morning, watching their breath cloud the air. He knew the first week was always the hardest — half of them would want to quit before Friday. 'The key to surviving this program is learning to maintain discipline when every part of your body wants to give up,' he said firmly. One recruit, barely twenty years old, clenched his jaw and straightened his posture. Over the following months, that young man never missed a single drill and graduated at the top of his class. Years later, he often told people that Sergeant Park's words on that icy morning had changed the entire direction of his life.",
+    "topicTag": "military training",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "규율(discipline)을 유지하다(maintain)라는 뜻으로, 정해진 규칙이나 절제를 꾸준히 지키는 것을 의미합니다.",
+    "realUsageKo": "자기 관리, 습관 형성, 조직 운영 등의 맥락에서 '흔들리지 않고 꾸준히 원칙을 지키다'라는 의미로 널리 사용됩니다. 개인의 자기 절제뿐 아니라 팀이나 조직 차원의 질서 유지에도 쓰입니다.",
+    "etymologyKo": "maintain은 라틴어 manu tenere('손으로 잡다')에서, discipline은 라틴어 disciplina('가르침, 훈련')에서 유래했습니다. 두 단어가 결합하여 '훈련과 절제를 놓지 않고 붙잡고 있다'는 이미지를 형성합니다.",
+    "nuanceKo": "단순히 규칙을 따르는 것보다 의지와 꾸준함이 강조되는 표현입니다. 격식체와 일상 대화 모두에서 사용되며, 자기 계발이나 리더십 맥락에서 긍정적인 어감을 갖습니다.",
+    "shortExampleEn": "She managed to maintain discipline throughout the entire exam preparation period.",
+    "shortExampleKo": "그녀는 시험 준비 기간 내내 규율을 유지하는 데 성공했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pie-in-the-sky_4c9488ab",
+  "expression": "pie in the sky",
+  "selectionMeta": {
+    "selectedPhrase": "pie in the sky",
+    "selectedSenseLabelKo": "허황된 꿈",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My coworker keeps talking about retiring at 30 and sailing around the world, but without any savings plan, it's just pie in the sky."
+  },
+  "step2": {
+    "story": "Marcus pitched his startup idea to his older brother over dinner, claiming he'd be a billionaire within two years. His brother shook his head and said the plan was pie in the sky without market research or funding. Marcus went quiet, then quietly opened his laptop to start actually working on a business plan.",
+    "topicTag": "ambition vs reality",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Elena had always dreamed of opening a bakery on a Greek island, sketching floor plans in her notebook during lunch breaks at her accounting firm. Her friends smiled politely whenever she brought it up, clearly thinking it was pie in the sky. But last spring, something shifted. She enrolled in a pastry course, started saving aggressively, and flew to Crete to scout locations. When she finally signed the lease on a small shop overlooking the harbor, even the biggest doubters had to admit that what once seemed like pie in the sky was becoming wonderfully real.",
+    "topicTag": "chasing dreams",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '하늘에 있는 파이'로, 손에 닿을 수 없는 것을 의미합니다.",
+    "realUsageKo": "실현 가능성이 낮은 허황된 계획이나 꿈을 가리킬 때 사용합니다. 누군가의 아이디어가 비현실적이라고 생각될 때 '그건 pie in the sky야'라고 표현합니다.",
+    "etymologyKo": "1911년 미국 노동운동가 조 힐(Joe Hill)의 풍자 노래에서 유래했습니다. 노동자들에게 현실 개선 대신 사후 천국의 보상만 약속하는 것을 비꼬며 'pie in the sky when you die'라고 표현한 데서 시작되었습니다.",
+    "nuanceKo": "약간 비꼬는 뉘앙스가 있어, 상대방의 계획이 비현실적이라고 부드럽게 지적할 때 자주 쓰입니다. 공격적이지는 않지만 회의적인 태도를 담고 있습니다.",
+    "shortExampleEn": "Universal basic income sounds great, but critics say it's pie in the sky.",
+    "shortExampleKo": "기본소득은 좋게 들리지만, 비평가들은 그것이 허황된 꿈이라고 말합니다."
+  }
+}

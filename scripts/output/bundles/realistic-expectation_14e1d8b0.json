@@ -1,0 +1,30 @@
+{
+  "id": "realistic-expectation_14e1d8b0",
+  "expression": "realistic expectation",
+  "selectionMeta": {
+    "selectedPhrase": "realistic expectation",
+    "selectedSenseLabelKo": "현실적인 기대",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Setting a realistic expectation from the start helped the team avoid frustration when the project took longer than hoped."
+  },
+  "step2": {
+    "story": "Jenna wanted to run a marathon within three months, but her coach reminded her to have a realistic expectation given that she had just started training. They agreed on a half-marathon as a first milestone. With that adjusted goal in mind, Jenna felt motivated rather than overwhelmed.",
+    "topicTag": "personal fitness",
+    "moodTag": "grounded"
+  },
+  "step3": {
+    "story": "When David launched his small bakery, friends and family told him he would be profitable within the first month. His business mentor, however, encouraged him to keep a realistic expectation about the timeline. Most small food businesses take at least a year to break even, she explained. David listened and budgeted accordingly, keeping his day job part-time while the bakery grew. Six months later, when sales were steady but not yet covering all costs, he didn't panic. Having set a realistic expectation from the beginning gave him the patience to stay the course.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "patient"
+  },
+  "meaning": {
+    "literalMeaningKo": "현실적인 기대 — 실제 상황이나 조건에 부합하는 예상이나 바람을 뜻합니다.",
+    "realUsageKo": "어떤 일의 결과나 과정에 대해 지나치게 낙관하거나 비관하지 않고, 현실에 맞는 합리적인 기대를 세울 때 사용합니다. 'set/have a realistic expectation'의 형태로 자주 쓰입니다.",
+    "etymologyKo": "'realistic'은 라틴어 'realis(실제의)'에서 유래했고, 'expectation'은 라틴어 'expectare(기다리다, 바라보다)'에서 왔습니다. 두 단어가 결합해 '현실에 기반한 기대'라는 뜻의 연어가 되었습니다.",
+    "nuanceKo": "비현실적인 목표나 과도한 기대를 경계할 때 조언의 톤으로 많이 쓰입니다. 부정적이기보다는 성숙하고 실용적인 태도를 나타내는 표현입니다.",
+    "shortExampleEn": "You should have realistic expectations about how quickly you can learn a new language.",
+    "shortExampleKo": "새로운 언어를 얼마나 빨리 배울 수 있는지에 대해 현실적인 기대를 가져야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "work-under-pressure_5a7da4d4",
+  "expression": "work under pressure",
+  "selectionMeta": {
+    "selectedPhrase": "work under pressure",
+    "selectedSenseLabelKo": "압박 속에서 일하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She learned to work under pressure during her first year as an emergency room nurse."
+  },
+  "step2": {
+    "story": "The client moved the deadline up by two weeks, and the entire team had to work under pressure to deliver the final product on time. Despite the stress, they pulled together and submitted a flawless report. Their manager praised them for staying focused when it mattered most.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jimin had always believed she thrived in calm, predictable environments. But when the company's biggest investor demanded a full product demo in just five days, everything changed. Her team had to work under pressure like never before, pulling late nights and skipping lunch breaks. At first the tension caused arguments, but soon they found a rhythm — dividing tasks, trusting each other, and communicating clearly. On the morning of the demo, Jimin looked at the finished prototype and felt a quiet pride. She realized that working under pressure hadn't broken her team; it had revealed how strong they really were.",
+    "topicTag": "teamwork",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "압력 아래에서 일하다, 즉 부담이나 긴박한 상황 속에서 업무를 수행한다는 뜻입니다.",
+    "realUsageKo": "촉박한 마감, 높은 기대치, 긴장된 분위기 등 스트레스가 큰 환경에서도 성과를 내며 일할 수 있다는 의미로 사용됩니다. 주로 면접이나 업무 평가에서 자신의 강점을 표현할 때 자주 쓰입니다.",
+    "etymologyKo": "'pressure'는 라틴어 'pressura(누르다)'에서 유래했으며, 물리적 압력이 심리적 부담이라는 비유적 의미로 확장되어 업무 맥락에서 널리 쓰이게 되었습니다.",
+    "nuanceKo": "긍정적인 뉘앙스로 쓰이는 경우가 많으며, '압박 속에서도 흔들리지 않고 해낸다'는 능력을 강조합니다. 자기소개나 이력서에서 강점으로 자주 언급됩니다.",
+    "shortExampleEn": "I actually perform better when I have to work under pressure.",
+    "shortExampleKo": "저는 오히려 압박 속에서 일할 때 더 잘하는 편이에요."
+  }
+}

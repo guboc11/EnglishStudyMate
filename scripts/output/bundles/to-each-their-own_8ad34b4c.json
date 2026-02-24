@@ -1,0 +1,30 @@
+{
+  "id": "to-each-their-own_8ad34b4c",
+  "expression": "to each their own",
+  "selectionMeta": {
+    "selectedPhrase": "to each their own",
+    "selectedSenseLabelKo": "각자의 취향이 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I wouldn't wear that color myself, but to each their own."
+  },
+  "step2": {
+    "story": "My coworker puts hot sauce on everything, even his morning cereal. I tried it once and nearly choked, but to each their own — he's been doing it happily for years.",
+    "topicTag": "food preferences",
+    "moodTag": "amused"
+  },
+  "step3": {
+    "story": "When Lisa moved into her new apartment, she painted every wall a different bright color — lime green in the kitchen, electric blue in the bedroom, and bright orange in the living room. Her friends couldn't hide their shock during the housewarming party. 'Isn't it a bit… intense?' asked Tom, staring at the purple bathroom ceiling. Lisa just laughed and said she'd always dreamed of living inside a rainbow. The others exchanged glances, but nobody argued. To each their own, they figured — at least Lisa was genuinely happy every time she walked through her front door.",
+    "topicTag": "personal style",
+    "moodTag": "lighthearted"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '각자에게 각자의 것을'이라는 뜻입니다.",
+    "realUsageKo": "다른 사람의 취향이나 선택이 나와 다르더라도 존중한다는 의미로 사용합니다. 동의하지 않지만 굳이 반대하지 않을 때 자주 씁니다.",
+    "etymologyKo": "라틴어 'suum cuique'(각자에게 각자의 몫을)에서 유래했으며, 영어에서는 16세기부터 사용된 표현입니다.",
+    "nuanceKo": "가볍고 관용적인 어조로, 판단 없이 상대의 다름을 인정할 때 씁니다. 약간의 어깨를 으쓱하는 느낌이 담겨 있습니다.",
+    "shortExampleEn": "He likes pineapple on pizza — well, to each their own.",
+    "shortExampleKo": "그는 피자에 파인애플을 좋아해 — 뭐, 각자 취향이 있는 거지."
+  }
+}

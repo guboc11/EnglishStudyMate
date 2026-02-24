@@ -1,0 +1,30 @@
+{
+  "id": "place-trust-in_0ad45952",
+  "expression": "place trust in",
+  "selectionMeta": {
+    "selectedPhrase": "place trust in",
+    "selectedSenseLabelKo": "~을 신뢰하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of working together, I've learned to place trust in my colleague's judgment even when the stakes are high."
+  },
+  "step2": {
+    "story": "When the startup was on the verge of collapse, the board decided to place trust in a young CEO who had no corporate experience. She restructured the company within six months and doubled their revenue. Sometimes the boldest decisions come from trusting the right person.",
+    "topicTag": "leadership",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had been burned before. His last business partner had vanished with half the investment, leaving him drowning in debt. So when Maya proposed a joint venture, every instinct told him to walk away. But something about her transparency — the way she laid out every risk alongside every opportunity — made him reconsider. He chose to place trust in her, signing the contract with shaking hands. A year later, standing in their thriving office, he realized that sometimes the hardest leap of faith leads to the safest landing.",
+    "topicTag": "rebuilding trust",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "신뢰를 (어딘가에) 놓다, 즉 누군가 또는 무언가를 믿고 의지한다는 뜻입니다.",
+    "realUsageKo": "단순히 '믿다(trust)'보다 격식 있고 의도적인 느낌으로, 신중하게 판단한 뒤 누군가에게 믿음을 부여한다는 뉘앙스로 사용됩니다. 비즈니스, 리더십, 관계 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'place'는 '놓다/배치하다'라는 뜻이고, 'trust'는 고대 노르드어 'traust(신뢰, 확신)'에서 유래했습니다. 신뢰를 물건처럼 의식적으로 어딘가에 두는 은유적 표현입니다.",
+    "nuanceKo": "일상적인 'trust someone'보다 무게감이 있으며, 깊이 고민한 끝에 내리는 신뢰의 결정을 강조합니다. 공식적인 글이나 진지한 대화에서 주로 사용됩니다.",
+    "shortExampleEn": "The investors decided to place trust in the new management team.",
+    "shortExampleKo": "투자자들은 새 경영진을 신뢰하기로 결정했다."
+  }
+}

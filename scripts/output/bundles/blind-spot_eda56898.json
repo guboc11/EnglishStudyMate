@@ -1,0 +1,30 @@
+{
+  "id": "blind-spot_eda56898",
+  "expression": "blind spot",
+  "selectionMeta": {
+    "selectedPhrase": "blind spot",
+    "selectedSenseLabelKo": "맹점",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His blind spot about his own communication style kept causing misunderstandings with his teammates."
+  },
+  "step2": {
+    "story": "Jenna thought she was a great listener, but her colleagues kept saying she interrupted them. After a candid feedback session, she realized her blind spot — she had no idea how often she cut people off mid-sentence. That awareness changed the way she approached every conversation.",
+    "topicTag": "self-awareness",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Marcus had been leading the marketing team for three years and always prided himself on being data-driven. When quarterly results started slipping, he doubled down on the same strategies, convinced the market was simply shifting. It was his new intern, of all people, who pointed out that their social media engagement had been declining for months. Marcus stared at the charts in disbelief — the data had been right there all along. His blind spot wasn't a lack of information; it was his assumption that he was already looking at everything that mattered. From that day on, he made it a habit to ask his team what he might be missing.",
+    "topicTag": "leadership",
+    "moodTag": "humbling"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈이 보지 못하는 지점, 즉 시야에서 빠지는 부분을 뜻합니다.",
+    "realUsageKo": "자기 자신이나 상황에서 인식하지 못하는 약점이나 편견을 가리킬 때 사용합니다. 운전 중 사각지대라는 원래 의미에서 확장되어, 누군가가 자신의 문제점을 스스로 깨닫지 못할 때 'blind spot'이라고 표현합니다.",
+    "etymologyKo": "원래 눈의 망막에서 시신경이 연결되는 부위에 시각 수용체가 없어 보이지 않는 물리적 맹점을 가리키는 의학 용어였습니다. 이후 자동차 운전의 사각지대를 거쳐, 비유적으로 인지적 맹점까지 의미가 확장되었습니다.",
+    "nuanceKo": "부정적이지만 공격적이지 않은 표현으로, 누군가의 무의식적 한계를 부드럽게 지적할 때 자주 쓰입니다. 비난보다는 개선의 여지를 암시하는 뉘앙스입니다.",
+    "shortExampleEn": "Everyone has a blind spot when it comes to their own habits.",
+    "shortExampleKo": "누구나 자신의 습관에 관해서는 맹점이 있다."
+  }
+}

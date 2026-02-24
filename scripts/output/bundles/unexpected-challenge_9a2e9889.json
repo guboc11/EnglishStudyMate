@@ -1,0 +1,30 @@
+{
+  "id": "unexpected-challenge_9a2e9889",
+  "expression": "unexpected challenge",
+  "selectionMeta": {
+    "selectedPhrase": "unexpected challenge",
+    "selectedSenseLabelKo": "예상치 못한 도전",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Moving to a new country presented an unexpected challenge when she realized none of her professional certifications were recognized there."
+  },
+  "step2": {
+    "story": "The startup team was celebrating their successful product launch when the server crashed under the massive traffic. This unexpected challenge forced them to work through the night, but by morning they had rebuilt the system to handle ten times the load. Their investors were even more impressed by how they responded to the crisis.",
+    "topicTag": "startup resilience",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sarah had trained for months to run her first marathon, carefully planning every detail of her race strategy. On the morning of the event, a sudden downpour turned the course into a slippery mess. This unexpected challenge threw off her pace completely, and by the halfway mark she was fifteen minutes behind her target time. She watched several runners ahead of her slip and give up, walking to the sidelines in frustration. Instead of panicking, she shortened her stride and focused on steady progress, remembering her coach's advice about adapting to conditions you cannot control. She crossed the finish line drenched and exhausted, but with a grin that told everyone she had conquered more than just the distance.",
+    "topicTag": "personal perseverance",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "예상하지 못했던 어려운 과제나 시련을 뜻합니다.",
+    "realUsageKo": "계획대로 진행되던 일에 갑자기 닥친 어려움이나 장애물을 표현할 때 사용합니다. 비즈니스, 학업, 일상생활 등 다양한 상황에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'unexpected'는 라틴어 'expectare(기다리다)'에 부정 접두사 'un-'이 붙은 것이고, 'challenge'는 고대 프랑스어 'chalenge(고발, 도전)'에서 유래했습니다.",
+    "nuanceKo": "부정적인 상황을 묘사하지만, 단순한 '문제(problem)'보다는 극복 가능한 시련이라는 뉘앙스가 있어 성장의 기회로 바라보는 긍정적 어감도 담고 있습니다.",
+    "shortExampleEn": "The budget cut was an unexpected challenge, but we found creative ways to keep the project alive.",
+    "shortExampleKo": "예산 삭감은 예상치 못한 도전이었지만, 우리는 프로젝트를 살릴 창의적인 방법을 찾았다."
+  }
+}

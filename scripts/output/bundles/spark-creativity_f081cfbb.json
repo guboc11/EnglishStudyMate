@@ -1,0 +1,30 @@
+{
+  "id": "spark-creativity_f081cfbb",
+  "expression": "spark creativity",
+  "selectionMeta": {
+    "selectedPhrase": "spark creativity",
+    "selectedSenseLabelKo": "창의성을 자극하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A simple walk through the old neighborhood can spark creativity in ways you'd never expect."
+  },
+  "step2": {
+    "story": "Maya had been staring at her blank canvas for hours, feeling completely stuck. On a whim, she wandered into a small vintage bookshop and began flipping through dusty photography collections. The faded images of forgotten places sparked creativity deep within her, and she rushed home to paint her best piece yet.",
+    "topicTag": "artistic inspiration",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had been leading the same product team for three years, and their weekly brainstorming sessions had grown painfully predictable. One Friday, instead of gathering in the usual conference room, he took the entire team to a ceramics studio downtown. At first, everyone felt awkward shaping wet clay with their bare hands, laughing at their lopsided bowls. But something shifted as they worked — conversations loosened, unexpected ideas surfaced, and connections formed between concepts no one had linked before. The hands-on experience sparked creativity that carried over into Monday's meeting, where the team pitched their most original campaign in months. Daniel realized that sometimes you have to step away from the problem entirely to find the solution.",
+    "topicTag": "team innovation",
+    "moodTag": "refreshed"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '창의성에 불꽃을 일으키다'라는 뜻입니다.",
+    "realUsageKo": "새로운 경험, 환경 변화, 또는 특정 자극이 창의적인 생각이나 영감을 불러일으킬 때 사용합니다. 주로 예술, 업무, 교육 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "spark는 '불꽃, 점화하다'라는 뜻의 고대 영어에서 유래했으며, 비유적으로 '촉발시키다'라는 의미로 확장되었습니다. creativity와 결합하여 창의성을 자극하는 행위를 표현합니다.",
+    "nuanceKo": "단순히 '생각하게 하다'보다 더 강렬하고 순간적인 영감의 촉발을 암시합니다. 긍정적인 뉘앙스가 강하며, 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Traveling to new places always sparks creativity for me.",
+    "shortExampleKo": "새로운 곳을 여행하면 항상 창의성이 자극됩니다."
+  }
+}

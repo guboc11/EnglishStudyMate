@@ -1,0 +1,30 @@
+{
+  "id": "lose-a-job_851d15e5",
+  "expression": "lose a job",
+  "selectionMeta": {
+    "selectedPhrase": "lose a job",
+    "selectedSenseLabelKo": "직장을 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the company downsized, my father was one of many employees who lost a job they had held for over twenty years."
+  },
+  "step2": {
+    "story": "When the factory announced it was closing, hundreds of workers feared they would lose a job that had supported their families for decades. Sarah spent sleepless nights updating her resume, determined not to let the setback define her. Within a month, she landed an interview at a growing tech startup downtown.",
+    "topicTag": "career change",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "David never imagined he would lose a job he had poured his heart into for fifteen years. The morning his manager called him into the office, the words hit him like a wave of cold water. He sat in his car for an hour afterward, staring at the steering wheel, unsure of what to do next. His wife told him it was okay to grieve, but that he needed to keep moving forward. Slowly, David began reaching out to old colleagues and attending networking events. Six months later, he found himself in a role that challenged him in ways his old position never had.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '일자리를 잃다'로, 고용 상태에서 벗어나게 되는 것을 의미합니다.",
+    "realUsageKo": "회사의 구조조정, 해고, 폐업 등 본인의 의지와 상관없이 직장을 잃게 되는 상황에서 주로 사용됩니다. 자발적 퇴사보다는 비자발적으로 일자리를 잃는 뉘앙스가 강합니다.",
+    "etymologyKo": "'lose'는 고대 영어 'losian(파멸하다, 잃다)'에서 유래했으며, 'job'은 16세기경 '한 덩어리의 일'이라는 뜻에서 발전하여 현재의 '직업' 의미를 갖게 되었습니다.",
+    "nuanceKo": "단순히 퇴사한 것이 아니라, 원하지 않았지만 어쩔 수 없이 직장을 잃게 된 상황을 나타냅니다. 감정적으로 힘든 경험을 암시하는 경우가 많습니다.",
+    "shortExampleEn": "He lost a job during the recession and had to move back in with his parents.",
+    "shortExampleKo": "그는 경기 침체 때 직장을 잃고 부모님 집으로 다시 들어가야 했다."
+  }
+}

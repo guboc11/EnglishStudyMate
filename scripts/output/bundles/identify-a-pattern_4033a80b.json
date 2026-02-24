@@ -1,0 +1,30 @@
+{
+  "id": "identify-a-pattern_4033a80b",
+  "expression": "identify a pattern",
+  "selectionMeta": {
+    "selectedPhrase": "identify a pattern",
+    "selectedSenseLabelKo": "패턴을 파악하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After reviewing months of sales data, the analyst was finally able to identify a pattern that explained the seasonal fluctuations."
+  },
+  "step2": {
+    "story": "Maya had been tracking her migraines for six months, logging every meal, sleep schedule, and weather change. One evening, she spread her notes across the kitchen table and managed to identify a pattern — the headaches always struck two days after she skipped her morning walk. Armed with this insight, she never missed a walk again.",
+    "topicTag": "health tracking",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Detective Park stared at the case board, photographs and red strings connecting five seemingly unrelated burglaries across the city. The locations were different, the targets varied, and the methods kept changing. But something nagged at her — a detail hiding in plain sight. She pulled the incident reports one more time and began charting the dates against local events. Slowly, her eyes widened as she managed to identify a pattern: every break-in happened on a night when a major concert drew police presence to the opposite side of town. She grabbed her phone and called her partner, knowing the next concert was only three days away.",
+    "topicTag": "crime investigation",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "패턴(반복되는 양상)을 식별하다, 알아내다라는 뜻입니다.",
+    "realUsageKo": "데이터, 행동, 사건 등에서 반복되거나 규칙적인 경향을 발견하고 인식할 때 사용합니다. 분석적 사고나 관찰력을 강조하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "identify는 라틴어 identificare(동일하다고 인식하다)에서, pattern은 라틴어 patronus(본보기)에서 유래했습니다. 두 단어가 결합해 '반복되는 본보기를 인식하다'라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 '보다'가 아니라 분석과 관찰을 통해 숨겨진 규칙성을 찾아낸다는 뉘앙스가 있습니다. 학술, 비즈니스, 과학 등 다양한 분야에서 전문적이면서도 일상적으로 사용됩니다.",
+    "shortExampleEn": "Researchers identified a pattern in the data that linked sleep quality to productivity.",
+    "shortExampleKo": "연구자들은 수면의 질과 생산성을 연결하는 패턴을 데이터에서 파악했다."
+  }
+}

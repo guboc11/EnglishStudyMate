@@ -1,0 +1,30 @@
+{
+  "id": "demonstrate-commitment_e0d8e426",
+  "expression": "demonstrate commitment",
+  "selectionMeta": {
+    "selectedPhrase": "demonstrate commitment",
+    "selectedSenseLabelKo": "헌신을 보여주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She wanted to demonstrate commitment to the team by volunteering for the most difficult project."
+  },
+  "step2": {
+    "story": "Jina had only been at the company for three months, but she stayed late every evening to finish the quarterly report ahead of schedule. Her manager noticed and told the director that Jina truly knew how to demonstrate commitment. By the end of her first year, she was leading her own team.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the startup was on the verge of running out of funding, most of the early employees quietly started updating their resumes. Daniel, however, took a different path. He canceled his vacation, reworked the entire product pitch deck over a single weekend, and personally called thirty potential investors. His co-founder later said that watching Daniel demonstrate commitment during those dark weeks changed everything. Two investors came on board, and the company survived. Years later, Daniel's name was the first one mentioned whenever anyone asked what kept the startup alive.",
+    "topicTag": "startup perseverance",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'헌신을 보여주다'라는 뜻으로, 어떤 일이나 목표에 대한 진지한 노력과 책임감을 행동으로 증명하는 것을 의미합니다.",
+    "realUsageKo": "직장, 학업, 인간관계 등에서 말이 아닌 실제 행동과 노력으로 자신의 진심과 책임감을 보여줄 때 사용합니다. 특히 비즈니스 환경에서 승진이나 신뢰를 얻기 위해 자주 쓰이는 표현입니다.",
+    "etymologyKo": "'demonstrate'는 라틴어 'demonstrare(보여주다, 가리키다)'에서 유래했고, 'commitment'는 라틴어 'committere(맡기다, 위임하다)'에서 왔습니다. 두 단어가 결합해 '헌신을 눈에 보이게 증명하다'라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 '열심히 한다'보다 격식 있고 전문적인 뉘앙스를 가집니다. 주로 비즈니스, 면접, 평가 상황에서 사용되며, 구체적인 행동을 통한 증명이라는 느낌이 강합니다.",
+    "shortExampleEn": "He demonstrated his commitment by working weekends without being asked.",
+    "shortExampleKo": "그는 요청받지 않았는데도 주말에 일하며 자신의 헌신을 보여주었다."
+  }
+}

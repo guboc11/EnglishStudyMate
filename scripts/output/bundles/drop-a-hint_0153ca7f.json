@@ -1,0 +1,30 @@
+{
+  "id": "drop-a-hint_0153ca7f",
+  "expression": "drop a hint",
+  "selectionMeta": {
+    "selectedPhrase": "drop a hint",
+    "selectedSenseLabelKo": "슬쩍 알리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She kept dropping a hint about wanting a puppy, hoping her parents would finally get the message."
+  },
+  "step2": {
+    "story": "Marco had been eyeing the corner office for months, but he didn't want to seem too eager. So instead of asking directly, he dropped a hint to his manager by mentioning how much he enjoyed working near natural light. By Friday, his desk had been moved right next to the window.",
+    "topicTag": "workplace ambition",
+    "moodTag": "subtle"
+  },
+  "step3": {
+    "story": "Jenna's birthday was coming up, and her boyfriend Tom was completely clueless about what to get her. She had been dropping hints for weeks — leaving jewelry catalogs open on the coffee table, pausing at store windows, and casually mentioning how much she loved silver bracelets. One evening, she even said, 'You know, a thoughtful piece of jewelry can really make someone's day.' Tom nodded and smiled, but on her birthday, he proudly handed her a blender. Jenna realized that sometimes dropping a hint just isn't enough — you have to spell it out.",
+    "topicTag": "relationships",
+    "moodTag": "humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "'힌트를 떨어뜨리다'라는 뜻으로, 직접 말하지 않고 단서를 슬쩍 흘리는 것을 의미합니다.",
+    "realUsageKo": "직접적으로 말하기 어려운 것을 은근히 알릴 때 사용합니다. 예를 들어, 원하는 선물이나 바라는 것을 넌지시 흘릴 때 자주 쓰입니다.",
+    "etymologyKo": "'drop'은 무언가를 자연스럽게 떨어뜨리듯 흘린다는 뉘앙스이고, 'hint'는 암시나 단서를 뜻합니다. 마치 우연히 단서를 흘리는 것처럼 넌지시 알려주는 행위에서 유래했습니다.",
+    "nuanceKo": "직접적으로 요청하거나 말하는 것보다 부드럽고 간접적인 방식을 강조합니다. 상대방이 스스로 알아채기를 바라는 톤이 담겨 있습니다.",
+    "shortExampleEn": "I've been dropping hints about the promotion, but my boss hasn't noticed yet.",
+    "shortExampleKo": "승진에 대해 넌지시 얘기해 왔는데, 상사가 아직 눈치를 못 챘어요."
+  }
+}

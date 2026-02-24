@@ -1,0 +1,30 @@
+{
+  "id": "burning-desire_a16be282",
+  "expression": "burning desire",
+  "selectionMeta": {
+    "selectedPhrase": "burning desire",
+    "selectedSenseLabelKo": "강렬한 열망",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had a burning desire to travel the world and experience different cultures before settling down."
+  },
+  "step2": {
+    "story": "Marco stared at the acceptance letter from the culinary school in Paris. For years, he had felt a burning desire to become a professional chef, even while working his office job. Today, he finally had the courage to follow that dream.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jina had always been a quiet student who blended into the background, but inside her lived a burning desire to become a filmmaker. Every night after homework, she would secretly write scripts and study classic movies frame by frame. When her school announced a short film competition, she knew this was her moment. She spent three weeks filming on her phone, editing late into the night until her eyes burned. On the day of the screening, her hands trembled as the lights dimmed. When the audience erupted in applause at the final scene, she realized that her burning desire had finally found its voice.",
+    "topicTag": "pursuing a passion",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'불타는 욕망'이라는 뜻으로, 마음속에서 불꽃처럼 타오르는 강한 바람을 표현합니다.",
+    "realUsageKo": "단순한 '원함'이 아니라 참을 수 없을 정도로 강렬하고 열정적인 열망을 표현할 때 사용합니다. 꿈, 목표, 성취에 대한 깊은 갈망을 나타내며, 긍정적인 맥락에서 주로 쓰입니다.",
+    "etymologyKo": "'burning'은 불이 타오르는 이미지에서 비롯된 비유적 표현으로, 강렬한 감정을 나타냅니다. 'desire'는 라틴어 'desiderare(별을 그리워하다)'에서 유래했으며, 두 단어가 결합되어 억누를 수 없는 열망을 의미하게 되었습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 사용 가능하며, 주로 긍정적이고 진지한 맥락에서 쓰입니다. 일상 대화보다는 연설, 에세이, 인터뷰 등에서 자신의 열정을 강조할 때 자주 등장합니다.",
+    "shortExampleEn": "He has a burning desire to make a difference in the world.",
+    "shortExampleKo": "그는 세상을 변화시키고 싶은 강렬한 열망을 가지고 있다."
+  }
+}

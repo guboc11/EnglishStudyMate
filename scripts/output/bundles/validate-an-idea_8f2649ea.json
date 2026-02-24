@@ -1,0 +1,30 @@
+{
+  "id": "validate-an-idea_8f2649ea",
+  "expression": "validate an idea",
+  "selectionMeta": {
+    "selectedPhrase": "validate an idea",
+    "selectedSenseLabelKo": "아이디어를 검증하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before investing any money, she wanted to validate the idea by talking to potential customers and gathering honest feedback."
+  },
+  "step2": {
+    "story": "Marcus had been sketching out his app concept for months, but he knew excitement alone wasn't enough. He set up interviews with thirty strangers to validate the idea before writing a single line of code. By the end of the week, their responses had completely reshaped his original vision into something far more practical.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Jenna stood in front of the whiteboard, staring at her business model canvas covered in sticky notes. Her co-founder kept pushing to launch immediately, but she insisted they needed to validate the idea first. She spent two weeks running surveys, hosting focus groups, and even setting up a simple landing page to measure real interest. The data that came back was sobering — people loved the concept but wouldn't pay the price they had planned. Rather than feeling defeated, Jenna used the feedback to pivot their pricing strategy entirely. That decision to validate the idea early ended up saving them six months of building something nobody would buy.",
+    "topicTag": "startup strategy",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "아이디어를 검증하다 — 어떤 생각이나 계획이 실제로 타당한지 확인하는 것을 의미합니다.",
+    "realUsageKo": "주로 비즈니스나 창업 맥락에서, 본격적인 실행에 앞서 시장 조사, 고객 인터뷰, 프로토타입 테스트 등을 통해 아이디어의 실현 가능성과 수요를 확인할 때 사용합니다. 일상적으로는 어떤 계획을 실행하기 전에 다른 사람의 의견을 구하거나 사전 검증하는 상황에서도 쓰입니다.",
+    "etymologyKo": "validate는 라틴어 'validus(강한, 효력 있는)'에서 유래했으며, '유효하게 만들다, 확인하다'라는 뜻을 가집니다. 비즈니스 영어에서 'validate an idea'는 린 스타트업 방법론이 확산되면서 널리 쓰이게 된 표현입니다.",
+    "nuanceKo": "단순히 '좋은 아이디어인지 물어보다'보다 더 체계적이고 객관적인 검증의 뉘앙스를 담고 있습니다. 감정이 아닌 데이터와 증거를 기반으로 판단한다는 느낌이 강합니다.",
+    "shortExampleEn": "We need to validate this idea with real users before committing resources.",
+    "shortExampleKo": "자원을 투입하기 전에 실제 사용자들로부터 이 아이디어를 검증해야 합니다."
+  }
+}

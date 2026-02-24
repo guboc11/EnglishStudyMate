@@ -1,0 +1,30 @@
+{
+  "id": "express-feelings_5f964fcc",
+  "expression": "express feelings",
+  "selectionMeta": {
+    "selectedPhrase": "express feelings",
+    "selectedSenseLabelKo": "감정을 표현하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took her years of therapy to learn how to express feelings without shutting down."
+  },
+  "step2": {
+    "story": "Jake had always bottled everything up, but after his best friend moved away, he realized he needed to express feelings before they consumed him. He sat down and wrote a long, honest letter. By the time he sealed the envelope, he felt lighter than he had in months.",
+    "topicTag": "friendship",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Growing up in a household where vulnerability was seen as weakness, Mina never learned to express feelings openly. At work, colleagues admired her composure, but inside she felt like a pressure cooker about to burst. One evening, her partner gently asked why she always said 'I'm fine' when she clearly wasn't. That question cracked something open. Mina started small — texting how her day really went instead of the usual 'good.' Over time, learning to express feelings honestly transformed not just her relationship, but her entire sense of self.",
+    "topicTag": "emotional growth",
+    "moodTag": "vulnerable"
+  },
+  "meaning": {
+    "literalMeaningKo": "감정을 표현하다 — 자신이 느끼는 감정을 말이나 행동으로 드러내는 것을 뜻합니다.",
+    "realUsageKo": "일상에서 자신의 기쁨, 슬픔, 분노 등의 감정을 솔직하게 전달할 때 사용합니다. 특히 감정을 억누르지 않고 건강하게 소통하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "express는 라틴어 exprimere(밖으로 누르다)에서 유래했고, feelings는 고대 영어 fēlan(느끼다)에서 왔습니다. 즉, 내면의 감정을 밖으로 꺼내 보여준다는 의미입니다.",
+    "nuanceKo": "단순히 감정을 '말하다'보다 더 적극적이고 의식적인 표현 행위를 암시합니다. 심리 상담, 자기계발, 대인관계 맥락에서 긍정적 뉘앙스로 자주 사용됩니다.",
+    "shortExampleEn": "Children should be encouraged to express feelings in a healthy way.",
+    "shortExampleKo": "아이들이 건강한 방식으로 감정을 표현하도록 격려해야 합니다."
+  }
+}

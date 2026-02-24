@@ -1,0 +1,30 @@
+{
+  "id": "tell-a-story_9d032610",
+  "expression": "tell a story",
+  "selectionMeta": {
+    "selectedPhrase": "tell a story",
+    "selectedSenseLabelKo": "이야기를 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My grandmother used to tell a story about her childhood every time we visited her on Sundays."
+  },
+  "step2": {
+    "story": "The campfire crackled as Jake sat down with the children. He began to tell a story about a brave knight who crossed the frozen mountains alone. The kids leaned in closer, their eyes wide with wonder.",
+    "topicTag": "family bonding",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Elena stood nervously in front of her class for the final presentation. Instead of reading from her slides, she decided to tell a story about her own experience volunteering at a refugee camp last summer. She described the faces of the children she met and the games they played together despite not sharing a language. Her voice trembled at first, but grew steadier as the memories came alive. By the end, several classmates had tears in their eyes. The professor nodded slowly and said it was the most powerful presentation he had heard all semester.",
+    "topicTag": "personal growth",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "이야기를 말하다, 즉 누군가에게 사건이나 경험을 언어로 전달하는 것을 의미합니다.",
+    "realUsageKo": "실제로는 단순히 정보를 전달하는 것뿐 아니라, 듣는 사람의 흥미를 끌며 생생하게 이야기를 풀어나가는 뉘앙스로 자주 쓰입니다. 'tell a story'는 구어체와 문어체 모두에서 폭넓게 사용됩니다.",
+    "etymologyKo": "'tell'은 고대 영어 'tellan(세다, 말하다)'에서 유래했으며, 'story'는 라틴어 'historia(역사, 이야기)'에서 왔습니다. 두 단어가 결합하여 '이야기를 전하다'라는 기본적이면서도 보편적인 표현이 되었습니다.",
+    "nuanceKo": "격식 없이 일상적으로 쓰이는 표현으로, 어린이에게 동화를 들려줄 때부터 비즈니스 프레젠테이션에서 경험담을 공유할 때까지 다양한 상황에서 자연스럽게 사용됩니다. 'say a story'가 아니라 반드시 'tell a story'로 쓴다는 점이 영어 학습자에게 중요한 포인트입니다.",
+    "shortExampleEn": "Can you tell a story about your trip to Japan?",
+    "shortExampleKo": "일본 여행에 대한 이야기를 해줄 수 있어?"
+  }
+}

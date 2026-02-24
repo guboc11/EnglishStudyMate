@@ -1,0 +1,30 @@
+{
+  "id": "show-empathy_e37a2554",
+  "expression": "show empathy",
+  "selectionMeta": {
+    "selectedPhrase": "show empathy",
+    "selectedSenseLabelKo": "공감을 표하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When her coworker broke down in tears after receiving bad news, Sarah took a moment to show empathy by listening quietly and offering a comforting hand on her shoulder."
+  },
+  "step2": {
+    "story": "James noticed his teammate sitting alone in the break room, staring blankly at the wall after a tough client meeting. He sat down beside him and said, \"That was a rough one — I've been there too.\" Sometimes the simplest way to show empathy is just letting someone know they're not alone.",
+    "topicTag": "workplace support",
+    "moodTag": "compassionate"
+  },
+  "step3": {
+    "story": "Dr. Park had seen hundreds of patients, but she never let routine dull her compassion. When Mr. Chen sat in her office, struggling to explain his chronic pain through a language barrier, she put down her clipboard and looked him in the eye. She spoke slowly, nodded often, and repeated his words back to make sure she understood. It wasn't just good medicine — it was her way to show empathy for someone feeling vulnerable and unheard. Mr. Chen's shoulders relaxed for the first time that day. He later told his daughter that the doctor made him feel like a person, not just a patient.",
+    "topicTag": "healthcare communication",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'공감(empathy)을 보여주다(show)'라는 뜻으로, 상대방의 감정이나 상황을 이해하고 있음을 표현하는 것을 의미합니다.",
+    "realUsageKo": "단순히 동정하는 것이 아니라, 상대방의 입장에서 감정을 이해하고 그것을 말이나 행동으로 표현할 때 사용합니다. 직장, 의료, 일상 대화 등 다양한 상황에서 쓰이며, 진심 어린 경청이나 따뜻한 반응을 통해 공감을 전달하는 행위를 가리킵니다.",
+    "etymologyKo": "'empathy'는 그리스어 'empatheia(감정 이입)'에서 유래했으며, 20세기 초 심리학 용어로 영어에 도입되었습니다. 'show'와 결합하여 내면의 공감을 외적으로 드러내는 행위를 나타냅니다.",
+    "nuanceKo": "'show sympathy(동정을 보이다)'보다 더 깊은 수준의 감정적 연결을 암시합니다. 상대방의 감정을 함께 느끼고 있다는 뉘앙스가 있어, 전문적·인간적 소통 능력을 강조할 때 자주 사용됩니다.",
+    "shortExampleEn": "A good leader knows how to show empathy when team members are going through difficult times.",
+    "shortExampleKo": "좋은 리더는 팀원들이 힘든 시기를 겪을 때 공감을 표하는 방법을 알고 있습니다."
+  }
+}

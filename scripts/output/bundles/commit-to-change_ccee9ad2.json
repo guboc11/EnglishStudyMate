@@ -1,0 +1,30 @@
+{
+  "id": "commit-to-change_ccee9ad2",
+  "expression": "commit to change",
+  "selectionMeta": {
+    "selectedPhrase": "commit to change",
+    "selectedSenseLabelKo": "변화에 헌신하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of unhealthy habits, she finally decided to commit to change and started waking up early every morning."
+  },
+  "step2": {
+    "story": "David had been putting off improving his lifestyle for months. One morning, he looked in the mirror and told himself it was time to commit to change. He signed up for a gym membership that very afternoon and never looked back.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For years, the small company had relied on outdated processes that slowed everything down. Employees complained quietly, but nobody took action. Then a new manager, Sora, arrived and called a team meeting on her very first day. She laid out a clear vision and asked everyone to commit to change together. At first, some were skeptical, but her energy was contagious. Within three months, productivity had doubled, and the team finally felt proud of the work they were doing.",
+    "topicTag": "workplace transformation",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'변화에 전념하다'라는 뜻으로, 변화를 받아들이고 이를 위해 노력하겠다는 의지를 표현합니다.",
+    "realUsageKo": "단순히 변화를 원한다는 것이 아니라, 실제로 행동으로 옮기겠다는 강한 결심과 책임감을 나타낼 때 사용합니다. 개인의 습관 개선부터 조직의 변혁까지 폭넓게 쓰입니다.",
+    "etymologyKo": "'commit'은 라틴어 'committere(맡기다, 위탁하다)'에서 유래했으며, 무언가에 자신을 온전히 바친다는 의미를 담고 있습니다. 'change'와 결합하여 변화에 자신을 헌신한다는 뜻이 됩니다.",
+    "nuanceKo": "가벼운 다짐이 아니라 진지하고 단호한 결의를 내포합니다. 비즈니스, 자기계발, 관계 개선 등 중요한 전환점에서 주로 사용되며, 격식체와 일상 대화 모두에서 자연스럽습니다.",
+    "shortExampleEn": "If you truly want a better life, you need to commit to change.",
+    "shortExampleKo": "정말로 더 나은 삶을 원한다면, 변화에 전념해야 합니다."
+  }
+}

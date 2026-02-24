@@ -1,0 +1,30 @@
+{
+  "id": "sign-a-contract_c15caf68",
+  "expression": "sign a contract",
+  "selectionMeta": {
+    "selectedPhrase": "sign a contract",
+    "selectedSenseLabelKo": "계약에 서명하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of negotiation, both parties finally agreed to sign a contract that outlined the terms of the partnership."
+  },
+  "step2": {
+    "story": "Maria had been freelancing for months without any formal agreement. When the company offered her a full-time position, she was thrilled to sign a contract that guaranteed her a steady income and benefits. It felt like a fresh start.",
+    "topicTag": "career transition",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "James had spent three years building his small software company from scratch, pouring every ounce of energy into making it succeed. When a major tech firm approached him about a collaboration, he could barely contain his excitement. After two months of back-and-forth meetings, lawyers on both sides reviewed every clause. The day he walked into the conference room to sign a contract with them felt surreal. His hand trembled slightly as the pen touched the paper. From that moment on, his tiny startup was partnered with one of the biggest names in the industry.",
+    "topicTag": "business growth",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "계약서에 서명하다, 즉 공식 문서에 자신의 이름을 적어 합의를 확정하는 행위를 뜻합니다.",
+    "realUsageKo": "취업, 임대, 사업 제휴 등 공식적인 합의를 법적으로 확정할 때 사용합니다. 단순히 서명하는 물리적 행위뿐 아니라 '계약을 체결하다'라는 의미로 폭넓게 쓰입니다.",
+    "etymologyKo": "'sign'은 라틴어 'signare(표시하다)'에서, 'contract'는 라틴어 'contractus(합의, 계약)'에서 유래했습니다. 두 단어가 결합하여 '공식 합의에 서명하다'라는 의미의 연어가 되었습니다.",
+    "nuanceKo": "격식 있고 공식적인 느낌을 주는 표현입니다. 비즈니스, 법률, 부동산 등 전문적인 맥락에서 주로 사용되며, 책임과 의무가 따르는 중요한 행위임을 내포합니다.",
+    "shortExampleEn": "She signed a contract with the publishing house for her debut novel.",
+    "shortExampleKo": "그녀는 데뷔 소설을 위해 출판사와 계약을 체결했다."
+  }
+}

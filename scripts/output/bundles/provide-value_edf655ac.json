@@ -1,0 +1,30 @@
+{
+  "id": "provide-value_edf655ac",
+  "expression": "provide value",
+  "selectionMeta": {
+    "selectedPhrase": "provide value",
+    "selectedSenseLabelKo": "가치를 제공하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our team needs to provide value to clients by delivering solutions that genuinely solve their problems."
+  },
+  "step2": {
+    "story": "Elena had been freelancing for three months, but she struggled to land repeat clients. After attending a workshop on client relations, she realized she needed to provide value beyond just completing tasks — she started offering strategic insights with every deliverable. Within weeks, her client retention rate doubled.",
+    "topicTag": "career growth",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Marcus had worked at the consulting firm for five years, but he felt invisible during meetings. His manager once told him that simply showing up wasn't enough — he had to provide value every time he spoke. So Marcus began preparing thoroughly before each session, researching client pain points and crafting actionable recommendations. At the next quarterly review, his insights impressed the senior partners so much that they assigned him to lead a major account. He learned that the key to career advancement wasn't just working hard, but making sure his contributions genuinely mattered. From that day on, he approached every interaction with the mindset of providing tangible value.",
+    "topicTag": "professional development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '가치를 제공하다'라는 뜻으로, 상대방에게 유익하거나 쓸모 있는 것을 전달한다는 의미입니다.",
+    "realUsageKo": "비즈니스나 일상에서 단순히 무언가를 주는 것이 아니라, 상대방에게 실질적으로 도움이 되는 기여를 한다는 맥락으로 사용됩니다. 서비스, 제품, 조언 등 다양한 형태의 기여를 포괄합니다.",
+    "etymologyKo": "'provide'는 라틴어 'providere(미리 보다, 대비하다)'에서 유래했고, 'value'는 라틴어 'valere(가치가 있다)'에서 왔습니다. 두 단어가 결합하여 '가치 있는 것을 준비하여 제공하다'라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 '주다(give)'보다 격식 있고 전문적인 느낌을 줍니다. 비즈니스, 마케팅, 자기계발 분야에서 특히 자주 쓰이며, 상대방의 필요를 충족시키는 적극적이고 의도적인 행위를 강조합니다.",
+    "shortExampleEn": "A good mentor always strives to provide value through honest feedback.",
+    "shortExampleKo": "좋은 멘토는 항상 솔직한 피드백을 통해 가치를 제공하려고 노력합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bear-the-cost_4d87192a",
+  "expression": "bear the cost",
+  "selectionMeta": {
+    "selectedPhrase": "bear the cost",
+    "selectedSenseLabelKo": "비용을 부담하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company decided to bear the cost of the employees' training program rather than passing it on to clients."
+  },
+  "step2": {
+    "story": "After the flood damaged the apartment, the landlord refused to bear the cost of repairs. The tenants had no choice but to pool their savings together. It was a bitter reminder that not every responsibility is shared fairly.",
+    "topicTag": "financial responsibility",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Mina had always dreamed of studying abroad, but her family's finances were tight. When she got accepted into a prestigious university in London, the tuition seemed impossible. Her father sat her down one evening and said he would bear the cost, even if it meant working overtime for the next few years. Mina protested, but he insisted that investing in her future was worth every sacrifice. She promised herself she would make the most of every opportunity. Years later, as she stood on stage receiving her degree, she thought of her father's quiet determination.",
+    "topicTag": "family sacrifice",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "'bear the cost'는 직역하면 '비용을 짊어지다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 비용이나 경제적 부담을 자신이 책임지고 지불한다는 의미로 사용됩니다. 주로 누군가가 자발적으로, 또는 의무적으로 금전적 부담을 떠맡을 때 씁니다.",
+    "etymologyKo": "'bear'는 고대 영어 'beran(운반하다, 지탱하다)'에서 유래했으며, 무거운 것을 감당한다는 의미가 비용 부담으로 확장되었습니다.",
+    "nuanceKo": "단순히 '돈을 낸다'보다 무게감이 있는 표현으로, 상당한 부담이나 희생이 수반됨을 암시합니다. 격식체에서 자주 쓰이며, 계약서나 비즈니스 맥락에서도 흔합니다.",
+    "shortExampleEn": "Parents often bear the cost of their children's education.",
+    "shortExampleKo": "부모들은 종종 자녀의 교육비를 부담합니다."
+  }
+}

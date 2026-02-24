@@ -1,0 +1,30 @@
+{
+  "id": "explore-possibilities_34821360",
+  "expression": "explore possibilities",
+  "selectionMeta": {
+    "selectedPhrase": "explore possibilities",
+    "selectedSenseLabelKo": "가능성을 탐색하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making a final decision about her career, she wanted to explore possibilities in both the tech and creative industries."
+  },
+  "step2": {
+    "story": "After graduating from university, Jimin felt stuck choosing between a stable corporate job and freelance design work. Her mentor suggested she explore possibilities by attending industry meetups and taking on small projects in both fields. Within three months, she discovered a UX design role that perfectly blended her interests.",
+    "topicTag": "career exploration",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had spent eight years as an accountant, but a quiet restlessness had been building inside him. One rainy evening, he sat across from his old college friend, Sarah, who had recently switched from law to documentary filmmaking. She told him that the turning point came when she decided to explore possibilities instead of clinging to a single safe path. Inspired by her words, Daniel signed up for a weekend coding bootcamp and a photography workshop in the same month. He didn't know which direction would stick, but for the first time in years, the uncertainty felt exciting rather than terrifying. By simply giving himself permission to explore possibilities, he had already begun to change.",
+    "topicTag": "life change",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '가능성들을 탐험하다'로, 여러 선택지나 기회를 살펴본다는 의미입니다.",
+    "realUsageKo": "아직 결정을 내리기 전에 다양한 옵션이나 방향을 열린 마음으로 조사하고 검토할 때 사용합니다. 커리어, 사업 전략, 인생 계획 등 중요한 결정 앞에서 자주 쓰입니다.",
+    "etymologyKo": "'explore'는 라틴어 'explorare(조사하다, 탐색하다)'에서 유래했고, 'possibilities'는 라틴어 'possibilis(가능한)'에서 왔습니다. 두 단어가 결합되어 '실현 가능한 것들을 적극적으로 알아보다'라는 콜로케이션이 되었습니다.",
+    "nuanceKo": "이 표현은 열린 태도와 적극성을 내포합니다. 단순히 '생각해 보다'보다 더 능동적이며, 아직 확정된 것은 없지만 여러 방향을 진지하게 검토하고 있다는 뉘앙스를 줍니다.",
+    "shortExampleEn": "Let's explore possibilities before we commit to one approach.",
+    "shortExampleKo": "하나의 방법에 확정짓기 전에 가능성을 탐색해 봅시다."
+  }
+}

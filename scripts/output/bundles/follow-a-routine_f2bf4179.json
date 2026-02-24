@@ -1,0 +1,30 @@
+{
+  "id": "follow-a-routine_f2bf4179",
+  "expression": "follow a routine",
+  "selectionMeta": {
+    "selectedPhrase": "follow a routine",
+    "selectedSenseLabelKo": "루틴을 따르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She follows a routine every morning to stay productive throughout the day."
+  },
+  "step2": {
+    "story": "After years of chaotic mornings, David decided to follow a routine. He woke up at 6 AM, exercised for thirty minutes, and reviewed his goals before heading to work. Within weeks, his energy and focus improved dramatically.",
+    "topicTag": "self-discipline",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina had always been a night owl who stumbled through her mornings in a fog. When she started her new job at a consulting firm, her manager suggested she follow a routine to manage the demanding schedule. Reluctantly, she began setting her alarm for 5:30 AM and mapping out each hour of her day. At first, it felt suffocating — every minute accounted for, no room to breathe. But after a month, something shifted. The structure didn't limit her freedom; it created space for it, and she found herself more creative and calm than she had ever been.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "정해진 일과나 절차를 그대로 따라서 수행하다.",
+    "realUsageKo": "매일 또는 정기적으로 정해진 습관이나 일정을 지키며 생활할 때 사용합니다. 건강, 업무, 자기계발 등 다양한 맥락에서 규칙적인 생활 패턴을 유지한다는 의미로 쓰입니다.",
+    "etymologyKo": "'follow'는 '따르다'라는 뜻이고, 'routine'은 프랑스어 'route(길)'에서 파생되어 '정해진 경로나 절차'를 의미합니다. 즉, 정해진 길을 따라간다는 이미지에서 비롯된 표현입니다.",
+    "nuanceKo": "긍정적인 뉘앙스로 자기관리나 규율을 강조할 때 주로 쓰이지만, 때로는 지루하고 반복적인 생활을 암시하기도 합니다. 'stick to a routine'보다는 약간 덜 강한 느낌입니다.",
+    "shortExampleEn": "I try to follow a routine even on weekends.",
+    "shortExampleKo": "나는 주말에도 루틴을 따르려고 노력한다."
+  }
+}

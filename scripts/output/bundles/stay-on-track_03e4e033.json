@@ -1,0 +1,30 @@
+{
+  "id": "stay-on-track_03e4e033",
+  "expression": "stay on track",
+  "selectionMeta": {
+    "selectedPhrase": "stay on track",
+    "selectedSenseLabelKo": "계획대로 진행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite all the distractions at work, she managed to stay on track and finish the project before the deadline."
+  },
+  "step2": {
+    "story": "Minjun had three weeks to prepare for his certification exam, but social events kept pulling him away. He put his phone on silent every evening and pinned his study schedule to the wall. By staying on track with his daily review sessions, he passed the exam on his first try.",
+    "topicTag": "exam preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Soyeon launched a small online bakery last spring, dreaming of turning her hobby into a real business. The first two months were exciting, but by summer, rising ingredient costs and slow sales made her question everything. Her friend Jiwoo sat her down one evening and helped her revisit the original business plan. They cut three underperforming menu items and focused marketing on the bestsellers. With a clearer direction, Soyeon found it much easier to stay on track. Six months later, her weekend orders had tripled, and she finally felt the business was heading somewhere real.",
+    "topicTag": "small business growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '궤도(track) 위에 머물다'라는 뜻으로, 정해진 길에서 벗어나지 않는 것을 의미합니다.",
+    "realUsageKo": "계획이나 목표대로 꾸준히 진행하다, 일정에서 이탈하지 않다는 의미로 사용됩니다. 다이어트, 공부, 프로젝트 등 목표가 있는 상황에서 자주 쓰입니다.",
+    "etymologyKo": "철도에서 열차가 궤도(track)를 벗어나지 않고 달리는 모습에서 유래한 표현입니다. 19세기 철도 시대에 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "긍정적이고 능동적인 뉘앙스를 가지며, 자기 통제력이나 꾸준함을 강조할 때 사용됩니다. 격식/비격식 모두 자연스럽게 쓸 수 있는 표현입니다.",
+    "shortExampleEn": "Let's stay on track and finish this report by Friday.",
+    "shortExampleKo": "계획대로 진행해서 금요일까지 이 보고서를 끝내자."
+  }
+}

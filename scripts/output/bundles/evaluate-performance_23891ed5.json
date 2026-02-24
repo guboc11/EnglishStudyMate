@@ -1,0 +1,30 @@
+{
+  "id": "evaluate-performance_23891ed5",
+  "expression": "evaluate performance",
+  "selectionMeta": {
+    "selectedPhrase": "evaluate performance",
+    "selectedSenseLabelKo": "성과를 평가하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager will evaluate performance at the end of each quarter to determine promotions and raises."
+  },
+  "step2": {
+    "story": "Sarah dreaded the annual review meeting where her boss would evaluate performance across all departments. She had worked overtime for months and felt confident, but the uncertainty still gnawed at her. When the results came in, her numbers spoke for themselves.",
+    "topicTag": "career growth",
+    "moodTag": "anxious yet hopeful"
+  },
+  "step3": {
+    "story": "James had been the team lead for only six months when the company brought in an outside consultant to evaluate performance across every division. The atmosphere in the office shifted overnight — people started double-checking their reports and arriving earlier than usual. James gathered his team and reminded them that genuine effort would always show in the data. On the day of the evaluation, the consultant spent hours reviewing metrics, interviewing staff, and observing workflows. When the final report landed on the CEO's desk, James's team ranked highest in both productivity and morale. It turned out that building trust mattered more than chasing numbers.",
+    "topicTag": "leadership and teamwork",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'성과를 평가하다'라는 뜻으로, 업무나 활동의 결과물을 기준에 따라 판단하고 측정하는 것을 의미합니다.",
+    "realUsageKo": "주로 직장에서 상사가 부하직원의 업무 성과를 공식적으로 검토할 때 사용됩니다. 인사고과, 프로젝트 리뷰, 학업 평가 등 다양한 맥락에서 쓰이며, 단순히 점수를 매기는 것이 아니라 종합적으로 분석하고 판단한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "'evaluate'는 프랑스어 'évaluer'에서 왔으며, 라틴어 'valere(가치가 있다)'에 어근을 둡니다. 'performance'는 고대 프랑스어 'parfournir(완수하다)'에서 유래했습니다. 두 단어가 결합되어 '수행한 일의 가치를 매기다'라는 의미를 형성합니다.",
+    "nuanceKo": "'evaluate'는 'assess'나 'review'보다 더 체계적이고 공식적인 느낌을 줍니다. 비즈니스나 학술 맥락에서 자주 사용되며, 객관적 기준에 따른 심층 분석을 암시합니다.",
+    "shortExampleEn": "We need to evaluate performance before deciding who gets promoted this year.",
+    "shortExampleKo": "올해 누구를 승진시킬지 결정하기 전에 성과를 평가해야 합니다."
+  }
+}

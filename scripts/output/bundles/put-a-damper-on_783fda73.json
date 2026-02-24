@@ -1,0 +1,30 @@
+{
+  "id": "put-a-damper-on_783fda73",
+  "expression": "put a damper on",
+  "selectionMeta": {
+    "selectedPhrase": "put a damper on",
+    "selectedSenseLabelKo": "분위기를 망치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sudden rainstorm really put a damper on our outdoor barbecue plans."
+  },
+  "step2": {
+    "story": "Everyone at the office was buzzing with excitement about the company's annual beach retreat. Then the manager announced massive budget cuts, which put a damper on the whole celebration. People quietly returned to their desks, the festive mood completely gone.",
+    "topicTag": "workplace mood",
+    "moodTag": "deflated"
+  },
+  "step3": {
+    "story": "Sophie had spent weeks planning the perfect surprise birthday party for her best friend. She decorated the rooftop terrace with fairy lights, ordered a custom cake, and invited everyone they knew. But just as the first guests arrived, her friend called to say she was stuck at the airport with a cancelled flight. The news put a damper on the entire evening, and Sophie found herself staring at the untouched cake in silence. Still, the guests rallied together, video-called the birthday girl, and sang happy birthday through the phone screen. It wasn't the party Sophie had imagined, but the laughter that followed reminded her that no setback could completely ruin a night shared with good friends.",
+    "topicTag": "friendship and surprises",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가에 '댐퍼(진동 억제 장치)'를 올려놓다, 즉 기세나 활기를 물리적으로 억누르다는 뜻입니다.",
+    "realUsageKo": "기대하고 있던 일이나 즐거운 분위기에 찬물을 끼얹어 흥을 깨뜨릴 때 사용합니다. '분위기를 망치다', '김을 빼다'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "Damper는 원래 벽난로나 피아노에서 불꽃이나 소리를 억제하는 장치를 뜻하며, 18세기부터 '열기나 흥분을 가라앉히는 것'이라는 비유적 의미로 쓰이기 시작했습니다.",
+    "nuanceKo": "완전히 망치는 것보다는 기대감이나 즐거움을 '한 단계 꺾는' 느낌으로, 일상 대화에서 자연스럽게 자주 쓰입니다. 격식체보다는 캐주얼한 상황에 어울립니다.",
+    "shortExampleEn": "Don't let one bad review put a damper on your confidence.",
+    "shortExampleKo": "나쁜 리뷰 하나에 자신감이 꺾이지 않도록 해."
+  }
+}

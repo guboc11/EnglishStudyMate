@@ -1,0 +1,30 @@
+{
+  "id": "bitter-truth_c071a2ca",
+  "expression": "bitter truth",
+  "selectionMeta": {
+    "selectedPhrase": "bitter truth",
+    "selectedSenseLabelKo": "쓴 진실",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She finally accepted the bitter truth that her business partner had been stealing from the company for years."
+  },
+  "step2": {
+    "story": "Mark had always believed his father left because of work overseas. On his thirtieth birthday, his mother sat him down and revealed the bitter truth — his father had simply chosen to start a new family. Mark stared at the old photographs, feeling the weight of decades of carefully maintained lies.",
+    "topicTag": "family secrets",
+    "moodTag": "somber"
+  },
+  "step3": {
+    "story": "Elena had spent five years pouring every ounce of energy into her startup, convinced it would revolutionize the industry. Her co-founder, James, had always been the optimistic one, deflecting investor concerns with charm and promises. But when the quarterly numbers came in, even James couldn't spin the data. The bitter truth was laid bare in black and white — they were burning cash twice as fast as projected, and no pivot could save them. Elena closed her laptop and looked out the window at the city lights below. Sometimes accepting reality, no matter how painful, is the first step toward building something better.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'bitter'는 '쓴', 'truth'는 '진실'로, 직역하면 '쓴 진실'입니다.",
+    "realUsageKo": "받아들이기 힘들지만 부정할 수 없는 현실이나 사실을 가리킬 때 사용합니다. 주로 누군가가 오랫동안 회피하거나 외면해 온 불편한 진실을 직면해야 할 때 쓰입니다.",
+    "etymologyKo": "'bitter'는 맛이 쓴 것에서 유래하여 '고통스러운, 괴로운'이라는 비유적 의미로 확장되었습니다. 진실이 입에 쓴 약처럼 불쾌하지만 필요하다는 뜻을 담고 있습니다.",
+    "nuanceKo": "단순히 나쁜 소식이 아니라, 감정적으로 받아들이기 어려운 현실을 강조하는 표현입니다. 진지하고 무거운 어조로 사용되며, 일상 대화보다는 심각한 상황이나 성찰적인 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "The bitter truth is that not everyone who smiles at you is your friend.",
+    "shortExampleKo": "쓴 진실은 당신에게 미소 짓는 모든 사람이 친구는 아니라는 것이다."
+  }
+}

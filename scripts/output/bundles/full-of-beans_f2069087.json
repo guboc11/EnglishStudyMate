@@ -1,0 +1,30 @@
+{
+  "id": "full-of-beans_f2069087",
+  "expression": "full of beans",
+  "selectionMeta": {
+    "selectedPhrase": "full of beans",
+    "selectedSenseLabelKo": "활기차다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a good night's sleep, Grandma was full of beans and insisted on walking to the farmers' market herself."
+  },
+  "step2": {
+    "story": "Nobody expected the 70-year-old yoga instructor to lead a three-hour hike, but she was absolutely full of beans that morning. She practically sprinted up the trail while the younger students struggled to keep pace. By the time they reached the summit, she was already stretching and asking if anyone wanted to race back down.",
+    "topicTag": "active lifestyle",
+    "moodTag": "energetic"
+  },
+  "step3": {
+    "story": "Maya dragged herself into the office on Monday morning, clutching her third cup of coffee like a lifeline. She slumped into her chair and stared blankly at the screen. Then her colleague Dan burst through the door, grinning ear to ear and practically bouncing off the walls. 'How are you so full of beans at eight in the morning?' she groaned. Dan laughed and set a fresh smoothie on her desk. 'Early run, cold shower, and a ridiculously good breakfast — you should try it sometime,' he said, already darting off to his next meeting with the energy of someone who had discovered the secret to eternal enthusiasm.",
+    "topicTag": "morning routine",
+    "moodTag": "cheerful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '콩으로 가득 찬'이라는 뜻입니다.",
+    "realUsageKo": "실제로는 누군가가 매우 활기차고 에너지가 넘치는 상태를 묘사할 때 사용합니다. 특히 나이에 비해 놀라울 정도로 활발하거나, 아침부터 기운이 넘치는 사람을 표현할 때 자주 쓰입니다.",
+    "etymologyKo": "말에게 콩(beans)을 먹이면 에너지가 넘쳐 활발해진다는 데서 유래했습니다. 19세기 영국 마구간에서 시작된 표현이 사람에게도 확장되어 쓰이게 되었습니다.",
+    "nuanceKo": "긍정적이고 유쾌한 뉘앙스의 비격식 표현입니다. 주로 영국 영어에서 많이 사용되며, 약간 귀엽고 친근한 느낌을 줍니다.",
+    "shortExampleEn": "The kids were full of beans after eating all that candy.",
+    "shortExampleKo": "아이들은 사탕을 잔뜩 먹고 나서 에너지가 넘쳤다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fierce-competition_4282bc23",
+  "expression": "fierce competition",
+  "selectionMeta": {
+    "selectedPhrase": "fierce competition",
+    "selectedSenseLabelKo": "치열한 경쟁",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The fierce competition among tech startups in Silicon Valley drives constant innovation and pushes founders to work around the clock."
+  },
+  "step2": {
+    "story": "Maya had spent months preparing her pitch for the startup accelerator program. She knew the fierce competition would be brutal—over three hundred teams were vying for just ten spots. When her name was called as a finalist, she felt every sleepless night had been worth it.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The annual robotics championship drew teams from forty-two countries, and the fierce competition was evident from the moment the doors opened. Engineers huddled over their machines, making last-minute adjustments with trembling hands. Jinho's team from Seoul had been ranked as underdogs, but their design was unlike anything the judges had seen before. During the final round, their robot completed the obstacle course in record time, leaving the crowd in stunned silence. As the scoreboard updated, Jinho realized they had beaten the reigning champions by a full three seconds. The fierce competition had pushed every team to their absolute limits, and his team had risen to the top.",
+    "topicTag": "competition and achievement",
+    "moodTag": "thrilling"
+  },
+  "meaning": {
+    "literalMeaningKo": "'fierce'는 '사나운, 맹렬한'이라는 뜻이고, 'competition'은 '경쟁'이라는 뜻으로, 직역하면 '맹렬한 경쟁'입니다.",
+    "realUsageKo": "비즈니스, 스포츠, 취업 등 여러 분야에서 경쟁이 매우 치열하고 격렬한 상황을 묘사할 때 사용합니다. 단순한 경쟁이 아니라 참여자들이 전력을 다해 싸우는 수준의 경쟁을 의미합니다.",
+    "etymologyKo": "'fierce'는 라틴어 'ferus(야생의)'에서 유래한 고대 프랑스어 'fiers'에서 왔으며, 원래 야생 동물의 사나움을 묘사하던 단어가 경쟁의 격렬함을 비유적으로 표현하는 데 쓰이게 되었습니다.",
+    "nuanceKo": "중립적~약간 부정적 뉘앙스로, 경쟁의 강도가 극심함을 강조합니다. 긍정적 맥락(성장 동력)으로도, 부정적 맥락(과도한 압박)으로도 모두 사용할 수 있습니다.",
+    "shortExampleEn": "Due to fierce competition in the job market, she applied to over fifty companies before landing an offer.",
+    "shortExampleKo": "취업 시장의 치열한 경쟁 때문에, 그녀는 합격 통보를 받기까지 50곳이 넘는 회사에 지원했다."
+  }
+}

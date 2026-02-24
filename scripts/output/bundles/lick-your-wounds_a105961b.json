@@ -1,0 +1,30 @@
+{
+  "id": "lick-your-wounds_a105961b",
+  "expression": "lick your wounds",
+  "selectionMeta": {
+    "selectedPhrase": "lick your wounds",
+    "selectedSenseLabelKo": "패배를 딛고 회복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing the contract to a rival firm, the team went back to the office to lick their wounds and figure out what went wrong."
+  },
+  "step2": {
+    "story": "Marcus had poured everything into his startup pitch, but the investors turned him down flat. He spent the weekend at his parents' house, licking his wounds and replaying every question he'd fumbled. By Monday morning, though, he'd rewritten the entire deck with sharper numbers and a clearer vision.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Jenna had trained for six months for the regional debate championship, but she froze on stage during the final round and lost by a devastating margin. The car ride home was silent, her coach not saying a word. For the next two weeks, she licked her wounds—skipping practice, barely talking to her teammates, replaying that blank moment under the spotlight over and over. Then one evening her younger sister dragged her to the backyard and challenged her to argue why pineapple belongs on pizza. Jenna laughed for the first time in days, and something clicked back into place. She showed up to practice the next morning, quieter but steadier, ready to rebuild from the ground up.",
+    "topicTag": "competition and growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '자기 상처를 핥다'라는 뜻으로, 동물이 다쳤을 때 상처 부위를 핥는 모습에서 유래한 표현입니다.",
+    "realUsageKo": "실패하거나 큰 타격을 받은 뒤 한동안 조용히 물러나서 마음을 추스르고 회복하는 것을 의미합니다. 주로 경쟁에서 지거나 자존심에 상처를 입었을 때 사용합니다.",
+    "etymologyKo": "동물들이 본능적으로 상처를 핥아 치유하는 행동에서 비롯된 표현으로, 16세기부터 영어에서 비유적으로 사용되기 시작했습니다.",
+    "nuanceKo": "부정적인 결과 이후의 자연스러운 회복 과정을 묘사하며, 약간의 자존심 상한 느낌이 포함됩니다. 비난보다는 공감의 뉘앙스로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "The team is still licking their wounds after that embarrassing defeat.",
+    "shortExampleKo": "팀은 그 굴욕적인 패배 이후 아직도 상처를 추스르고 있다."
+  }
+}

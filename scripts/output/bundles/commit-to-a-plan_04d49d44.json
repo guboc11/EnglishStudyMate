@@ -1,0 +1,30 @@
+{
+  "id": "commit-to-a-plan_04d49d44",
+  "expression": "commit to a plan",
+  "selectionMeta": {
+    "selectedPhrase": "commit to a plan",
+    "selectedSenseLabelKo": "계획에 전념하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of hesitation, she finally decided to commit to a plan and enrolled in an intensive coding bootcamp."
+  },
+  "step2": {
+    "story": "Jake had been talking about starting his own business for years, but he never took action. One evening, his best friend sat him down and said, \"You need to commit to a plan or stop complaining.\" That conversation changed everything — within a week, Jake had written a business proposal and signed a lease for a small office.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina stared at the half-finished applications scattered across her desk. For three months, she had been jumping between ideas — law school, a gap year abroad, a tech startup. Her mentor noticed her frustration and pulled up a chair. \"Mina, exploring options is fine, but at some point you have to commit to a plan,\" he said gently. She took a deep breath and closed every tab except one: the application for a UX design program she had secretly wanted all along. That night, she submitted it before she could second-guess herself. When the acceptance letter arrived six weeks later, she finally understood that commitment was not about certainty — it was about choosing to move forward.",
+    "topicTag": "career decisions",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "계획에 헌신하다, 즉 특정 계획을 확정하고 그것에 전념하겠다는 뜻입니다.",
+    "realUsageKo": "이리저리 고민만 하지 말고 하나의 계획을 정해서 끝까지 밀고 나가라는 의미로 자주 쓰입니다. 결단력과 실행력을 강조할 때 사용합니다.",
+    "etymologyKo": "commit은 라틴어 committere(맡기다, 위임하다)에서 유래했으며, 현대 영어에서는 '전념하다, 약속하다'라는 뜻으로 확장되었습니다.",
+    "nuanceKo": "단순히 계획을 세우는 것이 아니라, 그 계획을 끝까지 따르겠다는 강한 의지와 책임감을 내포합니다. 망설이는 사람에게 결단을 촉구할 때 자주 쓰입니다.",
+    "shortExampleEn": "If you want results, you have to commit to a plan and stick with it.",
+    "shortExampleKo": "결과를 원한다면, 계획에 전념하고 끝까지 밀고 나가야 해."
+  }
+}

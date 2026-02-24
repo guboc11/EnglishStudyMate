@@ -1,0 +1,30 @@
+{
+  "id": "natural-talent_c8da9c8c",
+  "expression": "natural talent",
+  "selectionMeta": {
+    "selectedPhrase": "natural talent",
+    "selectedSenseLabelKo": "타고난 재능",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Everyone could see that she had a natural talent for painting from the very first time she picked up a brush."
+  },
+  "step2": {
+    "story": "When Jake joined the basketball team as a freshman, the coach immediately noticed his natural talent for reading the court. Without any formal training, he could anticipate plays before they happened. By the end of the season, he had become the team's starting point guard.",
+    "topicTag": "sports discovery",
+    "moodTag": "impressed"
+  },
+  "step3": {
+    "story": "Mina had never taken a single cooking class in her life, but everyone in her family knew she had a natural talent in the kitchen. At age twelve, she could taste a dish once and recreate it from memory, adjusting seasonings with an instinct that surprised even her grandmother. When her school held a cooking competition, her teacher encouraged her to enter. She prepared a simple Korean stew with ingredients she found at the local market. The judges were stunned by the depth of flavor and awarded her first place. That evening, her mother smiled and said it was a gift she was born with.",
+    "topicTag": "hidden ability",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "태어날 때부터 자연스럽게 가지고 있는 재능이라는 뜻입니다.",
+    "realUsageKo": "특별히 배우거나 훈련하지 않아도 어떤 분야에서 뛰어난 능력을 보이는 사람을 묘사할 때 사용합니다. 'She has a natural talent for music'처럼 for와 함께 쓰는 경우가 많습니다.",
+    "etymologyKo": "'natural'은 라틴어 'naturalis(태어날 때부터의)'에서, 'talent'은 고대 그리스어 'talanton(무게 단위/화폐)'에서 유래했으며, 성경의 달란트 비유를 통해 '타고난 능력'이라는 의미로 확장되었습니다.",
+    "nuanceKo": "칭찬의 뉘앙스가 강하며, 노력보다는 선천적 능력을 강조합니다. 다만 상황에 따라 '노력 없이 잘한다'는 의미로 약간의 부러움이나 질투를 담을 수도 있습니다.",
+    "shortExampleEn": "He has a natural talent for languages and picked up Spanish in just three months.",
+    "shortExampleKo": "그는 언어에 타고난 재능이 있어서 단 3개월 만에 스페인어를 익혔다."
+  }
+}

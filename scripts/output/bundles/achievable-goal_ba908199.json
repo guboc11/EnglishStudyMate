@@ -1,0 +1,30 @@
+{
+  "id": "achievable-goal_ba908199",
+  "expression": "achievable goal",
+  "selectionMeta": {
+    "selectedPhrase": "achievable goal",
+    "selectedSenseLabelKo": "달성 가능한 목표",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Breaking a big project into smaller tasks makes each one feel like an achievable goal."
+  },
+  "step2": {
+    "story": "After failing her fitness plan three times, Mina decided to stop aiming for perfection. She set an achievable goal of walking just twenty minutes a day. Within a month, she had built a habit that finally stuck.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jiwon stared at the blank business plan on her screen, feeling overwhelmed by everything she needed to accomplish before the investor meeting. Her mentor sat down beside her and said the secret was to turn the impossible into something manageable. Together, they broke the entire launch into weekly milestones, each one an achievable goal that Jiwon could track on a simple whiteboard. As she checked off the first three targets ahead of schedule, her confidence grew steadily. By the time she walked into the meeting room, she spoke not about dreams but about proven progress. The investors nodded — they could see she understood how to execute.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "달성할 수 있는 목표, 즉 현실적으로 이룰 수 있는 수준의 목표를 뜻합니다.",
+    "realUsageKo": "비현실적이거나 막연한 목표가 아니라 구체적이고 실현 가능한 목표를 세울 때 사용합니다. 자기계발, 비즈니스, 교육 등 다양한 맥락에서 '현실적인 목표 설정'을 강조할 때 자주 쓰입니다.",
+    "etymologyKo": "achieve는 고대 프랑스어 achever(완수하다)에서 유래했고, goal은 중세 영어에서 경계나 한계를 뜻하던 단어에서 발전했습니다. 두 단어가 결합해 '실제로 도달할 수 있는 목표'라는 실용적 콜로케이션이 되었습니다.",
+    "nuanceKo": "단순히 '목표'가 아니라 '현실적으로 가능한' 목표라는 점을 강조하는 표현입니다. 비현실적인 목표를 비판하거나 실행 가능한 계획을 제안할 때 자주 사용되며, 긍정적이고 실용적인 뉘앙스를 갖습니다.",
+    "shortExampleEn": "Let's set an achievable goal for this quarter instead of aiming too high.",
+    "shortExampleKo": "너무 높은 걸 노리지 말고, 이번 분기에는 달성 가능한 목표를 세우자."
+  }
+}

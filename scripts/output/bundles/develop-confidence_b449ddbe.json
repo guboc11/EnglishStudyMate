@@ -1,0 +1,30 @@
+{
+  "id": "develop-confidence_b449ddbe",
+  "expression": "develop confidence",
+  "selectionMeta": {
+    "selectedPhrase": "develop confidence",
+    "selectedSenseLabelKo": "자신감을 키우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of practicing her presentations, Mia began to develop confidence in speaking in front of large audiences."
+  },
+  "step2": {
+    "story": "When Joon first joined the debate club, he could barely finish a sentence without shaking. But week after week, he prepared harder and spoke a little louder, slowly developing confidence that surprised even himself. By the end of the semester, he was volunteering to go first.",
+    "topicTag": "personal growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Lena had always been the quietest person in every meeting, nodding along while others presented ideas she had thought of first. One day her manager pulled her aside and told her bluntly that good ideas meant nothing if nobody heard them. That conversation stung, but it also lit a fire. She started raising her hand for small tasks — leading a five-minute update, then a team review, then a client call. Each time her voice shook a little less. Over those few months, Lena developed confidence not by becoming someone new, but by finally letting the person she already was speak up.",
+    "topicTag": "workplace growth",
+    "moodTag": "quietly determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신감을 발전시키다, 즉 스스로를 믿는 힘을 점진적으로 키워 나가다.",
+    "realUsageKo": "단번에 자신감이 생기는 것이 아니라, 경험과 노력을 통해 서서히 자신감을 쌓아간다는 뉘앙스로 쓰입니다. 학습, 업무, 대인관계 등 다양한 맥락에서 폭넓게 사용됩니다.",
+    "etymologyKo": "develop(발전시키다, 성장시키다)와 confidence(확신, 자신감)의 결합으로, 자신감을 하나의 기술처럼 시간에 걸쳐 길러낸다는 의미를 담고 있습니다.",
+    "nuanceKo": "gain confidence(자신감을 얻다)보다 과정과 노력의 뉘앙스가 강하며, 점진적이고 의식적인 성장을 강조할 때 자연스러운 표현입니다.",
+    "shortExampleEn": "Volunteering at local events helped her develop confidence in social situations.",
+    "shortExampleKo": "지역 행사에서 자원봉사를 하면서 그녀는 사교 상황에서의 자신감을 키울 수 있었다."
+  }
+}

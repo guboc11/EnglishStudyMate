@@ -1,0 +1,30 @@
+{
+  "id": "invaluable-experience_35bd5708",
+  "expression": "invaluable experience",
+  "selectionMeta": {
+    "selectedPhrase": "invaluable experience",
+    "selectedSenseLabelKo": "매우 귀중한 경험",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Working at the startup for two years gave her invaluable experience in managing teams under pressure."
+  },
+  "step2": {
+    "story": "After graduating, Mina took an unpaid internship at a small nonprofit overseas. The long hours and tight budgets were exhausting, but she learned to solve problems with almost no resources. Years later, she often told younger colleagues that those six months had been an invaluable experience that shaped her entire career.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Jihoon first arrived in Berlin for his exchange program, he could barely order a coffee in German. Every day felt like a struggle — navigating the subway, understanding lectures, even grocery shopping. He made mistakes constantly and sometimes wanted to give up and go home. But slowly, the city began to feel less foreign. He started making friends, joining study groups, and even volunteering at a local shelter. By the time he boarded his flight back to Seoul, he realized the past year had been an invaluable experience that no classroom could ever replicate. It had taught him not just a language, but how to be comfortable with uncertainty.",
+    "topicTag": "study abroad",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "값을 매길 수 없을 만큼 귀중한 경험이라는 뜻입니다.",
+    "realUsageKo": "어떤 경험이 돈이나 수치로 환산할 수 없을 정도로 소중하고 유익했다는 것을 강조할 때 사용합니다. 주로 과거를 돌아보며 그 경험의 가치를 높이 평가하는 맥락에서 쓰입니다.",
+    "etymologyKo": "invaluable은 'in-(부정 접두사) + valuable(가치 있는)'의 조합이지만, '가치 없는'이 아니라 오히려 '값을 매길 수 없을 만큼 가치 있는'이라는 뜻입니다. priceless와 유사한 역설적 구조를 가집니다.",
+    "nuanceKo": "격식 있고 진지한 톤으로, 단순히 '좋은 경험'보다 훨씬 깊은 감사와 존중의 뉘앙스를 담고 있습니다. 이력서, 면접, 감사 인사 등 공식적인 상황에서 자주 쓰입니다.",
+    "shortExampleEn": "Volunteering at the hospital was an invaluable experience for the medical students.",
+    "shortExampleKo": "병원에서의 봉사 활동은 의대생들에게 매우 귀중한 경험이었다."
+  }
+}

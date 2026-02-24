@@ -1,0 +1,30 @@
+{
+  "id": "define-a-problem_e1befd55",
+  "expression": "define a problem",
+  "selectionMeta": {
+    "selectedPhrase": "define a problem",
+    "selectedSenseLabelKo": "문제를 정의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before we brainstorm solutions, we need to clearly define a problem that everyone on the team agrees is worth solving."
+  },
+  "step2": {
+    "story": "The marketing team had been arguing for weeks about declining sales. Their manager finally stopped the meeting and said they needed to define a problem before jumping to conclusions. Once they narrowed it down to customer retention in the first 90 days, the path forward became much clearer.",
+    "topicTag": "teamwork",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Mia had just been promoted to lead engineer, and her first assignment was a system that crashed every other week. Everyone had opinions about what was wrong, from outdated servers to bad code. She gathered the team in a conference room and drew a blank whiteboard. \"We're not leaving until we define a problem properly,\" she announced. They spent three hours mapping every failure, tracing logs, and interviewing users. By the end of the session, they had identified that a single misconfigured load balancer was responsible for 80 percent of the outages. Mia smiled — the hard part was never fixing things; it was knowing exactly what to fix.",
+    "topicTag": "engineering leadership",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제를 명확하게 규정하고 범위를 정하다.",
+    "realUsageKo": "해결책을 찾기 전에 문제가 정확히 무엇인지 분석하고 명확히 하는 과정을 말합니다. 비즈니스, 학술, 엔지니어링 등 체계적 사고가 필요한 상황에서 자주 사용됩니다.",
+    "etymologyKo": "define은 라틴어 definire(경계를 짓다)에서 유래했으며, problem은 그리스어 problema(앞에 던져진 것)에서 왔습니다. 함께 쓰이면 '문제의 경계를 명확히 짓다'라는 의미가 됩니다.",
+    "nuanceKo": "단순히 '문제가 있다'고 인식하는 것이 아니라, 문제의 본질과 범위를 구체적으로 파악한다는 뉘앙스입니다. 논리적이고 전문적인 맥락에서 주로 쓰이며, 격식 있는 표현입니다.",
+    "shortExampleEn": "The first step in any research project is to define a problem clearly.",
+    "shortExampleKo": "모든 연구 프로젝트의 첫 번째 단계는 문제를 명확히 정의하는 것이다."
+  }
+}

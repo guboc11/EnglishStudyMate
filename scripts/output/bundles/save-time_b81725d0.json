@@ -1,0 +1,30 @@
+{
+  "id": "save-time_b81725d0",
+  "expression": "save time",
+  "selectionMeta": {
+    "selectedPhrase": "save time",
+    "selectedSenseLabelKo": "시간을 절약하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Using a meal prep routine on Sundays really helps me save time during the busy workweek."
+  },
+  "step2": {
+    "story": "Jina used to spend thirty minutes every morning deciding what to wear. She started organizing her outfits the night before to save time. Now she uses those extra minutes to enjoy a calm breakfast before heading out.",
+    "topicTag": "daily routine",
+    "moodTag": "practical"
+  },
+  "step3": {
+    "story": "When Minho joined a new startup, he quickly realized the team was drowning in repetitive tasks. Every Friday, someone spent hours manually copying data between spreadsheets. Minho wrote a simple automation script over the weekend to save time for the whole department. On Monday, what used to take three hours was done in five minutes. His manager was so impressed that she asked him to review other workflows too. That small effort to save time ended up reshaping how the entire company handled its internal processes.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "resourceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'save'는 '절약하다/아끼다', 'time'은 '시간'으로, 말 그대로 시간을 아끼다라는 뜻입니다.",
+    "realUsageKo": "어떤 방법이나 도구 덕분에 걸리는 시간이 줄어들 때 사용합니다. '이렇게 하면 시간이 절약돼'처럼 효율적인 방법을 제안하거나 설명할 때 자주 쓰입니다.",
+    "etymologyKo": "'save'는 라틴어 'salvare(구하다)'에서 유래했으며, 중세 영어에서 '보존하다, 아끼다'의 의미로 확장되었습니다. 시간이라는 추상적 자원에 적용되어 'save time'이라는 표현이 자연스럽게 정착했습니다.",
+    "nuanceKo": "일상적이고 중립적인 표현으로 격식/비격식 구분 없이 폭넓게 쓰입니다. 효율성이나 실용성을 강조할 때 자주 등장하며, 광고 문구에서도 매우 흔하게 사용됩니다.",
+    "shortExampleEn": "Ordering groceries online can save time if you have a busy schedule.",
+    "shortExampleKo": "바쁜 일정이라면 식료품을 온라인으로 주문하면 시간을 절약할 수 있어요."
+  }
+}

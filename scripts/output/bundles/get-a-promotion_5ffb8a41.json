@@ -1,0 +1,30 @@
+{
+  "id": "get-a-promotion_5ffb8a41",
+  "expression": "get a promotion",
+  "selectionMeta": {
+    "selectedPhrase": "get a promotion",
+    "selectedSenseLabelKo": "승진하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After leading the project successfully, she finally got a promotion to senior manager."
+  },
+  "step2": {
+    "story": "Kevin had been working overtime for months, hoping to get a promotion. When his boss called him into the office on Friday afternoon, his heart raced. She smiled and handed him a letter confirming his new title as team lead.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mina stared at the company org chart pinned above her desk, tracing her finger from her current position upward. She had spent two years proving herself, volunteering for the toughest assignments and mentoring new hires. Her annual review was next week, and her manager had been dropping hints that she might get a promotion. On Monday morning, an email from HR appeared in her inbox with the subject line \"Congratulations.\" She opened it with trembling hands and read that she had been promoted to assistant director. Mina leaned back in her chair, finally letting out a breath she felt she had been holding for months.",
+    "topicTag": "workplace ambition",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '승진을 얻다'로, 직장에서 더 높은 직위로 올라가는 것을 의미합니다.",
+    "realUsageKo": "직장에서 직급이나 직위가 올라갈 때 사용합니다. 단순히 직함만 바뀌는 것이 아니라 보통 급여 인상과 더 큰 책임이 따르는 경우를 포함합니다.",
+    "etymologyKo": "'promotion'은 라틴어 'promotio'(앞으로 나아감)에서 유래했으며, 'get'과 함께 쓰여 승진이라는 결과를 얻는다는 의미를 나타냅니다.",
+    "nuanceKo": "중립적이고 일상적인 표현으로, 격식체와 비격식체 모두에서 자연스럽게 쓰입니다. 'be promoted'보다 구어적이며 개인의 노력이나 성취 뉘앙스가 더 강합니다.",
+    "shortExampleEn": "He worked hard all year and finally got a promotion.",
+    "shortExampleKo": "그는 일 년 내내 열심히 일해서 마침내 승진했다."
+  }
+}

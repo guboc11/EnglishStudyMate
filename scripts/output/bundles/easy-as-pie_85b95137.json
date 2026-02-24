@@ -1,0 +1,30 @@
+{
+  "id": "easy-as-pie_85b95137",
+  "expression": "easy as pie",
+  "selectionMeta": {
+    "selectedPhrase": "easy as pie",
+    "selectedSenseLabelKo": "매우 쉬운",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't worry about the exam — the first section is easy as pie if you've been paying attention in class."
+  },
+  "step2": {
+    "story": "My coworker was panicking about the new software update, but after I showed her the basics, she laughed and said it was easy as pie. Within an hour, she was teaching other people on the team how to use it.",
+    "topicTag": "learning new skills",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "When Jake first heard he had to give a presentation to the entire department, his stomach dropped. He spent the whole weekend rehearsing in front of his mirror, timing every slide transition. But on Monday morning, something clicked. The words flowed naturally, the audience nodded along, and even the tough Q&A session felt manageable. Walking back to his desk, his manager patted him on the shoulder and said, 'See? Easy as pie.' Jake smiled, realizing all that preparation had turned something terrifying into something he actually enjoyed.",
+    "topicTag": "overcoming anxiety",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "파이처럼 쉽다는 뜻으로, 어떤 일이 매우 간단하고 수월하다는 의미입니다.",
+    "realUsageKo": "어떤 일이 예상보다 훨씬 쉬웠거나, 별로 어렵지 않을 거라고 안심시킬 때 자주 씁니다. '식은 죽 먹기'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "19세기 미국에서 유래한 표현으로, 파이를 먹는 것이 누구나 쉽게 할 수 있는 즐거운 일이라는 데서 비롯되었습니다.",
+    "nuanceKo": "일상 대화에서 가볍고 친근하게 쓰이는 표현입니다. 격식 있는 자리보다는 친구나 동료 사이에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Fixing the bike was easy as pie — I just tightened one bolt.",
+    "shortExampleKo": "자전거 수리는 식은 죽 먹기였어 — 볼트 하나만 조이면 됐거든."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "overcome-a-weakness_39ee8446",
+  "expression": "overcome a weakness",
+  "selectionMeta": {
+    "selectedPhrase": "overcome a weakness",
+    "selectedSenseLabelKo": "약점을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of practice, she finally managed to overcome a weakness in her public speaking skills."
+  },
+  "step2": {
+    "story": "Jake had always struggled with time management, constantly missing deadlines at work. Determined to change, he started using a strict scheduling system and asked his mentor for accountability check-ins. Within three months, he had overcome a weakness that had held him back for years.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina was a talented software engineer, but her fear of presenting in front of others was becoming a serious problem. Every team demo left her voice shaking and her slides rushed. One day, her manager pulled her aside and said she needed to overcome a weakness if she wanted to lead the next project. Mina signed up for a weekly speaking club and practiced in front of a mirror every night. The first few sessions were painful, but gradually her confidence grew. By the time the product launch arrived, she delivered a flawless presentation that earned a standing ovation from the entire department.",
+    "topicTag": "career development",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "약점을 극복하다, 즉 자신의 부족한 부분을 이겨내다라는 뜻입니다.",
+    "realUsageKo": "자기 계발이나 성장 맥락에서 자주 쓰이며, 단순히 약점을 숨기는 것이 아니라 노력을 통해 실제로 개선하거나 이겨낸다는 의미로 사용됩니다.",
+    "etymologyKo": "overcome은 고대 영어 ofercuman(이기다, 정복하다)에서 유래했으며, weakness는 weak(약한)에 접미사 -ness가 붙어 약한 상태를 나타냅니다.",
+    "nuanceKo": "단순히 '고치다(fix)'보다 더 적극적이고 도전적인 뉘앙스를 가지며, 상당한 노력과 의지가 수반되었음을 암시합니다. 격식체와 일상 대화 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "He worked hard to overcome a weakness in math before the final exam.",
+    "shortExampleKo": "그는 기말고사 전에 수학의 약점을 극복하기 위해 열심히 공부했다."
+  }
+}

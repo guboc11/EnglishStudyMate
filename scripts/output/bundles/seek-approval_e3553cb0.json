@@ -1,0 +1,30 @@
+{
+  "id": "seek-approval_e3553cb0",
+  "expression": "seek approval",
+  "selectionMeta": {
+    "selectedPhrase": "seek approval",
+    "selectedSenseLabelKo": "승인을 구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before launching the new marketing campaign, she had to seek approval from the board of directors."
+  },
+  "step2": {
+    "story": "James had spent three months perfecting his proposal for a flexible work policy. He knew he needed to seek approval from the senior management team before implementing any changes. With a deep breath, he walked into the conference room, ready to make his case.",
+    "topicTag": "workplace initiative",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had always been the kind of employee who took initiative, but this time the stakes were higher than ever. Her idea to restructure the entire customer support workflow could save the company thousands of hours annually. She spent weeks gathering data, building charts, and rehearsing her pitch in front of the mirror. When the day finally came to seek approval from the executive committee, her hands trembled slightly as she opened her laptop. The room fell silent as she walked them through each slide, her voice growing steadier with every point. By the end, the CEO nodded slowly and said the words she had been waiting to hear — 'Let's move forward with this.'",
+    "topicTag": "career breakthrough",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'seek'는 '찾다/구하다', 'approval'은 '승인/허락'으로, 직역하면 '승인을 구하다'입니다.",
+    "realUsageKo": "어떤 행동이나 계획을 실행하기 전에 권한이 있는 사람이나 조직에게 공식적으로 허가를 요청할 때 사용합니다. 직장, 행정, 프로젝트 관리 등 공식적인 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'seek'는 고대 영어 'sēcan(찾다, 추구하다)'에서 유래했고, 'approval'은 라틴어 'approbare(좋다고 인정하다)'에서 온 프랑스어 'approuver'에서 파생되었습니다.",
+    "nuanceKo": "'ask for permission'보다 격식 있고 공식적인 뉘앙스를 가집니다. 비즈니스, 법률, 행정 문서에서 주로 사용되며, 단순한 허락이 아닌 공식 절차를 통한 승인을 암시합니다.",
+    "shortExampleEn": "You'll need to seek approval from HR before changing the policy.",
+    "shortExampleKo": "정책을 변경하기 전에 인사팀의 승인을 받아야 합니다."
+  }
+}

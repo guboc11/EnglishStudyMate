@@ -1,0 +1,30 @@
+{
+  "id": "tremendous-effort_12e50dd0",
+  "expression": "tremendous effort",
+  "selectionMeta": {
+    "selectedPhrase": "tremendous effort",
+    "selectedSenseLabelKo": "엄청난 노력",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team put in a tremendous effort to finish the project before the deadline, working late into the night for three consecutive weeks."
+  },
+  "step2": {
+    "story": "Sarah had been training for the marathon for six months, pushing through injuries and exhaustion. On race day, she crossed the finish line with tears streaming down her face. Her coach told the crowd that it was a tremendous effort that got her there.",
+    "topicTag": "personal achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "When the startup was on the verge of bankruptcy, the small team of five developers refused to give up. They moved into the office, sleeping on air mattresses and surviving on instant noodles for weeks. Every line of code was written with desperation and hope intertwined. Their tremendous effort paid off when a major investor saw the demo and decided to fund them on the spot. The CEO later said that no amount of money could have bought the kind of dedication they showed during those dark weeks. It was a turning point that transformed a failing company into a thriving business.",
+    "topicTag": "startup resilience",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "tremendous는 '엄청난, 거대한'이라는 뜻이고, effort는 '노력'이라는 뜻으로, 합치면 '엄청난 노력'을 의미합니다.",
+    "realUsageKo": "어떤 목표를 달성하기 위해 보통 이상의 큰 에너지와 헌신을 쏟았을 때 사용합니다. 주로 그 노력의 규모나 강도를 강조하며, 결과의 성공 여부와 관계없이 과정 자체를 높이 평가할 때 씁니다.",
+    "etymologyKo": "tremendous는 라틴어 tremendus('떨릴 만한, 경외할 만한')에서 유래했으며, 원래는 '두려움을 일으키는'이라는 뜻이었으나 현대 영어에서는 '엄청난, 대단한'이라는 긍정적 의미로 주로 사용됩니다.",
+    "nuanceKo": "tremendous effort는 단순히 '많은 노력'보다 훨씬 강한 표현으로, 화자가 그 노력에 깊은 감탄이나 존경을 담고 있음을 나타냅니다. 공식적인 자리나 칭찬할 때 자주 쓰이며, 격식체와 비격식체 모두에서 자연스럽습니다.",
+    "shortExampleEn": "It took a tremendous effort, but we finally launched the product on time.",
+    "shortExampleKo": "엄청난 노력이 필요했지만, 우리는 마침내 제품을 제때 출시했다."
+  }
+}

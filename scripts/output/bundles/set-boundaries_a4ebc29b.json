@@ -1,0 +1,30 @@
+{
+  "id": "set-boundaries_a4ebc29b",
+  "expression": "set boundaries",
+  "selectionMeta": {
+    "selectedPhrase": "set boundaries",
+    "selectedSenseLabelKo": "경계를 정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of overworking, she finally learned to set boundaries with her colleagues and protect her personal time."
+  },
+  "step2": {
+    "story": "Mina used to answer work emails at midnight, until exhaustion caught up with her. One Monday morning, she told her team she would only respond during office hours. Learning to set boundaries was the hardest and best decision she ever made.",
+    "topicTag": "work-life balance",
+    "moodTag": "empowered"
+  },
+  "step3": {
+    "story": "For as long as he could remember, Joon said yes to every request — extra shifts, weekend favors, last-minute errands for friends. His calendar was everyone else's, never his own. One evening, sitting alone in a quiet café, he realized he had no energy left for the things he actually cared about. The next day, he sat down with his manager and calmly explained that he needed to set boundaries around his working hours. It felt uncomfortable at first, like he was letting people down. But within weeks, he noticed something remarkable: the people who truly respected him adjusted without complaint, and he finally had room to breathe.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'경계를 설정하다'라는 뜻으로, 자신이 허용할 수 있는 범위나 한계를 정하는 것을 의미합니다.",
+    "realUsageKo": "주로 대인관계나 업무 환경에서 자신의 시간, 에너지, 감정적 여유를 보호하기 위해 타인에게 명확한 한계를 알리는 상황에서 사용됩니다. '선을 긋다'와 비슷한 의미로 쓰입니다.",
+    "etymologyKo": "'boundary(경계)'는 라틴어 'bodina(한계)'에서 유래했으며, 'set(설정하다)'과 결합하여 심리학과 자기계발 분야에서 건강한 관계를 위한 핵심 개념으로 자리잡았습니다.",
+    "nuanceKo": "단순히 거절하는 것이 아니라, 자기 존중과 건강한 관계 유지를 위한 긍정적이고 성숙한 행동으로 인식됩니다. 격식체와 일상 대화 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "It's okay to set boundaries — you don't have to please everyone.",
+    "shortExampleKo": "경계를 정해도 괜찮아요 — 모든 사람을 만족시킬 필요는 없습니다."
+  }
+}

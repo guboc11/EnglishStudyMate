@@ -1,0 +1,30 @@
+{
+  "id": "have-a-dream_daff6981",
+  "expression": "have a dream",
+  "selectionMeta": {
+    "selectedPhrase": "have a dream",
+    "selectedSenseLabelKo": "꿈을 꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I had a dream last night that I was flying over the ocean."
+  },
+  "step2": {
+    "story": "Mina had a dream about visiting Paris with her best friend. When she woke up, the feeling of walking along the Seine was still vivid in her mind. She smiled and decided to start saving for the trip.",
+    "topicTag": "travel aspirations",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Joon had been exhausted from studying for his final exams all week. That night, he fell asleep at his desk and had a dream that changed everything. In the dream, he was standing on a stage receiving an award for his research. The audience was clapping, and his parents were in the front row, beaming with pride. When he woke up the next morning, the dream lingered in his chest like a warm promise. He grabbed his textbook with new energy, feeling that the future he imagined might actually be within reach.",
+    "topicTag": "academic motivation",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "잠을 자는 동안 머릿속에서 이미지나 이야기가 펼쳐지는 경험을 하다.",
+    "realUsageKo": "밤에 잠을 자면서 꿈을 꾸었다는 뜻으로 일상 대화에서 자주 쓰입니다. 'dream'이라는 명사를 목적어로 취하는 가장 기본적인 표현입니다.",
+    "etymologyKo": "'dream'은 고대 영어 'drēam'(기쁨, 음악)에서 유래했으며, 중세 영어 시기에 '잠자는 동안의 환상'이라는 현재 의미로 변화했습니다.",
+    "nuanceKo": "수면 중의 꿈을 이야기할 때 쓰는 중립적이고 일상적인 표현입니다. 'have a dream about ~'처럼 전치사 about과 함께 꿈의 내용을 설명하는 경우가 많습니다.",
+    "shortExampleEn": "I had a dream about my childhood home last night.",
+    "shortExampleKo": "어젯밤에 어릴 때 살던 집에 대한 꿈을 꿨어."
+  }
+}

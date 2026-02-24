@@ -1,0 +1,30 @@
+{
+  "id": "recognize-achievement_1d6b99c2",
+  "expression": "recognize achievement",
+  "selectionMeta": {
+    "selectedPhrase": "recognize achievement",
+    "selectedSenseLabelKo": "성과를 인정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company held a special ceremony to recognize achievement across all departments."
+  },
+  "step2": {
+    "story": "After months of grueling overtime, the project team finally launched the new platform on schedule. At the quarterly meeting, the CEO stood up to recognize achievement and called each member by name. The room erupted in applause, and for the first time in weeks, everyone felt their effort had truly mattered.",
+    "topicTag": "workplace recognition",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "Mina had been teaching at a small rural school for over a decade, often buying supplies with her own money. One ordinary Tuesday, the principal called an assembly and invited a guest from the regional education board. The guest explained that the board wanted to recognize achievement in underserved communities and had selected Mina's school as this year's recipient. Mina's hands trembled as she accepted the plaque, her students cheering from the front rows. Later that evening, she placed the award on her kitchen shelf next to a faded photo of her first class. She realized that sometimes the world does notice the quiet work done far from the spotlight.",
+    "topicTag": "education dedication",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "성과(achievement)를 인정하다(recognize), 즉 누군가의 업적이나 결과를 공식적으로 알아주는 것을 의미합니다.",
+    "realUsageKo": "직장, 학교, 단체 등에서 누군가의 노력이나 성과를 공개적으로 칭찬하거나 상을 주는 상황에서 자주 쓰입니다. 단순히 '잘했다'가 아니라 공식적·체계적으로 인정한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "recognize는 라틴어 recognoscere(다시 알다)에서 유래했고, achievement는 고대 프랑스어 achever(완수하다)에서 왔습니다. 두 단어가 결합하여 '이룬 것을 제대로 알아보다'라는 의미를 형성합니다.",
+    "nuanceKo": "비공식적인 칭찬보다는 시상식, 공식 발표, 조직 차원의 인정 등 격식 있는 맥락에서 주로 사용됩니다. 긍정적이고 존중하는 톤을 담고 있습니다.",
+    "shortExampleEn": "We should recognize achievement wherever we see it, not just at year-end reviews.",
+    "shortExampleKo": "연말 평가 때만이 아니라, 성과를 볼 때마다 인정해 주어야 합니다."
+  }
+}

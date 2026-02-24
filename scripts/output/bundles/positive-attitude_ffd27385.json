@@ -1,0 +1,30 @@
+{
+  "id": "positive-attitude_ffd27385",
+  "expression": "positive attitude",
+  "selectionMeta": {
+    "selectedPhrase": "positive attitude",
+    "selectedSenseLabelKo": "긍정적인 태도",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her positive attitude during the difficult project inspired the entire team to keep pushing forward."
+  },
+  "step2": {
+    "story": "When the startup lost its biggest client, most of the team felt defeated. But Jina kept a positive attitude, reminding everyone that setbacks are just setups for comebacks. Within a month, her optimism helped the team land three new clients.",
+    "topicTag": "workplace resilience",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "David had been rejected from twelve job interviews in a row, and his confidence was at an all-time low. His older sister sat him down one evening and told him that talent alone doesn't open doors — a positive attitude does. At first, he thought it was just empty advice, but he decided to try approaching his next interview differently. Instead of dwelling on past failures, he walked in with genuine enthusiasm and curiosity about the company. The interviewer later told him that his energy stood out among all the candidates. That single shift in mindset not only got him the job but changed how he faced challenges from that day on.",
+    "topicTag": "job searching",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "긍정적인(positive) 태도(attitude), 즉 상황을 밝고 낙관적으로 바라보는 마음가짐을 뜻합니다.",
+    "realUsageKo": "어려운 상황에서도 희망적이고 건설적인 자세를 유지하는 것을 강조할 때 사용합니다. 직장, 학교, 인간관계 등 다양한 상황에서 '긍정적으로 임하다'라는 의미로 널리 쓰입니다.",
+    "etymologyKo": "'positive'는 라틴어 'positivus(확실한, 명확한)'에서 유래했고, 'attitude'는 프랑스어 'attitude(자세, 태도)'에서 왔습니다. 두 단어가 결합되어 '확신에 찬 밝은 태도'라는 의미의 일상적 연어가 되었습니다.",
+    "nuanceKo": "단순히 기분이 좋다는 뜻이 아니라, 의식적으로 낙관적 관점을 선택한다는 능동적 뉘앙스가 있습니다. 자기계발, 비즈니스, 교육 맥락에서 특히 자주 쓰이며 격려나 조언의 톤으로 사용되는 경우가 많습니다.",
+    "shortExampleEn": "Maintaining a positive attitude can make even the toughest days more manageable.",
+    "shortExampleKo": "긍정적인 태도를 유지하면 아무리 힘든 날도 견딜 만해집니다."
+  }
+}

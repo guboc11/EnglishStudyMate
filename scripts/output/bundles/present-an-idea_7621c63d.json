@@ -1,0 +1,30 @@
+{
+  "id": "present-an-idea_7621c63d",
+  "expression": "present an idea",
+  "selectionMeta": {
+    "selectedPhrase": "present an idea",
+    "selectedSenseLabelKo": "아이디어를 발표하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the team meeting, Sarah stood up to present an idea for improving customer satisfaction."
+  },
+  "step2": {
+    "story": "Marcus had been thinking about a better workflow for weeks. When his manager asked for suggestions, he seized the moment to present an idea that could save the team hours of repetitive work. His colleagues listened carefully, and several of them nodded in agreement.",
+    "topicTag": "workplace innovation",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Jenna had always been the quiet one in the marketing department, preferring to observe rather than speak up. But after noticing a gap in their social media strategy, she spent an entire weekend preparing slides and rehearsing her pitch. On Monday morning, she walked into the conference room and asked for five minutes to present an idea she believed could double their online engagement. Her voice trembled at first, but as she explained each point, the room grew silent with interest. The director leaned forward and said it was the most original proposal he had heard all quarter. By the end of the week, Jenna was leading a new project team.",
+    "topicTag": "professional growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "아이디어를 제시하다, 생각을 발표하다라는 뜻입니다.",
+    "realUsageKo": "회의, 프레젠테이션, 토론 등에서 자신의 생각이나 제안을 공식적으로 또는 비공식적으로 다른 사람들에게 설명할 때 사용합니다. 단순히 말하는 것보다 체계적으로 전달한다는 뉘앙스가 있습니다.",
+    "etymologyKo": "present는 라틴어 praesentare(앞에 놓다, 보여주다)에서 유래했으며, idea는 그리스어 idea(형태, 개념)에서 왔습니다. 합쳐서 '생각을 앞에 내놓다'라는 의미입니다.",
+    "nuanceKo": "casual한 'share an idea'보다 좀 더 공식적이고 준비된 느낌을 줍니다. 비즈니스 환경에서 자주 쓰이며, 자신감 있게 제안한다는 인상을 줍니다.",
+    "shortExampleEn": "He presented an idea to reduce costs by switching suppliers.",
+    "shortExampleKo": "그는 공급업체를 바꿔서 비용을 절감하자는 아이디어를 발표했다."
+  }
+}

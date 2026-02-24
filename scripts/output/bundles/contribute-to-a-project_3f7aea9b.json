@@ -1,0 +1,30 @@
+{
+  "id": "contribute-to-a-project_3f7aea9b",
+  "expression": "contribute to a project",
+  "selectionMeta": {
+    "selectedPhrase": "contribute to a project",
+    "selectedSenseLabelKo": "프로젝트에 기여하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was eager to contribute to a project that could make a real difference in the community."
+  },
+  "step2": {
+    "story": "Mark had been working solo for months, but he finally found an open-source team that matched his skills. He decided to contribute to a project building free educational tools for underserved schools. Within weeks, his code was helping thousands of students access lessons they never had before.",
+    "topicTag": "volunteering",
+    "moodTag": "purposeful"
+  },
+  "step3": {
+    "story": "After years of climbing the corporate ladder, Jina felt something was missing. One evening, she stumbled upon a nonprofit developing clean water systems for rural villages. She reached out to the lead engineer and offered to contribute to a project designing portable filtration units. At first, the team was skeptical — corporate engineers rarely stuck around. But Jina showed up every weekend, refining blueprints and running field tests. By the end of the year, three villages had clean drinking water, and Jina had found the fulfillment no promotion ever gave her.",
+    "topicTag": "social impact",
+    "moodTag": "fulfilling"
+  },
+  "meaning": {
+    "literalMeaningKo": "프로젝트에 무언가를 보태다, 기여하다라는 뜻입니다.",
+    "realUsageKo": "특정 프로젝트나 공동 작업에 자신의 시간, 기술, 노력 등을 투입하여 도움을 줄 때 사용합니다. 업무, 오픈소스, 자원봉사 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "contribute는 라틴어 'contribuere(함께 가져오다)'에서 유래했으며, con-(함께) + tribuere(주다, 할당하다)의 결합입니다.",
+    "nuanceKo": "단순히 참여하는 것이 아니라, 실질적인 가치를 보태는 느낌이 있습니다. 수동적 참여보다는 능동적이고 의미 있는 기여를 강조하는 표현입니다.",
+    "shortExampleEn": "Everyone on the team contributed to a project that launched ahead of schedule.",
+    "shortExampleKo": "팀의 모든 사람이 프로젝트에 기여하여 예정보다 일찍 출시할 수 있었다."
+  }
+}

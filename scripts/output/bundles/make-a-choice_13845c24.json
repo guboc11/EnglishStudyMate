@@ -1,0 +1,30 @@
+{
+  "id": "make-a-choice_13845c24",
+  "expression": "make a choice",
+  "selectionMeta": {
+    "selectedPhrase": "make a choice",
+    "selectedSenseLabelKo": "선택을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After looking at the menu for ten minutes, she finally had to make a choice between the pasta and the salad."
+  },
+  "step2": {
+    "story": "Daniel stood at the crossroads, staring at two very different job offers. One promised a high salary in a big city, and the other offered a peaceful life near his family. He knew he had to make a choice before the weekend.",
+    "topicTag": "career decision",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mina had been accepted to two universities — one in Seoul and one in London. For weeks, she made lists of pros and cons, talked to her parents, and asked friends for advice. Every morning she woke up leaning toward a different answer. Her father told her that sometimes you just have to make a choice and trust yourself. On the last night before the deadline, she sat alone in her room, closed her eyes, and finally felt which path was right. She submitted her acceptance to London and smiled, knowing the hardest part was already behind her.",
+    "topicTag": "life-changing decision",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'선택을 만들다'라는 뜻으로, 여러 가지 옵션 중에서 하나를 결정하는 행위를 의미합니다.",
+    "realUsageKo": "일상에서 크고 작은 결정을 내릴 때 폭넓게 사용됩니다. 'decide'보다 선택의 과정과 행위 자체에 초점을 두며, 여러 대안 사이에서 고민하는 뉘앙스가 있습니다.",
+    "etymologyKo": "'make'는 '만들다/행하다'의 의미이고, 'choice'는 고대 프랑스어 'chois'에서 유래한 단어로 '고르다'라는 뜻입니다. 영어에서는 'choose'라는 동사 대신 'make a choice'라는 연어 표현으로 명사화하여 자주 사용합니다.",
+    "nuanceKo": "격식적이지도, 비격식적이지도 않은 중립적인 표현입니다. 일상 대화부터 공식적인 상황까지 두루 쓸 수 있으며, 선택이 쉽지 않은 상황에서 '결단을 내리다'의 느낌으로도 사용됩니다.",
+    "shortExampleEn": "You need to make a choice — we can't wait any longer.",
+    "shortExampleKo": "선택을 해야 해 — 더 이상 기다릴 수 없어."
+  }
+}

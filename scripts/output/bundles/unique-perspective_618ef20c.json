@@ -1,0 +1,30 @@
+{
+  "id": "unique-perspective_618ef20c",
+  "expression": "unique perspective",
+  "selectionMeta": {
+    "selectedPhrase": "unique perspective",
+    "selectedSenseLabelKo": "독특한 관점",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her travels through rural villages gave her a unique perspective on how communities can thrive without modern technology."
+  },
+  "step2": {
+    "story": "Maya had spent ten years working in both Tokyo and a small fishing village in Portugal. When her company asked her to redesign their global marketing strategy, she brought a unique perspective that no one else on the team could offer. Her ideas blended minimalism with warmth, and the campaign became their most successful ever.",
+    "topicTag": "career growth",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Daniel had always felt like an outsider growing up between two cultures. His Korean mother and Canadian father raised him in a household where kimchi sat next to maple syrup on the dinner table. At university, while his classmates debated issues from a single cultural lens, Daniel naturally saw multiple sides of every argument. His professor once told him that his unique perspective was his greatest asset. Years later, as a documentary filmmaker, Daniel created stories that bridged worlds others never thought to connect. He realized that the very thing that once made him feel different had become the source of his strength.",
+    "topicTag": "identity",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람과 다른, 그 사람만의 독특한 시각이나 관점을 의미합니다.",
+    "realUsageKo": "어떤 사람이 남다른 경험이나 배경 덕분에 특별한 시각을 가지고 있을 때 사용합니다. 주로 긍정적인 뉘앙스로, 그 사람의 관점이 가치 있다는 의미를 담고 있습니다.",
+    "etymologyKo": "'unique'는 라틴어 'unicus(유일한)'에서 유래했고, 'perspective'는 라틴어 'perspicere(꿰뚫어 보다)'에서 왔습니다. 두 단어가 결합하여 '유일무이한 시각'이라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 '다른 의견'이 아니라, 그 사람의 고유한 경험과 배경에서 비롯된 깊이 있는 시각을 강조할 때 씁니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Growing up abroad gave me a unique perspective on my own country.",
+    "shortExampleKo": "해외에서 자란 경험이 내 나라에 대한 독특한 관점을 갖게 해주었다."
+  }
+}

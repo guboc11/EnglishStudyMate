@@ -1,0 +1,30 @@
+{
+  "id": "have-courage_899db6da",
+  "expression": "have courage",
+  "selectionMeta": {
+    "selectedPhrase": "have courage",
+    "selectedSenseLabelKo": "용기가 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You have to have courage to speak up when everyone else stays silent."
+  },
+  "step2": {
+    "story": "Mina noticed her coworker being unfairly blamed during the meeting. She knew she had to have courage and tell the truth, even if it meant disagreeing with her boss. After she spoke up, the room fell quiet, but her coworker mouthed a grateful 'thank you.'",
+    "topicTag": "workplace fairness",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jaeho had always dreamed of opening his own bakery, but everyone around him said it was too risky. For months, he stayed at his stable office job, quietly sketching recipes in his notebook during lunch breaks. One rainy evening, he walked past an empty storefront with a 'For Lease' sign and felt something shift inside him. He realized he would never forgive himself if he didn't at least try. He told himself he needed to have courage and trust the years of preparation he'd put in. The next morning, he handed in his resignation and signed the lease before doubt could catch up.",
+    "topicTag": "following dreams",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'용기를 가지다'라는 뜻으로, 두려운 상황에서도 담대한 마음을 갖는 것을 의미합니다.",
+    "realUsageKo": "어렵거나 두려운 상황에서 용기를 내어 행동하라고 격려할 때 자주 사용합니다. 'Have courage to ~' 형태로 '~할 용기를 가져라'라는 의미로도 많이 쓰입니다.",
+    "etymologyKo": "'Courage'는 라틴어 'cor(심장)'에서 유래한 프랑스어 'corage'에서 왔으며, 원래 '마음속 생각이나 감정'을 뜻했으나 점차 '용감함'이라는 의미로 변화했습니다.",
+    "nuanceKo": "격식적이지도 비격식적이지도 않은 중립적 표현으로, 일상 대화부터 격려의 말, 연설까지 폭넓게 쓰입니다. 'Be brave'보다 조금 더 내면의 결단을 강조하는 뉘앙스가 있습니다.",
+    "shortExampleEn": "Have courage — the first step is always the hardest.",
+    "shortExampleKo": "용기를 가져 — 첫걸음이 항상 가장 어려운 법이야."
+  }
+}

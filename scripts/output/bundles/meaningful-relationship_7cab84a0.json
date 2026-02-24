@@ -1,0 +1,30 @@
+{
+  "id": "meaningful-relationship_7cab84a0",
+  "expression": "meaningful relationship",
+  "selectionMeta": {
+    "selectedPhrase": "meaningful relationship",
+    "selectedSenseLabelKo": "의미 있는 관계",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of casual acquaintances, she finally built a meaningful relationship with someone who truly understood her."
+  },
+  "step2": {
+    "story": "Jake had hundreds of contacts on his phone, but none he could call at 2 a.m. When he joined a small hiking group, he met Sora, and their shared love of mountain trails grew into a meaningful relationship that went far beyond small talk. For the first time in years, he felt genuinely known.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Elena moved to a new city for work and spent her first six months eating dinner alone every night. She smiled at coworkers in the hallway but never lingered long enough to really connect. One rainy evening, her neighbor knocked on her door with an extra plate of homemade pasta and an honest confession: 'I'm lonely too.' That small act of vulnerability opened something in both of them, and over the following months they developed a meaningful relationship built on trust and shared honesty. They started cooking together on weekends, trading stories about their families back home. Elena realized that a meaningful relationship doesn't require years — it requires the courage to be real.",
+    "topicTag": "human connection",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'의미가 있는 관계'라는 뜻으로, 단순한 안면 관계가 아닌 깊이와 가치가 있는 인간관계를 가리킵니다.",
+    "realUsageKo": "피상적이지 않고 서로에게 진정한 영향을 주는 관계를 표현할 때 씁니다. 연인뿐 아니라 친구, 동료, 멘토 등 모든 종류의 깊은 관계에 폭넓게 사용됩니다.",
+    "etymologyKo": "'meaningful'은 'meaning(의미)'에 '-ful(가득한)'이 결합한 형용사이고, 'relationship'은 'relate(관련짓다)'에서 파생된 명사입니다. 두 단어가 결합해 '의미로 가득 찬 관계'라는 뜻의 자연스러운 연어가 되었습니다.",
+    "nuanceKo": "격식과 비격식 모두에서 쓰이며, 단순히 '좋은 관계'보다 더 깊고 진지한 느낌을 줍니다. 자기계발, 심리 상담, 일상 대화 등 다양한 맥락에서 긍정적인 뉘앙스로 사용됩니다.",
+    "shortExampleEn": "Building a meaningful relationship takes time and mutual effort.",
+    "shortExampleKo": "의미 있는 관계를 쌓으려면 시간과 서로의 노력이 필요합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "avoid-conflict_412ad356",
+  "expression": "avoid conflict",
+  "selectionMeta": {
+    "selectedPhrase": "avoid conflict",
+    "selectedSenseLabelKo": "갈등을 피하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She tends to avoid conflict by agreeing with everyone, even when she has a different opinion."
+  },
+  "step2": {
+    "story": "Mina noticed her coworker taking credit for her idea during the meeting. She wanted to speak up, but her instinct to avoid conflict kept her silent. Later that evening, she realized that staying quiet had only made her feel worse.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Growing up, Jaeho watched his parents argue almost every night. The shouting and slamming doors left a deep mark on him. As an adult, he developed a habit of doing anything to avoid conflict — changing the subject, giving in, even leaving the room mid-conversation. His girlfriend, Soyeon, found it frustrating. One evening, she sat him down and said, \"Avoiding every disagreement doesn't protect us. It just builds a wall between us.\" That night, for the first time, Jaeho stayed and shared how he truly felt.",
+    "topicTag": "relationships",
+    "moodTag": "vulnerable"
+  },
+  "meaning": {
+    "literalMeaningKo": "갈등(conflict)을 피하다(avoid)라는 뜻으로, 의견 충돌이나 다툼이 생기지 않도록 행동하는 것을 의미합니다.",
+    "realUsageKo": "대립이나 논쟁 상황을 의도적으로 회피하거나, 마찰을 줄이기 위해 양보하거나 침묵하는 행동을 묘사할 때 사용합니다. 직장, 가정, 인간관계 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "avoid는 라틴어 'evitare(피하다)'에서 유래했고, conflict는 라틴어 'confligere(충돌하다)'에서 왔습니다. 두 단어가 결합하여 '충돌을 피하다'라는 직관적인 연어 표현이 되었습니다.",
+    "nuanceKo": "중립적인 표현이지만, 문맥에 따라 '현명한 처세'로 긍정적으로 쓰이기도 하고, '문제를 회피한다'는 부정적인 뉘앙스로 쓰이기도 합니다. 특히 심리학이나 인간관계 맥락에서는 건강하지 못한 대처 방식을 암시하는 경우가 많습니다.",
+    "shortExampleEn": "He always tries to avoid conflict, but sometimes you need to stand your ground.",
+    "shortExampleKo": "그는 항상 갈등을 피하려 하지만, 때로는 자기 입장을 지켜야 할 때도 있다."
+  }
+}

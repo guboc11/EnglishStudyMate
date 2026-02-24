@@ -1,0 +1,30 @@
+{
+  "id": "get-your-act-together_9f72b1ae",
+  "expression": "get your act together",
+  "selectionMeta": {
+    "selectedPhrase": "get your act together",
+    "selectedSenseLabelKo": "정신을 차리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you don't get your act together before the final exams, you're going to fail every single class."
+  },
+  "step2": {
+    "story": "Jake had been showing up late to work every day for two weeks straight. His manager finally pulled him aside and said, \"You need to get your act together, or we'll have to let you go.\" That night, Jake set three alarms and laid out his clothes before bed.",
+    "topicTag": "work discipline",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Mia stared at the pile of unpaid bills on her kitchen table and felt her stomach drop. She had been ignoring her responsibilities for months, spending every weekend out with friends instead of dealing with reality. Her older sister sat down across from her and said gently, \"Mia, I love you, but you really need to get your act together before things get worse.\" The words stung, but deep down Mia knew she was right. That Sunday, she canceled her plans, made a budget spreadsheet, and called the landlord to set up a payment plan. It wasn't easy, but for the first time in a long while, she felt like she was back in control.",
+    "topicTag": "personal responsibility",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '네 연기(공연)를 정리해라'라는 뜻입니다.",
+    "realUsageKo": "실제로는 '정신 차려', '제대로 해'라는 의미로, 누군가가 무책임하거나 엉망인 상태일 때 스스로를 추스르고 제대로 행동하라고 촉구할 때 사용합니다.",
+    "etymologyKo": "원래 무대 공연에서 유래한 표현으로, 배우나 공연자가 무대에서 엉망인 퍼포먼스를 보일 때 '공연을 제대로 정리하라'는 뜻에서 시작되었습니다.",
+    "nuanceKo": "다소 직접적이고 강한 어조의 표현으로, 친한 사이나 상사가 부하 직원에게 쓸 수 있습니다. 격려보다는 경고의 느낌이 강합니다.",
+    "shortExampleEn": "You'd better get your act together if you want to keep this job.",
+    "shortExampleKo": "이 직장을 계속 다니고 싶으면 정신 좀 차려."
+  }
+}

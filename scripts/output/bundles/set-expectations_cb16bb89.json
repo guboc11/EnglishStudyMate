@@ -1,0 +1,30 @@
+{
+  "id": "set-expectations_cb16bb89",
+  "expression": "set expectations",
+  "selectionMeta": {
+    "selectedPhrase": "set expectations",
+    "selectedSenseLabelKo": "기대를 설정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before we start this project, let's set expectations so everyone knows what we're aiming for."
+  },
+  "step2": {
+    "story": "On her first day as team lead, Mina gathered everyone in the conference room. She wanted to set expectations early — deadlines would be firm, but she promised to support anyone who needed help. By the end of the week, the team felt more aligned than they had in months.",
+    "topicTag": "leadership",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Jason had been freelancing for three years, but he kept running into the same problem: clients who wanted everything done yesterday for almost nothing. After losing another project to scope creep, he decided things had to change. He rewrote his onboarding email to set expectations from the very first conversation — timelines, revision limits, and payment terms, all laid out clearly. The next client who reached out read the email carefully and agreed to every term without pushback. Jason realized that being upfront didn't scare people away; it attracted the right ones. For the first time in years, he felt in control of his own work.",
+    "topicTag": "freelancing",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'기대를 설정하다'라는 뜻으로, 어떤 일이나 상황에서 예상되는 결과나 기준을 미리 정하는 것을 의미합니다.",
+    "realUsageKo": "업무, 관계, 프로젝트 등에서 서로가 무엇을 기대할 수 있는지 미리 명확하게 알려줄 때 사용합니다. '기대치를 조율하다', '사전에 기준을 잡다'에 가까운 표현입니다.",
+    "etymologyKo": "'set'은 '정하다/놓다', 'expectations'는 '기대/예상'을 뜻하는 단어의 조합으로, 비즈니스와 일상 커뮤니케이션 모두에서 널리 쓰이는 콜로케이션입니다.",
+    "nuanceKo": "단순히 기대를 말하는 것이 아니라, 상대방과 나 사이에 현실적인 기준선을 합의한다는 뉘앙스가 있습니다. 프로페셔널하고 성숙한 커뮤니케이션을 나타내는 표현입니다.",
+    "shortExampleEn": "It's important to set expectations with new clients from day one.",
+    "shortExampleKo": "새로운 고객과는 첫날부터 기대치를 설정하는 것이 중요합니다."
+  }
+}

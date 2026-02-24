@@ -1,0 +1,30 @@
+{
+  "id": "up-and-coming_95e25ea5",
+  "expression": "up and coming",
+  "selectionMeta": {
+    "selectedPhrase": "up and coming",
+    "selectedSenseLabelKo": "전도유망한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She's an up and coming designer who just landed her first major fashion show in Milan."
+  },
+  "step2": {
+    "story": "Jordan had been posting his music online for two years with barely any listeners. Then a famous producer shared one of his tracks, calling him an up and coming talent to watch. Within a week, three record labels reached out with contract offers.",
+    "topicTag": "career breakthrough",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "The small neighborhood bakery had always been quiet, known only to a handful of loyal regulars. But when a food blogger featured it in a viral post, everything changed overnight. Suddenly, lines stretched around the block every morning, and national magazines were calling the owner an up and coming star of the pastry world. She hired two more bakers and expanded the menu, adding croissants and sourdough alongside her signature cinnamon rolls. Local news crews showed up, and investors offered to help her open a second location. It was surreal—just six months ago, she had worried about making rent.",
+    "topicTag": "unexpected success",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "'위로 올라오고 있는'이라는 뜻으로, 말 그대로 위를 향해 다가오고 있다는 의미입니다.",
+    "realUsageKo": "어떤 분야에서 빠르게 성장하며 곧 큰 성공을 거둘 것으로 기대되는 사람이나 대상을 묘사할 때 사용합니다. '촉망받는', '떠오르는'과 비슷한 의미입니다.",
+    "etymologyKo": "19세기 초 영어에서 유래했으며, 사회적·직업적으로 '올라오고 있는(up)' 동시에 '다가오고 있는(coming)' 상태를 결합한 표현입니다.",
+    "nuanceKo": "긍정적이고 기대감을 담은 표현으로, 아직 정상에 오르지는 않았지만 잠재력과 성장세가 뚜렷한 대상에게 씁니다. 격식·비격식 모두 자연스럽게 쓸 수 있습니다.",
+    "shortExampleEn": "Keep an eye on this up and coming tech startup—they're doing impressive things.",
+    "shortExampleKo": "이 떠오르는 기술 스타트업을 주목하세요—인상적인 일들을 해내고 있습니다."
+  }
+}

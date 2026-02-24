@@ -1,0 +1,30 @@
+{
+  "id": "complete-a-task_8f60479e",
+  "expression": "complete a task",
+  "selectionMeta": {
+    "selectedPhrase": "complete a task",
+    "selectedSenseLabelKo": "과제를 완료하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to complete a task that had been sitting on her to-do list for over a week."
+  },
+  "step2": {
+    "story": "Kevin stared at the project outline pinned above his desk. He had been putting it off for days, but the deadline was tomorrow morning. Taking a deep breath, he finally sat down and managed to complete a task he had been dreading all week.",
+    "topicTag": "procrastination",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Mina had just started her new job at a marketing agency, and her manager assigned her a client report on her very first day. The spreadsheet was dense with numbers she barely understood, and she felt completely overwhelmed. She stayed an extra hour after everyone left, cross-checking figures and formatting charts one by one. When she finally managed to complete a task that seemed impossible just hours earlier, she leaned back in her chair and exhaled. Her manager walked by, glanced at the screen, and gave her a small nod of approval. It was a tiny victory, but it made her feel like she truly belonged there.",
+    "topicTag": "new job challenges",
+    "moodTag": "accomplished"
+  },
+  "meaning": {
+    "literalMeaningKo": "주어진 과제나 업무를 끝까지 마무리하다라는 뜻입니다.",
+    "realUsageKo": "직장, 학교, 일상에서 맡은 일을 성공적으로 끝냈을 때 폭넓게 사용됩니다. 'finish a task'보다 좀 더 격식 있고, 모든 요구사항을 충족시켜 마무리했다는 뉘앙스가 있습니다.",
+    "etymologyKo": "'complete'는 라틴어 'completus(채워진, 완성된)'에서 유래했으며, 'task'는 중세 영어에서 '부과된 일'을 뜻하는 단어에서 왔습니다. 두 단어가 결합해 '주어진 일을 빠짐없이 완수하다'라는 의미를 형성합니다.",
+    "nuanceKo": "'finish a task'가 단순히 끝냈다는 의미라면, 'complete a task'는 요구된 기준을 충족하며 제대로 마무리했다는 느낌을 줍니다. 업무 보고나 공식적인 상황에서 더 자주 쓰입니다.",
+    "shortExampleEn": "I need to complete a task before I can leave the office today.",
+    "shortExampleKo": "오늘 퇴근하기 전에 업무를 하나 마무리해야 해요."
+  }
+}

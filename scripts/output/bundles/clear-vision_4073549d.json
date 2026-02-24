@@ -1,0 +1,30 @@
+{
+  "id": "clear-vision_4073549d",
+  "expression": "clear vision",
+  "selectionMeta": {
+    "selectedPhrase": "clear vision",
+    "selectedSenseLabelKo": "명확한 비전",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new CEO laid out a clear vision for the company's future, inspiring every team member to align their efforts."
+  },
+  "step2": {
+    "story": "After months of confusion and declining morale, the department desperately needed direction. When Sarah was promoted to lead the team, she immediately presented a clear vision that united everyone around a shared goal. Within weeks, productivity soared and the team felt energized again.",
+    "topicTag": "leadership",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "James had been drifting through his twenties without much purpose, jumping from one job to the next. One rainy evening, he sat in a quiet café and wrote down everything he truly cared about. For the first time, a clear vision of his future began to take shape in his mind. He wanted to build a nonprofit that taught coding to underprivileged youth. The next morning, he quit his dead-end sales job and enrolled in a project management course. It was terrifying, but having a clear vision gave him the courage to take that first step.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'clear vision'은 직역하면 '선명한 시야' 또는 '명확한 비전'이라는 뜻입니다.",
+    "realUsageKo": "실제로는 미래에 대한 뚜렷하고 구체적인 계획이나 방향성을 의미할 때 주로 사용됩니다. 리더십, 자기계발, 비즈니스 맥락에서 '앞으로 나아갈 길을 명확히 알고 있다'는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "'vision'은 라틴어 'visio(보는 것)'에서 유래했으며, 14세기경부터 '미래를 내다보는 통찰력'이라는 비유적 의미로 확장되었습니다. 'clear'와 결합하여 '흐릿하지 않은, 확실한 미래상'을 강조합니다.",
+    "nuanceKo": "단순히 '계획이 있다'보다 더 강한 표현으로, 확신과 방향성이 뚜렷하다는 긍정적인 뉘앙스를 담고 있습니다. 리더나 성공한 사람을 묘사할 때 자주 쓰이는 칭찬의 표현이기도 합니다.",
+    "shortExampleEn": "A leader with a clear vision can guide a team through any challenge.",
+    "shortExampleKo": "명확한 비전을 가진 리더는 어떤 도전도 팀을 이끌어 헤쳐나갈 수 있다."
+  }
+}

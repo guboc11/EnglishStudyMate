@@ -1,0 +1,30 @@
+{
+  "id": "personal-growth_aaa84f9f",
+  "expression": "personal growth",
+  "selectionMeta": {
+    "selectedPhrase": "personal growth",
+    "selectedSenseLabelKo": "개인적 성장",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of therapy and self-reflection, she realized that personal growth often comes from embracing discomfort rather than avoiding it."
+  },
+  "step2": {
+    "story": "Jake had always stayed in his comfort zone, choosing familiar routines over new challenges. But when he signed up for a public speaking course, he discovered that personal growth meant pushing past the fear that had held him back for so long. By the end of the semester, he was volunteering to speak first.",
+    "topicTag": "self-improvement",
+    "moodTag": "empowering"
+  },
+  "step3": {
+    "story": "Mina stared at the journal entry she had written exactly one year ago. Back then, she was terrified of living alone in a foreign country and questioned every decision she made. She had cried on the phone to her mother almost every night during those first few weeks. But somewhere between learning to cook her own meals and navigating a new city without GPS, something shifted inside her. Now, sitting in her small apartment in Berlin, she understood that personal growth wasn't a single dramatic moment — it was the quiet accumulation of all those uncomfortable firsts. She smiled, closed the journal, and opened a blank page for today.",
+    "topicTag": "independence",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "개인적인(personal) 성장(growth)으로, 한 사람이 내면적으로 발전하고 성숙해지는 과정을 뜻합니다.",
+    "realUsageKo": "자기 계발, 정서적 성숙, 새로운 능력 습득 등 개인이 더 나은 사람으로 변화해 가는 전반적인 과정을 가리킬 때 사용합니다. 직장, 인간관계, 자기 이해 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'personal'은 라틴어 'personalis(개인의)'에서, 'growth'는 고대 영어 'growan(자라다)'에서 유래했습니다. 현대 자기 계발 분야에서 하나의 고정 표현으로 자리 잡았습니다.",
+    "nuanceKo": "긍정적이고 진지한 뉘앙스를 가지며, 단순한 기술 습득보다는 내면의 성숙과 자아 발전이라는 깊은 의미를 내포합니다. 자기 계발서나 코칭, 면접 등 진지한 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "Traveling solo was a huge step in my personal growth.",
+    "shortExampleKo": "혼자 여행한 것은 나의 개인적 성장에 큰 전환점이었다."
+  }
+}

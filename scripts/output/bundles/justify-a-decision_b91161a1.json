@@ -1,0 +1,30 @@
+{
+  "id": "justify-a-decision_b91161a1",
+  "expression": "justify a decision",
+  "selectionMeta": {
+    "selectedPhrase": "justify a decision",
+    "selectedSenseLabelKo": "결정을 정당화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager spent the entire meeting trying to justify the decision to relocate the office to a smaller building downtown."
+  },
+  "step2": {
+    "story": "After cutting the marketing budget by half, the CFO knew she had to justify the decision to the rest of the leadership team. She prepared a detailed presentation showing how the savings would fund a critical product launch. By the end, even the skeptics agreed it was the right call.",
+    "topicTag": "business strategy",
+    "moodTag": "persuasive"
+  },
+  "step3": {
+    "story": "When Principal Hayes announced that the school would cancel its arts program to invest in STEM labs, parents flooded the office with angry emails. At the next town hall meeting, she stood before a packed auditorium and tried to justify the decision with enrollment data and job market projections. Some parents listened carefully, but others shook their heads in disbelief. A retired art teacher stood up and argued that creativity cannot be measured by statistics alone. Hayes paused, then admitted the decision had been difficult and promised to find supplementary funding for the arts. That evening, she realized that justifying a decision is not just about presenting facts—it is about earning people's trust.",
+    "topicTag": "education policy",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "결정(decision)을 정당화하다(justify)라는 뜻으로, 어떤 결정이 올바르거나 합리적임을 설명하고 납득시키는 행위를 의미합니다.",
+    "realUsageKo": "주로 논란이 되거나 반대에 부딪힌 결정에 대해 그 이유와 근거를 제시하며 방어할 때 사용합니다. 비즈니스, 정치, 일상 대화 등 다양한 상황에서 자신의 선택을 설명해야 할 때 자주 쓰입니다.",
+    "etymologyKo": "justify는 라틴어 'justificare(올바르게 만들다)'에서 유래했으며, 'justus(정당한)'와 'facere(만들다)'의 합성어입니다. decision은 라틴어 'decidere(결정하다, 잘라내다)'에서 왔습니다.",
+    "nuanceKo": "이 표현은 단순한 설명이 아니라, 반대나 의문에 직면하여 자신의 결정이 타당함을 입증해야 하는 상황을 암시합니다. 다소 방어적이거나 공식적인 뉘앙스를 가질 수 있습니다.",
+    "shortExampleEn": "He struggled to justify his decision to quit such a well-paying job.",
+    "shortExampleKo": "그는 그렇게 급여가 좋은 직장을 그만둔 결정을 정당화하는 데 어려움을 겪었다."
+  }
+}

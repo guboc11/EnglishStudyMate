@@ -1,0 +1,30 @@
+{
+  "id": "walking-on-air_f1d7eda4",
+  "expression": "walking on air",
+  "selectionMeta": {
+    "selectedPhrase": "walking on air",
+    "selectedSenseLabelKo": "기분이 좋은",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After getting the promotion she'd been hoping for, Sarah felt like she was walking on air for the rest of the week."
+  },
+  "step2": {
+    "story": "Jake opened the envelope with trembling hands and read the acceptance letter from his dream university. He called his mom immediately, barely able to speak through his excitement. For the rest of the day, he was walking on air, grinning at everyone he passed on the street.",
+    "topicTag": "achievement",
+    "moodTag": "euphoric"
+  },
+  "step3": {
+    "story": "Mia had spent three years writing her first novel, sacrificing weekends and late nights to finish every chapter. When her literary agent called to say a major publisher wanted to sign her, she dropped her coffee mug in shock. Her roommate rushed in to find Mia standing in a puddle of coffee, laughing and crying at the same time. For the next few days, Mia was walking on air, unable to stop smiling even during her boring day job. Her coworkers noticed the change immediately and kept asking what had happened. She just shrugged and said sometimes life surprises you when you least expect it.",
+    "topicTag": "creative success",
+    "moodTag": "joyful"
+  },
+  "meaning": {
+    "literalMeaningKo": "공중 위를 걷고 있다는 뜻으로, 발이 땅에 닿지 않을 정도로 가볍고 행복한 상태를 표현합니다.",
+    "realUsageKo": "매우 기쁘고 행복해서 몸이 붕 뜬 것 같은 기분을 나타낼 때 사용합니다. 승진, 합격, 고백 성공 등 큰 기쁨을 느끼는 상황에서 자주 쓰입니다.",
+    "etymologyKo": "공중을 걷는다는 비유는 극도의 행복감으로 몸이 가벼워지는 느낌에서 유래했으며, 19세기부터 영어에서 널리 사용되었습니다.",
+    "nuanceKo": "일상적이면서도 생동감 있는 표현으로, 격식 없는 대화에서 자주 쓰입니다. 단순히 '기쁘다'보다 훨씬 강한 감정을 전달합니다.",
+    "shortExampleEn": "I've been walking on air ever since I heard the good news.",
+    "shortExampleKo": "좋은 소식을 들은 이후로 계속 기분이 날아갈 것 같아요."
+  }
+}

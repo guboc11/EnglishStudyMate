@@ -1,0 +1,30 @@
+{
+  "id": "strong-leadership_8dc5badf",
+  "expression": "strong leadership",
+  "selectionMeta": {
+    "selectedPhrase": "strong leadership",
+    "selectedSenseLabelKo": "강력한 리더십",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company recovered from near bankruptcy thanks to the CEO's strong leadership during the crisis."
+  },
+  "step2": {
+    "story": "When the startup lost its biggest client overnight, panic spread through the office. But the founder showed strong leadership by gathering everyone together, laying out a clear recovery plan, and personally calling potential new partners. Within three months, the team had secured even better contracts.",
+    "topicTag": "crisis management",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "The hospital was overwhelmed. A sudden outbreak had filled every bed, and exhausted nurses were close to quitting. Dr. Yoon, who had only been appointed director two weeks earlier, stepped forward with strong leadership that no one expected. She restructured the shifts so no one worked more than ten hours straight and personally handled the toughest cases to ease the burden on her team. She held brief daily meetings where every staff member could voice concerns without judgment. By the end of the month, not a single nurse had resigned, and the board credited her strong leadership as the reason the hospital survived its darkest chapter.",
+    "topicTag": "healthcare management",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "강하고 확고한 리더십, 즉 조직이나 집단을 이끄는 강력한 지도력을 뜻합니다.",
+    "realUsageKo": "위기 상황이나 어려운 시기에 결단력 있고 명확한 방향을 제시하며 사람들을 이끄는 능력을 표현할 때 사용합니다. 단순히 권위적인 것이 아니라 신뢰와 비전을 바탕으로 한 리더십을 강조합니다.",
+    "etymologyKo": "'strong'은 고대 영어 'strang'(힘센, 강한)에서 유래했고, 'leadership'은 'lead'(이끌다) + '-ship'(상태/자질) 접미사의 결합입니다. 두 단어가 결합되어 '강력한 지도력'이라는 의미의 자연스러운 연어(collocation)를 이룹니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 주로 존경이나 칭찬의 맥락에서 쓰입니다. 비즈니스, 정치, 스포츠 등 다양한 분야에서 누군가의 탁월한 리더십을 인정할 때 자주 사용됩니다.",
+    "shortExampleEn": "The team's success was a direct result of her strong leadership.",
+    "shortExampleKo": "팀의 성공은 그녀의 강력한 리더십의 직접적인 결과였다."
+  }
+}

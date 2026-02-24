@@ -1,0 +1,30 @@
+{
+  "id": "foot-in-the-door_9feedfea",
+  "expression": "foot in the door",
+  "selectionMeta": {
+    "selectedPhrase": "foot in the door",
+    "selectedSenseLabelKo": "처음 발을 들여놓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Landing that internship was just getting my foot in the door at the company I'd always dreamed of working for."
+  },
+  "step2": {
+    "story": "Maya applied for a junior assistant role at a prestigious law firm, even though she was overqualified. Her friends thought she was crazy, but she knew it was her foot in the door. Within a year, she had been promoted twice and was leading her own cases.",
+    "topicTag": "career ambition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had spent years sending demo tapes to record labels with no response. One rainy afternoon, he got a call from a small indie label asking him to produce a single track for an unknown artist. The pay was barely enough to cover his subway fare, and his roommate laughed when he heard the offer. But James understood something his roommate didn't — this was his foot in the door. He poured everything into that one track, layering melodies late into the night. Six months later, the song went viral, and suddenly every label in the city wanted to work with him.",
+    "topicTag": "music industry",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "문에 발을 들여놓다라는 뜻으로, 문이 닫히지 않도록 발을 끼워 넣는 모습을 표현합니다.",
+    "realUsageKo": "어떤 조직이나 분야에 처음으로 진입하는 기회를 얻었을 때 사용합니다. 작은 기회라도 잡아서 더 큰 성공으로 이어가는 첫 발판이라는 의미입니다.",
+    "etymologyKo": "방문 판매원이 거절당하지 않기 위해 문틈에 발을 끼워 넣던 영업 기법에서 유래했습니다. 20세기 초 미국 세일즈 문화에서 널리 퍼진 표현입니다.",
+    "nuanceKo": "긍정적인 뉘앙스로, 비록 작고 보잘것없는 시작이지만 중요한 첫걸음이라는 느낌을 줍니다. 주로 커리어나 비즈니스 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "The part-time job isn't glamorous, but it's a foot in the door.",
+    "shortExampleKo": "그 아르바이트가 화려하진 않지만, 발을 들여놓는 첫 기회야."
+  }
+}

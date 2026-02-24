@@ -1,0 +1,30 @@
+{
+  "id": "change-behavior_4475cb04",
+  "expression": "change behavior",
+  "selectionMeta": {
+    "selectedPhrase": "change behavior",
+    "selectedSenseLabelKo": "행동을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After receiving honest feedback from his mentor, James decided it was time to change behavior that had been holding him back at work."
+  },
+  "step2": {
+    "story": "Sara kept arriving late to meetings, and her manager finally pulled her aside for a serious talk. That evening, she set three alarms and promised herself she would change behavior that was hurting her professional image. Within a month, her colleagues noticed the difference and started trusting her with bigger responsibilities.",
+    "topicTag": "professional growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For years, Daniel had a habit of snapping at his coworkers whenever he felt stressed. One day, his closest colleague quietly told him that people were starting to avoid him. The words stung, but Daniel knew they were true. He signed up for a stress management workshop and made a conscious effort to change behavior that was damaging his relationships. It wasn't easy — some days he caught himself mid-sentence and had to pause and breathe. But over the following weeks, the atmosphere around his desk shifted, and he realized that even small adjustments could rebuild the trust he had lost.",
+    "topicTag": "self-improvement",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "행동(behavior)을 바꾸다(change)라는 뜻으로, 습관이나 행동 방식을 변경하는 것을 의미합니다.",
+    "realUsageKo": "단순히 한 번의 행동이 아니라, 반복적인 행동 패턴이나 습관을 의식적으로 고치거나 개선할 때 주로 사용합니다. 자기계발, 교육, 심리 상담 등의 맥락에서 자주 등장합니다.",
+    "etymologyKo": "change는 라틴어 'cambiare(교환하다)'에서, behavior는 중세 영어 'behaven(처신하다)'에서 유래했습니다. 두 단어가 결합하여 '처신 방식을 바꾸다'라는 의미를 형성합니다.",
+    "nuanceKo": "주로 부정적인 행동을 고친다는 맥락에서 쓰이며, 긍정적인 변화를 전제로 하는 경우가 많습니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "If you want better results, you need to change behavior first.",
+    "shortExampleKo": "더 나은 결과를 원한다면 먼저 행동을 바꿔야 합니다."
+  }
+}

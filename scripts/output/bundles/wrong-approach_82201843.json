@@ -1,0 +1,30 @@
+{
+  "id": "wrong-approach_82201843",
+  "expression": "wrong approach",
+  "selectionMeta": {
+    "selectedPhrase": "wrong approach",
+    "selectedSenseLabelKo": "잘못된 접근법",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Trying to memorize every word in the dictionary is the wrong approach to learning a new language."
+  },
+  "step2": {
+    "story": "Jake spent weeks studying marketing theory from textbooks, but his campaign still flopped. His mentor sat him down and explained that ignoring customer feedback was the wrong approach. Once Jake started listening to real users, everything changed.",
+    "topicTag": "learning from mistakes",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mina had been pulling all-nighters trying to fix the software bug by rewriting entire modules from scratch. After three exhausting days with no progress, her senior colleague took a look at her work. He told her gently that brute-forcing the code was the wrong approach. Instead, he suggested tracing the error log step by step to find the root cause. Within an hour of following his advice, Mina pinpointed the issue — a single misplaced variable. She realized that stepping back and thinking clearly was far more effective than working harder in the wrong direction.",
+    "topicTag": "problem solving",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'wrong approach'는 '잘못된 접근법' 또는 '틀린 방식'이라는 뜻입니다.",
+    "realUsageKo": "어떤 문제를 해결하거나 목표를 달성하려 할 때, 방법이나 전략 자체가 적절하지 않다는 것을 지적할 때 사용합니다. 단순히 '틀렸다'가 아니라 '방향 자체가 잘못되었다'는 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "'wrong'은 고대 노르드어 'rangr(비뚤어진)'에서 유래했고, 'approach'는 라틴어 'appropiare(가까이 다가가다)'에서 왔습니다. 두 단어가 결합되어 '잘못된 방향으로 다가가는 것'이라는 의미의 연어가 되었습니다.",
+    "nuanceKo": "단순한 실수보다는 근본적인 방법론이나 전략이 잘못되었음을 강조할 때 씁니다. 비판적이지만 건설적인 톤으로 자주 사용되며, 대안을 제시하는 맥락에서 많이 등장합니다.",
+    "shortExampleEn": "Punishing students for asking questions is the wrong approach to education.",
+    "shortExampleKo": "질문하는 학생을 벌주는 것은 교육에 대한 잘못된 접근법입니다."
+  }
+}

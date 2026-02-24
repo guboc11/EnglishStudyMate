@@ -1,0 +1,30 @@
+{
+  "id": "give-a-lecture_dafead6a",
+  "expression": "give a lecture",
+  "selectionMeta": {
+    "selectedPhrase": "give a lecture",
+    "selectedSenseLabelKo": "강의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Professor Kim will give a lecture on artificial intelligence at the conference next Friday."
+  },
+  "step2": {
+    "story": "Dr. Reyes had spent months researching climate change patterns in the Arctic. When the university invited her to give a lecture to three hundred students, she felt a mix of excitement and nerves. She stayed up until midnight perfecting her slides, determined to make the audience care about melting ice caps as much as she did.",
+    "topicTag": "academic passion",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had been a software engineer for fifteen years, but he had never spoken in front of a crowd. When his old college asked him to give a lecture about career transitions in tech, his first instinct was to say no. He practiced in front of his bathroom mirror every night for two weeks, timing each section with a stopwatch. On the day of the lecture, his hands trembled as he walked to the podium, but the moment he saw the curious faces in the audience, something clicked. He spoke for an hour without checking his notes once, sharing honest stories about failure and reinvention. Afterward, a student told him it was the most inspiring talk she had ever attended.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'강의를 주다'라는 뜻으로, 청중 앞에서 특정 주제에 대해 체계적으로 설명하는 행위를 의미합니다.",
+    "realUsageKo": "대학교, 학회, 세미나 등에서 전문가가 청중을 대상으로 발표하거나 가르칠 때 사용합니다. 비격식적으로는 누군가를 잔소리하거나 훈계할 때 'Don't give me a lecture'처럼 쓰이기도 합니다.",
+    "etymologyKo": "'lecture'는 라틴어 'lectura(읽기)'에서 유래했으며, 중세 대학에서 교수가 텍스트를 소리 내어 읽으며 가르치던 전통에서 비롯되었습니다.",
+    "nuanceKo": "'give a lecture'는 격식 있는 발표나 수업을 뜻하며, 'give a talk'보다 학술적이고 공식적인 느낌이 강합니다. 부정적 맥락에서는 일방적인 훈계를 암시할 수 있습니다.",
+    "shortExampleEn": "She gives a lecture on European history every Tuesday morning.",
+    "shortExampleKo": "그녀는 매주 화요일 아침에 유럽사 강의를 합니다."
+  }
+}

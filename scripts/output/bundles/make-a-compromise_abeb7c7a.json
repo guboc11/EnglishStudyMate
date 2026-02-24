@@ -1,0 +1,30 @@
+{
+  "id": "make-a-compromise_abeb7c7a",
+  "expression": "make a compromise",
+  "selectionMeta": {
+    "selectedPhrase": "make a compromise",
+    "selectedSenseLabelKo": "타협하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hours of heated debate, both sides finally agreed to make a compromise on the budget allocation."
+  },
+  "step2": {
+    "story": "Sarah and her business partner had been arguing about the company's direction for weeks. Neither wanted to back down, but they knew the startup couldn't survive without unity. They decided to make a compromise — Sarah would lead product development while her partner handled sales, blending both of their visions into one strategy.",
+    "topicTag": "business partnership",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "The merger negotiations between the two tech firms had stalled for the third time. Each CEO sat on opposite ends of a long conference table, arms crossed, refusing to budge on equity splits. Their lawyers exchanged exhausted glances. Finally, the mediator stood up and said that if neither side was willing to make a compromise, the deal would collapse entirely — and both companies would lose. That blunt warning shifted the atmosphere. Over the next two hours, they hammered out a revised agreement where both parties gave up something they valued in exchange for long-term stability. Walking out of the room, neither CEO was perfectly happy, but both knew the compromise was the only path forward.",
+    "topicTag": "corporate negotiation",
+    "moodTag": "tense yet pragmatic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'타협을 만들다'라는 뜻으로, 서로 양보하여 합의점을 찾는 행위를 의미합니다.",
+    "realUsageKo": "의견이나 이해관계가 대립할 때, 양측이 각각 일부를 양보하여 중간 지점에서 합의하는 상황에서 사용됩니다. 비즈니스 협상, 인간관계, 정치 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "compromise는 라틴어 compromissum(상호 약속)에서 유래했으며, com-(함께) + promittere(약속하다)의 결합입니다. make a compromise는 '타협이라는 행위를 수행하다'라는 의미의 연어 표현입니다.",
+    "nuanceKo": "중립적이고 성숙한 어감을 가집니다. 타협을 긍정적인 문제 해결 방식으로 바라보는 뉘앙스가 강하며, 'reach a compromise'와 비슷하지만 make는 능동적으로 타협을 이끌어낸다는 느낌이 더 강합니다.",
+    "shortExampleEn": "We need to make a compromise if we want this project to move forward.",
+    "shortExampleKo": "이 프로젝트를 진행하려면 우리가 타협을 해야 합니다."
+  }
+}

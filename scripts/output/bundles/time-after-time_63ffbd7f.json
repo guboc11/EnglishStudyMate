@@ -1,0 +1,30 @@
+{
+  "id": "time-after-time_63ffbd7f",
+  "expression": "time after time",
+  "selectionMeta": {
+    "selectedPhrase": "time after time",
+    "selectedSenseLabelKo": "계속해서",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Time after time, she reminded herself to stay patient and trust the process."
+  },
+  "step2": {
+    "story": "Jake kept failing his driving test, but he signed up again without hesitation. Time after time, he practiced parallel parking until his hands stopped shaking. On his fifth attempt, he finally passed with a perfect score.",
+    "topicTag": "persistence",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mina had always dreamed of opening her own bakery, but the road was anything but smooth. Her first loan application was rejected, and her early recipes flopped at the local market. Still, time after time, she tweaked her cinnamon rolls and showed up at the next weekend fair. Regulars began to notice her stand and lined up before she even finished setting up. A food blogger posted about her pastries, and orders started flooding in overnight. Looking back, she realized it was never one big break — it was showing up repeatedly that made all the difference.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'시간 뒤에 시간'이라는 뜻으로, 같은 일이 반복적으로 일어남을 나타냅니다.",
+    "realUsageKo": "어떤 일이 여러 차례 반복될 때 사용합니다. '계속해서', '몇 번이고 반복해서'라는 의미로, 긍정적·부정적 상황 모두에 쓰입니다.",
+    "etymologyKo": "중세 영어 시대부터 쓰인 표현으로, 'time'을 반복하여 끊임없는 반복을 강조하는 구조입니다. 1984년 신디 로퍼의 히트곡 제목으로도 유명해졌습니다.",
+    "nuanceKo": "단순한 반복보다 감정적 무게가 실린 표현입니다. 좌절에도 불구하고 계속하는 끈기, 또는 같은 실수가 되풀이되는 답답함을 모두 담을 수 있습니다.",
+    "shortExampleEn": "Time after time, he forgave her and gave her another chance.",
+    "shortExampleKo": "그는 몇 번이고 그녀를 용서하고 다시 기회를 주었다."
+  }
+}

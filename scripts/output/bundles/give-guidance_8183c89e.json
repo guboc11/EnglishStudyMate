@@ -1,0 +1,30 @@
+{
+  "id": "give-guidance_8183c89e",
+  "expression": "give guidance",
+  "selectionMeta": {
+    "selectedPhrase": "give guidance",
+    "selectedSenseLabelKo": "지도하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The senior engineer took time to give guidance to the new hires on how to navigate the company's complex codebase."
+  },
+  "step2": {
+    "story": "When Mira joined the nonprofit, she felt overwhelmed by the sheer number of programs she was expected to manage. Fortunately, her director sat down with her every Friday afternoon to give guidance on prioritizing tasks and building relationships with community partners. Within a few months, Mira felt confident enough to lead projects on her own.",
+    "topicTag": "mentorship",
+    "moodTag": "supportive"
+  },
+  "step3": {
+    "story": "Joon-ho had coached youth basketball for over twenty years, but this season felt different. Half of his players had never touched a basketball before, and the other half were dealing with problems at home that made it hard to focus during practice. Rather than pushing drills and plays, he decided to give guidance that went beyond the court. He started each session with a brief circle where players could share what was on their minds. He paired experienced players with newcomers, encouraging them to give guidance to each other as well. By the end of the season, the team hadn't won a single championship, but every player walked away knowing someone believed in them.",
+    "topicTag": "youth coaching",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "'guidance(안내, 지도)'를 'give(주다)'한다는 뜻으로, 누군가에게 방향이나 조언을 제공하는 것을 의미합니다.",
+    "realUsageKo": "단순한 조언(advice)보다 좀 더 체계적이고 방향성 있는 도움을 줄 때 사용합니다. 멘토가 멘티에게, 상사가 부하에게, 선생님이 학생에게 경험과 지식을 바탕으로 올바른 방향을 제시할 때 자주 쓰입니다.",
+    "etymologyKo": "'guidance'는 프랑스어 'guider(이끌다)'에서 유래한 'guide'에 명사 접미사 '-ance'가 결합된 단어입니다. 'give guidance'는 '길을 안내해 주다'라는 원래 이미지를 그대로 담고 있습니다.",
+    "nuanceKo": "격식 있고 전문적인 뉘앙스를 지닙니다. 일상 대화에서는 'give advice'가 더 흔하지만, 직장이나 교육 현장처럼 책임감 있는 조언을 강조하고 싶을 때 'give guidance'를 선택합니다.",
+    "shortExampleEn": "My professor gave me guidance on choosing the right career path.",
+    "shortExampleKo": "교수님이 올바른 진로를 선택하는 데 지도를 해주셨다."
+  }
+}

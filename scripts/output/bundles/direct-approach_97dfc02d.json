@@ -1,0 +1,30 @@
+{
+  "id": "direct-approach_97dfc02d",
+  "expression": "direct approach",
+  "selectionMeta": {
+    "selectedPhrase": "direct approach",
+    "selectedSenseLabelKo": "직접적인 접근법",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of sending emails back and forth, she decided to take a direct approach and speak to her manager face to face."
+  },
+  "step2": {
+    "story": "Jake had been frustrated with the miscommunication on his team for weeks. He finally chose a direct approach and called a meeting to address the issues openly. By the end of the hour, everyone was on the same page.",
+    "topicTag": "workplace communication",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "Mina had spent days drafting the perfect email to her landlord about the broken heater, but each version felt too passive. Her roommate suggested a direct approach — just knock on his door and explain the situation. Nervous but determined, Mina walked downstairs and rang the bell. When the landlord opened the door, she calmly described the problem and asked for a repair within the week. To her surprise, he apologized immediately and called a technician on the spot. She realized that sometimes the simplest path forward is just saying what you need.",
+    "topicTag": "everyday problem-solving",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'직접적인 접근'이라는 뜻으로, 우회하지 않고 곧바로 문제나 상대에게 다가가는 방식을 의미합니다.",
+    "realUsageKo": "돌려 말하거나 간접적으로 처리하지 않고, 솔직하고 명확하게 의사를 전달하거나 행동하는 방식을 가리킬 때 사용합니다. 대화, 협상, 문제 해결 등 다양한 상황에서 쓰입니다.",
+    "etymologyKo": "'direct'는 라틴어 'directus(곧은, 똑바른)'에서, 'approach'는 고대 프랑스어 'aprochier(가까이 가다)'에서 유래했습니다. 두 단어가 결합되어 '곧바로 다가가는 방법'이라는 의미가 되었습니다.",
+    "nuanceKo": "긍정적으로는 솔직하고 효율적인 태도를 뜻하지만, 상황에 따라 너무 직설적이거나 무례하게 느껴질 수 있다는 뉘앙스도 있습니다. 'take a direct approach'처럼 동사 take와 자주 함께 쓰입니다.",
+    "shortExampleEn": "I prefer a direct approach when dealing with conflicts at work.",
+    "shortExampleKo": "저는 직장에서 갈등을 다룰 때 직접적인 접근법을 선호합니다."
+  }
+}

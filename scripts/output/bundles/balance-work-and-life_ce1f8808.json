@@ -1,0 +1,30 @@
+{
+  "id": "balance-work-and-life_ce1f8808",
+  "expression": "balance work and life",
+  "selectionMeta": {
+    "selectedPhrase": "balance work and life",
+    "selectedSenseLabelKo": "일과 삶의 균형을 맞추다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of overtime and missed dinners, Sarah finally decided it was time to balance work and life before she burned out completely."
+  },
+  "step2": {
+    "story": "Kevin used to stay at the office until midnight every day, skipping weekends with his family. When his daughter asked why he never came to her soccer games, he realized he needed to balance work and life. He started leaving at six and blocking off Saturday mornings for family time.",
+    "topicTag": "work stress",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Jenna had always been the first one in the office and the last to leave. Her manager praised her dedication, but her friends slowly stopped inviting her out, and her apartment felt more like a storage unit than a home. One evening, she collapsed at her desk from exhaustion and woke up in the hospital with her worried mother beside her. The doctor told her bluntly that her body was shutting down from chronic stress. That was the wake-up call she needed — she made a plan to balance work and life by setting firm boundaries and rediscovering the hobbies she had abandoned. Within a few months, she felt healthier, her relationships recovered, and surprisingly, her work actually improved.",
+    "topicTag": "burnout recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "일(work)과 삶(life)의 균형을 맞추다(balance)라는 뜻으로, 직업적 활동과 개인적 생활 사이에서 적절한 비중을 유지한다는 의미입니다.",
+    "realUsageKo": "직장 생활에 지나치게 몰두하지 않고 개인의 건강, 가족, 취미 등 사적 영역도 챙긴다는 의미로 널리 사용됩니다. 특히 번아웃이나 과로 문제를 이야기할 때 자주 등장합니다.",
+    "etymologyKo": "'work-life balance'라는 개념이 1970~80년대 영미권에서 여성의 사회 진출과 함께 본격적으로 논의되기 시작했으며, 이후 동사구 형태인 'balance work and life'로도 자연스럽게 쓰이게 되었습니다.",
+    "nuanceKo": "단순한 시간 분배보다는 '의식적인 노력과 선택'이라는 뉘앙스가 강합니다. 주로 진지하고 성찰적인 맥락에서 사용되며, 자기 관리와 웰빙을 중시하는 현대적 가치관을 반영합니다.",
+    "shortExampleEn": "It's not easy to balance work and life when you have a demanding job.",
+    "shortExampleKo": "요구가 많은 직업을 가지고 있을 때 일과 삶의 균형을 맞추기란 쉽지 않다."
+  }
+}

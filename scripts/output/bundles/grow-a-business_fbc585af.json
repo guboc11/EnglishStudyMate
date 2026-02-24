@@ -1,0 +1,30 @@
+{
+  "id": "grow-a-business_fbc585af",
+  "expression": "grow a business",
+  "selectionMeta": {
+    "selectedPhrase": "grow a business",
+    "selectedSenseLabelKo": "사업을 성장시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of careful planning and reinvesting profits, she managed to grow a business from a tiny home office into a company with over fifty employees."
+  },
+  "step2": {
+    "story": "Marcus quit his corporate job last spring to grow a business selling handmade furniture. The first few months were rough, with more sawdust than sales. But word spread quickly, and by winter his workshop was booked solid with custom orders.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Jina first told her family she wanted to grow a business around Korean street food in London, they thought she was dreaming. She started with a tiny stall at a weekend market, waking up at four every morning to prepare tteokbokki and hotteok. Rain or shine, she showed up, learning what local customers loved and adjusting her recipes along the way. Within a year, the lines at her stall stretched around the corner. She signed a lease for a small shop near King's Cross and hired two part-time staff. Looking back, she realized that growing a business was less about a brilliant idea and more about showing up every single day.",
+    "topicTag": "perseverance",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'사업을 키우다'라는 뜻으로, grow는 식물이 자라듯 무언가를 성장시킨다는 의미입니다.",
+    "realUsageKo": "단순히 매출을 올린다는 뜻을 넘어, 사업의 규모·고객·팀·영향력 등을 전반적으로 확장해 나간다는 포괄적 의미로 쓰입니다. 창업자나 경영자가 장기적 관점에서 사업을 발전시킬 때 자주 사용합니다.",
+    "etymologyKo": "grow는 고대 영어 grōwan(자라다)에서 유래했으며, 원래 식물의 성장을 묘사하던 단어가 비유적으로 사업·조직·아이디어의 확장에도 쓰이게 되었습니다.",
+    "nuanceKo": "build a business가 '처음부터 만들어 올린다'는 느낌이라면, grow a business는 이미 존재하는 사업을 '점진적으로 키워 나간다'는 유기적 성장의 뉘앙스가 강합니다. 긍정적이고 능동적인 어감을 가집니다.",
+    "shortExampleEn": "It takes patience and persistence to grow a business in a competitive market.",
+    "shortExampleKo": "경쟁이 치열한 시장에서 사업을 성장시키려면 인내심과 끈기가 필요합니다."
+  }
+}

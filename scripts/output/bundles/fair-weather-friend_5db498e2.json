@@ -1,0 +1,30 @@
+{
+  "id": "fair-weather-friend_5db498e2",
+  "expression": "fair weather friend",
+  "selectionMeta": {
+    "selectedPhrase": "fair weather friend",
+    "selectedSenseLabelKo": "형편 좋을 때만 곁에 있는 친구",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When I lost my job last year, I quickly realized that Tom was just a fair weather friend who disappeared the moment things got tough."
+  },
+  "step2": {
+    "story": "Sarah had always surrounded herself with people who loved attending her lavish dinner parties. But when her business went bankrupt and she could no longer afford the lifestyle, most of them vanished overnight. It turned out they were nothing but fair weather friends who only valued her for what she could provide.",
+    "topicTag": "friendship and loyalty",
+    "moodTag": "disillusioned"
+  },
+  "step3": {
+    "story": "Marcus had been the life of the office for years, always organizing team outings and covering lunch tabs for his colleagues. Everyone called him their best friend and constantly praised his generosity. Then one winter, Marcus was diagnosed with a serious illness and had to take extended medical leave. He expected his phone to ring nonstop with well-wishes, but the silence was deafening. Only two people from his entire department bothered to visit him at home. That painful experience taught Marcus the difference between true companions and fair weather friends who stick around only when the sun is shining.",
+    "topicTag": "true friendship",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'날씨 좋을 때만 함께하는 친구'라는 뜻으로, 좋은 상황에서만 곁에 있는 사람을 가리킵니다.",
+    "realUsageKo": "힘들거나 어려운 상황이 닥쳤을 때 곁을 떠나는 사람을 비판적으로 표현할 때 씁니다. 진정한 우정이 아닌 피상적인 관계를 강조하는 뉘앙스입니다.",
+    "etymologyKo": "항해 용어에서 유래한 표현으로, 날씨가 좋을 때만 배를 타는 선원을 뜻했습니다. 16세기경부터 인간관계에 비유적으로 사용되기 시작했습니다.",
+    "nuanceKo": "부정적이고 비판적인 어조로 사용되며, 상대방의 이기적이고 얄팍한 태도를 꼬집는 표현입니다. 주로 실망이나 배신감을 느낀 후에 씁니다.",
+    "shortExampleEn": "Don't count on Jake — he's a fair weather friend at best.",
+    "shortExampleKo": "Jake한테 기대하지 마 — 기껏해야 좋을 때만 곁에 있는 친구야."
+  }
+}

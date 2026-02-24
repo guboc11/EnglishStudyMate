@@ -1,0 +1,30 @@
+{
+  "id": "draw-inspiration_0d5ccac3",
+  "expression": "draw inspiration",
+  "selectionMeta": {
+    "selectedPhrase": "draw inspiration",
+    "selectedSenseLabelKo": "영감을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She often visits art museums to draw inspiration for her own paintings."
+  },
+  "step2": {
+    "story": "After months of creative block, Mina decided to travel to a small coastal village. Walking along the cliffs at sunrise, she began to draw inspiration from the way the light danced on the waves. By evening, her sketchbook was full of ideas she couldn't wait to bring to life.",
+    "topicTag": "creative block",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Joon had been staring at a blank screen for weeks, unable to compose a single melody. His professor suggested he step away from the studio and experience something new. So he spent a weekend volunteering at a community garden, listening to the elderly gardeners share stories about their lives. He began to draw inspiration from their resilience and quiet joy. That night, sitting at his piano, a gentle melody poured out of him effortlessly. It became the opening piece of his senior recital, and the audience could feel every story woven into the notes.",
+    "topicTag": "artistic growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'영감을 끌어오다'라는 뜻으로, draw는 '끌어내다', inspiration은 '영감'을 의미합니다.",
+    "realUsageKo": "창작, 업무, 일상에서 어떤 대상이나 경험으로부터 아이디어나 동기를 얻을 때 사용합니다. 'draw inspiration from ~'의 형태로 영감의 원천을 함께 언급하는 것이 일반적입니다.",
+    "etymologyKo": "draw는 고대 영어 dragan(끌다)에서 유래했으며, inspiration은 라틴어 inspirare(숨을 불어넣다)에서 왔습니다. '내면에 창조적 에너지를 끌어들이다'라는 비유적 의미가 결합된 표현입니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 예술·디자인·글쓰기 등 창작 분야에서 특히 자주 등장합니다. 단순히 '참고하다'보다 감정적·정서적으로 깊이 영향을 받았다는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Many designers draw inspiration from nature when creating new collections.",
+    "shortExampleKo": "많은 디자이너들이 새 컬렉션을 만들 때 자연에서 영감을 얻습니다."
+  }
+}

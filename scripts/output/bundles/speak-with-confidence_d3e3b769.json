@@ -1,0 +1,30 @@
+{
+  "id": "speak-with-confidence_d3e3b769",
+  "expression": "speak with confidence",
+  "selectionMeta": {
+    "selectedPhrase": "speak with confidence",
+    "selectedSenseLabelKo": "자신있게 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of preparation, she was finally able to speak with confidence during the client presentation."
+  },
+  "step2": {
+    "story": "Jina had always been nervous about public speaking, but after joining a debate club, everything changed. At the annual company meeting, she stood up and spoke with confidence about her team's new project proposal. Her colleagues were impressed, and the project was approved on the spot.",
+    "topicTag": "personal growth",
+    "moodTag": "empowered"
+  },
+  "step3": {
+    "story": "Daniel had dreaded presentations ever since a disastrous one in college where he forgot his lines mid-sentence. For years, he avoided any situation that required him to address a crowd. But when his startup needed funding, there was no one else to pitch to the investors. He spent three weeks rehearsing every night in front of his bathroom mirror. On the day of the pitch, his palms were sweating, but the moment he opened his mouth, the words flowed naturally. He spoke with confidence about his vision for the company, and by the end, two investors were ready to sign.",
+    "topicTag": "career breakthrough",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신감을 가지고 말하다, 즉 확신에 찬 태도로 이야기하는 것을 뜻합니다.",
+    "realUsageKo": "프레젠테이션, 면접, 토론 등에서 떨지 않고 당당하게 자기 의견을 전달할 때 사용합니다. 단순히 큰 소리로 말하는 것이 아니라, 내용에 대한 확신과 준비가 뒷받침된 태도를 포함합니다.",
+    "etymologyKo": "'confidence'는 라틴어 'confidere(완전히 신뢰하다)'에서 유래했으며, 'speak with confidence'는 자신의 말에 대한 확고한 믿음을 가지고 발언한다는 의미로 자연스럽게 형성된 연어(collocation)입니다.",
+    "nuanceKo": "단순히 '말을 잘한다'는 뜻이 아니라, 내면의 확신이 목소리와 태도에 드러나는 상태를 강조합니다. 긴장하지 않고 침착하게, 그러면서도 힘 있게 전달하는 뉘앙스입니다.",
+    "shortExampleEn": "You need to speak with confidence if you want to convince the board.",
+    "shortExampleKo": "이사회를 설득하려면 자신있게 말해야 합니다."
+  }
+}

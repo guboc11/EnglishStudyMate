@@ -1,0 +1,30 @@
+{
+  "id": "discuss-options_fe89957e",
+  "expression": "discuss options",
+  "selectionMeta": {
+    "selectedPhrase": "discuss options",
+    "selectedSenseLabelKo": "선택지를 논의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making a final decision, the team sat down to discuss options for the upcoming product launch."
+  },
+  "step2": {
+    "story": "After receiving two job offers in the same week, Mina felt overwhelmed. She called her older sister that evening to discuss options over dinner. By the end of the meal, she felt much clearer about which path to take.",
+    "topicTag": "career decisions",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "The small cafe on the corner of 5th Street had become their unofficial meeting place. Every Friday afternoon, Joon and his three co-founders gathered there to discuss options for their struggling startup. This week was different, though. Their biggest investor had pulled out, and the mood around the table was heavy. Joon spread a notebook across the table and said they needed to be honest about what was realistic. One by one, they laid out every possible path forward, from cutting costs to pivoting the entire business model. By the time the cafe closed, they had narrowed it down to two solid plans and agreed to sleep on it before choosing.",
+    "topicTag": "startup challenges",
+    "moodTag": "serious"
+  },
+  "meaning": {
+    "literalMeaningKo": "선택 가능한 방안들을 서로 이야기하며 검토하다라는 뜻입니다.",
+    "realUsageKo": "중요한 결정을 내리기 전에 여러 가능성을 함께 따져보는 상황에서 자주 씁니다. 회의, 상담, 일상 대화 모두에서 폭넓게 사용됩니다.",
+    "etymologyKo": "discuss는 라틴어 'discussus'(흔들어 살피다)에서 유래했고, option은 라틴어 'optio'(선택)에서 왔습니다. 두 단어가 결합해 '선택지를 꼼꼼히 살펴보다'라는 의미의 연어가 되었습니다.",
+    "nuanceKo": "단순히 잡담하는 것이 아니라 구체적인 대안들을 진지하게 검토한다는 느낌을 줍니다. 비즈니스와 일상 모두에서 쓰이며, 격식과 비격식 상황 어디에나 자연스럽습니다.",
+    "shortExampleEn": "Let's discuss options before we commit to anything.",
+    "shortExampleKo": "뭔가를 확정하기 전에 선택지를 논의해 봅시다."
+  }
+}

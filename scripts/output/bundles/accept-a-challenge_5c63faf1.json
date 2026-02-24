@@ -1,0 +1,30 @@
+{
+  "id": "accept-a-challenge_5c63faf1",
+  "expression": "accept a challenge",
+  "selectionMeta": {
+    "selectedPhrase": "accept a challenge",
+    "selectedSenseLabelKo": "도전을 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the team leader proposed the impossible deadline, Sarah was the first to accept the challenge and start working on a plan."
+  },
+  "step2": {
+    "story": "Marcus had always played it safe at work, avoiding risky projects. But when his manager offered him the lead role on a struggling overseas expansion, he decided to accept the challenge. Within three months, he had turned the project around and earned the respect of the entire department.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jenna stared at the email from the marathon organizers, her heart pounding. She had never run more than five kilometers in her life, yet here was an invitation to join a charity ultramarathon through the mountains. Her friends told her she was crazy, but something inside her refused to back down. She decided to accept the challenge and signed up that very night. Over the next six months, she trained through rain, exhaustion, and self-doubt. On race day, crossing the finish line with tears streaming down her face, she realized that accepting the challenge had changed far more than just her fitness—it had transformed the way she saw herself.",
+    "topicTag": "personal transformation",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "도전(challenge)을 받아들이다(accept)라는 뜻으로, 어렵거나 힘든 일을 기꺼이 하겠다고 동의하는 것을 의미합니다.",
+    "realUsageKo": "단순히 동의한다는 뜻을 넘어, 어려운 상황이나 과제를 회피하지 않고 정면으로 맞서겠다는 적극적인 태도를 표현할 때 사용합니다. 직장, 스포츠, 개인 성장 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "accept는 라틴어 'accipere(받다)'에서, challenge는 고대 프랑스어 'chalenge(고발, 도전)'에서 유래했습니다. 원래 결투나 시합의 도전을 받아들인다는 의미에서 출발하여 현대에는 어려운 과제 전반에 사용됩니다.",
+    "nuanceKo": "이 표현은 용기, 결단력, 자신감을 내포합니다. 단순히 '하겠다'가 아니라, 어렵다는 것을 알면서도 기꺼이 맞서겠다는 긍정적이고 능동적인 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "I decided to accept the challenge and apply for the management position.",
+    "shortExampleKo": "나는 도전을 받아들여 관리직에 지원하기로 했다."
+  }
+}

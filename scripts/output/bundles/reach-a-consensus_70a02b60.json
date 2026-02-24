@@ -1,0 +1,30 @@
+{
+  "id": "reach-a-consensus_70a02b60",
+  "expression": "reach a consensus",
+  "selectionMeta": {
+    "selectedPhrase": "reach a consensus",
+    "selectedSenseLabelKo": "합의에 이르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three hours of heated debate, the committee finally managed to reach a consensus on the new budget proposal."
+  },
+  "step2": {
+    "story": "The marketing team had been arguing about the campaign direction all morning. Some wanted a bold, edgy approach while others preferred something safe and traditional. After lunch, they sat down with fresh eyes and were finally able to reach a consensus that combined creativity with a proven strategy.",
+    "topicTag": "teamwork",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The city council meeting had dragged on past midnight, and tensions were running high. Residents packed the gallery, some holding signs for the new park project, others firmly against it. Councilwoman Park proposed a compromise: build the park on the smaller lot and use the remaining funds for road repairs. At first, both sides resisted, but she patiently addressed each concern one by one. Slowly, heads began to nod. By 1 a.m., they had managed to reach a consensus, and the room erupted in tired but genuine applause.",
+    "topicTag": "community decision",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "합의에 도달하다, 즉 여러 사람이 하나의 의견에 이르다라는 뜻입니다.",
+    "realUsageKo": "회의, 협상, 토론 등에서 참여자들이 서로 다른 의견을 조율하여 모두가 동의하는 결론에 도달할 때 사용합니다. 단순히 다수결이 아니라 전원이 수용 가능한 합의를 이루었다는 뉘앙스입니다.",
+    "etymologyKo": "reach는 '~에 도달하다'라는 뜻이고, consensus는 라틴어 'consentire(함께 느끼다)'에서 유래하여 '전원의 동의'를 의미합니다.",
+    "nuanceKo": "비교적 격식 있는 표현으로, 비즈니스 회의나 공식 토론에서 자주 쓰입니다. 단순한 agreement보다 더 깊고 포괄적인 동의를 나타냅니다.",
+    "shortExampleEn": "We need to reach a consensus before moving forward with the project.",
+    "shortExampleKo": "프로젝트를 진행하기 전에 합의에 이를 필요가 있습니다."
+  }
+}

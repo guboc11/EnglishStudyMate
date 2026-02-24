@@ -1,0 +1,30 @@
+{
+  "id": "express-concern_cae19e45",
+  "expression": "express concern",
+  "selectionMeta": {
+    "selectedPhrase": "express concern",
+    "selectedSenseLabelKo": "우려를 표하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Several parents expressed concern about the new school policy during the board meeting."
+  },
+  "step2": {
+    "story": "During the quarterly review, the manager expressed concern about the team's increasing overtime hours. She worried that burnout would hurt both morale and productivity. The team appreciated her honesty and together they proposed a more balanced workload plan.",
+    "topicTag": "workplace wellbeing",
+    "moodTag": "caring"
+  },
+  "step3": {
+    "story": "When Mina noticed her neighbor Mrs. Park hadn't come outside for several days, she knocked on her door to check in. Mrs. Park opened the door looking pale and exhausted. Mina expressed concern about her health and asked if she needed help with anything. Mrs. Park admitted she had been feeling dizzy and hadn't been able to cook for herself. Mina immediately drove her to the clinic and spent the afternoon preparing meals for the week. Sometimes a small act of expressing genuine concern can make all the difference in someone's life.",
+    "topicTag": "community care",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "걱정이나 우려의 감정을 말이나 행동으로 나타내다.",
+    "realUsageKo": "어떤 문제나 상황에 대해 공식적 또는 비공식적으로 걱정을 전달할 때 사용합니다. 단순히 '걱정하다'보다 적극적으로 상대에게 우려를 알리는 뉘앙스입니다.",
+    "etymologyKo": "'express'는 라틴어 'exprimere(밖으로 짜내다)'에서 유래했고, 'concern'은 라틴어 'concernere(함께 섞다)'에서 왔습니다. 두 단어가 합쳐져 '내면의 걱정을 밖으로 표현하다'라는 의미가 되었습니다.",
+    "nuanceKo": "일상 대화부터 공식적인 자리까지 폭넓게 쓰이며, 특히 비즈니스나 공적 상황에서 정중하고 진지하게 우려를 전달할 때 자주 사용됩니다. 'worry about'보다 격식 있고 책임감 있는 어감입니다.",
+    "shortExampleEn": "The doctor expressed concern about the patient's blood pressure.",
+    "shortExampleKo": "의사가 환자의 혈압에 대해 우려를 표했다."
+  }
+}
