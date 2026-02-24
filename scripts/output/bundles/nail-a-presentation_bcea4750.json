@@ -1,0 +1,30 @@
+{
+  "id": "nail-a-presentation_bcea4750",
+  "expression": "nail a presentation",
+  "selectionMeta": {
+    "selectedPhrase": "nail a presentation",
+    "selectedSenseLabelKo": "발표를 잘 해내다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She stayed up all night rehearsing her slides, determined to nail a presentation that could secure the company's biggest contract of the year."
+  },
+  "step2": {
+    "story": "Marcus had been preparing for weeks to nail a presentation to the board of directors. When the moment came, he spoke with clarity and confidence, answering every question without hesitation. The room erupted in applause, and his manager gave him a proud nod.",
+    "topicTag": "workplace success",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Priya had one shot to nail a presentation in front of fifty senior executives from across the globe. She had rehearsed every slide, anticipated every question, and prepared backup data for every claim. As she stepped up to the podium, her hands were steady and her voice was calm. She walked the audience through the strategy with precision, weaving in real-world examples that made the vision feel tangible. By the time she reached the final slide, the executives were leaning forward, already asking about implementation timelines. Priya left the stage knowing she had done far more than just present — she had won the room.",
+    "topicTag": "high-stakes pitch",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "발표를 못처럼 정확하게 박아 넣다, 즉 완벽하게 해내다.",
+    "realUsageKo": "비즈니스 현장에서 발표나 프레젠테이션을 실수 없이 매우 잘 해냈을 때 쓰는 표현으로, 준비가 철저하고 결과가 성공적임을 나타낸다.",
+    "etymologyKo": "'nail'은 원래 '못을 정확히 박다'는 의미에서 유래해, 무언가를 정확하고 완벽하게 완수한다는 뜻으로 확장되었다.",
+    "nuanceKo": "격식과 비격식 모두에서 쓰이며, 칭찬과 축하의 뉘앙스가 강하다. 단순히 '잘했다'보다 '완벽에 가깝게 해냈다'는 강한 성취감을 전달한다.",
+    "shortExampleEn": "He practiced every day for a month and finally nailed the presentation in front of the investors.",
+    "shortExampleKo": "그는 한 달 동안 매일 연습했고, 마침내 투자자들 앞에서 발표를 완벽하게 해냈다."
+  }
+}

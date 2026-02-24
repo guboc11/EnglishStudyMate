@@ -1,0 +1,30 @@
+{
+  "id": "sharpen-your-skills_f7cdeb9e",
+  "expression": "sharpen your skills",
+  "selectionMeta": {
+    "selectedPhrase": "sharpen your skills",
+    "selectedSenseLabelKo": "기술을 갈고 닦다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She took an online course every evening to sharpen your skills in data analysis before applying for the promotion."
+  },
+  "step2": {
+    "story": "Marcus signed up for a weekend workshop to sharpen his skills in public speaking. He had always been nervous in front of crowds, but he knew that improving this ability was essential for his career growth. After just two sessions, he felt noticeably more confident stepping up to the podium.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After receiving feedback that her presentations lacked clarity, Priya decided it was time to sharpen her skills in communication. She enrolled in a night class, practiced mock presentations in front of her mirror every morning, and sought honest critiques from her colleagues. The process was humbling at first — she stumbled over words and lost her train of thought more than once. But each session pushed her a little further, and she began to notice herself speaking with greater precision and confidence. By the end of the month, her manager pulled her aside to say her latest report had been the clearest one the team had ever seen. Priya smiled, knowing that the hard work she had put in to sharpen her skills had finally paid off.",
+    "topicTag": "professional development",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "날카롭게 만들다(sharpen)는 도구를 갈아 예리하게 한다는 뜻이며, 여기서는 기술(skills)을 더욱 예리하고 효과적으로 다듬는다는 의미입니다.",
+    "realUsageKo": "실제로는 어떤 능력이나 역량을 꾸준한 연습과 노력을 통해 향상시킨다는 의미로 사용됩니다. 주로 직업적·개인적 성장 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'Sharpen'은 고대 영어 'scearpian'에서 유래했으며, 도구를 날카롭게 갈다는 물리적 의미에서 비롯되었습니다. 시간이 지나면서 능력이나 재능을 다듬는다는 추상적 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 학습이 아니라 이미 갖고 있는 능력을 더욱 정교하게 발전시킨다는 뉘앙스를 담고 있습니다. 노력과 의지가 수반되는 적극적인 자기계발의 어감이 강합니다.",
+    "shortExampleEn": "He took a coding bootcamp to sharpen his skills before the job interview.",
+    "shortExampleKo": "그는 취업 면접 전에 기술을 갈고 닦기 위해 코딩 부트캠프에 참가했다."
+  }
+}

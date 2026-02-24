@@ -1,0 +1,30 @@
+{
+  "id": "invest-in-yourself_6fcf5084",
+  "expression": "invest in yourself",
+  "selectionMeta": {
+    "selectedPhrase": "invest in yourself",
+    "selectedSenseLabelKo": "자신에게 투자하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to grow professionally, the best thing you can do is invest in yourself by taking courses and developing new skills."
+  },
+  "step2": {
+    "story": "After years of working the same job with little progress, Maya decided it was time to invest in yourself. She signed up for an online course in data analysis and spent her evenings studying. Within six months, she landed a promotion she had always dreamed of.",
+    "topicTag": "self-improvement",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Daniel had always put everyone else first — his family, his colleagues, his friends. But one quiet Sunday morning, staring at a self-help book his sister had given him, something clicked. He realized he had never taken the time to invest in yourself. The next week, he enrolled in a public speaking class he had been curious about for years. It was uncomfortable at first, but slowly his confidence began to grow. By the end of the year, he was leading presentations at work and felt more like himself than he had in a long time.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자기 자신에게 시간, 돈, 노력을 투자하다.",
+    "realUsageKo": "자신의 성장을 위해 교육, 건강, 기술 개발 등에 자원을 쏟는 행동을 표현할 때 사용한다. 주로 자기계발 맥락에서 널리 쓰인다.",
+    "etymologyKo": "'invest'는 라틴어 'investire(옷을 입히다, 장착하다)'에서 유래했으며, 현대에는 미래의 이득을 위해 자원을 쏟는 행위를 뜻한다.",
+    "nuanceKo": "단순한 소비가 아닌, 미래의 자신을 위한 의미 있는 행동이라는 긍정적이고 진지한 뉘앙스를 가진다. 자기계발 서적이나 동기부여 강연에서 자주 등장하는 표현이다.",
+    "shortExampleEn": "The best investment you'll ever make is to invest in yourself.",
+    "shortExampleKo": "당신이 할 수 있는 최고의 투자는 자기 자신에게 투자하는 것입니다."
+  }
+}

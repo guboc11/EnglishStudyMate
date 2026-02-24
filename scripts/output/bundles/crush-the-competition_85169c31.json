@@ -1,0 +1,30 @@
+{
+  "id": "crush-the-competition_85169c31",
+  "expression": "crush the competition",
+  "selectionMeta": {
+    "selectedPhrase": "crush the competition",
+    "selectedSenseLabelKo": "경쟁을 압도하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "With their innovative pricing strategy and superior customer service, the startup managed to crush the competition within just two years of entering the market."
+  },
+  "step2": {
+    "story": "The new product launch exceeded everyone's expectations. By offering better features at a lower price, the company was able to crush the competition and capture a dominant market share. Investors were thrilled with the results.",
+    "topicTag": "market strategy",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Sarah had spent three years preparing her team for this moment. Their product was faster, smarter, and more affordable than anything their rivals had released. At the annual trade show, they unveiled the new platform to a packed auditorium. Within days, orders flooded in from clients who had previously chosen competitors. It was clear they had completely crushed the competition. The board celebrated what they called the most decisive victory in the company's history.",
+    "topicTag": "product launch",
+    "moodTag": "victorious"
+  },
+  "meaning": {
+    "literalMeaningKo": "경쟁자들을 짓눌러 완전히 제압한다는 의미입니다.",
+    "realUsageKo": "비즈니스나 스포츠에서 경쟁 상대를 압도적으로 이기거나 시장에서 지배적인 위치를 차지할 때 사용합니다. 단순한 승리보다 훨씬 강하고 결정적인 우위를 나타냅니다.",
+    "etymologyKo": "'crush'는 고대 프랑스어 'croissir'(부수다, 으스러뜨리다)에서 유래했으며, 물리적으로 짓이기는 행위에서 비유적으로 압도적으로 이기다는 의미로 확장되었습니다.",
+    "nuanceKo": "매우 강한 어감을 지닌 표현으로, 단순히 이기는 것이 아니라 상대방이 재기하기 어려울 정도로 완전히 압도함을 뜻합니다. 자신감 넘치고 공격적인 뉘앙스가 있어 격식체보다는 비격식적인 비즈니스 맥락에서 주로 쓰입니다.",
+    "shortExampleEn": "Our aggressive marketing campaign helped us crush the competition in the holiday season.",
+    "shortExampleKo": "우리의 공격적인 마케팅 캠페인은 연휴 시즌에 경쟁자들을 압도하는 데 도움이 되었습니다."
+  }
+}

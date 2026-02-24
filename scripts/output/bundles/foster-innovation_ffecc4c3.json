@@ -1,0 +1,30 @@
+{
+  "id": "foster-innovation_ffecc4c3",
+  "expression": "foster innovation",
+  "selectionMeta": {
+    "selectedPhrase": "foster innovation",
+    "selectedSenseLabelKo": "혁신을 장려하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The CEO restructured the entire R&D department to foster innovation and bring new products to market faster."
+  },
+  "step2": {
+    "story": "After years of stagnation, the startup hired a new chief technology officer with a bold mandate: foster innovation at every level of the company. Within months, she introduced open hackathons and cross-team collaboration sessions that completely transformed the culture. Ideas that once died in committee now reached production in weeks.",
+    "topicTag": "workplace culture",
+    "moodTag": "energized"
+  },
+  "step3": {
+    "story": "When Marcus took over as head of product, the company had not launched anything significant in three years. His first move was to tear down the rigid approval process that had been strangling creativity, declaring that his primary goal was to foster innovation from the ground up. He set aside twenty percent of each team's work week for experimental projects with no immediate business case. Engineers who had felt invisible began pitching bold ideas in weekly showcases, knowing they would actually be heard. Within a year, two of those side projects had evolved into the company's most profitable product lines. The board, once skeptical of Marcus's unconventional approach, credited his willingness to foster innovation as the single most important decision of the decade.",
+    "topicTag": "organizational change",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "'foster'는 '육성하다, 키우다'를 뜻하고 'innovation'은 '혁신'을 의미하므로, 글자 그대로는 '혁신을 키우고 발전시키다'라는 뜻이다.",
+    "realUsageKo": "주로 비즈니스·조직 맥락에서 리더나 기업이 새로운 아이디어와 창의적 사고가 자랄 수 있는 환경을 만들고 적극적으로 장려한다는 뜻으로 쓰인다. 정책, 문화, 구조적 변화 등을 통해 혁신을 의도적으로 촉진할 때 사용한다.",
+    "etymologyKo": "'foster'는 고대 영어 'fostrian(먹이다, 양육하다)'에서 유래했으며, 원래는 아이를 돌보고 키운다는 의미였다. 시간이 지나면서 추상적인 개념을 '북돋우고 발전시킨다'는 뜻으로 확장되었다.",
+    "nuanceKo": "단순히 허용하는 것을 넘어 적극적으로 환경을 조성하고 지원한다는 능동적 뉘앙스가 강하다. 리더십이나 조직 전략을 논할 때 자주 등장하며, 격식체 비즈니스 언어에 속한다.",
+    "shortExampleEn": "Leaders must foster innovation by giving employees the freedom to experiment and fail safely.",
+    "shortExampleKo": "리더들은 직원들이 안전하게 실험하고 실패할 수 있는 자유를 줌으로써 혁신을 장려해야 한다."
+  }
+}

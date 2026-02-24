@@ -1,0 +1,30 @@
+{
+  "id": "document-your-progress_5fd9cc8f",
+  "expression": "document your progress",
+  "selectionMeta": {
+    "selectedPhrase": "document your progress",
+    "selectedSenseLabelKo": "진행 상황을 기록하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She started keeping a weekly journal to document your progress toward her fitness goals."
+  },
+  "step2": {
+    "story": "Mark decided to document his progress by taking photos every week during his home renovation. Each snapshot showed how far he had come, from bare walls to a fully finished room. Looking back at the record gave him the motivation to keep going.",
+    "topicTag": "personal growth",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "After months of learning Spanish on her own, Elena realized she had no clear sense of how much she had improved. Her tutor suggested she start a learning journal to document her progress — recording new vocabulary, grammar milestones, and short diary entries each week. At first it felt like extra work, but within a month she had a tangible record of her growth. Flipping through the pages, she could see sentences that once confused her now felt natural. The journal became more than a log; it was proof that steady effort adds up. Documenting her progress turned learning into a story she was proud to tell.",
+    "topicTag": "language learning",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 진행 상황을 기록하거나 문서화하다.",
+    "realUsageKo": "학습, 운동, 프로젝트 등 어떤 목표를 향한 과정을 체계적으로 기록할 때 사용한다. 글, 사진, 영상 등 다양한 방식이 포함될 수 있다.",
+    "etymologyKo": "'document'는 라틴어 'documentum(교훈, 증거)'에서 유래했으며, 동사로는 '증거를 남기다, 기록하다'는 의미로 사용된다. 'progress'는 라틴어 'progressus(앞으로 나아감)'에서 왔다.",
+    "nuanceKo": "단순히 메모하는 것보다 더 체계적이고 의도적인 기록의 뉘앙스가 강하다. 자기 관리나 성장 맥락에서 긍정적이고 주도적인 태도를 암시한다.",
+    "shortExampleEn": "Use a notebook or app to document your progress each day.",
+    "shortExampleKo": "노트나 앱을 사용해 매일 진행 상황을 기록하세요."
+  }
+}

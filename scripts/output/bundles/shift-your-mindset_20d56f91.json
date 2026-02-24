@@ -1,0 +1,30 @@
+{
+  "id": "shift-your-mindset_20d56f91",
+  "expression": "shift your mindset",
+  "selectionMeta": {
+    "selectedPhrase": "shift your mindset",
+    "selectedSenseLabelKo": "마인드셋을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to stop feeling overwhelmed by failure, you need to shift your mindset and see every setback as a chance to grow."
+  },
+  "step2": {
+    "story": "After losing her job, Maria spent weeks feeling hopeless until a mentor encouraged her to shift her mindset. Instead of seeing herself as a victim, she started viewing the situation as a rare chance to pursue her true passion. Within months, she had launched a small business that brought her more joy than any office job ever had.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "James had always believed that talent was something you were born with, and since he struggled in school, he assumed he simply wasn't smart enough. His therapist gently challenged him one session, asking, 'What if you shifted your mindset and stopped treating your abilities as fixed?' The question stayed with him for days. He began reading about deliberate practice and started dedicating thirty minutes each morning to learning new skills. Slowly, what once felt impossible began to feel merely difficult — and then manageable. A year later, James was teaching evening coding classes to beginners, proof that changing how he thought about himself had changed everything.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'shift'는 '이동시키다', 'mindset'은 '사고방식'을 뜻하므로, 문자 그대로는 '사고방식을 이동시키다'라는 의미입니다.",
+    "realUsageKo": "실제로는 기존의 고정된 생각이나 태도를 의도적으로 바꾸어 새로운 관점을 갖는다는 뜻으로 쓰입니다. 자기계발, 코칭, 심리학 맥락에서 특히 자주 등장합니다.",
+    "etymologyKo": "'shift'는 고대 영어 'sciftan(나누다, 배열하다)'에서 유래했으며, 중세 영어를 거치며 '위치나 방향을 바꾸다'는 의미로 발전했습니다. 'mindset'은 20세기 초 심리학에서 '정신적 태도의 집합'을 가리키는 말로 정착했습니다.",
+    "nuanceKo": "단순히 생각을 바꾸는 것(change your mind)과 달리, shift your mindset은 더 근본적이고 지속적인 관점의 전환을 강조합니다. 의지적이고 능동적인 변화의 뉘앙스가 강합니다.",
+    "shortExampleEn": "You can shift your mindset by focusing on what you can control instead of what you can't.",
+    "shortExampleKo": "통제할 수 없는 것 대신 통제할 수 있는 것에 집중함으로써 마인드셋을 바꿀 수 있습니다."
+  }
+}

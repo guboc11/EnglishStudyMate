@@ -1,0 +1,30 @@
+{
+  "id": "pivot-quickly_ac2f6587",
+  "expression": "pivot quickly",
+  "selectionMeta": {
+    "selectedPhrase": "pivot quickly",
+    "selectedSenseLabelKo": "빠르게 전환하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "When the market shifted overnight, the startup had to pivot quickly or risk losing everything it had built."
+  },
+  "step2": {
+    "story": "The product launch numbers were disappointing, and the board knew they had to pivot quickly to stay relevant. Within a week, the team had reoriented their entire strategy around a new customer segment. The bold move paid off, and by the next quarter they were back on track.",
+    "topicTag": "business strategy",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "When the pandemic hit, Marcus watched his restaurant's foot traffic drop to nearly zero. He knew he had to pivot quickly or face closure within months. Within days, he had partnered with three delivery platforms and converted the kitchen into a ghost restaurant operation. His team was skeptical at first, but Marcus kept the energy high and focused everyone on the new model. The revenue didn't fully replace what they'd lost, but it kept the doors open and the staff employed. Looking back, he credited that rapid decision to pivot quickly as the move that saved the business.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "방향을 빠르게 바꾸다",
+    "realUsageKo": "비즈니스나 프로젝트에서 기존 전략이나 방향을 신속하게 전환하는 것을 의미하며, 주로 시장 변화나 위기 상황에 대응할 때 쓰인다.",
+    "etymologyKo": "'pivot'은 중심축이나 회전점을 뜻하는 프랑스어 'pivot'에서 유래했으며, 스포츠에서 한 발을 축으로 몸을 돌리는 동작을 나타내다가 비즈니스 전략 전환이라는 의미로 확장되었다.",
+    "nuanceKo": "단순한 변화가 아닌 핵심 방향의 과감한 전환을 강조하며, 주도적이고 민첩한 의사결정의 뉘앙스를 담고 있다. 스타트업 문화에서 특히 자주 사용된다.",
+    "shortExampleEn": "We need to pivot quickly before our competitors take over the market.",
+    "shortExampleKo": "경쟁사들이 시장을 장악하기 전에 빠르게 전환해야 합니다."
+  }
+}

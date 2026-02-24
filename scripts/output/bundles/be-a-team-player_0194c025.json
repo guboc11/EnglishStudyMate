@@ -1,0 +1,30 @@
+{
+  "id": "be-a-team-player_0194c025",
+  "expression": "be a team player",
+  "selectionMeta": {
+    "selectedPhrase": "be a team player",
+    "selectedSenseLabelKo": "팀 플레이어가 되다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "To succeed in this role, you need to be a team player and collaborate openly with your colleagues."
+  },
+  "step2": {
+    "story": "When the deadline was moved up, Marcus stayed late to help his teammates finish the report. His manager praised him for always being a team player, even under pressure.",
+    "topicTag": "workplace collaboration",
+    "moodTag": "supportive"
+  },
+  "step3": {
+    "story": "Jenna had always preferred working alone, but her new job at the startup demanded something different. During her first week, a critical product launch hit unexpected bugs and everyone needed to pitch in. She stayed until midnight, helping the QA team run tests and document issues. By the end of the night, her teammates were laughing and sharing coffee with her. Her manager pulled her aside the next morning and said, 'You really know how to be a team player — that meant everything to us last night.' Jenna smiled, realizing that working together had made the result far better than anything she could have done alone.",
+    "topicTag": "teamwork",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "팀의 구성원으로서 협력하며 행동하다.",
+    "realUsageKo": "직장이나 단체 활동에서 개인의 이익보다 팀 전체의 목표를 우선시하며 적극적으로 협력하는 사람을 묘사할 때 사용한다.",
+    "etymologyKo": "'team'은 고대 영어 'tēam'(함께 끄는 동물 무리)에서 유래했으며, 'player'는 역할을 수행하는 사람을 뜻한다. 20세기 스포츠 문화에서 비롯된 표현이 비즈니스 언어로 확산되었다.",
+    "nuanceKo": "긍정적인 평가로 자주 쓰이며, 채용 면접이나 성과 평가에서 자주 등장하는 표현이다. '혼자 튀려 하지 않고 함께 움직이는 사람'이라는 뉘앙스를 담고 있다.",
+    "shortExampleEn": "She's always willing to help others out — she's a real team player.",
+    "shortExampleKo": "그녀는 항상 다른 사람을 기꺼이 돕는 진정한 팀 플레이어다."
+  }
+}

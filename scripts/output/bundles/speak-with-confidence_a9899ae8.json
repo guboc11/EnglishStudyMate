@@ -1,0 +1,30 @@
+{
+  "id": "speak-with-confidence_a9899ae8",
+  "expression": "speak with confidence",
+  "selectionMeta": {
+    "selectedPhrase": "speak with confidence",
+    "selectedSenseLabelKo": "자신감 있게 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She took a deep breath and walked to the front of the room to speak with confidence before the entire board."
+  },
+  "step2": {
+    "story": "Marcus had always feared public speaking, but after months of practice, he finally learned to speak with confidence. During the team meeting, he presented his ideas clearly and the room fell silent with attention. His manager nodded approvingly and asked him to lead the next quarterly review.",
+    "topicTag": "public speaking",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Lena stood backstage, heart pounding, as she listened to the crowd settle into their seats. She had rehearsed her speech a hundred times, yet the familiar wave of doubt crept in. Then she remembered her coach's words: the goal was not to be perfect, but to speak with confidence and let her passion carry the message. She stepped into the spotlight, looked out at the sea of faces, and felt something shift inside her. Her voice came out steady and clear, and with every sentence she grew stronger. By the time she finished, the applause washed over her like a reward she had finally earned.",
+    "topicTag": "public speaking",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신감을 가지고 말하다.",
+    "realUsageKo": "발표, 면접, 대화 등에서 두려움 없이 명확하고 당당하게 의사를 표현하는 태도를 묘사할 때 사용한다.",
+    "etymologyKo": "'confidence'는 라틴어 'confidentia'에서 유래하며 '함께 믿다(con- + fidere)'라는 의미로, 자신을 신뢰하는 상태를 뜻한다.",
+    "nuanceKo": "단순히 크게 말하는 것이 아니라 내면의 확신에서 나오는 침착하고 설득력 있는 말투를 강조한다.",
+    "shortExampleEn": "Learning to speak with confidence changed how people perceived him at work.",
+    "shortExampleKo": "자신감 있게 말하는 법을 배우자 직장에서 그를 바라보는 시선이 달라졌다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "motivate-your-team_be8d73ff",
+  "expression": "motivate your team",
+  "selectionMeta": {
+    "selectedPhrase": "motivate your team",
+    "selectedSenseLabelKo": "팀을 동기부여하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "A great leader knows how to motivate your team even during the most challenging projects."
+  },
+  "step2": {
+    "story": "The project deadline was approaching fast, and morale was low. Sarah called a team meeting not to discuss tasks, but to remind everyone why their work mattered. She knew that to motivate your team, you had to connect daily work to a bigger purpose.",
+    "topicTag": "team leadership",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "Marcus had taken over as department head just three months ago, and the team was still adjusting. Numbers were down, communication was strained, and people seemed to be just going through the motions. He spent his first week not issuing directives, but listening — one-on-one conversations with every team member to understand their frustrations and ambitions. By the end of the month, he had restructured roles to play to each person's strengths and introduced a weekly win-sharing session. 'The best way to motivate your team,' he told his mentor, 'is to show them that their efforts are seen and that their growth matters to you.' Within a quarter, the team's output had doubled.",
+    "topicTag": "management transformation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "팀원들이 적극적으로 행동하고 목표를 향해 나아가도록 의욕을 불어넣다.",
+    "realUsageKo": "비즈니스 환경에서 리더나 관리자가 팀원들의 참여도와 사기를 높이기 위해 취하는 행동을 묘사할 때 자주 사용된다. 보상, 인정, 비전 제시 등 다양한 방법을 포괄하는 표현이다.",
+    "etymologyKo": "'motivate'는 라틴어 'motivus(움직이게 하는)'에서 유래했으며, 내면의 동력을 자극해 행동으로 이끈다는 의미를 담고 있다.",
+    "nuanceKo": "단순히 지시를 내리는 것과 달리, 자발적인 의욕을 이끌어낸다는 긍정적이고 능동적인 뉘앙스가 강하다. 리더십 역량을 강조할 때 특히 자주 쓰인다.",
+    "shortExampleEn": "One of your key responsibilities as a manager is to motivate your team and keep everyone aligned with the company's goals.",
+    "shortExampleKo": "관리자로서 핵심 책임 중 하나는 팀을 동기부여하고 모든 팀원이 회사 목표와 일치하도록 유지하는 것입니다."
+  }
+}

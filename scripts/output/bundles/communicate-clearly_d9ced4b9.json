@@ -1,0 +1,30 @@
+{
+  "id": "communicate-clearly_d9ced4b9",
+  "expression": "communicate clearly",
+  "selectionMeta": {
+    "selectedPhrase": "communicate clearly",
+    "selectedSenseLabelKo": "명확하게 소통하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the team meeting, she made sure to communicate clearly so that everyone understood the project goals."
+  },
+  "step2": {
+    "story": "Mark had always struggled to get his ideas across at work. After taking a communication workshop, he learned to communicate clearly by organizing his thoughts before speaking. His colleagues noticed the change immediately and began asking for his input more often.",
+    "topicTag": "workplace communication",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Sarah stared at the email draft on her screen, realizing she had written three dense paragraphs that said almost nothing useful. She deleted everything and started over, reminding herself of the one thing she needed to communicate clearly: the deadline had moved. She wrote a single direct sentence, added two supporting points, and read it back aloud. It was clean, honest, and impossible to misread. When her manager replied within minutes with a simple 'Got it, thanks,' Sarah felt a quiet satisfaction settle in her chest. Communicating clearly, she realized, was not about saying more — it was about saying exactly what needed to be said.",
+    "topicTag": "professional writing",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "생각이나 정보를 혼란 없이 상대방이 이해할 수 있도록 명확하게 전달하다.",
+    "realUsageKo": "직장, 학교, 일상 등 모든 상황에서 오해 없이 의사를 전달할 때 사용하며, 특히 복잡한 내용을 간결하게 정리해서 말하거나 쓸 때 강조하는 표현이다.",
+    "etymologyKo": "'communicate'는 라틴어 'communicare(공유하다, 나누다)'에서 유래했으며, 'clearly'는 라틴어 'clarus(밝은, 명백한)'에서 온 부사다.",
+    "nuanceKo": "단순히 말을 많이 하는 것이 아니라 핵심을 정확하게 전달한다는 뉘앙스를 담고 있으며, 전문적이고 성숙한 소통 능력을 시사하는 긍정적인 표현이다.",
+    "shortExampleEn": "A good leader knows how to communicate clearly under pressure.",
+    "shortExampleKo": "훌륭한 리더는 압박감 속에서도 명확하게 소통할 줄 안다."
+  }
+}

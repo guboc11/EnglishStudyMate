@@ -1,0 +1,30 @@
+{
+  "id": "collaborate-effectively_87725aa9",
+  "expression": "collaborate effectively",
+  "selectionMeta": {
+    "selectedPhrase": "collaborate effectively",
+    "selectedSenseLabelKo": "효과적으로 협력하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Remote teams can collaborate effectively when they establish clear communication channels and shared goals from the start."
+  },
+  "step2": {
+    "story": "The product and engineering teams struggled to collaborate effectively until they introduced a weekly sync meeting. Once everyone aligned on priorities, the project moved forward with surprising speed.",
+    "topicTag": "teamwork",
+    "moodTag": "optimistic"
+  },
+  "step3": {
+    "story": "When the merger was announced, nobody was sure how two rival departments would ever collaborate effectively. Each team had its own tools, its own habits, and frankly, its own pride. The new manager started small — a shared dashboard, a standing call every Monday, a Slack channel where wins were celebrated publicly. Within two months, the tension had softened into something that looked, cautiously, like trust. By the end of the quarter, the combined team had shipped a feature neither side could have built alone.",
+    "topicTag": "organizational change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "서로 힘을 합쳐 공동의 목표를 향해 효과적으로 일하다.",
+    "realUsageKo": "직장에서 팀원들이 소통과 역할 분담을 통해 성과를 높이는 방식을 묘사할 때 주로 쓰인다. 프로젝트 관리, 회의, 성과 평가 맥락에서 자주 등장한다.",
+    "etymologyKo": "'collaborate'는 라틴어 'collaborare'(함께 일하다)에서 유래했으며, 'col-'(함께)과 'laborare'(일하다)의 합성어다. 'effectively'는 'effect'(효과)의 부사형으로 '실질적인 결과를 내며'라는 의미를 더한다.",
+    "nuanceKo": "단순히 '같이 일한다'는 뜻을 넘어, 구조와 소통이 뒷받침된 생산적인 협력을 강조한다. 비즈니스 문서나 발표에서 긍정적이고 전문적인 어감을 준다.",
+    "shortExampleEn": "Cross-functional teams collaborate effectively when roles and responsibilities are clearly defined.",
+    "shortExampleKo": "역할과 책임이 명확하게 정의될 때 부서 간 팀은 효과적으로 협력할 수 있다."
+  }
+}

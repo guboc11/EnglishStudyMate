@@ -1,0 +1,30 @@
+{
+  "id": "explore-new-avenues_01ef6ae3",
+  "expression": "explore new avenues",
+  "selectionMeta": {
+    "selectedPhrase": "explore new avenues",
+    "selectedSenseLabelKo": "새로운 방향을 탐색하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the product launch stalled, the team decided to explore new avenues for reaching younger customers."
+  },
+  "step2": {
+    "story": "Maya had spent three years trying to grow her photography business through referrals alone, but growth had plateaued. Her mentor encouraged her to explore new avenues, so she launched a social media series showcasing behind-the-scenes shoots. Within two months, bookings had doubled.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After the grant fell through, the nonprofit's director called an emergency meeting and asked everyone to explore new avenues for funding the youth program. One volunteer suggested corporate sponsorships; another proposed a community crowdfunding campaign. At first the ideas felt overwhelming, but the team agreed to pursue both simultaneously. They spent the next week pitching to local businesses and crafting a compelling online campaign. To everyone's surprise, the crowdfunding goal was met in four days, and two small businesses signed on as sponsors. The program was saved, and the experience permanently changed how the organization thought about sustainability.",
+    "topicTag": "community fundraising",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'새로운 길(avenues)을 탐색(explore)하다'라는 뜻으로, 아직 시도하지 않은 경로나 방법을 찾아본다는 의미입니다.",
+    "realUsageKo": "문제 해결이나 목표 달성을 위해 기존과 다른 접근 방식이나 가능성을 적극적으로 찾아볼 때 사용합니다. 비즈니스, 연구, 개인적인 도전 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "'Avenue'는 원래 프랑스어에서 '~로 나아가는 길'을 뜻하며, 넓은 대로를 가리켰습니다. 이후 '가능성의 경로'라는 비유적 의미로 확장되어 영어에 정착했습니다.",
+    "nuanceKo": "단순히 '다른 것을 시도한다'기보다 더 적극적이고 개방적인 탐색의 뉘앙스를 담고 있습니다. 주로 긍정적·진취적 맥락에서 쓰이며, 공식적인 글이나 발표에서도 자주 등장합니다.",
+    "shortExampleEn": "The company is exploring new avenues to reduce its carbon footprint.",
+    "shortExampleKo": "그 회사는 탄소 발자국을 줄이기 위해 새로운 방향을 탐색하고 있다."
+  }
+}

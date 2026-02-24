@@ -1,0 +1,30 @@
+{
+  "id": "give-back_6143381a",
+  "expression": "give back",
+  "selectionMeta": {
+    "selectedPhrase": "give back",
+    "selectedSenseLabelKo": "사회에 환원하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After building a successful company, she decided to give back by funding scholarships for students in need."
+  },
+  "step2": {
+    "story": "Marcus had spent twenty years climbing the corporate ladder, but after retiring he felt an emptiness he couldn't shake. He chose to give back by volunteering at the community center where he had once received free tutoring as a child. Seeing young students thrive gave his life a new sense of purpose.",
+    "topicTag": "community service",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "Elena grew up in a small town where neighbors always helped one another through hard times. When her tech startup went public and she found herself wealthy beyond her childhood dreams, she never forgot where she came from. She set up a foundation to give back to the town that had shaped her, funding a new library and after-school programs. At the ribbon-cutting ceremony, she recognized faces of teachers and shop owners who had encouraged her decades ago. Standing at the podium, her voice wavered as she told the crowd that success means nothing if you keep it all to yourself. Giving back, she said, was the best investment she had ever made.",
+    "topicTag": "philanthropy",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 받은 곳에 돌려주다.",
+    "realUsageKo": "개인이 사회, 지역사회, 또는 자신을 도와준 사람들에게 시간·돈·노력 등을 환원하는 행위를 표현할 때 사용한다.",
+    "etymologyKo": "'give'(주다)와 방향을 나타내는 부사 'back'(되돌아)의 결합으로, 받은 것을 원래 출처로 되돌려 준다는 개념에서 비롯되었다.",
+    "nuanceKo": "단순한 기부를 넘어 도덕적 책임감과 감사함을 내포하며, 자원봉사나 사회공헌 활동 전반에 따뜻하고 긍정적인 뉘앙스로 쓰인다.",
+    "shortExampleEn": "He volunteers every weekend to give back to his community.",
+    "shortExampleKo": "그는 지역사회에 환원하기 위해 매주 주말 자원봉사를 한다."
+  }
+}

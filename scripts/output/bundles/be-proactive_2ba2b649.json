@@ -1,0 +1,30 @@
+{
+  "id": "be-proactive_2ba2b649",
+  "expression": "be proactive",
+  "selectionMeta": {
+    "selectedPhrase": "be proactive",
+    "selectedSenseLabelKo": "주도적으로 행동하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Instead of waiting for problems to arise, the best managers be proactive and address potential issues before they escalate."
+  },
+  "step2": {
+    "story": "Sarah noticed the project timeline was slipping before anyone else did. Rather than wait for her manager to bring it up, she decided to be proactive and scheduled a team meeting to realign priorities. Her initiative impressed everyone and got the project back on track.",
+    "topicTag": "workplace initiative",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel joined the new marketing team, he quickly realized that the department was always scrambling to respond to crises instead of preventing them. He decided to be proactive by creating a monthly risk review process and sharing it with his team lead. At first, some colleagues were skeptical, thinking it was extra work on top of their busy schedules. But after the first session identified two potential campaign conflicts weeks in advance, attitudes shifted completely. Soon, being proactive became part of the team's culture, and last-minute emergencies grew rare. Daniel's approach transformed the way the whole department operated.",
+    "topicTag": "team culture",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제가 생기기를 기다리지 않고 먼저 나서서 행동하다.",
+    "realUsageKo": "비즈니스 환경에서 지시를 기다리지 않고 스스로 상황을 파악해 먼저 행동하거나 문제를 예방하는 태도를 표현할 때 사용한다.",
+    "etymologyKo": "라틴어 'proactivus'에서 유래했으며, '앞서(pro-)'와 '행동하다(activus)'가 결합된 말로, 수동적으로 반응하는 것과 대비되는 개념이다.",
+    "nuanceKo": "단순히 부지런하다는 의미를 넘어, 미래를 예측하고 먼저 움직이는 전략적 태도를 긍정적으로 강조하는 표현이다.",
+    "shortExampleEn": "You need to be proactive about following up with clients rather than waiting for them to reach out.",
+    "shortExampleKo": "고객이 먼저 연락할 때까지 기다리지 말고, 먼저 주도적으로 팔로업해야 합니다."
+  }
+}

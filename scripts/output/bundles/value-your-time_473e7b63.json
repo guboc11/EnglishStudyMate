@@ -1,0 +1,30 @@
+{
+  "id": "value-your-time_473e7b63",
+  "expression": "value your time",
+  "selectionMeta": {
+    "selectedPhrase": "value your time",
+    "selectedSenseLabelKo": "시간을 소중히 여기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you truly value your time, you'll stop saying yes to every request that doesn't align with your goals."
+  },
+  "step2": {
+    "story": "Maya used to spend hours scrolling through her phone without thinking twice. One morning, she decided to value her time and replaced that habit with reading and journaling. Within weeks, she felt more focused and accomplished than ever before.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had always been the person everyone called when they needed a favor, and he rarely said no. Over time, he realized his own projects were suffering because he never valued his time the way he valued others'. A mentor once told him, 'People will take as much of your time as you allow them to.' That line stuck with him. He began setting firm boundaries, blocking off mornings for deep work, and declining meetings that could have been emails. For the first time in years, he finished the novel he'd been writing, proof that learning to value your time is one of the most powerful things you can do for yourself.",
+    "topicTag": "work-life balance",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'자신의 시간을 소중하게 여기다'라는 뜻으로, 시간을 귀한 자원으로 인식하고 의미 있게 사용하려는 태도를 나타냅니다.",
+    "realUsageKo": "자기 시간을 허투루 쓰지 않고 우선순위를 정해 집중하는 사람을 묘사할 때 씁니다. 불필요한 일이나 부탁을 거절할 때의 이유로도 자주 사용됩니다.",
+    "etymologyKo": "'value'는 라틴어 'valere(가치 있다, 강하다)'에서 유래했으며, 중세 영어에 들어와 '소중히 여기다'는 동사 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 시간 관리 이상의 자기 존중과 주체적 선택을 함축하며, 다소 단호하고 자기 주도적인 뉘앙스를 풍깁니다.",
+    "shortExampleEn": "She learned to value her time after realizing how much energy she wasted on things that didn't matter.",
+    "shortExampleKo": "그녀는 중요하지 않은 일에 얼마나 많은 에너지를 낭비했는지 깨닫고 나서 자신의 시간을 소중히 여기게 되었다."
+  }
+}

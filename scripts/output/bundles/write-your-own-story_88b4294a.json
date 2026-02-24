@@ -1,0 +1,30 @@
+{
+  "id": "write-your-own-story_88b4294a",
+  "expression": "write your own story",
+  "selectionMeta": {
+    "selectedPhrase": "write your own story",
+    "selectedSenseLabelKo": "자신만의 이야기를 쓰다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter what others expect of you, only you can write your own story."
+  },
+  "step2": {
+    "story": "After years of following the path her parents chose, Mia finally decided to write her own story. She quit her stable job, packed a single bag, and moved to a small coastal town to paint. For the first time, the life she was living felt truly hers.",
+    "topicTag": "self-discovery",
+    "moodTag": "liberating"
+  },
+  "step3": {
+    "story": "Daniel had spent his twenties chasing a career in law because everyone said it was the smart choice. He was good at it, respected even, but every morning felt like wearing someone else's clothes. One evening, staring at a blank sketchbook he'd bought on impulse, he realized he had never once stopped to write his own story. He closed his laptop, picked up a pencil, and began to draw. It wasn't a grand gesture — just a quiet, deliberate choice to stop living by someone else's script. Slowly, line by line, a new chapter began to take shape.",
+    "topicTag": "life choices",
+    "moodTag": "quietly determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신만의 이야기를 직접 써 내려가다.",
+    "realUsageKo": "남이 정해준 길을 따르지 않고 스스로의 의지로 삶의 방향을 결정하고 개척해 나간다는 의미로 쓰인다. 자기 주도적 삶과 자아실현을 강조할 때 자주 등장하는 표현이다.",
+    "etymologyKo": "'write'(쓰다)와 'story'(이야기)가 결합된 은유적 표현으로, 삶을 한 편의 이야기에 비유하는 서양 문화권의 내러티브 메타포에서 비롯됐다. 자서전(autobiography)의 개념과도 맞닿아 있다.",
+    "nuanceKo": "긍정적이고 주체적인 어감을 지니며, 주로 영감을 주는 맥락에서 쓰인다. 타인의 기대나 사회적 압력을 벗어나 진정한 자아를 찾으라는 격려의 뉘앙스를 강하게 담고 있다.",
+    "shortExampleEn": "Don't let fear stop you — go out there and write your own story.",
+    "shortExampleKo": "두려움에 멈추지 마세요 — 나가서 자신만의 이야기를 써 내려가세요."
+  }
+}

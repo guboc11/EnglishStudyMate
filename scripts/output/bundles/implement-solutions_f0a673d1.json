@@ -1,0 +1,30 @@
+{
+  "id": "implement-solutions_f0a673d1",
+  "expression": "implement solutions",
+  "selectionMeta": {
+    "selectedPhrase": "implement solutions",
+    "selectedSenseLabelKo": "해결책을 실행하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The project team worked overtime to implement solutions that would reduce customer complaints before the end of the quarter."
+  },
+  "step2": {
+    "story": "After months of declining sales, the regional manager called an urgent meeting to implement solutions across all store locations. The team introduced new inventory tracking software and revised their customer service protocols. Within weeks, performance metrics began to improve noticeably.",
+    "topicTag": "business turnaround",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The startup had been struggling with high churn rates for nearly a year, and the board of directors was growing impatient. Elena, the newly appointed COO, spent her first two weeks listening to customer feedback and analyzing operational data. She then proposed a three-phase plan to implement solutions targeting onboarding, support response time, and product reliability. The engineering and customer success teams collaborated closely, rolling out changes in carefully timed sprints. Three months later, churn had dropped by thirty percent and user satisfaction scores had climbed to an all-time high. Elena's methodical approach proved that taking time to understand a problem before acting makes every solution far more effective.",
+    "topicTag": "startup growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제나 과제에 대한 해결책을 실제로 실행에 옮기다.",
+    "realUsageKo": "비즈니스나 프로젝트 환경에서 문제를 파악한 뒤 구체적인 조치를 행동으로 옮기는 과정을 표현할 때 사용한다. 단순히 아이디어를 제안하는 것을 넘어 실질적으로 적용·실행한다는 의미를 강조한다.",
+    "etymologyKo": "'implement'는 라틴어 'implementum(채우다, 완성하다)'에서 유래했으며, 17세기부터 '도구'를 뜻하다가 현대에는 '실행하다'는 동사로 정착했다. 'solution'은 라틴어 'solutio(풀다)'에서 왔다.",
+    "nuanceKo": "단순한 시도(try)나 제안(suggest)보다 훨씬 적극적이고 체계적인 실행을 함의한다. 공식적·전문적 맥락에서 자주 쓰이며, 계획이 구체적이고 완성도가 있음을 암시하는 어감을 준다.",
+    "shortExampleEn": "We need to implement solutions quickly before the problem escalates further.",
+    "shortExampleKo": "문제가 더 악화되기 전에 빠르게 해결책을 실행해야 합니다."
+  }
+}

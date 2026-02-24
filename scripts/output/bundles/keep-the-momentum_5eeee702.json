@@ -1,0 +1,30 @@
+{
+  "id": "keep-the-momentum_5eeee702",
+  "expression": "keep the momentum",
+  "selectionMeta": {
+    "selectedPhrase": "keep the momentum",
+    "selectedSenseLabelKo": "추진력을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a strong start to the quarter, the team worked hard to keep the momentum going into the final weeks."
+  },
+  "step2": {
+    "story": "The startup had just landed its first major client, and the CEO urged everyone to keep the momentum by reaching out to ten more prospects that week. The energy in the office was electric, and no one wanted to let it fade.",
+    "topicTag": "startup growth",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "After three consecutive wins, the coach gathered the team in the locker room and spoke with quiet intensity. 'We've built something real here,' she said, 'but the hardest part is to keep the momentum when the other teams start studying us.' The players nodded, knowing that complacency had cost them championships before. They agreed to raise their training intensity and stay disciplined off the field. By the time the next match arrived, the team stepped onto the pitch not with arrogance, but with a calm, focused drive that their opponents struggled to match. They won again — and this time it felt inevitable.",
+    "topicTag": "sports teamwork",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'momentum(추진력·흐름)'을 계속 유지한다는 뜻으로, 한 번 생긴 속도나 흐름이 멈추지 않도록 지속시킨다는 의미입니다.",
+    "realUsageKo": "프로젝트, 스포츠, 사업 등 좋은 흐름이 생겼을 때 그 기세를 이어가도록 노력하는 상황에서 씁니다. 주로 'keep the momentum going'처럼 going을 붙여 쓰는 경우가 많습니다.",
+    "etymologyKo": "momentum은 라틴어 'movimentum(움직임)'에서 유래했으며, 물리학 용어에서 '질량 × 속도'를 뜻하다가 일상어로 확장되어 '진행 중인 흐름이나 기세'를 가리키게 되었습니다.",
+    "nuanceKo": "단순히 '계속하다'보다 더 역동적이고 긍정적인 뉘앙스를 지닙니다. 이미 좋은 흐름이 시작된 상태에서 그것을 잃지 않으려는 적극적인 의지가 담겨 있습니다.",
+    "shortExampleEn": "We need to keep the momentum after this successful product launch.",
+    "shortExampleKo": "이번 제품 출시 성공 이후 추진력을 유지해야 합니다."
+  }
+}

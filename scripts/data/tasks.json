@@ -1,11 +1,13 @@
 {
   "meta": {
     "total": 2000,
-    "content_done": 1700,
-    "pending": 291,
+    "content_done": 1842,
+    "pending": 146,
     "errors": 0,
-    "last_updated": "2026-02-24T11:15:00.000Z",
-    "in_progress": 0
+    "last_updated": "2026-02-24T11:42:00.000Z",
+    "in_progress": 10,
+    "image_done": 0,
+    "completed": 0
   },
   "expressions": [
     {
@@ -22521,10 +22523,10 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "in_progress",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/get-results_e336caf9.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null,
+      "done_at": "2026-02-24T11:20:00.000Z",
       "claimed_at": "2026-02-24T11:15:24.109Z"
     },
     {
@@ -22534,10 +22536,10 @@
       "domain": "general",
       "type": "phrasal_verb",
       "level": "B1",
-      "status": "in_progress",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/give-back_6143381a.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null,
+      "done_at": "2026-02-24T11:16:00.000Z",
       "claimed_at": "2026-02-24T11:15:44.965Z"
     },
     {
@@ -22547,10 +22549,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/grab-attention_9598a35e.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:16:00.000Z",
+      "claimed_at": "2026-02-24T11:15:56.681Z"
     },
     {
       "id": "grow-your-business_5e8eafe6",
@@ -22559,10 +22562,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/grow-your-business_5e8eafe6.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:20:00.000Z",
+      "claimed_at": "2026-02-24T11:16:21.367Z"
     },
     {
       "id": "have-a-clear-vision_3bac80c0",
@@ -22571,10 +22575,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/have-a-clear-vision_3bac80c0.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:17:56.109Z",
+      "claimed_at": "2026-02-24T11:16:45.259Z"
     },
     {
       "id": "hold-accountable_e5a62745",
@@ -22583,10 +22588,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/hold-accountable_e5a62745.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:17:00.000Z",
+      "claimed_at": "2026-02-24T11:16:52.119Z"
     },
     {
       "id": "ignite-passion_77b450ae",
@@ -22595,10 +22601,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/ignite-passion_77b450ae.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:18:07.956Z",
+      "claimed_at": "2026-02-24T11:17:23.758Z"
     },
     {
       "id": "implement-solutions_f0a673d1",
@@ -22607,10 +22614,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/implement-solutions_f0a673d1.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:18:30.000Z",
+      "claimed_at": "2026-02-24T11:17:55.116Z"
     },
     {
       "id": "improve-efficiency_c52f9e04",
@@ -22619,10 +22627,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/improve-efficiency_c52f9e04.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T00:00:00.000Z",
+      "claimed_at": "2026-02-24T11:18:07.943Z"
     },
     {
       "id": "invest-in-yourself_6fcf5084",
@@ -22631,10 +22640,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/invest-in-yourself_6fcf5084.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:18:30.000Z",
+      "claimed_at": "2026-02-24T11:18:16.689Z"
     },
     {
       "id": "keep-the-momentum_5eeee702",
@@ -22643,10 +22653,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/keep-the-momentum_5eeee702.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:19:00.000Z",
+      "claimed_at": "2026-02-24T11:18:52.608Z"
     },
     {
       "id": "lead-by-example_bee1c3cb",
@@ -22655,10 +22666,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/lead-by-example_bee1c3cb.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:19:30.000Z",
+      "claimed_at": "2026-02-24T11:19:12.697Z"
     },
     {
       "id": "leverage-your-strengths_a637f83f",
@@ -22667,10 +22679,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/leverage-your-strengths_a637f83f.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:19:19.100Z",
+      "claimed_at": "2026-02-24T11:19:19.100Z"
     },
     {
       "id": "level-up_37a71af0",
@@ -22679,10 +22692,11 @@
       "domain": "general",
       "type": "phrasal_verb",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/level-up_37a71af0.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:20:00.000Z",
+      "claimed_at": "2026-02-24T11:19:49.732Z"
     },
     {
       "id": "make-it-happen_eef75a19",
@@ -22691,10 +22705,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/make-it-happen_eef75a19.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:20:09.086Z",
+      "claimed_at": "2026-02-24T11:20:09.086Z"
     },
     {
       "id": "manage-expectations_2df49441",
@@ -22703,10 +22718,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/manage-expectations_2df49441.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:21:26.065Z",
+      "claimed_at": "2026-02-24T11:20:17.452Z"
     },
     {
       "id": "motivate-your-team_be8d73ff",
@@ -22715,10 +22731,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/motivate-your-team_be8d73ff.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T00:00:00.000Z",
+      "claimed_at": "2026-02-24T11:20:56.597Z"
     },
     {
       "id": "nail-a-presentation_bcea4750",
@@ -22727,10 +22744,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/nail-a-presentation_bcea4750.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:21:13.433Z",
+      "claimed_at": "2026-02-24T11:21:13.433Z"
     },
     {
       "id": "navigate-challenges_79842a89",
@@ -22739,10 +22757,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/navigate-challenges_79842a89.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:21:38.949Z",
+      "claimed_at": "2026-02-24T11:21:38.949Z"
     },
     {
       "id": "open-doors_d8aa56f6",
@@ -22751,10 +22770,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/open-doors_d8aa56f6.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:22:00.000Z",
+      "claimed_at": "2026-02-24T11:21:56.282Z"
     },
     {
       "id": "persevere-through-hardship_1729cca4",
@@ -22763,10 +22783,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/persevere-through-hardship_1729cca4.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:22:15.165Z",
+      "claimed_at": "2026-02-24T11:22:15.165Z"
     },
     {
       "id": "pivot-quickly_ac2f6587",
@@ -22775,10 +22796,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/pivot-quickly_ac2f6587.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:22:51.724Z",
+      "claimed_at": "2026-02-24T11:22:51.724Z"
     },
     {
       "id": "push-boundaries_5b05930b",
@@ -22787,10 +22809,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/push-boundaries_5b05930b.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:23:00.000Z",
+      "claimed_at": "2026-02-24T11:22:56.181Z"
     },
     {
       "id": "push-forward_ac150f76",
@@ -22799,10 +22822,11 @@
       "domain": "general",
       "type": "phrasal_verb",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/push-forward_ac150f76.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:24:14.753Z",
+      "claimed_at": "2026-02-24T11:23:12.376Z"
     },
     {
       "id": "reach-your-full-potential_6a4755f9",
@@ -22811,10 +22835,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/reach-your-full-potential_6a4755f9.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:24:00.000Z",
+      "claimed_at": "2026-02-24T11:23:57.596Z"
     },
     {
       "id": "rethink-your-approach_0bb6167c",
@@ -22823,10 +22848,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/rethink-your-approach_0bb6167c.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:24:05.471Z",
+      "claimed_at": "2026-02-24T11:24:05.471Z"
     },
     {
       "id": "scale-up_e88291ec",
@@ -22835,10 +22861,11 @@
       "domain": "business",
       "type": "phrasal_verb",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/scale-up_e88291ec.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:24:24.209Z",
+      "claimed_at": "2026-02-24T11:24:24.209Z"
     },
     {
       "id": "secure-funding_c6cabac2",
@@ -22847,10 +22874,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/secure-funding_c6cabac2.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:25:10.216Z",
+      "claimed_at": "2026-02-24T11:25:10.216Z"
     },
     {
       "id": "seize-opportunities_176982b9",
@@ -22859,10 +22887,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/seize-opportunities_176982b9.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:25:21.839Z",
+      "claimed_at": "2026-02-24T11:25:21.839Z"
     },
     {
       "id": "set-a-precedent_f282785a",
@@ -22871,10 +22900,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "C1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/set-a-precedent_f282785a.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:26:14.353Z",
+      "claimed_at": "2026-02-24T11:25:25.808Z"
     },
     {
       "id": "sharpen-your-skills_f7cdeb9e",
@@ -22883,10 +22913,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/sharpen-your-skills_f7cdeb9e.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:26:14.353Z",
+      "claimed_at": "2026-02-24T11:26:10.599Z"
     },
     {
       "id": "shift-your-mindset_20d56f91",
@@ -22895,10 +22926,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/shift-your-mindset_20d56f91.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:27:08.214Z",
+      "claimed_at": "2026-02-24T11:26:20.877Z"
     },
     {
       "id": "show-initiative_2ad43570",
@@ -22907,10 +22939,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/show-initiative_2ad43570.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:27:54.140Z",
+      "claimed_at": "2026-02-24T11:26:42.094Z"
     },
     {
       "id": "simplify-the-process_aa950f34",
@@ -22919,10 +22952,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/simplify-the-process_aa950f34.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:28:00.000Z",
+      "claimed_at": "2026-02-24T11:27:19.700Z"
     },
     {
       "id": "speak-with-confidence_a9899ae8",
@@ -22931,10 +22965,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/speak-with-confidence_a9899ae8.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:27:38.692Z",
+      "claimed_at": "2026-02-24T11:27:38.692Z"
     },
     {
       "id": "stay-ahead-of-the-curve_b3545753",
@@ -22943,10 +22978,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/stay-ahead-of-the-curve_b3545753.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:28:01.720Z",
+      "claimed_at": "2026-02-24T11:28:01.720Z"
     },
     {
       "id": "stay-committed_711f1920",
@@ -22955,10 +22991,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/stay-committed_711f1920.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:28:18.000Z",
+      "claimed_at": "2026-02-24T11:28:17.653Z"
     },
     {
       "id": "stay-consistent_3bc8fd42",
@@ -22967,10 +23004,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/stay-consistent_3bc8fd42.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:29:00.000Z",
+      "claimed_at": "2026-02-24T11:28:46.496Z"
     },
     {
       "id": "stay-grounded_830c34cd",
@@ -22979,10 +23017,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/stay-grounded_830c34cd.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:29:16.934Z",
+      "claimed_at": "2026-02-24T11:29:16.934Z"
     },
     {
       "id": "stay-humble_d8bb138c",
@@ -22991,10 +23030,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/stay-humble_d8bb138c.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:30:37.267Z",
+      "claimed_at": "2026-02-24T11:29:26.259Z"
     },
     {
       "id": "stay-the-course_9635d5a9",
@@ -23003,10 +23043,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/stay-the-course_9635d5a9.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:30:10.000Z",
+      "claimed_at": "2026-02-24T11:29:53.450Z"
     },
     {
       "id": "take-calculated-risks_bf2fe262",
@@ -23015,10 +23056,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/take-calculated-risks_bf2fe262.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:31:15.455Z",
+      "claimed_at": "2026-02-24T11:30:14.704Z"
     },
     {
       "id": "take-initiative_bbf91e4e",
@@ -23027,10 +23069,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/take-initiative_bbf91e4e.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:30:50.000Z",
+      "claimed_at": "2026-02-24T11:30:49.992Z"
     },
     {
       "id": "take-ownership_ba90b762",
@@ -23039,10 +23082,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/take-ownership_ba90b762.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:31:20.000Z",
+      "claimed_at": "2026-02-24T11:31:18.041Z"
     },
     {
       "id": "think-strategically_0e1d7946",
@@ -23051,10 +23095,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/think-strategically_0e1d7946.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:31:25.751Z",
+      "claimed_at": "2026-02-24T11:31:25.751Z"
     },
     {
       "id": "turn-challenges-into-opportunities_fe5a25da",
@@ -23063,10 +23108,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/turn-challenges-into-opportunities_fe5a25da.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:32:00.000Z",
+      "claimed_at": "2026-02-24T11:31:52.371Z"
     },
     {
       "id": "unlock-potential_7ae4b250",
@@ -23075,10 +23121,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/unlock-potential_7ae4b250.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:32:31.011Z",
+      "claimed_at": "2026-02-24T11:32:31.011Z"
     },
     {
       "id": "value-your-time_473e7b63",
@@ -23087,10 +23134,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/value-your-time_473e7b63.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:32:36.369Z",
+      "claimed_at": "2026-02-24T11:32:36.369Z"
     },
     {
       "id": "win-the-trust_f9ebce3d",
@@ -23099,10 +23147,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/win-the-trust_f9ebce3d.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:33:43.820Z",
+      "claimed_at": "2026-02-24T11:32:59.524Z"
     },
     {
       "id": "work-smarter_ebcb7c8f",
@@ -23111,10 +23160,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/work-smarter_ebcb7c8f.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:34:03.552Z",
+      "claimed_at": "2026-02-24T11:33:27.635Z"
     },
     {
       "id": "write-your-own-story_88b4294a",
@@ -23123,10 +23173,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/write-your-own-story_88b4294a.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:34:03.820Z",
+      "claimed_at": "2026-02-24T11:33:41.740Z"
     },
     {
       "id": "address-concerns_570a8f33",
@@ -23135,10 +23186,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/address-concerns_570a8f33.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:34:00.000Z",
+      "claimed_at": "2026-02-24T11:33:50.979Z"
     },
     {
       "id": "align-with-goals_e24f03a6",
@@ -23147,10 +23199,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/align-with-goals_e24f03a6.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:34:13.000Z",
+      "claimed_at": "2026-02-24T11:34:12.808Z"
     },
     {
       "id": "avoid-burnout_cd7c77a1",
@@ -23159,10 +23212,11 @@
       "domain": "daily",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/avoid-burnout_cd7c77a1.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:35:00.000Z",
+      "claimed_at": "2026-02-24T11:34:37.370Z"
     },
     {
       "id": "be-a-team-player_0194c025",
@@ -23171,10 +23225,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/be-a-team-player_0194c025.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:35:00.000Z",
+      "claimed_at": "2026-02-24T11:34:54.547Z"
     },
     {
       "id": "be-proactive_2ba2b649",
@@ -23183,10 +23238,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/be-proactive_2ba2b649.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:35:14.681Z",
+      "claimed_at": "2026-02-24T11:35:14.681Z"
     },
     {
       "id": "be-transparent_e0024b73",
@@ -23195,10 +23251,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/be-transparent_e0024b73.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:35:00.000Z",
+      "claimed_at": "2026-02-24T11:35:38.849Z"
     },
     {
       "id": "bounce-ideas-off_f1026593",
@@ -23207,10 +23264,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/bounce-ideas-off_f1026593.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:36:10.000Z",
+      "claimed_at": "2026-02-24T11:35:59.005Z"
     },
     {
       "id": "collaborate-effectively_87725aa9",
@@ -23219,10 +23277,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/collaborate-effectively_87725aa9.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:36:10.000Z",
+      "claimed_at": "2026-02-24T11:36:07.197Z"
     },
     {
       "id": "communicate-clearly_d9ced4b9",
@@ -23231,10 +23290,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/communicate-clearly_d9ced4b9.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:37:23.701Z",
+      "claimed_at": "2026-02-24T11:36:37.216Z"
     },
     {
       "id": "craft-a-message_b1eb6421",
@@ -23243,10 +23303,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/craft-a-message_b1eb6421.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:37:04.812Z",
+      "claimed_at": "2026-02-24T11:37:04.812Z"
     },
     {
       "id": "cross-the-finish-line_81845556",
@@ -23255,10 +23316,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/cross-the-finish-line_81845556.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:37:50.000Z",
+      "claimed_at": "2026-02-24T11:37:11.809Z"
     },
     {
       "id": "crush-the-competition_85169c31",
@@ -23267,10 +23329,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/crush-the-competition_85169c31.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:38:10.000Z",
+      "claimed_at": "2026-02-24T11:37:33.800Z"
     },
     {
       "id": "cut-through-the-noise_e2e88cf7",
@@ -23279,10 +23342,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/cut-through-the-noise_e2e88cf7.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:38:20.000Z",
+      "claimed_at": "2026-02-24T11:37:55.605Z"
     },
     {
       "id": "demonstrate-value_0896727b",
@@ -23291,10 +23355,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/demonstrate-value_0896727b.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:38:05.408Z",
+      "claimed_at": "2026-02-24T11:38:05.408Z"
     },
     {
       "id": "design-for-impact_ed87961e",
@@ -23303,10 +23368,11 @@
       "domain": "tech",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/design-for-impact_ed87961e.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T12:00:00.000Z",
+      "claimed_at": "2026-02-24T11:38:34.184Z"
     },
     {
       "id": "document-your-progress_5fd9cc8f",
@@ -23315,10 +23381,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/document-your-progress_5fd9cc8f.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:39:07.443Z",
+      "claimed_at": "2026-02-24T11:39:07.443Z"
     },
     {
       "id": "drive-engagement_dd6cd77d",
@@ -23327,10 +23394,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/drive-engagement_dd6cd77d.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:39:12.254Z",
+      "claimed_at": "2026-02-24T11:39:12.254Z"
     },
     {
       "id": "empower-your-team_aedf7fea",
@@ -23339,10 +23407,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/empower-your-team_aedf7fea.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:40:00.000Z",
+      "claimed_at": "2026-02-24T11:39:46.121Z"
     },
     {
       "id": "explore-new-avenues_01ef6ae3",
@@ -23351,10 +23420,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/explore-new-avenues_01ef6ae3.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T12:00:00.000Z",
+      "claimed_at": "2026-02-24T11:40:08.031Z"
     },
     {
       "id": "face-your-fears_a1714082",
@@ -23363,10 +23433,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/face-your-fears_a1714082.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:40:10.512Z",
+      "claimed_at": "2026-02-24T11:40:10.512Z"
     },
     {
       "id": "fill-a-gap_790c872d",
@@ -23375,10 +23446,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/fill-a-gap_790c872d.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:41:00.000Z",
+      "claimed_at": "2026-02-24T11:40:40.354Z"
     },
     {
       "id": "find-your-niche_20987737",
@@ -23387,10 +23459,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/find-your-niche_20987737.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:41:00.000Z",
+      "claimed_at": "2026-02-24T11:40:56.312Z"
     },
     {
       "id": "focus-on-what-matters_1d07537d",
@@ -23399,10 +23472,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/focus-on-what-matters_1d07537d.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:42:00.000Z",
+      "claimed_at": "2026-02-24T11:41:30.314Z"
     },
     {
       "id": "forge-connections_07cb7208",
@@ -23411,10 +23485,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/forge-connections_07cb7208.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:42:00.000Z",
+      "claimed_at": "2026-02-24T11:41:49.838Z"
     },
     {
       "id": "foster-innovation_ffecc4c3",
@@ -23423,10 +23498,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
+      "status": "in_progress",
       "bundle_path": null,
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": null,
+      "claimed_at": "2026-02-24T11:41:57.981Z"
     },
     {
       "id": "give-your-best-shot_aed72a5c",
@@ -23435,10 +23511,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "pending",
+      "status": "in_progress",
       "bundle_path": null,
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": null,
+      "claimed_at": "2026-02-24T11:42:22.979Z"
     },
     {
       "id": "go-above-and-beyond_85c97de1",

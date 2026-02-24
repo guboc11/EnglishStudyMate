@@ -1,0 +1,30 @@
+{
+  "id": "stay-grounded_830c34cd",
+  "expression": "stay grounded",
+  "selectionMeta": {
+    "selectedPhrase": "stay grounded",
+    "selectedSenseLabelKo": "중심을 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how much success he achieved, he always made sure to stay grounded by spending weekends with his family."
+  },
+  "step2": {
+    "story": "After her startup went viral overnight, Maya was suddenly flooded with interview requests and investor meetings. She called her old mentor and asked how to handle it all. He simply said, 'Stay grounded — remember why you started in the first place.'",
+    "topicTag": "sudden success",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "James had just been promoted to lead the entire engineering division, and the attention was overwhelming. Colleagues treated him differently, and strangers wanted his opinion on everything. He started to feel like he was drifting from the person he used to be. One evening, he went back to his old neighborhood and grabbed coffee with childhood friends who still teased him like nothing had changed. That night, he wrote in his journal: 'I need to stay grounded — success is only meaningful if I hold onto what actually matters.' From then on, he set a rule to unplug every Sunday and reconnect with what grounded him.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "땅에 발을 딛고 있다, 즉 현실에 단단히 뿌리를 내린 상태를 유지하다.",
+    "realUsageKo": "성공, 명성, 스트레스 등 외부 요인에 흔들리지 않고 자신의 본래 가치관·정체성을 잃지 않는 것을 의미한다. 주로 '겸손함을 잃지 말라'는 충고나 자기 다짐의 맥락에서 쓰인다.",
+    "etymologyKo": "'Grounded'는 전기공학에서 '접지(接地)된' 상태를 뜻하는 데서 비롯되어, 안정적이고 현실에 연결된 상태를 비유적으로 표현하는 데 사용되었다.",
+    "nuanceKo": "겸손하고 현실 감각을 유지하라는 긍정적인 뉘앙스가 강하다. 자기 성찰, 정신 건강, 리더십 문맥에서 자주 등장하며 다소 진지한 톤을 띤다.",
+    "shortExampleEn": "Despite her fame, she stays grounded and still does her own grocery shopping.",
+    "shortExampleKo": "명성에도 불구하고 그녀는 여전히 중심을 잡고 직접 장을 본다."
+  }
+}

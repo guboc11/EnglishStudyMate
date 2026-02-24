@@ -1,0 +1,30 @@
+{
+  "id": "take-calculated-risks_bf2fe262",
+  "expression": "take calculated risks",
+  "selectionMeta": {
+    "selectedPhrase": "take calculated risks",
+    "selectedSenseLabelKo": "계획된 위험을 감수하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Successful entrepreneurs understand that to grow their companies, they must be willing to take calculated risks rather than play it safe."
+  },
+  "step2": {
+    "story": "After months of research and financial modeling, Sarah decided to take calculated risks and expand her startup into two new markets simultaneously. She had weighed the potential downsides carefully and believed the timing was right. Her board was impressed by how methodically she had approached the decision.",
+    "topicTag": "business expansion",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Marcus had worked in finance long enough to know that playing it safe rarely led to breakthrough results. When the opportunity to acquire a struggling competitor arose, he spent three weeks analyzing every financial detail before presenting his recommendation to the executive team. He argued that the company needed to take calculated risks if it wanted to double its market share within five years. The board asked hard questions, but Marcus had answers for each one — he had anticipated their concerns. In the end, they approved the acquisition, trusting that Marcus had done the homework to back his bold proposal. Two years later, the move was cited in industry press as one of the savviest strategic decisions of the decade.",
+    "topicTag": "strategic decision-making",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "결과를 신중하게 계산하고 분석한 뒤에 위험을 감수하다.",
+    "realUsageKo": "비즈니스나 투자 맥락에서 무모하게 도전하는 것이 아니라, 충분한 조사와 분석을 바탕으로 위험 요소를 인지하면서도 과감하게 결정을 내리는 상황에 사용한다. 리더십이나 기업가 정신을 묘사할 때 자주 쓰인다.",
+    "etymologyKo": "'calculated'는 라틴어 'calculare(계산하다)'에서 유래했으며, '의도적으로 계획된'이라는 의미를 담고 있다. 'risk'는 이탈리아어 'risco'에서 왔으며 16세기 항해 용어에서 비롯되었다.",
+    "nuanceKo": "단순히 용감하다는 뜻이 아니라, 철저한 준비와 분석 위에서 내린 결단임을 강조하는 표현이다. 무모함(recklessness)과 대비되며, 전문성과 성숙함을 함께 드러내는 긍정적인 뉘앙스를 가진다.",
+    "shortExampleEn": "The best investors know when to take calculated risks and when to hold back.",
+    "shortExampleKo": "최고의 투자자들은 언제 계획된 위험을 감수하고 언제 참아야 할지를 안다."
+  }
+}

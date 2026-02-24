@@ -1,0 +1,30 @@
+{
+  "id": "demonstrate-value_0896727b",
+  "expression": "demonstrate value",
+  "selectionMeta": {
+    "selectedPhrase": "demonstrate value",
+    "selectedSenseLabelKo": "가치를 입증하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "During the quarterly review, Sarah seized the opportunity to demonstrate value by presenting data that showed her team's initiatives had reduced customer churn by 18%."
+  },
+  "step2": {
+    "story": "After months of quiet work behind the scenes, Marcus finally got his chance to demonstrate value at the all-hands meeting. He walked the executives through a dashboard showing how his process improvements had saved the company $200,000 in the past quarter. The room fell silent, then erupted in applause.",
+    "topicTag": "workplace achievement",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "Nina had been with the startup for only three months, but she already sensed skepticism from the senior team about whether her UX research role was worth the budget. She decided to demonstrate value in the most concrete way she could — by redesigning the onboarding flow based on user interviews and tracking the results. Within six weeks, new user retention climbed from 42% to 61%. She compiled everything into a concise report and shared it at the next leadership meeting, letting the numbers speak for themselves. The CFO, who had once questioned the hire, was the first to congratulate her. From that day on, no one doubted the impact of her work.",
+    "topicTag": "proving yourself at work",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신이나 자신의 업무가 얼마나 가치 있는지를 명확히 보여주다.",
+    "realUsageKo": "비즈니스 맥락에서 성과, 결과물, 데이터 등을 통해 자신의 역할이나 제품·서비스의 유용성을 입증할 때 사용합니다. 특히 예산 심사, 성과 리뷰, 영업 제안 등의 상황에서 자주 쓰입니다.",
+    "etymologyKo": "'demonstrate'는 라틴어 'demonstrare(명확히 보여주다)'에서 유래했으며, 'value'는 라틴어 'valere(강하다, 가치 있다)'에서 왔습니다. 두 단어가 결합되어 '가치를 증거로 보여주다'는 의미를 갖게 되었습니다.",
+    "nuanceKo": "단순히 '잘했다'고 말하는 것이 아니라 구체적인 증거나 결과로 가치를 객관적으로 입증한다는 뉘앙스가 강합니다. 자기 홍보(self-promotion)보다는 데이터 기반의 설득에 가까운 표현입니다.",
+    "shortExampleEn": "The pilot program gave our team a chance to demonstrate value before the full rollout.",
+    "shortExampleKo": "파일럿 프로그램은 전체 출시 전에 우리 팀이 가치를 입증할 기회를 주었다."
+  }
+}

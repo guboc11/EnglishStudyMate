@@ -1,0 +1,30 @@
+{
+  "id": "leverage-your-strengths_a637f83f",
+  "expression": "leverage your strengths",
+  "selectionMeta": {
+    "selectedPhrase": "leverage your strengths",
+    "selectedSenseLabelKo": "강점을 활용하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The career coach encouraged her to leverage your strengths rather than trying to fix every weakness before applying for the promotion."
+  },
+  "step2": {
+    "story": "Marcus had always doubted himself in meetings, but his mentor told him to leverage your strengths instead of comparing himself to others. He focused on his data analysis skills and clear communication, and soon his colleagues began seeking him out for advice.",
+    "topicTag": "career growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "When the startup faced its first major pivot, the CEO gathered the team and said, 'We need to leverage your strengths — every one of you was hired for a reason.' The developers leaned into rapid prototyping, the designers focused on user experience, and the marketers crafted a story that resonated with their audience. Within two months, the new product direction gained traction. By letting each person shine in their own area, the team turned a crisis into their biggest breakthrough yet.",
+    "topicTag": "team leadership",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 강점(장점)을 지렛대처럼 활용하다.",
+    "realUsageKo": "비즈니스나 자기계발 맥락에서 자신이 잘하는 능력을 전략적으로 최대한 활용하라는 의미로 쓰인다. 단순히 '쓰다'보다 더 전략적이고 의도적인 활용을 강조한다.",
+    "etymologyKo": "'leverage'는 원래 '지렛대(lever)의 힘'을 뜻하는 명사였으나, 현대 영어에서는 동사로도 쓰여 '~을 최대한 이용하다'는 의미를 갖게 되었다. 'strengths'는 개인의 강점·역량을 의미한다.",
+    "nuanceKo": "단순히 잘하는 것을 사용한다는 느낌보다 자원을 전략적으로 극대화한다는 뉘앙스가 강하다. 비즈니스·코칭·자기계발 분야에서 자주 등장하는 표현으로, 다소 공식적이고 동기부여적인 톤을 띤다.",
+    "shortExampleEn": "You should leverage your strengths in negotiation to close this deal.",
+    "shortExampleKo": "이번 계약을 성사시키기 위해 협상에서 당신의 강점을 활용해야 합니다."
+  }
+}

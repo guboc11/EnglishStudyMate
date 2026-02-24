@@ -1,0 +1,30 @@
+{
+  "id": "secure-funding_c6cabac2",
+  "expression": "secure funding",
+  "selectionMeta": {
+    "selectedPhrase": "secure funding",
+    "selectedSenseLabelKo": "자금을 확보하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After months of pitching to investors, the startup finally managed to secure funding for its product launch."
+  },
+  "step2": {
+    "story": "Maya had been preparing her pitch deck for weeks, determined to secure funding before her runway ran out. She walked into the meeting room with confidence, presenting her growth metrics and market strategy with clarity. By the end of the session, the lead investor nodded and said, 'We're in.'",
+    "topicTag": "startup fundraising",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had founded his cleantech company two years ago on a shoestring budget, convinced that solar microgrids could transform energy access in rural communities. Every conversation with a potential backer had ended in polite rejection, and his team was starting to doubt the mission. But Daniel refused to give up—he refined his financial model, gathered pilot data, and requested one final meeting with a venture capital firm known for impact investing. Standing at the front of the conference room, he spoke not just about profits but about purpose, showing how the technology had already lit up three villages. When the partners stepped out to deliberate, Daniel sat quietly, heart pounding. They returned with smiles: the firm had agreed to secure funding for the next phase of expansion, giving Daniel the resources he needed to finally scale his vision.",
+    "topicTag": "impact investing",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자금(funding)을 안전하게 확보(secure)하다는 뜻으로, 사업이나 프로젝트에 필요한 재정적 지원을 얻어내는 행위를 말합니다.",
+    "realUsageKo": "주로 스타트업 창업자나 기업 임원이 투자자, 벤처캐피털, 정부 보조금 등으로부터 사업 운영 또는 성장에 필요한 자금을 확보할 때 사용합니다. '투자를 유치하다'와 비슷한 맥락에서 쓰입니다.",
+    "etymologyKo": "'secure'는 라틴어 'securus(걱정 없는, 안전한)'에서 유래하여 '획득하여 안전히 손에 넣다'는 의미로 발전했고, 'funding'은 'fund(기금, 자금)'의 동명사형으로 중세 라틴어 'fundus(바닥, 토대)'에서 비롯되었습니다.",
+    "nuanceKo": "단순히 돈을 받는다(receive money)는 느낌보다 능동적인 노력과 협상 끝에 자금을 '쟁취'했다는 뉘앙스가 강합니다. 비즈니스·금융 문서, 뉴스 기사, 투자자 피칭 등 격식체 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "The biotech firm was able to secure funding from three major investors to advance its clinical trials.",
+    "shortExampleKo": "그 바이오테크 기업은 세 명의 주요 투자자로부터 자금을 확보하여 임상시험을 진행할 수 있었다."
+  }
+}

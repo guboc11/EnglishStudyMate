@@ -1,0 +1,30 @@
+{
+  "id": "stay-consistent_3bc8fd42",
+  "expression": "stay consistent",
+  "selectionMeta": {
+    "selectedPhrase": "stay consistent",
+    "selectedSenseLabelKo": "일관성을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to improve your writing, you need to stay consistent and practice a little every day."
+  },
+  "step2": {
+    "story": "Maria decided to wake up thirty minutes earlier each morning to exercise. It was hard at first, but she reminded herself to stay consistent no matter how tired she felt. After two months, the habit felt effortless.",
+    "topicTag": "healthy habits",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jake had been trying to grow his small online business for nearly a year, and there were weeks when sales were so slow he considered giving up. His mentor kept telling him the same thing: stay consistent with your content, even when it feels like no one is watching. So Jake kept posting, kept engaging, and kept showing up on the days he least wanted to. Gradually, his audience grew, not in a dramatic overnight surge, but in the quiet, steady way that real progress usually happens. Looking back, he realized that consistency was not just a strategy — it was the only thing that had truly mattered.",
+    "topicTag": "building a business",
+    "moodTag": "persevering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stay'(유지하다)와 'consistent'(일관된)의 결합으로, 행동이나 태도를 한결같이 유지한다는 뜻이다.",
+    "realUsageKo": "습관, 루틴, 업무 방식 등을 꾸준히 이어갈 때 사용하며, 특히 결과가 보이지 않아도 포기하지 말라고 격려할 때 자주 쓴다.",
+    "etymologyKo": "'consistent'는 라틴어 'consistere(함께 서다, 견고히 서다)'에서 유래했으며, 시간이 지나도 흔들리지 않고 같은 상태를 유지한다는 의미를 담고 있다.",
+    "nuanceKo": "단순히 반복한다는 의미를 넘어, 어려운 상황에서도 흔들리지 않는 의지와 규율을 강조하는 뉘앙스가 있다.",
+    "shortExampleEn": "The coach told the players to stay consistent in their training schedule throughout the season.",
+    "shortExampleKo": "코치는 선수들에게 시즌 내내 훈련 스케줄에서 일관성을 유지하라고 말했다."
+  }
+}

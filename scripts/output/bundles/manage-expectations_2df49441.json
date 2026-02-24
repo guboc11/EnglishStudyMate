@@ -1,0 +1,30 @@
+{
+  "id": "manage-expectations_2df49441",
+  "expression": "manage expectations",
+  "selectionMeta": {
+    "selectedPhrase": "manage expectations",
+    "selectedSenseLabelKo": "기대치를 관리하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The project manager held a kickoff meeting to manage expectations and ensure everyone understood the realistic timeline."
+  },
+  "step2": {
+    "story": "Sarah knew the client was hoping for a two-week turnaround, but the work would realistically take a month. She scheduled a call early on to manage expectations before any misunderstandings could develop. By being upfront, she built trust rather than disappointment.",
+    "topicTag": "client communication",
+    "moodTag": "professional"
+  },
+  "step3": {
+    "story": "When Daniel's team was assigned a high-profile product launch, the executives were buzzing with talk of record-breaking sales on day one. Daniel gathered everyone in the conference room and calmly walked them through the market data. 'We need to manage expectations here,' he said, pointing to the growth curves from comparable launches. 'A strong first quarter is realistic — an overnight miracle isn't.' The room grew quiet, but the honesty was respected. By the time launch day arrived, the team had a clear, achievable target and celebrated hitting it without the shadow of unmet hype.",
+    "topicTag": "product launch",
+    "moodTag": "calm and realistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "기대(expectations)를 관리(manage)한다는 뜻으로, 상대방이 갖는 기대치를 조율하고 통제하는 행위를 의미한다.",
+    "realUsageKo": "주로 비즈니스 맥락에서, 프로젝트 결과나 일정에 대해 고객·상사·팀원이 비현실적인 기대를 갖지 않도록 미리 솔직하게 소통할 때 사용한다. '기대치를 현실에 맞게 조정한다'는 뉘앙스가 강하다.",
+    "etymologyKo": "'manage'는 라틴어 'manus(손)'에서 유래해 '손으로 다루다, 통제하다'는 의미로 발전했고, 'expectation'은 라틴어 'expectare(기다리다, 바라다)'에서 왔다. 두 단어가 결합해 '사람들이 바라는 것을 능동적으로 다룬다'는 표현이 됐다.",
+    "nuanceKo": "단순히 기대를 낮추는 것이 아니라, 현실적인 정보를 사전에 제공해 불필요한 실망이나 오해를 예방한다는 긍정적·전문적 뉘앙스가 있다. 부정적으로 사용하면 '좋은 소식을 숨기며 기대를 억누른다'는 비판적 의미가 되기도 한다.",
+    "shortExampleEn": "We need to manage expectations with the client before they assume the app will be ready by Friday.",
+    "shortExampleKo": "클라이언트가 금요일까지 앱이 준비될 것이라고 지레짐작하기 전에 기대치를 조율해야 합니다."
+  }
+}

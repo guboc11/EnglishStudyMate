@@ -1,0 +1,30 @@
+{
+  "id": "open-doors_d8aa56f6",
+  "expression": "open doors",
+  "selectionMeta": {
+    "selectedPhrase": "open doors",
+    "selectedSenseLabelKo": "기회를 열다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Learning a second language can open doors to careers and friendships you never imagined possible."
+  },
+  "step2": {
+    "story": "Maya spent two years studying data science while working full time. When she finally earned her certification, it began to open doors she had never expected—a recruiter reached out within a week. She accepted a role that doubled her salary.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "James grew up in a small town with limited opportunities, but his love for coding kept him going through long nights of self-study. After building a portfolio of side projects, he submitted applications to companies across the country. His skills started to open doors at startups that valued passion over pedigree. One founder flew him out for an interview and offered him a position on the spot. Standing in his new apartment in a city he had only dreamed of visiting, James realized that persistence truly does open doors for those willing to work for it.",
+    "topicTag": "self-improvement",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "문을 열다 — 물리적으로 닫힌 문을 여는 행위를 뜻한다.",
+    "realUsageKo": "실제로는 '새로운 가능성이나 기회를 만들어 주다'는 의미로 사용되며, 교육·인맥·기술 등이 누군가의 앞길을 열어 준다고 표현할 때 쓴다.",
+    "etymologyKo": "'문(door)을 연다'는 물리적 이미지에서 유래한 관용적 표현으로, 영어권에서 오래전부터 기회나 접근권을 비유하는 데 사용되어 왔다.",
+    "nuanceKo": "긍정적이고 희망적인 뉘앙스를 지니며, 노력이나 자격이 새로운 세계로 나아가는 통로가 된다는 의미를 강조한다.",
+    "shortExampleEn": "A strong network can open doors that a résumé alone cannot.",
+    "shortExampleKo": "탄탄한 인맥은 이력서만으로는 열 수 없는 기회의 문을 열어 줄 수 있다."
+  }
+}

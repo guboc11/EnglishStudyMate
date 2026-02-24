@@ -1,0 +1,30 @@
+{
+  "id": "improve-efficiency_c52f9e04",
+  "expression": "improve efficiency",
+  "selectionMeta": {
+    "selectedPhrase": "improve efficiency",
+    "selectedSenseLabelKo": "효율성을 높이다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The new software was designed to improve efficiency across all departments by automating repetitive tasks."
+  },
+  "step2": {
+    "story": "After months of missed deadlines, the operations manager decided it was time to improve efficiency in the warehouse. She introduced a barcode scanning system that cut processing time in half. The team was relieved—and finally able to leave on time.",
+    "topicTag": "workplace productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been running his small bakery for three years, but lately the morning rush left him overwhelmed and behind schedule. A consultant visited and suggested several ways to improve efficiency, from reorganizing the prep station to batching dough overnight. At first, Daniel was skeptical—he had always done things his own way. But after two weeks of following the new system, he was finishing his prep an hour earlier each morning. His staff seemed less stressed, and customers noticed the faster service. What had once felt like controlled chaos was finally starting to feel like a well-run operation.",
+    "topicTag": "small business operations",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 과정이나 시스템의 효율성을 더 좋게 만들다.",
+    "realUsageKo": "비즈니스나 업무 환경에서 시간, 비용, 자원의 낭비를 줄이고 성과를 높이는 방법을 도입하거나 개선할 때 자주 사용된다.",
+    "etymologyKo": "'improve'는 고대 프랑스어 'emprouwer(이익을 얻다)'에서 유래했으며, 'efficiency'는 라틴어 'efficientia(효과적인 실행력)'에서 비롯되었다.",
+    "nuanceKo": "단순히 '빠르게 하다'보다 자원과 노력 대비 결과를 최적화한다는 뉘앙스가 강하며, 비즈니스·기술·경영 맥락에서 특히 자주 쓰인다.",
+    "shortExampleEn": "We restructured our workflow to improve efficiency and reduce costs.",
+    "shortExampleKo": "우리는 효율성을 높이고 비용을 줄이기 위해 업무 흐름을 재구성했다."
+  }
+}

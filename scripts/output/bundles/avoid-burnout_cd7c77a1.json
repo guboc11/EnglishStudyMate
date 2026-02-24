@@ -1,0 +1,30 @@
+{
+  "id": "avoid-burnout_cd7c77a1",
+  "expression": "avoid burnout",
+  "selectionMeta": {
+    "selectedPhrase": "avoid burnout",
+    "selectedSenseLabelKo": "번아웃을 피하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She started taking short breaks throughout the day to avoid burnout and stay productive."
+  },
+  "step2": {
+    "story": "After months of working overtime, Mia realized she needed to set boundaries to avoid burnout. She began logging off at 6 p.m. and dedicating weekends to hobbies she loved. Within a few weeks, her energy and focus at work had noticeably improved.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Daniel had been pouring everything into his startup for nearly a year without a single day off. His friends kept warning him that he needed to avoid burnout, but he brushed off their concern, convinced that pushing harder was the only way forward. Then one Monday morning he woke up unable to get out of bed, his mind completely blank and his body exhausted. His doctor told him he was experiencing classic signs of burnout and prescribed two weeks of complete rest. The experience forced Daniel to rethink his habits — he started scheduling regular breaks, delegating tasks, and protecting his personal time. Now he checks in with himself weekly to make sure he is doing what it takes to avoid burnout for the long haul.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "번아웃(극도의 정신적·신체적 소진 상태)을 피하다.",
+    "realUsageKo": "과도한 업무나 스트레스로 인해 완전히 지쳐버리는 상태를 예방하거나 피한다는 의미로, 일상·직장 생활에서 자기 관리의 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'burnout'은 1970년대 심리학자 허버트 프로이덴버거가 처음 사용한 용어로, 연료가 다 타버린(burn out) 상태에서 유래해 극도의 소진을 뜻하게 되었다.",
+    "nuanceKo": "단순한 피로가 아니라 지속적인 과부하로 인한 심각한 탈진을 전제하며, 예방의 뉘앙스가 강하다. 직장인, 학생, 육아 중인 부모 등 다양한 상황에서 두루 사용된다.",
+    "shortExampleEn": "Taking regular vacations is one of the best ways to avoid burnout.",
+    "shortExampleKo": "정기적으로 휴가를 갖는 것이 번아웃을 피하는 가장 좋은 방법 중 하나입니다."
+  }
+}

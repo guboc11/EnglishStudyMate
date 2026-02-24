@@ -1,0 +1,30 @@
+{
+  "id": "stay-ahead-of-the-curve_b3545753",
+  "expression": "stay ahead of the curve",
+  "selectionMeta": {
+    "selectedPhrase": "stay ahead of the curve",
+    "selectedSenseLabelKo": "트렌드보다 앞서가다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "To stay ahead of the curve, the startup invested heavily in AI research before it became mainstream."
+  },
+  "step2": {
+    "story": "Sarah's company had always made it a priority to stay ahead of the curve by adopting new technologies early. While competitors were still debating whether to embrace cloud computing, her team had already mastered it. That foresight gave them a decisive edge in the market.",
+    "topicTag": "business strategy",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Marcus had spent fifteen years in the retail industry watching competitors scramble to catch up with trends they should have seen coming. He was determined not to make the same mistake. Every quarter, he dedicated a week to studying emerging consumer behaviors, tech shifts, and global market signals. His goal was simple: stay ahead of the curve so his company was never caught off guard. When sustainable packaging became the industry standard, Marcus had already switched his supply chain two years prior. Customers noticed, loyalty grew, and investors took notice of a leader who always seemed to know what was coming next.",
+    "topicTag": "retail innovation",
+    "moodTag": "forward-thinking"
+  },
+  "meaning": {
+    "literalMeaningKo": "곡선의 앞쪽에 머물다 — 즉, 변화나 흐름이 도달하기 전에 이미 그 앞에 위치하다.",
+    "realUsageKo": "비즈니스나 업계에서 최신 트렌드·기술·변화보다 한발 앞서 대비하고 적응하는 것을 뜻한다. 경쟁자들이 따라오기 전에 먼저 움직이는 선제적 자세를 강조할 때 주로 쓰인다.",
+    "etymologyKo": "'curve'는 통계나 성장 곡선을 의미하며, 곡선이 상승하기 전 앞부분에 있다는 이미지에서 유래했다. 1970년대 이후 비즈니스 언어에서 널리 쓰이기 시작했다.",
+    "nuanceKo": "단순히 '빠르다'는 의미보다 '미래를 예측하고 전략적으로 준비한다'는 뉘앙스가 강하다. 혁신적이고 통찰력 있는 리더십을 칭찬할 때 긍정적으로 사용된다.",
+    "shortExampleEn": "We need to stay ahead of the curve if we want to remain competitive in this fast-changing industry.",
+    "shortExampleKo": "이렇게 빠르게 변하는 업계에서 경쟁력을 유지하려면 트렌드보다 앞서가야 합니다."
+  }
+}

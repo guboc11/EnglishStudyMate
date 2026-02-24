@@ -1,0 +1,30 @@
+{
+  "id": "simplify-the-process_aa950f34",
+  "expression": "simplify the process",
+  "selectionMeta": {
+    "selectedPhrase": "simplify the process",
+    "selectedSenseLabelKo": "프로세스를 단순화하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The new software was designed to simplify the process of onboarding new employees."
+  },
+  "step2": {
+    "story": "The operations manager spent weeks analyzing the approval workflow before presenting her proposal to the executive team. Her goal was to simplify the process by eliminating three redundant sign-off steps that had been slowing down decisions. Within a month, project approvals that once took two weeks were completed in just three days.",
+    "topicTag": "workflow improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Marcus joined the logistics company as a consultant, he was surprised to find that placing a single vendor order required filling out five different forms across three separate departments. The team had grown so accustomed to the inefficiency that no one questioned it anymore. Marcus spent his first two weeks mapping every step, identifying where handoffs caused delays and where approvals added no real value. He then proposed a new digital system to simplify the process, consolidating everything into a single automated workflow. Leadership was skeptical at first, but the pilot results were undeniable — order processing time dropped by sixty percent. What had once been a source of daily frustration became a model the company rolled out across all its regional offices.",
+    "topicTag": "operational efficiency",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 절차나 과정을 더 단순하고 쉽게 만들다.",
+    "realUsageKo": "비즈니스 환경에서 복잡한 업무 절차, 시스템, 승인 과정 등을 간소화할 때 자주 사용되며, 효율성 향상이나 불필요한 단계 제거를 목표로 할 때 쓰인다.",
+    "etymologyKo": "'simplify'는 라틴어 'simplex(단순한)'에서 유래했으며, 'the process'는 '일련의 절차·과정'을 의미하는 일반적인 비즈니스 용어로 결합되어 업무 효율화의 맥락에서 굳어진 연어 표현이다.",
+    "nuanceKo": "단순히 '쉽게 만든다'는 의미를 넘어, 체계적이고 의도적인 개선 작업임을 내포한다. 주로 문제 해결 지향적인 어조로 사용되며, 긍정적이고 실용적인 뉘앙스를 지닌다.",
+    "shortExampleEn": "We need to simplify the process for submitting expense reports.",
+    "shortExampleKo": "우리는 경비 보고서 제출 프로세스를 단순화할 필요가 있습니다."
+  }
+}

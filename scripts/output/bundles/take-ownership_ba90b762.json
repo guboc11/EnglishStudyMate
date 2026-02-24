@@ -1,0 +1,30 @@
+{
+  "id": "take-ownership_ba90b762",
+  "expression": "take ownership",
+  "selectionMeta": {
+    "selectedPhrase": "take ownership",
+    "selectedSenseLabelKo": "주인 의식을 갖다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She decided to take ownership of the project and led the team to a successful launch."
+  },
+  "step2": {
+    "story": "When the campaign results fell short, Marcus didn't wait to be told what to do — he took ownership of the failure and immediately began drafting a recovery plan. His manager was impressed by his accountability and gave him more responsibility as a result.",
+    "topicTag": "workplace accountability",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The product launch had gone sideways, and everyone on the team was quietly looking around the room, hoping someone else would step up. It was Priya who finally spoke. She took ownership of the misstep, walking the stakeholders through exactly where the process had broken down and what she intended to do differently. No blame was cast, no excuses were made — just a clear-eyed assessment and a concrete plan forward. By the end of the meeting, the tension had dissolved, and the team left with renewed focus. Her willingness to take ownership had turned a crisis into a moment of leadership.",
+    "topicTag": "crisis management",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가의 소유권을 가져간다는 뜻으로, 어떤 일에 대해 책임을 전적으로 떠맡는 것을 의미한다.",
+    "realUsageKo": "비즈니스 환경에서 특정 업무나 결과에 대해 스스로 책임감을 가지고 주도적으로 나서는 태도를 표현할 때 사용한다. 실수나 문제 상황에서도 외부에 책임을 돌리지 않고 자신이 전적으로 책임진다는 의미로 자주 쓰인다.",
+    "etymologyKo": "'ownership'은 '소유권'을 뜻하는 단어로, 재산권 개념에서 유래했다. 비즈니스 문화에서는 1980~90년대부터 '심리적 소유감'의 의미로 확장되어, 맡은 일에 대해 마치 자신의 것처럼 책임지는 태도를 가리키게 되었다.",
+    "nuanceKo": "단순히 책임을 진다는 뜻을 넘어, 자발적이고 능동적인 태도를 강조한다. 지시를 받아 수동적으로 따르는 것이 아니라, 스스로 주도권을 잡고 결과까지 책임지겠다는 강한 의지가 담겨 있다.",
+    "shortExampleEn": "It's time to take ownership of your career instead of waiting for someone to guide you.",
+    "shortExampleKo": "누군가 이끌어 주길 기다리는 대신, 이제는 스스로 커리어에 주인 의식을 가질 때입니다."
+  }
+}

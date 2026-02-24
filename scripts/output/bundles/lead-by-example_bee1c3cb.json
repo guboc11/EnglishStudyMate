@@ -1,0 +1,30 @@
+{
+  "id": "lead-by-example_bee1c3cb",
+  "expression": "lead by example",
+  "selectionMeta": {
+    "selectedPhrase": "lead by example",
+    "selectedSenseLabelKo": "모범을 보여 이끌다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The best managers lead by example, working alongside their teams instead of simply issuing orders from above."
+  },
+  "step2": {
+    "story": "Sarah noticed that her team's morale was slipping, so she decided to lead by example by staying late to finish the project alongside them. The next morning, her team arrived early, motivated by her dedication.",
+    "topicTag": "leadership",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "When Marcus took over as CEO of the struggling startup, he knew words alone wouldn't rebuild trust. He led by example, arriving before anyone else each morning and rolling up his sleeves to help with customer support calls. Employees watched in disbelief as their new leader handled complaints with patience and professionalism. Gradually, the team's attitude shifted — if the CEO cared this much, so could they. Within three months, customer satisfaction scores had risen dramatically, and the culture of accountability Marcus had modeled had taken root throughout the entire organization.",
+    "topicTag": "corporate leadership",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직접 행동으로 보여줌으로써 다른 사람들을 이끈다는 뜻이다.",
+    "realUsageKo": "지시나 말보다 자신의 행동과 태도로 먼저 모범을 보여 팀원이나 주변 사람들을 이끌 때 사용한다. 리더십, 직장, 교육 상황에서 자주 쓰인다.",
+    "etymologyKo": "'lead'는 고대 영어 'lædan(이끌다)'에서 유래했으며, 'by example'은 '사례를 통해'라는 의미로 결합되어 행동으로 직접 보여주는 리더십을 표현한다.",
+    "nuanceKo": "단순히 잘한다는 것을 넘어 타인이 따를 수 있도록 의도적으로 행동을 보여준다는 뉘앙스가 강하며, 진정성 있는 리더십을 강조할 때 긍정적으로 쓰인다.",
+    "shortExampleEn": "A great coach leads by example, practicing the drills alongside the players.",
+    "shortExampleKo": "훌륭한 코치는 선수들과 함께 훈련 동작을 직접 해 보이며 모범을 보여 이끈다."
+  }
+}

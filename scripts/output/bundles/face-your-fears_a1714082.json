@@ -1,0 +1,30 @@
+{
+  "id": "face-your-fears_a1714082",
+  "expression": "face your fears",
+  "selectionMeta": {
+    "selectedPhrase": "face your fears",
+    "selectedSenseLabelKo": "두려움과 마주하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to face her fears and sign up for the public speaking course."
+  },
+  "step2": {
+    "story": "Mark had always avoided heights, but his new job required him to face his fears. He took a deep breath and stepped onto the glass-floored observation deck, gripping the railing tightly. By the time he looked out at the city below, he realized the fear had already begun to fade.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For years, Lily had refused to swim in open water after a frightening incident as a child. Her therapist kept telling her the only way through was to face her fears, but she always found an excuse to postpone it. One summer, her best friend invited her on a lake trip, and Lily finally said yes. Standing at the edge of the dock, heart pounding, she reminded herself she was safe. She slipped into the cool water slowly, and when she realized she was floating, a wave of relief washed over her. Facing her fear hadn't erased it entirely, but it had made her feel capable in a way she never expected.",
+    "topicTag": "overcoming phobia",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 두려움을 직접 마주하다.",
+    "realUsageKo": "두려움이나 불안을 회피하지 않고 적극적으로 맞서는 행동을 묘사할 때 사용한다. 심리적 성장이나 용기를 강조하는 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'face'는 '정면으로 대하다'라는 의미에서 비롯되었으며, 'face one's fears'는 두려움을 외면하지 않고 직시한다는 뜻으로 현대 영어에서 굳어진 표현이다.",
+    "nuanceKo": "단순히 무서운 상황에 처하는 것이 아니라 의지를 갖고 맞선다는 능동적인 뉘앙스가 강하다. 자기계발이나 심리 치료 맥락에서 긍정적인 의미로 쓰인다.",
+    "shortExampleEn": "You'll never grow if you don't face your fears.",
+    "shortExampleKo": "두려움과 마주하지 않으면 절대 성장할 수 없어."
+  }
+}

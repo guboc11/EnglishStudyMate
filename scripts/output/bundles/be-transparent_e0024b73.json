@@ -1,0 +1,30 @@
+{
+  "id": "be-transparent_e0024b73",
+  "expression": "be transparent",
+  "selectionMeta": {
+    "selectedPhrase": "be transparent",
+    "selectedSenseLabelKo": "투명하게 하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The CEO decided to be transparent about the company's financial challenges during the quarterly meeting."
+  },
+  "step2": {
+    "story": "After the merger fell through, the management team chose to be transparent with all employees about what had happened. They held a town hall and shared the details honestly, which helped rebuild trust across the organization.",
+    "topicTag": "workplace communication",
+    "moodTag": "honest"
+  },
+  "step3": {
+    "story": "When sales figures dropped for the third consecutive quarter, Sarah knew she had to be transparent with her team rather than sugarcoat the numbers. She gathered everyone in the conference room and laid out the full picture — the losses, the causes, and the tough decisions ahead. Some people were anxious, but most appreciated her candor. Being transparent created space for open dialogue, and within weeks, the team had rallied around a recovery plan that no one would have proposed if the truth had stayed hidden.",
+    "topicTag": "leadership under pressure",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "투명하다, 즉 정보나 의도를 숨기지 않고 공개적으로 드러내다.",
+    "realUsageKo": "비즈니스 맥락에서 의사결정 과정, 재무 상황, 또는 내부 문제를 이해관계자들에게 솔직하게 공유할 때 사용한다. 신뢰 구축의 수단으로 자주 언급된다.",
+    "etymologyKo": "'transparent'는 라틴어 'transparere'에서 유래하며, 'trans(통해서)'와 'parere(보이다)'의 합성어로 '꿰뚫어 보인다'는 의미를 가진다.",
+    "nuanceKo": "단순히 정직하다는 것을 넘어, 불편한 진실이나 복잡한 정보도 적극적으로 공개한다는 뉘앙스를 담고 있다. 리더십이나 기업 문화를 논할 때 긍정적인 가치로 자주 쓰인다.",
+    "shortExampleEn": "We need to be transparent about our pricing structure so clients can make informed decisions.",
+    "shortExampleKo": "고객들이 충분한 정보를 바탕으로 결정을 내릴 수 있도록 가격 구조에 대해 투명하게 공개해야 합니다."
+  }
+}

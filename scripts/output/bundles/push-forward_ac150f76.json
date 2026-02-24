@@ -1,0 +1,30 @@
+{
+  "id": "push-forward_ac150f76",
+  "expression": "push forward",
+  "selectionMeta": {
+    "selectedPhrase": "push forward",
+    "selectedSenseLabelKo": "밀고 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the setbacks, the team decided to push forward with the project and meet the deadline."
+  },
+  "step2": {
+    "story": "The startup had lost two key investors, but the founders chose to push forward rather than give up. They worked through the night, determined to prove their idea had value. By morning, they had a revised pitch that would change everything.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya stared at the rejection email from the publisher, her hands trembling slightly over the keyboard. Three years of writing, and this was the fifth refusal in a row. Her friends had started hinting that maybe she should try something more practical. But Maya knew that every great author had faced this wall — it was just part of the process. She took a deep breath, closed the email, and opened her manuscript to start revisions. She would push forward, because the story inside her was worth every rejection along the way.",
+    "topicTag": "creative pursuit",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞으로 밀다, 즉 어떤 일이나 목표를 향해 계속 나아가다.",
+    "realUsageKo": "어려움이나 장애물에도 불구하고 계획이나 목표를 포기하지 않고 계속 추진할 때 사용한다. 주로 직장, 프로젝트, 개인적 도전 등의 맥락에서 쓰인다.",
+    "etymologyKo": "'push'는 고대 프랑스어 'pousser'에서 유래해 '밀다'는 뜻이며, 'forward'와 결합해 '앞으로 계속 밀고 나아간다'는 의미의 구동사가 되었다.",
+    "nuanceKo": "단순히 진행한다는 의미를 넘어, 어느 정도 저항이나 어려움이 있음을 암시한다. 의지와 결단력이 담긴 표현으로, 포기하지 않겠다는 뉘앙스를 강하게 전달한다.",
+    "shortExampleEn": "We need to push forward despite the challenges ahead.",
+    "shortExampleKo": "앞에 놓인 어려움에도 불구하고 우리는 밀고 나아가야 한다."
+  }
+}

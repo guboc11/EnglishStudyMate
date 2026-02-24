@@ -1,0 +1,30 @@
+{
+  "id": "drive-engagement_dd6cd77d",
+  "expression": "drive engagement",
+  "selectionMeta": {
+    "selectedPhrase": "drive engagement",
+    "selectedSenseLabelKo": "참여를 이끌다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The marketing team launched an interactive campaign on social media to drive engagement among younger audiences."
+  },
+  "step2": {
+    "story": "Sarah redesigned the company newsletter with polls and Q&A sections to drive engagement from employees across all departments. Within two weeks, response rates tripled and the feedback became more actionable than ever.",
+    "topicTag": "internal communication",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When the product launch numbers came in flat, the team knew they had to rethink their approach. The head of growth proposed a series of live webinars and user challenges designed to drive engagement at every stage of the funnel. They partnered with micro-influencers who genuinely used the product, letting authentic voices carry the message. Over the next month, comment sections lit up, shares multiplied, and daily active users climbed steadily. The CEO stood in front of the board and credited the shift in strategy: stop broadcasting, start conversations. It was a turning point that redefined how the company thought about its community.",
+    "topicTag": "product launch strategy",
+    "moodTag": "energized"
+  },
+  "meaning": {
+    "literalMeaningKo": "'drive'는 '추진하다', 'engagement'는 '참여'를 뜻하므로 문자 그대로는 '참여를 이끌어내다'라는 의미입니다.",
+    "realUsageKo": "비즈니스·마케팅에서 고객, 직원, 팔로워 등의 적극적인 반응과 상호작용을 유발하는 전략이나 활동을 가리킬 때 사용합니다. 소셜 미디어 지표(좋아요, 댓글, 공유)를 높이거나 내부 직원 참여율을 올리는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'drive'는 고대 영어 'drīfan(몰다, 추진하다)'에서 유래했으며, 'engagement'는 프랑스어 'engager(약속하다, 끌어들이다)'에서 비롯되었습니다. 현대 비즈니스 언어에서 두 단어가 결합되어 '적극적 참여를 유도하는 행위'를 뜻하게 되었습니다.",
+    "nuanceKo": "단순히 '알리다(inform)'나 '도달하다(reach)'보다 훨씬 적극적인 상호작용을 암시합니다. 일방적 전달이 아니라 반응·대화·행동을 이끌어낸다는 뉘앙스가 강하며, 성과 지향적이고 전략적인 톤을 띱니다.",
+    "shortExampleEn": "We use short videos and polls to drive engagement on our social channels.",
+    "shortExampleKo": "우리는 짧은 영상과 설문을 활용해 소셜 채널에서 참여를 이끌어냅니다."
+  }
+}

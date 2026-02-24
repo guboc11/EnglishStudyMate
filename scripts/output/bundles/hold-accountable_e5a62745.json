@@ -1,0 +1,30 @@
+{
+  "id": "hold-accountable_e5a62745",
+  "expression": "hold accountable",
+  "selectionMeta": {
+    "selectedPhrase": "hold accountable",
+    "selectedSenseLabelKo": "책임지게 하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The board of directors decided to hold the CEO accountable for the company's financial losses."
+  },
+  "step2": {
+    "story": "After the project failed to meet its deadline, the department head held the entire team accountable. She scheduled a review meeting where each member had to explain their role in the delays.",
+    "topicTag": "workplace responsibility",
+    "moodTag": "serious"
+  },
+  "step3": {
+    "story": "When the quarterly earnings report revealed a significant shortfall, shareholders demanded answers. The board convened an emergency meeting and made clear they would hold senior management accountable for the failures in execution. The CFO presented a detailed breakdown of where the budget had gone wrong, acknowledging that better oversight mechanisms were needed. Going forward, the company instituted monthly performance reviews to ensure that every leader was held accountable for their targets. The new policy sent a clear message throughout the organization: results mattered, and there would be consequences for falling short.",
+    "topicTag": "corporate governance",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 책임 있는 상태로 붙잡아 두다, 즉 어떤 결과에 대한 책임을 지도록 하다.",
+    "realUsageKo": "주로 비즈니스나 조직 상황에서 특정 결과나 행동에 대해 책임을 묻는다는 의미로 사용된다. 상사가 직원에게, 또는 주주가 경영진에게 책임을 요구하는 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'hold'는 고대 영어 'haldan(유지하다, 붙들다)'에서 유래했고, 'accountable'은 라틴어 'computare(계산하다)'에서 파생되어 '해명할 수 있는 상태'를 뜻한다. 결합하면 '해명 가능한 상태로 붙들어 두다'는 의미가 된다.",
+    "nuanceKo": "단순한 비난보다 공식적이고 제도적인 책임 추궁의 뉘앙스가 강하다. 결과에 따른 처벌이나 시정 조치가 뒤따를 수 있음을 암시하며, 다소 엄중하고 단호한 어조를 띤다.",
+    "shortExampleEn": "We need to hold every manager accountable for their team's performance.",
+    "shortExampleKo": "모든 관리자가 팀 성과에 책임을 지도록 해야 합니다."
+  }
+}

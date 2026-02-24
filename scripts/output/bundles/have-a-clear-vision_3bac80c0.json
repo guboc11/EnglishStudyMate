@@ -1,0 +1,30 @@
+{
+  "id": "have-a-clear-vision_3bac80c0",
+  "expression": "have a clear vision",
+  "selectionMeta": {
+    "selectedPhrase": "have a clear vision",
+    "selectedSenseLabelKo": "명확한 비전을 가지다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Successful leaders have a clear vision of where they want their company to be in five years."
+  },
+  "step2": {
+    "story": "When Sarah took over as CEO, the team was scattered and unmotivated. She knew that to move forward, she needed to have a clear vision that everyone could rally behind. Within weeks, her focused direction transformed the entire company culture.",
+    "topicTag": "leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had spent three years building his startup from a spare bedroom, but growth had stalled and investors were losing patience. His mentor pulled him aside after a board meeting and told him bluntly that the problem wasn't funding or talent — it was that Marcus didn't have a clear vision for what success actually looked like. That night, Marcus sat alone with a whiteboard and forced himself to define exactly where he wanted the company to be and why it mattered. By morning, he had distilled it into a single sentence that he could say without hesitation. At the next all-hands meeting, he shared that vision with the team, and for the first time, he saw genuine excitement in their eyes. The clarity changed everything — decisions became faster, priorities aligned, and the company began moving with purpose.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "뚜렷하고 명확한 미래상이나 방향성을 마음속에 품고 있다는 뜻이다.",
+    "realUsageKo": "비즈니스나 리더십 맥락에서 목표와 방향이 뚜렷하게 정립되어 있음을 강조할 때 쓰인다. 단순한 아이디어가 아닌, 실행 가능한 구체적 방향성을 가리킨다.",
+    "etymologyKo": "'vision'은 라틴어 'visio(봄, 환상)'에서 유래했으며, 중세 영어를 거쳐 '미래를 내다보는 능력'이라는 뜻으로 확장되었다.",
+    "nuanceKo": "단순히 계획이 있다는 것을 넘어, 흔들리지 않는 확신과 방향성을 내포한다. 리더나 기업가를 묘사할 때 긍정적인 자질로 자주 사용된다.",
+    "shortExampleEn": "The founder had a clear vision of a world where clean energy was affordable for everyone.",
+    "shortExampleKo": "그 창업자는 깨끗한 에너지가 모든 사람에게 저렴하게 제공되는 세상에 대한 명확한 비전을 가지고 있었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "navigate-challenges_79842a89",
+  "expression": "navigate challenges",
+  "selectionMeta": {
+    "selectedPhrase": "navigate challenges",
+    "selectedSenseLabelKo": "도전을 헤쳐나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She learned to navigate challenges with patience and a clear strategy, turning every obstacle into a stepping stone."
+  },
+  "step2": {
+    "story": "After losing his job unexpectedly, Marcus had to navigate challenges he had never imagined facing. He updated his resume, reached out to old contacts, and took an online course to sharpen his skills. Within three months, his persistence paid off and he landed an even better position.",
+    "topicTag": "career setback",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "When the startup launched its first product, the team quickly realized that success meant learning to navigate challenges at every turn. Supply chain delays threatened their launch date, a key investor pulled out at the last minute, and a competitor released a similar product the same week. Instead of panicking, the founders called an all-hands meeting and broke each problem into manageable steps. They secured a new supplier, pitched to a backup investor over the weekend, and doubled down on their unique features to stand out in the market. The rough launch became their greatest teacher, and the team emerged more cohesive and confident than ever. Looking back, they agreed that the ability to navigate challenges calmly was what truly defined their company culture.",
+    "topicTag": "startup journey",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "항해하듯 어려움을 피해 길을 찾아 나아가다.",
+    "realUsageKo": "실생활에서는 복잡하거나 어려운 상황을 능숙하게 헤쳐나간다는 의미로 폭넓게 사용됩니다. 직장, 인간관계, 창업 등 다양한 맥락에서 '문제를 영리하게 대처하다'는 뉘앙스로 쓰입니다.",
+    "etymologyKo": "'navigate'는 라틴어 'navigare(배를 조종하다)'에서 유래했으며, 원래 항해 용어였습니다. 현대 영어에서는 복잡한 상황을 방향을 잡고 통과한다는 의미로 확장되어 쓰입니다.",
+    "nuanceKo": "단순히 '어려움을 버티다'가 아니라 방향성과 전략을 갖고 능동적으로 극복한다는 긍정적이고 주체적인 뉘앙스를 담고 있습니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Young entrepreneurs must learn to navigate challenges if they want their businesses to survive.",
+    "shortExampleKo": "젊은 창업가들은 사업을 살아남게 하려면 도전을 헤쳐나가는 법을 배워야 한다."
+  }
+}

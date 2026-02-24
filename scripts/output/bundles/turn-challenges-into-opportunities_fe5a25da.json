@@ -1,0 +1,30 @@
+{
+  "id": "turn-challenges-into-opportunities_fe5a25da",
+  "expression": "turn challenges into opportunities",
+  "selectionMeta": {
+    "selectedPhrase": "turn challenges into opportunities",
+    "selectedSenseLabelKo": "도전을 기회로 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Great leaders have the ability to turn challenges into opportunities that drive growth and innovation."
+  },
+  "step2": {
+    "story": "When the factory faced a sudden shortage of raw materials, the manager refused to panic. Instead, she decided to turn challenges into opportunities by redesigning the production process to use less material and cut costs. The crisis became the catalyst for the most efficient workflow the company had ever seen.",
+    "topicTag": "business crisis",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had spent years building his small bookstore, but when a large online retailer moved into town, his sales dropped sharply. Many of his friends advised him to close, but Marcus believed he could turn challenges into opportunities. He transformed the store into a community hub, hosting author readings, writing workshops, and local art exhibitions. Customers who came for the events stayed for the books, and word spread quickly through the neighborhood. Within a year, his revenue had not only recovered but surpassed its previous peak. What had once threatened to destroy his business had ultimately given it a soul.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "도전이나 어려움을 긍정적인 기회로 전환한다는 의미입니다.",
+    "realUsageKo": "역경이나 위기 상황을 오히려 성장, 혁신, 이득의 발판으로 삼을 때 사용합니다. 비즈니스, 자기계발, 리더십 맥락에서 특히 자주 쓰입니다.",
+    "etymologyKo": "'turn A into B'는 'A를 B로 변환하다'는 뜻의 구조로, 'challenges'(도전/역경)와 'opportunities'(기회)를 결합해 역발상의 자세를 표현합니다.",
+    "nuanceKo": "단순히 문제를 해결한다는 의미를 넘어, 능동적이고 긍정적인 태도로 상황을 재정의한다는 뉘앙스를 담고 있습니다. 동기부여 연설이나 리더십 글에서 자주 등장하는 표현입니다.",
+    "shortExampleEn": "She learned to turn challenges into opportunities after losing her job and starting her own company.",
+    "shortExampleKo": "그녀는 직장을 잃고 창업을 하면서 도전을 기회로 바꾸는 법을 배웠습니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "forge-connections_07cb7208",
+  "expression": "forge connections",
+  "selectionMeta": {
+    "selectedPhrase": "forge connections",
+    "selectedSenseLabelKo": "인맥을 구축하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Attending industry conferences is one of the best ways to forge connections with people who can open doors for your career."
+  },
+  "step2": {
+    "story": "After moving to a new city, Mia made it her goal to forge connections with local professionals. She joined a networking group and started showing up to every meetup with genuine curiosity. Within months, she had built a circle of colleagues who felt more like friends.",
+    "topicTag": "networking",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When Daniel launched his small design studio, he had plenty of talent but few clients. A mentor advised him to stop hiding behind his screen and start getting out into the world to forge connections with people in adjacent industries. He began attending startup events, volunteering at creative workshops, and grabbing coffee with strangers whose work he admired. Slowly, those casual conversations turned into referrals, and referrals turned into contracts. Looking back, Daniel realized that every opportunity he had been given traced back to a relationship he had taken the time to build. Forging connections had not just grown his business — it had shaped who he was becoming as a professional.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'forge'는 '단조하다(쇠를 두드려 형태를 만들다)'는 뜻으로, 'forge connections'는 관계를 힘과 노력으로 만들어낸다는 의미입니다.",
+    "realUsageKo": "단순한 만남이 아닌, 의도적이고 지속적인 노력으로 의미 있는 인맥 또는 관계를 구축할 때 사용합니다. 특히 비즈니스·커리어 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'forge'는 고대 프랑스어 'forgier'에서 유래했으며, 금속을 불에 달궈 두드려 형태를 만드는 행위를 뜻합니다. 이로부터 '무언가를 힘들여 만들어내다'는 비유적 의미가 파생되었습니다.",
+    "nuanceKo": "단순히 아는 사람을 늘린다는 뜻이 아니라, 시간과 에너지를 투자해 단단한 관계를 만든다는 능동적·긍정적 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "She used her internship to forge connections with senior leaders across the company.",
+    "shortExampleKo": "그녀는 인턴십 기간 동안 회사 전반의 시니어 리더들과 인맥을 구축하는 데 활용했다."
+  }
+}

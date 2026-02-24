@@ -1,0 +1,30 @@
+{
+  "id": "grow-your-business_5e8eafe6",
+  "expression": "grow your business",
+  "selectionMeta": {
+    "selectedPhrase": "grow your business",
+    "selectedSenseLabelKo": "사업을 성장시키다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The consultant advised her to use social media marketing to grow your business beyond the local market."
+  },
+  "step2": {
+    "story": "After years of running a small bakery, David decided it was time to grow your business by opening a second location across town. He spent weekends researching the neighborhood and talking to potential customers. His determination paid off when the new branch became even more popular than the original.",
+    "topicTag": "business expansion",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sarah had always dreamed of turning her handmade jewelry hobby into a real company, but she wasn't sure how to grow your business in such a competitive market. She started by setting up an online store and sharing her work on social media, gradually building a loyal following. Within a year, her orders had tripled and she was hiring her first employee. A mentor encouraged her to attend trade shows, which opened doors to boutique retailers she never expected to reach. Sarah realized that to truly grow your business, you had to keep reinvesting both your time and your earnings back into it. Today, her brand ships internationally, and she still remembers the small kitchen table where it all began.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 사업을 더 크게 발전시키다.",
+    "realUsageKo": "매출 증가, 고객 확장, 시장 진출 등 사업 규모나 영향력을 키우는 행동 전반을 가리키는 표현으로, 비즈니스 조언이나 마케팅 맥락에서 자주 사용됩니다.",
+    "etymologyKo": "'grow'는 고대 영어 'growan(자라다)'에서 유래하며, 원래 식물의 성장을 의미했지만 점차 사업·경제 등의 확장 개념으로 의미가 확장되었습니다.",
+    "nuanceKo": "단순한 매출 증가뿐 아니라 브랜드 강화, 팀 구성, 고객 기반 확대 등 전략적이고 장기적인 성장 노력을 함축합니다. 격려하거나 조언하는 어조에서 자주 쓰입니다.",
+    "shortExampleEn": "Partnering with local influencers is a great way to grow your business.",
+    "shortExampleKo": "지역 인플루언서와 협력하는 것은 사업을 성장시키는 훌륭한 방법입니다."
+  }
+}

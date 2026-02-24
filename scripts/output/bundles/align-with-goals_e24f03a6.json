@@ -1,0 +1,30 @@
+{
+  "id": "align-with-goals_e24f03a6",
+  "expression": "align with goals",
+  "selectionMeta": {
+    "selectedPhrase": "align with goals",
+    "selectedSenseLabelKo": "목표에 맞추다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before launching the new campaign, the team reviewed every decision to make sure it would align with goals set at the beginning of the quarter."
+  },
+  "step2": {
+    "story": "Sarah paused before approving the budget proposal. She needed to confirm that every line item would align with goals the board had approved. After a quick review, she signed off with confidence.",
+    "topicTag": "strategic planning",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "At the quarterly offsite, the leadership team spread printed roadmaps across the conference table. Each project lead had spent the week auditing their initiatives to ensure they would align with goals the company had set for the year. One manager raised her hand — her team's pet project, though popular, didn't map to any priority. A quiet consensus formed: they would pause it. It was a tough call, but everyone understood that resources had to flow toward what mattered most. Walking out of the room, the team felt lighter, clearer, and ready to execute.",
+    "topicTag": "resource allocation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "특정 목표와 방향이나 내용이 일치하도록 맞추다.",
+    "realUsageKo": "비즈니스 현장에서 전략, 프로젝트, 예산, 행동 등이 조직이나 개인의 목표와 일치하는지 확인할 때 사용한다. '목표에 부합하다' 또는 '목표와 연계되다'는 의미로 쓰인다.",
+    "etymologyKo": "'align'은 라틴어 'ad-(~으로) + linea(선)'에서 유래해 '같은 선 위에 놓다'는 의미였으며, 이후 방향이나 입장을 일치시킨다는 뜻으로 확장되었다.",
+    "nuanceKo": "단순히 목표를 따른다는 의미를 넘어, 의도적으로 방향을 조율하고 일관성을 확보한다는 능동적 뉘앙스가 강하다. 전략 회의나 성과 보고 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "We restructured the workflow to better align with goals outlined in the annual plan.",
+    "shortExampleKo": "우리는 연간 계획에 명시된 목표에 더 잘 맞추기 위해 업무 흐름을 재구성했다."
+  }
+}

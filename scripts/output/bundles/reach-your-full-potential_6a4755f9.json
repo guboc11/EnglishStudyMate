@@ -1,0 +1,30 @@
+{
+  "id": "reach-your-full-potential_6a4755f9",
+  "expression": "reach your full potential",
+  "selectionMeta": {
+    "selectedPhrase": "reach your full potential",
+    "selectedSenseLabelKo": "잠재력을 최대로 발휘하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With the right mentorship and dedication, anyone can reach their full potential and achieve things they never thought possible."
+  },
+  "step2": {
+    "story": "Maya had always been told she was talented, but she never pushed herself beyond the comfortable. One day, her coach pulled her aside and said, 'You have everything it takes to reach your full potential — you just have to believe it.' That conversation changed everything.",
+    "topicTag": "personal growth",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "For years, Daniel worked a steady job that paid the bills but left him feeling empty inside. He knew deep down that he was capable of more, but fear of failure kept him stuck in place. Then he enrolled in an evening course on software development, mostly out of curiosity. Week by week, he discovered a passion he had never known, and his skills grew faster than he had imagined. His instructor told him, 'You have a real gift for this — don't stop until you reach your full potential.' Daniel didn't stop, and within two years, he had built a product used by thousands of people around the world.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신이 가진 능력의 최대치에 도달하다.",
+    "realUsageKo": "누군가가 타고난 능력이나 재능을 완전히 발휘하지 못하고 있을 때, 그 한계까지 성장하거나 성취하도록 독려하는 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'potential'은 라틴어 'potentia'(힘, 능력)에서 유래하며, 'full potential'은 그 능력의 전체를 의미한다. 'reach'는 목표 지점에 닿는다는 방향성을 더해 '완전한 능력에 도달하다'는 의미가 형성되었다.",
+    "nuanceKo": "격려와 동기부여의 맥락에서 주로 사용되며, 코치·멘토·부모 등이 상대에게 더 노력하길 바랄 때 쓰는 긍정적이고 진취적인 표현이다. 자기계발 담론에서도 매우 빈번하게 등장한다.",
+    "shortExampleEn": "She finally reached her full potential after years of hard work and persistence.",
+    "shortExampleKo": "그녀는 수년간의 노력과 끈기 끝에 마침내 자신의 잠재력을 최대로 발휘했다."
+  }
+}

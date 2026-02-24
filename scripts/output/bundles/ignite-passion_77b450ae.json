@@ -1,0 +1,30 @@
+{
+  "id": "ignite-passion_77b450ae",
+  "expression": "ignite passion",
+  "selectionMeta": {
+    "selectedPhrase": "ignite passion",
+    "selectedSenseLabelKo": "열정에 불을 지피다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A single visit to that art museum was enough to ignite a passion for painting that would last her entire life."
+  },
+  "step2": {
+    "story": "Marcus had always enjoyed cooking, but watching the chef work in silence ignited a passion he had never felt before. He signed up for culinary school the very next morning.",
+    "topicTag": "personal growth",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Elena had drifted through her twenties without direction, taking jobs she didn't care about and hobbies she quickly abandoned. Then one rainy afternoon, a friend handed her a worn paperback novel, half-jokingly saying it had changed her life. By the last page, something had shifted inside Elena — the story had ignited a passion for writing that she could not ignore. She cleared her kitchen table that night and began filling a blank notebook with words. Within a year, she had finished her first short story and submitted it to a literary magazine. The rejection letter she received felt less like a door closing and more like proof that she had finally found something worth fighting for.",
+    "topicTag": "creative discovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "열정에 불을 붙이다 — 감정이나 관심을 강하게 타오르게 하다.",
+    "realUsageKo": "어떤 경험, 사람, 또는 사건이 강한 흥미나 열정을 처음으로 불러일으킬 때 사용하며, 주로 지속적인 헌신으로 이어지는 계기를 묘사한다.",
+    "etymologyKo": "'ignite'는 라틴어 'ignire(불을 붙이다)'에서 유래하며, 'passion'은 라틴어 'passio(고통, 강한 감정)'에서 왔다. 두 단어가 결합해 강렬한 감정의 시작을 표현한다.",
+    "nuanceKo": "단순한 관심(interest)이나 취미(hobby)보다 훨씬 강렬하고 지속적인 내적 동기를 암시하며, 긍정적이고 변화를 이끄는 뉘앙스가 강하다.",
+    "shortExampleEn": "The coach's words ignited a passion for the sport in every player on the team.",
+    "shortExampleKo": "코치의 말은 팀의 모든 선수에게 그 스포츠에 대한 열정에 불을 지폈다."
+  }
+}

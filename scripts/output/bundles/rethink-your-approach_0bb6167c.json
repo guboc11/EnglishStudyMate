@@ -1,0 +1,30 @@
+{
+  "id": "rethink-your-approach_0bb6167c",
+  "expression": "rethink your approach",
+  "selectionMeta": {
+    "selectedPhrase": "rethink your approach",
+    "selectedSenseLabelKo": "접근 방식을 재고하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three failed attempts, she decided it was time to rethink her approach and try a completely different strategy."
+  },
+  "step2": {
+    "story": "The marketing campaign had been running for weeks with almost no results. The team gathered around the table, frustrated and exhausted, realizing they needed to rethink their approach entirely. By the end of the meeting, they had scrapped the old plan and sketched out a bold new direction.",
+    "topicTag": "work strategy",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been training for the marathon for six months, but his times were not improving no matter how hard he pushed himself. His coach pulled him aside after practice and told him bluntly that he needed to rethink his approach to training. Instead of more miles, the coach suggested focusing on rest, nutrition, and shorter high-intensity runs. At first, Daniel resisted — he believed that more effort always meant better results. But after two weeks following the new plan, his pace improved dramatically and his energy levels soared. He crossed the finish line of the race with a personal best, grateful he had been willing to rethink his approach.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 접근 방식이나 방법을 다시 생각하다.",
+    "realUsageKo": "기존의 방법이나 전략이 효과적이지 않을 때 그것을 재검토하고 새로운 방향을 모색하라고 권할 때 사용한다. 주로 문제 해결, 업무, 학습 상황에서 쓰인다.",
+    "etymologyKo": "'rethink'는 're-(다시)'와 'think(생각하다)'의 결합으로, 한 번 정한 생각이나 판단을 다시 검토한다는 의미다. 'approach'는 라틴어 'appropiare(가까이 가다)'에서 유래해 '어떤 목표에 접근하는 방식'을 뜻한다.",
+    "nuanceKo": "단순한 수정이 아닌 근본적인 방향 전환을 시사하며, 이미 시도했지만 잘 되지 않는 상황에서 쓰이는 경우가 많다. 비판적인 의미보다는 성장과 유연성을 강조하는 긍정적인 뉘앙스가 강하다.",
+    "shortExampleEn": "If the negotiations keep stalling, we may need to rethink our approach.",
+    "shortExampleKo": "협상이 계속 교착 상태에 빠진다면, 우리는 접근 방식을 재고해야 할 수도 있다."
+  }
+}

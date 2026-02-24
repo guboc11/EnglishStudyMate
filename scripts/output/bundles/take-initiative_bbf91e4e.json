@@ -1,0 +1,30 @@
+{
+  "id": "take-initiative_bbf91e4e",
+  "expression": "take initiative",
+  "selectionMeta": {
+    "selectedPhrase": "take initiative",
+    "selectedSenseLabelKo": "주도권을 쥐다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Instead of waiting for her manager to assign tasks, Sarah decided to take initiative and draft the project proposal herself."
+  },
+  "step2": {
+    "story": "The team was stuck, unsure who should present the new strategy to the board. Marcus took initiative and volunteered before anyone else could hesitate. His boldness impressed the executives and earned him a leadership role on the project.",
+    "topicTag": "workplace leadership",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "The product launch was two weeks away, and the marketing team was paralyzed by indecision. Nobody wanted to make the wrong call without sign-off from the director, who was traveling abroad. Jenna had seen this kind of gridlock before — she knew someone had to take initiative. She called a quick stand-up, outlined a clear action plan, and delegated tasks before the afternoon was over. By the time the director landed and checked her inbox, the team had already made significant progress. That moment marked the turning point in Jenna's career at the company.",
+    "topicTag": "leadership under pressure",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "주도권(initiative)을 쥐다, 즉 먼저 나서서 행동을 시작하다.",
+    "realUsageKo": "누군가의 지시를 기다리지 않고 스스로 판단해서 먼저 행동하거나 문제를 해결할 때 쓴다. 특히 직장이나 팀 상황에서 리더십을 발휘하는 맥락에서 자주 등장한다.",
+    "etymologyKo": "'initiative'는 라틴어 'initium'(시작)에서 유래했으며, 'take'와 결합해 '스스로 시작을 잡는다'는 의미를 형성한다. 17세기 프랑스어를 거쳐 영어에 정착했다.",
+    "nuanceKo": "단순히 '먼저 한다'는 것을 넘어, 자발성과 책임감을 동시에 내포한다. 긍정적인 평가가 담긴 표현으로, 직장에서 이 말을 들으면 칭찬에 가깝다.",
+    "shortExampleEn": "He took initiative by fixing the bug before the team even noticed it.",
+    "shortExampleKo": "그는 팀이 버그를 알아채기도 전에 먼저 나서서 수정했다."
+  }
+}

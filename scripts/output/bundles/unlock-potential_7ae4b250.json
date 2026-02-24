@@ -1,0 +1,30 @@
+{
+  "id": "unlock-potential_7ae4b250",
+  "expression": "unlock potential",
+  "selectionMeta": {
+    "selectedPhrase": "unlock potential",
+    "selectedSenseLabelKo": "잠재력을 열다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A supportive mentor can help unlock potential in students who never believed in themselves."
+  },
+  "step2": {
+    "story": "After years of self-doubt, Maya finally joined a coding bootcamp. Her instructor saw something in her that she had never seen in herself, and pushed her to tackle harder problems every day. Slowly, she began to unlock potential she never knew she had.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had spent most of his career playing it safe, taking on only tasks he was certain he could complete. When a new manager arrived and assigned him to lead a cross-functional project, he panicked. But the manager sat down with him and said, 'I've seen your work — there is so much more inside you. This is your chance to unlock potential you've been sitting on for years.' Daniel threw himself into the project, making decisions he once would have handed off, and delivering results that surprised even himself. By the end, he realized that all he had needed was someone who believed in him enough to give him the chance.",
+    "topicTag": "career development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자물쇠를 열듯 숨겨진 잠재력을 꺼내다.",
+    "realUsageKo": "누군가(또는 자기 자신)가 아직 발휘하지 못한 능력이나 가능성을 끌어내는 상황에서 사용한다. 교육, 코칭, 자기계발 맥락에서 매우 흔하게 쓰인다.",
+    "etymologyKo": "'unlock'은 '잠금을 해제하다'는 뜻이며, 'potential'은 라틴어 'potentia(힘, 가능성)'에서 유래했다. 두 단어가 결합해 '감춰진 가능성의 자물쇠를 연다'는 비유적 표현으로 정착했다.",
+    "nuanceKo": "단순히 능력을 키운다는 의미보다, 이미 내재되어 있지만 아직 드러나지 않은 것을 발견하고 해방시킨다는 뉘앙스가 강하다. 긍정적이고 고무적인 맥락에서 주로 사용된다.",
+    "shortExampleEn": "The right environment can unlock potential in even the most reserved individuals.",
+    "shortExampleKo": "올바른 환경은 가장 내성적인 사람에게서도 잠재력을 끌어낼 수 있다."
+  }
+}

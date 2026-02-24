@@ -1,0 +1,30 @@
+{
+  "id": "push-boundaries_5b05930b",
+  "expression": "push boundaries",
+  "selectionMeta": {
+    "selectedPhrase": "push boundaries",
+    "selectedSenseLabelKo": "한계를 밀다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The young designer constantly pushes boundaries by combining traditional patterns with futuristic materials."
+  },
+  "step2": {
+    "story": "Maya refused to settle for the ordinary. Every project she took on was a chance to push boundaries and explore what others thought was impossible. Her bold experiments earned her a reputation as the most innovative engineer in the company.",
+    "topicTag": "innovation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "From the moment he joined the research lab, Dr. Chen made it clear he was there to push boundaries. His colleagues were skeptical when he proposed merging two fields that had never been combined before. Late nights and failed experiments piled up, but he refused to retreat to safer ground. Slowly, the data began to confirm what he had always believed was possible. The day his findings were published, the scientific community took notice — not because he had followed the rules, but because he had rewritten them.",
+    "topicTag": "scientific research",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "경계를 밀어붙이다, 즉 한계선을 앞으로 밀어 넓힌다는 의미입니다.",
+    "realUsageKo": "기존의 규범이나 제한을 뛰어넘어 새로운 가능성을 개척하는 행위를 표현할 때 씁니다. 혁신, 예술, 기술, 스포츠 등 다양한 분야에서 '한계에 도전하다'는 뜻으로 자주 사용됩니다.",
+    "etymologyKo": "'boundary(경계)'는 라틴어 'bodina'에서 유래하여 '한계선'을 뜻하고, 'push(밀다)'와 결합해 그 선을 물리적으로 밀어낸다는 이미지에서 비유적 표현이 생겨났습니다.",
+    "nuanceKo": "긍정적인 도전 정신을 강조하며, 단순한 규칙 위반보다는 창의적·진보적 시도의 뉘앙스가 강합니다. 격려나 찬사의 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "This startup is pushing boundaries in renewable energy technology.",
+    "shortExampleKo": "이 스타트업은 재생에너지 기술의 한계를 밀어붙이고 있습니다."
+  }
+}

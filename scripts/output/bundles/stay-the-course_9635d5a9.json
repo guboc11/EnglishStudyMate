@@ -1,0 +1,30 @@
+{
+  "id": "stay-the-course_9635d5a9",
+  "expression": "stay the course",
+  "selectionMeta": {
+    "selectedPhrase": "stay the course",
+    "selectedSenseLabelKo": "끝까지 버티다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the setbacks, she decided to stay the course and finish what she had started."
+  },
+  "step2": {
+    "story": "The project had been dragging on for months, and half the team had already given up. Marcus knew it would be easier to walk away, but he chose to stay the course. His persistence eventually paid off when they delivered a successful product.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The startup had been burning through cash for two years with no clear path to profit. Investors were pulling out, and competitors were gaining ground fast. Everyone around Priya urged her to pivot or shut it down entirely. But she had spent too long building the foundation to abandon it now. She rallied her remaining team, cut unnecessary costs, and stayed the course with her original vision. Six months later, a major client contract turned everything around.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "항해에서 정해진 항로를 그대로 유지한다는 뜻으로, 방향을 바꾸지 않고 계속 나아간다는 의미이다.",
+    "realUsageKo": "어려운 상황에서도 포기하지 않고 원래 계획이나 목표를 끝까지 고수할 때 사용한다. 압박이나 유혹에도 흔들리지 않는 꿋꿋함을 강조한다.",
+    "etymologyKo": "항해 용어에서 유래했으며, 'course'는 배의 항로를 의미한다. 폭풍이나 역풍에도 목적지를 향해 항로를 바꾸지 않는다는 개념에서 비롯되었다.",
+    "nuanceKo": "단순한 인내심보다는 외부 압박에 맞서 능동적으로 버텨낸다는 뉘앙스가 강하다. 특히 다른 사람들이 포기를 권유하는 상황에서 자주 쓰인다.",
+    "shortExampleEn": "It's tempting to change strategies, but we need to stay the course.",
+    "shortExampleKo": "전략을 바꾸고 싶은 마음이 들지만, 우리는 끝까지 버텨야 한다."
+  }
+}

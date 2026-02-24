@@ -1,0 +1,30 @@
+{
+  "id": "seize-opportunities_176982b9",
+  "expression": "seize opportunities",
+  "selectionMeta": {
+    "selectedPhrase": "seize opportunities",
+    "selectedSenseLabelKo": "기회를 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to seize opportunities whenever they arose, knowing that hesitation often leads to regret."
+  },
+  "step2": {
+    "story": "When Marcus heard about an opening at the startup, he didn't wait. He updated his resume overnight and sent it in before dawn, determined to seize opportunities others might overlook. By the end of the week, he had an interview scheduled.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had spent years watching others advance while she stayed cautious, always waiting for the perfect moment. One afternoon, her mentor sat across from her and said quietly, 'The perfect moment never comes — you have to seize opportunities as they appear.' That evening, Elena signed up for the leadership program she had been putting off for two years. It wasn't easy; the coursework was demanding and her schedule was already packed. But week by week, she built new skills and confidence she never expected. A year later, she was leading her own team, grateful she had finally chosen action over hesitation.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "기회를 빠르게 붙잡다, 즉 좋은 상황이 왔을 때 망설이지 않고 적극적으로 취하다.",
+    "realUsageKo": "직업, 학업, 인간관계 등 다양한 상황에서 유리한 기회가 왔을 때 주저하지 않고 행동하는 것을 표현할 때 사용한다. 특히 동기부여나 조언 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'seize'는 고대 프랑스어 'saisir(붙잡다)'에서 유래했으며, 중세 영어에 들어와 '강하게 움켜쥐다'는 의미로 정착했다. 'opportunity'는 라틴어 'opportunitas(유리한 시기)'에서 왔다.",
+    "nuanceKo": "단순히 기회를 '얻다'가 아니라 적극적·능동적으로 '붙잡는다'는 강한 행동성을 내포한다. 격려나 도전적인 맥락에서 쓰일 때 긍정적이고 힘 있는 어조를 전달한다.",
+    "shortExampleEn": "You have to seize opportunities before they disappear.",
+    "shortExampleKo": "기회가 사라지기 전에 잡아야 한다."
+  }
+}

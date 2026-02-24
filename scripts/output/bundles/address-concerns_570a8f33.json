@@ -1,0 +1,30 @@
+{
+  "id": "address-concerns_570a8f33",
+  "expression": "address concerns",
+  "selectionMeta": {
+    "selectedPhrase": "address concerns",
+    "selectedSenseLabelKo": "우려를 해소하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The CEO held a town hall meeting to address concerns about the company's recent restructuring."
+  },
+  "step2": {
+    "story": "After the merger announcement, employees were anxious about job security. The HR team scheduled a series of meetings to address concerns from every department. By the end of the week, most staff felt reassured and ready to move forward.",
+    "topicTag": "workplace change",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "When the new policy was rolled out, complaints started flooding into the feedback portal almost immediately. Sara, the operations director, knew she had to act fast to address concerns before morale took a serious hit. She gathered team leads for an emergency briefing and listened carefully to each issue raised. One by one, she worked through the points, clarifying misconceptions and offering concrete adjustments to the policy. By the time the meeting wrapped up, the tension in the room had visibly eased. The team left feeling heard, and Sara felt confident the situation had been handled with care.",
+    "topicTag": "leadership",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "'address'는 '다루다', 'concerns'는 '우려 사항'으로, 직역하면 '우려 사항들을 다루다'라는 뜻이다.",
+    "realUsageKo": "비즈니스 및 공식적인 상황에서 누군가의 걱정이나 불만을 적극적으로 해소하거나 논의할 때 사용한다. 회의, 발표, 공식 커뮤니케이션 등에서 자주 쓰인다.",
+    "etymologyKo": "'address'는 라틴어 'directus(곧게 향하다)'에서 유래해 '~에 직접 대응하다'는 의미로 발전했으며, 'concerns'는 라틴어 'concernere(함께 식별하다)'에서 비롯된 단어로 '관심사, 걱정'을 뜻한다.",
+    "nuanceKo": "단순히 문제를 인식하는 것을 넘어, 적극적으로 대응하고 해결하려는 의지를 내포한다. 격식체 표현으로 전문적이고 책임감 있는 어조를 전달한다.",
+    "shortExampleEn": "The manager promised to address concerns raised during the performance review.",
+    "shortExampleKo": "매니저는 성과 평가 중 제기된 우려 사항들을 해소하겠다고 약속했다."
+  }
+}

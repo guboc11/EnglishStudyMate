@@ -1,0 +1,30 @@
+{
+  "id": "think-strategically_0e1d7946",
+  "expression": "think strategically",
+  "selectionMeta": {
+    "selectedPhrase": "think strategically",
+    "selectedSenseLabelKo": "전략적으로 생각하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "To succeed in a competitive market, every leader must learn to think strategically rather than reacting to problems as they arise."
+  },
+  "step2": {
+    "story": "Sarah paused before making her next move. She had learned to think strategically, weighing every option against the company's long-term goals. Her patience paid off when the deal closed on her terms.",
+    "topicTag": "business decision",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "When Marcus joined the struggling startup, the team was firefighting daily crises with no clear direction. He pulled everyone into a two-day offsite and challenged them to stop reacting and start thinking strategically. Together they mapped out a three-year roadmap, identifying which markets to enter and which to abandon. Marcus knew that clarity at the top would ripple through every department. Within six months, the team was executing with confidence, and investors began to take notice. The company's turnaround was not luck — it was the result of learning to think strategically under pressure.",
+    "topicTag": "startup turnaround",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "전략적으로 생각하다 — 목표와 자원을 고려해 장기적 관점에서 사고하다.",
+    "realUsageKo": "단기 문제에 즉흥적으로 반응하지 않고 장기 목표와 전체 맥락을 고려해 계획을 세우는 사고방식을 가리킨다. 비즈니스, 커리어, 조직 운영 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'Strategic'은 그리스어 'strategos(장군, 군사 지휘관)'에서 유래했으며, 군사 작전에서 자원을 배분하고 승리를 계획하는 능력을 뜻했다. 현대 비즈니스에서는 경쟁 환경에서 장기적 우위를 설계하는 사고를 의미한다.",
+    "nuanceKo": "단순히 '계획을 세운다'는 뜻을 넘어, 큰 그림을 보고 우선순위를 설정하며 트레이드오프를 감수하는 성숙한 판단력을 강조하는 표현이다. 리더십이나 경영 맥락에서 능력 있는 인재를 묘사할 때 긍정적인 어감으로 자주 사용된다.",
+    "shortExampleEn": "We need to think strategically about which partnerships will drive growth over the next five years.",
+    "shortExampleKo": "우리는 향후 5년간 성장을 이끌 파트너십이 무엇인지 전략적으로 생각해야 한다."
+  }
+}

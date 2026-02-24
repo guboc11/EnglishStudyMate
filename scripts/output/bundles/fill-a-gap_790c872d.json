@@ -1,0 +1,30 @@
+{
+  "id": "fill-a-gap_790c872d",
+  "expression": "fill a gap",
+  "selectionMeta": {
+    "selectedPhrase": "fill a gap",
+    "selectedSenseLabelKo": "공백을 채우다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The new hire was brought on specifically to fill a gap in the team's data analytics expertise."
+  },
+  "step2": {
+    "story": "After the senior analyst resigned, the project was stalling. Management decided to fill a gap by contracting a specialist until a permanent replacement could be found. Within two weeks, the team was back on track.",
+    "topicTag": "team management",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "When the company expanded into Southeast Asia, it quickly became clear that no one on the existing team spoke the local languages or understood the regional market. The CEO knew they had to fill a gap before the launch could proceed. She reached out to a recruitment firm and outlined exactly what skills were missing. Within a month, two regional consultants had joined the team on a contract basis. Their insights reshaped the entire go-to-market strategy, and the launch exceeded expectations.",
+    "topicTag": "business expansion",
+    "moodTag": "strategic"
+  },
+  "meaning": {
+    "literalMeaningKo": "빈 공간이나 부족한 부분을 채우다.",
+    "realUsageKo": "비즈니스 상황에서 조직이나 시장에 부족한 역량, 인력, 서비스 등을 보완한다는 의미로 자주 쓰인다. '시장의 공백을 메우다', '팀의 빈자리를 채우다'처럼 활용된다.",
+    "etymologyKo": "'fill'은 고대 영어 'fyllan'(가득 채우다)에서, 'gap'은 고대 노르드어 'gap'(틈, 구멍)에서 유래했다. 두 단어가 결합해 어떤 결핍이나 공백을 메운다는 뜻이 됐다.",
+    "nuanceKo": "단순히 빈자리를 채운다는 물리적 의미보다는, 전략적 필요나 부족한 역량을 보완한다는 능동적·긍정적 뉘앙스가 강하다. 비즈니스와 공식적인 맥락에서 특히 자연스럽게 쓰인다.",
+    "shortExampleEn": "Launching a mentorship program helped fill a gap for junior employees who lacked guidance.",
+    "shortExampleKo": "멘토십 프로그램을 시작한 것이 지도가 부족했던 신입 직원들의 공백을 채우는 데 도움이 됐다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "get-results_e336caf9",
+  "expression": "get results",
+  "selectionMeta": {
+    "selectedPhrase": "get results",
+    "selectedSenseLabelKo": "결과를 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She changed her workout routine and finally started to get results after just three weeks."
+  },
+  "step2": {
+    "story": "Marcus had been studying Spanish for months without much progress. He decided to switch to daily conversation practice, and within weeks he began to get results — his confidence soared. His teacher noticed the improvement and praised his new approach.",
+    "topicTag": "language learning",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "After a string of disappointing quarterly reviews, the sales team sat down to rethink their strategy. Their manager, Dana, pushed everyone to focus on building genuine client relationships rather than chasing quick wins. It felt slow at first, and doubt crept in during the early weeks. But by the end of the quarter, they began to get results — deals closed faster and customer satisfaction scores jumped. The team realized that patience and the right method had made all the difference. Dana framed the final report on the wall as a reminder that real effort always pays off.",
+    "topicTag": "workplace performance",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "노력이나 행동을 통해 원하는 결과나 성과를 얻다.",
+    "realUsageKo": "학습, 업무, 운동 등 어떤 분야에서든 노력의 효과가 눈에 보이기 시작할 때 사용하는 표현으로, 주로 지속적인 시도 끝에 성과가 나타났음을 강조한다.",
+    "etymologyKo": "'result'는 라틴어 'resultare(튀어 오르다, 되돌아오다)'에서 유래하여 '어떤 원인에서 비롯된 결과'를 뜻하게 되었으며, 'get results'는 그 결과를 손에 넣는다는 의미로 정착했다.",
+    "nuanceKo": "단순히 결과가 발생했다는 사실보다 노력·전략이 효과를 발휘하고 있다는 긍정적 뉘앙스가 강하며, 비즈니스·스포츠·자기계발 맥락에서 특히 자주 쓰인다.",
+    "shortExampleEn": "You need to stay consistent if you want to get results.",
+    "shortExampleKo": "결과를 얻으려면 꾸준히 해야 해."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "persevere-through-hardship_1729cca4",
+  "expression": "persevere through hardship",
+  "selectionMeta": {
+    "selectedPhrase": "persevere through hardship",
+    "selectedSenseLabelKo": "역경을 견디다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She chose to persevere through hardship rather than give up on her dream of becoming a doctor."
+  },
+  "step2": {
+    "story": "After losing his job and facing mounting debt, Marcus knew he had to persevere through hardship to rebuild his life. He worked two part-time jobs while studying for a new certification, refusing to let circumstances define his future. Six months later, his determination paid off when he landed a position better than the one he had lost.",
+    "topicTag": "personal resilience",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the harvest failed for the second year in a row, the small farming community faced a crisis that tested every family's resolve. Elena watched her neighbors pack up and leave, but she urged those who remained to persevere through hardship together. They pooled their resources, shared meals, and helped one another repair barns and tend livestock through the bitter winter. By spring, a network of mutual support had formed that had never existed before — born entirely out of necessity and shared struggle. When the rains finally came and the fields turned green again, the community that emerged was stronger and more tightly knit than ever. Elena often said afterward that their hardest year had also been their most defining one.",
+    "topicTag": "community and perseverance",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어려움이나 고난을 끝까지 견디며 나아가다.",
+    "realUsageKo": "포기하고 싶은 상황에서도 꾸준히 버텨내는 모습을 묘사할 때 사용하며, 주로 장기적인 어려움을 극복하는 맥락에서 쓰인다.",
+    "etymologyKo": "'persevere'는 라틴어 'perseverare'(끝까지 지속하다)에서 유래했으며, 'per-(완전히)'와 'severus(엄격한, 진지한)'가 결합된 표현이다.",
+    "nuanceKo": "단순히 참는 것을 넘어 능동적으로 버텨내는 의지를 강조하며, 존경이나 감탄의 뉘앙스가 담긴 격식체 표현이다.",
+    "shortExampleEn": "Only those who persevere through hardship truly understand the value of success.",
+    "shortExampleKo": "역경을 견뎌낸 사람만이 성공의 진정한 가치를 안다."
+  }
+}

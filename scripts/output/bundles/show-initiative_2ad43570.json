@@ -1,0 +1,30 @@
+{
+  "id": "show-initiative_2ad43570",
+  "expression": "show initiative",
+  "selectionMeta": {
+    "selectedPhrase": "show initiative",
+    "selectedSenseLabelKo": "주도적으로 나서다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Instead of waiting to be told what to do, Sarah decided to show initiative and redesigned the onboarding process on her own."
+  },
+  "step2": {
+    "story": "Marcus noticed the team was struggling with disorganized meeting notes. Without being asked, he showed initiative by setting up a shared workspace and creating clear templates for everyone. His manager was impressed and praised him at the next all-hands meeting.",
+    "topicTag": "workplace leadership",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When the project deadline was suddenly moved up by two weeks, the rest of the team panicked and waited for instructions. Elena, however, chose to show initiative — she pulled up the project board, identified the three biggest blockers, and drafted a revised timeline before the morning standup had even started. She sent it to her manager with a brief note explaining her reasoning. By the time the team meeting began, they had a clear path forward thanks to her. Her willingness to act without being prompted earned her a spot on the company's high-potential list.",
+    "topicTag": "project management",
+    "moodTag": "proactive"
+  },
+  "meaning": {
+    "literalMeaningKo": "솔선수범을 보이다, 스스로 앞장서서 행동하다.",
+    "realUsageKo": "지시나 허락을 기다리지 않고 스스로 판단해 먼저 행동할 때 사용하며, 주로 직장·학업 등 성과가 중요한 상황에서 긍정적인 평가를 받는 행동을 묘사합니다.",
+    "etymologyKo": "'initiative'는 라틴어 'initium(시작)'에서 유래했으며, 어떤 일의 첫 발걸음을 내딛는다는 의미를 담고 있습니다.",
+    "nuanceKo": "단순한 '적극성'보다 한 단계 더 나아가, 남들이 행동하기 전에 상황을 파악하고 먼저 움직이는 자발적 주도성을 강조합니다. 비즈니스 영어에서 능력 있는 직원을 묘사할 때 자주 쓰입니다.",
+    "shortExampleEn": "He showed initiative by preparing the report before his boss even asked for it.",
+    "shortExampleKo": "그는 상사가 요청하기도 전에 보고서를 준비하는 주도성을 보여줬다."
+  }
+}

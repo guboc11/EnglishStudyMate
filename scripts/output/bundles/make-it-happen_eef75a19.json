@@ -1,0 +1,30 @@
+{
+  "id": "make-it-happen_eef75a19",
+  "expression": "make it happen",
+  "selectionMeta": {
+    "selectedPhrase": "make it happen",
+    "selectedSenseLabelKo": "실현시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She didn't just dream about launching her own business — she worked hard every day to make it happen."
+  },
+  "step2": {
+    "story": "Everyone on the team doubted the deadline could be met. But Mia rolled up her sleeves and said, 'I'll make it happen.' By Friday evening, the project was done.",
+    "topicTag": "workplace determination",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had talked about writing a novel for years, but life always got in the way. One rainy afternoon, he finally sat down, opened a blank document, and decided he was going to make it happen no matter what. He set a daily word-count goal and stuck to it for six months. Friends who once heard only excuses now held a finished manuscript in their hands. 'I stopped waiting for the perfect moment,' James said, 'and just made it happen.' The novel was published the following spring.",
+    "topicTag": "personal goals",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "그것이 일어나도록 만들다, 즉 어떤 일을 현실로 이루어지게 하다.",
+    "realUsageKo": "목표나 계획을 실제로 실현·달성하다는 의미로, 의지와 행동을 강조할 때 자주 쓰인다. '어떻게든 해내다'라는 뉘앙스로 직장·일상 모두에서 쓰인다.",
+    "etymologyKo": "'make'(만들다)와 'happen'(일어나다)의 결합으로, 16세기 영어부터 쓰이던 기본 동사들로 구성된 구어적 표현이다. 20세기 들어 자기계발·동기부여 담론이 확산되면서 현재의 관용 표현으로 굳어졌다.",
+    "nuanceKo": "단순한 성취보다 '의지와 노력으로 가능하게 만든다'는 능동적 의지를 강조한다. 격려·독려 상황에서 자주 쓰이며, 긍정적이고 에너지 넘치는 어조를 띤다.",
+    "shortExampleEn": "We only have two weeks, but I know we can make it happen.",
+    "shortExampleKo": "2주밖에 없지만, 우리가 해낼 수 있다고 믿어."
+  }
+}

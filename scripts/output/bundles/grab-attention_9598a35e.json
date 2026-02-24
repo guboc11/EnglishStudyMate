@@ -1,0 +1,30 @@
+{
+  "id": "grab-attention_9598a35e",
+  "expression": "grab attention",
+  "selectionMeta": {
+    "selectedPhrase": "grab attention",
+    "selectedSenseLabelKo": "관심을 끌다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The bold red poster in the window was designed to grab attention from passersby on the busy street."
+  },
+  "step2": {
+    "story": "Maya spent hours designing her presentation slides, choosing vivid colors and striking visuals to grab attention from the start. When she finally stood in front of the room, every head turned her way.",
+    "topicTag": "public speaking",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "The small coffee shop had been struggling to compete with the big chains on the corner. The owner decided to paint a giant mural on the exterior wall—something vibrant and unexpected—to grab attention from anyone walking by. Within a week, people were stopping to take photos, and foot traffic doubled. Local blogs picked up the story, and soon the shop was known throughout the neighborhood not just for its coffee, but for its art. Sometimes a single bold move is all it takes to stand out.",
+    "topicTag": "small business",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 주의나 관심을 강하게 끌어당기다.",
+    "realUsageKo": "사람들의 시선이나 흥미를 끌고 싶을 때, 특히 광고·디자인·발표·행동 등이 눈에 띄거나 인상적일 때 사용합니다.",
+    "etymologyKo": "'grab'은 '갑자기 잡다'라는 의미의 게르만어 계열 단어로, 여기서는 주의를 '낚아채듯' 끈다는 뉘앙스를 더합니다.",
+    "nuanceKo": "단순히 주목받는 것을 넘어, 즉각적이고 강렬하게 관심을 사로잡는다는 적극적인 느낌을 줍니다. 마케팅·미디어 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "The street performer's acrobatics immediately grabbed everyone's attention.",
+    "shortExampleKo": "거리 공연자의 아크로바틱 묘기가 즉시 모두의 관심을 사로잡았다."
+  }
+}

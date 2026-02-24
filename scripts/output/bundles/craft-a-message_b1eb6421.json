@@ -1,0 +1,30 @@
+{
+  "id": "craft-a-message_b1eb6421",
+  "expression": "craft a message",
+  "selectionMeta": {
+    "selectedPhrase": "craft a message",
+    "selectedSenseLabelKo": "메시지를 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spent twenty minutes trying to craft a message that was both honest and kind before finally hitting send."
+  },
+  "step2": {
+    "story": "After the difficult meeting, Marcus needed to craft a message to his client explaining the delay without damaging their trust. He chose every word carefully, balancing transparency with reassurance.",
+    "topicTag": "professional communication",
+    "moodTag": "careful"
+  },
+  "step3": {
+    "story": "Nora stared at the blank screen, unsure how to begin. She had to craft a message to her estranged sister after three years of silence, and every draft felt either too cold or too desperate. She deleted her attempts one by one, starting over each time she felt the tone slip. Finally, she wrote just two sentences — simple, warm, and without expectation. When she read it back, she knew it was right. She took a slow breath and pressed send.",
+    "topicTag": "reconciliation",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "메시지를 공들여 만들다.",
+    "realUsageKo": "단순히 문자를 보내는 것이 아니라, 상황과 감정을 고려해 단어 하나하나를 신중하게 골라 메시지를 작성할 때 사용한다.",
+    "etymologyKo": "'craft'는 고대 영어 'cræft(기술, 힘)'에서 유래하여 현대에는 '공예' 또는 '정성껏 만들다'는 의미로 쓰이며, 글쓰기에 적용될 때 세심한 노력을 강조한다.",
+    "nuanceKo": "단순히 메시지를 쓴다(write a message)는 것과 달리, 목적과 상대방을 의식하며 표현을 다듬는 행위를 함축한다. 공식적이거나 감정적으로 민감한 상황에서 자주 쓰인다.",
+    "shortExampleEn": "He took his time to craft a message that wouldn't offend anyone on the team.",
+    "shortExampleKo": "그는 팀원 중 누구도 기분 상하지 않을 메시지를 만들기 위해 시간을 들였다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "level-up_37a71af0",
+  "expression": "level up",
+  "selectionMeta": {
+    "selectedPhrase": "level up",
+    "selectedSenseLabelKo": "레벨 업하다 / 향상시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to take an online course to level up her data analysis skills before applying for the promotion."
+  },
+  "step2": {
+    "story": "Marcus had been stuck in the same entry-level position for two years. He knew it was time to level up, so he enrolled in an evening coding bootcamp. Within six months, he landed a senior developer role.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After finishing her third year as a graphic designer, Yuna felt like her work had plateaued. Her portfolio was solid, but she wasn't winning the bigger contracts she wanted. A mentor suggested she level up by learning motion design and UX principles. Yuna spent every weekend for four months grinding through tutorials and building new projects. When she relaunched her portfolio with the fresh skills, three agencies reached out within a week. She realized that leveling up wasn't just about talent — it was about intentional, consistent effort.",
+    "topicTag": "self-improvement",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "원래 게임에서 캐릭터의 레벨을 올린다는 뜻이다.",
+    "realUsageKo": "실생활에서는 기술, 능력, 지위 등을 한 단계 향상시킨다는 의미로 폭넓게 쓰인다. 자기계발이나 커리어 성장 맥락에서 특히 자주 등장한다.",
+    "etymologyKo": "비디오 게임 문화에서 유래한 표현으로, 캐릭터가 경험치를 쌓아 레벨이 오르는 것에서 비롯됐다. 2010년대 이후 일상 영어로 자연스럽게 흡수되었다.",
+    "nuanceKo": "단순히 '개선하다'보다 더 역동적이고 목표 지향적인 느낌을 준다. 노력과 성장에 대한 긍정적인 에너지가 담겨 있으며, 주로 캐주얼하거나 동기부여 맥락에서 쓰인다.",
+    "shortExampleEn": "I'm taking a public speaking class to level up my presentation skills.",
+    "shortExampleKo": "발표 실력을 향상시키기 위해 스피치 수업을 듣고 있어."
+  }
+}

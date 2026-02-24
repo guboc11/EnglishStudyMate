@@ -1,0 +1,30 @@
+{
+  "id": "bounce-ideas-off_f1026593",
+  "expression": "bounce ideas off",
+  "selectionMeta": {
+    "selectedPhrase": "bounce ideas off",
+    "selectedSenseLabelKo": "아이디어를 나누다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She always likes to bounce ideas off her colleagues before finalizing any major decisions."
+  },
+  "step2": {
+    "story": "Before the product launch, Marcus pulled his team into the conference room to bounce ideas off them. The group quickly identified a flaw in the pricing strategy and suggested a better approach. By the end of the session, they had a stronger plan than Marcus could have developed alone.",
+    "topicTag": "teamwork",
+    "moodTag": "collaborative"
+  },
+  "step3": {
+    "story": "Priya had been staring at the same slide deck for three hours without making any real progress. She finally decided to grab a coffee and bounce ideas off her manager, David, who always had a fresh perspective. As she walked him through the proposal, his questions pushed her to rethink assumptions she hadn't even noticed she was making. Within twenty minutes, the core argument of the presentation had sharpened considerably. Priya realized that even a brief conversation could do more than hours of solo thinking. She made it a habit from that day forward to never finalize a strategy without first talking it through with someone she trusted.",
+    "topicTag": "creative problem-solving",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "아이디어를 누군가에게 '튕겨내듯' 던져 반응을 살핀다는 뜻입니다.",
+    "realUsageKo": "직장이나 팀 환경에서 아이디어·계획·의견을 다른 사람과 나누며 피드백을 구할 때 씁니다. 주로 'bounce ideas off someone' 형태로 사용됩니다.",
+    "etymologyKo": "'bounce'는 공이 튀어 오르는 동작에서 비롯된 표현으로, 아이디어를 상대에게 '튕겨' 돌아오는 반응을 기다린다는 이미지를 담고 있습니다.",
+    "nuanceKo": "격식 없이 편하게 의견을 나누는 느낌이 강합니다. 최종 결정을 구하는 것이 아니라 가볍게 의견을 타진하는 캐주얼한 뉘앙스입니다.",
+    "shortExampleEn": "Do you have five minutes? I'd love to bounce a few ideas off you.",
+    "shortExampleKo": "잠깐 시간 있어요? 아이디어 몇 가지를 나눠보고 싶어서요."
+  }
+}

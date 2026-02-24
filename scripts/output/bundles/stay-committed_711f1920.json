@@ -1,0 +1,30 @@
+{
+  "id": "stay-committed_711f1920",
+  "expression": "stay committed",
+  "selectionMeta": {
+    "selectedPhrase": "stay committed",
+    "selectedSenseLabelKo": "헌신을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how difficult the training gets, you have to stay committed to your goal if you want to see real progress."
+  },
+  "step2": {
+    "story": "Maya had been working toward her marathon goal for six months, but lately the early morning runs felt unbearable. She reminded herself why she started and chose to stay committed, lacing up her shoes even on the hardest days. Slowly, the discipline became habit, and crossing the finish line felt like proof of everything she had pushed through.",
+    "topicTag": "personal fitness",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel launched his small business, everyone around him seemed to be succeeding faster. Sales were slow, feedback was mixed, and self-doubt crept in every evening. Still, he made a deliberate choice to stay committed to the vision he had written down on day one. He revisited that vision every morning, adjusted his strategy without abandoning his purpose, and kept showing up. Months later, a loyal customer base began to form—not because of a lucky break, but because Daniel had refused to quit when it was hard. The commitment itself became the foundation everything else was built on.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 목표나 약속에 전념하는 상태를 지속적으로 유지하다.",
+    "realUsageKo": "어려움이나 유혹이 있어도 목표·결정·관계에 대한 헌신을 포기하지 않고 이어나갈 때 사용한다. 주로 장기적인 노력이 필요한 맥락에서 쓰인다.",
+    "etymologyKo": "'stay'는 고대 프랑스어 'estayer(버티다)'에서 유래했으며, 'committed'는 라틴어 'committere(함께 맡기다)'에서 파생되어 '어떤 것에 자신을 바치다'라는 의미를 갖게 되었다.",
+    "nuanceKo": "단순히 계속하는 것이 아니라 의지를 가지고 흔들리지 않겠다는 능동적 결심의 뉘앙스가 강하다. 동기부여 담화, 코칭, 자기계발 맥락에서 자주 등장한다.",
+    "shortExampleEn": "Even when the project hit setbacks, the team chose to stay committed and deliver their best work.",
+    "shortExampleKo": "프로젝트에 차질이 생겼을 때도 팀은 헌신을 유지하며 최선을 다해 결과물을 내놓았다."
+  }
+}

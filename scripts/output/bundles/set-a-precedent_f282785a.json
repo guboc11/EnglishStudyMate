@@ -1,0 +1,30 @@
+{
+  "id": "set-a-precedent_f282785a",
+  "expression": "set a precedent",
+  "selectionMeta": {
+    "selectedPhrase": "set a precedent",
+    "selectedSenseLabelKo": "선례를 세우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The landmark ruling by the Supreme Court set a precedent that would influence environmental law for decades to come."
+  },
+  "step2": {
+    "story": "The company decided to offer unlimited parental leave, knowing it would set a precedent in their industry. Competitors watched closely, aware that employees everywhere would soon expect the same. Within a year, three major firms had followed suit.",
+    "topicTag": "workplace policy",
+    "moodTag": "progressive"
+  },
+  "step3": {
+    "story": "When Maya refused to work unpaid overtime and formally complained to HR, her colleagues whispered that she was taking a huge risk. But Maya knew that someone had to set a precedent before anything would change. The investigation found the practice unlawful, and management was forced to revise the entire overtime policy. Her name was never mentioned in the official announcement, yet every employee knew who had drawn the line. The following year, the company won an award for fair labor practices. Maya smiled quietly, knowing that the precedent she had set would protect people she would never even meet.",
+    "topicTag": "workplace rights",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 행동이나 결정이 이후에 따를 기준이나 모범이 되도록 처음으로 확립하다.",
+    "realUsageKo": "법률, 비즈니스, 사회적 상황에서 이전에 없던 기준을 처음으로 만들어 다른 사람이나 미래의 상황에 영향을 미친다는 의미로 폭넓게 사용된다.",
+    "etymologyKo": "'precedent'는 라틴어 'praecedere(앞서 가다)'에서 유래했으며, 14세기 영어에 도입되어 법적 선례를 뜻하게 되었다.",
+    "nuanceKo": "긍정적·부정적 결과 모두에 사용할 수 있으며, 행위의 역사적·사회적 중요성을 강조하는 다소 격식 있는 표현이다.",
+    "shortExampleEn": "Allowing one employee to work remotely full-time could set a precedent for the whole team.",
+    "shortExampleKo": "직원 한 명에게 완전 재택근무를 허용하면 팀 전체에 선례가 될 수 있습니다."
+  }
+}

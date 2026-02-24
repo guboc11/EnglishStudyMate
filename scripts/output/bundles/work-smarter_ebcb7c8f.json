@@ -1,0 +1,30 @@
+{
+  "id": "work-smarter_ebcb7c8f",
+  "expression": "work smarter",
+  "selectionMeta": {
+    "selectedPhrase": "work smarter",
+    "selectedSenseLabelKo": "더 효율적으로 일하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Instead of staying late every night, she decided to work smarter by automating repetitive tasks and focusing only on high-impact priorities."
+  },
+  "step2": {
+    "story": "Daniel was exhausted from pulling 12-hour days with little to show for it. His mentor pulled him aside and told him it was time to work smarter, not just harder. Within a week of restructuring his schedule and delegating low-value tasks, Daniel was leaving the office on time and delivering better results.",
+    "topicTag": "productivity",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "After three straight months of overtime, Sarah finally hit a wall. Her manager noticed the burnout and sat her down for an honest conversation. 'You're one of the hardest workers here,' he said, 'but I need you to work smarter.' He showed her how to use project management tools to batch similar tasks, eliminate unnecessary meetings, and set clear boundaries with stakeholders. Skeptical at first, Sarah gave the new approach a shot. Within two weeks, she was finishing her core work by late afternoon and had mental space to think creatively again. She realized that working smarter wasn't about cutting corners — it was about directing her energy where it mattered most.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "더 영리하게 일하다, 즉 단순히 많은 시간을 쏟는 것이 아니라 효율적인 방법으로 일하다.",
+    "realUsageKo": "비즈니스 맥락에서 불필요한 노력을 줄이고 우선순위와 자동화, 위임 등을 통해 같은 시간에 더 나은 성과를 내는 방식을 강조할 때 사용한다. 흔히 'work smarter, not harder'라는 표현과 함께 쓰인다.",
+    "etymologyKo": "'smarter'는 'smart'의 비교급으로, 여기서 smart는 '영리한, 기민한'의 뜻이다. 이 표현은 20세기 후반 경영학 및 자기계발 문화에서 효율 중심의 업무 철학을 나타내는 슬로건으로 자리잡았다.",
+    "nuanceKo": "단순한 근면함보다 전략적 사고를 중시하는 어감이 담겨 있다. 지나치게 열심히만 일하는 사람에게 방향 전환을 권유하는 뉘앙스로 쓰이며, 비판보다는 건설적인 조언의 톤이 강하다.",
+    "shortExampleEn": "We need to work smarter by cutting the meetings that don't drive decisions.",
+    "shortExampleKo": "우리는 결정을 이끌어내지 못하는 회의를 줄여서 더 효율적으로 일해야 합니다."
+  }
+}

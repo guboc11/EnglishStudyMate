@@ -1,0 +1,30 @@
+{
+  "id": "empower-your-team_aedf7fea",
+  "expression": "empower your team",
+  "selectionMeta": {
+    "selectedPhrase": "empower your team",
+    "selectedSenseLabelKo": "팀에게 권한을 주다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The best way to scale a company is to empower your team to make decisions without waiting for approval at every step."
+  },
+  "step2": {
+    "story": "Sarah realized her department was stuck in a bottleneck because every small decision had to go through her. She decided to empower your team by clearly defining each person's authority and trusting them to act. Within a month, project turnaround times dropped dramatically.",
+    "topicTag": "leadership",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "When Marcus took over as engineering director, he noticed that developers were constantly waiting for sign-off on routine technical choices, slowing down delivery cycles. He gathered the team and explained his philosophy: his job was to empower your team, not to be a gatekeeper. He restructured decision-making so that engineers owned their own solutions, only escalating when budget or company-wide impact was involved. At first, some team members felt uneasy with the added responsibility, but weekly retrospectives helped everyone build confidence. Six months later, the team was shipping features twice as fast, and morale had never been higher.",
+    "topicTag": "team management",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "팀원들에게 스스로 판단하고 행동할 수 있는 권한과 자율성을 부여하다.",
+    "realUsageKo": "비즈니스 맥락에서 리더가 팀원들에게 의사결정 권한을 위임하고 자율적으로 일할 수 있는 환경을 만드는 것을 의미한다. 마이크로매니지먼트의 반대 개념으로 자주 쓰인다.",
+    "etymologyKo": "empower는 'en-(만들다) + power(권력)'에서 유래하여 '권한을 부여하다'는 뜻을 갖게 되었으며, 1980년대 이후 경영학과 리더십 담론에서 핵심 용어로 자리잡았다.",
+    "nuanceKo": "단순한 업무 위임(delegate)보다 신뢰와 자율성의 뉘앙스가 강하며, 팀원의 성장과 주인의식을 촉진한다는 긍정적·능동적 톤을 담고 있다.",
+    "shortExampleEn": "Great managers empower their team to take ownership of projects from start to finish.",
+    "shortExampleKo": "훌륭한 관리자는 팀원들이 프로젝트를 처음부터 끝까지 책임지고 이끌 수 있도록 권한을 부여한다."
+  }
+}

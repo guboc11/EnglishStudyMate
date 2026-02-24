@@ -1,0 +1,30 @@
+{
+  "id": "win-the-trust_f9ebce3d",
+  "expression": "win the trust",
+  "selectionMeta": {
+    "selectedPhrase": "win the trust",
+    "selectedSenseLabelKo": "신뢰를 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took months of consistent effort for her to win the trust of her new colleagues."
+  },
+  "step2": {
+    "story": "When Daniel joined the struggling community center, the locals were skeptical of any outsider's intentions. He showed up every day, listened carefully, and followed through on every small promise. Slowly, he began to win the trust of the people he had come to help.",
+    "topicTag": "community building",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After the merger, employees across both companies were anxious and guarded, unsure of what the new leadership would mean for their futures. Elena, the newly appointed director, chose not to issue grand announcements. Instead, she walked the floors, held open-door sessions, and admitted openly when she didn't have all the answers. Over time, her honesty and steadiness began to win the trust of even the most skeptical staff members. By the end of the quarter, the atmosphere had shifted — people were collaborating instead of competing, and morale had noticeably improved.",
+    "topicTag": "workplace leadership",
+    "moodTag": "reassured"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 신뢰를 '획득하다' 또는 '쟁취하다'는 뜻입니다.",
+    "realUsageKo": "시간이 걸리는 노력과 행동을 통해 상대방의 믿음을 서서히 얻어가는 과정을 표현할 때 사용합니다. 신뢰는 요구하는 것이 아니라 행동으로 증명해서 얻는 것임을 내포합니다.",
+    "etymologyKo": "'win'은 고대 영어 'winnan'(노력하다, 싸우다)에서 유래했으며, 무언가를 위해 분투하여 쟁취한다는 의미를 담고 있습니다. 'trust'는 고대 노르드어 'traust'(믿음, 확신)에서 왔습니다.",
+    "nuanceKo": "단순히 신뢰를 '받다'는 것보다 적극적이고 능동적인 뉘앙스가 강합니다. 신뢰가 자동으로 주어지는 것이 아니라, 꾸준한 행동과 성실함으로 스스로 '획득'해야 한다는 함의가 담겨 있습니다.",
+    "shortExampleEn": "He worked hard to win the trust of his new team.",
+    "shortExampleKo": "그는 새 팀의 신뢰를 얻기 위해 열심히 노력했습니다."
+  }
+}

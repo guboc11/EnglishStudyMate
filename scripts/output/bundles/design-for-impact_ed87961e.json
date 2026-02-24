@@ -1,0 +1,30 @@
+{
+  "id": "design-for-impact_ed87961e",
+  "expression": "design for impact",
+  "selectionMeta": {
+    "selectedPhrase": "design for impact",
+    "selectedSenseLabelKo": "임팩트를 위해 설계하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The product team was challenged to design for impact, ensuring every feature they shipped would meaningfully improve users' daily lives."
+  },
+  "step2": {
+    "story": "Maya joined the startup with one clear directive: design for impact, not just aesthetics. She spent weeks talking to real users, uncovering pain points that no one had bothered to address. When her redesigned onboarding flow cut drop-off rates in half, the team finally understood what she meant.",
+    "topicTag": "product design",
+    "moodTag": "purposeful"
+  },
+  "step3": {
+    "story": "At the all-hands meeting, the VP of Product stood before the entire engineering team and issued a challenge: from now on, every decision must design for impact. He pulled up a slide showing how their latest feature had been used by fewer than two percent of users. The room went quiet. For the next sprint, teams were asked to justify every story point with a measurable outcome tied to user value. Developers who had once focused purely on technical elegance started sitting in on user research sessions. Within two quarters, their core engagement metric had climbed thirty percent, proof that intentional design could transform not just the product, but the culture of the whole company.",
+    "topicTag": "product strategy",
+    "moodTag": "transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "영향력(임팩트)을 염두에 두고 설계하다.",
+    "realUsageKo": "기능이나 제품을 만들 때 미적 완성도보다 실제 사용자나 사회에 미치는 긍정적 효과를 최우선으로 고려한다는 뜻으로 쓰인다. 테크·스타트업 환경에서 전략적 방향성을 강조할 때 자주 등장한다.",
+    "etymologyKo": "'design'은 라틴어 'designare(표시하다, 계획하다)'에서 유래했고, 'impact'는 라틴어 'impactus(충돌)'에서 비롯되어 '강한 영향'을 뜻하게 됐다. 두 단어가 결합해 '결과 중심 설계'라는 현대 테크 업계의 철학을 표현한다.",
+    "nuanceKo": "단순히 예쁘게 만드는 것이 아니라 측정 가능한 변화를 만들겠다는 의지를 담고 있어, 사용하면 결과 지향적이고 책임감 있는 인상을 준다. 발표나 기획서에서 쓰면 설득력이 높아진다.",
+    "shortExampleEn": "Our engineers are encouraged to design for impact by always asking how a change will affect the end user.",
+    "shortExampleKo": "우리 엔지니어들은 변경 사항이 최종 사용자에게 어떤 영향을 미칠지 항상 질문함으로써 임팩트를 위해 설계하도록 권장받는다."
+  }
+}

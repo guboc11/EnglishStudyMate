@@ -1,0 +1,30 @@
+{
+  "id": "find-your-niche_20987737",
+  "expression": "find your niche",
+  "selectionMeta": {
+    "selectedPhrase": "find your niche",
+    "selectedSenseLabelKo": "자신만의 영역을 찾다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After years of jumping between roles, she finally found her niche in sustainable product design."
+  },
+  "step2": {
+    "story": "Marcus tried sales, marketing, and operations before he found his niche in data analytics. The moment he started working with numbers, everything clicked. He became the go-to person on his team within just six months.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For the first two years at the company, Lena felt like she was drifting. She moved from one department to another, never quite feeling like she belonged. Then a colleague suggested she try the UX research team, and something shifted. She found her niche almost immediately — sitting with users, listening to their frustrations, and translating those insights into design decisions. Her manager noticed the change in her energy and soon gave her a lead role. Now Lena mentors new hires, encouraging them to explore until they find their niche the way she did.",
+    "topicTag": "workplace identity",
+    "moodTag": "fulfilled"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신에게 꼭 맞는 틈새 또는 자리를 찾다.",
+    "realUsageKo": "여러 분야를 시도한 끝에 자신이 가장 잘하고 즐길 수 있는 특정 영역이나 역할을 발견했을 때 사용한다. 커리어, 비즈니스, 창작 분야 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'Niche'는 프랑스어 'nicher(둥지를 틀다)'에서 유래했으며, 원래는 벽에 조각상을 놓기 위해 파낸 오목한 공간을 뜻했다. 이후 '자신에게 꼭 맞는 위치나 역할'이라는 비유적 의미로 확장되었다.",
+    "nuanceKo": "단순히 직업을 찾는 것보다 더 깊은 의미로, 자신의 강점·성격·열정이 일치하는 지점을 발견했다는 뉘앙스를 담고 있다. 보통 시행착오를 거친 후의 긍정적인 결과로 쓰인다.",
+    "shortExampleEn": "He found his niche as a freelance illustrator for tech startups.",
+    "shortExampleKo": "그는 테크 스타트업 전문 프리랜서 일러스트레이터로서 자신만의 영역을 찾았다."
+  }
+}

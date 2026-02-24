@@ -1,0 +1,30 @@
+{
+  "id": "stay-humble_d8bb138c",
+  "expression": "stay humble",
+  "selectionMeta": {
+    "selectedPhrase": "stay humble",
+    "selectedSenseLabelKo": "겸손함을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even after winning the championship, she reminded herself to stay humble and keep working hard."
+  },
+  "step2": {
+    "story": "After his startup went viral overnight, Daniel received dozens of interview requests and speaking invitations. He turned most of them down, choosing instead to stay humble and focus on improving his product. His team respected him more for it.",
+    "topicTag": "success and recognition",
+    "moodTag": "grounded"
+  },
+  "step3": {
+    "story": "Maya had just been promoted to senior engineer, skipping a level that most people took years to reach. Her inbox flooded with congratulations, and her photo appeared on the company's internal blog. At the celebration lunch, she found herself surrounded by admiring colleagues asking for career advice. But when her mentor pulled her aside afterward, she said simply, 'Stay humble — the best engineers I know never stop thinking of themselves as beginners.' Maya carried those words with her, making a habit of asking questions rather than giving answers, and always crediting her teammates first.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'humble(겸손한)' 상태를 'stay(유지하다)'한다는 뜻으로, 겸손한 태도를 잃지 않는 것을 의미합니다.",
+    "realUsageKo": "성공하거나 칭찬을 받은 상황에서도 교만해지지 않고 겸손한 자세를 유지하라고 조언하거나 다짐할 때 사용합니다. 자기 계발, 스포츠, 직장 문화에서 자주 등장합니다.",
+    "etymologyKo": "'humble'은 라틴어 'humilis(땅에 가까운, 낮은)'에서 유래했으며, 'stay'와 결합해 그 상태를 지속한다는 의미를 더합니다.",
+    "nuanceKo": "단순한 겸손을 넘어 성공 후에도 자만하지 않겠다는 의지와 자기 절제를 담은 표현입니다. 멘토가 후배에게 건네는 조언이나 성공한 사람의 좌우명으로 자주 쓰입니다.",
+    "shortExampleEn": "No matter how much praise you receive, always stay humble.",
+    "shortExampleKo": "아무리 많은 칭찬을 받더라도, 항상 겸손함을 유지하세요."
+  }
+}

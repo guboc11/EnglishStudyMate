@@ -1,0 +1,30 @@
+{
+  "id": "focus-on-what-matters_1d07537d",
+  "expression": "focus on what matters",
+  "selectionMeta": {
+    "selectedPhrase": "focus on what matters",
+    "selectedSenseLabelKo": "중요한 것에 집중하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When life gets overwhelming, it helps to step back and focus on what matters most."
+  },
+  "step2": {
+    "story": "After weeks of chasing every new trend, Maya finally decided to focus on what matters — her health, her family, and one meaningful project. She stopped filling her calendar with noise and started protecting her energy. Within a month, she felt more productive than ever.",
+    "topicTag": "work-life balance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "David had spent the entire quarter scrambling to keep up with every request that landed in his inbox. His team was exhausted, and yet nothing felt finished. One evening, his mentor pulled him aside and said simply, 'You need to focus on what matters — not everything that shouts for your attention.' The words hit hard. The next morning, David wrote a short list of three priorities and pinned it to his monitor. He started saying no to the rest. By the end of the week, his team had shipped the feature they had been stalling on for two months, and the atmosphere in the room had changed completely.",
+    "topicTag": "leadership and priorities",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "중요한 것에 집중하다 — 주의와 에너지를 진짜로 중요한 일에 향하게 하다.",
+    "realUsageKo": "업무, 인간관계, 개인 성장 등 여러 상황에서 사소한 것에 흔들리지 말고 핵심에 집중하라는 조언이나 다짐을 표현할 때 사용한다.",
+    "etymologyKo": "'focus'는 라틴어 'focus(화덕, 중심점)'에서 유래했으며, 광학에서 빛을 한 점에 모은다는 개념이 전이되어 '주의를 집중하다'는 의미로 쓰이게 되었다.",
+    "nuanceKo": "단순한 집중 이상으로, 덜 중요한 것을 의도적으로 걸러내고 선택과 집중을 실천한다는 뉘앙스가 강하다. 자기계발, 리더십, 생산성 관련 맥락에서 자주 등장한다.",
+    "shortExampleEn": "Instead of worrying about minor details, try to focus on what matters for the project's success.",
+    "shortExampleKo": "사소한 세부 사항에 신경 쓰는 대신, 프로젝트 성공에 중요한 것에 집중해 보세요."
+  }
+}

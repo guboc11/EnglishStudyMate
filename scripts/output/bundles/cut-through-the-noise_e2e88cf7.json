@@ -1,0 +1,30 @@
+{
+  "id": "cut-through-the-noise_e2e88cf7",
+  "expression": "cut through the noise",
+  "selectionMeta": {
+    "selectedPhrase": "cut through the noise",
+    "selectedSenseLabelKo": "소음을 뚫고 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her clear, data-driven presentation managed to cut through the noise at the crowded industry conference."
+  },
+  "step2": {
+    "story": "The startup had a powerful product, but the market was flooded with competitors all saying the same things. They needed one bold campaign to cut through the noise and reach real customers. Their unconventional viral video did exactly that.",
+    "topicTag": "marketing",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had been sending pitch emails for months with no response. Every investor he contacted seemed buried under hundreds of similar proposals, all promising to 'disrupt the industry.' He decided to try a completely different approach — a one-page handwritten letter with a single striking statistic about a problem nobody else was addressing. It was unconventional, but it finally cut through the noise. Within a week, three investors had responded, eager to learn more about his vision.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "소음을 날카롭게 잘라내다 — 복잡하게 얽힌 방해 요소들을 직접 통과한다는 뜻.",
+    "realUsageKo": "수많은 정보나 경쟁 속에서 핵심 메시지가 사람들의 주목을 받을 때 씁니다. 마케팅, 비즈니스, 커뮤니케이션 맥락에서 자주 등장합니다.",
+    "etymologyKo": "'cut through'는 장애물을 직선으로 통과한다는 의미이고, 'noise'는 방해가 되는 소음이나 잡음을 뜻합니다. 두 단어가 합쳐져 '혼란 속에서 돋보이다'라는 비유적 표현이 됐습니다.",
+    "nuanceKo": "힘과 명료함을 강조하는 긍정적인 표현입니다. 메시지나 아이디어가 혼잡한 환경에서 효과적으로 전달될 때 주로 쓰이며, 전략적 명확성을 암시합니다.",
+    "shortExampleEn": "Her concise tweet managed to cut through the noise and go viral overnight.",
+    "shortExampleKo": "그녀의 간결한 트윗은 수많은 정보 속에서 단번에 주목을 끌며 하룻밤 사이에 퍼져나갔다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "scale-up_e88291ec",
+  "expression": "scale up",
+  "selectionMeta": {
+    "selectedPhrase": "scale up",
+    "selectedSenseLabelKo": "규모를 키우다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After securing a second round of funding, the startup decided to scale up its operations and hire fifty new engineers."
+  },
+  "step2": {
+    "story": "The bakery had been a neighborhood staple for years, but the owner finally decided it was time to scale up. She signed a lease on a larger facility and brought in two new bakers to meet the growing demand. Within months, her pastries were reaching customers across the entire city.",
+    "topicTag": "business growth",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "When Maya presented her quarterly results to the board, the numbers were impossible to argue with — customer retention was at ninety percent and revenue had doubled. The board unanimously voted to scale up, authorizing a budget three times larger than the year before. Maya felt both thrilled and overwhelmed as she walked out of the boardroom, knowing that scaling up meant hiring, training, and rebuilding every process from scratch. She spent the next weekend mapping out the org chart on her kitchen table, fueled by cold coffee and a quiet determination. The challenge was enormous, but she had built something real, and she was ready to make it bigger.",
+    "topicTag": "startup expansion",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "규모(scale)를 위로(up) 올린다는 뜻으로, 사업이나 운영의 크기를 키우는 것을 의미합니다.",
+    "realUsageKo": "주로 비즈니스나 스타트업 맥락에서 생산 능력, 팀 규모, 운영 범위 등을 확대할 때 사용합니다. '사업을 키우다', '규모를 늘리다'에 해당하는 표현입니다.",
+    "etymologyKo": "'Scale'은 라틴어 'scala(사다리, 계단)'에서 유래했으며, 측정 단위나 크기를 뜻하게 되었습니다. 'Up'과 결합해 크기나 규모를 늘린다는 방향성을 나타냅니다.",
+    "nuanceKo": "단순히 크게 만드는 것을 넘어, 체계적이고 지속 가능한 방식으로 성장시킨다는 뉘앙스가 있습니다. 스타트업과 테크 업계에서 특히 자주 쓰이며, 투자자와의 대화에서도 핵심 키워드입니다.",
+    "shortExampleEn": "We need to scale up production before the holiday season.",
+    "shortExampleKo": "휴가 시즌 전에 생산 규모를 키워야 합니다."
+  }
+}
