@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import { ScrollView } from 'react-native';
 
 import { Button, ButtonText } from '@/components/ui/button';
 import { Text } from '@/components/ui/text';
@@ -161,18 +162,20 @@ export function MeaningGateScreen({
         ) : (
           <>
             <Text size="md">어떤 것과 관련된 의미인가요?</Text>
-            <VStack className="gap-2">
-              {result.candidates.map((candidate) => (
-                <Button
-                  key={candidate.id}
-                  size="md"
-                  action={selectedCandidateId === candidate.id ? 'primary' : 'secondary'}
-                  onPress={() => handleCandidateSelect(candidate)}
-                >
-                  <ButtonText>{`${candidate.phrase} - ${candidate.senseLabelKo}`}</ButtonText>
-                </Button>
-              ))}
-            </VStack>
+            <ScrollView style={{ maxHeight: 240 }} showsVerticalScrollIndicator={false}>
+              <VStack className="gap-2">
+                {result.candidates.map((candidate) => (
+                  <Button
+                    key={candidate.id}
+                    size="md"
+                    action={selectedCandidateId === candidate.id ? 'primary' : 'secondary'}
+                    onPress={() => handleCandidateSelect(candidate)}
+                  >
+                    <ButtonText>{`${candidate.phrase} - ${candidate.senseLabelKo}`}</ButtonText>
+                  </Button>
+                ))}
+              </VStack>
+            </ScrollView>
 
             {selectedCandidate ? (
               <>
