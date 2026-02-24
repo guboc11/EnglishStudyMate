@@ -36,4 +36,14 @@ interval.unref();
 
 app.listen(port, () => {
   console.log(`[backend] listening on :${port}`);
+
+  // Render 무료 플랜 슬립 방지: 5분마다 자기 자신에게 health check
+  const selfUrl = process.env.RENDER_EXTERNAL_URL;
+  if (selfUrl) {
+    setInterval(() => {
+      fetch(`${selfUrl}/health`)
+        .then(() => console.log('[keep-alive] ping ok'))
+        .catch((err) => console.warn('[keep-alive] ping failed:', err.message));
+    }, 5 * 60 * 1000);
+  }
 });
