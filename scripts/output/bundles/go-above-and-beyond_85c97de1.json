@@ -1,0 +1,30 @@
+{
+  "id": "go-above-and-beyond_85c97de1",
+  "expression": "go above and beyond",
+  "selectionMeta": {
+    "selectedPhrase": "go above and beyond",
+    "selectedSenseLabelKo": "기대 이상을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always goes above and beyond to make sure every client feels heard and valued."
+  },
+  "step2": {
+    "story": "Daniel was just supposed to fix the broken printer, but he went above and beyond by reorganizing the entire supply room. His manager noticed the extra effort and praised him in front of the whole team.",
+    "topicTag": "workplace effort",
+    "moodTag": "appreciative"
+  },
+  "step3": {
+    "story": "When the school's art fundraiser fell short of its goal, Ms. Reyes decided to go above and beyond her role as a teacher. She spent her weekends designing promotional flyers, reaching out to local businesses, and organizing a small gallery showcase in the town hall. Parents and students were moved by her dedication, and donations poured in far beyond what anyone had expected. By the end of the month, the school had enough funds not only for new art supplies but also for a student field trip to a nearby museum. Ms. Reyes never asked for recognition, but the community made sure she knew how much her effort meant.",
+    "topicTag": "community dedication",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "기준선(beyond)의 위(above)까지 넘어선다는 뜻으로, 요구되는 수준을 훨씬 초과한다는 의미입니다.",
+    "realUsageKo": "직장, 학교, 일상에서 누군가가 기대치나 요구 사항 이상으로 노력하거나 행동할 때 사용합니다. 칭찬이나 감사의 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'above'와 'beyond'는 모두 '넘어서다'는 의미를 가진 영어 전치사로, 이 둘을 결합해 '어떤 기준이나 경계를 완전히 초과하다'는 강조 표현이 되었습니다.",
+    "nuanceKo": "단순히 '열심히 하다'보다 강한 뉘앙스로, 자발적이고 특별한 노력을 강조합니다. 주로 긍정적·칭찬적 어조에서 사용됩니다.",
+    "shortExampleEn": "The volunteers went above and beyond to help the flood victims recover.",
+    "shortExampleKo": "자원봉사자들은 홍수 피해자들의 회복을 돕기 위해 기대 이상의 노력을 기울였습니다."
+  }
+}

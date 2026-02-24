@@ -1,0 +1,30 @@
+{
+  "id": "give-your-best-shot_aed72a5c",
+  "expression": "give your best shot",
+  "selectionMeta": {
+    "selectedPhrase": "give your best shot",
+    "selectedSenseLabelKo": "최선을 다하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even if you're nervous, just give your best shot and you might surprise yourself."
+  },
+  "step2": {
+    "story": "Maria had been preparing for the job interview for weeks. On the morning of the big day, her mentor told her to stop overthinking and simply give her best shot. She walked in with confidence, and by the end, she had an offer in hand.",
+    "topicTag": "job interview",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jake stood at the starting line of his first marathon, heart pounding and legs trembling. He had trained for six months through rain, heat, and exhaustion, but doubts still crept in. His coach leaned over and said quietly, 'You don't have to finish first — just give your best shot.' Those words cut through the noise in his head. He ran every mile with everything he had, and when he crossed the finish line, he raised his fists in the air. It wasn't the fastest time, but it was entirely his.",
+    "topicTag": "personal challenge",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'당신의 최선의 시도를 던지다'라는 뜻으로, 가진 모든 것을 쏟아붓는 행위를 묘사합니다.",
+    "realUsageKo": "실제로는 결과에 관계없이 최선을 다해 도전하라고 격려할 때 사용합니다. 시험, 면접, 경기 등 어떤 도전 앞에서도 쓸 수 있는 표현입니다.",
+    "etymologyKo": "'shot'은 총을 쏘는 행위에서 유래해 '시도'라는 의미로 확장되었으며, 'give it a shot(한번 해보다)'의 강조형이 'give your best shot'입니다.",
+    "nuanceKo": "결과보다 과정과 노력에 초점을 맞추는 격려의 뉘앙스가 강합니다. 가볍게 시도해보라는 'give it a shot'보다 훨씬 진지하고 전력을 다하라는 의미가 담겨 있습니다.",
+    "shortExampleEn": "I know this audition is tough, but give your best shot and see what happens.",
+    "shortExampleKo": "이번 오디션이 쉽지 않다는 건 알지만, 최선을 다해보고 어떻게 되는지 보자."
+  }
+}

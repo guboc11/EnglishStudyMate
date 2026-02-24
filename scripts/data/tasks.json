@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 2000,
-    "content_done": 1842,
-    "pending": 146,
+    "content_done": 1845,
+    "pending": 143,
     "errors": 0,
-    "last_updated": "2026-02-24T11:42:00.000Z",
+    "last_updated": "2026-02-24T11:43:08.000Z",
     "in_progress": 10,
     "image_done": 0,
     "completed": 0
@@ -23498,10 +23498,10 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "in_progress",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/foster-innovation_ffecc4c3.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null,
+      "done_at": "2026-02-24T11:42:49.153Z",
       "claimed_at": "2026-02-24T11:41:57.981Z"
     },
     {
@@ -23511,10 +23511,10 @@
       "domain": "general",
       "type": "collocation",
       "level": "B1",
-      "status": "in_progress",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/give-your-best-shot_aed72a5c.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null,
+      "done_at": "2026-02-24T11:43:07.909Z",
       "claimed_at": "2026-02-24T11:42:22.979Z"
     },
     {
@@ -23524,10 +23524,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/go-above-and-beyond_85c97de1.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:43:00.000Z",
+      "claimed_at": "2026-02-24T11:42:45.533Z"
     },
     {
       "id": "grow-a-brand_0f0a1a48",
@@ -23536,10 +23537,11 @@
       "domain": "business",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
-      "bundle_path": null,
+      "status": "content_done",
+      "bundle_path": "output/bundles/grow-a-brand_0f0a1a48.json",
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": "2026-02-24T11:43:08.000Z",
+      "claimed_at": "2026-02-24T11:43:00.635Z"
     },
     {
       "id": "handle-pressure_1694a655",
@@ -23548,10 +23550,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
+      "status": "in_progress",
       "bundle_path": null,
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": null,
+      "claimed_at": "2026-02-24T11:43:18.594Z"
     },
     {
       "id": "harness-creativity_46700da2",
@@ -23560,10 +23563,11 @@
       "domain": "general",
       "type": "collocation",
       "level": "B2",
-      "status": "pending",
+      "status": "in_progress",
       "bundle_path": null,
       "added_at": "2026-02-23T12:44:17.752Z",
-      "done_at": null
+      "done_at": null,
+      "claimed_at": "2026-02-24T11:43:41.046Z"
     },
     {
       "id": "have-a-competitive-edge_b8eb4a17",
