@@ -138,7 +138,7 @@ async function findExpressionsByPhraseLike(phrase) {
   const { data, error } = await supabase
     .from('expressions')
     .select('id, phrase, sense_label_ko, domain, meaning')
-    .ilike('phrase', `%${phrase}%`)
+    .filter('phrase', '~*', `\\m${phrase}\\M`)
     .limit(10);
 
   if (error || !data) return [];
