@@ -127,9 +127,28 @@ async function insertExpressionAndStory(bundle) {
   }
 }
 
+/**
+ * phrase LIKE 검색으로 후보 expression 목록 반환.
+ *
+ * @param {string} phrase - 검색어 (lowercase trim)
+ * @returns {Promise<Array<{ id: string; phrase: string; sense_label_ko: string; domain: string; meaning: object }>>}
+ */
+async function findExpressionsByPhraseLike(phrase) {
+  const supabase = createSupabaseClient();
+  const { data, error } = await supabase
+    .from('expressions')
+    .select('id, phrase, sense_label_ko, domain, meaning')
+    .ilike('phrase', `%${phrase}%`)
+    .limit(10);
+
+  if (error || !data) return [];
+  return data;
+}
+
 module.exports = {
   createSupabaseClient,
   findExpressionByPhrase,
+  findExpressionsByPhraseLike,
   rowsToBundle,
   insertExpressionAndStory,
 };
