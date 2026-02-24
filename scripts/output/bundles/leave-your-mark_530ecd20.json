@@ -1,0 +1,30 @@
+{
+  "id": "leave-your-mark_530ecd20",
+  "expression": "leave your mark",
+  "selectionMeta": {
+    "selectedPhrase": "leave your mark",
+    "selectedSenseLabelKo": "자취를 남기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She worked tirelessly for decades in education, determined to leave her mark on the lives of thousands of students."
+  },
+  "step2": {
+    "story": "After years of volunteering in his community, Daniel finally launched a nonprofit that provided free meals to hundreds of families. He never sought recognition, but the people around him knew he had truly left his mark. Even after he moved to another city, the organization continued to grow in his name.",
+    "topicTag": "community impact",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "Maya had always been the quietest architect at her firm, rarely speaking up in meetings and letting others take credit for shared ideas. But when the city announced a public park design competition, she submitted her own vision — a sweeping green space that wove together art, history, and nature. The judges were unanimous: her design won. As the park opened to thousands of visitors on a sunny Saturday morning, Maya stood at the entrance and felt something settle inside her. She had spent so long in the background, but now her work would stand for generations. She had finally left her mark on the city she loved.",
+    "topicTag": "creative legacy",
+    "moodTag": "fulfilling"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '흔적을 남기다'라는 뜻으로, 어떤 표면에 물리적인 자국을 남기는 행위를 의미합니다.",
+    "realUsageKo": "실제로는 어떤 사람이나 장소, 시대에 의미 있는 영향을 끼쳐 기억될 만한 자취를 남긴다는 의미로 사용됩니다. 주로 업적, 공헌, 또는 인상적인 영향력을 묘사할 때 씁니다.",
+    "etymologyKo": "'mark'는 고대 영어 'mearc'에서 유래한 단어로 원래 경계나 표시를 뜻했습니다. 시간이 지나면서 '인상' 또는 '영향'이라는 추상적 의미로 확장되어 오늘날처럼 쓰이게 되었습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 단순한 성공이 아닌 오래 기억될 유산이나 영향을 강조합니다. 개인의 노력과 의지가 담긴 표현으로, 유명인뿐 아니라 평범한 사람에게도 자연스럽게 사용할 수 있습니다.",
+    "shortExampleEn": "He left his mark on the company by transforming its culture from the ground up.",
+    "shortExampleKo": "그는 회사 문화를 완전히 바꿔놓음으로써 회사에 자신의 자취를 남겼다."
+  }
+}

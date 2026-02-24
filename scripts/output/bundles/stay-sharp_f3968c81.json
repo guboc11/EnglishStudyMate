@@ -1,0 +1,30 @@
+{
+  "id": "stay-sharp_f3968c81",
+  "expression": "stay sharp",
+  "selectionMeta": {
+    "selectedPhrase": "stay sharp",
+    "selectedSenseLabelKo": "날카롭게 있다 / 빈틈없이 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even after years in the industry, she continued to read widely and take on new challenges to stay sharp."
+  },
+  "step2": {
+    "story": "Marcus had been a trader for fifteen years, but he never let complacency creep in. Every morning before the markets opened, he reviewed the latest news and ran through mental exercises to stay sharp. His colleagues often marveled at how he caught opportunities others missed.",
+    "topicTag": "professional focus",
+    "moodTag": "disciplined"
+  },
+  "step3": {
+    "story": "The surgery was scheduled for seven in the morning, and Dr. Patel had been on call since midnight. Despite the exhaustion pulling at her eyes, she splashed cold water on her face and reminded herself why she had trained so hard — her patient needed her to stay sharp. She walked through the procedure step by step in her mind, checking every detail one more time. In the operating room, her hands were steady, her focus unbroken. Hours later, as she delivered the good news to the waiting family, she felt the familiar mix of relief and quiet pride. Staying sharp wasn't just a habit for her; it was a commitment she renewed every single day.",
+    "topicTag": "high-stakes performance",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "날카롭게 유지하다 — 정신이나 감각을 예리한 상태로 지속적으로 유지하다.",
+    "realUsageKo": "집중력, 판단력, 또는 전문적인 능력이 떨어지지 않도록 꾸준히 노력한다는 의미로 쓰인다. 직업적 맥락뿐 아니라 스포츠, 공부, 일상에서도 자주 사용된다.",
+    "etymologyKo": "'Sharp'는 고대 영어 'scearp'에서 유래하며 '날카롭다'는 뜻이다. 지능이나 인식이 '날카로운 칼날'처럼 예리하다는 비유에서 정신적 명민함을 나타내게 되었고, 'stay'와 결합해 그 상태를 유지한다는 표현이 되었다.",
+    "nuanceKo": "단순히 능력이 있다는 것이 아니라, 의식적으로 노력하여 그 능력을 유지·갱신한다는 뉘앙스가 강하다. 자기계발에 대한 능동적 의지를 내포하며, 칭찬이나 자기다짐의 맥락에서 모두 자연스럽게 쓰인다.",
+    "shortExampleEn": "He does puzzles every day to stay sharp.",
+    "shortExampleKo": "그는 두뇌를 날카롭게 유지하기 위해 매일 퍼즐을 푼다."
+  }
+}

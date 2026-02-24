@@ -1,0 +1,30 @@
+{
+  "id": "iterate-quickly_4b5c9c69",
+  "expression": "iterate quickly",
+  "selectionMeta": {
+    "selectedPhrase": "iterate quickly",
+    "selectedSenseLabelKo": "빠르게 반복하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The startup was able to iterate quickly on their app by releasing small updates every week and gathering user feedback immediately."
+  },
+  "step2": {
+    "story": "Maya's team had only three weeks to improve the product before the investor demo. They decided to iterate quickly, shipping daily builds and testing each change with real users. By the end of the sprint, the app was almost unrecognizable — in the best possible way.",
+    "topicTag": "product development",
+    "moodTag": "driven"
+  },
+  "step3": {
+    "story": "When the beta launch revealed a confusing onboarding flow, the engineering team didn't panic — they had built their process specifically to iterate quickly. Within 48 hours, they had three revised prototypes ready for user testing. Feedback poured in, and the designers worked through the night to incorporate the most critical insights. By Friday, a cleaner, faster onboarding was live. The users who had complained became the loudest advocates. It wasn't magic — it was a culture of shipping, learning, and improving without hesitation.",
+    "topicTag": "agile development",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 과정이나 제품을 빠른 속도로 반복하여 개선하다.",
+    "realUsageKo": "주로 소프트웨어 개발이나 스타트업 문화에서 짧은 주기로 개선·수정·출시를 반복하는 방식을 가리킬 때 사용한다. '빠른 반복 개발'이라는 뉘앙스로 자주 쓰인다.",
+    "etymologyKo": "'iterate'는 라틴어 'iterare'(반복하다)에서 유래했으며, 컴퓨터 과학에서는 루프를 돌며 처리를 반복한다는 의미로 확장됐다. 'quickly'와 결합해 애자일 방법론의 핵심 개념을 표현하는 표현으로 정착했다.",
+    "nuanceKo": "단순한 반복이 아닌 '피드백을 받아 개선하며 반복한다'는 능동적이고 성장 지향적인 뉘앙스가 강하다. 실패를 두려워하지 않는 도전적인 태도를 내포하는 경우가 많다.",
+    "shortExampleEn": "The best startups iterate quickly and aren't afraid to change course based on data.",
+    "shortExampleKo": "훌륭한 스타트업들은 빠르게 반복하며, 데이터를 바탕으로 방향을 바꾸는 것을 두려워하지 않는다."
+  }
+}

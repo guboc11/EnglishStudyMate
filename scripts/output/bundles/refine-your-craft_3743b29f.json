@@ -1,0 +1,30 @@
+{
+  "id": "refine-your-craft_3743b29f",
+  "expression": "refine your craft",
+  "selectionMeta": {
+    "selectedPhrase": "refine your craft",
+    "selectedSenseLabelKo": "기술을 다듬다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spends hours every weekend practicing calligraphy, determined to refine her craft before the exhibition."
+  },
+  "step2": {
+    "story": "Marcus had been writing code for two years, but he knew there was always room to improve. He signed up for an advanced algorithms course, eager to refine his craft. Each late-night session brought him closer to the developer he wanted to become.",
+    "topicTag": "skill development",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Yuna had played the violin since she was six, but she felt something was missing in her performances. Her mentor suggested she listen more carefully to the silences between notes, not just the notes themselves. She began practicing in a new way, paying attention to every subtle detail of her technique. Night after night, she worked to refine her craft, shaping her sound into something more expressive. Months later, when she stepped onto the stage at the conservatory, the audience fell into a reverent hush. She played not just with skill, but with a depth that could only come from disciplined devotion.",
+    "topicTag": "music and artistry",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 기술이나 솜씨를 더욱 정교하게 다듬다.",
+    "realUsageKo": "특정 분야에서 이미 어느 정도 실력을 갖춘 사람이 꾸준한 노력과 연습을 통해 한 단계 더 발전시키려 할 때 사용한다. 예술, 글쓰기, 프로그래밍 등 다양한 분야에서 폭넓게 쓰인다.",
+    "etymologyKo": "'refine'은 라틴어 'refinare'에서 유래해 불순물을 제거하고 순수하게 만든다는 뜻이며, 'craft'는 고대 영어 'cræft'에서 비롯되어 기술이나 숙련된 솜씨를 의미한다.",
+    "nuanceKo": "단순히 연습한다는 뜻을 넘어, 이미 지닌 능력을 더욱 정밀하게 갈고닦는다는 뉘앙스가 강하다. 장인 정신이나 예술적 헌신과 연결되어 긍정적이고 진지한 어조를 띤다.",
+    "shortExampleEn": "He takes every workshop he can find to refine his craft as a photographer.",
+    "shortExampleKo": "그는 사진작가로서 기술을 다듬기 위해 찾을 수 있는 모든 워크숍에 참여한다."
+  }
+}

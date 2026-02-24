@@ -1,0 +1,30 @@
+{
+  "id": "track-your-goals_f25489a3",
+  "expression": "track your goals",
+  "selectionMeta": {
+    "selectedPhrase": "track your goals",
+    "selectedSenseLabelKo": "목표를 추적하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She uses a journal every Sunday night to track her goals and see how much progress she has made during the week."
+  },
+  "step2": {
+    "story": "Marcus downloaded a habit app to track his goals after struggling to stay consistent for months. Each evening he logged his workouts, reading time, and savings, watching the progress bars slowly fill up. By the end of the month, he finally felt in control of his own growth.",
+    "topicTag": "self-improvement",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "At the start of the new year, Yuna sat at her desk and wrote down everything she wanted to achieve: learn guitar, run a 5K, save enough for a trip abroad. She set up a simple spreadsheet to track her goals week by week, color-coding each milestone green when she hit it. For the first time, her ambitions felt concrete rather than just wishful thinking. When February arrived and she noticed three green squares in a row, a quiet confidence settled in her chest. She realized that tracking wasn't about pressure — it was about seeing how far she had already come.",
+    "topicTag": "goal setting",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 목표를 추적하다, 즉 목표의 달성 여부와 진행 상황을 지속적으로 확인하고 기록하다.",
+    "realUsageKo": "목표를 단순히 세우는 것을 넘어, 일지·앱·체크리스트 등을 활용해 진척도를 꾸준히 모니터링하는 행동을 가리킨다. 자기계발, 업무, 학습 등 다양한 상황에서 폭넓게 사용된다.",
+    "etymologyKo": "'track'은 중세 영어 'trak(흔적, 발자국)'에서 유래해 '경로를 따라가다'라는 의미로 발전했으며, 여기서 파생해 '진행 상황을 따라가다(모니터링하다)'는 뜻으로 굳어졌다.",
+    "nuanceKo": "단순히 목표를 적어두는 것과 달리, 지속적이고 체계적인 확인 행위를 강조한다. 자기 주도적이고 성실한 태도를 내포하며, 긍정적이고 실용적인 어감이 강하다.",
+    "shortExampleEn": "I use a whiteboard in my room to track my goals every month.",
+    "shortExampleKo": "나는 방에 있는 화이트보드를 이용해 매달 내 목표를 추적한다."
+  }
+}

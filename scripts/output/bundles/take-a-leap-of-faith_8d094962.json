@@ -1,0 +1,30 @@
+{
+  "id": "take-a-leap-of-faith_8d094962",
+  "expression": "take a leap of faith",
+  "selectionMeta": {
+    "selectedPhrase": "take a leap of faith",
+    "selectedSenseLabelKo": "믿음의 도약을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of uncertainty, she decided to take a leap of faith and accept the job offer in a city she'd never visited."
+  },
+  "step2": {
+    "story": "Marcus had always dreamed of starting his own bakery, but the financial risk terrified him. One morning, he took a leap of faith and signed the lease on a small storefront. Six months later, the line outside his door stretched around the block.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Elena stared at the resignation letter on her desk for a long time, her heart pounding. She had a stable salary, good benefits, and a clear career path — everything that made sense on paper. But the startup offer had been sitting in her inbox for two weeks, and she couldn't stop thinking about it. Finally, she picked up the pen and signed her name. Sometimes you have to take a leap of faith and trust that the net will appear. A year later, she was leading a team of twelve and had never felt more alive.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "믿음을 가지고 도약한다는 뜻으로, 결과를 확신할 수 없어도 용감하게 행동에 나서는 것을 말한다.",
+    "realUsageKo": "불확실한 상황에서도 결과를 믿고 과감한 결정이나 행동을 취할 때 사용한다. 주로 직업 변경, 인간관계, 새로운 도전 등의 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'leap of faith'는 19세기 덴마크 철학자 쇠렌 키르케고르의 개념에서 유래했으며, 이성적 증거 없이 신앙을 선택하는 행위를 가리켰다. 이후 종교적 의미를 넘어 일반적인 용감한 도전을 뜻하는 표현으로 확장되었다.",
+    "nuanceKo": "위험을 감수하는 용기와 긍정적 믿음이 동시에 담긴 표현으로, 두려움을 알면서도 앞으로 나아가는 결단력을 긍정적으로 평가하는 뉘앙스가 있다. 무모함보다는 희망적이고 의지적인 선택을 강조한다.",
+    "shortExampleEn": "Marrying someone you've known for only six months is definitely taking a leap of faith.",
+    "shortExampleKo": "겨우 6개월 알고 지낸 사람과 결혼하는 건 분명 믿음의 도약을 하는 것이다."
+  }
+}

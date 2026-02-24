@@ -1,0 +1,30 @@
+{
+  "id": "challenge-yourself_397ef855",
+  "expression": "challenge yourself",
+  "selectionMeta": {
+    "selectedPhrase": "challenge yourself",
+    "selectedSenseLabelKo": "스스로에게 도전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you really want to grow, you have to challenge yourself by stepping outside your comfort zone every single day."
+  },
+  "step2": {
+    "story": "After years of the same routine, Maya decided it was time to challenge herself and sign up for a public speaking course. Standing at the podium for the first time, her hands trembled, but she pushed through and delivered her speech. That moment of courage changed everything.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had always played it safe — same job, same city, same weekend plans. One evening, scrolling through old photos, he realized he had stopped growing years ago. He decided right then to challenge himself: he enrolled in an evening coding bootcamp despite knowing nothing about programming. The first few weeks were brutal, and there were nights he almost quit. But with each small breakthrough, his confidence quietly rebuilt itself. By graduation, he had built his first app and, more importantly, rediscovered what it felt like to be alive.",
+    "topicTag": "self-improvement",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'challenge yourself'는 '자기 자신에게 도전하다', 즉 스스로를 어려운 상황에 놓아 한계를 시험한다는 뜻이다.",
+    "realUsageKo": "주로 편안한 현재 상태에 안주하지 않고 새로운 목표나 어려운 과제에 도전할 것을 권장할 때 사용된다. 자기계발, 스포츠, 커리어 등 다양한 맥락에서 폭넓게 쓰인다.",
+    "etymologyKo": "'challenge'는 고대 프랑스어 'chalenge'(비난, 주장)에서 유래하여 중세 영어에서 '어려운 과제를 제시하다'는 의미로 발전했으며, 재귀 대명사 'yourself'와 결합해 '스스로에게 그 과제를 부과하다'는 구조가 되었다.",
+    "nuanceKo": "단순히 경쟁자에게 도전하는 것이 아니라 자기 자신의 한계와 싸운다는 내면적 의지를 강조하는 표현으로, 긍정적이고 격려하는 어조를 지닌다.",
+    "shortExampleEn": "Don't settle for easy — challenge yourself to learn something new every week.",
+    "shortExampleKo": "쉬운 것에 안주하지 말고, 매주 새로운 것을 배우며 스스로에게 도전해 보세요."
+  }
+}

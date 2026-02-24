@@ -1,0 +1,30 @@
+{
+  "id": "tell-your-story_8d46d511",
+  "expression": "tell your story",
+  "selectionMeta": {
+    "selectedPhrase": "tell your story",
+    "selectedSenseLabelKo": "당신의 이야기를 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The therapist encouraged her to tell your story in her own words, without judgment."
+  },
+  "step2": {
+    "story": "After years of silence, Maya finally decided to tell her story at the community event. She spoke about her struggles with self-doubt and the small victories that kept her going. The audience listened intently, many of them nodding in recognition.",
+    "topicTag": "personal growth",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "James had kept his journey to sobriety private for over a decade, afraid of how people might react. But when his coworker mentioned struggling with the same issues, he realized that staying silent helped no one. He invited her for coffee and began to tell his story for the very first time. He talked about the lowest moments, the turning points, and the unexpected kindness of strangers who helped him find his way. By the time he finished, his coworker had tears in her eyes — not from pity, but from relief that she was not alone. Telling his story had not diminished him; it had made him feel whole.",
+    "topicTag": "vulnerability and connection",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 이야기나 경험을 말하거나 공유하다.",
+    "realUsageKo": "개인적인 경험, 역경, 성장 과정을 타인에게 솔직하게 나누는 행위를 나타낼 때 쓰인다. 자서전, 인터뷰, 강연 등의 맥락에서 자주 등장한다.",
+    "etymologyKo": "'tell'은 고대 영어 'tellan(세다, 말하다)'에서 왔으며, 'story'는 라틴어 'historia(역사, 이야기)'에서 유래했다. 두 단어가 결합해 '자신의 서사를 전달하다'는 의미를 이룬다.",
+    "nuanceKo": "단순히 사실을 전달하는 것 이상으로, 자신의 정체성과 경험을 진정성 있게 드러낸다는 뉘앙스가 강하다. 용기 있는 자기 개방을 긍정적으로 표현할 때 주로 쓰인다.",
+    "shortExampleEn": "You have the power to tell your story on your own terms.",
+    "shortExampleKo": "당신은 당신만의 방식으로 당신의 이야기를 할 힘이 있다."
+  }
+}

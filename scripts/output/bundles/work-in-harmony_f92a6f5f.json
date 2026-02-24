@@ -1,0 +1,30 @@
+{
+  "id": "work-in-harmony_f92a6f5f",
+  "expression": "work in harmony",
+  "selectionMeta": {
+    "selectedPhrase": "work in harmony",
+    "selectedSenseLabelKo": "화합하여 일하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The two departments finally learned to work in harmony after the new manager introduced regular joint planning sessions."
+  },
+  "step2": {
+    "story": "The merger had been rocky, but the two teams slowly began to work in harmony once they understood each other's strengths. By the end of the quarter, their combined output exceeded all expectations.",
+    "topicTag": "teamwork",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Elena joined the project as the new team lead, she found engineers and designers barely speaking to each other. She introduced daily stand-ups where everyone shared both progress and blockers openly. Within weeks, the atmosphere shifted—people started asking for help instead of suffering in silence. The engineers began sketching wireframes alongside the designers, and the designers learned to respect technical constraints. For the first time in months, the whole team was working in harmony, and the product roadmap finally felt achievable. The client noticed the difference immediately at the next demo.",
+    "topicTag": "cross-functional collaboration",
+    "moodTag": "optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "'조화 속에서 일하다'라는 뜻으로, 서로 충돌 없이 협력하며 함께 일하는 상태를 나타낸다.",
+    "realUsageKo": "직장이나 조직에서 구성원들이 갈등 없이 서로 협력하고 보조를 맞추며 일할 때 사용한다. 특히 팀워크나 부서 간 협업을 강조하는 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'harmony'는 그리스어 'harmonia(연결, 조화)'에서 유래했으며, 음악에서 여러 음이 어울리는 상태를 뜻하다가 일반적인 협력·조화의 의미로 확장되었다.",
+    "nuanceKo": "단순한 협력(cooperate)보다 갈등이나 마찰이 없는 이상적인 상태를 강조하는 긍정적인 표현이다. 공식적인 비즈니스 글쓰기와 발표 모두에 자연스럽게 어울린다.",
+    "shortExampleEn": "Diverse teams can achieve great results when they work in harmony.",
+    "shortExampleKo": "다양한 구성원으로 이루어진 팀도 화합하여 일하면 훌륭한 성과를 낼 수 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "reflect-on-your-actions_651e2f0b",
+  "expression": "reflect on your actions",
+  "selectionMeta": {
+    "selectedPhrase": "reflect on your actions",
+    "selectedSenseLabelKo": "자신의 행동을 돌아보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before moving on, take a quiet moment to reflect on your actions and what you could do differently next time."
+  },
+  "step2": {
+    "story": "After the argument, Maya sat alone in her room and began to reflect on her actions. She realized she had spoken without thinking and had hurt someone she cared about. Determined to make it right, she picked up her phone and called to apologize.",
+    "topicTag": "personal growth",
+    "moodTag": "remorseful"
+  },
+  "step3": {
+    "story": "The project had failed, and the team sat in silence around the conference table. Their manager, rather than assigning blame, asked everyone to take a few days to reflect on their actions throughout the project. When they reconvened, each person shared honestly — missed deadlines, poor communication, assumptions made without checking. The conversation was uncomfortable at first, but something shifted as people listened without interrupting. By the end of the meeting, they had identified three concrete changes to make before the next project launched. It was the most productive hour they had shared all year.",
+    "topicTag": "team accountability",
+    "moodTag": "introspective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신이 한 행동들을 다시 떠올리며 되짚어보다.",
+    "realUsageKo": "실수나 갈등이 있은 후 자신의 행동을 차분히 돌아보고 평가하는 상황에서 쓰인다. 성장을 위한 자기 점검의 뉘앙스를 담고 있다.",
+    "etymologyKo": "'Reflect'는 라틴어 'reflectere(뒤로 구부리다)'에서 유래해, 마음을 과거 경험 쪽으로 되돌린다는 의미로 발전했다.",
+    "nuanceKo": "단순한 후회가 아니라 냉정하고 건설적인 자기 성찰을 함의한다. 주로 진지하고 성숙한 맥락에서 사용된다.",
+    "shortExampleEn": "I always reflect on my actions after a difficult conversation to see how I can improve.",
+    "shortExampleKo": "나는 힘든 대화를 나눈 후 항상 내 행동을 돌아보며 어떻게 나아질 수 있을지 생각한다."
+  }
+}

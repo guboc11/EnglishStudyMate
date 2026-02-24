@@ -1,0 +1,30 @@
+{
+  "id": "learn-continuously_073a930d",
+  "expression": "learn continuously",
+  "selectionMeta": {
+    "selectedPhrase": "learn continuously",
+    "selectedSenseLabelKo": "계속해서 배우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "To stay relevant in a fast-changing industry, you have to learn continuously and embrace new skills."
+  },
+  "step2": {
+    "story": "After finishing her degree, Maya didn't stop there — she made it her mission to learn continuously through online courses and workshops. Every week she set aside time to explore something new, whether it was data analysis or public speaking. Her commitment paid off when she earned a promotion just a year into her first job.",
+    "topicTag": "personal growth",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When Daniel joined the startup, he quickly realized that the landscape shifted faster than any textbook could capture. His manager told him on his first day: the only way to survive here is to learn continuously. At first it felt overwhelming — new tools, new frameworks, new approaches every quarter. But Daniel began treating each challenge as a lesson rather than a threat. He kept a notebook of things he didn't understand yet, and filled it in bit by bit. Within two years, he had become the person others came to when they needed to understand something new.",
+    "topicTag": "career development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "쉬지 않고 계속해서 배우다.",
+    "realUsageKo": "직업적·개인적 성장을 위해 꾸준히 지식과 기술을 쌓는 태도나 습관을 표현할 때 사용한다. 특히 빠르게 변화하는 환경에서 적응력을 강조할 때 자주 쓰인다.",
+    "etymologyKo": "'learn'은 고대 영어 'leornian'(배우다, 익히다)에서 유래했으며, 'continuously'는 라틴어 'continuus'(끊임없는)에서 비롯된 부사다. 두 단어가 결합해 '끊임없이 배우다'라는 의미의 콜로케이션으로 정착했다.",
+    "nuanceKo": "단순히 배운다는 사실보다 지속성과 의지를 강조하는 뉘앙스가 있다. 자기계발이나 성장 마인드셋을 이야기할 때 긍정적이고 능동적인 어조로 사용된다.",
+    "shortExampleEn": "The best professionals are those who learn continuously, no matter how experienced they become.",
+    "shortExampleKo": "최고의 전문가들은 아무리 경험이 많아도 계속해서 배우는 사람들이다."
+  }
+}

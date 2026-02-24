@@ -1,0 +1,30 @@
+{
+  "id": "pursue-a-dream_79de0d36",
+  "expression": "pursue a dream",
+  "selectionMeta": {
+    "selectedPhrase": "pursue a dream",
+    "selectedSenseLabelKo": "꿈을 추구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She left her corporate job to pursue a dream of opening her own bakery."
+  },
+  "step2": {
+    "story": "After years of working in finance, Marcus finally decided to pursue a dream he had held since childhood. He enrolled in a culinary school and spent his evenings learning to cook. His colleagues thought he was crazy, but Marcus had never felt more alive.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Elena had always painted in secret, hiding her canvases under her bed and sketching during lunch breaks. When her company announced layoffs, she saw it not as a crisis but as a sign. She decided it was finally time to pursue a dream she had been postponing for over a decade. With her savings and a small studio apartment, she set up a makeshift art space and began painting seriously for the first time. Months passed with little income, and doubt crept in on the harder days. But one morning, a gallery owner discovered her work online and offered her a show — proof that the leap had been worth taking.",
+    "topicTag": "art and passion",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "꿈을 쫓다, 즉 자신이 강하게 바라는 목표나 열망을 향해 적극적으로 나아가다.",
+    "realUsageKo": "단순히 꿈을 꾸는 것을 넘어 실제 행동으로 옮기는 과정을 강조할 때 쓰이며, 진로 변경·창업·예술 활동 등 개인적 열정을 추구하는 맥락에서 자주 등장한다.",
+    "etymologyKo": "'pursue'는 라틴어 'prosequi(앞으로 따라가다)'에서 유래했으며, 'dream'은 고대 영어 'drēam(기쁨, 환상)'에서 비롯되어 현대에는 '이루고 싶은 소망'을 뜻하게 되었다.",
+    "nuanceKo": "도전과 희생을 감수하면서도 가치 있는 목표를 향해 나아간다는 긍정적이고 용감한 뉘앙스를 담고 있으며, 격려나 영감을 주는 문맥에서 자주 사용된다.",
+    "shortExampleEn": "He moved to New York to pursue a dream of becoming a Broadway actor.",
+    "shortExampleKo": "그는 브로드웨이 배우가 되겠다는 꿈을 추구하기 위해 뉴욕으로 이사했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "revamp-your-strategy_a00f6652",
+  "expression": "revamp your strategy",
+  "selectionMeta": {
+    "selectedPhrase": "revamp your strategy",
+    "selectedSenseLabelKo": "전략을 개편하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After three consecutive quarters of declining sales, the board decided it was time to completely revamp their strategy for entering new markets."
+  },
+  "step2": {
+    "story": "The startup had been losing ground to competitors for months. At the emergency meeting, the CEO stood up and said, 'We need to revamp our strategy or we won't survive the year.' By the end of the week, they had a bold new plan that would change everything.",
+    "topicTag": "business turnaround",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sarah had spent two years building the marketing department from scratch, but the numbers weren't lying — their campaigns simply weren't converting. She called her team into the conference room and spread the analytics across the table. 'We have to revamp our strategy,' she said firmly, 'because what worked last year isn't working anymore.' Her team listened as she outlined a shift from broad social media pushes to targeted content partnerships. It was a risk, but staying the course felt like a bigger one. Three months later, their conversion rate had doubled, and Sarah finally felt they were moving in the right direction.",
+    "topicTag": "marketing strategy",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "'revamp'은 '전면 개편하다', 'strategy'는 '전략'으로, 말 그대로 기존 전략을 완전히 새롭게 바꾼다는 뜻이다.",
+    "realUsageKo": "비즈니스 맥락에서 기존 접근 방식이 효과를 잃었을 때 전략 전반을 재정비하거나 쇄신한다는 의미로 쓰인다. 단순한 수정이 아닌 보다 근본적인 변화를 암시한다.",
+    "etymologyKo": "'revamp'은 17세기 영어에서 신발 앞부분(vamp)을 교체한다는 뜻에서 유래했으며, 이후 '전면적으로 개선하다'는 의미로 확장되었다.",
+    "nuanceKo": "단순히 조정하거나 수정하는 것(tweak, adjust)보다 훨씬 더 큰 규모의 변화를 뜻하며, 위기감 또는 강한 쇄신 의지가 담긴 어조를 풍긴다.",
+    "shortExampleEn": "We need to revamp our strategy before the next product launch.",
+    "shortExampleKo": "다음 제품 출시 전에 우리 전략을 전면 개편해야 합니다."
+  }
+}

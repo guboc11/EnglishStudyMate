@@ -1,0 +1,30 @@
+{
+  "id": "control-the-narrative_15b22fbe",
+  "expression": "control the narrative",
+  "selectionMeta": {
+    "selectedPhrase": "control the narrative",
+    "selectedSenseLabelKo": "이야기를 통제하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the product recall, the CEO held a press conference to control the narrative before the media could run with its own version of events."
+  },
+  "step2": {
+    "story": "The startup founder knew the leaked memo would cause panic among investors. She called an emergency team meeting and drafted a public statement within hours to control the narrative. By the time the story broke, her version was already the one people trusted.",
+    "topicTag": "crisis management",
+    "moodTag": "strategic"
+  },
+  "step3": {
+    "story": "When the video of the senator's controversial speech went viral, his communications team went into overdrive. They knew they had only a narrow window to control the narrative before public opinion hardened against him. Within the hour, they released a carefully worded clarification and arranged a series of friendly media interviews. Allies were briefed and ready to push the same talking points across social media. By evening, the initial outrage had softened into a polarized debate — exactly the outcome the team had hoped for. It wasn't the cleanest win, but controlling the narrative had bought them precious time.",
+    "topicTag": "politics and media",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 사건이나 상황에 대한 이야기(서사)의 방향을 자신이 원하는 대로 이끌고 통제한다는 뜻이다.",
+    "realUsageKo": "주로 정치, 비즈니스, PR 등에서 위기 상황이 발생했을 때 불리한 여론이 형성되기 전에 자신에게 유리한 방식으로 이야기를 먼저 정의하거나 틀을 잡는 행위를 가리킨다.",
+    "etymologyKo": "'narrative(서사, 이야기)'는 라틴어 'narrare(말하다, 이야기하다)'에서 유래했으며, 'control the narrative'는 미디어와 PR 산업이 발달하면서 대중의 인식을 관리하는 개념으로 20세기 후반에 널리 쓰이게 되었다.",
+    "nuanceKo": "중립적이거나 약간 부정적인 뉘앙스를 가질 수 있으며, 단순한 소통을 넘어 의도적이고 전략적인 정보 관리를 암시한다. 때로는 진실을 은폐하거나 여론을 조작한다는 비판적 함의로 사용되기도 한다.",
+    "shortExampleEn": "The company moved quickly to control the narrative after the data breach was made public.",
+    "shortExampleKo": "데이터 유출 사실이 공개된 후, 회사는 여론을 자사에 유리하게 이끌기 위해 신속하게 움직였다."
+  }
+}

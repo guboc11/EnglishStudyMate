@@ -1,0 +1,30 @@
+{
+  "id": "complete-a-project_802b7062",
+  "expression": "complete a project",
+  "selectionMeta": {
+    "selectedPhrase": "complete a project",
+    "selectedSenseLabelKo": "프로젝트를 완료하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Our team worked overtime to complete a project before the client's deadline."
+  },
+  "step2": {
+    "story": "After three months of late nights and tight deadlines, Sarah's team finally managed to complete a project that had pushed everyone to their limits. When the last deliverable was submitted, the office erupted in quiet cheers. It was exhausting, but the sense of accomplishment made every sacrifice worthwhile.",
+    "topicTag": "team achievement",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Marcus had never felt so much pressure in his career. His team was racing to complete a project for one of the firm's biggest clients, and the deadline was just 48 hours away. Three developers had called in sick, and the scope had unexpectedly expanded at the last minute. He reorganized tasks, pulled in two colleagues from another department, and stayed at his desk until 2 a.m. two nights in a row. When they finally submitted the last report on the morning of the deadline, Marcus leaned back in his chair and let out a long, slow breath. Completing the project had felt impossible a week ago, but here they were — and the client's response was glowing.",
+    "topicTag": "project deadline",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "프로젝트를 끝까지 수행하여 마무리 짓다.",
+    "realUsageKo": "비즈니스 환경에서 특정 업무나 과제를 계획대로 성공적으로 끝냈음을 나타낼 때 사용하며, 주로 마감 기한이나 결과물 납품과 함께 쓰인다.",
+    "etymologyKo": "'complete'는 라틴어 'complere(완전히 채우다)'에서 유래했으며, 'project'는 라틴어 'projectum(앞으로 던져진 것)'에서 파생되어 계획된 작업을 뜻하게 되었다.",
+    "nuanceKo": "단순히 일을 끝냈다는 사실 이상으로 노력과 헌신을 통해 목표를 달성했다는 성취감이 담겨 있으며, 공식적이고 전문적인 맥락에서 자주 사용된다.",
+    "shortExampleEn": "We need two more weeks to complete the project successfully.",
+    "shortExampleKo": "프로젝트를 성공적으로 완료하려면 2주가 더 필요합니다."
+  }
+}

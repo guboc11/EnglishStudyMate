@@ -1,0 +1,30 @@
+{
+  "id": "dive-deep_72ba23d7",
+  "expression": "dive deep",
+  "selectionMeta": {
+    "selectedPhrase": "dive deep",
+    "selectedSenseLabelKo": "깊이 파고들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to dive deep into the research before drawing any conclusions."
+  },
+  "step2": {
+    "story": "Marcus had always been curious about machine learning, but he never had the time to explore it properly. One weekend, he finally decided to dive deep into the subject, reading papers and running experiments late into the night. By Sunday evening, he had built his first working model.",
+    "topicTag": "self-learning",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "The project deadline was three weeks away, but the team kept hitting unexpected bugs they couldn't explain. Their lead developer, Priya, suggested they stop patching surface issues and instead dive deep into the codebase to find the root cause. She spent two full days tracing every function call, mapping dependencies, and reading through years of undocumented logic. What she discovered was a subtle memory leak that had gone unnoticed for months. With the real problem finally identified, the fix took less than an hour. The team realized that taking the time to dive deep had saved them from weeks of frustrating workarounds.",
+    "topicTag": "problem solving",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "물속으로 깊이 뛰어들다.",
+    "realUsageKo": "어떤 주제나 문제를 피상적으로 다루지 않고 철저히 파고들어 심층적으로 탐구하거나 분석할 때 사용한다.",
+    "etymologyKo": "'dive'는 물속으로 뛰어드는 동작에서 유래했으며, 여기에 'deep'이 결합되어 단순히 접근하는 것이 아니라 깊은 수준까지 탐색한다는 의미로 확장되었다.",
+    "nuanceKo": "단순한 조사나 검토가 아닌, 집중적이고 철저한 탐구를 강조하는 표현으로, 학문·업무·기술 분야에서 자주 쓰인다. 능동적이고 진지한 태도를 내포한다.",
+    "shortExampleEn": "Let's dive deep into the data to understand what's really going on.",
+    "shortExampleKo": "실제로 무슨 일이 일어나고 있는지 이해하기 위해 데이터를 깊이 파고들어 봅시다."
+  }
+}

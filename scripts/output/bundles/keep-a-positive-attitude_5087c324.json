@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-positive-attitude_5087c324",
+  "expression": "keep a positive attitude",
+  "selectionMeta": {
+    "selectedPhrase": "keep a positive attitude",
+    "selectedSenseLabelKo": "긍정적인 태도를 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when the project hit unexpected delays, she managed to keep a positive attitude and encouraged her team to push through."
+  },
+  "step2": {
+    "story": "Marcus had been job hunting for three months without success. His mentor reminded him to keep a positive attitude, saying that the right opportunity would come with persistence. He took those words to heart and landed a great offer the following week.",
+    "topicTag": "job search",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After the startup lost its biggest client, the office fell quiet with worry. Sarah, the team lead, called everyone together and urged them to keep a positive attitude despite the setback. She shared a plan for rebuilding the client pipeline and asked each person to contribute ideas. The energy in the room shifted as colleagues began brainstorming with renewed focus. Within a month, they had signed two new contracts that more than replaced what they had lost. Looking back, the team agreed that choosing to keep a positive attitude had been the real turning point.",
+    "topicTag": "workplace resilience",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "긍정적인 태도를 유지하다, 즉 어떤 상황에서도 낙관적이고 건설적인 마음가짐을 잃지 않는다는 의미이다.",
+    "realUsageKo": "어려운 상황이나 역경 속에서도 희망을 잃지 않고 낙천적으로 행동하는 것을 권장하거나 묘사할 때 사용한다. 직장, 학업, 일상생활 등 다양한 맥락에서 폭넓게 쓰인다.",
+    "etymologyKo": "'keep'은 고대 영어 'cēpan(붙잡다, 유지하다)'에서 유래했으며, 'positive'는 라틴어 'positivus(확실히 놓인)'에서 비롯되어 '긍정적인'의 의미로 발전했다.",
+    "nuanceKo": "단순히 기분이 좋다는 뜻이 아니라, 의식적인 노력으로 긍정적인 마음가짐을 유지한다는 뉘앙스가 강하다. 어려움을 인정하면서도 좌절하지 않겠다는 의지가 담겨 있다.",
+    "shortExampleEn": "It's hard to keep a positive attitude when everything seems to go wrong, but it makes a real difference.",
+    "shortExampleKo": "모든 것이 잘못되어 가는 것처럼 느껴질 때 긍정적인 태도를 유지하기는 어렵지만, 그것이 진정한 차이를 만들어 낸다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "practice-daily_adf382a0",
+  "expression": "practice daily",
+  "selectionMeta": {
+    "selectedPhrase": "practice daily",
+    "selectedSenseLabelKo": "매일 연습하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She sets aside thirty minutes every morning to practice daily, and her pronunciation has improved noticeably over the past month."
+  },
+  "step2": {
+    "story": "Leo wanted to learn guitar, so he decided to practice daily before school. After two months of short, consistent sessions, he could play his favorite song without looking at the chords.",
+    "topicTag": "learning a skill",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When Mia first picked up Spanish, she felt overwhelmed by the grammar rules and unfamiliar sounds. Her teacher told her the secret was simple: practice daily, even if only for fifteen minutes. Mia taped a sticky note to her bathroom mirror as a reminder and started listening to Spanish podcasts on her commute. Slowly, words she once had to look up began coming to her naturally. By the end of the year, she was holding full conversations with her colleagues in the Madrid office.",
+    "topicTag": "language learning",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "매일 반복적으로 연습하다.",
+    "realUsageKo": "어떤 기술이나 습관을 꾸준히 기르기 위해 매일 의도적으로 시간을 내어 연습하는 행위를 뜻한다. 운동, 언어, 악기 등 다양한 분야에서 사용된다.",
+    "etymologyKo": "'practice'는 라틴어 'practica(실천)'에서 유래했고, 'daily'는 고대 영어 'dæglic(날마다의)'에서 왔다. 두 단어가 결합해 '날마다 실천하다'는 뜻을 이룬다.",
+    "nuanceKo": "단순히 가끔 연습하는 것이 아니라 일관성과 규칙성을 강조하는 표현이다. 작은 노력이라도 매일 쌓인다는 긍정적이고 성실한 뉘앙스를 담고 있다.",
+    "shortExampleEn": "If you practice daily, you will see real progress within a few weeks.",
+    "shortExampleKo": "매일 연습하면 몇 주 안에 실질적인 발전을 느낄 수 있을 것이다."
+  }
+}

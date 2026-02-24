@@ -1,0 +1,30 @@
+{
+  "id": "take-a-step-back_538f0499",
+  "expression": "take a step back",
+  "selectionMeta": {
+    "selectedPhrase": "take a step back",
+    "selectedSenseLabelKo": "한 발 물러서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Sometimes you need to take a step back and look at the bigger picture before making a decision."
+  },
+  "step2": {
+    "story": "The project had been overwhelming her for weeks. She decided to take a step back and reassess her priorities. With a clearer perspective, she mapped out a new plan that actually worked.",
+    "topicTag": "work stress",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Marcus had been coding for six hours straight, chasing a bug that seemed to hide deeper with every fix. His team lead tapped him on the shoulder and said, 'You need to take a step back.' Reluctantly, Marcus stepped away from his desk and grabbed a coffee. When he returned ten minutes later, the solution was almost immediately obvious. Sometimes distance gives you the clarity that intensity never can.",
+    "topicTag": "problem solving",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적으로 한 발짝 뒤로 물러서다.",
+    "realUsageKo": "어떤 상황에서 잠시 거리를 두고 더 넓은 시각으로 바라보거나, 감정적·논리적으로 한 발 물러나 냉정하게 재평가할 때 사용한다.",
+    "etymologyKo": "'step back'은 물리적 후퇴를 뜻하는 표현에서 비롯되었으며, 비유적으로 상황을 멀리서 조망한다는 의미로 확장되어 일상 영어에 널리 자리 잡았다.",
+    "nuanceKo": "충동적으로 행동하지 않고 신중하게 생각하는 태도를 내포하며, 긍정적이고 성숙한 판단력을 암시하는 표현이다.",
+    "shortExampleEn": "Let's take a step back and make sure we're solving the right problem.",
+    "shortExampleKo": "한 발 물러서서 우리가 올바른 문제를 풀고 있는지 확인해 봅시다."
+  }
+}

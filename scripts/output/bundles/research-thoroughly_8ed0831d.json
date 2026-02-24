@@ -1,0 +1,30 @@
+{
+  "id": "research-thoroughly_8ed0831d",
+  "expression": "research thoroughly",
+  "selectionMeta": {
+    "selectedPhrase": "research thoroughly",
+    "selectedSenseLabelKo": "철저히 조사하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before presenting her proposal to the board, Maya made sure to research thoroughly so she could answer any question with confidence."
+  },
+  "step2": {
+    "story": "Jake needed to choose the right graduate program, so he decided to research thoroughly before applying anywhere. He spent weeks reading reviews, reaching out to alumni, and comparing curriculums. By the time he submitted his applications, he felt certain he had made the best possible choices.",
+    "topicTag": "academic planning",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the documentary crew arrived in the remote village, they knew they had to research thoroughly to tell the community's story with honesty and respect. They interviewed elders, dug through local archives, and consulted anthropologists who had worked in the region for years. Every detail mattered — the history of the land, the traditions that had survived colonization, the struggles the villagers still faced today. Weeks passed before the director felt ready to even pick up a camera. The final film was praised not just for its stunning visuals but for the depth of understanding behind every frame, a testament to what it means to research thoroughly before telling someone else's story.",
+    "topicTag": "documentary filmmaking",
+    "moodTag": "earnest"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 주제나 사안을 빠짐없이 완전하게 조사하다.",
+    "realUsageKo": "학술, 직업, 일상 등 다양한 상황에서 결정을 내리기 전에 충분한 정보를 수집하고 깊이 파고드는 행위를 표현할 때 사용한다. 피상적 검색이 아니라 다각도로 꼼꼼하게 살펴보는 뉘앙스를 담고 있다.",
+    "etymologyKo": "'research'는 프랑스어 'rechercher(다시 찾다)'에서 유래했으며, 're-(다시)' + 'chercher(찾다)'의 결합이다. 'thoroughly'는 고대 영어 'þurhlic(완전히 통과하는)'에서 발전해 '빠짐없이, 완전히'라는 의미를 갖게 되었다.",
+    "nuanceKo": "단순히 '조사하다'보다 훨씬 강한 성실함과 철저함을 강조한다. 전문적이거나 공식적인 맥락에서 자주 쓰이며, 책임감 있는 태도를 암시하는 긍정적인 어감을 지닌다.",
+    "shortExampleEn": "You should research thoroughly before making such a large financial investment.",
+    "shortExampleKo": "그렇게 큰 금융 투자를 하기 전에 철저히 조사해야 합니다."
+  }
+}

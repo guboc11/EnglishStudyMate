@@ -1,0 +1,30 @@
+{
+  "id": "have-a-plan-B_a0d80bf5",
+  "expression": "have a plan B",
+  "selectionMeta": {
+    "selectedPhrase": "have a plan B",
+    "selectedSenseLabelKo": "대안을 가지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Smart entrepreneurs always have a plan B in case their original idea doesn't work out."
+  },
+  "step2": {
+    "story": "Maya had been preparing for her big product launch for months, but two days before the event, the venue suddenly cancelled. Fortunately, she had a plan B — a smaller rooftop space she'd reserved just in case. The launch went ahead without a hitch, and her team was relieved she'd thought ahead.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "prepared"
+  },
+  "step3": {
+    "story": "Daniel had spent six months training for the city marathon, mapping out his race strategy down to every water station. A week before race day, though, he twisted his ankle during a routine jog and had to face the possibility of missing the event entirely. Thankfully, he had a plan B: he had already registered for a backup race in the next city scheduled three weeks later. While his friends panicked on his behalf, Daniel stayed calm and shifted his focus to recovery. He told them, 'I always have a plan B — things rarely go exactly as expected.' When race day finally arrived, he crossed the finish line stronger than ever, grateful he hadn't put all his eggs in one basket.",
+    "topicTag": "sports and resilience",
+    "moodTag": "calm and determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'B 계획을 가지다'라는 뜻으로, 첫 번째 계획이 실패할 경우를 대비한 두 번째 대안을 준비하고 있다는 의미이다.",
+    "realUsageKo": "실생활에서는 원래 계획이 무산될 경우를 대비해 대안책을 마련해 두었다는 것을 표현할 때 쓰인다. 비즈니스, 여행, 시험 등 다양한 상황에서 신중함과 준비성을 강조할 때 자주 사용된다.",
+    "etymologyKo": "'Plan B'는 군사 및 비즈니스 전략에서 '주요 계획(Plan A)'이 실패할 경우를 대비한 보조 계획을 뜻하는 표현에서 유래했다. 알파벳 순서로 A에 이어 B가 두 번째 선택지를 나타내게 되면서 일상 영어에 널리 퍼졌다.",
+    "nuanceKo": "이 표현은 신중함, 현실적인 사고방식, 그리고 문제 발생 시 유연하게 대처할 수 있는 능력을 내포한다. 부정적인 뉘앙스 없이 오히려 긍정적이고 준비된 태도를 칭찬할 때 주로 쓰인다.",
+    "shortExampleEn": "We should have a plan B in case the flight gets cancelled.",
+    "shortExampleKo": "비행기가 취소될 경우를 대비해 대안을 마련해 두어야 한다."
+  }
+}

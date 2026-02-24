@@ -1,0 +1,30 @@
+{
+  "id": "have-a-fresh-start_791df014",
+  "expression": "have a fresh start",
+  "selectionMeta": {
+    "selectedPhrase": "have a fresh start",
+    "selectedSenseLabelKo": "새 출발을 하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After quitting her stressful job, she moved to a new city to have a fresh start."
+  },
+  "step2": {
+    "story": "Jake had spent three years in a relationship that drained him completely. When it finally ended, he decided to have a fresh start by signing up for a pottery class and reconnecting with old friends. Slowly, he began to feel like himself again.",
+    "topicTag": "personal renewal",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Mia stared at the boxes stacked around her empty apartment and took a deep breath. She had left behind a career, a city, and a life that no longer fit who she wanted to be. Moving across the country had felt terrifying at first, but now it felt necessary — she needed to have a fresh start more than she needed comfort. On her first morning, she walked to a nearby café, ordered a coffee, and opened a blank notebook. She wrote nothing at first, just letting the silence settle around her. It was the first page of something new, and for once, that felt like enough.",
+    "topicTag": "life change",
+    "moodTag": "quietly determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "깨끗하고 새로운 시작을 갖다, 즉 과거를 뒤로하고 처음부터 다시 시작하다.",
+    "realUsageKo": "주로 관계, 직장, 생활 환경 등에서 과거의 문제나 실패를 털어내고 완전히 새롭게 시작할 때 사용한다. '다시 시작하다', '새 출발을 하다'의 뉘앙스로 쓰인다.",
+    "etymologyKo": "'Fresh'는 고대 영어 'fersc'에서 유래해 '새로운, 오염되지 않은'을 의미하며, 'start'는 '출발점'을 뜻한다. 함께 쓰이면 아무런 부담이나 과거 없이 새롭게 시작한다는 의미를 담는다.",
+    "nuanceKo": "단순히 새로 시작한다는 것을 넘어, 과거의 무게나 실수를 의도적으로 내려놓겠다는 결심이 담겨 있다. 긍정적이고 능동적인 어조로, 희망이나 결단의 감정과 함께 쓰이는 경우가 많다.",
+    "shortExampleEn": "He moved to a new town to have a fresh start after his divorce.",
+    "shortExampleKo": "그는 이혼 후 새 출발을 하기 위해 새로운 도시로 이사했다."
+  }
+}

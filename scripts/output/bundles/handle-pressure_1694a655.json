@@ -1,0 +1,30 @@
+{
+  "id": "handle-pressure_1694a655",
+  "expression": "handle pressure",
+  "selectionMeta": {
+    "selectedPhrase": "handle pressure",
+    "selectedSenseLabelKo": "압박을 견디다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She has learned to handle pressure calmly, even when deadlines are tight and expectations are high."
+  },
+  "step2": {
+    "story": "Marcus took a deep breath before walking into the boardroom. He had always struggled to handle pressure in high-stakes meetings, but months of preparation had changed that. Today, he presented with confidence and clarity.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The finals were just two days away, and Priya could feel the weight of everyone's expectations pressing down on her. As the team captain, she knew she had to handle pressure better than anyone else on the court. She spent the evening reviewing her breathing techniques and visualizing each play in her mind. When game day arrived, the crowd was deafening, but Priya felt strangely calm. She moved through each point with focus, letting the noise fade into the background. In the end, her ability to handle pressure under the brightest spotlight made all the difference.",
+    "topicTag": "sports competition",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'handle'은 '다루다', 'pressure'는 '압박'을 뜻하며, 문자 그대로는 '압박을 다루다'라는 의미입니다.",
+    "realUsageKo": "어려운 상황이나 높은 기대 속에서도 침착함을 유지하며 잘 버텨내는 능력을 표현할 때 사용됩니다. 직장, 스포츠, 학업 등 다양한 맥락에서 쓰입니다.",
+    "etymologyKo": "'handle'은 고대 영어 'handlian'에서 유래하여 '손으로 다루다'는 뜻이었으며, 이후 추상적인 상황을 '처리하다'는 의미로 확장되었습니다. 'pressure'는 라틴어 'pressura'에서 왔으며 '누르는 힘'을 의미합니다.",
+    "nuanceKo": "단순히 압박을 참는 것이 아니라 능동적으로 대처하고 통제하는 뉘앙스가 있습니다. 'cope with pressure'보다 더 자신감 있고 숙련된 느낌을 줍니다.",
+    "shortExampleEn": "Great leaders know how to handle pressure without losing their composure.",
+    "shortExampleKo": "훌륭한 리더는 침착함을 잃지 않으면서 압박을 견디는 방법을 알고 있습니다."
+  }
+}

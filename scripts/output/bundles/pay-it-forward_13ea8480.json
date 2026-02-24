@@ -1,0 +1,30 @@
+{
+  "id": "pay-it-forward_13ea8480",
+  "expression": "pay it forward",
+  "selectionMeta": {
+    "selectedPhrase": "pay it forward",
+    "selectedSenseLabelKo": "선행을 전달하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a stranger paid for her coffee, she decided to pay it forward by covering the next person's order."
+  },
+  "step2": {
+    "story": "When Marcus got a scholarship that changed his life, he vowed to pay it forward once he was established. Years later, he funded a student from his old neighborhood through college. Watching her graduate, he felt the cycle of generosity had come full circle.",
+    "topicTag": "generosity",
+    "moodTag": "heartwarming"
+  },
+  "step3": {
+    "story": "Lena had been struggling to make rent when a coworker quietly covered her share of the office birthday gift so she wouldn't feel embarrassed. She never forgot that small act of grace. A year later, when the company was thriving and Lena had been promoted, she noticed a new intern looking anxious before a client lunch. Without a word, she slipped the intern enough cash for a proper meal. 'Just pay it forward someday,' she said with a smile. The intern blinked, surprised, and nodded — already thinking of how she'd pass on the kindness.",
+    "topicTag": "workplace kindness",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 받은 친절이나 도움을 그 사람에게 돌려주는 대신, 제3자에게 전달한다는 의미입니다.",
+    "realUsageKo": "선행의 연쇄를 이어간다는 개념으로, 자신이 받은 호의나 혜택을 다른 누군가에게 베풀어 선순환을 만들 때 사용합니다.",
+    "etymologyKo": "'Pay it forward'라는 표현은 1916년 릴리 하디 워너의 소설에서 처음 등장했으며, 2000년 동명의 영화로 대중화되었습니다.",
+    "nuanceKo": "단순한 보답(pay back)이 아닌 제3자에게 선행을 이어준다는 점에서 이타적이고 따뜻한 뉘앙스를 가지며, 주로 긍정적·감동적인 맥락에서 사용됩니다.",
+    "shortExampleEn": "He helped me when I was new, so I try to pay it forward by mentoring junior employees.",
+    "shortExampleKo": "그가 내가 신입이었을 때 도와줬기 때문에, 나는 후배 직원들을 멘토링함으로써 선행을 전달하려고 합니다."
+  }
+}

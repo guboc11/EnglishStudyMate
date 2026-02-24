@@ -1,0 +1,30 @@
+{
+  "id": "tackle-a-problem_b009edcc",
+  "expression": "tackle a problem",
+  "selectionMeta": {
+    "selectedPhrase": "tackle a problem",
+    "selectedSenseLabelKo": "문제에 도전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of ignoring the mounting debt, she decided to tackle the problem head-on by creating a strict budget."
+  },
+  "step2": {
+    "story": "The team had been struggling with slow server response times for weeks. Their lead engineer finally sat down to tackle the problem, tracing the issue to an inefficient database query. Within a day, the fix was deployed and performance improved dramatically.",
+    "topicTag": "workplace problem-solving",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus stared at the whiteboard covered in tangled flowcharts and error logs. The software bug had been elusive for two weeks, frustrating the entire development team. He took a deep breath and decided it was time to truly tackle the problem rather than work around it. He started from scratch, methodically testing each module one by one. Hours later, he found the culprit — a single misplaced conditional buried deep in the authentication layer. With the fix in place, the app finally ran flawlessly, and the team celebrated what had seemed like an impossible task.",
+    "topicTag": "software debugging",
+    "moodTag": "focused and triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제를 적극적으로 붙잡아 다루다.",
+    "realUsageKo": "단순히 문제를 인식하는 것을 넘어, 직접 나서서 해결하려는 적극적인 행동을 표현할 때 사용한다. 업무, 사회, 개인 생활 등 다양한 맥락에서 폭넓게 쓰인다.",
+    "etymologyKo": "'tackle'은 원래 스포츠(특히 미식축구·럭비)에서 상대 선수를 몸으로 막는다는 의미였으며, 이후 어떤 대상에 정면으로 달려든다는 뜻으로 확장되어 일반적인 문제 해결 표현으로 자리잡았다.",
+    "nuanceKo": "단순한 해결(solve)보다 능동적이고 용기 있는 태도를 강조한다. 어렵거나 불편한 문제를 피하지 않고 정면으로 맞선다는 뉘앙스를 담고 있다.",
+    "shortExampleEn": "We need to tackle the communication problem before it affects the whole team.",
+    "shortExampleKo": "팀 전체에 영향을 미치기 전에 커뮤니케이션 문제에 적극적으로 대처해야 합니다."
+  }
+}

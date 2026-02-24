@@ -1,0 +1,30 @@
+{
+  "id": "live-in-the-moment_a1465cc4",
+  "expression": "live in the moment",
+  "selectionMeta": {
+    "selectedPhrase": "live in the moment",
+    "selectedSenseLabelKo": "현재에 충실하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Instead of worrying about tomorrow, she decided to live in the moment and enjoy the sunset."
+  },
+  "step2": {
+    "story": "After months of planning every detail of his vacation, Marco finally put away his itinerary and chose to live in the moment. He wandered through the market, tasted unfamiliar foods, and laughed with strangers—no schedule, no worries. It turned out to be the best trip of his life.",
+    "topicTag": "travel",
+    "moodTag": "carefree"
+  },
+  "step3": {
+    "story": "Emma had always been a planner, her calendar packed with goals and deadlines stretching months ahead. But one afternoon, sitting in the park with her friend Jina, she realized she couldn't remember the last time she had simply enjoyed where she was. Jina smiled and said, 'You need to learn to live in the moment.' At first Emma felt uneasy without her to-do list, but she set her phone face-down on the grass. Slowly, she noticed the warmth of the sun, the laughter of kids nearby, and the smell of fresh coffee drifting from a cart. By the time they walked home, something inside her had quietly shifted.",
+    "topicTag": "mindfulness",
+    "moodTag": "peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '현재 순간 속에서 살다'라는 뜻이다.",
+    "realUsageKo": "과거나 미래에 대한 걱정 없이 지금 이 순간에 집중하고 즐기는 태도를 표현할 때 사용한다. 일상적인 대화에서 마음챙김이나 즉흥적인 삶의 방식을 권장하는 맥락에서 자주 쓰인다.",
+    "etymologyKo": "철학적으로는 고대 그리스의 '카르페 디엠(carpe diem, 현재를 잡아라)' 정신과 맞닿아 있으며, 현대 영어에서는 특히 마음챙김(mindfulness) 문화가 확산되면서 일상 표현으로 자리 잡았다.",
+    "nuanceKo": "긍정적이고 자유로운 뉘앙스를 가지며, 지나친 계획이나 걱정에서 벗어나라는 격려의 의미로 쓰일 때가 많다. 다만 무책임하게 미래를 외면한다는 부정적 함의로 쓰이는 경우는 드물다.",
+    "shortExampleEn": "Stop overthinking and just live in the moment.",
+    "shortExampleKo": "너무 많이 생각하지 말고 그냥 현재에 충실해."
+  }
+}

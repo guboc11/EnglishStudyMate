@@ -1,0 +1,30 @@
+{
+  "id": "stay-focused_86d64f97",
+  "expression": "stay focused",
+  "selectionMeta": {
+    "selectedPhrase": "stay focused",
+    "selectedSenseLabelKo": "집중력을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how many distractions came up, she managed to stay focused and finish her report before the deadline."
+  },
+  "step2": {
+    "story": "Marcus had only two hours left to prepare for his presentation, but his phone kept buzzing with notifications. He put it face-down on the desk and told himself to stay focused. By the time his colleagues arrived, he was ready.",
+    "topicTag": "work deadline",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The exam hall was silent except for the scratch of pencils and the occasional cough. Priya closed her eyes for a moment, took a slow breath, and reminded herself why she had spent months preparing for this. It would be easy to panic looking at the difficult questions, but she knew the only way through was to stay focused, one problem at a time. She blocked out the nervous energy around her and let her training take over. An hour later, she set her pen down and felt a quiet sense of calm — she had done everything she could.",
+    "topicTag": "exam pressure",
+    "moodTag": "calm and resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "'집중된 상태를 유지하다'라는 뜻으로, 주의가 흐트러지지 않도록 한 가지 목표나 과제에 계속 집중하는 것을 말합니다.",
+    "realUsageKo": "공부, 업무, 운동 등 방해 요소가 많은 상황에서 목표에 흔들리지 않고 집중력을 유지할 때 폭넓게 사용됩니다. 자기 자신이나 타인을 독려하는 말로도 자주 쓰입니다.",
+    "etymologyKo": "'stay'는 고대 프랑스어 'ester(서 있다)'에서, 'focused'는 라틴어 'focus(화로, 중심점)'에서 유래했습니다. 두 단어가 합쳐져 '중심점에 머물다', 즉 '집중 상태를 유지하다'라는 의미를 갖게 되었습니다.",
+    "nuanceKo": "의지력과 자기 통제의 뉘앙스를 담고 있으며, 외부 방해나 내면의 유혹을 이겨내는 적극적인 노력을 강조합니다. 코치나 선생님이 격려할 때, 혹은 스스로 다짐할 때 모두 자연스럽게 어울립니다.",
+    "shortExampleEn": "It's hard to stay focused when you're working from home.",
+    "shortExampleKo": "재택근무를 할 때는 집중력을 유지하기가 어렵습니다."
+  }
+}

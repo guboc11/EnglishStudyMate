@@ -1,0 +1,30 @@
+{
+  "id": "meet-the-challenge_ca8ea4cc",
+  "expression": "meet the challenge",
+  "selectionMeta": {
+    "selectedPhrase": "meet the challenge",
+    "selectedSenseLabelKo": "도전을 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The young engineer knew the deadline was tight, but she was determined to meet the challenge head-on."
+  },
+  "step2": {
+    "story": "When the team was told they had one week to rebuild the entire system, most people felt overwhelmed. But Marcus took a deep breath and said, 'We can meet the challenge if we work together.' By Friday, they had delivered something no one thought possible.",
+    "topicTag": "teamwork under pressure",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sofia had just been promoted to lead a struggling project that three managers before her had abandoned. The board was skeptical, the team was exhausted, and the deadline was weeks away. Rather than shrinking from the situation, she called everyone into the conference room and laid out a clear plan. 'I know this looks impossible,' she said, 'but I believe we can meet the challenge together.' Her calm confidence shifted the mood in the room almost immediately. One by one, team members started volunteering ideas, and by the end of the week the project was back on track.",
+    "topicTag": "leadership and resilience",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 도전이나 어려운 상황에 맞서 그것을 감당해 내다.",
+    "realUsageKo": "주로 어렵거나 힘든 상황, 높은 기대치, 또는 중요한 과제를 성공적으로 해결하거나 극복할 때 사용한다. 수동적으로 받아들이는 것이 아니라 적극적으로 맞서 해결한다는 뉘앙스를 담고 있다.",
+    "etymologyKo": "'Meet'는 고대 영어 'mētan'에서 유래하여 '마주치다, 맞닥뜨리다'는 뜻을 지닌다. 여기서는 도전을 피하지 않고 정면으로 마주한다는 의미로 확장되었다.",
+    "nuanceKo": "단순히 문제를 해결하는 것을 넘어, 용기와 의지를 갖고 능동적으로 임한다는 긍정적인 어감이 강하다. 공식적인 자리나 동기 부여 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "She trained every day for months to meet the challenge of her first marathon.",
+    "shortExampleKo": "그녀는 첫 마라톤이라는 도전을 받아들이기 위해 매일 몇 달간 훈련했다."
+  }
+}

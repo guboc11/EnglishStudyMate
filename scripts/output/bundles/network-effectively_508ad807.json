@@ -1,0 +1,30 @@
+{
+  "id": "network-effectively_508ad807",
+  "expression": "network effectively",
+  "selectionMeta": {
+    "selectedPhrase": "network effectively",
+    "selectedSenseLabelKo": "효과적으로 네트워킹하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She learned to network effectively at industry conferences by focusing on genuine conversations rather than collecting business cards."
+  },
+  "step2": {
+    "story": "After years of struggling to advance her career, Maya decided to network effectively by attending local startup events with a clear goal in mind. Instead of pitching herself immediately, she asked thoughtful questions and listened carefully to others. Within three months, her intentional approach led to two job offers and a powerful mentor relationship.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had attended dozens of industry conferences but always left feeling like he hadn't made any real connections. His manager suggested he learn to network effectively by preparing a few genuine conversation starters before each event. At the next conference, James focused on building two or three meaningful relationships rather than exchanging contact information with everyone in the room. He followed up with a personalized message to each person within 24 hours, referencing something specific they had discussed. Over the following months, those connections opened doors to collaborative projects and insider referrals he never would have discovered on his own. Networking effectively, he realized, was less about being outgoing and more about being intentional and authentic.",
+    "topicTag": "professional networking",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "효과적인 방식으로 인맥을 구축하다.",
+    "realUsageKo": "단순히 많은 사람을 만나는 것이 아니라, 목적의식을 갖고 진정성 있는 관계를 형성하는 활동을 가리킬 때 사용된다. 주로 비즈니스나 커리어 발전 맥락에서 쓰인다.",
+    "etymologyKo": "'network'는 원래 '그물망'을 뜻하는 단어로, 20세기 후반부터 사람들 사이의 연결망을 의미하는 동사로 확장되었다. 'effectively'는 라틴어 'efficere(완수하다)'에서 유래했다.",
+    "nuanceKo": "단순한 만남을 넘어 전략적이고 진정성 있는 관계 형성을 강조하는 뉘앙스를 지닌다. 격식 있는 비즈니스 상황에서 자주 쓰이며, 양보다 질을 중시하는 태도를 내포한다.",
+    "shortExampleEn": "Learning to network effectively can open more doors than any single credential on your resume.",
+    "shortExampleKo": "효과적으로 네트워킹하는 법을 배우면 이력서의 어떤 스펙보다 더 많은 기회의 문을 열 수 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "transform-your-life_23e16ffd",
+  "expression": "transform your life",
+  "selectionMeta": {
+    "selectedPhrase": "transform your life",
+    "selectedSenseLabelKo": "삶을 변화시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Taking up daily meditation can genuinely transform your life in ways you never expected."
+  },
+  "step2": {
+    "story": "After years of feeling stuck, Maya decided to quit her unfulfilling job and start her own business. It wasn't easy, but that single decision began to transform her life completely. Within a year, she was doing work she loved and waking up excited every morning.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had spent his thirties drifting from one routine to the next, never quite feeling like himself. A chance conversation with an old friend made him realize he had been living for other people's expectations all along. He started small — waking up earlier, reading more, saying no to things that drained him. Slowly, those small shifts began to transform his life in profound ways. His relationships deepened, his confidence grew, and for the first time he felt genuinely in control of his direction. Looking back, he could hardly believe how much had changed simply by deciding to start.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 삶을 근본적으로 바꾸다.",
+    "realUsageKo": "단순한 개선이 아니라 생활 방식, 사고방식, 가치관 등이 크게 달라지는 변화를 표현할 때 사용한다. 자기계발, 동기부여, 코칭 분야에서 특히 자주 쓰인다.",
+    "etymologyKo": "'transform'은 라틴어 'transformare(형태를 바꾸다)'에서 유래했으며, 'trans-(넘어서)'와 'formare(형태를 만들다)'의 합성어다. 단순 변화가 아닌 근본적인 형태의 전환을 의미한다.",
+    "nuanceKo": "긍정적이고 극적인 변화를 강조하는 표현으로, 강한 동기부여나 결심을 드러낼 때 어울린다. 다소 과장된 뉘앙스를 띨 수 있어 광고나 자기계발 맥락에서 흔히 등장한다.",
+    "shortExampleEn": "Reading even one great book can transform your life if you apply what you learn.",
+    "shortExampleKo": "배운 것을 실천한다면, 좋은 책 한 권만으로도 삶을 변화시킬 수 있다."
+  }
+}

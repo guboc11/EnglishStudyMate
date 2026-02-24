@@ -1,0 +1,30 @@
+{
+  "id": "make-good-use-of_3a652d65",
+  "expression": "make good use of",
+  "selectionMeta": {
+    "selectedPhrase": "make good use of",
+    "selectedSenseLabelKo": "잘 활용하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to make good use of her free afternoon by learning a new programming language."
+  },
+  "step2": {
+    "story": "After the meeting ended early, Daniel made good use of the extra time by reviewing his presentation slides one more time. His thorough preparation paid off when the client approved the proposal without a single revision.",
+    "topicTag": "productivity",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "When the company offered employees a week of paid learning time, most people weren't sure what to do with it. Maya, however, knew exactly how to make good use of the opportunity. She enrolled in an online data analysis course she had been eyeing for months and worked through every lesson. By Friday afternoon, she had completed the certificate and already applied one of the techniques to a real project. Her manager noticed the improvement in her next report and asked how she had picked it up so quickly.",
+    "topicTag": "self-improvement",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 충분히, 효과적으로 활용하다.",
+    "realUsageKo": "주어진 시간, 기회, 자원, 기술 등을 낭비하지 않고 최대한 효율적으로 활용할 때 씁니다. 긍정적이고 능동적인 뉘앙스를 가집니다.",
+    "etymologyKo": "'make use of'는 '~을 사용하다'라는 뜻으로, 여기에 'good'을 더해 '잘, 제대로'라는 강조 의미를 추가한 표현입니다. 영어에서 'good'은 종종 quality(질)를 강조하는 수식어로 쓰입니다.",
+    "nuanceKo": "단순히 '사용하다(use)'보다 훨씬 적극적이고 효율적인 활용을 강조합니다. 기회나 자원을 허투루 쓰지 않겠다는 의지나 칭찬의 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "Make good use of your summer break to develop new skills.",
+    "shortExampleKo": "여름 방학을 활용해서 새로운 기술을 개발해 보세요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "adapt-your-style_6025dd7d",
+  "expression": "adapt your style",
+  "selectionMeta": {
+    "selectedPhrase": "adapt your style",
+    "selectedSenseLabelKo": "스타일을 조정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "To connect with a wider audience, you need to adapt your style depending on who you're speaking to."
+  },
+  "step2": {
+    "story": "Maya was a great writer, but her technical reports always felt too casual for the board. Her mentor told her to adapt your style when the audience changes. After revising her tone, the executives finally took her proposals seriously.",
+    "topicTag": "communication",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had spent years writing comedy sketches, so when a documentary studio hired him, he was thrilled but nervous. The director sat down with him on the first day and said plainly, 'You'll need to adapt your style here — this is serious storytelling.' James resisted at first, convinced his humor was an asset. But after watching his drafts fall flat in test screenings, he began to listen. He stripped away the jokes and focused on emotional honesty instead. By the final cut, the film earned critical praise, and James realized that knowing when to adapt your style was its own kind of mastery.",
+    "topicTag": "creative growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 스타일이나 방식을 특정 상황이나 대상에 맞게 바꾸다.",
+    "realUsageKo": "주로 의사소통, 글쓰기, 발표, 업무 방식 등에서 상대방이나 맥락에 맞게 접근 방식을 조정할 때 사용한다.",
+    "etymologyKo": "'adapt'는 라틴어 'adaptare'(~에 맞추다)에서 유래했으며, 'style'은 고대 프랑스어 'stile'(방식, 표현법)에서 왔다.",
+    "nuanceKo": "단순히 변화를 뜻하는 것이 아니라, 상황을 읽고 의도적으로 자신의 방식을 조율하는 유연함과 전문성을 내포한다.",
+    "shortExampleEn": "Good teachers adapt their style to match each student's learning pace.",
+    "shortExampleKo": "좋은 선생님은 각 학생의 학습 속도에 맞게 스타일을 조정한다."
+  }
+}

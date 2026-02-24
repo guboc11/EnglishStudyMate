@@ -1,0 +1,30 @@
+{
+  "id": "listen-actively_d367aa3f",
+  "expression": "listen actively",
+  "selectionMeta": {
+    "selectedPhrase": "listen actively",
+    "selectedSenseLabelKo": "적극적으로 경청하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the meeting, she made sure to listen actively to every team member's concern before offering her opinion."
+  },
+  "step2": {
+    "story": "Marcus sat across from his colleague, nodding and maintaining eye contact as she explained her frustration. He listened actively, resisting the urge to interrupt or jump to solutions. By the end, she felt truly heard for the first time in months.",
+    "topicTag": "workplace communication",
+    "moodTag": "empathetic"
+  },
+  "step3": {
+    "story": "The counseling session had barely begun when Dr. Yoon put down her pen and leaned forward. She had learned long ago that the most powerful tool she had was not advice, but her ability to listen actively — to track the pauses, the hesitations, the words chosen and discarded. Her patient spoke haltingly at first, but as the silence between them grew comfortable, the words began to flow. Dr. Yoon reflected back what she heard, asked open questions, and never rushed to fill the gaps. By the end of the hour, the patient looked lighter, as though simply being heard had lifted something from his shoulders.",
+    "topicTag": "emotional support",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '적극적으로 듣다'는 뜻으로, 단순히 소리를 듣는 것이 아니라 상대방의 말에 주의를 기울이며 능동적으로 이해하려는 행위를 가리킨다.",
+    "realUsageKo": "직장, 상담, 일상 대화 등에서 상대방의 말을 끊지 않고 집중하며 반응하는 커뮤니케이션 기술을 묘사할 때 사용한다. 눈 맞춤, 고개 끄덕임, 되묻기 등의 행동이 포함된다.",
+    "etymologyKo": "'listen'은 고대 영어 'hlysnan'(듣다)에서 유래했으며, 'actively'는 라틴어 'activus'(행동하는)에서 비롯되어 '능동적으로'라는 의미를 더한다.",
+    "nuanceKo": "단순히 침묵하며 기다리는 것과 달리, 적극적이고 의도적인 경청 행위임을 강조한다. 공감과 존중의 뉘앙스가 강하며, 전문적·성숙한 의사소통 능력을 암시한다.",
+    "shortExampleEn": "Good managers listen actively to their team's feedback instead of dismissing concerns.",
+    "shortExampleKo": "훌륭한 관리자는 팀원의 피드백을 무시하는 대신 적극적으로 경청한다."
+  }
+}

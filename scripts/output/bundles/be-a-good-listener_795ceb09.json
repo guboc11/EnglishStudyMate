@@ -1,0 +1,30 @@
+{
+  "id": "be-a-good-listener_795ceb09",
+  "expression": "be a good listener",
+  "selectionMeta": {
+    "selectedPhrase": "be a good listener",
+    "selectedSenseLabelKo": "경청을 잘 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My therapist is incredibly easy to talk to because she knows how to be a good listener."
+  },
+  "step2": {
+    "story": "After his promotion to team lead, Daniel realized that managing people required more than just technical skills. He made a conscious effort to be a good listener whenever his teammates came to him with concerns. Over time, his team became more open and productive because they felt genuinely heard.",
+    "topicTag": "workplace leadership",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Sofia had always been the friend people called when things went wrong. She never rushed to offer solutions or interrupt mid-sentence — she simply knew how to be a good listener. One rainy afternoon, her childhood friend Marcus showed up at her door, visibly exhausted and carrying the weight of a difficult breakup. Sofia made two cups of tea and sat across from him in silence until he was ready to speak. She asked only gentle questions, letting him feel the space he needed. By the time he left, Marcus hadn't received any grand advice, but he felt lighter — and that was enough.",
+    "topicTag": "friendship and support",
+    "moodTag": "comforting"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '좋은 청취자가 되다', 즉 상대방의 말을 잘 듣는 사람이 된다는 뜻이다.",
+    "realUsageKo": "실제로는 단순히 귀로 듣는 것을 넘어, 상대방의 말에 집중하고 공감하며 방해하지 않고 경청하는 능력을 갖추었다는 것을 표현할 때 사용한다.",
+    "etymologyKo": "'listener'는 고대 영어 'hlysnan(듣다)'에서 유래했으며, 'good'과 결합해 단순한 청취 능력이 아닌 적극적이고 공감적인 경청 태도를 나타내는 표현으로 자리잡았다.",
+    "nuanceKo": "단순히 조용히 있는 것이 아니라 진심으로 상대에게 집중하고 공감한다는 긍정적인 뉘앙스를 담고 있으며, 대인 관계나 리더십 맥락에서 칭찬으로 자주 쓰인다.",
+    "shortExampleEn": "She's always been a good listener, which is why everyone trusts her.",
+    "shortExampleKo": "그녀는 항상 경청을 잘 해왔기 때문에 모두가 그녀를 신뢰한다."
+  }
+}

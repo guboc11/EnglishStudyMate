@@ -1,0 +1,30 @@
+{
+  "id": "balance-work-and-life_5d50f8bc",
+  "expression": "balance work and life",
+  "selectionMeta": {
+    "selectedPhrase": "balance work and life",
+    "selectedSenseLabelKo": "일과 생활의 균형을 맞추다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to set firm boundaries with her employer so she could finally balance work and life without feeling constantly drained."
+  },
+  "step2": {
+    "story": "After months of working late every night, Marcus realized he had forgotten what it felt like to relax. He sat down with his manager and explained that he needed to better balance work and life. His manager agreed, and together they restructured his schedule to protect his evenings.",
+    "topicTag": "work-life balance",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Yuna had always been the first to arrive at the office and the last to leave. She took pride in her dedication, but her weekends had slowly disappeared and her friendships had started to fade. One evening, exhausted after a twelve-hour day, she called her college friend who simply asked, 'When did you last do something just for yourself?' The question lingered. The next morning, Yuna blocked off her evenings on her calendar and told her team she was making a real effort to balance work and life. It wasn't easy at first, but within a few weeks she felt sharper at work and happier at home.",
+    "topicTag": "burnout recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "일(직업적 의무)과 생활(개인적 시간 및 휴식) 사이의 균형을 유지하다.",
+    "realUsageKo": "직장에서의 책임과 개인 생활, 여가, 가족 시간 사이에서 어느 한쪽으로 치우치지 않고 조화를 이루려 한다는 의미로 사용된다. 주로 번아웃이나 과로를 경험한 사람이 건강한 생활 방식을 추구할 때 쓰인다.",
+    "etymologyKo": "'Balance'는 라틴어 'bilanx'(두 개의 접시가 달린 저울)에서 유래했으며, 두 가지를 동등하게 유지한다는 개념을 담고 있다. 'Work-life balance'라는 복합 표현은 1970~80년대 서구권에서 노동 환경 논의가 확대되면서 널리 쓰이기 시작했다.",
+    "nuanceKo": "단순히 시간을 반반 나눈다는 뜻이 아니라, 각자의 우선순위에 맞게 두 영역 모두에서 만족감을 찾는다는 뉘앙스가 강하다. 자기관리와 지속 가능한 삶의 방식에 대한 성숙한 태도를 암시한다.",
+    "shortExampleEn": "It's hard to balance work and life when you're always reachable by phone.",
+    "shortExampleKo": "항상 전화로 연락이 가능한 상태에서는 일과 생활의 균형을 맞추기가 어렵다."
+  }
+}

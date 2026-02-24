@@ -1,0 +1,30 @@
+{
+  "id": "fix-a-bug_e2cd19a4",
+  "expression": "fix a bug",
+  "selectionMeta": {
+    "selectedPhrase": "fix a bug",
+    "selectedSenseLabelKo": "버그를 수정하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The developer stayed late to fix a bug that was causing the app to crash on startup."
+  },
+  "step2": {
+    "story": "Mia noticed the checkout button wasn't working right before a big sale. She worked through her lunch break to fix a bug in the payment handler. By the time customers flooded the site, everything ran smoothly.",
+    "topicTag": "debugging",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "It was already past midnight when James spotted an error log that had been silently piling up for days. A single misplaced condition in the authentication service was locking out hundreds of users. He pulled up the code, traced the logic step by step, and finally managed to fix a bug that had slipped through three rounds of review. He pushed the patch, watched the error rate drop to zero, and let out a long breath. Sometimes the smallest typo causes the biggest mess, he thought, closing his laptop.",
+    "topicTag": "late-night debugging",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "소프트웨어나 코드에서 오류(버그)를 찾아 고치다.",
+    "realUsageKo": "프로그램이 예상대로 동작하지 않을 때 원인을 파악하고 수정하는 행위를 가리키며, 개발자 일상 대화에서 매우 자주 쓰인다.",
+    "etymologyKo": "'bug'는 1940년대 초기 컴퓨터 시대에 실제 나방이 기계 안에 끼어 오작동을 일으킨 사건에서 유래했으며, 이후 소프트웨어 오류를 뜻하는 말로 굳어졌다.",
+    "nuanceKo": "격식체·비격식체 모두 자연스럽게 쓰이며, 문제 해결에 집중하는 실용적인 어감을 담고 있다. 'resolve a bug'보다 훨씬 구어적이고 현장감 있는 표현이다.",
+    "shortExampleEn": "Can you fix a bug in the login flow before we deploy?",
+    "shortExampleKo": "배포 전에 로그인 흐름의 버그를 수정해줄 수 있어요?"
+  }
+}

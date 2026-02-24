@@ -1,0 +1,30 @@
+{
+  "id": "have-a-rough-day_32e73085",
+  "expression": "have a rough day",
+  "selectionMeta": {
+    "selectedPhrase": "have a rough day",
+    "selectedSenseLabelKo": "힘든 하루를 보내다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She walked through the door and collapsed on the couch — it was clear she'd had a rough day."
+  },
+  "step2": {
+    "story": "Marcus had a rough day at the office: two meetings ran over, his laptop crashed, and he missed lunch. By evening, all he wanted was a hot shower and some quiet. He promised himself tomorrow would be better.",
+    "topicTag": "work stress",
+    "moodTag": "exhausted"
+  },
+  "step3": {
+    "story": "From the moment her alarm failed to go off, Lily knew she was going to have a rough day. She rushed to work only to find her presentation files had been corrupted overnight. Her manager was understanding, but the client call still went badly. By noon she had spilled coffee on her keyboard and missed a deadline. Sitting on a park bench during her lunch break, she took a slow breath and reminded herself that one bad day didn't define her. She headed back to the office with a small but stubborn determination to salvage the afternoon.",
+    "topicTag": "daily struggles",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "거친(rough) 하루를 보내다 — 즉, 예상치 못한 어려움이나 불쾌한 일들이 연속되는 하루를 경험하다.",
+    "realUsageKo": "직장·학교·일상에서 일이 잘 풀리지 않거나 감정적으로 지치는 하루를 겪었을 때 자연스럽게 사용하는 표현입니다. '힘들었어', '오늘 진짜 별로였어'와 같은 뉘앙스로 쓰입니다.",
+    "etymologyKo": "'Rough'는 고대 영어 'ruh'에서 유래해 '거칠다, 매끄럽지 않다'는 의미를 가집니다. 물리적 거칠음에서 비유적으로 '힘들고 순탄치 않은'이라는 의미로 확장되어 일상적인 고충을 표현하는 데 쓰이게 되었습니다.",
+    "nuanceKo": "공식적이지 않은 구어체 표현으로, 큰 재난이 아닌 일상적인 수준의 어려움이나 피로감을 가볍게 토로할 때 적합합니다. 지나치게 심각하게 들리지 않아 동료나 친구에게 공감을 구할 때 자주 사용됩니다.",
+    "shortExampleEn": "You look tired — did you have a rough day?",
+    "shortExampleKo": "피곤해 보이네 — 오늘 힘들었어?"
+  }
+}

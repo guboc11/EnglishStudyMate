@@ -1,0 +1,30 @@
+{
+  "id": "not-miss-a-beat_b3ab4459",
+  "expression": "not miss a beat",
+  "selectionMeta": {
+    "selectedPhrase": "not miss a beat",
+    "selectedSenseLabelKo": "한 치도 놓치지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the interviewer threw a curveball question, she didn't miss a beat and answered with confidence."
+  },
+  "step2": {
+    "story": "The server crashed right in the middle of the live demo, but our lead engineer didn't miss a beat. She calmly switched to a backup environment and kept the presentation running without a single pause. The clients never even noticed anything had gone wrong.",
+    "topicTag": "work pressure",
+    "moodTag": "composed"
+  },
+  "step3": {
+    "story": "The auditorium fell silent when the microphone cut out halfway through Marcus's keynote speech. Every eye in the room turned to him, waiting to see how he would handle it. Marcus didn't miss a beat — he raised his voice, stepped forward to the edge of the stage, and continued as if the silence itself was part of the performance. His calm authority filled the room better than any amplifier could. By the time the mic was fixed a minute later, the audience was already leaning in, completely captivated. Afterward, people said it was the most memorable talk they had ever attended.",
+    "topicTag": "public speaking",
+    "moodTag": "commanding"
+  },
+  "meaning": {
+    "literalMeaningKo": "박자를 하나도 놓치지 않다 — 음악에서 연주자가 리듬을 한 박도 빠뜨리지 않고 연주한다는 뜻에서 유래했다.",
+    "realUsageKo": "예상치 못한 상황이나 질문에도 전혀 당황하지 않고 즉각적으로 매끄럽게 반응하거나 행동을 이어갈 때 사용한다. 침착함과 순발력을 동시에 강조하는 표현이다.",
+    "etymologyKo": "음악 용어에서 비롯된 표현으로, 박자(beat)를 한 번도 놓치지 않을 만큼 완벽하게 연주한다는 개념이 전이되어 '어떤 상황에도 흔들리지 않는 즉각적인 대응'을 의미하게 되었다.",
+    "nuanceKo": "단순히 빠르다는 뜻보다는 '전혀 흔들리지 않고 자연스럽게 이어간다'는 뉘앙스가 강하다. 위기 상황에서의 침착함이나 뛰어난 순발력을 칭찬할 때 주로 쓰이며, 긍정적인 어감을 가진다.",
+    "shortExampleEn": "Even when the power went out during her presentation, she didn't miss a beat.",
+    "shortExampleKo": "발표 도중 정전이 났을 때도 그녀는 한 치도 흔들리지 않고 발표를 이어갔다."
+  }
+}

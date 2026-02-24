@@ -1,0 +1,30 @@
+{
+  "id": "be-adaptable_c4c2f9cf",
+  "expression": "be adaptable",
+  "selectionMeta": {
+    "selectedPhrase": "be adaptable",
+    "selectedSenseLabelKo": "적응력이 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "To thrive in today's fast-changing world, you need to be adaptable and open to new ways of working."
+  },
+  "step2": {
+    "story": "When the company switched to a fully remote setup overnight, Mia didn't panic. She had always tried to be adaptable, quickly learning new tools and adjusting her routine. Within a week, she was more productive than ever.",
+    "topicTag": "remote work",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "James had spent fifteen years in the print industry when digital media suddenly made his department obsolete. Rather than resist the change, he chose to be adaptable and enrolled in an online course on content strategy. His colleagues were skeptical, but James embraced every new challenge with curiosity. Six months later, he was leading the company's digital transition team. His ability to be adaptable had turned a potential career ending moment into his greatest professional leap.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "다양한 상황이나 변화에 유연하게 맞출 수 있는 상태이다.",
+    "realUsageKo": "새로운 환경, 업무 방식, 또는 예상치 못한 상황에 빠르게 적응하는 능력을 묘사할 때 쓰인다. 직장이나 일상생활에서 변화에 저항하지 않고 유연하게 대처하는 태도를 강조한다.",
+    "etymologyKo": "'adapt'는 라틴어 'adaptare(적합하게 하다)'에서 유래했으며, 접미사 '-able'이 결합되어 '적응할 수 있는'이라는 형용사가 되었다.",
+    "nuanceKo": "단순히 변화를 수용하는 것을 넘어, 능동적으로 새 상황에 맞게 자신을 조정하는 긍정적인 태도를 함축한다. 직장·팀워크·자기계발 맥락에서 칭찬의 뉘앙스로 자주 사용된다.",
+    "shortExampleEn": "The best employees are those who can be adaptable when priorities shift.",
+    "shortExampleKo": "최고의 직원은 우선순위가 바뀔 때 적응력 있게 대처할 수 있는 사람이다."
+  }
+}

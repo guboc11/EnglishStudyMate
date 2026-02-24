@@ -1,0 +1,30 @@
+{
+  "id": "develop-good-habits_66d89477",
+  "expression": "develop good habits",
+  "selectionMeta": {
+    "selectedPhrase": "develop good habits",
+    "selectedSenseLabelKo": "좋은 습관을 기르다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to develop good habits after starting her new job, including waking up early and planning her day the night before."
+  },
+  "step2": {
+    "story": "Mark wanted to turn his life around after a stressful year. He started to develop good habits one at a time — first a morning run, then a healthier diet. Within a month, he felt more energetic and in control.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After years of staying up late and skipping meals, Jenna finally decided to take her health seriously. She read books on routine building and learned how important it was to develop good habits gradually rather than all at once. She started small: a glass of water each morning, a ten-minute walk after dinner, and a consistent bedtime. Her coworkers noticed she seemed calmer and more focused at work. She still slipped up sometimes, but she reminded herself that progress mattered more than perfection. Slowly, those small choices became the foundation of a healthier, more balanced life.",
+    "topicTag": "healthy lifestyle",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "좋은 습관을 점진적으로 형성하거나 기르다.",
+    "realUsageKo": "일상에서 긍정적인 루틴이나 행동 패턴을 꾸준히 만들어 나가는 것을 표현할 때 사용한다. 건강, 학습, 생산성 등 다양한 영역에서 쓰인다.",
+    "etymologyKo": "'develop'은 라틴어 'dis-'(반대)와 'voloper'(감싸다)에서 유래해 '펼치다, 발전시키다'는 의미를 지닌다. 'habit'은 라틴어 'habitus'(상태, 태도)에서 왔다.",
+    "nuanceKo": "노력과 시간이 필요한 점진적 과정을 강조하며, 단순히 습관을 '갖는다'보다 적극적으로 '길러낸다'는 뉘앙스를 담고 있다.",
+    "shortExampleEn": "It's never too late to develop good habits.",
+    "shortExampleKo": "좋은 습관을 기르기에 너무 늦은 때란 없다."
+  }
+}

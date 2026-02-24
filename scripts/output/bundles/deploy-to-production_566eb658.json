@@ -1,0 +1,30 @@
+{
+  "id": "deploy-to-production_566eb658",
+  "expression": "deploy to production",
+  "selectionMeta": {
+    "selectedPhrase": "deploy to production",
+    "selectedSenseLabelKo": "프로덕션에 배포하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "After weeks of testing, the team finally got approval to deploy to production on Friday afternoon."
+  },
+  "step2": {
+    "story": "Maya stared at her screen, fingers hovering over the keyboard. Her team had been preparing for months, and tonight was the night they would deploy to production. She took a deep breath and pressed Enter, watching the deployment pipeline light up green one stage at a time.",
+    "topicTag": "software release",
+    "moodTag": "nervous anticipation"
+  },
+  "step3": {
+    "story": "The Slack channel had been quiet all morning, which was never a good sign before a major release. Daniel had triple-checked the rollback plan, reviewed the feature flags, and run the smoke tests twice. At exactly 2 PM, the engineering manager gave the go-ahead, and Daniel's team began to deploy to production. The deployment script churned through each service, and the monitoring dashboard flickered with incoming metrics. For a tense five minutes, every engineer leaned forward, watching error rates and latency graphs. Then the alerts stayed silent, the graphs held steady, and someone typed 'We're live' into the channel — and the entire team exhaled.",
+    "topicTag": "software deployment",
+    "moodTag": "tense relief"
+  },
+  "meaning": {
+    "literalMeaningKo": "완성된 소프트웨어나 코드를 실제 사용자가 접근하는 운영 서버 환경에 올리다.",
+    "realUsageKo": "개발 또는 스테이징 환경에서 충분히 검증된 코드를 실제 서비스 환경에 반영하는 행위를 가리킨다. '배포한다'는 표현은 단순히 파일을 복사하는 것을 넘어 CI/CD 파이프라인 실행, 서비스 재시작, 헬스 체크 등 전체 릴리스 프로세스를 포함할 수 있다.",
+    "etymologyKo": "deploy는 프랑스어 déployer(펼치다, 배치하다)에서 유래하며 군사 용어로 병력을 전선에 배치한다는 의미였다. IT 분야에서는 소프트웨어를 실제 환경에 '배치'한다는 맥락으로 차용되었고, production은 '실제 서비스가 운영되는 환경'을 뜻한다.",
+    "nuanceKo": "단순한 업로드보다 훨씬 무거운 뉘앙스를 가지며, 책임감과 긴장감을 동반한 공식적 절차를 암시한다. 팀 내에서는 '배포 나간다' 또는 '릴리스한다'와 혼용되며, 특히 금요일 배포를 꺼리는 개발 문화의 맥락에서 자주 언급된다.",
+    "shortExampleEn": "We need to deploy to production before the marketing campaign goes live tomorrow.",
+    "shortExampleKo": "내일 마케팅 캠페인이 시작되기 전에 프로덕션에 배포해야 해요."
+  }
+}

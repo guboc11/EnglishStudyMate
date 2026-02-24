@@ -1,0 +1,30 @@
+{
+  "id": "develop-expertise_28f2ab38",
+  "expression": "develop expertise",
+  "selectionMeta": {
+    "selectedPhrase": "develop expertise",
+    "selectedSenseLabelKo": "전문성을 키우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to develop expertise in data analysis to advance her career in the tech industry."
+  },
+  "step2": {
+    "story": "After years of working in marketing, James wanted to develop expertise in user experience design. He enrolled in online courses and practiced daily, building a strong portfolio over time.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Priya joined the research lab as a junior scientist, she knew she had much to learn. She spent every spare moment reading papers and running experiments, determined to develop expertise in genomics. Her mentor noticed her dedication and began assigning her more challenging projects. Within two years, she was co-authoring publications and presenting at conferences. The effort she had put in to develop expertise paid off beyond what she had imagined.",
+    "topicTag": "academic career",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "특정 분야에서 깊은 지식이나 기술을 쌓아나가다.",
+    "realUsageKo": "직업적·학문적 맥락에서 의도적인 노력과 시간을 통해 특정 분야의 전문성을 높여 가는 과정을 설명할 때 사용한다.",
+    "etymologyKo": "'develop'은 라틴어 'dis-'(풀다)와 고대 프랑스어 'voloper'(감다)에서 유래해 '펼치다·발전시키다'는 의미를 가지며, 'expertise'는 프랑스어 'expertise'에서 온 말로 '전문적 경험이나 기술'을 뜻한다.",
+    "nuanceKo": "단순히 지식을 습득하는 것을 넘어, 장기간의 노력과 경험을 통해 깊이 있는 전문성을 형성하는 과정을 강조하는 표현으로, 목표 지향적이고 적극적인 뉘앙스를 담고 있다.",
+    "shortExampleEn": "He took on every challenging project he could find to develop expertise in software architecture.",
+    "shortExampleKo": "그는 소프트웨어 아키텍처 분야에서 전문성을 키우기 위해 찾을 수 있는 모든 어려운 프로젝트를 맡았다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "land-a-job_d8dbc6db",
+  "expression": "land a job",
+  "selectionMeta": {
+    "selectedPhrase": "land a job",
+    "selectedSenseLabelKo": "직업을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of interviews and rejections, she finally landed a job at the company she had always dreamed of working for."
+  },
+  "step2": {
+    "story": "Marcus had been applying to software companies for three months without success. Then one afternoon, his phone rang with an offer—he had landed a job at a promising startup downtown. He hung up and sat quietly for a moment, letting the relief wash over him.",
+    "topicTag": "job search",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "After graduating, Priya moved back home and spent her days sending out resumes while her confidence slowly eroded. Every rejection email felt like a door slamming shut. Then a recruiter reached out about a marketing role she had almost forgotten applying for. The interview went surprisingly well, and two days later she got the call—she had landed a job. She told her parents over dinner that night, and for the first time in months, the table felt warm again.",
+    "topicTag": "career",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직업을 '착지시키다', 즉 직업을 손에 넣다는 뜻.",
+    "realUsageKo": "취업에 성공했을 때 흔히 사용하는 표현으로, 단순히 합격했다는 사실 이상으로 노력 끝에 원하는 것을 쟁취했다는 뉘앙스를 담는다.",
+    "etymologyKo": "'land'는 원래 배나 비행기가 목적지에 도달해 안착한다는 의미에서 왔으며, 이것이 확장되어 목표를 성공적으로 달성한다는 뜻으로 쓰이게 되었다.",
+    "nuanceKo": "단순한 'get a job'보다 성취감과 노력의 과정이 함께 담겨 있으며, 경쟁이 있었던 상황에서 특히 잘 어울린다.",
+    "shortExampleEn": "He landed a job at a top law firm right out of school.",
+    "shortExampleKo": "그는 학교를 졸업하자마자 유명 로펌에 취직했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "follow-your-instincts_63ffa2c1",
+  "expression": "follow your instincts",
+  "selectionMeta": {
+    "selectedPhrase": "follow your instincts",
+    "selectedSenseLabelKo": "본능을 따르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When you're unsure which path to take, sometimes the best thing you can do is follow your instincts."
+  },
+  "step2": {
+    "story": "Maya stood at the crossroads of her career, torn between a safe corporate job and a risky startup offer. Her mentor told her to follow your instincts, reminding her that logic alone rarely leads to a fulfilling life. She took the leap, and within a year, she had built something she was truly proud of.",
+    "topicTag": "career decision",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Detective Hara had spent three days reviewing the same case files, and every piece of evidence pointed to the obvious suspect. But something felt off — a quiet unease she couldn't shake. Her colleagues urged her to close the case, yet she chose to follow your instincts instead. She dug deeper, pulled a overlooked phone record, and found an alibi that completely changed the picture. The real culprit had been hiding in plain sight, counting on everyone to stop asking questions. Trusting that inner voice had saved an innocent man.",
+    "topicTag": "investigation",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 본능이 이끄는 대로 행동하다.",
+    "realUsageKo": "논리적 분석보다 직관이나 내면의 감각을 믿고 결정을 내릴 때 사용한다. 특히 선택의 기로에서 확신이 없을 때 스스로를 신뢰하라는 조언으로 자주 쓰인다.",
+    "etymologyKo": "'instinct'은 라틴어 'instinguere(자극하다, 충동을 주다)'에서 유래했으며, 학습 없이 타고나는 행동 충동을 뜻한다. 'follow'와 결합해 '그 충동을 따르다'는 의미로 굳어졌다.",
+    "nuanceKo": "이성보다 감각을 우선시하는 뉘앙스가 있어, 대담하거나 직관적인 결정을 긍정적으로 표현할 때 사용된다. 과학적·합리적 맥락보다는 개인적 선택, 창의, 생존 본능을 다루는 상황에 어울린다.",
+    "shortExampleEn": "I didn't have time to overthink it, so I just followed my instincts.",
+    "shortExampleKo": "깊이 생각할 시간이 없어서 그냥 본능을 따랐어."
+  }
+}

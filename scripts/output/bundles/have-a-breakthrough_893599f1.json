@@ -1,0 +1,30 @@
+{
+  "id": "have-a-breakthrough_893599f1",
+  "expression": "have a breakthrough",
+  "selectionMeta": {
+    "selectedPhrase": "have a breakthrough",
+    "selectedSenseLabelKo": "돌파구를 찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of failed experiments, the research team finally had a breakthrough that changed everything."
+  },
+  "step2": {
+    "story": "Sarah had been stuck on the same coding problem for three days. Then, in the middle of the night, she had a breakthrough and suddenly saw exactly how to solve it. She typed furiously, and by dawn the feature was working perfectly.",
+    "topicTag": "problem solving",
+    "moodTag": "elated"
+  },
+  "step3": {
+    "story": "For two years, Dr. Kim's lab had been chasing a cure for a rare genetic disorder with little success. The funding was running out, and the team was exhausted and demoralized. Then one Tuesday morning, a junior researcher noticed an anomaly in the data that everyone else had overlooked. They had a breakthrough — the enzyme they had been testing worked, but only at a specific temperature they hadn't tried before. The team erupted in cheers, and Dr. Kim quietly sat down, overwhelmed with relief. All those sleepless nights had finally led them somewhere.",
+    "topicTag": "scientific research",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "장벽이나 장애물을 뚫고 나아가다, 즉 '돌파구를 찾다'라는 뜻이다.",
+    "realUsageKo": "오랫동안 막혀 있던 문제가 갑자기 해결되거나, 새로운 발견·성과가 이루어지는 순간을 표현할 때 사용한다. 과학, 비즈니스, 개인적 성장 등 다양한 맥락에서 폭넓게 쓰인다.",
+    "etymologyKo": "'breakthrough'는 'break(부수다)'와 'through(통과하여)'가 합쳐진 단어로, 19세기 군사 용어에서 유래했다. 방어선을 뚫고 나간다는 의미에서 비롯되어, 현재는 어떤 분야에서든 중요한 성취나 돌파를 뜻하게 되었다.",
+    "nuanceKo": "단순한 진전(progress)이 아닌, 오랜 정체 끝에 찾아온 결정적인 전환점을 강조한다. 기쁨과 안도감이 함께 담긴 표현으로, 극적인 뉘앙스가 있다.",
+    "shortExampleEn": "The negotiations had stalled for weeks, but yesterday we finally had a breakthrough.",
+    "shortExampleKo": "협상이 몇 주째 교착 상태였는데, 어제 드디어 돌파구를 찾았다."
+  }
+}

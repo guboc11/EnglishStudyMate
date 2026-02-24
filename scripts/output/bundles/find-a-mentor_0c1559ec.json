@@ -1,0 +1,30 @@
+{
+  "id": "find-a-mentor_0c1559ec",
+  "expression": "find a mentor",
+  "selectionMeta": {
+    "selectedPhrase": "find a mentor",
+    "selectedSenseLabelKo": "멘토를 찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to find a mentor who could guide her through the challenges of starting her own business."
+  },
+  "step2": {
+    "story": "After months of struggling alone, Jake finally decided to find a mentor in his field. He reached out to a senior engineer at a conference, and she agreed to meet him for coffee every week. With her guidance, Jake's career began to take off in ways he had never imagined.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maya had been spinning her wheels for over a year, unable to break into the design industry despite her talent. A friend suggested she find a mentor who had already walked the path she wanted to take. She was nervous at first, unsure if any experienced designer would spare the time for someone just starting out. But when she finally worked up the courage to send a message to a designer she admired, the response came back warm and encouraging. Over the next six months, her mentor helped her rebuild her portfolio, sharpen her thinking, and land her first real client. Looking back, Maya realized that finding a mentor had been the single most important decision she had ever made for her career.",
+    "topicTag": "career growth",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신을 이끌어 줄 경험 많은 조언자를 찾다.",
+    "realUsageKo": "커리어, 학업, 창업 등 특정 분야에서 경험과 지식을 나눠줄 선배나 전문가를 적극적으로 구하는 것을 의미한다. 단순한 조언 이상의 지속적인 관계를 내포하는 경우가 많다.",
+    "etymologyKo": "'mentor'는 그리스 신화의 인물 Mentor에서 유래했으며, 오디세우스가 여행을 떠날 때 아들 텔레마코스를 돌봐 달라고 부탁한 현명한 조언자의 이름이다. 이후 '스승' 또는 '안내자'를 뜻하는 보통명사로 굳어졌다.",
+    "nuanceKo": "단기 도움이 아니라 지속적이고 신뢰 기반의 안내 관계를 구한다는 뉘앙스가 있다. 자기 주도적이고 성장 지향적인 태도를 함께 암시한다."  ,
+    "shortExampleEn": "It took him a while, but he managed to find a mentor who truly understood his goals.",
+    "shortExampleKo": "시간이 좀 걸렸지만, 그는 자신의 목표를 진정으로 이해해 주는 멘토를 찾을 수 있었다."
+  }
+}

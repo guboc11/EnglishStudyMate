@@ -1,0 +1,30 @@
+{
+  "id": "work-with-purpose_05697556",
+  "expression": "work with purpose",
+  "selectionMeta": {
+    "selectedPhrase": "work with purpose",
+    "selectedSenseLabelKo": "목적을 가지고 일하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to work with purpose after realizing that every task she completed brought her closer to her long-term goal."
+  },
+  "step2": {
+    "story": "After years of drifting from job to job, Marcus finally found a cause he believed in. He began to work with purpose, channeling his energy into building a community center for at-risk youth. Every late night felt meaningful, and for the first time, he looked forward to Mondays.",
+    "topicTag": "career fulfillment",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had spent her twenties chasing promotions and pay raises, but she always felt hollow at the end of the day. One evening, while volunteering at a local food bank, she noticed how even a small act of service could light up someone's face. That night she wrote in her journal: 'I need to work with purpose, not just for a paycheck.' She restructured her entire schedule, dedicating mornings to a nonprofit project that matched her values. Colleagues noticed the change — she was sharper, more energetic, and surprisingly patient. Within six months, her purposeful approach had inspired three teammates to launch their own passion-driven side initiatives.",
+    "topicTag": "meaningful work",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "목적이나 의도를 가지고 일하다.",
+    "realUsageKo": "단순히 시간을 채우거나 돈을 버는 것을 넘어, 명확한 목표와 동기를 가지고 일하는 태도를 표현할 때 사용한다. 자기 계발, 리더십, 커리어 조언 등의 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'Purpose'는 라틴어 'propositus(앞에 놓인 것)'에서 유래해, 의도·목적·목표를 뜻하게 되었다. 'Work with purpose'는 20세기 자기계발 담론과 함께 일상적 관용구로 자리 잡았다.",
+    "nuanceKo": "단순한 근면함을 넘어 '왜 일하는지'에 대한 내적 동기를 강조하는 표현이다. 의욕적이고 진지한 뉘앙스를 주며, 자기 방향성을 찾은 사람이 쓰는 긍정적인 표현이다.",
+    "shortExampleEn": "Great leaders work with purpose, inspiring their teams to do the same.",
+    "shortExampleKo": "훌륭한 리더는 목적을 가지고 일하며, 팀원들도 그렇게 하도록 영감을 준다."
+  }
+}

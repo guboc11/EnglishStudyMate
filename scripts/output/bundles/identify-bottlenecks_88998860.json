@@ -1,0 +1,30 @@
+{
+  "id": "identify-bottlenecks_88998860",
+  "expression": "identify bottlenecks",
+  "selectionMeta": {
+    "selectedPhrase": "identify bottlenecks",
+    "selectedSenseLabelKo": "병목을 파악하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "Before optimizing the application, the engineering team ran a profiler to identify bottlenecks in the data processing pipeline."
+  },
+  "step2": {
+    "story": "The new lead developer stayed late reviewing the server logs. She needed to identify bottlenecks before the product launch next week. By morning, she had pinpointed two slow database queries causing the delays.",
+    "topicTag": "software performance",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "After users started complaining about slow load times, the startup's CTO called an emergency sprint review. The team pulled up monitoring dashboards and began methodically testing each service to identify bottlenecks across the system. They discovered that a third-party payment API was responding nearly four times slower than expected. Once they isolated the problem, they implemented a caching layer that cut response times in half. The experience taught the team to build observability into every new feature from day one.",
+    "topicTag": "system optimization",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "시스템이나 프로세스에서 흐름을 막거나 느리게 만드는 병목 지점을 찾아내다.",
+    "realUsageKo": "소프트웨어 개발·운영 상황에서 성능 저하나 처리 지연의 원인이 되는 특정 구간을 분석·발견할 때 사용한다. '문제를 진단한다'는 뉘앙스가 강하다.",
+    "etymologyKo": "'bottleneck'은 병(bottle)의 목처럼 유체 흐름이 좁아지는 지점에서 유래했으며, 공학·경제학에서 전파되어 IT 분야에서 널리 쓰이게 되었다.",
+    "nuanceKo": "단순히 '느린 부분을 찾는다'는 수준을 넘어, 데이터 기반으로 원인을 정확히 짚어낸다는 전문적이고 분석적인 어감을 담고 있다.",
+    "shortExampleEn": "We used profiling tools to identify bottlenecks in the rendering engine.",
+    "shortExampleKo": "우리는 프로파일링 도구를 사용해 렌더링 엔진의 병목 지점을 파악했다."
+  }
+}

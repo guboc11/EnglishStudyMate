@@ -1,0 +1,30 @@
+{
+  "id": "study-hard_186b5425",
+  "expression": "study hard",
+  "selectionMeta": {
+    "selectedPhrase": "study hard",
+    "selectedSenseLabelKo": "열심히 공부하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to study hard every night to pass her final exams."
+  },
+  "step2": {
+    "story": "Tom knew the test was only a week away, so he chose to study hard instead of going out with friends. Every evening, he sat at his desk with his textbooks and notes spread out around him. Slowly, his confidence grew with each chapter he reviewed.",
+    "topicTag": "exam preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had always struggled with math, but this semester she made a promise to herself to study hard and turn things around. Each day after school, she stayed in the library for two extra hours, working through practice problems until they made sense. Her friends invited her to hang out on weekends, but she politely declined, keeping her goal in mind. On the morning of the exam, she walked into the classroom feeling calm and ready. When the results came back, she had scored the highest in her class. All those late nights had finally paid off.",
+    "topicTag": "academic achievement",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'study'(공부하다)와 'hard'(열심히)가 결합된 표현으로, 말 그대로 '열심히 공부하다'를 뜻합니다.",
+    "realUsageKo": "시험 준비, 자격증 취득, 학업 목표 달성 등의 맥락에서 집중적이고 성실하게 공부하는 행동을 표현할 때 사용합니다.",
+    "etymologyKo": "'hard'는 고대 영어 'heard'에서 유래하였으며, 부사로 쓰일 때 '강하게, 열심히'라는 의미를 가집니다. 'study hard'는 동사 뒤에 강조 부사를 붙이는 영어의 일반적인 패턴을 따릅니다.",
+    "nuanceKo": "단순히 오랜 시간 공부한다는 의미보다는 집중력과 노력을 강조하는 뉘앙스가 있으며, 긍정적이고 의지적인 태도를 내포합니다.",
+    "shortExampleEn": "If you study hard, you will do well on the test.",
+    "shortExampleKo": "열심히 공부하면 시험을 잘 볼 거야."
+  }
+}

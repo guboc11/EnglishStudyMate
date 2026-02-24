@@ -1,0 +1,30 @@
+{
+  "id": "go-with-your-gut_6f8378ad",
+  "expression": "go with your gut",
+  "selectionMeta": {
+    "selectedPhrase": "go with your gut",
+    "selectedSenseLabelKo": "직감을 따르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When you're unsure which job offer to accept, sometimes it's best to go with your gut and choose the one that feels right."
+  },
+  "step2": {
+    "story": "Maya had been agonizing over two equally strong candidates for her team for weeks. In the end, her manager told her to go with her gut, and she chose the one who had shown genuine passion during the interview. The new hire turned out to be the best performer on the team.",
+    "topicTag": "decision making",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Daniel had spent three sleepless nights analyzing spreadsheets, comparing every variable between the two startup offers he'd received. The salary numbers were nearly identical, the tech stacks were similar, and both teams seemed talented. His mentor finally sat down with him and said, 'You've done the analysis — now go with your gut.' Daniel closed his laptop, took a deep breath, and thought about the moment during each interview when he'd felt most alive. One company had made him feel like he could change the world; the other had made him feel like he needed to prove himself. He sent his acceptance email that evening, and never looked back.",
+    "topicTag": "career choice",
+    "moodTag": "decisive"
+  },
+  "meaning": {
+    "literalMeaningKo": "'당신의 내장(gut)과 함께 가다', 즉 배 속에서 느껴지는 감각을 따른다는 뜻입니다.",
+    "realUsageKo": "논리적 분석보다 직관이나 본능적인 느낌을 믿고 결정을 내릴 때 사용합니다. 주로 선택이 어렵거나 정보가 불완전한 상황에서 씁니다.",
+    "etymologyKo": "'gut'은 원래 '내장'을 뜻하는 단어로, 서양에서는 오래전부터 직관이나 본능적인 감정이 배 속에서 비롯된다고 여겼습니다. 'gut feeling(직감)'이라는 표현에서 파생된 collocation입니다.",
+    "nuanceKo": "이성적 판단을 잠시 내려놓고 감각을 믿으라는 조언이나 격려의 뉘앙스를 담고 있습니다. 가벼운 일상적 조언부터 중요한 인생 결정까지 폭넓게 사용됩니다.",
+    "shortExampleEn": "I didn't have all the facts, so I just went with my gut.",
+    "shortExampleKo": "모든 사실을 알지는 못했지만, 그냥 직감을 따랐어."
+  }
+}

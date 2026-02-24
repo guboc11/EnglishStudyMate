@@ -1,0 +1,30 @@
+{
+  "id": "act-on-feedback_eff2f456",
+  "expression": "act on feedback",
+  "selectionMeta": {
+    "selectedPhrase": "act on feedback",
+    "selectedSenseLabelKo": "피드백에 따라 행동하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After the quarterly review, the team decided to act on feedback from their clients and redesign the onboarding process."
+  },
+  "step2": {
+    "story": "Sarah received a detailed review from her manager pointing out gaps in her presentation skills. Instead of brushing it off, she chose to act on feedback and signed up for a public speaking course. Within two months, her confidence in meetings had noticeably improved.",
+    "topicTag": "professional growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The product launch had gone smoothly, but the user satisfaction scores told a different story. Customers were frustrated with the app's navigation, and dozens of reviews said the same thing. The CEO called an emergency meeting and made one thing clear: they needed to act on feedback immediately, not in the next sprint cycle. The design team worked through the weekend, restructuring the interface based on the most common complaints. When the update rolled out, return visits jumped by thirty percent. It was a hard lesson, but the team learned that listening was only half the job—the other half was doing something about it.",
+    "topicTag": "product improvement",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "피드백(의견이나 반응)을 바탕으로 실제 행동을 취하다.",
+    "realUsageKo": "비즈니스나 직장 환경에서 상사, 고객, 동료의 의견을 수렴한 뒤 구체적인 변화나 개선 조치를 실행할 때 사용합니다. 단순히 듣는 것을 넘어 행동으로 옮긴다는 점을 강조합니다.",
+    "etymologyKo": "'Act on'은 '~에 근거하여 행동하다'라는 뜻의 동사구로, 'feedback'은 1940년대 전자공학에서 출력 신호를 입력으로 되돌리는 개념에서 유래해 이후 '반응·평가'의 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 피드백을 '듣는다'는 것과 달리, 실제로 변화를 만든다는 능동적이고 책임감 있는 뉘앙스를 가집니다. 주로 긍정적이고 프로페셔널한 맥락에서 쓰입니다.",
+    "shortExampleEn": "We acted on customer feedback and simplified the checkout process.",
+    "shortExampleKo": "우리는 고객 피드백에 따라 행동하여 결제 과정을 간소화했습니다."
+  }
+}

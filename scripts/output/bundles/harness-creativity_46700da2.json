@@ -1,0 +1,30 @@
+{
+  "id": "harness-creativity_46700da2",
+  "expression": "harness creativity",
+  "selectionMeta": {
+    "selectedPhrase": "harness creativity",
+    "selectedSenseLabelKo": "창의성을 활용하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Great leaders know how to harness creativity within their teams to solve problems in unexpected ways."
+  },
+  "step2": {
+    "story": "The design studio encouraged everyone to harness creativity by setting aside an hour each afternoon for free exploration. Without the pressure of deadlines, the team came up with their most groundbreaking ideas.",
+    "topicTag": "creative work",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Maya had always believed that structure and creativity were opposites—until she joined a new company that knew how to harness creativity through thoughtful routines. Every Monday began with a silent brainstorming session where no idea was too wild. Walls were covered with sticky notes, and managers listened without judgment. Over time, Maya noticed that the freedom within a framework was what made innovation flourish. She began to harness creativity in her own life too, setting aside time each morning to sketch, write, or simply daydream. What once felt like a professional skill had become a way of living.",
+    "topicTag": "innovation culture",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "창의성(creativity)을 마구(harness)로 묶어 통제하고 유용하게 활용한다는 의미입니다.",
+    "realUsageKo": "단순히 창의적인 생각을 갖는 것을 넘어, 그 잠재력을 실질적인 결과로 이끌어낸다는 뉘앙스로 쓰입니다. 주로 조직, 교육, 리더십 맥락에서 자주 등장합니다.",
+    "etymologyKo": "'harness'는 원래 말에 채우는 마구(馬具)를 뜻하는 고대 프랑스어 'harneis'에서 유래했으며, 이후 자연의 힘이나 능력을 통제해 유용하게 쓴다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 '사용'보다 적극적이고 전략적인 뉘앙스를 담고 있습니다. 창의성을 방치하지 않고 의도적으로 끌어내어 목적에 맞게 활용한다는 뜻을 강조합니다.",
+    "shortExampleEn": "Schools are finding new ways to harness creativity in students through project-based learning.",
+    "shortExampleKo": "학교들은 프로젝트 기반 학습을 통해 학생들의 창의성을 활용하는 새로운 방법을 모색하고 있습니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mentor-others_f51e5137",
+  "expression": "mentor others",
+  "selectionMeta": {
+    "selectedPhrase": "mentor others",
+    "selectedSenseLabelKo": "다른 사람을 멘토링하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "As a senior engineer, she made it a priority to mentor others on her team by sharing her expertise and helping them navigate complex challenges."
+  },
+  "step2": {
+    "story": "David had climbed the corporate ladder quickly, but he never forgot the manager who believed in him early on. Now leading his own team, he made time every week to mentor others, passing on the lessons he had learned the hard way. Watching his colleagues grow gave him a satisfaction that no promotion ever had.",
+    "topicTag": "leadership",
+    "moodTag": "fulfilling"
+  },
+  "step3": {
+    "story": "When the company launched its new mentorship initiative, Sarah was the first to volunteer. She had spent years refining her skills in product management and knew how overwhelming the role could feel at first. Every Tuesday morning, she would sit down with two junior associates and walk them through real scenarios — how to handle a difficult stakeholder, how to prioritize a crowded backlog, how to speak up in executive meetings. She didn't just mentor others in technique; she mentored them in confidence. Months later, one of her mentees led her first product launch independently, crediting Sarah in front of the whole company. That moment, Sarah realized, was the most meaningful milestone of her career.",
+    "topicTag": "mentorship",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람들을 멘토로서 이끌고 지도하다.",
+    "realUsageKo": "주로 직장이나 학업 환경에서 경험 많은 사람이 후배나 신입에게 지식, 기술, 조언을 전달하며 성장을 돕는 행위를 가리킨다.",
+    "etymologyKo": "'Mentor'는 그리스 신화에서 오디세우스가 자신의 아들 텔레마코스를 맡긴 현인의 이름에서 유래했으며, 오늘날 '경험 있는 조언자'를 뜻하는 보통명사로 정착했다.",
+    "nuanceKo": "단순한 가르침(teach)보다 장기적인 관계와 개인적 성장에 초점을 두며, 권위보다는 지지와 신뢰의 뉘앙스가 강하다.",
+    "shortExampleEn": "She decided to mentor others after realizing how much her own mentor had shaped her career.",
+    "shortExampleKo": "그녀는 자신의 멘토가 경력에 얼마나 큰 영향을 미쳤는지 깨닫고 나서 다른 사람들을 멘토링하기로 결심했다."
+  }
+}

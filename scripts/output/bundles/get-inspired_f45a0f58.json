@@ -1,0 +1,30 @@
+{
+  "id": "get-inspired_f45a0f58",
+  "expression": "get inspired",
+  "selectionMeta": {
+    "selectedPhrase": "get inspired",
+    "selectedSenseLabelKo": "영감을 받다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She traveled to Paris to get inspired for her next painting."
+  },
+  "step2": {
+    "story": "After weeks of creative block, Mark decided to visit a local art gallery. Walking through the exhibits, he finally got inspired by a bold abstract piece on the far wall. He rushed home and started sketching ideas he hadn't thought of in months.",
+    "topicTag": "creativity",
+    "moodTag": "uplifted"
+  },
+  "step3": {
+    "story": "Lena had been staring at a blank page for days, unable to write a single word for her novel. Her editor was growing impatient, and self-doubt was setting in. On a whim, she took a long walk through the old part of the city, watching street musicians and children chasing pigeons. The everyday scenes she had always ignored suddenly felt vivid and full of meaning. She got inspired by a grandmother feeding birds on a bench, imagining an entire life story for her. Lena sprinted back to her apartment and wrote the opening chapter in one sitting.",
+    "topicTag": "writing",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가로부터 영감을 받게 되다.",
+    "realUsageKo": "창작, 학습, 도전 등의 상황에서 외부 자극을 통해 새로운 아이디어나 의욕이 생겼을 때 사용한다. '~을 보고 영감을 받았다'처럼 계기를 함께 언급하는 경우가 많다.",
+    "etymologyKo": "'inspire'는 라틴어 'inspirare(숨을 불어넣다)'에서 유래했으며, 신이 예술가에게 숨을 불어넣어 창조력을 준다는 개념에서 비롯되었다.",
+    "nuanceKo": "능동적으로 영감을 '얻는' 과정을 강조하며, 긍정적이고 활력 넘치는 뉘앙스를 지닌다. 격식·비격식 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "I got inspired by his speech and decided to start my own business.",
+    "shortExampleKo": "나는 그의 연설에서 영감을 받아 내 사업을 시작하기로 결심했다."
+  }
+}

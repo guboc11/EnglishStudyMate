@@ -1,0 +1,30 @@
+{
+  "id": "dare-to-be-different_9028ed58",
+  "expression": "dare to be different",
+  "selectionMeta": {
+    "selectedPhrase": "dare to be different",
+    "selectedSenseLabelKo": "다름을 감히 택하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "In a world where everyone follows trends, she decided to dare to be different and launch a business that no one had ever tried before."
+  },
+  "step2": {
+    "story": "When Marcus walked into the meeting wearing bold colors while everyone else was in grey suits, his colleagues raised their eyebrows. He had always chosen to dare to be different, believing that standing out was the first step to standing up for something meaningful. That day, his unconventional presentation won the biggest client the company had ever landed.",
+    "topicTag": "workplace identity",
+    "moodTag": "bold"
+  },
+  "step3": {
+    "story": "Growing up in a small town, Lena always felt the pressure to blend in — to wear what others wore, study what others studied, and dream what others dreamed. But something inside her refused to settle. When she applied to art school instead of the local university everyone expected her to attend, her family was shocked. She knew it would be hard, but she had made up her mind to dare to be different, no matter the cost. Years later, standing in her first solo exhibition surrounded by people moved by her work, she felt a quiet pride she could never have found by following the crowd. Being different hadn't been easy, but it had been entirely worth it.",
+    "topicTag": "self-discovery",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "감히 다르게 되다, 즉 용기를 내어 남들과 다른 선택을 하다.",
+    "realUsageKo": "주변의 기대나 규범을 따르지 않고 자신만의 독특한 방식을 용감하게 선택할 때 쓰인다. 개성 표현, 창의적 도전, 사회적 압력에 맞서는 상황에서 자주 등장한다.",
+    "etymologyKo": "'dare'는 고대 영어 'durran'에서 유래해 '감히 ~하다'라는 의미를 가지며, 위험이나 두려움을 무릅쓰고 행동하는 것을 뜻한다. 'be different'와 결합해 단순한 차이가 아닌 의지적 선택을 강조한다.",
+    "nuanceKo": "단순히 '다르다'는 사실이 아니라 그 다름을 선택하는 용기에 방점이 있다. 긍정적이고 자기 확신에 찬 어조로 쓰이며, 격려나 영감을 주는 맥락에서 특히 자주 사용된다.",
+    "shortExampleEn": "It takes courage to dare to be different in a society that values conformity.",
+    "shortExampleKo": "획일성을 중시하는 사회에서 다름을 감히 택하는 것은 용기가 필요한 일이다."
+  }
+}

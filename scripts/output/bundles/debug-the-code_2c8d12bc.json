@@ -1,0 +1,30 @@
+{
+  "id": "debug-the-code_2c8d12bc",
+  "expression": "debug the code",
+  "selectionMeta": {
+    "selectedPhrase": "debug the code",
+    "selectedSenseLabelKo": "코드를 디버깅하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "She stayed up until midnight to debug the code before the product launch the next morning."
+  },
+  "step2": {
+    "story": "The app kept crashing right before demo day, and Marcus had to debug the code under intense pressure. He traced the issue to a single misplaced variable and fixed it just in time.",
+    "topicTag": "software development",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "It was 11 PM when Priya noticed the payment system was failing silently. She pulled up the logs and started to debug the code, methodically isolating each module one by one. After two hours of focus, she found the culprit: a type mismatch in the currency conversion function. She patched the issue, redeployed the service, and watched the error rate drop to zero. Exhausted but relieved, she finally closed her laptop knowing the fix would hold.",
+    "topicTag": "late-night debugging",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "코드에서 버그(오류)를 찾아 제거하다.",
+    "realUsageKo": "소프트웨어 개발 현장에서 프로그램이 예상대로 동작하지 않을 때 원인을 추적하고 수정하는 과정 전체를 가리킨다.",
+    "etymologyKo": "'debug'는 1940년대 초기 컴퓨터 오류가 실제 벌레(bug) 때문에 발생했다는 일화에서 유래했으며, 이후 소프트웨어 오류 수정의 표준 표현이 되었다.",
+    "nuanceKo": "단순히 오타를 고치는 수준이 아닌, 체계적인 원인 분석과 수정을 함의하며 개발자 사이에서 일상적으로 쓰이는 전문 용어다.",
+    "shortExampleEn": "Can you debug the code before pushing it to production?",
+    "shortExampleKo": "프로덕션에 배포하기 전에 코드를 디버깅해 줄 수 있어?"
+  }
+}

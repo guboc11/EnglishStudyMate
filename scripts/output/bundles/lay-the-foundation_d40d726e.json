@@ -1,0 +1,30 @@
+{
+  "id": "lay-the-foundation_d40d726e",
+  "expression": "lay the foundation",
+  "selectionMeta": {
+    "selectedPhrase": "lay the foundation",
+    "selectedSenseLabelKo": "기반을 닦다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Years of rigorous study helped her lay the foundation for a successful career in medicine."
+  },
+  "step2": {
+    "story": "Marcus spent his first year at the startup learning every part of the business. He knew that to grow as a leader, he had to lay the foundation before taking on more responsibility. The effort paid off when he was promoted to team lead.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena moved to the small town with nothing but a plan and a modest savings account. She spent months talking to locals, understanding their needs, and building trust one conversation at a time. Every small gesture—a community meeting here, a free workshop there—helped her lay the foundation for the nonprofit she had always dreamed of starting. Neighbors who had once been skeptical began showing up to volunteer. Within two years, the organization was thriving, a testament to the patient groundwork she had laid. She often told new volunteers that sustainable change never starts with a grand gesture, but with quiet, deliberate preparation.",
+    "topicTag": "community building",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "건물의 기초를 놓다는 뜻에서, 어떤 것의 토대를 마련한다는 의미로 쓰인다.",
+    "realUsageKo": "어떤 목표나 성취를 위해 초기 단계에서 필요한 준비와 기반을 다질 때 사용한다. 주로 교육, 경력, 관계, 사업 등의 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'lay'는 '놓다'라는 고대 영어 'lecgan'에서 유래했으며, 'foundation'은 라틴어 'fundatio(기초를 세움)'에서 왔다. 건축 비유에서 파생된 표현이다.",
+    "nuanceKo": "단순한 시작이 아니라 체계적이고 의도적인 준비 과정을 강조할 때 쓰인다. 긍정적이고 진지한 어조를 띠며, 장기적인 관점을 시사한다.",
+    "shortExampleEn": "Early education lays the foundation for lifelong learning.",
+    "shortExampleKo": "어린 시절의 교육은 평생 학습의 기반을 닦아 준다."
+  }
+}

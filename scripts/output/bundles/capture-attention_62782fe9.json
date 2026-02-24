@@ -1,0 +1,30 @@
+{
+  "id": "capture-attention_62782fe9",
+  "expression": "capture attention",
+  "selectionMeta": {
+    "selectedPhrase": "capture attention",
+    "selectedSenseLabelKo": "주의를 사로잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The startup's bold billboard managed to capture attention from commuters all along the highway."
+  },
+  "step2": {
+    "story": "Maya had been struggling to get her colleagues to notice her proposal for months. She redesigned the presentation with vivid visuals and an unexpected opening statistic, and it finally captured everyone's attention in the meeting. By the end, even the skeptics were leaning forward in their seats.",
+    "topicTag": "workplace presentation",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "The gallery opening had drawn a modest crowd, but one painting in the far corner seemed to capture attention above all the others. It depicted an ordinary street scene — a child chasing a paper boat through a puddle — yet something about its stillness made visitors stop mid-conversation. People would drift toward it without quite knowing why, then stand quietly for several minutes before moving on. The artist, an unknown painter named Sol, had placed it intentionally away from the entrance, knowing that the works that truly capture attention rarely need to announce themselves. By the end of the evening, three collectors had left their contact details for Sol, each believing they had discovered him on their own.",
+    "topicTag": "art and creativity",
+    "moodTag": "contemplative"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 주의를 포착하여 고정시키다.",
+    "realUsageKo": "발표, 광고, 예술 등 다양한 상황에서 사람들의 시선이나 관심을 끌어당겨 집중하게 만들 때 사용한다. 의도적인 노력으로 주목받는 뉘앙스가 강하다.",
+    "etymologyKo": "'capture'는 라틴어 'capere(잡다)'에서 유래했으며, 'attention'은 라틴어 'attendere(향하다, 기울이다)'에서 왔다. 두 단어가 결합해 '주의를 붙잡는다'는 의미를 형성한다.",
+    "nuanceKo": "단순히 눈에 띄는 것을 넘어, 상대방이 자신도 모르게 끌리게 되는 강한 흡인력을 암시한다. 광고·마케팅·공연 등 경쟁이 치열한 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "The dancer's unexpected move captured the audience's attention immediately.",
+    "shortExampleKo": "무용수의 예상치 못한 동작이 즉시 관객의 주의를 사로잡았다."
+  }
+}

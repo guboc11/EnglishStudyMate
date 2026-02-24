@@ -1,0 +1,30 @@
+{
+  "id": "take-risks_81ba3293",
+  "expression": "take risks",
+  "selectionMeta": {
+    "selectedPhrase": "take risks",
+    "selectedSenseLabelKo": "위험을 감수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you never take risks, you'll never discover what you're truly capable of."
+  },
+  "step2": {
+    "story": "Maya had always played it safe, turning down every opportunity that felt uncertain. One day, her mentor told her that the most successful people she knew were those willing to take risks and learn from the outcome. That advice changed everything for Maya.",
+    "topicTag": "personal growth",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Daniel had spent years working at the same company, comfortable but unfulfilled. When a chance to launch his own startup appeared, his friends warned him it was too uncertain. Still, Daniel decided to take risks and invest his savings into the venture. The first months were brutal — late nights, tight budgets, and constant self-doubt. But slowly, customers found him, and the business began to grow. Looking back, he realized that the willingness to take risks was the very thing that had turned his dream into reality.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "위험을 감수하다, 즉 불확실하거나 손실 가능성이 있는 상황을 의도적으로 선택하다.",
+    "realUsageKo": "새로운 도전이나 기회를 잡을 때 실패나 손실의 가능성을 알면서도 과감히 행동하는 것을 표현할 때 사용한다. 비즈니스, 커리어, 인간관계 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'risk'는 17세기 이탈리아어 'risco'에서 유래했으며, 원래는 항해에서 암초를 피해 항해하는 위험을 뜻했다. 이후 '불확실한 결과를 수반하는 행동'이라는 의미로 확장되었다.",
+    "nuanceKo": "단순한 무모함보다는 계산된 용기의 뉘앙스를 담고 있으며, 성장이나 성공을 위해 감수하는 긍정적인 위험을 강조할 때 주로 쓰인다.",
+    "shortExampleEn": "Great entrepreneurs are not afraid to take risks when they believe in their vision.",
+    "shortExampleKo": "위대한 기업가들은 자신의 비전을 믿을 때 위험을 감수하는 것을 두려워하지 않는다."
+  }
+}

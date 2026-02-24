@@ -1,0 +1,30 @@
+{
+  "id": "wow-the-audience_1ac63563",
+  "expression": "wow the audience",
+  "selectionMeta": {
+    "selectedPhrase": "wow the audience",
+    "selectedSenseLabelKo": "청중을 감동시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She practiced for weeks to wow the audience at the annual talent show."
+  },
+  "step2": {
+    "story": "Jake stepped onto the stage with trembling hands but a confident smile. His unexpected magic tricks and witty humor managed to wow the audience within minutes. By the end, the crowd was on their feet cheering.",
+    "topicTag": "performance",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Maya had spent three months preparing her TEDx talk on climate innovation. The night before, she rehearsed until midnight, determined to wow the audience with both her research and her passion. When she finally walked onto the stage, the spotlight felt warm and welcoming rather than intimidating. She delivered every line with clarity and conviction, weaving personal stories into hard data. The audience leaned forward, completely captivated. When she finished, the applause was thunderous—she had done it.",
+    "topicTag": "public speaking",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'wow'는 감탄사로, 'wow the audience'는 문자 그대로 '청중에게 와우라는 반응을 이끌어내다'는 뜻입니다.",
+    "realUsageKo": "공연, 발표, 시연 등에서 청중을 깊이 감동시키거나 강한 인상을 남길 때 사용합니다. 기대를 훌쩍 뛰어넘는 퍼포먼스를 묘사할 때 특히 자주 쓰입니다.",
+    "etymologyKo": "'wow'는 원래 감탄사로, 20세기 초 미국 영어에서 동사로 쓰이기 시작했습니다. 'wow someone'은 '누군가를 깜짝 놀라게 하다, 강렬한 인상을 주다'는 뜻의 구어 표현으로 발전했습니다.",
+    "nuanceKo": "격식체보다는 구어체에 가까우며 긍정적이고 열정적인 뉘앙스를 띱니다. 단순히 '만족시키다'보다 훨씬 강한 감동이나 경이로움을 전달합니다.",
+    "shortExampleEn": "The young pianist managed to wow the audience with her flawless performance.",
+    "shortExampleKo": "그 젊은 피아니스트는 흠잡을 데 없는 연주로 청중을 감동시켰다."
+  }
+}

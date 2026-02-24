@@ -1,0 +1,30 @@
+{
+  "id": "make-a-comeback_40e91ef9",
+  "expression": "make a comeback",
+  "selectionMeta": {
+    "selectedPhrase": "make a comeback",
+    "selectedSenseLabelKo": "재기하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After two years away from competitive tennis, she trained relentlessly and managed to make a comeback, reaching the finals of a major tournament."
+  },
+  "step2": {
+    "story": "Everyone said his career was over after the scandal, but he refused to give up. He spent a year rebuilding his reputation and skills, determined to make a comeback. When he finally returned to the stage, the audience gave him a standing ovation.",
+    "topicTag": "career recovery",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The band had broken up a decade ago, leaving fans with only memories of their sold-out concerts. Then, one quiet Tuesday morning, a cryptic post appeared on their social media: a single flame emoji. Speculation exploded online as people wondered if they were about to make a comeback. Weeks later, they announced a reunion tour with new material, and tickets sold out in minutes. Standing backstage before their first show, the lead singer felt a mix of nerves and excitement she hadn't felt in years. The crowd's roar as they walked on stage told her everything — some legacies are simply too strong to stay buried.",
+    "topicTag": "music industry",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "다시 돌아온다는 뜻으로, 한때 성공했다가 사라졌던 사람이나 것이 다시 나타나는 것을 의미합니다.",
+    "realUsageKo": "주로 스포츠, 연예, 비즈니스 등에서 한동안 부진하거나 은퇴했다가 다시 활동을 재개하며 성공을 거두는 상황에 사용합니다. '재기에 성공하다'는 뉘앙스를 담습니다.",
+    "etymologyKo": "'comeback'은 19세기 말 미국 영어에서 '반박', '응수'의 의미로 쓰이다가, 20세기 초 스포츠와 연예계에서 '복귀·재기'의 의미로 자리잡았습니다.",
+    "nuanceKo": "단순한 복귀가 아니라 어려움을 극복하고 다시 두각을 나타낸다는 긍정적이고 감동적인 뉘앙스가 강합니다. 대개 역경이나 실패가 선행되어야 이 표현이 자연스럽게 쓰입니다.",
+    "shortExampleEn": "The veteran boxer made a stunning comeback after a three-year absence from the ring.",
+    "shortExampleKo": "그 베테랑 복서는 3년간 링을 떠났다가 놀라운 재기를 이루어냈다."
+  }
+}

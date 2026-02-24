@@ -1,0 +1,30 @@
+{
+  "id": "passion-drives-success_b0c65cd1",
+  "expression": "passion drives success",
+  "selectionMeta": {
+    "selectedPhrase": "passion drives success",
+    "selectedSenseLabelKo": "열정이 성공을 이끈다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always believed that passion drives success, so she poured every ounce of energy into her craft."
+  },
+  "step2": {
+    "story": "Marcus spent years refining his photography skills with no guarantee of a career. He kept going because he believed passion drives success more than talent alone. Eventually, his dedication earned him a contract with a major magazine.",
+    "topicTag": "creative career",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Priya launched her bakery, everyone warned her the market was too crowded. She ignored the doubts, waking before dawn each day to perfect new recipes and meet her customers by name. She firmly believed that passion drives success, and she let that belief shape every decision she made. Months passed, then a food critic stopped by on a whim and wrote a glowing review. Word spread quickly, and lines began forming outside her small shop each morning. What had started as a risky leap of faith had become the most beloved bakery in the neighborhood.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "열정이 성공을 이끌고 추진한다는 뜻으로, 강한 내적 동기가 성취의 원동력이 됨을 표현한다.",
+    "realUsageKo": "주로 동기부여 맥락에서 사용되며, 재능이나 환경보다 열정과 헌신이 성공을 결정짓는다는 믿음을 나타낼 때 쓴다.",
+    "etymologyKo": "'passion'은 라틴어 'passio(고통, 감내)'에서 유래해 강렬한 감정을 뜻하게 되었고, 'drive'는 고대 영어 'drīfan(몰다)'에서 비롯되어 강력한 추진력을 의미한다.",
+    "nuanceKo": "긍정적이고 고무적인 어조를 띠며, 연설·자기계발 글·인터뷰에서 자주 등장하는 표현으로 약간의 격언적 울림을 갖는다.",
+    "shortExampleEn": "His mentor always reminded him that passion drives success when the long hours felt overwhelming.",
+    "shortExampleKo": "그의 멘토는 긴 시간이 버겁게 느껴질 때마다 열정이 성공을 이끈다고 그에게 상기시켜 주었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "accept-criticism_5fc79085",
+  "expression": "accept criticism",
+  "selectionMeta": {
+    "selectedPhrase": "accept criticism",
+    "selectedSenseLabelKo": "비판을 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A great leader must be willing to accept criticism and use it as a tool for growth."
+  },
+  "step2": {
+    "story": "After his presentation, Mark braced himself as his mentor pointed out several flaws. Instead of getting defensive, he chose to accept criticism with an open mind. By the next week, he had revised his approach entirely.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Sarah had worked on the design proposal for three weeks, pouring her heart into every detail. When the client called with a long list of complaints, her first instinct was to defend her choices. But she paused, took a deep breath, and reminded herself that the ability to accept criticism was what separated good designers from great ones. She listened carefully, asked clarifying questions, and thanked the client for their honesty. Over the next few days, she incorporated the feedback and delivered a revised version that exceeded everyone's expectations. The experience taught her that criticism, when welcomed, was simply information she hadn't had before.",
+    "topicTag": "professional development",
+    "moodTag": "growth-oriented"
+  },
+  "meaning": {
+    "literalMeaningKo": "비판이나 부정적인 평가를 거부하지 않고 받아들이다.",
+    "realUsageKo": "자신의 실수나 부족한 점에 대한 타인의 지적을 방어적으로 대응하지 않고 열린 마음으로 수용하는 태도를 표현할 때 쓴다. 직장, 학업, 대인관계 등 다양한 맥락에서 폭넓게 사용된다.",
+    "etymologyKo": "'accept'는 라틴어 'acceptare(받아들이다)'에서 유래했고, 'criticism'은 그리스어 'kritikos(판단하는)'에서 비롯된 말이다. 두 단어가 결합해 '판단을 수용하다'라는 뜻의 콜로케이션으로 정착했다.",
+    "nuanceKo": "단순히 비판을 듣는 것을 넘어, 적극적으로 인정하고 개선의 기회로 삼는 성숙한 태도를 내포한다. 이 표현을 쓰면 화자가 겸손하고 성장 지향적임을 암시한다.",
+    "shortExampleEn": "It's not easy to accept criticism gracefully, but it's essential for improvement.",
+    "shortExampleKo": "비판을 우아하게 받아들이는 것은 쉽지 않지만, 발전을 위해 꼭 필요한 일이다."
+  }
+}

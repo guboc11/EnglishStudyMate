@@ -1,0 +1,30 @@
+{
+  "id": "exercise-regularly_cc0bffa1",
+  "expression": "exercise regularly",
+  "selectionMeta": {
+    "selectedPhrase": "exercise regularly",
+    "selectedSenseLabelKo": "규칙적으로 운동하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to exercise regularly after her doctor recommended it for her overall health."
+  },
+  "step2": {
+    "story": "Tom used to feel tired all the time until he started to exercise regularly every morning. Within a few weeks, he noticed he had more energy throughout the day and slept better at night.",
+    "topicTag": "healthy lifestyle",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Maya had always known she should exercise regularly, but busy work schedules kept getting in the way. One day, after climbing just two flights of stairs left her breathless, she decided enough was enough. She signed up for a gym membership and committed to working out three times a week. At first it was a struggle to wake up early, but she pushed through. Months later, her colleagues noticed how much more energetic and confident she seemed. Choosing to exercise regularly had quietly transformed her life.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "규칙적인 간격으로 반복해서 신체 운동을 하다.",
+    "realUsageKo": "건강 유지나 체력 향상을 위해 일정한 주기로 운동하는 습관을 가리킬 때 사용한다. 일회성이 아닌 꾸준한 루틴을 강조하는 표현이다.",
+    "etymologyKo": "'exercise'는 라틴어 'exercere(훈련시키다, 유지하다)'에서, 'regularly'는 라틴어 'regularis(규칙에 따른)'에서 유래했다.",
+    "nuanceKo": "의지와 자기관리의 뉘앙스를 담고 있으며, 건강·의학·라이프스타일 맥락에서 긍정적인 습관을 묘사할 때 자주 쓰인다.",
+    "shortExampleEn": "If you exercise regularly, you will feel stronger and healthier.",
+    "shortExampleKo": "규칙적으로 운동하면 더 강하고 건강해질 것이다."
+  }
+}

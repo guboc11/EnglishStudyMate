@@ -1,0 +1,30 @@
+{
+  "id": "bounce-back-stronger_c1820f55",
+  "expression": "bounce back stronger",
+  "selectionMeta": {
+    "selectedPhrase": "bounce back stronger",
+    "selectedSenseLabelKo": "더 강하게 회복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing the championship, she trained harder than ever and bounced back stronger the following season."
+  },
+  "step2": {
+    "story": "The startup failed in its first year, leaving the founders discouraged and in debt. But they analyzed every mistake, rebuilt their team, and bounced back stronger with a new product that finally resonated with customers.",
+    "topicTag": "resilience",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had poured everything into his restaurant, but the pandemic forced him to close its doors after just six months. For weeks he sat with the silence of an empty kitchen, replaying every decision he'd made. Then, slowly, he began to rethink the concept from scratch — studying delivery trends, talking to loyal regulars, and reworking the menu entirely. A year later, he relaunched as a ghost kitchen and demand exceeded anything he'd seen before. His friends said he'd bounced back stronger, but Marcus knew it was the failure itself that had made him sharp enough to succeed.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "공처럼 튀어오르듯 이전보다 더 강한 상태로 되돌아오다.",
+    "realUsageKo": "실패, 부상, 위기 등 어려운 상황을 겪은 후 포기하지 않고 오히려 더 강해진 모습으로 회복하거나 재기할 때 사용한다.",
+    "etymologyKo": "'bounce back'은 고무공이 바닥에 튕겨 다시 올라오는 이미지에서 비롯된 표현으로, 역경 후 회복을 뜻하는 관용어로 굳어졌다. 여기에 'stronger'가 붙어 단순 회복을 넘어 성장을 강조한다.",
+    "nuanceKo": "단순히 원래 상태로 돌아왔다는 의미가 아니라, 시련을 통해 오히려 더 단단해졌다는 긍정적이고 의지적인 뉘앙스가 강하다. 스포츠, 비즈니스, 개인 성장 등 다양한 맥락에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "He lost his job but bounced back stronger with a better opportunity.",
+    "shortExampleKo": "그는 직장을 잃었지만 더 좋은 기회를 잡아 더 강하게 회복했다."
+  }
+}

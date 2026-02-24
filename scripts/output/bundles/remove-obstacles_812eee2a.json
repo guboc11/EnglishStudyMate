@@ -1,0 +1,30 @@
+{
+  "id": "remove-obstacles_812eee2a",
+  "expression": "remove obstacles",
+  "selectionMeta": {
+    "selectedPhrase": "remove obstacles",
+    "selectedSenseLabelKo": "장애물을 제거하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager worked with the team to remove obstacles that were slowing down the project."
+  },
+  "step2": {
+    "story": "Sara noticed that her team kept missing deadlines because of unclear approval processes. She met with leadership to remove obstacles and streamline the workflow. Within a week, the team's productivity improved dramatically.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel took over as project lead, the development team was struggling under a mountain of bureaucratic red tape. Every small decision required sign-offs from five different departments, bringing progress to a crawl. Daniel spent two weeks meeting with stakeholders, listening to frustrations, and identifying the root causes of the delays. His goal was simple: remove obstacles so his team could do their best work. Gradually, he streamlined the approval process and gave the team more autonomy to make day-to-day decisions. The change was remarkable — morale lifted, deadlines were met, and the project shipped ahead of schedule.",
+    "topicTag": "leadership and teamwork",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "길이나 과정에 있는 방해물이나 장애물을 없애거나 치운다는 뜻이다.",
+    "realUsageKo": "주로 업무, 프로젝트, 목표 달성 과정에서 진행을 막는 문제나 걸림돌을 해결한다는 맥락으로 사용된다. 물리적 장애물뿐 아니라 관료적 절차, 의사소통 문제, 심리적 장벽 등 다양한 상황에 쓰인다.",
+    "etymologyKo": "'remove'는 라틴어 'removere(re- 다시 + movere 움직이다)'에서 유래해 '치우다, 없애다'는 뜻이며, 'obstacle'은 라틴어 'obstaculum(ob- 앞에 + stare 서다)'에서 비롯되어 '앞을 가로막는 것'을 의미한다.",
+    "nuanceKo": "단순히 문제를 해결한다는 것을 넘어, 누군가가 앞으로 나아갈 수 있도록 적극적으로 환경을 개선한다는 능동적이고 지원하는 뉘앙스를 담고 있다. 리더십, 팀워크, 자기계발 맥락에서 자주 등장한다.",
+    "shortExampleEn": "The coach's job is to remove obstacles so the athletes can focus on training.",
+    "shortExampleKo": "코치의 역할은 선수들이 훈련에 집중할 수 있도록 장애물을 제거하는 것이다."
+  }
+}

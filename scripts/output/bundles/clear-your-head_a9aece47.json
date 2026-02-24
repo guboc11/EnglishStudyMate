@@ -1,0 +1,30 @@
+{
+  "id": "clear-your-head_a9aece47",
+  "expression": "clear your head",
+  "selectionMeta": {
+    "selectedPhrase": "clear your head",
+    "selectedSenseLabelKo": "머리를 비우다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After staring at the report for hours, she stepped outside to clear her head before finishing the final section."
+  },
+  "step2": {
+    "story": "David had been stuck on the same problem all afternoon, his thoughts tangled and unproductive. He decided to take a short walk around the block to clear his head. By the time he returned, the solution seemed obvious.",
+    "topicTag": "mental reset",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "The deadline was looming and Maya's mind felt like a cluttered room she couldn't navigate. Every idea she tried to follow led to another wall of confusion. She pushed back from her desk, grabbed her jacket, and headed to the small park two streets away. The cool air and the sound of leaves underfoot slowly began to clear her head. By the time she sat down on a bench and watched the clouds drift by, the noise in her mind had faded. She walked back to her apartment with a single clear thought — and that was all she needed to move forward.",
+    "topicTag": "work stress",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "머릿속을 비워내다, 즉 복잡한 생각들을 없애다.",
+    "realUsageKo": "주로 지치거나 생각이 너무 복잡해졌을 때 잠깐 쉬거나 산책하면서 정신을 리셋하는 상황에 씁니다. '머리를 식히다'와 비슷한 의미로 사용됩니다.",
+    "etymologyKo": "'clear'는 고대 프랑스어 'cler'에서 유래해 '깨끗하게 하다, 비우다'를 뜻하며, 'head'는 생각과 정신이 자리하는 곳을 상징합니다. 합쳐서 '정신을 깨끗이 비우다'는 의미가 됩니다.",
+    "nuanceKo": "단순한 휴식보다 의도적인 기분 전환의 뉘앙스가 강합니다. 부정적인 상태에서 벗어나려는 능동적인 행동을 함의하며, 가벼운 일상 대화에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "I'm going for a run to clear my head.",
+    "shortExampleKo": "머리를 좀 비우려고 달리기하러 갈 거야."
+  }
+}

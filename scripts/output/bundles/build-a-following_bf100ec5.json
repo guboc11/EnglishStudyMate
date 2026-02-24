@@ -1,0 +1,30 @@
+{
+  "id": "build-a-following_bf100ec5",
+  "expression": "build a following",
+  "selectionMeta": {
+    "selectedPhrase": "build a following",
+    "selectedSenseLabelKo": "팬층을 쌓다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She consistently posted valuable content and managed to build a following of over 50,000 loyal subscribers within her first year."
+  },
+  "step2": {
+    "story": "Marcus started sharing weekly design tips on social media, never expecting much response. Over several months, he began to build a following of aspiring designers who eagerly awaited each new post. His small, dedicated community eventually led to freelance clients and speaking invitations.",
+    "topicTag": "social media growth",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When Priya launched her podcast about sustainable business practices, she had only a handful of listeners — mostly friends and colleagues. She stayed consistent, publishing every Tuesday without fail and engaging personally with every comment she received. Slowly but surely, she began to build a following of entrepreneurs who shared her passion for ethical commerce. Word spread through industry newsletters and conference mentions, and her subscriber count climbed from dozens to thousands. Within two years, her podcast had become a trusted voice in the space, attracting sponsors and partnership offers she had never imagined possible. The key, she always told newcomers, was patience and genuine connection with her audience.",
+    "topicTag": "podcast audience building",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '추종자들을 만들어 쌓다'는 뜻으로, 자신을 지지하는 집단을 형성한다는 의미입니다.",
+    "realUsageKo": "주로 소셜 미디어, 유튜브, 팟캐스트, 브랜드 마케팅 등에서 팬이나 구독자 기반을 점진적으로 키워나가는 것을 표현할 때 사용됩니다. '팬층을 쌓다', '구독자를 늘리다'는 뉘앙스로 자주 쓰입니다.",
+    "etymologyKo": "'build'는 '짓다·축적하다'는 고대 영어 'byldan'에서 유래했고, 'following'은 '따르는 사람들의 무리'를 뜻하는 명사로 19세기부터 사용되었습니다. 두 단어가 결합해 지지자 집단을 만들어가는 과정을 나타냅니다.",
+    "nuanceKo": "단순히 숫자를 늘리는 것이 아니라 지속적인 노력과 시간을 투자해 충성스러운 집단을 형성한다는 뉘앙스가 강합니다. 빠른 성장보다는 꾸준한 관계 구축을 강조할 때 적합한 표현입니다.",
+    "shortExampleEn": "It took him three years of daily content creation to build a following large enough to support his business.",
+    "shortExampleKo": "그가 비즈니스를 유지할 만큼 큰 팬층을 쌓는 데는 매일 콘텐츠를 만드는 3년의 시간이 필요했습니다."
+  }
+}

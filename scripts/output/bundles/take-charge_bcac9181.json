@@ -1,0 +1,30 @@
+{
+  "id": "take-charge_bcac9181",
+  "expression": "take charge",
+  "selectionMeta": {
+    "selectedPhrase": "take charge",
+    "selectedSenseLabelKo": "주도권을 잡다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the manager left unexpectedly, Sarah decided to take charge and kept the project moving forward."
+  },
+  "step2": {
+    "story": "The team was confused after the lead developer quit without warning. No one knew what to do next, so Marcus stepped up to take charge. He organized a quick meeting and assigned clear roles to everyone.",
+    "topicTag": "workplace leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The emergency room was in chaos after a multi-car accident brought in a wave of patients. The senior nurse on duty saw the young residents freezing under pressure and knew someone had to take charge. She called out assignments in a calm, firm voice, directing each person to a specific patient. The room transformed within minutes — panic gave way to focused action. Afterward, the attending physician pulled her aside and said she had saved lives not just with her hands, but with her leadership. She simply nodded; taking charge when it mattered most was something she had always believed in.",
+    "topicTag": "emergency response",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "책임을 맡다, 지휘권을 손에 쥐다.",
+    "realUsageKo": "어떤 상황이나 집단에서 스스로 주도권을 잡고 이끌어 나갈 때 사용한다. 특히 리더십 공백이 생겼을 때 자발적으로 앞에 나서는 뉘앙스가 강하다.",
+    "etymologyKo": "'charge'는 고대 프랑스어 'charger(짐을 지우다, 임무를 맡기다)'에서 유래했으며, 여기서 책임·지휘라는 의미가 파생됐다. 'take'와 결합해 '스스로 그 책임을 집어들다'는 뜻이 됐다.",
+    "nuanceKo": "단순히 지시를 따르는 것이 아니라 능동적으로 통제권을 확보하는 적극적인 행동을 강조한다. 위기 상황이나 리더 부재 시 자주 쓰이며, 자신감 있고 결단력 있는 사람에 대한 긍정적 평가를 내포한다.",
+    "shortExampleEn": "Nobody was leading the discussion, so she took charge and set the agenda.",
+    "shortExampleKo": "아무도 토론을 이끌지 않자, 그녀가 주도권을 잡고 의제를 정했다."
+  }
+}

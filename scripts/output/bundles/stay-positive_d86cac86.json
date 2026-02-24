@@ -1,0 +1,30 @@
+{
+  "id": "stay-positive_d86cac86",
+  "expression": "stay positive",
+  "selectionMeta": {
+    "selectedPhrase": "stay positive",
+    "selectedSenseLabelKo": "긍정적으로 있다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Even when things get tough, she tries to stay positive and keep moving forward."
+  },
+  "step2": {
+    "story": "After failing his driving test for the second time, Jake felt discouraged. His sister reminded him to stay positive and focus on what he had learned. He booked another lesson and went back with a fresh attitude.",
+    "topicTag": "personal setback",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Maya had been job hunting for three months without a single offer. Every rejection email felt like a blow, and some mornings it was hard to get out of bed. Her mentor called one evening and told her the most important thing she could do right now was to stay positive — not by ignoring reality, but by trusting that effort would eventually pay off. Maya started writing down one small win each day, even if it was just sending a well-crafted cover letter. Slowly, her energy returned. A week later, she landed an interview that changed everything.",
+    "topicTag": "job search",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "긍정적인 상태를 유지하다.",
+    "realUsageKo": "어려운 상황에서도 낙관적인 마음가짐을 잃지 않고 버텨나갈 때 사용한다. 일상적인 격려 표현으로도 자주 쓰인다.",
+    "etymologyKo": "'Stay'는 고대 프랑스어 'ester(서 있다)'에서 유래해 '어떤 상태를 유지하다'는 의미를 가지며, 'positive'는 라틴어 'positivus(확실히 정해진)'에서 나와 현대 영어에서 '긍정적인'을 뜻하게 되었다.",
+    "nuanceKo": "단순한 낙천주의보다는 의지적인 노력이 담긴 표현으로, 힘든 상황을 인정하면서도 태도를 유지하겠다는 뉘앙스를 준다.",
+    "shortExampleEn": "It's hard, but try to stay positive — things will improve.",
+    "shortExampleKo": "힘들겠지만 긍정적으로 있으려고 해봐 — 상황이 나아질 거야."
+  }
+}

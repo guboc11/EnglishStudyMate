@@ -1,0 +1,30 @@
+{
+  "id": "catch-up-on-sleep_d1e9ea8f",
+  "expression": "catch up on sleep",
+  "selectionMeta": {
+    "selectedPhrase": "catch up on sleep",
+    "selectedSenseLabelKo": "부족한 잠을 보충하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After a hectic week of deadlines, she finally got to catch up on sleep over the long weekend."
+  },
+  "step2": {
+    "story": "Mark had been pulling late nights at the office all month and barely got six hours of sleep total. When Friday finally arrived, he turned off his alarm and let himself catch up on sleep well into the afternoon. He woke up feeling refreshed for the first time in weeks.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The conference had kept Priya busy for four straight days — early panels, networking dinners, and late-night preparation sessions had left her running on caffeine and willpower alone. On the flight home, she reclined her seat and drifted off, determined to catch up on sleep before the week started again. She slept through most of the journey and stumbled off the plane feeling almost human. Back at her apartment, she drew the curtains, silenced her phone, and slipped into bed for another long stretch. When she finally surfaced Sunday afternoon, the headache behind her eyes had vanished and the world felt manageable once more.",
+    "topicTag": "travel fatigue",
+    "moodTag": "recovering"
+  },
+  "meaning": {
+    "literalMeaningKo": "뒤처진 잠을 따라잡다, 즉 부족했던 수면을 나중에 보충하다.",
+    "realUsageKo": "바쁜 일정이나 스트레스로 수면이 부족했을 때 휴일이나 여유 있는 시간에 충분히 자서 피로를 회복하는 상황에 씁니다. '밀린 잠을 자다'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "'catch up'은 '뒤처진 것을 따라잡다'는 의미로, 'catch up on'은 밀린 일·뉴스·잠 등 부족한 무언가를 보충할 때 씁니다. 19세기 영어에서 일반화된 표현입니다.",
+    "nuanceKo": "다소 구어적이며 일상적인 맥락에서 자주 쓰입니다. 의무나 압박감 없이 자연스럽게 쉰다는 여유로운 느낌을 줍니다.",
+    "shortExampleEn": "I'm planning to catch up on sleep this Saturday.",
+    "shortExampleKo": "이번 토요일에 밀린 잠을 좀 자려고 해."
+  }
+}

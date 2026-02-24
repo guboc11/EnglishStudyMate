@@ -1,0 +1,30 @@
+{
+  "id": "build-a-habit_bca117cb",
+  "expression": "build a habit",
+  "selectionMeta": {
+    "selectedPhrase": "build a habit",
+    "selectedSenseLabelKo": "습관을 만들다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to build a habit of reading for thirty minutes every morning before checking her phone."
+  },
+  "step2": {
+    "story": "Marcus wanted to build a habit of exercising regularly, so he started with just ten minutes of walking each day. Within a month, those short walks had grown into hour-long runs that he genuinely looked forward to.",
+    "topicTag": "personal growth",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "After years of feeling scattered and unproductive, Priya finally decided to build a habit of journaling every evening before bed. She bought a simple notebook and set it on her pillow so she would not forget. At first, she only managed a sentence or two, but slowly the words began to flow more easily. Three months later, she found herself writing pages every night, processing her thoughts and setting intentions for the next day. The habit had quietly transformed not just her evenings, but her entire sense of clarity and calm. She realized that small, consistent actions, repeated daily, could change a person from the inside out.",
+    "topicTag": "mindfulness",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'습관을 쌓다' 또는 '습관을 만들다'는 뜻으로, 어떤 행동을 반복해서 자연스러운 일과로 만드는 과정을 의미한다.",
+    "realUsageKo": "특정 행동을 의도적으로 꾸준히 반복하여 습관으로 정착시키는 상황에서 사용된다. 주로 건강, 자기계발, 생산성 향상과 관련된 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'build'는 '짓다, 쌓다'는 의미의 고대 영어 'byldan'에서 유래했으며, 'habit'은 라틴어 'habitus(상태, 습성)'에서 온 말이다. 두 단어가 합쳐져 습관을 마치 구조물처럼 차근차근 쌓아간다는 이미지를 형성한다.",
+    "nuanceKo": "단순히 습관이 생겼다기보다 의지와 노력을 들여 능동적으로 만들어간다는 뉘앙스가 강하다. 'form a habit'보다 더 적극적이고 목표 지향적인 느낌을 준다.",
+    "shortExampleEn": "It takes time and consistency to build a habit that actually sticks.",
+    "shortExampleKo": "실제로 자리 잡는 습관을 만들려면 시간과 꾸준함이 필요하다."
+  }
+}

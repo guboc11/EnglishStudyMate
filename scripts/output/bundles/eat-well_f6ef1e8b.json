@@ -1,0 +1,30 @@
+{
+  "id": "eat-well_f6ef1e8b",
+  "expression": "eat well",
+  "selectionMeta": {
+    "selectedPhrase": "eat well",
+    "selectedSenseLabelKo": "잘 먹다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "My doctor reminded me to eat well and stay hydrated during my recovery."
+  },
+  "step2": {
+    "story": "After weeks of skipping meals due to a busy schedule, Mia finally decided to eat well. She started meal prepping on Sundays and noticed her energy levels improving within days.",
+    "topicTag": "healthy habits",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Tom had always grabbed fast food between meetings, barely tasting what he ate. But after a routine checkup, his doctor urged him to eat well and pay attention to his nutrition. He started small — a salad here, a home-cooked meal there. Within a month, he felt sharper at work and slept better at night. His colleagues noticed the change in his mood and asked what his secret was. He just smiled and said, 'I finally learned to eat well.'",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "좋은 음식을 충분히, 균형 있게 먹다.",
+    "realUsageKo": "건강에 좋은 음식을 규칙적으로 섭취하는 습관을 가리킬 때 주로 사용하며, 식사를 거르지 않고 영양 균형을 맞추는 행동을 포함한다.",
+    "etymologyKo": "'eat'는 고대 영어 'etan'에서 유래하였고, 'well'은 고대 영어 'wel'에서 파생되어 '충분히, 제대로'를 의미한다. 두 단어가 결합해 '제대로 먹다'라는 뜻을 갖게 되었다.",
+    "nuanceKo": "단순히 많이 먹는다는 의미가 아니라, 영양적으로 균형 잡힌 식사를 한다는 긍정적인 뉘앙스를 지닌다. 건강 관리나 자기 돌봄의 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "She makes sure her kids eat well every morning before school.",
+    "shortExampleKo": "그녀는 아이들이 학교 가기 전 매일 아침 잘 먹도록 신경 쓴다."
+  }
+}

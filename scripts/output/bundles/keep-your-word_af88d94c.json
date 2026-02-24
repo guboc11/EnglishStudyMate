@@ -1,0 +1,30 @@
+{
+  "id": "keep-your-word_af88d94c",
+  "expression": "keep your word",
+  "selectionMeta": {
+    "selectedPhrase": "keep your word",
+    "selectedSenseLabelKo": "약속을 지키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He promised to help her move on Saturday, and he kept his word despite the rain."
+  },
+  "step2": {
+    "story": "Maya had promised her younger sister a trip to the amusement park after her finals. Even though work piled up that week, she kept her word and took the day off. Her sister's smile made every sacrifice worthwhile.",
+    "topicTag": "family bond",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "When Daniel first joined the small startup, the CEO made him a simple promise: if the product launched on time, everyone would get a bonus. Months passed, and the team worked through late nights and weekends, trusting that promise would hold. Launch day finally came, and by noon the app was live with a flawless rollout. Some employees quietly wondered if the CEO would find a reason to back out. But at the all-hands meeting that Friday, he announced the bonuses without hesitation. He had kept his word, and in doing so, earned the team's loyalty for years to come.",
+    "topicTag": "workplace trust",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 말(word)을 지키다(keep), 즉 한 번 한 말이나 약속을 실행한다는 의미입니다.",
+    "realUsageKo": "어떤 사람이 약속이나 다짐을 실제로 이행했을 때 사용합니다. 신뢰성이나 성실함을 강조하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'word'는 고대 영어 'word'에서 유래했으며 '말, 약속'을 뜻합니다. 'keep'은 '보유하다, 유지하다'의 의미로, 두 단어가 결합해 '한 말을 끝까지 유지한다'는 뜻이 되었습니다.",
+    "nuanceKo": "단순히 약속을 지킨다는 사실보다 그 사람의 신뢰성과 인격을 부각하는 표현입니다. 특히 어려운 상황에서도 약속을 이행할 때 긍정적인 뉘앙스가 강하게 드러납니다.",
+    "shortExampleEn": "She always keeps her word, so I never worry when she makes a promise.",
+    "shortExampleKo": "그녀는 항상 약속을 지키기 때문에, 그녀가 약속을 할 때 나는 전혀 걱정하지 않는다."
+  }
+}

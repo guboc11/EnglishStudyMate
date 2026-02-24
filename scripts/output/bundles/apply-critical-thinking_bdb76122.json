@@ -1,0 +1,30 @@
+{
+  "id": "apply-critical-thinking_bdb76122",
+  "expression": "apply critical thinking",
+  "selectionMeta": {
+    "selectedPhrase": "apply critical thinking",
+    "selectedSenseLabelKo": "비판적 사고를 적용하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before accepting the report's conclusions, she decided to apply critical thinking and examine each data point independently."
+  },
+  "step2": {
+    "story": "The manager handed the team a proposal that looked impressive on the surface. 'Don't just accept it,' she said. 'Apply critical thinking and question every assumption.' By the end of the meeting, they had found three major flaws in the plan.",
+    "topicTag": "workplace decision-making",
+    "moodTag": "analytical"
+  },
+  "step3": {
+    "story": "Jake had always trusted popular opinion, rarely pausing to question what he read online. But after taking a logic course in college, he learned to apply critical thinking to every claim he encountered. One evening, a viral article told him that a new supplement could cure fatigue in days. Instead of sharing it immediately, he searched for peer-reviewed studies and checked the sources. He found that the article was based on a single, unverified testimonial. From that point on, Jake made it a habit to slow down, ask hard questions, and evaluate evidence before forming any conclusion.",
+    "topicTag": "media literacy",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "비판적 사고를 어떤 상황이나 문제에 실제로 적용하고 활용하다.",
+    "realUsageKo": "정보나 주장을 무조건 받아들이지 않고 논리적으로 분석하고 검토하는 행위를 나타낼 때 사용한다. 학문적 글쓰기, 직장, 일상적 대화에서 모두 쓰인다.",
+    "etymologyKo": "'Apply'는 라틴어 'applicare(붙이다, 연결하다)'에서 왔고, 'critical'은 그리스어 'kritikos(판단할 수 있는)'에서 유래했다. 'Critical thinking'은 20세기 교육학에서 논리적 추론 능력을 강조하며 정립된 개념이다.",
+    "nuanceKo": "단순한 회의주의가 아닌 체계적이고 건설적인 분석 태도를 강조한다. 학술적·전문적 맥락에서 긍정적인 능력으로 평가받는다.",
+    "shortExampleEn": "You need to apply critical thinking when evaluating news from unfamiliar sources.",
+    "shortExampleKo": "낯선 출처의 뉴스를 평가할 때는 비판적 사고를 적용해야 한다."
+  }
+}

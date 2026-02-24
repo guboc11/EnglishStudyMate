@@ -1,0 +1,30 @@
+{
+  "id": "build-a-portfolio_97c4e76f",
+  "expression": "build a portfolio",
+  "selectionMeta": {
+    "selectedPhrase": "build a portfolio",
+    "selectedSenseLabelKo": "포트폴리오를 쌓다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She spent her evenings working on freelance projects to build a portfolio before applying for her first design job."
+  },
+  "step2": {
+    "story": "After graduating, Marcus knew he needed to build a portfolio before any agency would take him seriously. He took on small projects for local businesses, documenting every piece of work meticulously. Within six months, he had enough to land his first interview.",
+    "topicTag": "career development",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Yuna had just finished her coding bootcamp and faced the classic catch-22: every job required experience, but she needed a job to get experience. Her mentor advised her to build a portfolio by contributing to open-source projects and creating her own apps. She spent the next three months building a weather dashboard, a task manager, and a personal finance tracker. Each project stretched her skills further and gave her real code to show employers. When she finally sent out applications, her portfolio link stood out in every cover letter. Two weeks later, she received her first offer.",
+    "topicTag": "job search",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 작업물이나 프로젝트를 모아 포트폴리오를 구축하다.",
+    "realUsageKo": "취업이나 프리랜서 활동을 위해 자신의 능력을 증명하는 작업 모음집을 만드는 과정을 말하며, 디자인·개발·금융 등 다양한 분야에서 쓰인다.",
+    "etymologyKo": "'portfolio'는 이탈리아어 'portafoglio'(서류를 넣는 가방)에서 유래했으며, 현대 비즈니스에서는 자신의 작업물이나 투자 자산 모음을 의미하게 됐다.",
+    "nuanceKo": "단순히 파일을 모은다는 뜻보다는 전략적으로 자신의 역량을 증명하는 컬렉션을 '쌓아간다'는 뉘앙스가 강하며, 취업 준비나 커리어 전환 맥락에서 자주 사용된다.",
+    "shortExampleEn": "He took on pro bono work to build a portfolio and attract paying clients.",
+    "shortExampleKo": "그는 유료 고객을 유치하기 위해 포트폴리오를 쌓으려고 재능 기부 작업을 맡았다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "stay-motivated_950df4b5",
+  "expression": "stay motivated",
+  "selectionMeta": {
+    "selectedPhrase": "stay motivated",
+    "selectedSenseLabelKo": "동기를 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It can be hard to stay motivated when you don't see results right away, but consistency is what separates those who succeed from those who quit."
+  },
+  "step2": {
+    "story": "Maya had been training for a marathon for three months, but a rainy week kept her off the roads. She reminded herself why she started and found small ways to stay motivated — tracking her mileage, rewarding each milestone. By Sunday, she laced up her shoes and ran her longest distance yet.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After six months at his new job, Daniel felt the initial excitement wearing thin. The projects had become routine, and he struggled to stay motivated through the long afternoons. He started keeping a small journal, jotting down one win each day — a problem solved, a compliment from a colleague, a line of code that finally worked. Slowly, he rediscovered a sense of purpose in the details he had been overlooking. His manager noticed the change and offered him a stretch assignment that reignited his drive. Daniel realized that staying motivated wasn't about constant passion, but about choosing to find meaning every single day.",
+    "topicTag": "work and career",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stay'(유지하다)와 'motivated'(동기 부여된)의 결합으로, 동기 부여된 상태를 지속적으로 유지하다는 의미입니다.",
+    "realUsageKo": "목표를 향해 나아가는 과정에서 열정이나 의지가 꺾이지 않도록 스스로를 다잡을 때 사용합니다. 공부, 운동, 직장 생활 등 다양한 맥락에서 폭넓게 쓰입니다.",
+    "etymologyKo": "'motivate'는 라틴어 'movere'(움직이다)에서 유래했으며, '행동하게 만드는 힘'을 뜻합니다. 'stay'와 결합해 그 힘을 지속적으로 유지하는 뉘앙스를 강조합니다.",
+    "nuanceKo": "단순히 동기가 있다는 것보다 어려운 상황에서도 그것을 잃지 않으려는 의지와 노력이 담긴 표현입니다. 격려나 자기 다짐의 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "Listening to podcasts during my commute helps me stay motivated throughout the week.",
+    "shortExampleKo": "출퇴근 시간에 팟캐스트를 들으면 한 주 내내 동기를 유지하는 데 도움이 됩니다."
+  }
+}

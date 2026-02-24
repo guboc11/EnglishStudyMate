@@ -1,0 +1,30 @@
+{
+  "id": "walk-the-talk_d1792ac0",
+  "expression": "walk the talk",
+  "selectionMeta": {
+    "selectedPhrase": "walk the talk",
+    "selectedSenseLabelKo": "말과 행동을 일치시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you claim to care about the environment, you need to walk the talk and actually reduce your plastic use."
+  },
+  "step2": {
+    "story": "The new manager kept telling the team to embrace a healthy work-life balance, but he always stayed late and sent emails on weekends. One day, a team member said quietly, 'We'd believe it more if you walked the talk.' He paused, nodded, and left the office at five o'clock that evening.",
+    "topicTag": "workplace culture",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Maya had built her startup around the idea of radical transparency—open salaries, no hidden meetings, honest feedback at every level. Investors praised her vision, but employees watched closely to see if she would walk the talk. When the first hard quarter came and revenue fell short, Maya gathered the entire team in one room and shared every number, every mistake, and every plan to recover. No spin, no sugarcoating. People expected panic, but instead they felt something rare: trust. From that day on, the culture she had only talked about became something everyone could actually feel.",
+    "topicTag": "leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "말한 대로 걷다, 즉 자신의 말을 행동으로 직접 보여주다.",
+    "realUsageKo": "주로 리더십·직장·사회적 맥락에서 '말만 하지 말고 실제로 행동으로 보여줘라'라는 뜻으로 쓰인다. 누군가가 주장하는 가치나 원칙을 본인 스스로 실천하고 있는지 묻거나 촉구할 때 사용한다.",
+    "etymologyKo": "'talk the talk, walk the walk'이라는 대구 표현에서 유래했으며, 1990년대 미국 비즈니스·스포츠 문화에서 특히 활성화됐다. 시간이 지나면서 'walk the talk'로 압축되어 더 간결하게 쓰이게 되었다.",
+    "nuanceKo": "도전적이거나 약간 비판적인 뉘앙스를 띨 수 있으며, 상대방이 행동보다 말이 앞선다는 뉘앙스를 내포하기도 한다. 반면 자기 자신에게 쓰거나 긍정적인 맥락에서는 '약속을 지키다', '솔선수범하다'는 의미로도 사용된다.",
+    "shortExampleEn": "She doesn't just talk about teamwork—she walks the talk by helping colleagues even when she's busy.",
+    "shortExampleKo": "그녀는 팀워크에 대해 말만 하는 게 아니라, 바쁠 때도 동료를 도움으로써 말과 행동을 일치시킨다."
+  }
+}

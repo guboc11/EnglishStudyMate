@@ -1,0 +1,30 @@
+{
+  "id": "never-give-up_053d52df",
+  "expression": "never give up",
+  "selectionMeta": {
+    "selectedPhrase": "never give up",
+    "selectedSenseLabelKo": "절대 포기하지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how many times she failed the exam, she told herself to never give up and kept studying every night."
+  },
+  "step2": {
+    "story": "After losing his job, Marcus felt completely defeated. But his mentor reminded him to never give up, even when the path forward seemed unclear. With renewed determination, he updated his resume and started reaching out to old contacts.",
+    "topicTag": "career setback",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sofia had been training for the marathon for six months, but on race day her legs gave out at mile eighteen. She sat on the curb, gasping, and nearly pulled out of the race entirely. Then she remembered her grandmother's voice telling her to never give up, no matter how hard things got. She stood up slowly, found her rhythm again, and pushed through the pain mile by mile. When she finally crossed the finish line, tears streamed down her face — not from exhaustion, but from the overwhelming realization that she had kept her promise to herself.",
+    "topicTag": "personal challenge",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로 '절대 포기하지 말라'는 뜻으로, 어떤 상황에서도 시도를 멈추지 않는 것을 의미한다.",
+    "realUsageKo": "어려운 상황에서 계속 노력하도록 자신이나 타인을 격려할 때 사용한다. 실패나 좌절을 겪은 후에도 다시 도전하는 태도를 강조하는 표현이다.",
+    "etymologyKo": "'give up'은 17세기 영어에서 '항복하다, 포기하다'는 의미로 정착되었으며, 'never'와 결합해 강한 부정과 의지를 나타내는 관용구로 굳어졌다.",
+    "nuanceKo": "응원이나 자기 다짐의 맥락에서 자주 쓰이며, 다소 진부하게 느껴질 수 있지만 진심 어린 격려의 말로 여전히 널리 통용된다.",
+    "shortExampleEn": "She told her son to never give up on his dreams, no matter how long it takes.",
+    "shortExampleKo": "그녀는 아들에게 꿈을 절대 포기하지 말라고, 시간이 얼마나 걸리든 상관없이 계속하라고 말했다."
+  }
+}

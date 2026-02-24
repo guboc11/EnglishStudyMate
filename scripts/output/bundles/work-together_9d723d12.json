@@ -1,0 +1,30 @@
+{
+  "id": "work-together_9d723d12",
+  "expression": "work together",
+  "selectionMeta": {
+    "selectedPhrase": "work together",
+    "selectedSenseLabelKo": "함께 일하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If we work together on this project, we can finish it much faster than working alone."
+  },
+  "step2": {
+    "story": "The two teams had always competed against each other, but this time they had to work together to meet the deadline. Slowly, they found a rhythm, and what once felt awkward became natural collaboration.",
+    "topicTag": "teamwork",
+    "moodTag": "cooperative"
+  },
+  "step3": {
+    "story": "When the hospital's IT system crashed the night before a major inspection, panic spread through the staff. The developers, nurses, and administrators decided to work together instead of pointing fingers. Each person contributed what they knew best — one wrote the fix, another tested it, and others manually recorded patient data in the meantime. By morning, the system was back online and every record was intact. The inspector arrived to find a team that had not just survived a crisis, but grown closer through it. Working together had turned a potential disaster into proof of what they were capable of.",
+    "topicTag": "crisis management",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 명 이상이 함께 일하다.",
+    "realUsageKo": "공동의 목표를 위해 협력하는 상황에서 널리 쓰이며, 직장, 학교, 일상 어디서나 자연스럽게 사용된다.",
+    "etymologyKo": "'work'는 고대 영어 'weorc'(행위, 노동)에서, 'together'는 고대 영어 'togædere'(함께, 같은 장소에)에서 유래했으며, 두 단어가 결합해 협력의 의미를 갖게 되었다.",
+    "nuanceKo": "단순한 공동 작업부터 깊은 협력까지 폭넓게 쓰이며, 갈등 해소나 팀 결속을 강조하는 맥락에서 특히 자주 등장한다.",
+    "shortExampleEn": "We need to work together if we want to solve this problem.",
+    "shortExampleKo": "이 문제를 해결하려면 우리가 함께 일해야 해."
+  }
+}

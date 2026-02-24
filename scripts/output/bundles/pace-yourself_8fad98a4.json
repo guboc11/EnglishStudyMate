@@ -1,0 +1,30 @@
+{
+  "id": "pace-yourself_8fad98a4",
+  "expression": "pace yourself",
+  "selectionMeta": {
+    "selectedPhrase": "pace yourself",
+    "selectedSenseLabelKo": "자신의 속도를 조절하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "You don't have to finish everything today — pace yourself so you don't burn out by the end of the week."
+  },
+  "step2": {
+    "story": "Maya had three major deadlines coming up, and she felt the urge to tackle them all at once. Her mentor pulled her aside and told her to pace herself — finishing one thing well was better than rushing through everything poorly. She took the advice and felt far less overwhelmed by Friday.",
+    "topicTag": "work stress",
+    "moodTag": "reassured"
+  },
+  "step3": {
+    "story": "The charity run was ten kilometers long, and Jake started out sprinting alongside the crowd. By the second kilometer, his lungs were burning and his legs felt like lead. An experienced runner jogged up beside him and said, 'Pace yourself — you've still got eight more to go.' Jake slowed to a steady rhythm, focusing on his breathing instead of the people passing him. Kilometer by kilometer, he found his stride and actually started overtaking others who had gone out too fast. He crossed the finish line tired but proud, grateful for the simple reminder.",
+    "topicTag": "running",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 속도(pace)를 스스로 조절하다.",
+    "realUsageKo": "신체적 활동이나 업무에서 처음부터 너무 무리하지 않고, 에너지를 균등하게 배분해 오래 지속할 수 있도록 스스로 속도를 조절할 때 사용한다.",
+    "etymologyKo": "'pace'는 라틴어 'passus(걸음)'에서 유래해 '속도·보폭'을 뜻하며, 'yourself'와 결합해 재귀적으로 '자신의 속도를 직접 관리하다'는 의미가 됐다.",
+    "nuanceKo": "조급함을 경계하고 지속 가능성을 강조하는 긍정적·격려적 어감이 강하다. 주로 조언이나 코칭 상황에서 사용되며, 무리하는 상대방을 배려하는 뉘앙스가 담긴다.",
+    "shortExampleEn": "It's a long hike, so pace yourself and drink water regularly.",
+    "shortExampleKo": "긴 하이킹이니까 페이스를 조절하고 물을 꾸준히 마셔."
+  }
+}

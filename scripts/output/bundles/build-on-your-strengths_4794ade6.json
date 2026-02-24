@@ -1,0 +1,30 @@
+{
+  "id": "build-on-your-strengths_4794ade6",
+  "expression": "build on your strengths",
+  "selectionMeta": {
+    "selectedPhrase": "build on your strengths",
+    "selectedSenseLabelKo": "강점을 바탕으로 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of trying to fix every weakness at once, the coach encouraged her to build on your strengths and let those carry the team forward."
+  },
+  "step2": {
+    "story": "Marcus had always been a natural communicator, yet he spent months trying to become a data analyst to impress his manager. His mentor pulled him aside and said, 'Build on your strengths—your ability to explain complex ideas is rare.' Marcus shifted his focus and within a quarter became the team's most valuable presenter.",
+    "topicTag": "career growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "Elena sat staring at her performance review, circling every red mark with a heavy pen. She had spent the entire year chasing skills she barely had, neglecting the creative instincts that had landed her the job in the first place. Her director noticed the slump and set up a one-on-one. 'You keep fighting your weaknesses,' he said gently, 'but the best thing you can do right now is build on your strengths.' He pointed to the client campaigns she had led, the ones that had gone viral on social media, and reminded her that nobody else on the team could replicate that spark. Elena put down the pen, reopened her portfolio, and began drafting a proposal that played entirely to what she did best. By the end of the next quarter, she had earned the company's highest client-satisfaction score.",
+    "topicTag": "self-development",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 강점 위에 무언가를 쌓아 올리다, 즉 이미 잘하는 것을 기반으로 더 발전시키다.",
+    "realUsageKo": "약점을 보완하는 데 집중하기보다 이미 뛰어난 능력을 더욱 강화하고 활용하라고 권할 때 쓴다. 커리어 조언, 코칭, 자기계발 맥락에서 자주 등장한다.",
+    "etymologyKo": "'build on'은 '~을 토대로 삼아 발전시키다'는 뜻의 구동사이며, 'strength'는 고대 영어 'strengþu'에서 유래해 힘·능력을 의미한다. 두 요소가 합쳐져 '기존 능력을 발판 삼아 성장하다'는 이미지를 만든다.",
+    "nuanceKo": "긍정적이고 실용적인 어조를 가지며, 자기 비하보다 자기 긍정을 촉구하는 뉘앙스가 강하다. 멘토나 리더가 격려할 때 자연스럽게 사용된다.",
+    "shortExampleEn": "The best career strategy is to build on your strengths rather than obsess over every gap.",
+    "shortExampleKo": "최고의 커리어 전략은 모든 약점에 집착하기보다 강점을 바탕으로 발전하는 것이다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "stay-disciplined_9729eb3d",
+  "expression": "stay disciplined",
+  "selectionMeta": {
+    "selectedPhrase": "stay disciplined",
+    "selectedSenseLabelKo": "자기 규율을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how tired she felt, she made it a point to stay disciplined and follow her morning routine every day."
+  },
+  "step2": {
+    "story": "Marcus had always struggled with procrastination, but this time he was determined to stay disciplined throughout the entire project. He blocked out distractions, set hourly goals, and refused to check his phone until each task was done. By the end of the week, he had finished ahead of schedule for the first time in his career.",
+    "topicTag": "productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After her injury, Priya's doctor told her recovery would take six months of strict physical therapy. It was painful and slow, and there were days when she wanted to quit. But she reminded herself that she had to stay disciplined if she ever wanted to compete again. She showed up to every session, even on the days she felt nothing was improving. Slowly, strength returned to her leg, and her confidence followed. Eight months later, she crossed the finish line at her first race back — and she knew the discipline had made all the difference.",
+    "topicTag": "recovery and resilience",
+    "moodTag": "persevering"
+  },
+  "meaning": {
+    "literalMeaningKo": "규율을 유지하다, 즉 자신이 세운 규칙이나 계획을 흔들리지 않고 지속적으로 따르다.",
+    "realUsageKo": "목표 달성을 위해 유혹이나 나태함을 극복하고 꾸준히 자기 관리를 이어가는 상황에서 사용된다. 운동, 학습, 직업적 목표 등 자기 절제가 요구되는 모든 맥락에 쓰인다.",
+    "etymologyKo": "'discipline'은 라틴어 'disciplina(가르침, 훈련)'에서 유래했으며, 'discipulus(학생, 제자)'와 같은 어원을 공유한다. 시간이 지나면서 외부적 훈련에서 내면적 자기 통제의 의미로 확장되었다.",
+    "nuanceKo": "단순히 규칙을 따른다는 뜻을 넘어, 어려움 속에서도 자신을 통제하며 목표를 향해 나아간다는 의지와 노력의 뉘앙스가 강하다. 긍정적이고 의욕적인 맥락에서 주로 쓰인다.",
+    "shortExampleEn": "You need to stay disciplined if you want to reach your fitness goals.",
+    "shortExampleKo": "체력 목표를 달성하려면 자기 규율을 유지해야 한다."
+  }
+}

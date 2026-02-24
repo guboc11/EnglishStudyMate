@@ -1,0 +1,30 @@
+{
+  "id": "have-a-strong-work-ethic_d91412b7",
+  "expression": "have a strong work ethic",
+  "selectionMeta": {
+    "selectedPhrase": "have a strong work ethic",
+    "selectedSenseLabelKo": "강한 직업 윤리를 갖다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She was promoted quickly because she has a strong work ethic and always delivers results ahead of schedule."
+  },
+  "step2": {
+    "story": "Marcus arrived at the office before anyone else and stayed late to finish the quarterly report. His colleagues often said he has a strong work ethic, and his manager trusted him with the most demanding projects. That dedication eventually earned him the team lead position.",
+    "topicTag": "workplace dedication",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "From her first day at the firm, Priya made it clear she was not there to coast. She volunteered for extra assignments, asked thoughtful questions, and never left a task half-finished. Her mentor pulled her aside one afternoon and said, 'You have a strong work ethic — that is rare and it will take you far.' Priya smiled, grateful for the recognition but already thinking about the presentation she needed to polish before morning. Years later, as a senior director, she would pass those same words on to every new hire who reminded her of her younger self.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "일에 대한 강한 윤리 의식, 즉 성실하고 책임감 있게 일하는 태도를 갖고 있다는 뜻이다.",
+    "realUsageKo": "직장이나 학업 환경에서 누군가가 열심히 일하고, 책임감이 강하며, 게으름 없이 꾸준히 노력하는 성향을 묘사할 때 사용한다. 주로 긍정적인 평가나 칭찬의 맥락에서 쓰인다.",
+    "etymologyKo": "'work ethic'은 17세기 개신교 사상에서 비롯된 개념으로, 근면한 노동 자체를 도덕적 덕목으로 보는 가치관에서 유래했다. 막스 베버의 저서 《프로테스탄트 윤리와 자본주의 정신》이 이 개념을 널리 알렸다.",
+    "nuanceKo": "단순히 '열심히 일한다'는 표현보다 훨씬 강한 인상을 주며, 그 사람의 성격과 가치관까지 함께 평가하는 뉘앙스가 있다. 면접이나 추천서처럼 공식적인 맥락에서도 자주 사용된다.",
+    "shortExampleEn": "Hiring managers always look for candidates who have a strong work ethic.",
+    "shortExampleKo": "채용 담당자들은 항상 강한 직업 윤리를 가진 지원자를 찾는다."
+  }
+}

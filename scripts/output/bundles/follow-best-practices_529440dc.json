@@ -1,0 +1,30 @@
+{
+  "id": "follow-best-practices_529440dc",
+  "expression": "follow best practices",
+  "selectionMeta": {
+    "selectedPhrase": "follow best practices",
+    "selectedSenseLabelKo": "최선의 방법을 따르다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "Our team decided to follow best practices when writing unit tests to ensure the codebase remains maintainable and bug-free."
+  },
+  "step2": {
+    "story": "The senior developer reminded the new hire to always follow best practices when pushing code to the main branch. She explained that clean commits and thorough code reviews were non-negotiable on their team.",
+    "topicTag": "software development",
+    "moodTag": "professional"
+  },
+  "step3": {
+    "story": "During the sprint retrospective, the engineering lead pulled up a list of recurring bugs that had slipped into production over the past month. Most of them traced back to rushed pull requests where developers had cut corners. 'If we follow best practices consistently,' she said, 'these issues simply don't happen.' She introduced a new checklist covering code review standards, test coverage thresholds, and documentation requirements. The team agreed to hold each other accountable, and by the next sprint the defect rate had dropped significantly.",
+    "topicTag": "engineering culture",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "'최선의 관행을 따르다'라는 뜻으로, 어떤 분야에서 가장 효과적이라고 검증된 방법을 준수한다는 의미다.",
+    "realUsageKo": "주로 소프트웨어 개발·보안·데이터 관리 등 기술 분야에서, 업계 표준이나 권장 절차를 따를 때 사용한다. 특정 규칙을 강요하기보다 전문가 집단이 합의한 방법론을 존중한다는 뉘앙스가 강하다.",
+    "etymologyKo": "'best practice'는 경영학에서 유래한 표현으로, 여러 방법 중 가장 효율적이고 신뢰할 수 있다고 입증된 방법을 가리킨다. 1990년대 이후 소프트웨어 공학 분야에 폭넓게 도입되었다.",
+    "nuanceKo": "단순히 규칙을 지킨다는 의미보다 전문성과 책임감을 내포하며, 팀이나 조직 전체의 품질 기준을 높이겠다는 의지를 나타낸다. 권고 사항이지 강제 사항이 아니라는 점에서 'comply with regulations'보다 부드러운 표현이다.",
+    "shortExampleEn": "Always follow best practices for database indexing to keep queries fast.",
+    "shortExampleKo": "쿼리 속도를 유지하려면 데이터베이스 인덱싱의 모범 사례를 항상 따르세요."
+  }
+}

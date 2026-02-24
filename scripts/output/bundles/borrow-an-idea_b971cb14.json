@@ -1,0 +1,30 @@
+{
+  "id": "borrow-an-idea_b971cb14",
+  "expression": "borrow an idea",
+  "selectionMeta": {
+    "selectedPhrase": "borrow an idea",
+    "selectedSenseLabelKo": "아이디어를 빌리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to borrow an idea from a competing brand's campaign and adapt it for her own product launch."
+  },
+  "step2": {
+    "story": "During the team meeting, Marcus admitted he wanted to borrow an idea from a TED Talk he had watched over the weekend. His manager smiled and said good ideas are meant to be shared and built upon.",
+    "topicTag": "workplace collaboration",
+    "moodTag": "open-minded"
+  },
+  "step3": {
+    "story": "Lena had been staring at a blank page for hours, trying to come up with a concept for the school festival. Frustrated, she flipped through her older brother's design portfolio and decided to borrow an idea she had seen there — a color-coded map guiding visitors through different activity zones. She adapted it to fit the school's layout, adding her own touches like illustrated mascots at each station. When she presented the plan to her classmates, they were immediately excited. Her teacher praised her resourcefulness, reminding the class that creativity often begins by borrowing an idea and making it your own.",
+    "topicTag": "creative problem-solving",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람의 아이디어를 가져다 쓰다.",
+    "realUsageKo": "남의 아이디어나 개념을 참고하거나 활용한다는 의미로, 완전한 복사가 아닌 영감을 받아 응용하는 상황에서 자주 쓰인다.",
+    "etymologyKo": "'borrow'는 고대 영어 'borgian'에서 유래했으며 원래 '담보를 잡고 빌리다'라는 뜻이었다. 시간이 지나며 물건뿐 아니라 언어·개념·스타일 등 무형의 것을 가져다 쓰는 행위로 의미가 확장되었다.",
+    "nuanceKo": "표절(plagiarism)과 달리 출처를 인정하거나 변형을 가하는 긍정적·중립적 뉘앙스가 강하다. 창의적 과정에서 자연스러운 참조 행위를 가리킬 때 사용된다.",
+    "shortExampleEn": "The startup decided to borrow an idea from Silicon Valley's agile methodology and apply it to their small team.",
+    "shortExampleKo": "그 스타트업은 실리콘밸리의 애자일 방법론에서 아이디어를 빌려 자신들의 소규모 팀에 적용하기로 했다."
+  }
+}

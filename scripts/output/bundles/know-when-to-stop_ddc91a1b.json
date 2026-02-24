@@ -1,0 +1,30 @@
+{
+  "id": "know-when-to-stop_ddc91a1b",
+  "expression": "know when to stop",
+  "selectionMeta": {
+    "selectedPhrase": "know when to stop",
+    "selectedSenseLabelKo": "멈출 때를 알다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A skilled negotiator knows when to stop pushing and let the other side come to an agreement on their own."
+  },
+  "step2": {
+    "story": "After hours of intense debate, Marcus finally knew when to stop and accepted that the group had reached a good enough decision. Pushing further would only create resentment, and he had learned that lesson the hard way before.",
+    "topicTag": "decision making",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Elena had been revising her novel for three years, tweaking sentences and rearranging chapters endlessly. Her editor called one afternoon and said quietly, 'You need to know when to stop — the book is ready.' At first Elena bristled, convinced there was always something more to fix. But when she read the manuscript that night with fresh eyes, she saw it: the story was alive and whole. She submitted it the next morning. Sometimes the hardest skill isn't starting — it's knowing when to stop.",
+    "topicTag": "creative work",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "언제 멈춰야 하는지 아는 것, 즉 적절한 중단 시점을 판단하는 능력을 뜻합니다.",
+    "realUsageKo": "과도하게 계속하기보다 적절한 타이밍에 행동을 멈추는 자제력이나 판단력을 칭찬하거나 조언할 때 씁니다. 협상, 작업, 논쟁 등 다양한 상황에서 사용됩니다.",
+    "etymologyKo": "'know'(알다)와 'when to stop'(언제 멈출지)의 결합으로, 멈춤의 시점을 아는 지혜를 강조하는 관용적 표현입니다. 영어에서 자제와 절제의 미덕을 표현하는 데 오래전부터 사용되어 왔습니다.",
+    "nuanceKo": "단순히 멈추는 것이 아니라 '적절한 타이밍'을 아는 지혜와 성숙함을 함께 함의합니다. 충고나 칭찬의 맥락 모두에서 쓰이며, 자기절제를 강조하는 긍정적인 뉘앙스를 가집니다.",
+    "shortExampleEn": "The best athletes know when to stop training and let their bodies recover.",
+    "shortExampleKo": "최고의 운동선수들은 언제 훈련을 멈추고 몸을 회복시켜야 할지 압니다."
+  }
+}

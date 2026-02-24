@@ -1,0 +1,30 @@
+{
+  "id": "visualize-success_cf0d30d6",
+  "expression": "visualize success",
+  "selectionMeta": {
+    "selectedPhrase": "visualize success",
+    "selectedSenseLabelKo": "성공을 시각화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before every performance, she takes a few minutes to visualize success, imagining herself delivering her lines with confidence."
+  },
+  "step2": {
+    "story": "The night before his marathon, Daniel sat quietly in his room and began to visualize success—seeing himself crossing the finish line strong. He had trained for months, but this mental ritual gave him an edge that physical preparation alone couldn't provide.",
+    "topicTag": "sports preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had applied for the lead engineer position three times before, and each time rejection had stung a little more. This time, she decided to do things differently. Every morning before work, she spent five minutes to visualize success: the handshake, the offer letter, the moment she'd call her mom with the news. Her mentor had told her that elite athletes use this technique, and she figured it couldn't hurt. When the interview day finally arrived, she walked in not just prepared but convinced—because in her mind, she had already been there a hundred times.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "성공하는 장면을 머릿속에서 생생하게 그려보다.",
+    "realUsageKo": "목표를 달성한 상황을 상상하며 동기를 높이거나 심리적 준비를 갖출 때 사용한다. 스포츠, 발표, 면접 등 결과가 중요한 상황 전에 자주 쓰인다.",
+    "etymologyKo": "'visualize'는 라틴어 'visus(보다)'에서 유래해 '마음속으로 시각화하다'는 뜻이며, 'success'는 라틴어 'succedere(뒤따라 오다, 잘 되다)'에서 비롯되었다.",
+    "nuanceKo": "단순한 희망이나 바람이 아니라, 의도적이고 구체적인 정신 훈련의 뉘앙스를 담고 있다. 자기계발·코칭 맥락에서 긍정적이고 능동적인 태도를 강조할 때 자주 등장한다.",
+    "shortExampleEn": "She closed her eyes and visualized success before stepping onto the stage.",
+    "shortExampleKo": "그녀는 무대에 오르기 전 눈을 감고 성공하는 모습을 머릿속에 그렸다."
+  }
+}

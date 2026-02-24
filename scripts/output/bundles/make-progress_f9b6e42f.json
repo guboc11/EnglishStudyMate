@@ -1,0 +1,30 @@
+{
+  "id": "make-progress_f9b6e42f",
+  "expression": "make progress",
+  "selectionMeta": {
+    "selectedPhrase": "make progress",
+    "selectedSenseLabelKo": "진전을 이루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of struggling with the project, the team finally started to make progress when they adopted a clearer workflow."
+  },
+  "step2": {
+    "story": "Lena had been learning Spanish for six months but felt stuck. One afternoon, she decided to stop memorizing vocabulary lists and instead watch Spanish films every day. Within weeks, she began to make progress in a way she never had before.",
+    "topicTag": "language learning",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "David sat at his desk staring at the half-finished business plan he had been working on for two months. Every time he sat down to write, his mind went blank and the hours slipped by with nothing to show. His mentor suggested breaking the plan into smaller sections and tackling just one per day. Reluctantly, David tried the approach, and by the end of the first week he was surprised to see how much he had written. For the first time in months, he felt like he was truly making progress. The goal that had seemed impossibly distant now felt within reach.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞으로 나아가다, 발전하다.",
+    "realUsageKo": "어떤 목표나 과제를 향해 점진적으로 나아가고 있음을 나타낼 때 사용한다. 학업, 업무, 개인 성장 등 다양한 상황에서 두루 쓰인다.",
+    "etymologyKo": "'progress'는 라틴어 'progressus'(앞으로 나아감)에서 유래했으며, 'pro-(앞으로)'와 'gradi(걷다)'가 결합된 말이다.",
+    "nuanceKo": "단순히 완료가 아닌 '과정 중의 발전'을 강조하는 표현으로, 꾸준한 노력과 긍정적인 변화의 흐름을 내포한다.",
+    "shortExampleEn": "We're making progress on the new feature, but it needs more testing.",
+    "shortExampleKo": "새 기능 작업에서 진전을 이루고 있지만, 아직 더 많은 테스트가 필요하다."
+  }
+}

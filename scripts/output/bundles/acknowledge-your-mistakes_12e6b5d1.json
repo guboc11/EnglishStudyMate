@@ -1,0 +1,30 @@
+{
+  "id": "acknowledge-your-mistakes_12e6b5d1",
+  "expression": "acknowledge your mistakes",
+  "selectionMeta": {
+    "selectedPhrase": "acknowledge your mistakes",
+    "selectedSenseLabelKo": "실수를 인정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The first step toward gaining your team's trust is to acknowledge your mistakes openly and move forward with a clear plan."
+  },
+  "step2": {
+    "story": "After the presentation went poorly, Sarah took a deep breath and acknowledged her mistakes in front of the entire team. Rather than making excuses, she explained what she would do differently next time. Her honesty earned her more respect than a flawless performance ever could.",
+    "topicTag": "workplace honesty",
+    "moodTag": "humble"
+  },
+  "step3": {
+    "story": "Daniel had been a manager for three years, but this was the first time a product launch had failed so publicly. He gathered his team in the conference room, his hands a little unsteady, and began to speak. 'I need to acknowledge my mistakes,' he said quietly. 'I pushed us to move too fast, and I didn't listen when some of you raised concerns.' The room was silent at first, then one by one his team members nodded. By owning the failure instead of deflecting it, Daniel opened the door to an honest conversation about what had gone wrong — and for the first time in weeks, the team felt like they were truly working together again.",
+    "topicTag": "leadership accountability",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 실수를 인정하다.",
+    "realUsageKo": "잘못이나 오류를 변명 없이 솔직하게 받아들이는 행동을 표현할 때 사용하며, 직장이나 대인관계에서 책임감 있는 태도를 강조할 때 자주 쓰인다.",
+    "etymologyKo": "'acknowledge'는 라틴어 'ad-(~을 향해)'와 고대 영어 'cnawan(알다)'에서 유래하여 '공식적으로 알고 있음을 밝히다'라는 의미를 가지게 되었다.",
+    "nuanceKo": "단순히 실수를 아는 것을 넘어 그것을 타인 앞에서 공개적으로 인정한다는 뉘앙스가 있어, 용기 있고 성숙한 행동으로 긍정적인 함의를 띠는 경우가 많다.",
+    "shortExampleEn": "It takes courage to acknowledge your mistakes and apologize sincerely.",
+    "shortExampleKo": "실수를 인정하고 진심으로 사과하려면 용기가 필요하다."
+  }
+}

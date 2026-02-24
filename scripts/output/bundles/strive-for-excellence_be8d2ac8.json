@@ -1,0 +1,30 @@
+{
+  "id": "strive-for-excellence_be8d2ac8",
+  "expression": "strive for excellence",
+  "selectionMeta": {
+    "selectedPhrase": "strive for excellence",
+    "selectedSenseLabelKo": "우수함을 추구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how talented you are, you must always strive for excellence if you want to stand out in a competitive field."
+  },
+  "step2": {
+    "story": "Every morning, Mia arrived at the studio an hour before anyone else. She believed that to truly strive for excellence, you had to be willing to put in the work others weren't. Over time, her dedication transformed her from a struggling designer into one the agency's most respected voices.",
+    "topicTag": "professional growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel joined the research lab fresh out of university, he was surrounded by scientists who had spent decades in the field. Rather than feeling intimidated, he used their expertise as a benchmark and committed himself to strive for excellence in every experiment he ran. He documented every failure carefully, treating each one as a lesson rather than a setback. Colleagues began to notice how methodically he refined his work, never settling for results that were merely good enough. Within two years, Daniel had co-authored a paper that earned recognition at an international conference. His journey reminded everyone in the lab that greatness is not a gift but a practice.",
+    "topicTag": "scientific ambition",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "탁월함(우수함)을 향해 끊임없이 노력하다.",
+    "realUsageKo": "단순히 잘하는 것을 넘어 최고 수준을 목표로 꾸준히 노력하는 태도를 표현할 때 사용된다. 직장, 학업, 스포츠 등 다양한 맥락에서 자기계발 의지를 강조하는 표현이다.",
+    "etymologyKo": "'strive'는 고대 프랑스어 'estriver(분투하다)'에서 유래했으며, 'excellence'는 라틴어 'excellentia(탁월함)'에서 파생되었다. 두 단어가 결합해 '탁월함을 향한 지속적인 노력'이라는 의미를 형성했다.",
+    "nuanceKo": "단순한 성공 추구보다 과정과 태도를 강조하는 표현으로, 결과보다 꾸준한 노력과 높은 기준 유지를 중시하는 뉘앙스를 담고 있다. 자기 동기부여나 팀 문화를 설명할 때 자주 쓰인다.",
+    "shortExampleEn": "Our team is committed to striving for excellence in every project we deliver.",
+    "shortExampleKo": "우리 팀은 모든 프로젝트에서 우수함을 추구하기 위해 최선을 다하고 있습니다."
+  }
+}

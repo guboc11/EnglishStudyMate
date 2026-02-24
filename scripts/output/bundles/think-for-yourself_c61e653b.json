@@ -1,0 +1,30 @@
+{
+  "id": "think-for-yourself_c61e653b",
+  "expression": "think for yourself",
+  "selectionMeta": {
+    "selectedPhrase": "think for yourself",
+    "selectedSenseLabelKo": "스스로 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of just following what everyone else says, you need to think for yourself and form your own opinion."
+  },
+  "step2": {
+    "story": "Maya had always done whatever her friends suggested, from which movies to watch to which career to pursue. One day, her mentor pulled her aside and said, 'You're smart enough to think for yourself.' From that moment, Maya started questioning assumptions and making choices that truly felt like her own.",
+    "topicTag": "personal growth",
+    "moodTag": "empowering"
+  },
+  "step3": {
+    "story": "Growing up, Daniel had always looked to his older brother for answers about everything — what to study, where to work, even who to spend time with. When his brother moved abroad, Daniel felt lost without that guiding voice. His first week alone, he sat in a coffee shop staring at a blank notebook, unsure what he even wanted. Then a stranger at the next table smiled and said, 'The best advice I ever got was to think for yourself — the answers are already in there.' Daniel picked up his pen and slowly, for the first time, began to write his own story.",
+    "topicTag": "independence",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "다른 사람의 의견에 의존하지 않고 스스로 생각하다.",
+    "realUsageKo": "누군가에게 남의 말을 맹목적으로 따르지 말고 자신의 판단과 의견을 갖도록 촉구할 때 사용한다. 독립적인 사고와 자주성을 강조하는 표현이다.",
+    "etymologyKo": "'think'와 재귀 표현 'for yourself'가 결합된 구조로, 'for yourself'는 '당신 자신을 위해' 또는 '스스로'라는 의미를 지니며, 타인이 아닌 자기 자신의 이익과 판단에 따라 행동함을 나타낸다.",
+    "nuanceKo": "주로 격려하거나 독립심을 촉구하는 맥락에서 쓰이며, 때로는 타인의 영향력이나 집단 사고에 대한 가벼운 비판을 함축하기도 한다. 명령문으로 쓰이면 강한 권고의 뉘앙스가 된다.",
+    "shortExampleEn": "Don't just believe everything you read — think for yourself.",
+    "shortExampleKo": "읽는 것을 무조건 믿지 말고 — 스스로 생각하세요."
+  }
+}

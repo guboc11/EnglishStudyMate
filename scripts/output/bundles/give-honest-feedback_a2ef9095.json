@@ -1,0 +1,30 @@
+{
+  "id": "give-honest-feedback_a2ef9095",
+  "expression": "give honest feedback",
+  "selectionMeta": {
+    "selectedPhrase": "give honest feedback",
+    "selectedSenseLabelKo": "솔직한 피드백을 주다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She asked her mentor to give honest feedback on her presentation before she delivered it to the board."
+  },
+  "step2": {
+    "story": "After the team reviewed the new product prototype, the manager encouraged everyone to give honest feedback rather than just saying what sounded polite. One engineer pointed out a critical flaw in the design that others had noticed but hadn't mentioned. Because of that candid input, they caught the issue early and saved weeks of rework.",
+    "topicTag": "product review",
+    "moodTag": "constructive"
+  },
+  "step3": {
+    "story": "David had spent three weeks building the marketing campaign from scratch, and he was proud of every detail. When his director asked the team to give honest feedback during the review meeting, there was an uncomfortable silence. Finally, a colleague spoke up and said the messaging didn't clearly address the target audience's main pain points. David felt a sting of disappointment, but he took a breath and listened carefully. By the end of the session, he had a full page of notes and a much clearer direction. He later thanked his colleague, realizing that honest feedback had turned a good idea into a genuinely strong campaign.",
+    "topicTag": "workplace communication",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "상대방에게 꾸밈없이 솔직한 의견이나 평가를 전달하다.",
+    "realUsageKo": "직장이나 팀 환경에서 상대방의 성장을 돕기 위해 불편하더라도 진실된 의견을 말할 때 사용한다. 단순한 칭찬이 아닌 개선점까지 포함한 실질적인 평가를 의미한다.",
+    "etymologyKo": "'Honest'는 라틴어 'honestus(명예로운, 품위 있는)'에서 유래했으며, 'feedback'은 20세기 중반 엔지니어링 용어에서 비롯되어 '결과를 원인에 되돌려 주는 것'을 뜻하다가 일반적인 의견 제공의 의미로 확장되었다.",
+    "nuanceKo": "단순히 비판하는 것이 아니라 상대를 배려하면서도 진실을 말한다는 뉘앙스를 담고 있다. 'blunt feedback(무뚝뚝한 피드백)'보다 따뜻하고, 'vague feedback(모호한 피드백)'보다 용기 있는 표현으로 느껴진다.",
+    "shortExampleEn": "I always ask my closest colleagues to give honest feedback on my reports before I submit them.",
+    "shortExampleKo": "나는 보고서를 제출하기 전에 가까운 동료들에게 항상 솔직한 피드백을 달라고 부탁한다."
+  }
+}

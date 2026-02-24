@@ -1,0 +1,30 @@
+{
+  "id": "rise-to-the-occasion_6409f745",
+  "expression": "rise to the occasion",
+  "selectionMeta": {
+    "selectedPhrase": "rise to the occasion",
+    "selectedSenseLabelKo": "상황에 맞게 역량을 발휘하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the lead singer fell ill backstage, the understudy stepped forward and truly rose to the occasion, delivering a flawless performance that left the audience in awe."
+  },
+  "step2": {
+    "story": "The team had never handled a crisis of this scale before, but their manager urged them to rise to the occasion. They worked through the night, pooling every skill they had, and delivered a solution that saved the entire project.",
+    "topicTag": "team challenge",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Sofia had always been the quietest person in the department, content to follow rather than lead. But when her supervisor was rushed to the hospital the morning of the biggest client presentation of the year, everyone turned to her. She took a slow breath, gathered her notes, and walked into the boardroom. She rose to the occasion with a calm confidence no one had seen from her before, fielding every tough question with clarity and poise. By the time she wrapped up, the clients were impressed, and her colleagues looked at her with a new kind of respect.",
+    "topicTag": "unexpected leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '어떤 사건이나 상황을 향해 올라서다'라는 뜻이다.",
+    "realUsageKo": "실제로는 어렵거나 중요한 상황에서 기대 이상의 능력을 발휘하거나 책임을 훌륭하게 해내는 것을 의미한다. 주로 위기, 도전, 중요한 순간에 쓰인다.",
+    "etymologyKo": "19세기 영어에서 등장한 표현으로, 'occasion'은 '특별한 사건이나 기회'를 뜻하며, 그 상황의 높이(수준)에 맞게 '올라선다(rise)'는 이미지에서 비롯되었다.",
+    "nuanceKo": "단순히 일을 해냈다는 것이 아니라, 어려운 상황에서 예상보다 더 잘해냈다는 칭찬과 감탄의 뉘앙스가 강하다. 격식체와 일상 표현 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "Despite having no prior experience, she rose to the occasion and led the rescue operation flawlessly.",
+    "shortExampleKo": "이전 경험이 전혀 없었음에도 불구하고, 그녀는 상황에 맞게 역량을 발휘하여 구조 작전을 완벽하게 이끌었다."
+  }
+}

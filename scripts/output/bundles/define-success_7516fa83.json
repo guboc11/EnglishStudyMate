@@ -1,0 +1,30 @@
+{
+  "id": "define-success_7516fa83",
+  "expression": "define success",
+  "selectionMeta": {
+    "selectedPhrase": "define success",
+    "selectedSenseLabelKo": "성공을 정의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before chasing promotions, she took time to define success on her own terms rather than following society's expectations."
+  },
+  "step2": {
+    "story": "After years of climbing the corporate ladder, Marcus finally sat down to define success for himself. He realized that money and titles meant little if he spent no time with his family. From that moment, his priorities shifted completely.",
+    "topicTag": "personal values",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "During her graduation speech, the professor asked every student to define success before the decade was out. At first, the room buzzed with answers about salaries, corner offices, and prestigious titles. But she pressed further, asking whether those definitions would still feel meaningful after a loss or a setback. One student in the back row slowly put down his pen and stared out the window, visibly unsettled. By the end of the talk, the auditorium was quiet with the kind of silence that only comes when people are thinking hard. Walking out, many students felt that truly defining success was the most important assignment they had ever been given.",
+    "topicTag": "life goals",
+    "moodTag": "thought-provoking"
+  },
+  "meaning": {
+    "literalMeaningKo": "'성공'이 무엇인지 명확하게 규정하거나 기준을 세운다는 뜻이다.",
+    "realUsageKo": "자신만의 성공 기준을 스스로 정한다는 맥락에서 자주 쓰이며, 사회적 통념에 맹목적으로 따르지 않겠다는 주체적인 태도를 나타낸다.",
+    "etymologyKo": "'define'은 라틴어 'definire(경계를 긋다)'에서 유래했고, 'success'는 라틴어 'successus(뒤따라 오는 것)'에서 비롯되어 '목표 달성 이후의 결과'를 의미하게 되었다.",
+    "nuanceKo": "단순한 '성공'보다 한 발 물러서 성공의 의미를 사색하는 뉘앙스가 강하며, 자기 성찰적이고 철학적인 맥락에서 주로 사용된다.",
+    "shortExampleEn": "It's hard to pursue a goal if you haven't defined success first.",
+    "shortExampleKo": "성공을 먼저 정의하지 않으면 목표를 추구하기가 어렵다."
+  }
+}

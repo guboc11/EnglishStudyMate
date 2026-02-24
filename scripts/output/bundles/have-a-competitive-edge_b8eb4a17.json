@@ -1,0 +1,30 @@
+{
+  "id": "have-a-competitive-edge_b8eb4a17",
+  "expression": "have a competitive edge",
+  "selectionMeta": {
+    "selectedPhrase": "have a competitive edge",
+    "selectedSenseLabelKo": "경쟁 우위를 갖다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Our company's deep expertise in AI gives us a competitive edge over rivals in the enterprise software market."
+  },
+  "step2": {
+    "story": "Sarah had spent three years mastering data analytics while her peers focused on traditional marketing skills. When the promotion was announced, her manager noted that her technical background gave her a competitive edge no other candidate could match. She accepted the offer with quiet confidence.",
+    "topicTag": "career advancement",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "The startup had entered a crowded market, and investors were skeptical at first. But the founders had spent years working inside hospitals, which gave them a competitive edge that no outside tech company could easily replicate — they understood the workflows, the pain points, and the trust that clinical staff placed in their tools. At every pitch meeting, they walked investors through scenarios that competing products had never even considered. Word spread quickly among hospital procurement teams, and within eighteen months the startup had signed contracts with a dozen regional health systems. Their rivals were still trying to understand the problem the startup had already solved.",
+    "topicTag": "startup strategy",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'경쟁(competitive)'에서 '우위(edge)'를 '갖다(have)'는 뜻으로, 경쟁 상황에서 날카로운 이점을 보유한다는 의미입니다.",
+    "realUsageKo": "비즈니스, 취업, 스포츠 등 경쟁이 있는 모든 맥락에서 타인보다 유리한 점을 갖추고 있음을 표현할 때 씁니다. 단순한 '장점'보다 경쟁 구도를 강조하는 표현입니다.",
+    "etymologyKo": "'edge'는 고대 영어 'ecg'에서 유래한 말로 원래 칼날·날카로운 경계를 뜻했으며, 17세기 이후 '날카로운 우위'라는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 단순히 '좋다'가 아니라 경쟁자와 비교해 명확히 앞선다는 뉘앙스를 담고 있습니다. 비즈니스 보고서나 면접에서 자주 등장합니다.",
+    "shortExampleEn": "Fluency in Mandarin gives her a competitive edge when applying to international firms.",
+    "shortExampleKo": "중국어 유창성 덕분에 그녀는 국제 기업에 지원할 때 경쟁 우위를 갖습니다."
+  }
+}

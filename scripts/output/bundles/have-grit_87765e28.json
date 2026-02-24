@@ -1,0 +1,30 @@
+{
+  "id": "have-grit_87765e28",
+  "expression": "have grit",
+  "selectionMeta": {
+    "selectedPhrase": "have grit",
+    "selectedSenseLabelKo": "투지가 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You need to have grit to keep training every day, even when your body is exhausted and progress feels invisible."
+  },
+  "step2": {
+    "story": "After failing her third job interview, Maya sat quietly and reminded herself why she started. She knew that to succeed in this industry, she had to have grit and push through the disappointment. The next morning, she updated her resume and scheduled four more interviews.",
+    "topicTag": "career setback",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Daniel had always dreamed of running a marathon, but six months into training, a knee injury threatened to end everything. His doctor warned that recovery would take months, and most people in his position would have simply quit. But Daniel chose to have grit — he rehabbed diligently, modified his workouts, and never stopped believing in his goal. Months later, he crossed the starting line of his first marathon, tears already welling in his eyes. The crowd cheered as he crossed the finish line, not because he was the fastest, but because everyone around him could sense how fiercely he had fought to be there.",
+    "topicTag": "marathon training",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "투지를 가지다, 즉 어려운 상황에서도 포기하지 않는 근성과 끈기를 갖추다.",
+    "realUsageKo": "역경이나 실패에도 굴하지 않고 목표를 향해 꾸준히 나아가는 태도를 표현할 때 사용한다. 단순한 용기보다 장기적인 인내심과 끈기를 강조한다.",
+    "etymologyKo": "'grit'은 원래 '모래알, 거친 입자'를 뜻하는 고대 영어 'grēot'에서 유래했으며, 19세기부터 '불굴의 의지, 근성'이라는 비유적 의미로 사용되기 시작했다.",
+    "nuanceKo": "단순히 강하다는 의미가 아니라 고통스럽거나 지루한 상황에서도 꾸준히 버텨내는 정신적 강인함을 나타낸다. 칭찬의 뉘앙스가 강하며, 특히 스포츠·비즈니스·교육 분야에서 자주 쓰인다.",
+    "shortExampleEn": "She had to have grit to finish medical school while raising two children on her own.",
+    "shortExampleKo": "그녀는 혼자 두 아이를 키우면서 의대를 마치기 위해 투지가 필요했다."
+  }
+}

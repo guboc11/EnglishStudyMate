@@ -1,0 +1,30 @@
+{
+  "id": "get-organized_bd0122a0",
+  "expression": "get organized",
+  "selectionMeta": {
+    "selectedPhrase": "get organized",
+    "selectedSenseLabelKo": "정리 정돈하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Before the move, she spent the whole weekend trying to get organized by labeling boxes and sorting items by room."
+  },
+  "step2": {
+    "story": "Tom had been putting off his paperwork for weeks, and his desk had become a chaotic mess. One Saturday morning, he finally decided to get organized and sorted everything into labeled folders. By afternoon, he could actually find what he needed and felt a huge weight lifted off his shoulders.",
+    "topicTag": "home organization",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Every Sunday evening, Maya sat down at her kitchen table to get organized for the week ahead. She wrote out her schedule, prepped her meals, and laid out her work clothes so nothing would be left to chance. It had taken months to build the habit, but she now swore by it — no more frantic mornings searching for her keys or forgetting a dentist appointment. Her friends often asked how she managed to juggle work, family, and hobbies so smoothly. Her answer was always the same: get organized on Sunday, and the rest of the week takes care of itself. The small ritual had quietly transformed her sense of control over her own life.",
+    "topicTag": "weekly planning",
+    "moodTag": "calm and in control"
+  },
+  "meaning": {
+    "literalMeaningKo": "'get'은 '되다', 'organized'는 '정돈된'을 의미하여, 글자 그대로는 '정돈된 상태가 되다'를 뜻합니다.",
+    "realUsageKo": "실제로는 어수선한 물건이나 계획, 시간 등을 체계적으로 정리하고 질서를 잡는 행위를 가리킬 때 폭넓게 사용됩니다. '이제 좀 제대로 정리해야겠어'라는 느낌으로 일상에서 자주 쓰입니다.",
+    "etymologyKo": "'organize'는 라틴어 'organizare'에서 유래했으며, '악기(organ)처럼 각 부분이 제 역할을 하도록 배열하다'는 의미를 담고 있습니다. 'get + 형용사' 구조는 영어에서 상태 변화를 나타내는 전형적인 패턴입니다.",
+    "nuanceKo": "단순히 청소하는 것보다 한 단계 높은, 체계와 시스템을 갖추는 행위에 가깝습니다. 결심이나 의지가 담긴 뉘앙스가 있어, 지금까지 무질서했던 상황을 바로잡겠다는 의지를 표현할 때 잘 어울립니다.",
+    "shortExampleEn": "I need to get organized before the semester starts.",
+    "shortExampleKo": "학기가 시작되기 전에 정리 정돈을 해야겠어."
+  }
+}

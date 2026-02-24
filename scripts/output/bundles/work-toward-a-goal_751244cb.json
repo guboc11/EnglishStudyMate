@@ -1,0 +1,30 @@
+{
+  "id": "work-toward-a-goal_751244cb",
+  "expression": "work toward a goal",
+  "selectionMeta": {
+    "selectedPhrase": "work toward a goal",
+    "selectedSenseLabelKo": "목표를 향해 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She wakes up early every morning to work toward a goal she set at the beginning of the year."
+  },
+  "step2": {
+    "story": "Marcus had always dreamed of running a marathon, and he finally decided to work toward that goal one step at a time. Every evening after work, he laced up his shoes and hit the pavement, adding a little more distance each week. Six months later, he crossed the finish line with tears streaming down his face.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Priya was laid off, she saw it not as a setback but as a rare chance to work toward a goal she had shelved for years — becoming a software engineer. She enrolled in an online bootcamp, dedicating her evenings and weekends to learning despite the frustration of debugging code late into the night. Her friends marveled at her discipline, but Priya knew that every small win — a solved problem, a completed project — was proof she was moving in the right direction. Months passed, and her portfolio slowly filled with real applications she had built from scratch. When a tech startup finally offered her a junior developer role, she remembered the day she had chosen to chase the dream instead of playing it safe. Working toward a goal, she realized, was less about speed and more about refusing to stop.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'goal(목표)을 향해(toward) 노력하다(work)'라는 뜻으로, 특정 목표를 달성하기 위해 지속적으로 행동하고 노력하는 과정을 나타냅니다.",
+    "realUsageKo": "단순히 목표를 '원한다'는 의미를 넘어, 실제로 꾸준히 행동하며 목표에 가까워지고 있음을 강조할 때 씁니다. 계획적이고 의도적인 노력을 함축합니다.",
+    "etymologyKo": "'work'는 고대 영어 'weorc(행동, 노력)'에서, 'toward'는 고대 영어 'toweard(~쪽을 향해)'에서 유래했습니다. 두 단어의 결합으로 목표를 향해 지속적으로 노력하는 방향성과 과정을 함께 표현합니다.",
+    "nuanceKo": "완료된 성취보다 진행 중인 과정과 꾸준한 노력에 초점을 맞춥니다. 장기적인 목표를 이야기할 때 자주 쓰이며, 결과보다 여정을 중시하는 긍정적이고 성실한 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "It takes patience and consistency to work toward a goal that really matters to you.",
+    "shortExampleKo": "정말 중요한 목표를 향해 나아가려면 인내심과 꾸준함이 필요합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "win-over-the-crowd_6c084f3a",
+  "expression": "win over the crowd",
+  "selectionMeta": {
+    "selectedPhrase": "win over the crowd",
+    "selectedSenseLabelKo": "대중의 마음을 얻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The underdog candidate managed to win over the crowd with her passionate speech about education reform."
+  },
+  "step2": {
+    "story": "The young comedian stepped onto the stage feeling nervous, but her quick wit and relatable jokes helped her win over the crowd within minutes. By the end of her set, the audience was on their feet, cheering for an encore.",
+    "topicTag": "performance",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Marcus had always struggled with public speaking, but tonight was different — the town hall meeting was his one chance to save the community center from being demolished. He took a deep breath and began sharing stories about how the center had shaped his childhood. His voice grew steadier as he spoke, and he could feel the room shifting in his favor. By the time he finished, even the skeptics in the back were nodding along. He had managed to win over the crowd, and the vote that followed was unanimous. Walking out into the cool night air, he felt a quiet pride he had never known before.",
+    "topicTag": "community",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "군중을 이기다, 즉 사람들의 마음이나 지지를 얻어내다.",
+    "realUsageKo": "연설, 공연, 경기 등에서 처음에는 반응이 없거나 냉담했던 청중이나 대중을 설득하거나 매료시켜 지지와 호감을 얻는 상황에서 주로 쓰인다.",
+    "etymologyKo": "'win over'는 '설득하여 내 편으로 만들다'는 뜻의 구동사이며, 'the crowd'는 청중이나 대중을 의미해, 합쳐서 '대중을 자기편으로 끌어당기다'라는 의미로 정착했다.",
+    "nuanceKo": "단순한 인기를 넘어 초기의 저항이나 무관심을 극복하고 마침내 지지를 얻어냈다는 뉘앙스가 강하며, 노력과 역전의 감동이 담겨 있다.",
+    "shortExampleEn": "Her energetic performance was enough to win over the crowd.",
+    "shortExampleKo": "그녀의 열정적인 공연은 관중의 마음을 사로잡기에 충분했다."
+  }
+}

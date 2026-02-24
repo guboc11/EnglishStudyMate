@@ -1,0 +1,30 @@
+{
+  "id": "become-fluent_ebe4d721",
+  "expression": "become fluent",
+  "selectionMeta": {
+    "selectedPhrase": "become fluent",
+    "selectedSenseLabelKo": "유창해지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She practiced speaking every day for a year and finally managed to become fluent in Spanish."
+  },
+  "step2": {
+    "story": "After moving abroad, Mia was determined to become fluent in the local language. She immersed herself in conversations, podcasts, and books, refusing to give up even when it felt impossible. Within two years, she spoke with the ease and confidence of a native speaker.",
+    "topicTag": "language learning",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had always dreamed of working in Tokyo, but the language barrier seemed impossible to overcome. Every evening after work, he sat at his desk with textbooks, flashcards, and language apps, driven by a single goal: to become fluent in Japanese. Colleagues laughed when he stumbled through phrases, but he took every mistake as a lesson rather than a defeat. Slowly, his sentences grew longer, his accent smoother, and his confidence stronger. Three years later, he walked into a job interview in Tokyo and conducted it entirely in Japanese without hesitation. He had finally become fluent, and the dream he once thought unreachable was now his everyday reality.",
+    "topicTag": "language learning",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 언어를 유창하게 구사할 수 있는 상태가 되다.",
+    "realUsageKo": "주로 외국어 학습 맥락에서, 말하기·듣기·읽기 모두 자연스럽게 소통할 수 있을 만큼 실력이 성장한 상태를 나타낼 때 쓴다. 점진적인 과정의 결과를 강조하는 표현이다.",
+    "etymologyKo": "'fluent'는 라틴어 'fluere(흐르다)'에서 유래했으며, 말이 물 흐르듯 막힘없이 나온다는 의미를 담고 있다. 'become'과 결합해 그 상태에 도달하는 과정을 나타낸다.",
+    "nuanceKo": "단순히 단어를 아는 수준이 아니라, 자연스럽고 막힘없이 소통할 수 있는 높은 숙달 수준을 의미한다. 노력과 시간이 쌓인 결과로서의 성취감이 내포되어 있다.",
+    "shortExampleEn": "It took him three years of daily practice to become fluent in Mandarin.",
+    "shortExampleKo": "그는 매일 연습한 끝에 3년 만에 중국어에 유창해졌다."
+  }
+}

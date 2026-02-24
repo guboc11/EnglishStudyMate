@@ -1,0 +1,30 @@
+{
+  "id": "sacrifice-for-success_a4285a5b",
+  "expression": "sacrifice for success",
+  "selectionMeta": {
+    "selectedPhrase": "sacrifice for success",
+    "selectedSenseLabelKo": "성공을 위해 희생하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was willing to sacrifice for success, giving up weekends and social outings to build her startup from the ground up."
+  },
+  "step2": {
+    "story": "Marcus turned down a well-paying job offer to pursue his passion for music. He knew he had to sacrifice for success, living on savings while he practiced every night. Within two years, his dedication paid off when he signed his first record deal.",
+    "topicTag": "personal ambition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Yuna had always dreamed of becoming an Olympic gymnast, and by the time she was sixteen, that dream had taken over her entire life. She would sacrifice for success without hesitation — skipping birthday parties, cutting short family vacations, and waking before sunrise to train while her friends slept in. Her coach often reminded her that champions are not born in moments of comfort. Some mornings, exhausted and aching, she wondered if it was worth it. But when she stood on the podium at the national championships, gold medal around her neck, every sacrifice felt like the most meaningful choice she had ever made.",
+    "topicTag": "sports and dedication",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "성공을 이루기 위해 무언가를 포기하거나 희생한다는 뜻이다.",
+    "realUsageKo": "목표 달성을 위해 편안함, 시간, 인간관계 등 중요한 것을 기꺼이 내려놓는 태도를 표현할 때 사용한다. 주로 강한 의지나 헌신을 강조하는 맥락에서 쓰인다.",
+    "etymologyKo": "'sacrifice'는 라틴어 'sacrificium'(신성한 것을 바침)에서 유래하였으며, 시간이 지나면서 세속적인 목표를 위해 무언가를 포기한다는 의미로 확장되었다.",
+    "nuanceKo": "단순한 포기가 아닌 더 큰 목표를 위한 자발적이고 의미 있는 희생을 함의한다. 긍정적이고 결연한 어조로 주로 사용된다.",
+    "shortExampleEn": "Top athletes often sacrifice for success by training six days a week.",
+    "shortExampleKo": "최고의 운동선수들은 종종 성공을 위해 일주일에 엿새씩 훈련하며 희생한다."
+  }
+}

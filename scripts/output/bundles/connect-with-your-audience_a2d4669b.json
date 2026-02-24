@@ -1,0 +1,30 @@
+{
+  "id": "connect-with-your-audience_a2d4669b",
+  "expression": "connect with your audience",
+  "selectionMeta": {
+    "selectedPhrase": "connect with your audience",
+    "selectedSenseLabelKo": "청중과 연결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to connect with your audience, start your talk with a story they can relate to."
+  },
+  "step2": {
+    "story": "Emma stood on stage, her hands trembling as she faced the crowded auditorium. She took a deep breath and decided to share a personal failure before diving into her research. In that moment of vulnerability, she finally managed to connect with her audience.",
+    "topicTag": "public speaking",
+    "moodTag": "nervous but hopeful"
+  },
+  "step3": {
+    "story": "David had given the same corporate presentation dozens of times, but the reaction was always the same — polite applause and blank stares. His mentor told him that facts alone rarely connect with your audience; what moves people is emotion and shared experience. That week, David rewrote his opening, replacing charts with a brief story about a customer whose life had changed. When he stepped onto the stage on Friday, he paused, looked out at the room, and began with the words 'A year ago, I received a letter.' By the end, several people in the front row were visibly moved, and the applause felt entirely different.",
+    "topicTag": "storytelling in business",
+    "moodTag": "transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "청중과 연결하다 — 발표자나 화자가 듣는 사람들과 감정적·심리적으로 이어지는 것을 의미합니다.",
+    "realUsageKo": "단순히 정보를 전달하는 것을 넘어, 청중이 공감하고 감동받도록 만드는 상황에서 사용합니다. 발표, 강연, 영상 콘텐츠 등 다양한 커뮤니케이션 맥락에서 두루 쓰입니다.",
+    "etymologyKo": "'Connect'는 라틴어 'connectere(함께 묶다)'에서 유래했으며, 'audience'는 '듣는 사람들'을 뜻하는 라틴어 'audire(듣다)'에서 왔습니다.",
+    "nuanceKo": "단순한 의사소통이 아닌 감정적·인간적 유대감 형성을 강조하는 표현입니다. 딱딱한 정보 전달과 대비되는 따뜻하고 공감적인 어조를 내포합니다.",
+    "shortExampleEn": "Using humor is one of the quickest ways to connect with your audience.",
+    "shortExampleKo": "유머를 활용하는 것은 청중과 빠르게 연결되는 방법 중 하나입니다."
+  }
+}

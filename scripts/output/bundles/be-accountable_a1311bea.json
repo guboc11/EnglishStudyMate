@@ -1,0 +1,30 @@
+{
+  "id": "be-accountable_a1311bea",
+  "expression": "be accountable",
+  "selectionMeta": {
+    "selectedPhrase": "be accountable",
+    "selectedSenseLabelKo": "책임을 지다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Every team member must be accountable for their deliverables by the end of the quarter."
+  },
+  "step2": {
+    "story": "After the product launch failed, the CEO gathered the entire team. She reminded everyone that in their company, each person must be accountable for their own decisions. No blame-shifting — only honest reflection and better planning next time.",
+    "topicTag": "team responsibility",
+    "moodTag": "serious"
+  },
+  "step3": {
+    "story": "Marcus had always avoided difficult conversations, letting errors slide without addressing them. But when a critical system outage cost the company thousands of dollars, his manager sat him down for a frank talk. 'Here, we expect everyone to be accountable,' she said calmly, looking him in the eye. 'That means owning mistakes, not hiding them.' Marcus felt a knot in his stomach, but he also felt something shift — a quiet resolve to stop deflecting and start leading honestly. He walked out of that meeting with a new understanding of what real professionalism looked like.",
+    "topicTag": "workplace culture",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 행동이나 결정에 대해 책임을 질 수 있는 상태에 있다.",
+    "realUsageKo": "주로 비즈니스나 조직 환경에서 개인이나 팀이 결과에 대해 책임을 진다는 의미로 사용된다. '누군가에게 보고 의무가 있다'는 뉘앙스도 포함한다.",
+    "etymologyKo": "'accountable'은 라틴어 'computare(계산하다)'에서 유래한 'account'에 접미사 '-able'이 붙은 형태로, 원래 '계산을 제시할 수 있는'이라는 의미에서 '책임을 질 수 있는'으로 확장되었다.",
+    "nuanceKo": "단순히 잘못을 인정하는 것 이상으로, 결과를 투명하게 보고하고 개선하겠다는 의지까지 포함하는 표현이다. 책임 회피와 반대되는 성숙하고 전문적인 태도를 강조할 때 자주 쓰인다.",
+    "shortExampleEn": "Leaders must be accountable to their team and stakeholders.",
+    "shortExampleKo": "리더는 팀원과 이해관계자들에게 책임을 져야 한다."
+  }
+}

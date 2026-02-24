@@ -1,0 +1,30 @@
+{
+  "id": "build-muscle-memory_7f197a85",
+  "expression": "build muscle memory",
+  "selectionMeta": {
+    "selectedPhrase": "build muscle memory",
+    "selectedSenseLabelKo": "근육 기억을 쌓다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "The best way to become a fast typist is to practice every day and build muscle memory for the keyboard layout."
+  },
+  "step2": {
+    "story": "Maya practiced the piano scales every morning before school, determined to build muscle memory for the difficult chord progressions. At first her fingers stumbled, but after weeks of repetition, they began to move on their own. She realized that consistency, not talent, was the real key to mastery.",
+    "topicTag": "learning a skill",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel first joined the basketball team, he struggled to dribble without looking down at the ball. His coach told him the only solution was to build muscle memory through daily drills, even when it felt pointless. Every evening after dinner, Daniel would practice in the driveway, bouncing the ball hundreds of times until his hands moved instinctively. Weeks passed, and slowly his eyes lifted from the ground as his body remembered what his mind used to control. By the end of the season, he could navigate defenders without a second thought, his movements fluid and automatic. He understood then that true skill lived not just in the mind, but in the body itself.",
+    "topicTag": "sports practice",
+    "moodTag": "persevering"
+  },
+  "meaning": {
+    "literalMeaningKo": "반복적인 연습을 통해 특정 동작을 몸이 자동으로 수행할 수 있도록 훈련하다.",
+    "realUsageKo": "피아노 연주, 타이핑, 운동 기술처럼 의식적으로 생각하지 않아도 몸이 자연스럽게 동작을 수행하게 될 때 사용한다. 주로 반복 연습의 중요성을 강조하는 맥락에서 쓰인다.",
+    "etymologyKo": "'muscle memory(근육 기억)'는 신경과학 용어로, 반복적인 동작이 운동 피질에 신경 경로를 형성해 자동적인 반응을 만드는 현상에서 유래했다. 일상 언어에서는 '숙달'의 의미로 널리 쓰인다.",
+    "nuanceKo": "노력과 인내를 통한 점진적 습득을 긍정적으로 표현할 때 자주 사용되며, 즉각적인 결과보다 꾸준한 반복을 강조하는 어조를 띤다.",
+    "shortExampleEn": "You need to practice the guitar chords daily to build muscle memory.",
+    "shortExampleKo": "기타 코드를 매일 연습해야 근육 기억을 쌓을 수 있어."
+  }
+}

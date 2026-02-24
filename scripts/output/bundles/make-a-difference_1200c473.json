@@ -1,0 +1,30 @@
+{
+  "id": "make-a-difference_1200c473",
+  "expression": "make a difference",
+  "selectionMeta": {
+    "selectedPhrase": "make a difference",
+    "selectedSenseLabelKo": "변화를 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even small acts of kindness can make a difference in someone's day."
+  },
+  "step2": {
+    "story": "After years of volunteering at the shelter, Maya wondered if her efforts truly mattered. One evening, a former resident stopped by to say she had found a stable job and her own apartment. In that moment, Maya finally understood that she had made a real difference.",
+    "topicTag": "volunteering",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had always felt like just one person in a city of millions, too small to make a difference. But when he started tutoring struggling students after school, he noticed their grades slowly climbing upward. One student told him that his help had changed her entire outlook on learning. Word spread, and soon a handful of other teachers joined his effort. What began as a single hour each week grew into a community program that reached dozens of students. Daniel realized that making a difference didn't require grand gestures — it only required showing up.",
+    "topicTag": "education",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '차이를 만들다', 즉 어떤 상황이나 결과가 이전과 달라지게 하다는 의미입니다.",
+    "realUsageKo": "실제로는 어떤 행동이나 노력이 긍정적인 변화나 영향을 가져올 때 사용합니다. 개인의 작은 행동부터 사회적 변화까지 폭넓게 쓰입니다.",
+    "etymologyKo": "'difference'는 라틴어 'differentia(구별, 차이)'에서 유래했으며, 'make a difference'는 19세기부터 '뚜렷한 효과를 내다'는 의미로 영어에 정착했습니다.",
+    "nuanceKo": "긍정적인 변화나 의미 있는 영향을 강조할 때 쓰이며, 특히 작은 노력도 가치 있다는 따뜻하고 고무적인 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Recycling might seem trivial, but it really does make a difference.",
+    "shortExampleKo": "재활용이 사소해 보일 수 있지만, 실제로 변화를 만들어냅니다."
+  }
+}

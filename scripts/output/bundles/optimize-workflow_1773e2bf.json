@@ -1,0 +1,30 @@
+{
+  "id": "optimize-workflow_1773e2bf",
+  "expression": "optimize workflow",
+  "selectionMeta": {
+    "selectedPhrase": "optimize workflow",
+    "selectedSenseLabelKo": "작업 흐름을 최적화하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The engineering team spent the sprint trying to optimize workflow by automating repetitive code review tasks."
+  },
+  "step2": {
+    "story": "After weeks of missed deadlines, the product manager called a retrospective to optimize workflow across the development team. They mapped out every bottleneck and replaced manual handoffs with automated notifications. By the next sprint, deployments that used to take a day were down to two hours.",
+    "topicTag": "team productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Lena had joined the startup as a DevOps engineer with one clear mandate: optimize workflow before the next funding round. On her first day, she shadowed each team member and filled three notebooks with friction points — unclear task ownership, redundant approval chains, and a CI pipeline that no one had touched in two years. She introduced a Kanban board, rewrote the deployment scripts, and set up automated alerts so bugs surfaced in minutes instead of days. The changes weren't glamorous, but within a month the team was shipping twice as fast with half the late-night incidents. When the investors toured the office, they noticed the calm — no firefighting, just steady progress. Lena quietly closed her notebook and smiled.",
+    "topicTag": "engineering efficiency",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "작업 흐름(workflow)을 최적의 상태로 개선하다(optimize).",
+    "realUsageKo": "주로 업무 프로세스나 개발 파이프라인에서 불필요한 단계를 제거하고 효율을 높이는 행위를 뜻하며, 팀 생산성 향상을 논할 때 자주 사용된다.",
+    "etymologyKo": "'optimize'는 라틴어 'optimus(최고의)'에서 유래했고, 'workflow'는 'work(작업)'와 'flow(흐름)'의 합성어로 일의 진행 순서를 의미한다.",
+    "nuanceKo": "단순히 '빠르게 하다'가 아니라 전체 과정을 분석해 구조적으로 개선한다는 뉘앙스가 강하며, 기술·비즈니스 맥락 모두에서 전문적인 어감을 준다.",
+    "shortExampleEn": "We need to optimize workflow so the design handoff doesn't block the developers.",
+    "shortExampleKo": "디자인 인계가 개발자들을 막지 않도록 작업 흐름을 최적화해야 합니다."
+  }
+}

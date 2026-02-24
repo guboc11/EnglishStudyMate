@@ -1,0 +1,30 @@
+{
+  "id": "engage-with-customers_5a0398bd",
+  "expression": "engage with customers",
+  "selectionMeta": {
+    "selectedPhrase": "engage with customers",
+    "selectedSenseLabelKo": "고객과 교류하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Our support team meets daily to discuss new ways to engage with customers and address their concerns before they escalate."
+  },
+  "step2": {
+    "story": "After launching their new product line, the startup struggled to engage with customers on social media. The founder decided to personally respond to every comment and question for a month. Within weeks, their community grew and sales followed.",
+    "topicTag": "customer relations",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had spent fifteen years building software in the back office, rarely seeing the people who used his products. When his manager assigned him to the customer success team for a quarter, he was nervous. He had to engage with customers directly—on calls, via chat, and at the annual user conference. At first, the raw feedback stung. But hearing customers describe their frustrations in their own words changed how Marcus thought about every line of code he wrote. By the end of the quarter, he had redesigned three features based solely on what he had learned. He returned to the engineering team quieter, more deliberate, and far more effective.",
+    "topicTag": "customer feedback",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "고객과 직접 소통하고 상호작용한다는 뜻이다.",
+    "realUsageKo": "비즈니스 맥락에서 고객과 관계를 형성하고 의견을 듣거나 문제를 해결하며 지속적으로 소통하는 행위를 가리킨다. 마케팅, 고객 지원, 영업 등 다양한 분야에서 폭넓게 쓰인다.",
+    "etymologyKo": "'engage'는 라틴어 'wadium(서약, 담보)'에서 유래한 고대 프랑스어 'engager(서약하다, 끌어들이다)'에서 왔으며, 시간이 지나면서 '관심을 끌다' '참여시키다'라는 의미로 확장되었다.",
+    "nuanceKo": "단순히 연락을 취하는 것을 넘어, 적극적으로 관심을 기울이고 의미 있는 상호작용을 한다는 뉘앙스가 강하다. 일방적인 안내보다 쌍방향 소통을 강조할 때 쓰인다.",
+    "shortExampleEn": "We use social media to engage with customers and gather feedback on our new features.",
+    "shortExampleKo": "우리는 소셜 미디어를 통해 고객과 교류하고 새 기능에 대한 피드백을 수집한다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "release-stress_85ac3517",
+  "expression": "release stress",
+  "selectionMeta": {
+    "selectedPhrase": "release stress",
+    "selectedSenseLabelKo": "스트레스를 풀다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After a long day at work, she went for a run to release stress before dinner."
+  },
+  "step2": {
+    "story": "Jake had been staring at spreadsheets all week and could feel the tension building up. On Friday evening, he grabbed his guitar and played for an hour to release stress. By the time he set it down, his shoulders had finally relaxed.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The deadline had been looming over Mia for days, and by Thursday afternoon her neck was stiff and her mind was racing. A coworker suggested they take a walk around the block, insisting that even ten minutes outside could help release stress. Mia was skeptical, but she agreed. The cool air and the simple rhythm of walking worked surprisingly well, and she returned to her desk feeling clearer. She finished the report with a calm focus she hadn't felt all week, and promised herself she'd make short breaks a daily habit.",
+    "topicTag": "work-life balance",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "스트레스를 방출하다, 즉 쌓인 긴장이나 압박감을 몸과 마음 밖으로 내보내다.",
+    "realUsageKo": "운동, 취미, 대화 등 어떤 활동을 통해 스트레스를 해소한다는 뜻으로 일상적으로 폭넓게 쓰인다.",
+    "etymologyKo": "release는 라틴어 relaxare(느슨하게 하다)에서 유래했으며, stress는 라틴어 strictus(단단히 조인)에서 비롯되었다.",
+    "nuanceKo": "reduce stress(줄이다)보다 능동적으로 해소하는 느낌이 강하며, 산책·운동·음악처럼 구체적인 행동과 함께 쓰이는 경우가 많다.",
+    "shortExampleEn": "I usually release stress by cooking a big meal on Sundays.",
+    "shortExampleKo": "나는 보통 일요일에 요리를 많이 해서 스트레스를 푼다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ask-the-right-questions_dbfded67",
+  "expression": "ask the right questions",
+  "selectionMeta": {
+    "selectedPhrase": "ask the right questions",
+    "selectedSenseLabelKo": "올바른 질문을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A good consultant knows how to ask the right questions to uncover what the client truly needs."
+  },
+  "step2": {
+    "story": "During the interview, Sarah didn't just recite her resume — she made sure to ask the right questions about the team's goals and challenges. The hiring manager paused, visibly impressed. 'Most candidates never bother to do that,' he said.",
+    "topicTag": "job interview",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Marcus had been a journalist for over a decade, but the story never came together the way he hoped until his editor gave him one piece of advice: learn to ask the right questions. He returned to his sources and shifted his focus from what happened to why it mattered. Slowly, the people he interviewed began to open up, sharing details they had kept to themselves. By the time he filed his draft, Marcus realized the real story had been hiding in the questions he had been too afraid to ask. He published it the following week, and it changed everything.",
+    "topicTag": "journalism",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "상황에 맞는 올바른 질문들을 하다.",
+    "realUsageKo": "단순히 많은 질문을 하는 것이 아니라, 핵심을 파악하거나 문제를 해결하는 데 가장 적절하고 효과적인 질문을 던지는 것을 의미합니다. 주로 인터뷰, 비즈니스, 리서치 등의 맥락에서 쓰입니다.",
+    "etymologyKo": "'ask'는 고대 영어 'ascian'에서 유래했으며, 'right'는 '올바른, 적절한'이라는 뜻의 고대 영어 'riht'에서 왔습니다. 두 단어의 결합으로 '적절한 질문을 하다'라는 자연스러운 연어가 형성되었습니다.",
+    "nuanceKo": "단순한 호기심이 아닌 목적의식과 통찰력을 가진 질문을 강조하는 표현으로, 전문성과 깊은 사고력을 암시하는 긍정적인 뉘앙스를 지닙니다.",
+    "shortExampleEn": "To solve any problem effectively, you first need to ask the right questions.",
+    "shortExampleKo": "어떤 문제든 효과적으로 해결하려면 먼저 올바른 질문을 해야 합니다."
+  }
+}

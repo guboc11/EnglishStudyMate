@@ -1,0 +1,30 @@
+{
+  "id": "remain-calm_d6086735",
+  "expression": "remain calm",
+  "selectionMeta": {
+    "selectedPhrase": "remain calm",
+    "selectedSenseLabelKo": "침착함을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when the meeting took an unexpected turn, she managed to remain calm and guide the team through the discussion."
+  },
+  "step2": {
+    "story": "The server crashed just minutes before the product launch, and the whole team froze in panic. But the lead engineer took a deep breath and told everyone to remain calm. Within twenty minutes, she had identified the issue and restored the system before the first user ever noticed.",
+    "topicTag": "work crisis",
+    "moodTag": "composed"
+  },
+  "step3": {
+    "story": "The emergency alarm echoed through the hospital corridor as nurses rushed past in every direction. Dr. Yoon stood at the center of it all, his voice steady as he instructed the staff to remain calm and follow protocol. Years of training had taught him that panic was contagious, but so was composure. He assigned roles quickly, kept his movements deliberate, and spoke in clear, measured sentences. By the time the critical patient was stabilized, the staff around him had settled into a focused rhythm. Later, a young intern told him she had only managed to stay composed because he had.",
+    "topicTag": "emergency response",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "흥분하거나 당황하지 않고 차분한 상태를 유지하다.",
+    "realUsageKo": "위기 상황이나 압박이 심한 순간에 감정적으로 흔들리지 않고 이성적으로 행동할 때 사용한다. 다른 사람에게 진정하도록 권고하는 맥락에서도 자주 쓰인다.",
+    "etymologyKo": "'remain'은 라틴어 'remanere(남아 있다)'에서, 'calm'은 고대 프랑스어 'calme(고요한)'에서 유래했으며, 두 단어가 결합해 '침착한 상태로 머물다'는 의미를 형성했다.",
+    "nuanceKo": "단순히 조용하다는 뜻이 아니라, 외부 압력에도 내면의 안정을 잃지 않는다는 의지적 뉘앙스를 담고 있다. 명령문('Remain calm!')으로 쓰이면 긴박한 상황에서 질서를 유지하려는 권위 있는 어조를 띤다.",
+    "shortExampleEn": "It's hard to remain calm when everything is going wrong at once.",
+    "shortExampleKo": "모든 것이 한꺼번에 잘못될 때 침착함을 유지하기란 쉽지 않다."
+  }
+}

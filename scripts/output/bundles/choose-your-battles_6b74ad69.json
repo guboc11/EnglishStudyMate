@@ -1,0 +1,30 @@
+{
+  "id": "choose-your-battles_6b74ad69",
+  "expression": "choose your battles",
+  "selectionMeta": {
+    "selectedPhrase": "choose your battles",
+    "selectedSenseLabelKo": "싸울 대상을 선택하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As a manager, she learned to choose her battles and focus only on the issues that truly mattered to the team's success."
+  },
+  "step2": {
+    "story": "After yet another argument with his coworker over minor formatting issues, David took a deep breath and reminded himself to choose his battles. Not every disagreement was worth his energy, and this one certainly wasn't. He let it go and saved his voice for the decisions that actually counted.",
+    "topicTag": "workplace conflict",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Maya had always been the type to speak up whenever something felt unfair, but burnout had taught her an important lesson. During the company's restructuring, her mentor pulled her aside and quietly said, 'You need to choose your battles, Maya.' At first, she resisted the advice — wasn't staying silent the same as giving up? But over the following weeks, she began to see the wisdom in it. By reserving her energy for the fights that truly mattered, her words carried more weight when it counted. She didn't win every argument, but she won the ones that shaped her team's future.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '싸울 전투를 선택하다'라는 뜻입니다.",
+    "realUsageKo": "모든 갈등이나 논쟁에 에너지를 쏟지 말고, 정말 중요한 문제에만 힘을 집중하라는 조언을 할 때 사용합니다.",
+    "etymologyKo": "군사 전략에서 유래한 표현으로, 모든 전투에서 싸우면 군대가 소진된다는 원칙에서 비롯되었습니다. 일상적인 맥락에서도 자원과 에너지의 효율적인 배분을 의미하게 되었습니다.",
+    "nuanceKo": "단순히 포기하거나 회피하는 것이 아니라, 전략적으로 우선순위를 정하는 성숙한 태도를 나타냅니다. 주로 조언이나 자기 성찰의 맥락에서 사용됩니다.",
+    "shortExampleEn": "You can't complain about everything — learn to choose your battles.",
+    "shortExampleKo": "모든 것에 불평할 수는 없어요 — 싸울 대상을 선택하는 법을 배우세요."
+  }
+}

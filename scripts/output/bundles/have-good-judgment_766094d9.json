@@ -1,0 +1,30 @@
+{
+  "id": "have-good-judgment_766094d9",
+  "expression": "have good judgment",
+  "selectionMeta": {
+    "selectedPhrase": "have good judgment",
+    "selectedSenseLabelKo": "판단력이 좋다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She tends to have good judgment when it comes to hiring, which is why her team is always high-performing."
+  },
+  "step2": {
+    "story": "When the project ran into unexpected complications, everyone turned to Marcus for a decision. He was known to have good judgment under pressure, and sure enough, his calm assessment helped the team find the right path forward.",
+    "topicTag": "workplace decision",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Elena had spent years working in crisis management, and over time she had developed an almost instinctive ability to read situations quickly. Her colleagues often said she seemed to have good judgment no matter how chaotic things got. One evening, during a product launch that was going sideways, she quietly stepped in and redirected the team with a single clear recommendation. Nobody questioned her — they had all seen how her calls tended to pan out. By morning, what had looked like a disaster was back on track, and Elena was already thinking ahead to the next challenge.",
+    "topicTag": "crisis management",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "좋은 판단(력)을 가지다.",
+    "realUsageKo": "어떤 상황에서 옳고 그름이나 최선의 선택을 정확하게 파악하고 결정하는 능력이 뛰어남을 나타낼 때 쓰인다. 특히 복잡하거나 불확실한 상황에서 현명한 결정을 내리는 사람을 묘사할 때 자주 사용된다.",
+    "etymologyKo": "'judgment'는 라틴어 'judicium(판결, 재판)'에서 유래하여 '평가하고 결정하는 능력'을 뜻하게 되었다. 'have good judgment'는 이 능력을 소유하고 있다는 표현으로, 오랜 관용 표현으로 자리잡았다.",
+    "nuanceKo": "단순히 '똑똑하다'는 의미보다 경험과 통찰에서 비롯된 실용적인 현명함을 강조하는 뉘앙스가 있다. 칭찬이나 신뢰를 표현할 때 자주 쓰이며, 공식·비공식 상황 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "I trust her to make the final call — she has good judgment.",
+    "shortExampleKo": "그녀가 최종 결정을 내리도록 믿어요 — 판단력이 좋거든요."
+  }
+}

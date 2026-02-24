@@ -1,0 +1,30 @@
+{
+  "id": "do-a-reality-check_84351500",
+  "expression": "do a reality check",
+  "selectionMeta": {
+    "selectedPhrase": "do a reality check",
+    "selectedSenseLabelKo": "현실을 직시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before quitting your job to become a full-time artist, you should do a reality check and make sure you have enough savings to survive the first year."
+  },
+  "step2": {
+    "story": "Marcus had been dreaming of launching his startup for months, convinced it would be an instant success. His mentor sat him down and told him it was time to do a reality check — the market was crowded and his budget was far too thin. It was hard to hear, but Marcus was grateful for the honesty.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "sobering"
+  },
+  "step3": {
+    "story": "Elena had been planning her dream wedding for over a year, filling notebooks with ideas for a grand ballroom, a five-course dinner, and a live orchestra. When she and her fiancé finally sat down to look at their savings, her fiancé gently suggested they do a reality check. The numbers on the spreadsheet told a very different story from the one in her notebooks. They couldn't afford even half of what she had envisioned without going into serious debt. At first Elena felt deflated, but as they talked it through, she realized that a smaller, more intimate celebration could be just as meaningful. Doing that reality check turned out to be the best decision they made together before the wedding.",
+    "topicTag": "life planning",
+    "moodTag": "grounded"
+  },
+  "meaning": {
+    "literalMeaningKo": "'현실 점검을 하다'라는 뜻으로, 자신의 생각이나 계획이 실제 상황과 얼마나 맞는지 냉정하게 살펴보는 행위를 가리킨다.",
+    "realUsageKo": "기대나 계획이 현실과 동떨어져 있을 때, 상황을 냉철하게 재평가하도록 권고하거나 스스로 돌아볼 때 사용한다. 충고나 경고의 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'reality check'는 1990년대 영어권에서 널리 쓰이기 시작한 표현으로, 심리학적 개념인 '현실 검증(reality testing)'에서 유래했다. 'do a reality check'는 이를 일상 표현으로 굳힌 형태다.",
+    "nuanceKo": "부드럽게 충고할 때도, 직설적으로 경고할 때도 사용할 수 있다. 자기 자신에게 쓰면 자기 반성의 뉘앙스가 강하고, 타인에게 쓰면 '정신 차려'에 가까운 직접적인 조언의 느낌을 준다.",
+    "shortExampleEn": "I had to do a reality check when I realized I had only two weeks left to finish the project.",
+    "shortExampleKo": "프로젝트를 마무리하기까지 2주밖에 남지 않았다는 걸 깨달았을 때 현실을 직시해야 했다."
+  }
+}

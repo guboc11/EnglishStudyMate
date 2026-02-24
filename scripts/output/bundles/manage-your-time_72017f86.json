@@ -1,0 +1,30 @@
+{
+  "id": "manage-your-time_72017f86",
+  "expression": "manage your time",
+  "selectionMeta": {
+    "selectedPhrase": "manage your time",
+    "selectedSenseLabelKo": "시간을 관리하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "If you want to stay on top of your responsibilities, you need to learn how to manage your time effectively."
+  },
+  "step2": {
+    "story": "Sara had back-to-back meetings all week and still had a report due Friday. She realized she had to manage her time better if she wanted to avoid another sleepless night. By blocking out focused work hours each morning, she finally felt in control.",
+    "topicTag": "productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Jake stared at his overflowing to-do list and felt a wave of anxiety wash over him. Between college assignments, a part-time job, and helping at home, every day felt like a losing battle. His advisor told him the key was to manage your time intentionally, not just react to whatever felt urgent. Jake started using a simple planner to block out study sessions and break tasks into smaller chunks. Within two weeks, he was finishing work ahead of schedule and even carving out time to exercise. Managing his time hadn't made his life easier, but it had made it feel far more manageable.",
+    "topicTag": "student life",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 시간을 체계적으로 조절하고 배분하다.",
+    "realUsageKo": "해야 할 일이 많을 때 각 활동에 적절한 시간을 배정하고 우선순위를 정하는 행동을 나타낼 때 쓰인다. 직장, 학교, 일상생활 전반에서 폭넓게 사용된다.",
+    "etymologyKo": "'manage'는 이탈리아어 'maneggiare(손으로 다루다)'에서 유래했으며, 말을 훈련시키는 맥락에서 시작해 점차 '통제하고 운영하다'는 의미로 확장되었다.",
+    "nuanceKo": "단순히 시간을 아끼는 것이 아니라, 의도적으로 계획하고 주도권을 갖는다는 능동적 뉘앙스가 강하다. 자기계발, 커리어, 학업 맥락에서 자주 등장하며 긍정적이고 책임감 있는 인상을 준다.",
+    "shortExampleEn": "You'll feel much less stressed once you learn to manage your time well.",
+    "shortExampleKo": "시간을 잘 관리하게 되면 스트레스가 훨씬 줄어들 거야."
+  }
+}

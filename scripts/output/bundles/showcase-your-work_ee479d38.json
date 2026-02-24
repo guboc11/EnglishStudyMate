@@ -1,0 +1,30 @@
+{
+  "id": "showcase-your-work_ee479d38",
+  "expression": "showcase your work",
+  "selectionMeta": {
+    "selectedPhrase": "showcase your work",
+    "selectedSenseLabelKo": "작업물을 선보이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The annual design fair is the perfect opportunity to showcase your work to potential clients and industry leaders."
+  },
+  "step2": {
+    "story": "After months of late nights, Maya finally had a portfolio she was proud of. Her mentor encouraged her to showcase your work at the upcoming tech expo, reminding her that visibility was just as important as skill. She took a deep breath and signed up for a booth.",
+    "topicTag": "career growth",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Daniel had been freelancing for two years, quietly building projects for small clients who rarely gave him credit. His friend suggested he start an online portfolio and showcase your work on social media, but Daniel worried no one would care. Still, he spent a weekend photographing his designs and writing up case studies for each project. Within a week, a startup founder had reached out after seeing his posts. That single decision to showcase your work publicly changed the entire trajectory of his career, turning a quiet freelancer into a sought-after designer.",
+    "topicTag": "personal branding",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 작업물이나 성과를 다른 사람들에게 보여주다.",
+    "realUsageKo": "포트폴리오, 전시회, 소셜 미디어 등을 통해 자신의 실력이나 결과물을 적극적으로 알리는 행위를 표현할 때 사용한다. 단순히 보여주는 것을 넘어 '자랑스럽게 드러내다'라는 뉘앙스를 담는다.",
+    "etymologyKo": "'showcase'는 원래 상점에서 물건을 진열하는 유리 진열장(show + case)을 뜻하는 명사였으며, 이후 동사로 발전하여 '돋보이게 전시하다'의 의미를 갖게 되었다.",
+    "nuanceKo": "단순한 공유(share)나 제출(submit)보다 훨씬 적극적이고 자신감 있는 뉘앙스를 지닌다. 자신의 최선을 세상에 내보인다는 긍정적인 의도가 내포되어 있다.",
+    "shortExampleEn": "She used her personal website to showcase your work to recruiters.",
+    "shortExampleKo": "그녀는 개인 웹사이트를 활용해 채용 담당자들에게 자신의 작업물을 선보였다."
+  }
+}

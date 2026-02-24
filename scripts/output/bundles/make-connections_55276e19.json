@@ -1,0 +1,30 @@
+{
+  "id": "make-connections_55276e19",
+  "expression": "make connections",
+  "selectionMeta": {
+    "selectedPhrase": "make connections",
+    "selectedSenseLabelKo": "연결을 만들다 / 인맥을 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Attending industry events is one of the best ways to make connections that can open doors later in your career."
+  },
+  "step2": {
+    "story": "At the conference, Sarah forced herself to walk up to strangers and introduce herself, determined to make connections beyond her usual circle. By the end of the day, she had exchanged cards with a designer, a developer, and a potential mentor. Those small conversations turned out to be the most valuable part of the trip.",
+    "topicTag": "networking",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had always been the quiet one at work, content to keep his head down and let his code speak for itself. But after being passed over for a promotion, his manager pulled him aside and told him he needed to make connections across teams, not just within his own. Reluctantly, he started joining the weekly all-hands lunches and chatting with people from marketing, product, and design. Slowly, he realized these weren't just social rituals — they were how ideas actually moved through the company. Within a few months, he was being invited into rooms he never knew existed. He still let his code do the talking, but now people knew who was behind it.",
+    "topicTag": "workplace growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "사람들 사이에 연결 고리를 만들다, 즉 관계나 인맥을 형성하다.",
+    "realUsageKo": "주로 직업적·사회적 맥락에서 새로운 사람들과 관계를 맺고 네트워크를 구축하는 행위를 가리킬 때 사용한다. 단순히 아는 사이가 되는 것을 넘어, 나중에 도움이 될 수 있는 의미 있는 인연을 만든다는 뉘앙스가 강하다.",
+    "etymologyKo": "'connection'은 라틴어 'connectere(함께 묶다)'에서 유래했다. 'make'와 결합해 능동적으로 관계를 '만들어낸다'는 의미를 강조한다.",
+    "nuanceKo": "단순한 만남(meet people)보다 목적의식이 느껴지며, 'build connections'와 비슷하지만 'make'는 첫 연결 고리를 만드는 순간에 더 집중하는 뉘앙스가 있다. 격식체와 비격식체 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "She joined the alumni group to make connections in her new city.",
+    "shortExampleKo": "그녀는 새로 이사한 도시에서 인맥을 쌓으려고 동문 모임에 가입했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "come-up-with-a-solution_aeb0de09",
+  "expression": "come up with a solution",
+  "selectionMeta": {
+    "selectedPhrase": "come up with a solution",
+    "selectedSenseLabelKo": "해결책을 생각해내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hours of brainstorming, the team finally managed to come up with a solution that satisfied everyone."
+  },
+  "step2": {
+    "story": "The server had been down for two hours and customers were growing frustrated. Maya stayed calm, reviewed the error logs, and came up with a solution by rerouting traffic to a backup system. By the time her manager arrived, everything was already back online.",
+    "topicTag": "problem solving",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The product launch was just three days away when the lead engineer discovered a critical flaw in the payment module. Panic spread through the team as they realized the issue could delay everything by weeks. Rather than giving up, Daniel gathered his colleagues around a whiteboard and insisted they come up with a solution together. They debated options late into the night, testing each workaround as it was proposed. By dawn, they had come up with a solution—a temporary patch that would hold for launch while a permanent fix was developed in parallel. The launch went ahead on schedule, and the team celebrated their ability to stay composed under pressure.",
+    "topicTag": "engineering crisis",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '해결책을 갖고 위로 올라오다'라는 뜻이다.",
+    "realUsageKo": "실제로는 문제를 해결하기 위한 아이디어나 방법을 생각해내거나 고안해낼 때 사용하며, 업무·일상 상황 모두에서 자연스럽게 쓰인다.",
+    "etymologyKo": "'come up with'는 17세기부터 '(생각·계획 등을) 내놓다, 제시하다'라는 의미로 쓰이기 시작한 구동사이며, 'solution'과 결합해 문제 해결 맥락에서 특히 자주 사용된다.",
+    "nuanceKo": "단순히 해결책을 찾는 것을 넘어 창의적 노력이나 주도적 사고가 담긴 뉘앙스가 있으며, 격식·비격식 상황 모두에서 사용할 수 있다.",
+    "shortExampleEn": "We need to come up with a solution before the deadline.",
+    "shortExampleKo": "우리는 마감 전에 해결책을 생각해내야 한다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "be-persistent_a78edae4",
+  "expression": "be persistent",
+  "selectionMeta": {
+    "selectedPhrase": "be persistent",
+    "selectedSenseLabelKo": "끈기 있게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You have to be persistent if you want to master a new language—progress rarely comes overnight."
+  },
+  "step2": {
+    "story": "After dozens of rejections, Maya decided to be persistent and kept applying for the job she truly wanted. Her determination paid off when she finally received an offer three months later.",
+    "topicTag": "job search",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been learning to play the guitar for over a year with little visible progress. His fingers ached after every practice session, and some nights he considered giving up entirely. But his mentor always reminded him to be persistent, telling him that breakthroughs rarely announce themselves in advance. One evening, a chord progression that had eluded him for months suddenly clicked into place, flowing naturally under his fingers. He sat in the quiet room, stunned by how fluent it sounded. All those stubborn hours of practice had quietly been building toward this moment.",
+    "topicTag": "skill building",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "포기하지 않고 계속해서 끈기 있게 행동하다.",
+    "realUsageKo": "어려움이나 장애물이 있어도 목표를 향해 꾸준히 노력하는 태도를 묘사할 때 사용한다. 긍정적인 맥락에서 주로 쓰이며, 반복적인 시도나 장기적인 헌신을 강조한다.",
+    "etymologyKo": "'persistent'는 라틴어 'persistere'(per- '끝까지' + sistere '서다, 고수하다')에서 유래했으며, '끝까지 버티다'라는 의미를 담고 있다.",
+    "nuanceKo": "단순한 고집(stubborn)과 달리 목적이 분명하고 올바른 방향으로 계속 나아가는 긍정적인 뉘앙스를 지닌다. 칭찬이나 조언의 맥락에서 자주 등장한다.",
+    "shortExampleEn": "Be persistent in your studies, even when the material feels overwhelming.",
+    "shortExampleKo": "내용이 벅차게 느껴지더라도 공부를 끈기 있게 계속하세요."
+  }
+}

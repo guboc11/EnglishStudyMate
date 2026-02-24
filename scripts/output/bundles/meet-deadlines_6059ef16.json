@@ -1,0 +1,30 @@
+{
+  "id": "meet-deadlines_6059ef16",
+  "expression": "meet deadlines",
+  "selectionMeta": {
+    "selectedPhrase": "meet deadlines",
+    "selectedSenseLabelKo": "마감 기한을 지키다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She always meet deadlines, even when the project scope changes at the last minute."
+  },
+  "step2": {
+    "story": "The team worked late every night to meet deadlines for the product launch. Despite unexpected bugs and shifting requirements, they stayed focused and delivered on time. Their manager praised them for their commitment and reliability.",
+    "topicTag": "work pressure",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "David had a reputation for always meeting deadlines, no matter the circumstances. When a critical client project landed on his desk with a two-week turnaround, he immediately broke the work into daily milestones. He blocked out distractions, delegated wisely, and kept the team aligned with short daily check-ins. By the final day, every deliverable was polished and submitted ahead of schedule. The client was so impressed that they renewed their contract and referred two new companies. David knew that consistently meeting deadlines was the single most powerful way to build trust in the business world.",
+    "topicTag": "professional reliability",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "'마감(deadline)'을 '충족시키다(meet)'라는 뜻으로, 정해진 기한 안에 과제를 완료하는 것을 의미합니다.",
+    "realUsageKo": "비즈니스와 직장 환경에서 프로젝트, 보고서, 납품 등을 약속된 날짜까지 완료하는 것을 표현할 때 폭넓게 사용됩니다. '기한을 지키다'는 신뢰와 전문성을 나타내는 핵심 역량으로 여겨집니다.",
+    "etymologyKo": "'Deadline'은 원래 인쇄업계에서 조판을 더 이상 수정할 수 없는 한계선을 뜻하는 말이었으며, 이후 '넘어서는 안 되는 최종 시한'의 의미로 확장되었습니다. 'Meet'는 '요건이나 기준을 충족하다'라는 의미로 결합되었습니다.",
+    "nuanceKo": "단순히 늦지 않는다는 의미를 넘어, 책임감과 전문성을 갖춘 사람임을 암시하는 긍정적 뉘앙스가 강합니다. 반대로 'miss a deadline'은 신뢰를 잃는 부정적 표현으로 대비됩니다.",
+    "shortExampleEn": "Our team always meets deadlines, which is why clients keep coming back.",
+    "shortExampleKo": "우리 팀은 항상 마감 기한을 지키기 때문에 고객들이 계속 돌아옵니다."
+  }
+}

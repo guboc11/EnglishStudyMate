@@ -1,0 +1,30 @@
+{
+  "id": "test-your-limits_b39c69d9",
+  "expression": "test your limits",
+  "selectionMeta": {
+    "selectedPhrase": "test your limits",
+    "selectedSenseLabelKo": "한계를 시험하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She signed up for an ultramarathon to test her limits and discover what she was truly capable of."
+  },
+  "step2": {
+    "story": "Marcus had always played it safe, but this year he decided to test his limits by applying for roles he thought were out of reach. To his surprise, three companies called him back within a week. Sometimes the only way to grow is to push past the boundaries you set for yourself.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Every morning, Yuna laced up her running shoes before dawn and headed to the steep trail behind her apartment. She had started the year barely able to run two kilometers, but she was committed to testing her limits one hill at a time. Her legs burned and her lungs ached, but she kept moving, telling herself that discomfort was just proof she was growing. Months later, she crossed the finish line of her first half-marathon, tears streaming down her face. Standing there, medal around her neck, she realized that testing your limits isn't about breaking yourself — it's about finding out how much more you actually have inside.",
+    "topicTag": "running and endurance",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 한계가 어디까지인지 시험해 보다.",
+    "realUsageKo": "신체적·정신적·직업적으로 자신이 감당할 수 있는 최대치에 도전할 때 사용한다. 주로 도전, 성장, 자기 극복의 맥락에서 긍정적인 뉘앙스로 쓰인다.",
+    "etymologyKo": "'test'는 라틴어 'testis(증인, 검증)'에서 유래하며, 'limits'는 라틴어 'limes(경계, 경계선)'에서 왔다. 두 단어가 결합해 '경계를 검증하다'는 의미를 형성했다.",
+    "nuanceKo": "단순한 시도보다 더 강한 의지와 도전 정신을 내포한다. 자기 자신을 밀어붙이는 주체적이고 능동적인 태도를 강조하며, 스포츠·커리어·창작 등 다양한 분야에서 두루 쓰인다.",
+    "shortExampleEn": "The intensive boot camp was designed to test your limits and build mental resilience.",
+    "shortExampleKo": "그 집중 훈련 캠프는 당신의 한계를 시험하고 정신적 회복력을 키우기 위해 설계되었다."
+  }
+}

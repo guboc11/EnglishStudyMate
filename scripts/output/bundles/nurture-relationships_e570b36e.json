@@ -1,0 +1,30 @@
+{
+  "id": "nurture-relationships_e570b36e",
+  "expression": "nurture relationships",
+  "selectionMeta": {
+    "selectedPhrase": "nurture relationships",
+    "selectedSenseLabelKo": "관계를 키우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She makes it a point to nurture relationships with her colleagues by checking in regularly and offering support."
+  },
+  "step2": {
+    "story": "Daniel moved to a new city for work and knew no one. Determined not to feel isolated, he made a conscious effort to nurture relationships with his neighbors and coworkers. Within a few months, he had built a strong support network.",
+    "topicTag": "social connection",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After years of putting career above everything else, Mia realized she had let most of her friendships drift away. She decided it was time to change. She started small — sending a heartfelt message to an old friend, then inviting a colleague for coffee. She reminded herself that to nurture relationships, you have to invest time and genuine attention, not just good intentions. Slowly, the warmth returned. The connections she rebuilt felt deeper than before, grounded in shared history and a renewed appreciation for each other.",
+    "topicTag": "friendship",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "관계를 정성껏 돌보고 발전시키다.",
+    "realUsageKo": "단순히 아는 사이를 유지하는 것이 아니라, 꾸준한 관심·시간·노력을 투자하여 인간관계를 더욱 깊고 의미 있게 가꿔 나간다는 뜻으로 쓰인다.",
+    "etymologyKo": "'nurture'는 라틴어 'nutrire(먹이다, 기르다)'에서 유래했으며, 원래는 아이나 식물을 돌본다는 의미였다. 이후 추상적인 대상—관계, 재능, 아이디어—을 '키운다'는 뜻으로 확장되었다.",
+    "nuanceKo": "단발성 행동이 아닌 지속적인 노력을 강조하며, 따뜻하고 진정성 있는 태도가 내포되어 있다. 친밀한 관계뿐 아니라 직업적 네트워크에도 자주 사용된다.",
+    "shortExampleEn": "It takes consistent effort to nurture relationships that last.",
+    "shortExampleKo": "오래 지속되는 관계를 키우려면 꾸준한 노력이 필요하다."
+  }
+}

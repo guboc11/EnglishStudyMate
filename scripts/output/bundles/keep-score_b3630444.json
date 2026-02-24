@@ -1,0 +1,30 @@
+{
+  "id": "keep-score_b3630444",
+  "expression": "keep score",
+  "selectionMeta": {
+    "selectedPhrase": "keep score",
+    "selectedSenseLabelKo": "점수를 기록하다 / 성과를 추적하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During our weekly trivia night, Maya always volunteers to keep score so everyone can focus on answering the questions."
+  },
+  "step2": {
+    "story": "At the company retreat, the teams played a spirited game of volleyball and asked James to keep score on the whiteboard. He carefully tallied every point, making sure the competition stayed fair and exciting.",
+    "topicTag": "team competition",
+    "moodTag": "playful"
+  },
+  "step3": {
+    "story": "The annual neighborhood picnic had grown into a full-blown Olympics, with egg-and-spoon races, tug-of-war, and a relay sprint. Elena had been asked to keep score across all five events, and she took the role seriously, updating the tally sheet after every heat. By the afternoon, the blue team and the red team were neck and neck, and the crowd gathered around her scoreboard with every update. When the final event ended in a tie, Elena double-checked her numbers three times before announcing the result, earning a round of applause for her meticulous work.",
+    "topicTag": "neighborhood games",
+    "moodTag": "lively"
+  },
+  "meaning": {
+    "literalMeaningKo": "경기나 게임에서 각 팀 또는 참가자의 점수를 기록하고 관리하다.",
+    "realUsageKo": "스포츠나 게임에서 점수를 추적하는 행위뿐 아니라, 비유적으로 누가 얼마나 잘하고 있는지 성과를 추적하거나 유리한지 불리한지를 따지는 상황에도 쓰인다.",
+    "etymologyKo": "'score'는 고대 노르드어 'skor'(새김눈, 20을 뜻하는 눈금)에서 유래했으며, 점수를 나무에 새겨 기록하던 관습에서 비롯됐다. 'keep'은 '계속 유지하다'라는 의미로 결합돼 '점수를 계속 기록하다'라는 뜻이 됐다.",
+    "nuanceKo": "중립적이고 일상적인 표현이지만, 비유적 용법에서는 경쟁심이나 서로 간의 공정성을 따지는 뉘앙스를 띠기도 한다. 예를 들어 'Don't keep score in a friendship'처럼 관계에서 득실을 따지지 말라는 조언에 자주 쓰인다.",
+    "shortExampleEn": "He used a chalkboard to keep score during the tournament.",
+    "shortExampleKo": "그는 토너먼트 동안 칠판을 이용해 점수를 기록했다."
+  }
+}
