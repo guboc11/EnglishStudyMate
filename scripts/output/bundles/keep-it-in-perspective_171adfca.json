@@ -1,0 +1,30 @@
+{
+  "id": "keep-it-in-perspective_171adfca",
+  "expression": "keep it in perspective",
+  "selectionMeta": {
+    "selectedPhrase": "keep it in perspective",
+    "selectedSenseLabelKo": "올바른 관점을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing the match, the coach reminded his team to keep it in perspective — one defeat doesn't define an entire season."
+  },
+  "step2": {
+    "story": "When Maya received a harsh review on her first presentation, she felt devastated. Her mentor sat with her and said, 'Try to keep it in perspective — this is one piece of feedback among many more to come.' That simple reminder helped her approach the revision with a clear head.",
+    "topicTag": "work stress",
+    "moodTag": "reassured"
+  },
+  "step3": {
+    "story": "Daniel had been preparing for months for a regional photography contest, and when the results came in, his name wasn't on the winners' list. He refreshed the page three times, each time hoping the outcome would change. Feeling crushed, he called his older sister, who listened patiently before speaking. 'I know it hurts right now,' she said, 'but try to keep it in perspective — you entered your very first competition and made it to the final round.' Her words slowly broke through his disappointment. By the next morning, Daniel had already started editing a new series of photos, driven not by the sting of losing but by genuine excitement for what came next.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 것을 올바른 시각(perspective) 안에 유지한다는 뜻으로, 상황을 있는 그대로의 크기와 중요도로 바라보는 것을 말한다.",
+    "realUsageKo": "실제로는 실망스럽거나 스트레스를 주는 상황을 지나치게 크게 받아들이지 말고 전체적인 맥락에서 균형 있게 바라보라고 조언할 때 쓴다. 특히 부정적인 사건에 압도된 상대방을 위로하거나 격려할 때 자주 사용된다.",
+    "etymologyKo": "'Perspective'는 라틴어 'perspicere(꿰뚫어 보다)'에서 유래했으며, 르네상스 시대 회화에서 사물의 상대적 크기를 올바르게 표현하는 기법을 가리켰다. 여기서 파생되어 '사물을 있는 그대로의 비율과 중요도로 보는 시각'이라는 의미로 확장되었다.",
+    "nuanceKo": "충고나 위로의 어조로 많이 쓰이며, 상대방이 과도하게 걱정하거나 낙담했을 때 부드럽게 현실을 상기시켜 주는 뉘앙스를 가진다. 명령문으로 쓰면 다소 직접적이지만 여전히 온화한 조언의 느낌이 유지된다.",
+    "shortExampleEn": "It's just one bad grade — keep it in perspective and focus on the rest of the semester.",
+    "shortExampleKo": "그건 그냥 성적 하나가 나쁜 거야 — 전체적인 시각을 유지하고 나머지 학기에 집중해."
+  }
+}

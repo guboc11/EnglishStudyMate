@@ -1,0 +1,30 @@
+{
+  "id": "face-the-music_a891b202",
+  "expression": "face the music",
+  "selectionMeta": {
+    "selectedPhrase": "face the music",
+    "selectedSenseLabelKo": "결과를 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hiding the mistake for weeks, Daniel finally decided to face the music and confess to his manager."
+  },
+  "step2": {
+    "story": "Mia had been avoiding her landlord's calls ever since she missed two months of rent. One morning, she took a deep breath and knocked on his door, ready to face the music. To her surprise, he appreciated her honesty and worked out a payment plan with her.",
+    "topicTag": "personal responsibility",
+    "moodTag": "anxious but resolved"
+  },
+  "step3": {
+    "story": "For months, Jake had been submitting reports with inflated numbers, hoping no one would notice. When the quarterly audit began, he felt his stomach drop — the numbers didn't add up, and the auditors were asking questions he couldn't dodge. His colleague whispered, 'You're going to have to face the music sooner or later.' Jake straightened his tie, walked into the conference room, and came clean about everything. It was the hardest conversation of his career, but admitting the truth was the only way forward. By the end of the meeting, a path to correction had been laid out, and Jake felt the crushing weight of secrecy finally lift from his shoulders.",
+    "topicTag": "workplace accountability",
+    "moodTag": "tense yet relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "음악을 정면으로 바라보다.",
+    "realUsageKo": "자신의 행동이나 실수에 대한 결과나 책임을 피하지 않고 용감하게 받아들이는 것을 의미합니다. 주로 부정적인 결과를 감수해야 하는 상황에서 씁니다.",
+    "etymologyKo": "19세기 군대 문화에서 유래했다는 설이 유력합니다. 처벌받는 병사가 군악대 음악 소리를 들으며 퇴장할 때 음악 쪽을 정면으로 바라봐야 했던 데서 비롯되었다고 전해집니다.",
+    "nuanceKo": "두려움이나 불안감이 있음에도 불구하고 용기를 내어 책임을 지는 뉘앙스를 담고 있습니다. 자발적으로 결과를 수용하는 성숙함을 강조할 때 자주 사용됩니다.",
+    "shortExampleEn": "She knew she'd failed the exam, so she went home to face the music with her parents.",
+    "shortExampleKo": "그녀는 시험에 떨어진 것을 알고, 부모님께 결과를 받아들이러 집으로 향했다."
+  }
+}

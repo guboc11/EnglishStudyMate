@@ -1,0 +1,30 @@
+{
+  "id": "walk-the-line_b427dde6",
+  "expression": "walk the line",
+  "selectionMeta": {
+    "selectedPhrase": "walk the line",
+    "selectedSenseLabelKo": "경계를 걷다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As a manager, she had to walk the line between being supportive and maintaining professional boundaries with her team."
+  },
+  "step2": {
+    "story": "During the merger negotiations, David had to walk the line between protecting his company's interests and keeping the partnership alive. Every concession he made felt like stepping closer to an edge he couldn't see. He chose his words carefully, knowing that one misstep could unravel months of careful diplomacy.",
+    "topicTag": "negotiation",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Elena had always walked the line between ambition and integrity in her journalism career. When her editor pressured her to run an unverified story that would boost ratings, she felt that familiar pull in two directions. She spent the night reviewing her sources, searching for any way to verify the claims before the morning deadline. By dawn, she had confirmed enough of the facts to publish responsibly — not the sensational version her editor wanted, but an honest account. Walking that line had cost her the front page, but she left the office knowing her reputation was still intact.",
+    "topicTag": "journalism ethics",
+    "moodTag": "conflicted"
+  },
+  "meaning": {
+    "literalMeaningKo": "선 위를 걷다, 즉 두 가지 상반된 것 사이의 경계를 따라 걷는다는 의미이다.",
+    "realUsageKo": "두 가지 상충되는 요구나 원칙 사이에서 균형을 유지하며 행동할 때 사용한다. 어느 한쪽으로 치우치지 않고 아슬아슬한 균형을 지키는 상황에 자주 쓰인다.",
+    "etymologyKo": "줄타기 곡예사가 팽팽한 줄 위를 걷는 이미지에서 유래한 표현으로, 균형을 잃으면 위험에 처한다는 의미가 내포되어 있다. Johnny Cash의 동명 노래(1956)로 대중에게 널리 알려졌다.",
+    "nuanceKo": "신중함과 긴장감이 동반되는 뉘앙스를 가진다. 자발적으로 어려운 균형을 유지하려는 노력을 강조하며, 실패하면 결과가 따른다는 암묵적인 압박감이 있다.",
+    "shortExampleEn": "The diplomat had to walk the line between honesty and tact during the press conference.",
+    "shortExampleKo": "그 외교관은 기자회견에서 솔직함과 외교적 배려 사이의 경계를 걸어야 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "update-the-system_ad2b0986",
+  "expression": "update the system",
+  "selectionMeta": {
+    "selectedPhrase": "update the system",
+    "selectedSenseLabelKo": "시스템을 업데이트하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The IT department sent a notice asking all employees to update the system before logging in on Monday morning."
+  },
+  "step2": {
+    "story": "Mia's laptop kept crashing right before an important presentation. Her colleague told her she needed to update the system to fix the bugs. She ran the update overnight and woke up to a perfectly working machine.",
+    "topicTag": "workplace tech",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Jake had been ignoring the notification for weeks — a small pop-up in the corner of his screen reminding him to update the system. One afternoon, his entire workflow ground to a halt when a critical app refused to launch due to compatibility issues. His manager walked over, glanced at the screen, and said simply, 'You never updated the system, did you?' Embarrassed, Jake finally clicked the button and watched the progress bar crawl across his screen. An hour later, everything ran faster and smoother than ever. From that day on, he never dismissed an update reminder again.",
+    "topicTag": "software maintenance",
+    "moodTag": "embarrassed"
+  },
+  "meaning": {
+    "literalMeaningKo": "시스템(운영 체제, 소프트웨어 등)을 최신 버전으로 갱신하다.",
+    "realUsageKo": "컴퓨터나 기기의 운영 체제, 앱, 소프트웨어를 최신 상태로 유지하기 위해 새 버전을 설치하는 행위를 가리킨다. 보안 패치 적용이나 성능 개선을 위해 IT 환경에서 매우 빈번하게 사용된다.",
+    "etymologyKo": "'update'는 라틴어 계열의 'up(위로)'과 고대 영어 'dato(주어진 것)'에서 유래했으며, '더 최신 정보로 올리다'라는 의미로 20세기 초부터 사용되었다. 'system'은 그리스어 'systema(함께 세운 것)'에서 왔다.",
+    "nuanceKo": "단순히 앱 하나를 업데이트하는 것보다 범위가 넓어, 운영 체제 전체나 핵심 인프라를 갱신한다는 뉘앙스가 강하다. 업무 지시나 기술 공지에서 자주 등장하며, 무시하면 문제가 생긴다는 함의를 가질 때가 많다.",
+    "shortExampleEn": "Please update the system before the security patch expires.",
+    "shortExampleKo": "보안 패치가 만료되기 전에 시스템을 업데이트하세요."
+  }
+}

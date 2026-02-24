@@ -1,0 +1,30 @@
+{
+  "id": "pay-the-price_ba31462a",
+  "expression": "pay the price",
+  "selectionMeta": {
+    "selectedPhrase": "pay the price",
+    "selectedSenseLabelKo": "대가를 치르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you keep skipping practice, you'll pay the price when the competition arrives."
+  },
+  "step2": {
+    "story": "Marcus spent years ignoring his health, working late and eating poorly. When his doctor delivered the diagnosis, he knew he was paying the price for those habits. It was a hard lesson, but one he vowed never to forget.",
+    "topicTag": "health consequences",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Elena had always cut corners on her engineering reports, assuming no one would notice the small errors she left unfixed. For years, nothing went wrong, and she grew confident that the shortcuts were harmless. Then one winter, a critical bridge component failed during inspection, traced directly back to her flawed calculations. The company faced millions in repairs, and Elena was called before the board to account for her work. Standing in that boardroom, she finally understood that she was paying the price for every shortcut she had ever taken. The experience changed her completely — from that day on, she never submitted a report without double-checking every single figure.",
+    "topicTag": "professional accountability",
+    "moodTag": "sobering"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 어떤 것에 대한 값을 지불한다는 뜻이다.",
+    "realUsageKo": "실제로는 어떤 행동이나 선택의 부정적인 결과를 감수하거나 고통을 겪는다는 의미로 쓰인다. 주로 나쁜 결정이나 무책임한 행동의 후과를 강조할 때 사용한다.",
+    "etymologyKo": "'price'는 라틴어 'pretium(가치, 보상)'에서 유래하였으며, 중세 영어를 거쳐 '대가' 혹은 '값'이라는 뜻으로 정착되었다. 'pay the price'는 행동에 따른 상응하는 대가를 치른다는 개념을 표현하기 위해 관용구로 굳어졌다.",
+    "nuanceKo": "주로 부정적이고 무거운 뉘앙스를 가지며, 피할 수 있었던 실수나 선택의 결과에 대해 책임을 지는 상황에서 자주 쓰인다. 후회나 경고의 맥락에서 많이 등장한다.",
+    "shortExampleEn": "He stayed up all night before the exam and paid the price the next morning.",
+    "shortExampleKo": "그는 시험 전날 밤을 꼬박 새웠고 다음 날 아침 그 대가를 치렀다."
+  }
+}

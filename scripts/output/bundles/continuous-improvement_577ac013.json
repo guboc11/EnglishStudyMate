@@ -1,0 +1,30 @@
+{
+  "id": "continuous-improvement_577ac013",
+  "expression": "continuous improvement",
+  "selectionMeta": {
+    "selectedPhrase": "continuous improvement",
+    "selectedSenseLabelKo": "지속적인 개선",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company's success is largely due to its commitment to continuous improvement in both its products and internal processes."
+  },
+  "step2": {
+    "story": "After reviewing her team's quarterly performance, Sarah realized that continuous improvement wasn't just a buzzword—it was a mindset. She started holding brief weekly retrospectives where everyone could suggest small changes. Within a month, their workflow had become noticeably smoother.",
+    "topicTag": "workplace productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Marcus had always believed that continuous improvement was the cornerstone of any great organization. When he took over as department head, he introduced a simple system: every Friday, team members would submit one thing they thought could be done better. At first, people were skeptical—change felt disruptive, even threatening. But as small suggestions turned into real upgrades, a quiet excitement began to build. Employees felt heard, and the department's output improved quarter after quarter. Marcus knew that perfection was never the goal; the goal was simply to be a little better today than yesterday.",
+    "topicTag": "leadership and growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 것을 멈추지 않고 꾸준히 더 나은 상태로 만들어 나가는 과정을 뜻한다.",
+    "realUsageKo": "주로 기업 경영, 팀 문화, 개인 성장 등의 맥락에서 '현재에 안주하지 않고 끊임없이 발전을 추구하는 태도'를 나타낼 때 쓰인다. 일본의 경영 철학 '카이젠(Kaizen)'과 밀접하게 연관된 개념으로도 자주 언급된다.",
+    "etymologyKo": "'continuous'는 라틴어 'continuus(끊이지 않는)'에서 유래했고, 'improvement'는 고대 프랑스어 'emprouer(더 유익하게 만들다)'에서 비롯되었다. 두 단어가 결합되어 '끊임없는 향상'이라는 개념을 형성했다.",
+    "nuanceKo": "단순한 '개선'이 아니라 '지속성'을 강조하는 표현으로, 일회성 노력이 아닌 장기적·반복적인 발전 의지를 함의한다. 비즈니스나 자기계발 맥락에서 긍정적이고 진취적인 어조로 쓰인다.",
+    "shortExampleEn": "Our team culture is built on continuous improvement—we review what went wrong every sprint.",
+    "shortExampleKo": "우리 팀 문화는 지속적인 개선을 기반으로 합니다. 매 스프린트마다 무엇이 잘못되었는지 검토하죠."
+  }
+}

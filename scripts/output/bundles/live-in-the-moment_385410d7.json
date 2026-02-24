@@ -1,0 +1,30 @@
+{
+  "id": "live-in-the-moment_385410d7",
+  "expression": "live in the moment",
+  "selectionMeta": {
+    "selectedPhrase": "live in the moment",
+    "selectedSenseLabelKo": "현재에 집중하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of planning for the future and worrying about the past, she finally learned to live in the moment and found genuine happiness."
+  },
+  "step2": {
+    "story": "Maya put down her phone and watched the sunset without taking a single photo. For once, she chose to live in the moment rather than document it. The colors seemed more vivid than anything she had ever captured on a screen.",
+    "topicTag": "mindfulness",
+    "moodTag": "peaceful"
+  },
+  "step3": {
+    "story": "Daniel had spent his entire vacation anxiously checking work emails and planning his next trip before this one had even ended. His friend noticed and gently suggested they leave their phones at the hotel. At first, Daniel felt uncomfortable without the constant distraction, but as they wandered through the old market, something shifted. He began to live in the moment — noticing the smell of spices, the laughter of strangers, the warmth of the afternoon sun. By the time they returned to the hotel, he realized it had been the best day of the whole trip.",
+    "topicTag": "travel",
+    "moodTag": "liberating"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '현재의 순간 속에서 살다'는 뜻으로, 지금 이 순간에 완전히 집중하며 살아가는 것을 의미합니다.",
+    "realUsageKo": "과거에 대한 후회나 미래에 대한 걱정 없이 지금 이 순간을 온전히 즐기고 집중하자는 맥락에서 자주 사용됩니다. 마음챙김(mindfulness)이나 자기계발 대화에서 특히 많이 쓰입니다.",
+    "etymologyKo": "철학적 개념인 '현재주의(presentism)'에서 비롯된 표현으로, 고대 그리스 철학자 에피쿠로스의 '지금을 즐겨라(carpe diem)' 사상과 맥을 같이합니다. 현대 영어에서는 20세기 이후 심리학과 웰니스 문화의 영향으로 일상적인 표현으로 자리 잡았습니다.",
+    "nuanceKo": "긍정적이고 격려하는 어조를 띠며, 지나치게 계획적이거나 걱정이 많은 사람에게 권유하는 뉘앙스로 사용됩니다. 때로는 충동적인 행동을 정당화하는 데 쓰이기도 하지만, 주로 마음의 평화와 행복을 강조하는 맥락에서 쓰입니다.",
+    "shortExampleEn": "Stop overthinking and just live in the moment.",
+    "shortExampleKo": "너무 생각하지 말고 그냥 현재에 집중해."
+  }
+}

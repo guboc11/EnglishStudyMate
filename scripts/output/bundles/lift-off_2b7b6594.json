@@ -1,0 +1,30 @@
+{
+  "id": "lift-off_2b7b6594",
+  "expression": "lift off",
+  "selectionMeta": {
+    "selectedPhrase": "lift off",
+    "selectedSenseLabelKo": "이륙하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The rocket began to lift off from the launchpad as the crowd cheered in amazement."
+  },
+  "step2": {
+    "story": "After years of preparation, the space shuttle was finally ready to lift off. Engineers held their breath as the engines roared to life and the craft rose into the clear blue sky.",
+    "topicTag": "space exploration",
+    "moodTag": "awe-inspiring"
+  },
+  "step3": {
+    "story": "Maya had dreamed of this moment her entire life. Standing in mission control, she watched the countdown clock tick toward zero as the massive rocket sat on the launchpad. When the engines ignited and the spacecraft began to lift off, a wave of emotion washed over her — all those years of study and sacrifice suddenly felt worth it. The ground trembled beneath her feet, and smoke billowed across the launch site as the rocket climbed higher and higher into the sky. She pressed her hand to the glass and whispered a quiet wish for the crew aboard, knowing their journey was just beginning.",
+    "topicTag": "space exploration",
+    "moodTag": "emotional"
+  },
+  "meaning": {
+    "literalMeaningKo": "물체가 지면에서 들어 올려져 공중으로 떠오르다.",
+    "realUsageKo": "주로 로켓, 우주선, 헬리콥터 등이 이륙하는 장면을 묘사할 때 사용하며, 비유적으로 프로젝트나 사업이 본격적으로 시작되는 상황에도 쓰인다.",
+    "etymologyKo": "'lift'(들어 올리다)와 'off'(분리·이탈)가 결합된 구동사로, 비행체가 지면에서 분리되어 상승하는 동작에서 유래했다.",
+    "nuanceKo": "단순한 이동보다는 극적인 출발이나 시작의 뉘앙스가 강하며, 기대감과 흥분을 내포하는 경우가 많다.",
+    "shortExampleEn": "The plane lifted off smoothly despite the strong crosswinds.",
+    "shortExampleKo": "강한 측풍에도 불구하고 비행기는 순조롭게 이륙했다."
+  }
+}

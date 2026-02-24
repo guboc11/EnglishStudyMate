@@ -1,0 +1,30 @@
+{
+  "id": "give-it-your-all_dda0d0a9",
+  "expression": "give it your all",
+  "selectionMeta": {
+    "selectedPhrase": "give it your all",
+    "selectedSenseLabelKo": "최선을 다하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to make the team, you have to give it your all at every practice."
+  },
+  "step2": {
+    "story": "Maria had been training for months for the regional swimming competition. On the day of the race, her coach pulled her aside and said, 'Give it your all — that's the only thing you can control.' She dove into the water and swam harder than she ever had before.",
+    "topicTag": "sports competition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James stood backstage, his palms sweating, script clutched tightly in his hands. He had rehearsed this audition for weeks, but doubt crept in at the last moment. His acting teacher's words echoed in his mind: 'The only regret you'll ever have is not giving it your all.' He took a deep breath, walked onto the stage, and poured every emotion he had into each line. When he finished, the panel of judges sat in silence for a brief moment before beginning to applaud. He had given everything he had, and whatever the outcome, he knew he had nothing left to regret.",
+    "topicTag": "performance and audition",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '당신의 전부를 그것에 쏟아붓다'라는 뜻이다.",
+    "realUsageKo": "어떤 일에 자신의 모든 에너지와 노력을 다 쏟아붓는 것을 표현할 때 사용하며, 특히 경쟁, 도전, 중요한 과제 앞에서 '최선을 다하라'고 독려할 때 자주 쓰인다.",
+    "etymologyKo": "'all'은 고대 영어 'eall'에서 유래하여 '전부, 전체'를 의미하며, 'give it your all'은 자신이 가진 전부를 어떤 대상에 바친다는 개념에서 비롯된 표현이다.",
+    "nuanceKo": "단순히 열심히 한다는 의미를 넘어, 자신이 보유한 능력과 에너지를 한 치도 남기지 않고 모두 투입한다는 강한 헌신과 결의의 뉘앙스를 담고 있다.",
+    "shortExampleEn": "This is your final chance, so give it your all.",
+    "shortExampleKo": "이번이 마지막 기회이니, 최선을 다해라."
+  }
+}

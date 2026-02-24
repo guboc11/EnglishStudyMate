@@ -1,0 +1,30 @@
+{
+  "id": "rebuild-your-life_358cbd7f",
+  "expression": "rebuild your life",
+  "selectionMeta": {
+    "selectedPhrase": "rebuild your life",
+    "selectedSenseLabelKo": "삶을 다시 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing everything in the fire, she was determined to rebuild her life from the ground up."
+  },
+  "step2": {
+    "story": "Marcus had hit rock bottom after years of poor decisions, but he refused to give up. With the support of close friends, he slowly began to rebuild his life one small step at a time. Within a year, he had a steady job and a renewed sense of purpose.",
+    "topicTag": "personal recovery",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After her divorce, Elena sat alone in her small apartment wondering how things had gone so wrong. For weeks she barely left the house, replaying every mistake in her mind. But one morning she woke up and decided that dwelling on the past was no longer an option. She enrolled in a night class, reconnected with old friends, and started therapy. It was not easy, and there were days when the weight of everything felt unbearable. Yet slowly, piece by piece, she found herself rebuilding her life into something she was genuinely proud of.",
+    "topicTag": "starting over",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 삶을 다시 세우거나 구축한다는 의미입니다.",
+    "realUsageKo": "큰 시련이나 실패, 상실을 겪은 후 삶을 새롭게 다시 시작하고 회복해 나가는 과정을 표현할 때 사용합니다.",
+    "etymologyKo": "'rebuild'는 'build(세우다)'에 반복·다시를 뜻하는 접두사 're-'가 붙은 단어로, 한 번 무너진 것을 다시 쌓아 올린다는 의미를 담고 있습니다.",
+    "nuanceKo": "단순한 변화가 아닌 상당한 어려움을 극복하고 처음부터 다시 시작하는 결단과 노력을 강조하는 표현으로, 회복력과 의지를 긍정적으로 부각시킵니다.",
+    "shortExampleEn": "It took him years to rebuild his life after the accident.",
+    "shortExampleKo": "그는 사고 후 삶을 다시 쌓는 데 수년이 걸렸습니다."
+  }
+}

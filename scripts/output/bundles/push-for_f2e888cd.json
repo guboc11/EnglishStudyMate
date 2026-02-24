@@ -1,0 +1,30 @@
+{
+  "id": "push-for_f2e888cd",
+  "expression": "push for",
+  "selectionMeta": {
+    "selectedPhrase": "push for",
+    "selectedSenseLabelKo": "~을 위해 추구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The employees decided to push for better working conditions after months of long hours and no raises."
+  },
+  "step2": {
+    "story": "After years of inequality, the community members began to push for change at city hall. They organized meetings, gathered signatures, and spoke passionately at every council session. Their persistent efforts eventually moved the council to act.",
+    "topicTag": "social change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had watched her colleagues struggle with outdated equipment for two years, and she finally decided it was time to push for an upgrade. She compiled a detailed report showing how the old tools were slowing productivity and costing the company money. She presented her findings to the management team with calm confidence, backing every claim with hard data. At first, the executives were hesitant, citing budget concerns. But Maya continued to push for the investment, scheduling follow-up meetings and bringing in testimonials from the team. Three months later, the new systems arrived, and the whole department thanked her for never giving up.",
+    "topicTag": "workplace improvement",
+    "moodTag": "persistent"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 향해 밀어붙이다.",
+    "realUsageKo": "어떤 목표나 변화를 이루기 위해 지속적으로 노력하거나 압력을 가하는 상황에서 사용한다. 특히 반대나 장애물이 있음에도 포기하지 않고 추구할 때 쓰인다.",
+    "etymologyKo": "'push'는 고대 프랑스어 'pousser(밀다)'에서 유래했으며, 'for'와 결합해 특정 목표를 향해 힘을 쏟는다는 의미를 나타낸다.",
+    "nuanceKo": "단순히 원한다는 뜻을 넘어, 적극적으로 행동하고 주장하며 노력한다는 강한 뉘앙스를 담고 있다. 긍정적인 변화나 권리를 위해 싸우는 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "The union is pushing for a 10% pay raise.",
+    "shortExampleKo": "노동조합은 10% 임금 인상을 위해 추구하고 있다."
+  }
+}

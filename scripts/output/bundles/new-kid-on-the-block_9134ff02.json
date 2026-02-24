@@ -1,0 +1,30 @@
+{
+  "id": "new-kid-on-the-block_9134ff02",
+  "expression": "new kid on the block",
+  "selectionMeta": {
+    "selectedPhrase": "new kid on the block",
+    "selectedSenseLabelKo": "신참자",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She felt nervous walking into the office on her first day, knowing she was the new kid on the block."
+  },
+  "step2": {
+    "story": "Marcus joined the marketing team fresh out of college, clearly the new kid on the block. His colleagues had years of experience and inside jokes he didn't understand yet. But within a month, his fresh ideas had earned him a seat at every strategy meeting.",
+    "topicTag": "workplace",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When Priya transferred to the downtown branch, she was undeniably the new kid on the block. Everyone else had worked together for years and moved through the office with an easy familiarity she envied. She spent her first week mostly listening, quietly mapping the unspoken rules and alliances. Slowly, she started contributing in small ways — fixing a broken workflow here, suggesting a shortcut there. By the end of the month, her manager told her she'd settled in faster than anyone they'd hired in years. Priya smiled, knowing the hardest part of being the new kid on the block was simply showing up and staying curious.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "동네에 새로 온 아이",
+    "realUsageKo": "어떤 집단이나 분야에 새로 들어온 신참자를 가리킬 때 사용한다. 경험이 부족하고 아직 자리를 잡지 못한 사람을 표현하는 데 자주 쓰인다.",
+    "etymologyKo": "'block'은 미국 영어에서 주택가의 한 블록을 의미하며, 오래된 동네에 새로 이사 온 아이를 묘사하는 표현에서 유래했다. 1900년대 초반부터 비유적으로 사용되기 시작했다.",
+    "nuanceKo": "중립적이거나 약간 친근한 어조로 쓰이며, 신참자가 아직 경험이 없음을 강조하지만 비하하는 느낌은 없다. 때로는 새로운 시각을 가진 사람에 대한 기대감을 담기도 한다.",
+    "shortExampleEn": "As the new kid on the block, he had a lot to prove to his teammates.",
+    "shortExampleKo": "신참자로서 그는 팀원들에게 증명해야 할 것이 많았다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "break-a-cycle_8dfeda17",
+  "expression": "break a cycle",
+  "selectionMeta": {
+    "selectedPhrase": "break a cycle",
+    "selectedSenseLabelKo": "악순환을 끊다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She finally decided to seek therapy to break a cycle of self-doubt that had held her back for years."
+  },
+  "step2": {
+    "story": "After losing his job for the third time due to procrastination, Marcus knew he had to break a cycle before it destroyed his career. He started small, setting a single daily goal and sticking to it no matter what. Within weeks, the momentum he built changed everything.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Every generation in Priya's family had struggled with debt, and she grew up watching her parents stress over bills each month. By the time she entered her twenties, she understood that if she didn't actively break a cycle, she would repeat the same pattern. She enrolled in a financial literacy course and began tracking every expense with ruthless honesty. It wasn't easy — old habits whispered loudly — but she kept going, cutting unnecessary costs and building a small emergency fund for the first time in her family's history. Two years later, her parents asked her to teach them what she had learned. Breaking the cycle hadn't just freed her; it had opened a door for everyone she loved.",
+    "topicTag": "financial habits",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "반복되는 고리(cycle)를 끊다(break)는 뜻으로, 어떤 패턴이나 순환을 중단시키는 행위를 말한다.",
+    "realUsageKo": "나쁜 습관, 가난, 폭력, 심리적 문제 등 세대나 개인 안에서 반복되는 부정적인 패턴을 끊어낸다는 의미로 광범위하게 쓰인다. '악순환을 끊다'가 가장 자연스러운 번역이다.",
+    "etymologyKo": "'cycle'은 그리스어 'kyklos(바퀴, 원)'에서 유래했으며 반복되는 순환을 의미한다. 'break'와 결합해 그 순환을 강제로 중단시킨다는 뉘앙스를 만들어냈고, 20세기 중반부터 심리학·사회학 분야에서 자주 사용되기 시작했다.",
+    "nuanceKo": "단순한 중단이 아니라 의식적인 노력과 결단을 강조하는 표현이다. 주로 오랫동안 지속된 부정적 패턴을 대상으로 쓰이며, 긍정적 변화를 향한 강한 의지가 담긴 어조를 띤다.",
+    "shortExampleEn": "He went to counseling to break a cycle of anger that had damaged every relationship he had.",
+    "shortExampleKo": "그는 자신이 맺는 모든 관계를 망쳐온 분노의 악순환을 끊기 위해 상담을 받으러 갔다."
+  }
+}

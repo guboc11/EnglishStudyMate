@@ -1,0 +1,30 @@
+{
+  "id": "put-in-the-work_6a3f28fc",
+  "expression": "put in the work",
+  "selectionMeta": {
+    "selectedPhrase": "put in the work",
+    "selectedSenseLabelKo": "노력을 기울이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to improve your skills, you have to put in the work every single day."
+  },
+  "step2": {
+    "story": "Maya wanted to make the school basketball team, but she knew she wasn't the most talented player. She decided to put in the work anyway, practicing her shots for an hour before school every morning. When tryouts came, the coach noticed her dedication and offered her a spot on the team.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had always dreamed of running a marathon, but at 35 he had never run more than a mile without stopping. His friends told him it was too late to start, but he refused to believe them. He downloaded a training plan and began putting in the work — early morning runs in the cold, long weekend jogs when he would have rather stayed in bed. Some days his legs ached and his motivation wavered, but he kept showing up. Six months later, he crossed the finish line of his first marathon with tears streaming down his face, knowing that every hard mile had been worth it.",
+    "topicTag": "fitness",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '일에 노력을 투입하다'라는 뜻이다.",
+    "realUsageKo": "목표를 이루기 위해 꾸준히 시간과 에너지를 쏟아붓는다는 의미로, 특히 연습·훈련·자기계발 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'put in'은 '투입하다'는 뜻의 구동사이며, 'the work'는 필요한 노력 전반을 가리키는 명사구다. 스포츠 코칭 언어에서 유래해 일상으로 확산됐다.",
+    "nuanceKo": "단순히 열심히 한다는 뜻을 넘어, 결과가 보장되지 않아도 묵묵히 노력을 지속한다는 의지와 헌신의 뉘앙스를 담고 있다.",
+    "shortExampleEn": "She put in the work to become fluent in Spanish.",
+    "shortExampleKo": "그녀는 스페인어를 유창하게 하기 위해 꾸준히 노력을 기울였다."
+  }
+}

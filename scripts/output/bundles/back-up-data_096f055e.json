@@ -1,0 +1,30 @@
+{
+  "id": "back-up-data_096f055e",
+  "expression": "back up data",
+  "selectionMeta": {
+    "selectedPhrase": "back up data",
+    "selectedSenseLabelKo": "데이터를 백업하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "Before reinstalling the operating system, make sure you back up data stored on your hard drive to an external device."
+  },
+  "step2": {
+    "story": "Lena's laptop crashed without warning, and she lost months of project files. After that, she set a weekly reminder to back up data to the cloud so it would never happen again.",
+    "topicTag": "data loss",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Marcus had been working on his thesis for over a year when his computer suddenly stopped turning on. The repair shop told him the hard drive had failed completely. He had never taken the time to back up data, assuming it was something he could do later. Sitting in the waiting room, he felt a hollow dread as he imagined losing everything. From that day on, he adopted a strict routine: every Sunday evening, he would back up data to both an external drive and a cloud service. He vowed never to let convenience cost him his work again.",
+    "topicTag": "data protection",
+    "moodTag": "regretful"
+  },
+  "meaning": {
+    "literalMeaningKo": "데이터를 뒤쪽(안전한 곳)에 복사해 두다.",
+    "realUsageKo": "컴퓨터나 기기에 저장된 파일, 사진, 문서 등을 분실이나 손상에 대비해 다른 저장 장치나 클라우드에 복사해 두는 행위를 가리킨다.",
+    "etymologyKo": "'Back up'은 '뒤를 받치다, 지원하다'는 뜻의 구동사로, 데이터 맥락에서는 원본을 '뒤에서 받쳐 주는' 복사본을 만든다는 의미로 굳어졌다.",
+    "nuanceKo": "단순히 복사하는 것 이상으로 '예비·보험용' 뉘앙스가 강하며, IT 환경뿐 아니라 일상 대화에서도 자연스럽게 쓰인다.",
+    "shortExampleEn": "You should back up data before updating your phone's software.",
+    "shortExampleKo": "스마트폰 소프트웨어를 업데이트하기 전에 데이터를 백업해야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "reap-the-benefits_a78ea8ca",
+  "expression": "reap the benefits",
+  "selectionMeta": {
+    "selectedPhrase": "reap the benefits",
+    "selectedSenseLabelKo": "혜택을 누리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of consistent exercise and healthy eating, she finally began to reap the benefits of her disciplined lifestyle."
+  },
+  "step2": {
+    "story": "Marcus spent three years learning to code in his spare time, sacrificing weekends and late nights. Last month, he landed a senior developer position with a salary he once thought impossible. He was finally reaping the benefits of all that hard work.",
+    "topicTag": "career growth",
+    "moodTag": "rewarded"
+  },
+  "step3": {
+    "story": "For five years, Elena poured everything into her small organic farm — early mornings, backbreaking labor, and more failed harvests than she cared to count. Neighbors questioned her methods, and banks were reluctant to extend her credit. But she stayed the course, improving her soil, building relationships with local restaurants, and refining her crop rotation. This summer, demand finally outpaced supply, and her waiting list stretched three months long. Standing in her thriving fields at dawn, Elena took a quiet breath, knowing she was at last reaping the benefits of every sacrifice she had made.",
+    "topicTag": "perseverance",
+    "moodTag": "fulfilled"
+  },
+  "meaning": {
+    "literalMeaningKo": "수확하다(reap)와 혜택(benefits)이 결합된 표현으로, 말 그대로 '혜택을 거두어들이다'라는 뜻이다.",
+    "realUsageKo": "주로 오랜 노력이나 투자 끝에 긍정적인 결과를 얻는 상황에서 사용된다. 건강, 커리어, 교육, 투자 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'reap'은 고대 영어 'rēpan'에서 유래하여 곡식을 베어 수확하는 행위를 의미했다. 농경 사회에서 씨앗을 뿌리고 수확하는 개념이 '노력의 결실을 얻다'라는 비유적 의미로 발전했다.",
+    "nuanceKo": "노력과 보상 사이의 시간적 간격을 내포하며, 결과가 저절로 얻어진 것이 아님을 암시한다. 긍정적인 맥락에서만 사용되며, 부정적인 결과에는 'face the consequences' 같은 표현을 쓴다.",
+    "shortExampleEn": "Investing in education now means you'll reap the benefits for decades to come.",
+    "shortExampleKo": "지금 교육에 투자하면 앞으로 수십 년간 그 혜택을 누리게 될 것입니다."
+  }
+}

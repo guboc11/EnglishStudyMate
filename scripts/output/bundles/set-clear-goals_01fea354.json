@@ -1,0 +1,30 @@
+{
+  "id": "set-clear-goals_01fea354",
+  "expression": "set clear goals",
+  "selectionMeta": {
+    "selectedPhrase": "set clear goals",
+    "selectedSenseLabelKo": "명확한 목표를 세우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before starting the new project, the team manager urged everyone to set clear goals so they could measure their progress effectively."
+  },
+  "step2": {
+    "story": "Maya had been feeling overwhelmed at work, spinning her wheels without direction. Her mentor advised her to set clear goals for each week and write them down. Within a month, her productivity soared and her stress began to fade.",
+    "topicTag": "personal productivity",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Daniel had always been ambitious, but his efforts felt scattered and unfocused. Every evening he would sit at his desk, working late into the night, yet somehow never feeling like he was making real progress. His coach suggested that he take a step back and set clear goals—specific, measurable targets he could actually track. At first, the process felt tedious, but as Daniel began breaking his ambitions into concrete milestones, something shifted. He started each morning knowing exactly what he needed to accomplish, and for the first time in years, his hard work felt purposeful. By the end of the quarter, he had not only reached his targets but had rediscovered his passion for the work itself.",
+    "topicTag": "goal setting",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'명확한 목표를 세우다'라는 뜻으로, 구체적이고 분명한 목표를 정한다는 의미입니다.",
+    "realUsageKo": "직장, 학업, 개인 성장 등 다양한 맥락에서 막연한 바람이 아닌 측정 가능하고 구체적인 목표를 수립할 때 사용합니다. 주로 계획, 자기계발, 팀 관리와 관련된 대화에서 자주 등장합니다.",
+    "etymologyKo": "'set'은 고대 영어 'settan(놓다, 정하다)'에서 유래했으며, 'goal'은 중세 영어에서 '경계, 도달점'을 의미하던 단어에서 발전했습니다. 두 단어가 결합해 '목표를 설정한다'는 뜻의 관용 표현이 되었습니다.",
+    "nuanceKo": "단순히 희망 사항을 말하는 것이 아니라 의도적이고 체계적으로 목표를 정하는 행위를 강조합니다. 'clear(명확한)'가 함께 쓰여 모호함 없이 구체적으로 목표를 정한다는 뉘앙스를 더해 줍니다.",
+    "shortExampleEn": "It's important to set clear goals at the beginning of each semester.",
+    "shortExampleKo": "각 학기 초에 명확한 목표를 세우는 것이 중요합니다."
+  }
+}

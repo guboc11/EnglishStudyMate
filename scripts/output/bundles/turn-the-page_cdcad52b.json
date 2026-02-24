@@ -1,0 +1,30 @@
+{
+  "id": "turn-the-page_cdcad52b",
+  "expression": "turn the page",
+  "selectionMeta": {
+    "selectedPhrase": "turn the page",
+    "selectedSenseLabelKo": "새 장을 열다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of grief, she finally decided to turn the page and start rebuilding her life."
+  },
+  "step2": {
+    "story": "Marcus stared at the resignation letter on his desk, knowing it was time to turn the page on a decade-long career that had slowly drained his spirit. He signed it, sealed the envelope, and felt a quiet weight lift from his chest. Whatever came next, he was ready to begin a new chapter.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For three years, Elena had kept her ex-husband's belongings in boxes in the spare room, unable to part with the life they had shared. One rainy Saturday, she finally carried the boxes to the donation center, her hands trembling but her resolve steady. Back home, she repainted the room a soft yellow and moved her easel in front of the window. It was a small act, but it felt enormous — a conscious choice to turn the page and let herself imagine a future that was entirely her own. She opened a fresh canvas and began to paint, and for the first time in years, she smiled without effort.",
+    "topicTag": "personal renewal",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "책의 페이지를 넘기다.",
+    "realUsageKo": "과거의 힘든 일이나 어떤 시기를 뒤로하고 새로운 출발을 한다는 의미로 사용된다. 인생의 새 장을 열거나 묵은 감정을 정리하고 앞으로 나아갈 때 주로 쓴다.",
+    "etymologyKo": "책 페이지를 넘기면 새로운 내용이 시작된다는 물리적 행위에서 비롯된 은유적 표현이다. 인생을 한 권의 책에 비유하는 오래된 문학적 전통에서 유래했다.",
+    "nuanceKo": "단순히 변화를 뜻하는 것이 아니라 과거를 의도적으로 정리하고 새 출발을 선택한다는 능동적 뉘앙스가 강하다. 슬픔이나 실패, 관계 등 감정적으로 무거운 맥락에서 자주 쓰여 결단과 용기의 느낌을 동반한다.",
+    "shortExampleEn": "It took him years, but he's finally ready to turn the page after the divorce.",
+    "shortExampleKo": "시간이 많이 걸렸지만, 그는 이혼 후 드디어 새 장을 열 준비가 됐다."
+  }
+}

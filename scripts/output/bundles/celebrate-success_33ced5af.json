@@ -1,0 +1,30 @@
+{
+  "id": "celebrate-success_33ced5af",
+  "expression": "celebrate success",
+  "selectionMeta": {
+    "selectedPhrase": "celebrate success",
+    "selectedSenseLabelKo": "성공을 축하하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of hard work, the whole team gathered to celebrate success at the end-of-year banquet."
+  },
+  "step2": {
+    "story": "Mia had been working on the project for six grueling months, missing weekends and staying late every night. When the client finally approved the final design, her manager announced they would celebrate success with a team dinner. That evening, surrounded by her colleagues, Mia felt every sacrifice had been worth it.",
+    "topicTag": "achievement",
+    "moodTag": "joyful"
+  },
+  "step3": {
+    "story": "After two years of relentless effort, Daniel's startup had finally landed its first major contract. He stood in the small office he had rented with borrowed money and looked at the signed agreement on his desk. He called his co-founders together and said it was time to celebrate success, not just the deal, but every late night and every rejection they had powered through. They drove to their favorite restaurant, ordered far too much food, and laughed until the place closed. On the way home, Daniel stared out the car window and quietly promised himself this was only the beginning. The feeling of finally having something to show for his faith in the idea was something he never wanted to forget.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "성공을 기념하거나 축하하다.",
+    "realUsageKo": "목표를 달성했을 때 그 성과를 함께 인정하고 기뻐하는 행동을 가리킨다. 개인적인 성취뿐 아니라 팀이나 조직의 성과를 공유할 때도 자주 쓰인다.",
+    "etymologyKo": "'celebrate'는 라틴어 'celebrare(많은 사람이 모여 영예를 드리다)'에서 유래했으며, 'success'는 라틴어 'successus(뒤따르는 좋은 결과)'에서 왔다.",
+    "nuanceKo": "단순한 파티가 아니라 노력의 결실을 인정하고 공유한다는 뉘앙스가 강하다. 직장, 스포츠, 학업 등 다양한 맥락에서 격식체와 비격식체 모두에 자연스럽게 쓰인다.",
+    "shortExampleEn": "We threw a party to celebrate success after winning the championship.",
+    "shortExampleKo": "우리는 우승한 후 성공을 축하하기 위해 파티를 열었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "overcome-resistance_fb3ebeba",
+  "expression": "overcome resistance",
+  "selectionMeta": {
+    "selectedPhrase": "overcome resistance",
+    "selectedSenseLabelKo": "저항을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team had to overcome resistance from long-time employees before the new workflow was finally accepted."
+  },
+  "step2": {
+    "story": "Maya proposed a bold restructuring plan, but many colleagues pushed back immediately. She held extra meetings and listened carefully to their concerns, determined to overcome resistance one conversation at a time. Slowly, skeptics became supporters.",
+    "topicTag": "workplace change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the city council introduced a plan to convert the old factory district into a public park, residents who had lived near the site for decades were furious. They feared losing the industrial jobs that had sustained their families for generations. The project lead, Elena, knew she had to overcome resistance before construction could begin. She organized town halls, shared environmental data, and promised job-retraining programs for displaced workers. Week by week, protest signs came down and hands were extended in cautious cooperation. By spring, the groundbreaking ceremony was attended by the very people who had once stood against it.",
+    "topicTag": "community development",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "저항(반대)을 극복하다, 즉 반대 세력이나 장애물을 이겨내다.",
+    "realUsageKo": "사람들의 반대 의견, 관료적 장벽, 또는 변화에 대한 심리적 거부감을 설득·노력·끈기로 뚫어낸다는 의미로 주로 사용된다.",
+    "etymologyKo": "'overcome'은 고대 영어 'ofercuman(넘어서 오다)'에서 유래했고, 'resistance'는 라틴어 'resistere(맞서 서다)'에서 파생되어 두 단어 모두 '맞서 싸워 이기다'는 의미를 공유한다.",
+    "nuanceKo": "단순히 문제를 해결한다는 뜻보다, 능동적으로 반대 세력에 맞서 끈질기게 설득하거나 이겨냈다는 뉘앙스가 강하다. 비즈니스, 정치, 자기계발 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "The entrepreneur had to overcome resistance from investors who doubted her vision.",
+    "shortExampleKo": "그 기업가는 자신의 비전을 의심하는 투자자들의 저항을 극복해야 했다."
+  }
+}

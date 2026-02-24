@@ -1,0 +1,30 @@
+{
+  "id": "strike-out_2b33a58d",
+  "expression": "strike out",
+  "selectionMeta": {
+    "selectedPhrase": "strike out",
+    "selectedSenseLabelKo": "실패하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite months of preparation, she struck out at her first audition and had to rethink her approach."
+  },
+  "step2": {
+    "story": "Marcus had been confident going into the job interview, but he struck out when he fumbled through the technical questions. He left the building feeling deflated, wondering where it all went wrong. That evening, he called a friend and vowed to practice harder before the next one.",
+    "topicTag": "career setback",
+    "moodTag": "discouraged"
+  },
+  "step3": {
+    "story": "Nina had spent weeks rehearsing her pitch for the startup competition, memorizing every slide and anticipating every question. When the moment finally came, she struck out—the judges were unimpressed and gave her only lukewarm feedback. She sat quietly in the hallway afterward, replaying every misstep in her mind. But by the time she got home, a quiet determination had replaced the disappointment. She opened her laptop, rewrote the pitch from scratch, and signed up for the next competition. Striking out had stung, but it also showed her exactly what she needed to fix.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "야구에서 타자가 세 번의 스트라이크로 아웃되다.",
+    "realUsageKo": "어떤 시도나 노력이 원하는 결과를 얻지 못하고 실패하다. 특히 도전이나 경쟁에서 뜻대로 되지 않을 때 폭넓게 사용된다.",
+    "etymologyKo": "미국 야구 용어에서 유래했으며, 타자가 세 번 스트라이크를 당해 아웃되는 상황을 가리키던 표현이 일상적인 '실패' 의미로 확장되었다.",
+    "nuanceKo": "단순한 실수보다는 기대나 의욕을 가지고 도전했다가 결과적으로 실패한 뉘앙스가 강하다. 스포츠·비즈니스·연애 등 다양한 맥락에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "He struck out trying to get a date with her.",
+    "shortExampleKo": "그는 그녀에게 데이트를 신청했다가 퇴짜를 맞았다."
+  }
+}

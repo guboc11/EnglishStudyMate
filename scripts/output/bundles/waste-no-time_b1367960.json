@@ -1,0 +1,30 @@
+{
+  "id": "waste-no-time_b1367960",
+  "expression": "waste no time",
+  "selectionMeta": {
+    "selectedPhrase": "waste no time",
+    "selectedSenseLabelKo": "시간을 낭비하지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As soon as she received the job offer, she wasted no time in signing the contract and notifying her current employer."
+  },
+  "step2": {
+    "story": "When the fire alarm went off, the manager wasted no time evacuating everyone from the building. Within minutes, all staff were safely gathered in the parking lot.",
+    "topicTag": "emergency response",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "After years of dreaming about opening her own bakery, Mia finally had enough savings to make it happen. She wasted no time signing the lease on a small shop downtown and ordering all the equipment she needed. Her friends offered to help paint the walls and set up the display cases over the weekend. By Monday morning, the sweet smell of fresh bread was already drifting out onto the street. Mia stood at the door, watching the first customers walk in, and smiled to herself — she had waited long enough.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간을 낭비하지 않다, 즉 지체 없이 즉시 행동에 나서다.",
+    "realUsageKo": "어떤 일을 망설이거나 미루지 않고 바로 시작할 때 사용하며, 결단력 있고 신속한 행동을 강조하는 표현이다. 주로 'waste no time (in) -ing' 형태로 쓰인다.",
+    "etymologyKo": "'waste'는 고대 프랑스어 'waster(낭비하다)'에서 유래하였으며, 'no time'과 결합해 '시간을 조금도 낭비하지 않다'는 뜻으로 자리 잡았다.",
+    "nuanceKo": "긍정적이고 능동적인 뉘앙스로, 기회나 상황이 주어졌을 때 즉각 행동하는 사람의 태도를 칭찬하거나 묘사할 때 자주 쓰인다. 다소 격식체에도 구어체에도 두루 쓰인다.",
+    "shortExampleEn": "He wasted no time getting started on the project.",
+    "shortExampleKo": "그는 지체 없이 프로젝트에 착수했다."
+  }
+}

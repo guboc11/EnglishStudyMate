@@ -1,0 +1,30 @@
+{
+  "id": "conduct-market-research_26f20263",
+  "expression": "conduct market research",
+  "selectionMeta": {
+    "selectedPhrase": "conduct market research",
+    "selectedSenseLabelKo": "시장 조사를 하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Before launching the new product, the team decided to conduct market research to better understand customer needs."
+  },
+  "step2": {
+    "story": "Sarah's startup was struggling to find its footing, so she spent three weeks conducting market research across five cities. The surveys and interviews revealed a gap no competitor had noticed. Armed with that data, she pivoted her product and secured funding within a month.",
+    "topicTag": "startup strategy",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Marcus joined the struggling retail chain as its new marketing director, the first thing he did was conduct thorough market research. He organized focus groups, analyzed purchase data, and surveyed thousands of past customers. The findings were humbling — shoppers craved personalized service, not the endless discount campaigns the company had been running. Marcus presented the results to the board with quiet confidence, knowing the numbers told a story no executive could dismiss. Within six months, the stores had rebranded around the customer experience his research had outlined, and quarterly revenue climbed for the first time in three years.",
+    "topicTag": "business turnaround",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "시장에 대한 조사를 수행하다.",
+    "realUsageKo": "신제품 출시나 사업 전략 수립 전에 소비자 동향, 경쟁 환경, 수요 등을 체계적으로 분석하는 활동을 가리킬 때 쓴다.",
+    "etymologyKo": "'conduct'는 라틴어 'conducere(함께 이끌다)'에서 유래해 '(공식적으로) 수행하다'는 뜻을 지니며, 'market research'는 19세기 산업화 이후 마케팅 분야에서 정착된 용어다.",
+    "nuanceKo": "단순한 정보 수집이 아니라 목적을 갖고 체계적·공식적으로 진행하는 조사임을 강조하는 표현으로, 비즈니스 맥락에서 전문성과 신중함을 내포한다.",
+    "shortExampleEn": "We need to conduct market research before entering the Asian market.",
+    "shortExampleKo": "아시아 시장에 진출하기 전에 시장 조사를 실시해야 합니다."
+  }
+}

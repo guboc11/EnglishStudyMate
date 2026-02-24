@@ -1,0 +1,30 @@
+{
+  "id": "fall-from-grace_b712fccf",
+  "expression": "fall from grace",
+  "selectionMeta": {
+    "selectedPhrase": "fall from grace",
+    "selectedSenseLabelKo": "타락하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The once-celebrated CEO fell from grace after investigators uncovered years of financial fraud."
+  },
+  "step2": {
+    "story": "Daniel had been the city's most admired prosecutor, known for his unwavering honesty and record of convictions. But when evidence surfaced that he had been accepting bribes for years, he fell from grace almost overnight. The courtrooms he once commanded now buzzed with whispers of his downfall.",
+    "topicTag": "corruption scandal",
+    "moodTag": "somber"
+  },
+  "step3": {
+    "story": "For fifteen years, Senator Claire Novak had been a symbol of integrity in a capital notorious for self-interest. She had championed education reform, spoken out against corporate corruption, and twice won her state's most-trusted politician award. Then a whistleblower released a cache of emails proving she had quietly accepted donations from the very industries she publicly condemned. She fell from grace with breathtaking speed — supporters withdrew their endorsements, her party distanced itself, and the press that once praised her ran headlines calling her a hypocrite. Claire sat alone in her empty campaign office late one night, staring at a framed photo of her first swearing-in ceremony, struggling to recognize the person she had become.",
+    "topicTag": "political downfall",
+    "moodTag": "melancholic"
+  },
+  "meaning": {
+    "literalMeaningKo": "은혜나 호의로부터 추락하다.",
+    "realUsageKo": "한때 높은 명성이나 신뢰를 누리던 사람이 도덕적 실수나 비윤리적 행동으로 인해 사회적 지위와 신용을 잃는 상황을 묘사할 때 쓰인다.",
+    "etymologyKo": "기독교 신학에서 유래한 표현으로, 인간이 신의 은총(grace)에서 벗어나 죄에 빠지는 상태를 가리켰다. 이후 세속적 맥락으로 확장되어 권력자나 유명인의 사회적 명성 추락을 뜻하게 되었다.",
+    "nuanceKo": "단순한 실패가 아니라 도덕적 배신이나 결함에 의한 추락을 내포한다. 이전에 높이 평가받던 인물에게 사용될수록 그 낙차의 충격이 크게 느껴지는 표현이다.",
+    "shortExampleEn": "The legendary coach fell from grace after allegations of match-fixing emerged.",
+    "shortExampleKo": "그 전설적인 감독은 승부 조작 의혹이 불거진 후 명성을 잃었다."
+  }
+}

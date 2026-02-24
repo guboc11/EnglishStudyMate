@@ -1,0 +1,30 @@
+{
+  "id": "wear-your-heart-on-your-sleeve_0cdff665",
+  "expression": "wear your heart on your sleeve",
+  "selectionMeta": {
+    "selectedPhrase": "wear your heart on your sleeve",
+    "selectedSenseLabelKo": "감정을 숨기지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She tends to wear her heart on her sleeve, which makes it easy for others to know exactly how she feels."
+  },
+  "step2": {
+    "story": "Unlike his reserved colleagues, Daniel always wore his heart on his sleeve at team meetings, openly sharing both his excitement and frustrations. One day, after a tough project setback, his honest reaction moved the entire team to rally around him. His openness ultimately built a level of trust that no polished presentation ever could.",
+    "topicTag": "workplace relationships",
+    "moodTag": "genuine"
+  },
+  "step3": {
+    "story": "Maya had always worn her heart on her sleeve, even as a child — her face a perfect mirror of every joy and disappointment she felt. When she started her first real job, her manager warned her that showing emotion too openly might be seen as weakness. But Maya refused to change; during a difficult client negotiation, she let her genuine concern for the customer's problem show. Surprisingly, the client responded with warmth and signed the contract on the spot, saying they trusted her precisely because she seemed so real. Her colleagues watched in amazement as Maya proved that vulnerability, far from being a liability, could be her greatest professional strength.",
+    "topicTag": "personal authenticity",
+    "moodTag": "vulnerable yet confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 심장을 소매 위에 올려놓다.",
+    "realUsageKo": "감정이나 속마음을 숨기지 않고 드러내는 사람에게 사용하며, 주로 감정 표현이 풍부하거나 솔직한 사람을 묘사할 때 씁니다.",
+    "etymologyKo": "중세 기사들이 마상 시합에서 좋아하는 여인의 색깔 천을 소매에 달아 마음을 공개적으로 표현한 전통에서 유래했으며, 셰익스피어의 《오셀로》에서도 등장합니다.",
+    "nuanceKo": "긍정적으로는 진솔하고 감정에 충실한 사람을 뜻하지만, 맥락에 따라 감정 조절이 미숙하거나 지나치게 솔직하다는 뉘앙스를 담을 수도 있습니다.",
+    "shortExampleEn": "He wears his heart on his sleeve, so everyone knew he was upset the moment he walked in.",
+    "shortExampleKo": "그는 감정을 숨기지 않아서, 그가 들어오는 순간 모두가 그가 화났다는 걸 알 수 있었다."
+  }
+}

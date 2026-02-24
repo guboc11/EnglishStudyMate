@@ -1,0 +1,30 @@
+{
+  "id": "go-for-broke_ceb3c0a6",
+  "expression": "go for broke",
+  "selectionMeta": {
+    "selectedPhrase": "go for broke",
+    "selectedSenseLabelKo": "전력을 다하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Trailing by two points with only seconds left, the team decided to go for broke and attempt a full-court shot."
+  },
+  "step2": {
+    "story": "After years of playing it safe, Maya finally decided to go for broke and submit her novel to every major publisher at once. She knew the odds were against her, but she had nothing left to lose. Two weeks later, three publishers called back.",
+    "topicTag": "personal ambition",
+    "moodTag": "daring"
+  },
+  "step3": {
+    "story": "The startup had been running on fumes for months, and the board was ready to pull the plug. In a last-ditch effort, CEO Daniel stood up and said they should go for broke — sink every remaining dollar into one bold marketing campaign. The team worked around the clock for two weeks, designing something they'd never attempted before. When the campaign launched, it went viral overnight. Orders flooded in, and the company not only survived but landed a major partnership deal. What had seemed like a final gamble turned into the defining moment of their story.",
+    "topicTag": "startup challenge",
+    "moodTag": "high-stakes"
+  },
+  "meaning": {
+    "literalMeaningKo": "파산할 것을 각오하고 모든 것을 건다는 뜻으로, 말 그대로 '파산을 향해 나아가다'를 의미한다.",
+    "realUsageKo": "실제로는 결과에 상관없이 모든 에너지와 자원을 한 곳에 쏟아붓는 결단력 있는 행동을 묘사할 때 쓰인다. 주로 위험을 감수하면서도 전력을 다해 도전하는 상황에서 사용된다.",
+    "etymologyKo": "도박(gambling) 용어에서 유래했으며, 판돈을 전부 걸어 크게 따거나 완전히 잃는 상황을 가리키던 표현이다. 20세기 중반부터 일상적인 맥락으로 확장되었다.",
+    "nuanceKo": "강한 의지와 배수진의 느낌을 동반한다. 신중함보다는 과감함, 계산된 위험보다는 전력 투구의 뉘앙스가 강하며, 긍정적이고 결연한 맥락에서 주로 쓰인다.",
+    "shortExampleEn": "She decided to go for broke and audition for all three lead roles on the same day.",
+    "shortExampleKo": "그녀는 전력을 다해 같은 날 세 주연 역할 오디션 모두에 도전하기로 결심했다."
+  }
+}

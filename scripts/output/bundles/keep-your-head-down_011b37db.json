@@ -1,0 +1,30 @@
+{
+  "id": "keep-your-head-down_011b37db",
+  "expression": "keep your head down",
+  "selectionMeta": {
+    "selectedPhrase": "keep your head down",
+    "selectedSenseLabelKo": "조용히 일하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the office restructuring, Maria decided to keep her head down and focus on delivering her best work rather than getting involved in the politics."
+  },
+  "step2": {
+    "story": "After the new manager arrived and started making sweeping changes, Tom chose to keep his head down and concentrate on his projects. His colleagues spent hours gossiping and complaining, but Tom quietly delivered results. Within three months, he was the only one who received a positive performance review.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "When the company announced a round of layoffs, panic spread through the open-plan office like wildfire. Everyone was whispering, forming alliances, and jostling for visibility with the executives. Sarah, a mid-level analyst, made a different choice — she decided to keep her head down and let her spreadsheets speak for themselves. Day after day she arrived early, tackled the backlog that her team had ignored for months, and sent clean, concise reports up the chain. When the final list was announced, Sarah's name was not on it. Her manager pulled her aside afterward and said simply, 'I noticed.' Sometimes the quietest strategy is the most powerful one.",
+    "topicTag": "career survival",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리를 아래로 숙이다 — 즉, 눈에 띄지 않도록 고개를 낮추는 모습을 가리킵니다.",
+    "realUsageKo": "논란이나 갈등을 피하면서 자신의 일에 조용히 집중하는 태도를 표현할 때 사용합니다. 주로 직장이나 학교처럼 경쟁이 치열한 환경에서 '튀지 않고 묵묵히 일하다'는 뜻으로 쓰입니다.",
+    "etymologyKo": "전쟁 중 총격을 피하기 위해 실제로 머리를 낮추는(keep one's head down) 군사적 상황에서 유래한 표현입니다. 이후 '위험이나 주목을 피하다'는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "소극적으로 피한다는 뉘앙스보다는, 불필요한 갈등에 에너지를 낭비하지 않고 실질적인 성과에 집중하는 전략적·현명한 태도를 묘사하는 긍정적 뉘앙스가 강합니다.",
+    "shortExampleEn": "Just keep your head down until the deadline passes — there'll be time to address the conflict later.",
+    "shortExampleKo": "마감이 지날 때까지 그냥 조용히 일에 집중해 — 갈등은 나중에 해결할 시간이 생길 거야."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "make-a-wish_c39f8926",
+  "expression": "make a wish",
+  "selectionMeta": {
+    "selectedPhrase": "make a wish",
+    "selectedSenseLabelKo": "소원을 빌다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She closed her eyes and made a wish before blowing out the candles on her birthday cake."
+  },
+  "step2": {
+    "story": "Every year on her birthday, Lily would make a wish over the flickering candles. This year, she wished for the courage to start her own business. As the smoke drifted upward, she smiled and decided to stop waiting and take the first step.",
+    "topicTag": "birthday tradition",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "The old fountain in the town square had stood for over a hundred years, and locals believed it had the power to grant wishes. One autumn afternoon, Daniel stood at its edge, a coin warm in his palm, wondering if he should make a wish. He had always thought the ritual was silly, but after months of searching for a new direction, he felt he had nothing to lose. He tossed the coin in, closed his eyes, and made a wish for a fresh start. The next morning, he received an unexpected call from a company he had nearly forgotten applying to. Whether it was luck or the fountain, Daniel kept the memory close and finally felt ready to move forward.",
+    "topicTag": "life turning point",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "소원(wish)을 만들다(make), 즉 무언가를 간절히 바라는 행위를 뜻합니다.",
+    "realUsageKo": "생일 케이크 촛불을 끄거나 분수에 동전을 던질 때처럼 특정 의식과 함께 소원을 비는 상황에서 자주 쓰입니다. 더 넓게는 간절히 무언가를 바라는 마음을 표현할 때도 사용됩니다.",
+    "etymologyKo": "'make'는 고대 영어 'macian(만들다)'에서, 'wish'는 고대 영어 'wyscan(바라다)'에서 유래했습니다. 두 단어가 결합해 소원을 비는 행위 자체를 나타내는 관용적 표현이 되었습니다.",
+    "nuanceKo": "가볍고 희망적인 분위기를 담고 있으며, 아이부터 어른까지 일상적으로 사용하는 친근한 표현입니다. 진지한 기도보다는 소소하고 순수한 바람을 담을 때 더 자연스럽습니다.",
+    "shortExampleEn": "He tossed a coin into the fountain and made a wish.",
+    "shortExampleKo": "그는 분수에 동전을 던지며 소원을 빌었다."
+  }
+}

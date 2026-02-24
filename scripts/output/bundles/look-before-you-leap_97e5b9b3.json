@@ -1,0 +1,30 @@
+{
+  "id": "look-before-you-leap_97e5b9b3",
+  "expression": "look before you leap",
+  "selectionMeta": {
+    "selectedPhrase": "look before you leap",
+    "selectedSenseLabelKo": "행동 전에 생각하라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before signing the contract, she reminded herself to look before you leap and spent a week reviewing every clause carefully."
+  },
+  "step2": {
+    "story": "Daniel was eager to quit his job and start his own business after just one good month of freelance work. His mentor pulled him aside and said, 'Look before you leap — one good month doesn't mean steady income.' Daniel took the advice and spent three more months building savings before making the leap.",
+    "topicTag": "career decision",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When the startup offered Maya a founding role with equity but no salary, she felt the rush of excitement immediately. All her friends told her to jump at the chance, saying opportunities like this don't come twice. But her father's old saying echoed in her mind: look before you leap. She spent two weeks researching the founders, studying the financials, and talking to former employees. What she found — a pattern of unpaid invoices and high turnover — changed everything. She negotiated a modest salary into the deal before agreeing, and later credited that careful pause as the decision that protected her career.",
+    "topicTag": "startup opportunity",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "뛰어오르기 전에 먼저 살펴보라는 뜻으로, 행동하기 전에 상황을 꼼꼼히 확인하라는 말이다.",
+    "realUsageKo": "중요한 결정이나 돌이키기 어려운 행동을 하기 전에 충분히 생각하고 준비하라고 조언할 때 쓴다. 특히 충동적인 선택을 경계할 때 자주 사용된다.",
+    "etymologyKo": "16세기 영어 속담에서 유래했으며, 1567년 토머스 터서(Thomas Tusser)의 글에 처음 기록되었다. 물리적으로 절벽이나 구덩이를 뛰어넘기 전에 아래를 확인하는 행위에서 비롯된 표현이다.",
+    "nuanceKo": "충고나 경고의 어조를 띠며, 지나치게 열정적이거나 성급한 상대방을 진정시킬 때 쓰이는 경우가 많다. 부정적인 판단보다는 신중함을 권하는 긍정적인 뉘앙스다.",
+    "shortExampleEn": "You should look before you leap when investing your savings in something you just heard about.",
+    "shortExampleKo": "방금 들은 정보만으로 저축을 투자하기 전에 충분히 생각해봐야 한다."
+  }
+}

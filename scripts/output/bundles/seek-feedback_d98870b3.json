@@ -1,0 +1,30 @@
+{
+  "id": "seek-feedback_d98870b3",
+  "expression": "seek feedback",
+  "selectionMeta": {
+    "selectedPhrase": "seek feedback",
+    "selectedSenseLabelKo": "피드백을 구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After finishing the first draft, she decided to seek feedback from her mentor before submitting the report."
+  },
+  "step2": {
+    "story": "Marcus spent weeks developing his business proposal, but something felt off. He decided to seek feedback from a trusted colleague, who pointed out a major flaw in his financial projections. Thanks to that honest input, he was able to fix the issue before the big presentation.",
+    "topicTag": "professional growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Elena had always been a perfectionist, spending hours polishing every detail of her design before anyone else could see it. But after a project flopped despite her best efforts, she realized she had been working in a bubble. Her manager suggested she seek feedback early and often, rather than waiting until everything felt finished. Reluctantly, she shared a rough draft with the team during their next meeting. The comments were blunt but incredibly useful — they caught problems she had completely overlooked. From that point on, seeking feedback became her most valuable habit.",
+    "topicTag": "workplace culture",
+    "moodTag": "transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "피드백(반응, 의견)을 적극적으로 구하거나 요청하다.",
+    "realUsageKo": "주로 업무, 학습, 창작 등의 결과물에 대해 다른 사람의 평가나 조언을 요청할 때 사용한다. 단순히 의견을 듣는 것이 아니라 능동적으로 개선점을 찾으려는 태도를 강조한다.",
+    "etymologyKo": "'seek'는 고대 영어 'sēcan'(찾다, 탐색하다)에서 유래했으며, 'feedback'은 정보나 반응이 다시(feed back) 전달된다는 의미에서 20세기에 공학 용어로 쓰이다가 일상 언어로 확장되었다.",
+    "nuanceKo": "겸손하고 성장 지향적인 태도를 내포하며, 자기 주도적 학습이나 협업 문화를 중시하는 맥락에서 긍정적으로 평가되는 표현이다.",
+    "shortExampleEn": "He always seeks feedback from his team before launching a new feature.",
+    "shortExampleKo": "그는 새 기능을 출시하기 전에 항상 팀원들에게 피드백을 구한다."
+  }
+}

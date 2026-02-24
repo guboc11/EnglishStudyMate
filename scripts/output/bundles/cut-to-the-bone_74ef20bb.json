@@ -1,0 +1,30 @@
+{
+  "id": "cut-to-the-bone_74ef20bb",
+  "expression": "cut to the bone",
+  "selectionMeta": {
+    "selectedPhrase": "cut to the bone",
+    "selectedSenseLabelKo": "뼛속까지 자르다 / 최소화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company had to cut to the bone during the recession, eliminating entire departments to stay afloat."
+  },
+  "step2": {
+    "story": "After losing half its contracts, the small agency was forced to cut to the bone. The founder let go of all but two employees and moved into a cheaper office. It was painful, but the leaner operation finally allowed them to survive.",
+    "topicTag": "business survival",
+    "moodTag": "desperate"
+  },
+  "step3": {
+    "story": "When the regional hospital faced a severe budget shortfall, administrators knew they had no choice but to cut to the bone. They suspended non-essential programs, froze all new hiring, and reduced supply orders to the bare minimum. Nurses worked longer shifts with fewer resources, and the maintenance crew shrank from twelve to three. Patients noticed the changes, and morale among staff hit an all-time low. Yet somehow, through sheer discipline and sacrifice, the hospital managed to keep its doors open through the crisis.",
+    "topicTag": "healthcare budget",
+    "moodTag": "grim"
+  },
+  "meaning": {
+    "literalMeaningKo": "뼈까지 베어낸다는 뜻으로, 아무것도 남기지 않을 만큼 극단적으로 잘라낸다는 이미지에서 비롯됨.",
+    "realUsageKo": "예산, 비용, 인력 등을 더 이상 줄일 수 없을 정도로 최소한으로 감축했을 때 사용하며, 감축의 고통과 불가피함을 동시에 내포한다.",
+    "etymologyKo": "고기를 뼈에 붙을 때까지 깎아내는 정육 이미지에서 유래했으며, 19세기 영어에서 비유적 의미로 확장되어 현재까지 쓰인다.",
+    "nuanceKo": "단순한 절감이 아니라 '더는 뺄 것이 없을 만큼 깎았다'는 극단적 뉘앙스를 가지며, 고통스럽고 어쩔 수 없는 상황임을 암시한다.",
+    "shortExampleEn": "We've already cut to the bone — there's nothing left to reduce without shutting down entirely.",
+    "shortExampleKo": "우리는 이미 최대한 줄였어요. 이 이상 줄이면 아예 문을 닫아야 해요."
+  }
+}

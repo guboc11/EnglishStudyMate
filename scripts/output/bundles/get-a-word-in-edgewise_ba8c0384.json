@@ -1,0 +1,30 @@
+{
+  "id": "get-a-word-in-edgewise_ba8c0384",
+  "expression": "get a word in edgewise",
+  "selectionMeta": {
+    "selectedPhrase": "get a word in edgewise",
+    "selectedSenseLabelKo": "말 끼어들 틈이 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the meeting, my colleague talked so much that I couldn't get a word in edgewise."
+  },
+  "step2": {
+    "story": "Sarah had been waiting to share her idea at the team meeting, but her manager kept talking without pause. She tried several times but couldn't get a word in edgewise. Finally, she sent a follow-up email to make her point instead.",
+    "topicTag": "workplace communication",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Marcus had traveled all the way from Boston to meet his old college friend Jake, excited to catch up after three years apart. But from the moment they sat down at the café, Jake launched into a non-stop monologue about his new startup, his recent travels, and his plans for the future. Marcus tried to interject with his own news — a new job, an engagement, a cross-country move — but he couldn't get a word in edgewise. He nodded politely, sipped his coffee, and waited. An hour passed before Jake finally paused for breath and asked, 'So, how have you been?' Marcus just smiled and said, 'You know what, let me start from the beginning.'",
+    "topicTag": "friendship",
+    "moodTag": "wry amusement"
+  },
+  "meaning": {
+    "literalMeaningKo": "꽉 막힌 대화의 틈새에 한 마디를 비집어 넣다.",
+    "realUsageKo": "누군가가 너무 많이 또는 빠르게 말해서 다른 사람이 대화에 끼어들거나 한마디도 하기 어려운 상황을 표현할 때 사용합니다. 주로 부정문('couldn't get a word in edgewise') 형태로 쓰입니다.",
+    "etymologyKo": "'edgewise'는 '모서리(edge)로'라는 뜻으로, 꽉 막힌 공간에 칼날처럼 얇은 것을 옆으로 끼워 넣는다는 이미지에서 비롯되었습니다. 말이 너무 많아 틈이 없는 대화에 한 마디를 비집고 넣으려는 모습을 비유한 표현입니다.",
+    "nuanceKo": "주로 유머러스하거나 약간 불만 섞인 어조로 사용됩니다. 상대방이 말이 너무 많다는 것을 직접 비판하지 않고 완곡하게 표현하는 방식으로 자주 쓰입니다.",
+    "shortExampleEn": "Once Dad starts telling his stories, nobody can get a word in edgewise.",
+    "shortExampleKo": "아버지가 이야기를 시작하면, 아무도 끼어들 수가 없어."
+  }
+}

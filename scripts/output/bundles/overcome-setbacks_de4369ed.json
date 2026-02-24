@@ -1,0 +1,30 @@
+{
+  "id": "overcome-setbacks_de4369ed",
+  "expression": "overcome setbacks",
+  "selectionMeta": {
+    "selectedPhrase": "overcome setbacks",
+    "selectedSenseLabelKo": "좌절을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She trained for months to overcome the setbacks that had kept her from finishing the marathon last year."
+  },
+  "step2": {
+    "story": "After losing his job unexpectedly, Marcus spent weeks feeling lost and discouraged. But with the support of his family, he slowly began to overcome the setbacks and rebuilt his confidence. He eventually landed a better position than the one he had lost.",
+    "topicTag": "career resilience",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Lena had always dreamed of opening her own bakery, but the road was far from smooth. Her first location flooded just weeks after opening, and a supply shortage forced her to close temporarily. Friends urged her to quit, but Lena was determined to overcome these setbacks one by one. She found a new space, negotiated better supplier contracts, and reopened with a loyal customer base behind her. Each obstacle had taught her something new about running a business. Standing behind the counter on her grand reopening day, she felt stronger than she ever had before.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "장애물이나 실패를 극복하여 앞으로 나아가다.",
+    "realUsageKo": "목표를 향해 가는 과정에서 겪는 실패, 좌절, 역경 등을 이겨내고 계속 나아가는 상황에 쓰인다. 개인적 성장, 직장, 스포츠 등 다양한 맥락에서 폭넓게 사용된다.",
+    "etymologyKo": "'overcome'은 고대 영어 'ofercuman'에서 유래하여 '위에서 압도하다'는 의미를 가졌고, 'setback'은 '뒤로 물러서게 하는 것'이라는 뜻으로 진전을 방해하는 사건을 가리킨다.",
+    "nuanceKo": "단순한 문제 해결이 아닌 의지와 노력이 필요한 어려움을 이겨냈다는 뉘앙스가 강하다. 긍정적이고 고무적인 맥락에서 자주 등장한다.",
+    "shortExampleEn": "It takes real courage to overcome setbacks and keep moving forward.",
+    "shortExampleKo": "좌절을 극복하고 계속 앞으로 나아가려면 진정한 용기가 필요하다."
+  }
+}

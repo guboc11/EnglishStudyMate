@@ -1,0 +1,30 @@
+{
+  "id": "not-in-a-million-years_b7a64258",
+  "expression": "not in a million years",
+  "selectionMeta": {
+    "selectedPhrase": "not in a million years",
+    "selectedSenseLabelKo": "절대 아니다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When her boss asked if she would work through the holiday weekend without extra pay, she said, 'Not in a million years.'"
+  },
+  "step2": {
+    "story": "Daniel stared at the bungee jump platform, heart hammering in his chest. His friends cheered him on, but he shook his head — not in a million years would he leap off that bridge. He waved them ahead and waited safely on the ground.",
+    "topicTag": "adventure",
+    "moodTag": "defiant"
+  },
+  "step3": {
+    "story": "Sara had always been the cautious one in her friend group, and nowhere was that clearer than on the hiking trip to Cliffside Peak. When the guide pointed out the optional zip-line descent over the canyon, everyone turned to look at her with knowing smiles. 'Not in a million years,' she said flatly, crossing her arms. Her friends laughed and teased her, but Sara held her ground without a trace of embarrassment. She had learned long ago that there was nothing wrong with knowing your own limits. She met them all at the bottom by the longer trail, perfectly content.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "백만 년이 지나도 아니다 — 즉, 어떤 시간이 흘러도 절대 일어나지 않을 것이라는 의미.",
+    "realUsageKo": "어떤 제안이나 가능성을 강하게 거부하거나 부정할 때 사용하며, '절대 안 해', '절대 그럴 리 없어'의 뉘앙스를 전달한다.",
+    "etymologyKo": "'a million years'는 상상할 수 없는 긴 시간을 과장법으로 표현한 것으로, 17세기 이후 영어에서 강한 부정의 관용구로 굳어졌다.",
+    "nuanceKo": "매우 단호하고 감정적인 거부를 나타내며, 격식체보다는 구어체에서 주로 쓰인다. 종종 놀라움이나 불쾌감이 섞인 어조로 사용된다.",
+    "shortExampleEn": "Would you ever apologize to him after what he did? Not in a million years.",
+    "shortExampleKo": "그가 한 짓을 생각하면 그에게 사과할 것 같아? 절대 아니야."
+  }
+}

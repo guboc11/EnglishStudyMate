@@ -1,0 +1,30 @@
+{
+  "id": "go-back-to-square-one_64008d07",
+  "expression": "go back to square one",
+  "selectionMeta": {
+    "selectedPhrase": "go back to square one",
+    "selectedSenseLabelKo": "처음으로 돌아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the prototype failed the safety tests, the engineering team had to go back to square one and rethink their entire design."
+  },
+  "step2": {
+    "story": "Maya spent three weeks building a business plan, only to hear that the market she was targeting had just been flooded by competitors. She sighed and told her partner, 'We have to go back to square one.' Starting fresh felt discouraging, but they both knew it was the only honest path forward.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "discouraged but resolute"
+  },
+  "step3": {
+    "story": "The development team had been working on the app for four months when a last-minute requirement from the client changed everything. The new feature was incompatible with the entire database structure they had built. The lead developer stared at the screen in silence before finally saying, 'We have to go back to square one.' The news hit the team hard — late nights, coffee-fueled debugging sessions, and countless micro-decisions had all led to this moment. Yet once the initial disappointment faded, something unexpected happened: the team felt strangely liberated. Knowing exactly what had gone wrong, they rebuilt with sharper instincts and finished in half the original time.",
+    "topicTag": "software development",
+    "moodTag": "frustrated then empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '네모 칸 1번으로 돌아간다'는 뜻으로, 보드게임에서 출발점으로 되돌아가는 상황을 묘사합니다.",
+    "realUsageKo": "계획이나 프로젝트가 완전히 실패하거나 처음부터 다시 시작해야 할 때 사용합니다. 상당한 노력이 물거품이 된 상황에서 주로 씁니다.",
+    "etymologyKo": "20세기 초 영국의 보드게임 또는 라디오 축구 중계에서 경기장을 격자(square)로 나눠 설명하던 방식에서 유래했다고 알려져 있으며, 1번 칸으로 돌아가는 것이 출발점 복귀를 의미하게 되었습니다.",
+    "nuanceKo": "단순한 수정이 아닌 완전한 재시작을 강조할 때 씁니다. 약간의 좌절감이나 체념이 담겨 있지만, 반드시 부정적인 맥락에서만 쓰이지는 않으며 때로는 현실적인 결단을 나타내기도 합니다.",
+    "shortExampleEn": "The merger fell through, so the company had to go back to square one.",
+    "shortExampleKo": "합병이 무산되어 회사는 처음부터 다시 시작해야 했다."
+  }
+}

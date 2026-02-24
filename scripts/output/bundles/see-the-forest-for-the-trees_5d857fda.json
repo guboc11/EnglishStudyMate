@@ -1,0 +1,30 @@
+{
+  "id": "see-the-forest-for-the-trees_5d857fda",
+  "expression": "see the forest for the trees",
+  "selectionMeta": {
+    "selectedPhrase": "see the forest for the trees",
+    "selectedSenseLabelKo": "큰 그림을 보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of obsessing over minor formatting issues, she finally stepped back and was able to see the forest for the trees, realizing the entire project strategy needed rethinking."
+  },
+  "step2": {
+    "story": "Marcus had spent three days fixing tiny bugs in the app, but his manager pulled him aside. 'You can't see the forest for the trees,' she said gently. 'The real problem is the architecture — let's fix that first.'",
+    "topicTag": "work productivity",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "The nonprofit had been arguing for months about font choices and color palettes for their new website, while donations continued to decline. Their new consultant, Elena, sat through one heated meeting before raising her hand. 'I think we've lost the ability to see the forest for the trees,' she said calmly. 'Your audience can't find the donate button — that's the crisis, not the shade of blue in your header.' The room fell silent. One by one, heads began to nod, and for the first time in months, the team refocused on what actually mattered.",
+    "topicTag": "organizational focus",
+    "moodTag": "awakening"
+  },
+  "meaning": {
+    "literalMeaningKo": "나무들 때문에 숲을 보지 못한다 — 즉, 세부 사항에 집중하느라 전체 그림을 놓친다는 뜻이다.",
+    "realUsageKo": "세세한 것에 너무 몰두해 전체적인 목표나 상황을 파악하지 못할 때 사용하며, 주로 '큰 그림을 봐야 한다'는 조언과 함께 쓰인다.",
+    "etymologyKo": "독일 속담 'Den Wald vor lauter Bäumen nicht sehen'에서 유래했으며, 16세기부터 영어권에서도 같은 의미로 사용되기 시작했다.",
+    "nuanceKo": "비판적이라기보다 조언적인 뉘앙스가 강하며, 자기 자신에게도 쓸 수 있고 타인에게도 부드럽게 지적할 때 활용된다.",
+    "shortExampleEn": "He was so focused on the word count that he couldn't see the forest for the trees — the essay's argument made no sense.",
+    "shortExampleKo": "그는 글자 수에만 집중한 나머지 큰 그림을 놓쳤다 — 에세이의 논거 자체가 말이 되지 않았던 것이다."
+  }
+}

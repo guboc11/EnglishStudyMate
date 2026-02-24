@@ -1,0 +1,30 @@
+{
+  "id": "pass-the-torch_42441911",
+  "expression": "pass the torch",
+  "selectionMeta": {
+    "selectedPhrase": "pass the torch",
+    "selectedSenseLabelKo": "역할을 물려주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After thirty years of leading the company, the founder decided it was time to pass the torch to the next generation of leaders."
+  },
+  "step2": {
+    "story": "The veteran coach gathered the team one last time before announcing his retirement. He looked at his young assistant and said it was time to pass the torch, trusting her to carry the program forward. She accepted with a firm handshake and a grateful smile.",
+    "topicTag": "mentorship",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "Elena had spent two decades building the nonprofit from a small community kitchen into a city-wide organization that fed thousands. Now, standing before her staff at the annual gala, she felt the weight of the moment settle over her. She called her protégé Marcus to the stage and formally passed the torch to him, placing the organization's founding badge around his neck. The room erupted in applause as Marcus promised to honor everything she had built. Elena wiped a tear from her eye, knowing the mission was in capable hands. It was not an ending, she reminded herself—it was simply a new beginning.",
+    "topicTag": "leadership transition",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '횃불을 건네다'는 뜻으로, 올림픽 성화 봉송처럼 불꽃을 다음 사람에게 넘기는 장면에서 유래했습니다.",
+    "realUsageKo": "실제로는 책임, 역할, 사명 등을 후계자나 다음 세대에게 넘겨줄 때 사용합니다. 특히 리더십 교체나 은퇴 상황에서 자주 쓰입니다.",
+    "etymologyKo": "고대 그리스의 횃불 릴레이 경주(lampadedromia)에서 비롯된 표현으로, 이후 올림픽 성화 봉송을 통해 '계승'의 상징으로 널리 알려졌습니다.",
+    "nuanceKo": "단순한 업무 인계보다 훨씬 무게감 있는 뉘앙스를 지니며, 오랜 헌신과 신뢰를 바탕으로 한 의미 있는 계승을 강조합니다. 격식체·비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "She passed the torch to her successor after fifteen years as department head.",
+    "shortExampleKo": "그녀는 15년간 부서장을 맡은 뒤 후임자에게 역할을 물려주었다."
+  }
+}

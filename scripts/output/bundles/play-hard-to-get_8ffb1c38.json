@@ -1,0 +1,30 @@
+{
+  "id": "play-hard-to-get_8ffb1c38",
+  "expression": "play hard to get",
+  "selectionMeta": {
+    "selectedPhrase": "play hard to get",
+    "selectedSenseLabelKo": "밀당하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She kept playing hard to get, but he could tell she was interested."
+  },
+  "step2": {
+    "story": "Jake had been texting Mia for weeks, but she always took hours to reply. His friend told him she was probably just playing hard to get, since she always smiled at him in person. Taking the advice to heart, he asked her out directly — and she said yes.",
+    "topicTag": "dating",
+    "moodTag": "playful"
+  },
+  "step3": {
+    "story": "Emma had liked Daniel since their first meeting at the book club, but she wasn't about to make it obvious. She played hard to get — casually declining his first dinner invitation, saying she already had plans. Daniel was intrigued rather than discouraged, and kept finding small ways to show he cared. A few weeks later, when he asked again with a handwritten note tucked inside her favorite novel, Emma smiled and finally said yes. Sometimes, she thought, the chase makes everything sweeter.",
+    "topicTag": "romance",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '잡히기 어려운 척 행동하다'라는 뜻입니다.",
+    "realUsageKo": "주로 연애 상황에서 상대방의 관심을 끌기 위해 일부러 무관심하거나 바쁜 척하며 밀당하는 행동을 묘사할 때 사용합니다.",
+    "etymologyKo": "게임이나 사냥에서 '잡기 어려운 대상'을 뜻하는 표현에서 유래했으며, 20세기 초부터 연애의 맥락에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "약간의 장난기와 전략적 뉘앙스가 담겨 있으며, 부정적이기보다는 흥미로운 게임처럼 가볍게 묘사할 때 자주 씁니다.",
+    "shortExampleEn": "Stop playing hard to get — just tell him you like him.",
+    "shortExampleKo": "밀당 그만해 — 그냥 좋아한다고 말해."
+  }
+}

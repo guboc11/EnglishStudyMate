@@ -1,0 +1,30 @@
+{
+  "id": "scrape-together_b413d29b",
+  "expression": "scrape together",
+  "selectionMeta": {
+    "selectedPhrase": "scrape together",
+    "selectedSenseLabelKo": "간신히 모으다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He managed to scrape together enough money for a one-way bus ticket out of the city."
+  },
+  "step2": {
+    "story": "After losing her job, Maria spent weeks scraping together every spare dollar she could find. She sold old clothes, skipped meals, and borrowed small amounts from friends. When she finally counted the pile of cash on her kitchen table, it was just barely enough to cover the rent.",
+    "topicTag": "financial hardship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel stared at the overdue notice pinned to his fridge, his stomach tight with worry. He had three days to scrape together the last four hundred dollars before the landlord changed the locks. He dug through old jacket pockets, sold a guitar he rarely played, and picked up two extra shifts at the diner. By Sunday night he had the cash laid out on his bed — crumpled bills and loose coins — counted three times just to be sure. It was not a comfortable feeling, but it was enough. He slid the envelope under the landlord's door and let out a long, slow breath.",
+    "topicTag": "financial hardship",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로 '긁어서 한데 모은다'는 뜻으로, 조금씩 힘겹게 수집하는 이미지에서 비롯됩니다.",
+    "realUsageKo": "주로 돈이나 자원이 부족한 상황에서 겨우겨우 필요한 양을 모을 때 사용합니다. '간신히 모으다', '빠듯하게 마련하다'는 뉘앙스가 강합니다.",
+    "etymologyKo": "scrape(긁다)는 표면을 힘겹게 긁어내는 동작을 의미하며, together(함께)와 결합해 흩어진 것을 하나하나 끌어모으는 어려움을 표현합니다. 15세기 영어에서 유래한 표현입니다.",
+    "nuanceKo": "단순히 모은다는 뜻의 gather나 collect와 달리, 절박하거나 빠듯한 상황을 내포합니다. 상황이 쉽지 않음을 암묵적으로 전달하는 단어입니다.",
+    "shortExampleEn": "We scraped together just enough cash to fix the car.",
+    "shortExampleKo": "우리는 차를 수리할 돈을 간신히 모았다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "all-that-glitters-is-not-gold_bb0c5467",
+  "expression": "all that glitters is not gold",
+  "selectionMeta": {
+    "selectedPhrase": "all that glitters is not gold",
+    "selectedSenseLabelKo": "번지르르한 것이 다 좋은 건 아니다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The job offered a high salary and a fancy title, but she remembered that all that glitters is not gold before signing the contract."
+  },
+  "step2": {
+    "story": "Marcus was dazzled by the startup's sleek office and bold promises of stock options. But after talking to current employees, he realized that all that glitters is not gold — morale was low and the company was burning cash. He quietly declined the offer.",
+    "topicTag": "career decision",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When Priya first saw the luxury apartment listing, she was certain she had found her dream home. The photos showed marble countertops, floor-to-ceiling windows, and a rooftop pool that gleamed in the sunlight. She toured it the very next day, heart full of excitement. But once inside, she noticed the thin walls, the broken intercom, and the faint smell of mold behind the kitchen cabinets. Her real-estate-savvy friend whispered, 'All that glitters is not gold.' Priya took a step back, asked harder questions, and eventually found a simpler apartment that felt like a true home.",
+    "topicTag": "housing",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "반짝이는 것이 모두 금은 아니다.",
+    "realUsageKo": "겉으로 화려하거나 매력적으로 보이는 것이 실제로는 가치 없거나 실망스러울 수 있다는 경고로 쓰인다. 충동적인 결정을 내리기 전에 신중하게 살펴보라는 조언에 자주 사용된다.",
+    "etymologyKo": "셰익스피어의 희곡 '베니스의 상인'(1596)에서 유래했으며, 원문은 'All that glitters is not gold'였다. 이후 영어권 전반에 퍼져 대표적인 속담으로 자리 잡았다.",
+    "nuanceKo": "다소 경고하거나 훈계하는 톤을 가지며, 특히 누군가가 외모나 첫인상에 지나치게 현혹됐을 때 사용한다. 격언 형식이라 공식적·비공식적 맥락 모두에 자연스럽게 쓰인다.",
+    "shortExampleEn": "He thought the investment was a sure win, but all that glitters is not gold — he lost half his savings.",
+    "shortExampleKo": "그는 그 투자가 확실한 성공이라고 생각했지만, 번지르르한 것이 다 좋은 건 아니었다 — 저축의 절반을 잃고 말았다."
+  }
+}

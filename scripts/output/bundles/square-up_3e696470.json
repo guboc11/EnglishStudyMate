@@ -1,0 +1,30 @@
+{
+  "id": "square-up_3e696470",
+  "expression": "square up",
+  "selectionMeta": {
+    "selectedPhrase": "square up",
+    "selectedSenseLabelKo": "직면하다 / 계산하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of avoiding the issue, she finally decided to square up to her financial problems and make a plan."
+  },
+  "step2": {
+    "story": "The two friends had argued for months, but one afternoon Jake decided it was time to square up to the tension between them. He knocked on Daniel's door, ready to talk it through honestly. It wasn't easy, but facing it head-on brought them closer than before.",
+    "topicTag": "friendship conflict",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "After losing her job, Maria spent weeks in denial, scrolling through her phone instead of checking her bank balance. Her sister finally sat her down and said, 'You have to square up to where you actually stand right now.' The words stung, but they were true. Maria opened her banking app, listed every debt, and made a spreadsheet for the first time in years. Squaring up to the numbers was terrifying, but it was also the moment she stopped feeling powerless. By the end of the week, she had a plan—and a strange, quiet sense of relief.",
+    "topicTag": "financial reality",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "몸을 정면으로 세우다, 즉 무언가를 향해 똑바로 맞서다.",
+    "realUsageKo": "어려운 상황이나 사람에게 정면으로 맞서 직면할 때, 또는 빚·비용 등을 청산하거나 계산을 마무리할 때 사용한다.",
+    "etymologyKo": "'Square'는 '정직하게 정렬되다'라는 의미에서 유래했으며, 'square up'은 싸움 전 두 사람이 서로를 정면으로 마주하는 자세에서 비롯된 표현이다.",
+    "nuanceKo": "회피하지 않고 용기 있게 현실을 대면한다는 긍정적 뉘앙스를 가진다. 재정 청산의 맥락에서는 중립적·실용적 어조로 쓰인다.",
+    "shortExampleEn": "It's time to square up to the fact that the project is behind schedule.",
+    "shortExampleKo": "프로젝트가 일정보다 뒤처져 있다는 사실을 직면할 때가 됐어."
+  }
+}

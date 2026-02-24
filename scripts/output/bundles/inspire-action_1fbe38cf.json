@@ -1,0 +1,30 @@
+{
+  "id": "inspire-action_1fbe38cf",
+  "expression": "inspire action",
+  "selectionMeta": {
+    "selectedPhrase": "inspire action",
+    "selectedSenseLabelKo": "행동을 고무하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her passionate speech at the town hall managed to inspire action among residents who had long ignored the issue."
+  },
+  "step2": {
+    "story": "The documentary about ocean pollution moved the audience deeply, inspiring action in ways no lecture ever had. Within a week, volunteers flooded the local beach cleanup hotline with sign-up calls.",
+    "topicTag": "social awareness",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Marcus had spent years writing reports about climate change that no one seemed to read. Frustrated, he decided to try something different — he organized a photo exhibition showing before-and-after images of his hometown river. The vivid pictures hit people in a way that statistics never could, and they began to inspire action across the entire community. Neighbors started a recycling drive, local businesses pledged to cut plastic use, and the city council finally allocated funds for river restoration. Marcus realized that emotion, not data alone, was what truly inspired action in people who felt powerless to change things.",
+    "topicTag": "environmental activism",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가가 행동을 취하도록 영감을 주거나 동기를 불어넣다.",
+    "realUsageKo": "주로 연설, 이야기, 사례 등이 사람들로 하여금 실제로 무언가를 하도록 자극할 때 사용한다. 단순한 설득이 아니라 내면의 동기를 끌어내는 뉘앙스가 강하다.",
+    "etymologyKo": "'inspire'는 라틴어 'inspirare(숨을 불어넣다)'에서 유래했으며, 신이 인간에게 영감을 준다는 종교적 개념에서 발전해 '동기를 부여하다'는 의미로 확장되었다.",
+    "nuanceKo": "단순히 '행동하게 만들다(make someone act)'보다 훨씬 긍정적이고 자발적인 뉘앙스를 가지며, 강압이나 압박 없이 내면의 열의를 불러일으키는 느낌을 전달한다.",
+    "shortExampleEn": "Great leaders don't just give orders — they inspire action through their own example.",
+    "shortExampleKo": "훌륭한 리더는 단순히 명령을 내리는 것이 아니라, 자신의 모범으로 행동을 고무한다."
+  }
+}

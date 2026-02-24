@@ -1,0 +1,30 @@
+{
+  "id": "have-an-ace-up-your-sleeve_b9ca0255",
+  "expression": "have an ace up your sleeve",
+  "selectionMeta": {
+    "selectedPhrase": "have an ace up your sleeve",
+    "selectedSenseLabelKo": "비장의 무기가 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She seemed to be losing the negotiation, but everyone knew she had an ace up her sleeve."
+  },
+  "step2": {
+    "story": "The startup founder walked into the investor meeting calm and composed, even though the competing pitch had gone remarkably well. She had an ace up her sleeve — a signed letter of intent from the industry's biggest retailer. When she revealed it, the room fell silent with awe.",
+    "topicTag": "business negotiation",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Marcus had been trailing his opponent in the chess tournament all afternoon, and the spectators began whispering that his defeat was inevitable. His coach sat quietly in the back row, smiling to herself, because she knew Marcus always had an ace up his sleeve. In the final round, when everyone expected him to resign, he made an unexpected move that turned the entire game around. Months of studying obscure endgame strategies had prepared him for exactly this moment. The crowd erupted as he secured the championship with a technique no one had ever seen coming.",
+    "topicTag": "competition",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "소매 속에 에이스 카드를 숨겨두고 있다는 뜻으로, 비밀 무기나 유리한 패를 감추고 있다는 의미다.",
+    "realUsageKo": "협상, 경쟁, 갈등 상황에서 아직 공개하지 않은 강력한 수단이나 전략이 있을 때 사용한다. 상대방이 모르는 유리한 카드를 갖고 있음을 표현하는 표현이다.",
+    "etymologyKo": "카드 게임에서 가장 강한 패인 에이스를 소매 속에 몰래 숨겨두던 사기꾼의 관행에서 유래했다. 이후 비유적으로 '비밀 무기'나 '숨겨둔 강점'을 뜻하게 되었다.",
+    "nuanceKo": "전략적이고 약간 신비로운 뉘앙스를 담고 있으며, 상대를 놀라게 할 준비가 되어 있다는 자신감을 내포한다. 부정적인 의미 없이 영리함과 철저한 준비성을 강조하는 표현이다.",
+    "shortExampleEn": "Don't worry about the competition — our team has an ace up its sleeve.",
+    "shortExampleKo": "경쟁은 걱정 마세요 — 우리 팀에는 비장의 무기가 있어요."
+  }
+}

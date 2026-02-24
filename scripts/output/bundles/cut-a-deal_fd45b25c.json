@@ -1,0 +1,30 @@
+{
+  "id": "cut-a-deal_fd45b25c",
+  "expression": "cut a deal",
+  "selectionMeta": {
+    "selectedPhrase": "cut a deal",
+    "selectedSenseLabelKo": "거래를 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of back-and-forth negotiations, the two companies finally managed to cut a deal that satisfied both sides."
+  },
+  "step2": {
+    "story": "Marcus had been negotiating with the supplier for over a month, and both sides were beginning to lose patience. Neither could afford to walk away, so they sat down one last time over coffee. By the end of the afternoon, they had cut a deal that worked for everyone.",
+    "topicTag": "business negotiation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sarah had been eyeing the vintage car at the lot for weeks, but the asking price was well beyond her budget. She gathered her courage and approached the owner, determined to cut a deal before someone else claimed it. They went back and forth for nearly an hour, each side making small concessions without giving too much ground. Sarah offered to pay in full with cash upfront, which immediately caught the owner's attention. After a moment of silence, the owner extended his hand and smiled — they had finally cut a deal. She drove home that evening in her dream car, proud of how she had held her own in the negotiation.",
+    "topicTag": "negotiation",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '거래를 자르다'라는 뜻이다.",
+    "realUsageKo": "실제로는 협상을 통해 합의에 이르거나 계약을 성사시킨다는 의미로 사용된다. 비즈니스, 협상, 일상적 거래 등 다양한 상황에서 폭넓게 쓰인다.",
+    "etymologyKo": "'cut'은 여기서 '결정하다, 마무리하다'의 의미로, 거래를 확정 짓는다는 개념에서 유래했다. 계약서에 서명하거나 최종 합의를 '잘라내듯' 확정한다는 뉘앙스를 담고 있다.",
+    "nuanceKo": "다소 비격식적인 표현으로, 양측이 협상 과정을 거쳐 서로 양보한 끝에 합의점을 찾았을 때 주로 사용된다. 단순한 구매·판매보다는 협상의 과정이 있었음을 내포한다.",
+    "shortExampleEn": "We cut a deal with the landlord to lower our rent in exchange for signing a longer lease.",
+    "shortExampleKo": "우리는 더 긴 임대 기간에 동의하는 조건으로 집주인과 협상하여 임대료를 낮추는 거래를 성사시켰다."
+  }
+}

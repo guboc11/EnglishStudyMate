@@ -1,0 +1,30 @@
+{
+  "id": "cream-of-the-crop_919cd227",
+  "expression": "cream of the crop",
+  "selectionMeta": {
+    "selectedPhrase": "cream of the crop",
+    "selectedSenseLabelKo": "최상위",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was accepted to the program because she is the cream of the crop among this year's applicants."
+  },
+  "step2": {
+    "story": "Every year, the firm only hires the cream of the crop from top universities. This year, Marcus stood out with his exceptional portfolio and sharp problem-solving skills. He received an offer before he even left the interview room.",
+    "topicTag": "career",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "The national science competition drew thousands of students from across the country, but the judges were searching for the cream of the crop. Among the finalists was Yuna, a seventeen-year-old who had spent two years developing a low-cost water purification device. Her project was elegant, practical, and backed by solid data. When the results were announced, her name came first — by a wide margin. Standing on stage, she realized that all those late nights in the lab had been worth it.",
+    "topicTag": "achievement",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "수확물 중에서 위로 떠오르는 크림처럼, 무리 중 가장 뛰어난 것을 뜻한다.",
+    "realUsageKo": "사람이나 사물 중에서 최고 수준에 해당하는 것을 가리킬 때 사용한다. 채용, 경쟁, 선발 맥락에서 자주 쓰인다.",
+    "etymologyKo": "우유를 가만히 두면 지방이 풍부한 크림이 표면에 떠오르는 현상에서 유래했다. 18세기부터 '최상급'을 의미하는 비유 표현으로 쓰이기 시작했다.",
+    "nuanceKo": "긍정적인 어감이 강하며 다소 격식체에 가깝다. 경쟁이 치열한 상황에서 특별히 선별된 대상을 강조할 때 적합하다.",
+    "shortExampleEn": "Only the cream of the crop gets invited to this exclusive workshop.",
+    "shortExampleKo": "이 독점 워크숍에는 최상위 인재만 초청된다."
+  }
+}

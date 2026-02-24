@@ -1,0 +1,30 @@
+{
+  "id": "enjoy-a-meal_1e1484b4",
+  "expression": "enjoy a meal",
+  "selectionMeta": {
+    "selectedPhrase": "enjoy a meal",
+    "selectedSenseLabelKo": "식사를 즐기다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After a long week at work, she finally sat down to enjoy a meal with her family on Friday evening."
+  },
+  "step2": {
+    "story": "Marco lit a candle and set the table carefully before calling everyone in. It had been weeks since the whole family had gathered, and he wanted them to truly enjoy a meal together without any rush. The laughter that filled the kitchen that evening made all his cooking worth it.",
+    "topicTag": "family dinner",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "After months of eating alone at her desk, Priya decided to take a proper lunch break for the first time. She walked to the small Italian place around the corner, found a table by the window, and ordered her favourite pasta. For the first time in ages, she allowed herself to slow down and truly enjoy a meal — no phone, no laptop, just the food and the quiet hum of the restaurant. She watched the afternoon light shift across the cobblestones outside and felt something loosen in her chest. By the time she paid the bill, she had made a quiet promise to herself to make this a habit.",
+    "topicTag": "work-life balance",
+    "moodTag": "peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "식사를 즐기다는 음식을 먹는 행위 자체를 기쁨과 여유를 가지고 경험한다는 뜻입니다.",
+    "realUsageKo": "단순히 배를 채우는 것이 아니라 음식의 맛, 분위기, 함께하는 사람들을 온전히 음미하는 상황에서 사용합니다. 식사 자리를 서두르거나 대충 때우는 것과 대비되는 표현으로 자주 쓰입니다.",
+    "etymologyKo": "'enjoy'는 고대 프랑스어 'enjoier(기쁨을 주다)'에서 유래했으며, 'meal'은 고대 영어 'mǣl(정해진 시간, 식사)'에서 왔습니다. 두 단어가 결합해 식사를 즐긴다는 뜻의 일상적인 연어(collocation)로 자리잡았습니다.",
+    "nuanceKo": "격식 있는 자리와 캐주얼한 자리 모두에서 자연스럽게 사용할 수 있는 중립적인 표현입니다. 'have a meal'보다 긍정적이고 여유로운 뉘앙스가 강하며, 식사 경험 자체를 가치 있게 여기는 태도가 담겨 있습니다.",
+    "shortExampleEn": "We found a quiet corner table and enjoyed a meal while catching up.",
+    "shortExampleKo": "우리는 한적한 구석 자리를 잡고 이야기를 나누며 식사를 즐겼다."
+  }
+}

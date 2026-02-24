@@ -1,0 +1,30 @@
+{
+  "id": "hold-off_e472aaa4",
+  "expression": "hold off",
+  "selectionMeta": {
+    "selectedPhrase": "hold off",
+    "selectedSenseLabelKo": "기다리다 / 늦추다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let's hold off on making any decisions until we have all the information."
+  },
+  "step2": {
+    "story": "The team wanted to launch the new product right away, but their manager asked them to hold off until the testing was complete. A few days later, they were glad they had waited — several critical bugs were found during the delay.",
+    "topicTag": "workplace decision",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Sarah had been eager to send the proposal all morning, her finger hovering over the send button. Her colleague leaned over and said, 'Hold off for a second — I think there's a typo on the last page.' Sarah pulled back and reread the document carefully. Sure enough, the client's name was misspelled in the closing paragraph. She fixed it, took a breath, and finally hit send. Sometimes holding off for just a moment made all the difference.",
+    "topicTag": "work communication",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 잠시 멈추거나 늦추다.",
+    "realUsageKo": "어떤 행동이나 결정을 당장 하지 않고 잠시 미루거나 기다릴 때 사용한다. 상황이 무르익을 때까지 행동을 보류하는 뉘앙스가 강하다.",
+    "etymologyKo": "'hold'(붙잡다)와 'off'(떨어뜨려)가 결합해 '무언가를 붙잡아 멀리 두다', 즉 진행을 막거나 미룬다는 의미로 발전했다.",
+    "nuanceKo": "단순히 '기다리다'보다 의도적으로 행동을 늦추는 느낌이 강하다. 명령문('Hold off!')이나 권유문으로 자주 쓰이며, 신중함이나 전략적 판단을 내포한다.",
+    "shortExampleEn": "Can you hold off on buying a new phone until the next model comes out?",
+    "shortExampleKo": "다음 모델이 나올 때까지 새 폰 구매를 좀 미룰 수 있어?"
+  }
+}

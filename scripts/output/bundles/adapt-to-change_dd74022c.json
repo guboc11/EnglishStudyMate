@@ -1,0 +1,30 @@
+{
+  "id": "adapt-to-change_dd74022c",
+  "expression": "adapt to change",
+  "selectionMeta": {
+    "selectedPhrase": "adapt to change",
+    "selectedSenseLabelKo": "변화에 적응하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Successful professionals understand that the ability to adapt to change is just as important as technical expertise."
+  },
+  "step2": {
+    "story": "When the company switched to a fully remote model, Maya struggled at first. But she knew she had to adapt to change if she wanted to thrive. Within weeks, she had built new routines and was more productive than ever.",
+    "topicTag": "workplace transition",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "After twenty years in the same industry, Daniel found himself facing a complete career overhaul when automation replaced his role. At first, the uncertainty felt overwhelming, and he questioned everything he had built. But a mentor told him that the most successful people in history had always found ways to adapt to change rather than resist it. Daniel enrolled in night classes, learned new skills, and gradually rebuilt his confidence. Six months later, he landed a position in a field he had never imagined for himself. Looking back, he realized that the disruption had been the best thing that ever happened to him.",
+    "topicTag": "career reinvention",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "변화에 맞게 자신의 행동이나 태도를 조정하다.",
+    "realUsageKo": "새로운 환경이나 상황에 유연하게 대처하는 능력을 표현할 때 사용하며, 직장·기술·사회적 변화 등 다양한 맥락에서 폭넓게 쓰인다.",
+    "etymologyKo": "'adapt'는 라틴어 'adaptare(맞추다, 조정하다)'에서 유래했으며, 'ad-(~에)'와 'aptare(맞추다)'의 합성어다. 'change'는 고대 프랑스어 'changier'에서 왔다.",
+    "nuanceKo": "단순한 수동적 수용이 아니라 능동적인 노력과 유연성을 강조하는 표현이다. 자기계발, 리더십, 비즈니스 담화에서 긍정적인 역량으로 자주 언급된다.",
+    "shortExampleEn": "Employees who can adapt to change quickly are highly valued in fast-moving industries.",
+    "shortExampleKo": "빠르게 변화하는 산업에서는 변화에 빠르게 적응할 수 있는 직원이 높이 평가받는다."
+  }
+}

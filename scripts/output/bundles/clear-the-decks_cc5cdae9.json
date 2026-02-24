@@ -1,0 +1,30 @@
+{
+  "id": "clear-the-decks_cc5cdae9",
+  "expression": "clear the decks",
+  "selectionMeta": {
+    "selectedPhrase": "clear the decks",
+    "selectedSenseLabelKo": "장애물을 치우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before the big product launch, the manager asked everyone to clear the decks so the team could focus entirely on the final preparations."
+  },
+  "step2": {
+    "story": "With the annual audit just a week away, Sarah decided to clear the decks and cancel all non-essential meetings. She wanted nothing standing between her team and the mountain of reports they needed to complete.",
+    "topicTag": "work preparation",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "The championship match was only three days away, and Coach Harris called the entire squad together for a serious talk. He told them it was time to clear the decks — no social events, no distractions, no excuses. Every player needed to come in early, train hard, and get their minds fully in the game. The locker room fell quiet as his words sank in. One by one, the players nodded, each silently committing to leave everything else behind. By the end of the week, their focus was sharper than it had ever been.",
+    "topicTag": "sports competition",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "갑판(deck)을 청소하다 — 배 위의 장애물을 모두 치워 공간을 확보한다는 뜻.",
+    "realUsageKo": "중요한 일에 집중하기 위해 방해가 되는 것들을 모두 없애거나 정리할 때 사용한다. 업무, 스포츠, 일상 등 다양한 상황에서 쓰인다.",
+    "etymologyKo": "해군 용어에서 유래했다. 전투 전에 군함의 갑판에 있는 물건들을 치워 전투 공간을 확보하던 관행에서 비롯되었으며, 이후 일반적인 '준비를 위한 정리'라는 의미로 확장되었다.",
+    "nuanceKo": "단순한 청소가 아니라 '중요한 일을 위해 우선순위를 정리하고 집중력을 확보한다'는 적극적이고 결단력 있는 뉘앙스를 담고 있다. 주로 공식적이거나 진지한 맥락에서 사용된다.",
+    "shortExampleEn": "Let's clear the decks before the client presentation tomorrow.",
+    "shortExampleKo": "내일 고객 프레젠테이션 전에 모든 잡일을 정리해 두자."
+  }
+}

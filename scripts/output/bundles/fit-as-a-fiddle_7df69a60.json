@@ -1,0 +1,30 @@
+{
+  "id": "fit-as-a-fiddle_7df69a60",
+  "expression": "fit as a fiddle",
+  "selectionMeta": {
+    "selectedPhrase": "fit as a fiddle",
+    "selectedSenseLabelKo": "매우 건강한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of recovery, she returned to the office looking fit as a fiddle."
+  },
+  "step2": {
+    "story": "Tom had been worried about his grandfather after the surgery, but when he visited, the old man was fit as a fiddle. He was already out in the garden, pruning roses and humming to himself.",
+    "topicTag": "health and recovery",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Everyone at the office had been concerned when Maria took three weeks off for a serious bout of pneumonia. When she finally walked back through the door, colleagues stopped mid-conversation to stare. She looked fit as a fiddle — color in her cheeks, a bright smile, and more energy than most of them had on their best days. 'I just needed proper rest and good food,' she said, laughing off their amazement. Her doctor had apparently told her the same thing: slow down, or the body finds a way to force you to.",
+    "topicTag": "workplace and health",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "바이올린처럼 딱 맞는, 즉 몸 상태가 완벽하게 잘 조율되어 있다는 뜻.",
+    "realUsageKo": "주로 오랜 병이나 부상에서 완전히 회복했을 때, 또는 나이에 비해 놀랍도록 건강한 사람을 묘사할 때 사용한다.",
+    "etymologyKo": "16세기 영어에서 유래했으며, 'fit'은 '적합한·건강한', 'fiddle'은 바이올린을 뜻한다. 잘 조율된 바이올린처럼 몸이 최상의 상태임을 비유한 표현이다.",
+    "nuanceKo": "긍정적이고 경쾌한 어감이며, 약간의 감탄이나 안도감을 담아 쓰이는 경우가 많다. 격식체보다는 일상 대화에서 자주 쓰인다.",
+    "shortExampleEn": "He had a bad cold last week, but he's fit as a fiddle now.",
+    "shortExampleKo": "그는 지난주에 독한 감기를 앓았지만, 지금은 완전히 건강하다."
+  }
+}

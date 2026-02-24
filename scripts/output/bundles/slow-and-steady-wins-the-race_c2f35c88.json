@@ -1,0 +1,30 @@
+{
+  "id": "slow-and-steady-wins-the-race_c2f35c88",
+  "expression": "slow and steady wins the race",
+  "selectionMeta": {
+    "selectedPhrase": "slow and steady wins the race",
+    "selectedSenseLabelKo": "느리고 꾸준하게 가는 사람이 이긴다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She reminded herself that slow and steady wins the race as she kept up her daily practice even when progress felt invisible."
+  },
+  "step2": {
+    "story": "Marcus had been learning to play the piano for six months, and his friends who started with him had already quit out of frustration. He practiced just thirty minutes every single day without fail. Slow and steady wins the race, his teacher always said — and by the end of the year, Marcus was the only one performing at the recital.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Priya launched her small online bakery, the orders barely trickled in during the first few months. Her business-school friends urged her to spend heavily on ads and rapid expansion, but Priya chose a different path. She focused on perfecting each recipe, responding personally to every customer, and building her reputation one satisfied order at a time. Month after month, her five-star reviews accumulated quietly and her repeat-customer base grew. By the end of her second year, she had a waiting list and a loyal community that no paid campaign could have bought. Slow and steady wins the race, she told a young entrepreneur who asked her secret — consistency and care will always outlast a sprint.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "천천히, 그리고 꾸준히 움직이는 사람이 결국 경주에서 이긴다.",
+    "realUsageKo": "성급하게 서두르기보다 일관된 노력을 지속하는 것이 장기적으로 더 좋은 결과를 가져온다는 것을 강조할 때 사용한다. 공부, 운동, 사업 등 장기적인 목표를 추구하는 모든 상황에 적용할 수 있다.",
+    "etymologyKo": "이솝 우화 '토끼와 거북이'에서 유래했다. 빠른 토끼가 방심하는 사이 느리지만 멈추지 않은 거북이가 결승선을 먼저 통과하는 이야기에서 비롯된 표현이다.",
+    "nuanceKo": "격려나 위로의 맥락에서 자주 쓰이며, 조급해하는 사람에게 인내심을 권고할 때 사용한다. 다소 클리셰적으로 느껴질 수 있으므로 진심 어린 조언의 맥락에서 쓰는 것이 자연스럽다.",
+    "shortExampleEn": "Don't rush the project — slow and steady wins the race.",
+    "shortExampleKo": "프로젝트를 서두르지 마세요 — 느리고 꾸준하게 가는 사람이 이깁니다."
+  }
+}

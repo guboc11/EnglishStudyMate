@@ -1,0 +1,30 @@
+{
+  "id": "get-the-hang-of-it_80d499ff",
+  "expression": "get the hang of it",
+  "selectionMeta": {
+    "selectedPhrase": "get the hang of it",
+    "selectedSenseLabelKo": "요령을 익히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took me a few days, but I finally got the hang of it and can now type without looking at the keyboard."
+  },
+  "step2": {
+    "story": "Maria stared at the sewing machine, frustrated after tangling the thread for the third time. Her grandmother laughed softly and said, 'Don't worry — everyone struggles at first.' By the end of the afternoon, Maria had gotten the hang of it and was stitching straight lines with ease.",
+    "topicTag": "learning a new skill",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "On his first day at the coffee shop, James fumbled with the espresso machine, unsure of the right pressure and timing. Every cup he made came out either too bitter or too weak, and the morning rush only added to his nerves. His coworker Emma stayed patient, guiding him through each step without making him feel bad. By the third day, something clicked — James had gotten the hang of it. He started pulling smooth, balanced shots and even began experimenting with latte art. What had once felt impossible now felt like second nature.",
+    "topicTag": "workplace learning",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "그것의 '매달림(hang)'을 잡는다는 뜻으로, 무언가를 손에 익힌다는 의미입니다.",
+    "realUsageKo": "새로운 기술이나 작업의 방식을 이해하고 능숙하게 다룰 수 있게 되었을 때 사용합니다. 주로 처음에는 어렵지만 반복을 통해 익숙해지는 상황에서 씁니다.",
+    "etymologyKo": "'hang'은 16세기 영어에서 '도구나 물건을 다루는 방식'을 뜻했으며, 'get the hang of'는 도구의 무게와 균형을 파악해 능숙하게 쓰게 된다는 의미에서 유래했습니다.",
+    "nuanceKo": "좌절이나 시행착오를 거쳐 마침내 익숙해졌다는 뉘앙스가 있어, 과정의 어려움을 인정하면서도 긍정적인 결과를 강조합니다. 격식을 차리지 않는 일상적인 표현입니다.",
+    "shortExampleEn": "Don't give up — you'll get the hang of it after a bit more practice.",
+    "shortExampleKo": "포기하지 마세요 — 조금 더 연습하면 요령을 익히게 될 거예요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "drive-innovation_39b5e65c",
+  "expression": "drive innovation",
+  "selectionMeta": {
+    "selectedPhrase": "drive innovation",
+    "selectedSenseLabelKo": "혁신을 이끌다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The company established a new R&D division specifically to drive innovation and bring cutting-edge products to market faster."
+  },
+  "step2": {
+    "story": "Sarah joined the startup knowing it would challenge everything she thought she knew. Her role was to drive innovation by connecting engineers directly with real customer needs. Within six months, the team had launched three new features that competitors simply couldn't match.",
+    "topicTag": "startup culture",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "Marcus had spent fifteen years at a traditional manufacturing firm before taking on the role of Chief Innovation Officer. His mandate was clear: drive innovation or risk falling irreversibly behind competitors already embracing automation and AI. He started by forming cross-functional teams that brought together engineers, designers, and frontline workers for the first time. Together, they reimagined the factory floor, introducing smart sensors and real-time data dashboards. Within two years, productivity had risen by thirty percent and the company had filed twelve new patents. Marcus knew the journey was far from over, but the culture had fundamentally shifted—now everyone was thinking like an innovator.",
+    "topicTag": "workplace transformation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'drive'는 '추진하다', 'innovation'은 '혁신'을 뜻하며, 합쳐서 '혁신을 적극적으로 추진하다·이끌다'를 의미합니다.",
+    "realUsageKo": "비즈니스 맥락에서 새로운 아이디어나 기술을 능동적으로 밀어붙여 변화를 만들어내는 행위를 가리킵니다. 리더십, 전략, 조직 문화를 논할 때 특히 자주 등장합니다.",
+    "etymologyKo": "'drive'는 고대 영어 'drīfan(몰다, 추진하다)'에서 유래했으며, 'innovation'은 라틴어 'innovare(새롭게 하다)'에서 파생되었습니다.",
+    "nuanceKo": "단순히 새로운 것을 시도하는 것이 아니라 의도적·능동적으로 혁신을 주도한다는 강한 주도성의 뉘앙스가 담겨 있습니다. 격식체·전문적 문맥에서 주로 사용됩니다.",
+    "shortExampleEn": "We need bold leaders who can drive innovation in an ever-changing market.",
+    "shortExampleKo": "우리는 끊임없이 변화하는 시장에서 혁신을 이끌 수 있는 과감한 리더가 필요합니다."
+  }
+}

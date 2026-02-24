@@ -1,0 +1,30 @@
+{
+  "id": "long-shot_35f8ba4e",
+  "expression": "long shot",
+  "selectionMeta": {
+    "selectedPhrase": "long shot",
+    "selectedSenseLabelKo": "가능성이 낮은 것",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Winning the championship this year is a long shot, but the team refuses to give up."
+  },
+  "step2": {
+    "story": "Everyone told Maria that applying for the prestigious scholarship was a long shot given her average grades. She applied anyway, spending weeks perfecting her essay. To her amazement, she got the call offering her the full award.",
+    "topicTag": "personal ambition",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Jake stood at the back of the audition line, knowing his chances were a long shot. The director was looking for an experienced Broadway actor, and Jake had only done community theatre. He steadied his nerves and reminded himself that every great career started somewhere. When his name was finally called, he walked on stage and poured everything he had into the performance. The room fell silent, and then the director leaned forward with sudden interest. It was still a long shot, but for the first time that afternoon, Jake let himself believe.",
+    "topicTag": "chasing dreams",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '멀리서 쏘는 것'으로, 명중시키기 매우 어려운 원거리 사격을 뜻한다.",
+    "realUsageKo": "성공 가능성이 매우 낮은 시도나 계획을 가리킬 때 사용한다. 기대가 거의 없지만 그래도 시도할 가치가 있을 때 자주 쓰인다.",
+    "etymologyKo": "19세기 총기 시대에 유래한 표현으로, 총알이 닿기 어려운 먼 거리의 표적을 맞히려는 시도에서 비롯되었다.",
+    "nuanceKo": "부정적인 뉘앙스보다는 '가능성은 낮지만 도전할 만하다'는 약간의 낙관적 뉘앙스를 담고 있는 경우가 많다.",
+    "shortExampleEn": "Getting a table at that restaurant without a reservation is a long shot.",
+    "shortExampleKo": "예약 없이 그 식당에서 자리를 잡는 건 가능성이 매우 낮아."
+  }
+}

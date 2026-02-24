@@ -1,0 +1,30 @@
+{
+  "id": "ask-out_a2ba64e0",
+  "expression": "ask out",
+  "selectionMeta": {
+    "selectedPhrase": "ask out",
+    "selectedSenseLabelKo": "데이트 신청하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He finally gathered the courage to ask out the woman he had been admiring for months."
+  },
+  "step2": {
+    "story": "Jake had been nervous all week about asking out his coworker, Maya. On Friday afternoon, he took a deep breath and asked if she'd like to grab dinner sometime. Her smile told him the answer before she even said yes.",
+    "topicTag": "romance",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had liked Sofia since their first day in the same graduate program, but he always found an excuse not to say anything. His friends teased him endlessly, calling him the shyest person they knew. One evening after a study session, as everyone else packed up and left, Daniel realized it was now or never. His voice wavered slightly as he asked her out for coffee, and for a moment the silence felt eternal. Then Sofia laughed softly and said she'd been waiting for him to ask. They both walked out into the cool night air, lighter than they had felt in months.",
+    "topicTag": "romance",
+    "moodTag": "nervous excitement"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 밖으로 나가자고 요청하다.",
+    "realUsageKo": "주로 이성에게 데이트를 제안할 때 사용하며, 관심 있는 상대에게 함께 시간을 보내자고 청하는 표현이다.",
+    "etymologyKo": "'ask'(요청하다)와 방향·외출을 나타내는 부사 'out'이 결합한 구동사로, 상대를 밖으로 불러내어 데이트를 신청한다는 의미에서 유래했다.",
+    "nuanceKo": "공식적이지 않고 자연스러운 일상 표현으로, 처음 데이트를 제안하는 설레고 다소 용기가 필요한 상황에서 자주 쓰인다.",
+    "shortExampleEn": "She finally asked him out after weeks of hesitation.",
+    "shortExampleKo": "그녀는 몇 주간 망설인 끝에 마침내 그에게 데이트를 신청했다."
+  }
+}

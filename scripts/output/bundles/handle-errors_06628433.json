@@ -1,0 +1,30 @@
+{
+  "id": "handle-errors_06628433",
+  "expression": "handle errors",
+  "selectionMeta": {
+    "selectedPhrase": "handle errors",
+    "selectedSenseLabelKo": "오류를 처리하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The new version of the app was designed to handle errors more gracefully, showing users a helpful message instead of crashing."
+  },
+  "step2": {
+    "story": "Maria stayed late to refactor the API code so it could properly handle errors from the database. By adding clear fallback responses, her team's app became far more stable overnight.",
+    "topicTag": "software development",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "During the code review, the lead engineer pointed out that the payment module had no way to handle errors when the third-party service went down. Jake nodded, realizing that a single unhandled exception could leave customers stuck at checkout. He spent the afternoon writing try-catch blocks and logging every failure to a monitoring dashboard. By the time the team deployed the fix, they had a safety net that could handle errors silently and reroute users to a fallback payment option. The next morning, the service went offline for ten minutes, but not a single transaction was lost.",
+    "topicTag": "software reliability",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'오류(errors)'를 '처리하다(handle)'는 의미로, 발생한 문제를 적절히 대응하여 해결하는 행위를 뜻한다.",
+    "realUsageKo": "주로 프로그래밍·시스템 개발 맥락에서 예외 상황이나 에러 코드를 감지하고 적절한 조치를 취하는 것을 설명할 때 사용된다. 예: '예외를 처리하다', '에러를 포착하다'.",
+    "etymologyKo": "'handle'은 고대 영어 'handlian(손으로 다루다)'에서 유래하여 '관리하다·처리하다'는 뜻으로 확장되었으며, 'error'는 라틴어 'errare(길을 잃다, 틀리다)'에서 왔다.",
+    "nuanceKo": "단순히 오류를 무시하는 것이 아니라 능동적으로 감지하고 대응한다는 긍정적·전문적 뉘앙스를 담고 있으며, 코드 품질과 안정성에 대한 책임감을 암시한다.",
+    "shortExampleEn": "Good software must handle errors without freezing the entire application.",
+    "shortExampleKo": "좋은 소프트웨어는 애플리케이션 전체를 멈추지 않고 오류를 처리할 수 있어야 한다."
+  }
+}

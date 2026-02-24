@@ -1,0 +1,30 @@
+{
+  "id": "stick-to-a-routine_4c41b560",
+  "expression": "stick to a routine",
+  "selectionMeta": {
+    "selectedPhrase": "stick to a routine",
+    "selectedSenseLabelKo": "루틴을 고수하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Even when she feels exhausted, she tries to stick to a routine of waking up at six and exercising before work."
+  },
+  "step2": {
+    "story": "After months of irregular sleep and missed meals, Daniel decided to stick to a routine to get his health back on track. He set consistent wake-up times, planned his meals, and scheduled short walks every afternoon. Within a few weeks, he felt more energetic and focused than he had in years.",
+    "topicTag": "healthy habits",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had always struggled with productivity until her mentor gave her one piece of advice: stick to a routine, no matter how simple. She started small — waking up at the same time each day, making her bed, and spending the first hour on her most important task. At first it felt rigid and uncomfortable, but she kept at it. Gradually, the structure became a source of calm rather than constraint. Her output improved, her stress levels dropped, and she finally felt in control of her days. Now she tells anyone who will listen that the secret to her success is not talent, but the discipline to stick to a routine.",
+    "topicTag": "self-discipline",
+    "moodTag": "calm and focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "정해진 일상적인 패턴이나 습관을 바꾸지 않고 그대로 따르다.",
+    "realUsageKo": "건강, 공부, 업무 등의 영역에서 정해진 생활 패턴을 꾸준히 유지할 때 사용한다. 유혹이나 방해 요소가 있어도 흔들리지 않고 계속 실천한다는 의미를 내포한다.",
+    "etymologyKo": "'stick to'는 '~에 달라붙다, ~을 고수하다'는 뜻의 구동사이고, 'routine'은 프랑스어 'route(길)'에서 유래해 '정해진 길처럼 반복되는 일과'를 의미한다.",
+    "nuanceKo": "의지와 자기 절제를 강조하는 뉘앙스가 있으며, 변화나 유혹에 흔들리지 않겠다는 단호한 태도를 담고 있다. 가벼운 대화보다는 자기계발이나 건강 관련 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "It's hard to stick to a routine during the holidays, but it pays off in January.",
+    "shortExampleKo": "연휴 기간에 루틴을 고수하기는 어렵지만, 1월이 되면 그 보람을 느낄 수 있다."
+  }
+}

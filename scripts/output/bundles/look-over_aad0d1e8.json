@@ -1,0 +1,30 @@
+{
+  "id": "look-over_aad0d1e8",
+  "expression": "look over",
+  "selectionMeta": {
+    "selectedPhrase": "look over",
+    "selectedSenseLabelKo": "검토하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She asked her colleague to look over the report before submitting it to the manager."
+  },
+  "step2": {
+    "story": "Before the big presentation, Daniel spent the evening looking over every slide carefully. He wanted to make sure there were no mistakes that could embarrass him in front of the board.",
+    "topicTag": "work preparation",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Maya had been working on the contract for three days straight, and she finally printed the last page with a sigh of relief. Her mentor, a seasoned lawyer, offered to look over the document before it went to the client. As he read through the clauses, he circled two sections that needed rewording. Maya felt a wave of gratitude—without his careful review, she might have missed those critical details. She revised the sections, and when her mentor looked over the final version, he nodded with approval.",
+    "topicTag": "professional review",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 위에서 아래로 훑어보다.",
+    "realUsageKo": "문서, 보고서, 답안 등을 꼼꼼히 검토하거나 확인할 때 사용한다. 실수나 문제가 없는지 살펴보는 행위를 나타낸다.",
+    "etymologyKo": "'look'(보다)과 방향·범위를 나타내는 부사 'over'(전반적으로)가 결합하여, 전체를 훑어보며 확인한다는 의미로 발전했다.",
+    "nuanceKo": "단순히 읽는 것보다 목적을 갖고 검토하는 뉘앙스가 강하다. 공식적인 문서뿐 아니라 일상적인 글에도 두루 쓰인다.",
+    "shortExampleEn": "Could you look over my essay and tell me what you think?",
+    "shortExampleKo": "제 에세이 좀 검토해 보고 의견을 말해 줄 수 있나요?"
+  }
+}

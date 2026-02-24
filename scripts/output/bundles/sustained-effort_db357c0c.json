@@ -1,0 +1,30 @@
+{
+  "id": "sustained-effort_db357c0c",
+  "expression": "sustained effort",
+  "selectionMeta": {
+    "selectedPhrase": "sustained effort",
+    "selectedSenseLabelKo": "지속적인 노력",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Mastering a new language requires sustained effort over months or even years."
+  },
+  "step2": {
+    "story": "After failing his first marathon, Daniel didn't give up. Through sustained effort, he trained every morning before work, gradually building his endurance. A year later, he crossed the finish line with a smile.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had always dreamed of becoming a concert pianist, but her late start at age twenty made many doubt her chances. She ignored the skeptics and channeled everything into sustained effort, practicing scales and sonatas for hours each day. There were weeks when progress felt invisible and frustration threatened to overwhelm her. Yet she kept returning to the bench, trusting that small improvements were accumulating beneath the surface. Five years later, she performed Chopin's Ballade No. 1 on a grand stage, each note a testament to the quiet, relentless work she had poured into her craft.",
+    "topicTag": "music and passion",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "지속되는 노력, 즉 오랜 시간 동안 끊임없이 기울이는 힘과 집중을 뜻합니다.",
+    "realUsageKo": "목표를 달성하기 위해 포기하지 않고 꾸준히 노력하는 상황에서 사용되며, 단기적 집중이 아닌 장기적인 헌신을 강조할 때 씁니다.",
+    "etymologyKo": "'sustained'는 라틴어 'sustinere(버티다, 지탱하다)'에서 유래했고, 'effort'는 프랑스어 'effort(힘을 쏟음)'에서 왔습니다. 함께 쓰이면 '오래 버티며 쏟는 힘'이라는 의미가 됩니다.",
+    "nuanceKo": "단순히 열심히 한다는 뉘앙스를 넘어, 중단 없이 일관되게 지속한다는 점을 부각합니다. 주로 긍정적이고 진지한 맥락에서 쓰이며, 성취나 성장 이야기에서 자주 등장합니다.",
+    "shortExampleEn": "Only through sustained effort did she finally publish her novel.",
+    "shortExampleKo": "지속적인 노력 끝에 그녀는 마침내 소설을 출판할 수 있었다."
+  }
+}

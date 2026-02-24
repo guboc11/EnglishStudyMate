@@ -1,0 +1,30 @@
+{
+  "id": "stave-off_f7b1a65f",
+  "expression": "stave off",
+  "selectionMeta": {
+    "selectedPhrase": "stave off",
+    "selectedSenseLabelKo": "막다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She drank extra water and went to bed early to stave off the cold she felt coming on."
+  },
+  "step2": {
+    "story": "The team was running low on supplies, but their leader found a way to stave off panic by keeping everyone focused on small tasks. He divided the remaining food carefully and reminded them that help was on the way. His calm approach staved off a crisis until the rescue team arrived.",
+    "topicTag": "survival",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For weeks, the small village had been watching the river rise after relentless rain. The mayor called every able-bodied resident to help stack sandbags along the bank, hoping to stave off the flooding before it reached the homes. Neighbors who had never spoken much worked side by side through the night, their headlamps cutting through the darkness. By morning, a wall of bags stretched the length of the village square, and the water crept up to the barrier but went no further. When the rain finally stopped two days later, the residents stood together and looked at the river that had nearly swallowed their town. They had staved off disaster, and the shared effort left the community closer than it had ever been.",
+    "topicTag": "community resilience",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 것을 지팡이나 막대기로 밀쳐내듯 막아낸다는 뜻이다.",
+    "realUsageKo": "위험, 질병, 배고픔, 문제 등 부정적인 상황이 닥쳐오는 것을 일시적으로 혹은 완전히 막아낼 때 사용한다. 주로 'stave off hunger', 'stave off a crisis'처럼 쓰인다.",
+    "etymologyKo": "'stave'는 원래 통(barrel)을 이루는 나무 판자를 뜻하며, 막대기로 내쫓는다는 의미로 발전했다. 'stave off'는 17세기부터 무언가를 밀어내거나 막는다는 뜻으로 쓰이기 시작했다.",
+    "nuanceKo": "완전한 해결보다는 임박한 위협을 잠시 막아낸다는 뉘앙스가 강하다. 위기나 부정적 상황을 능동적으로 저지하는 노력의 이미지를 담고 있다.",
+    "shortExampleEn": "Regular exercise can help stave off many age-related health problems.",
+    "shortExampleKo": "규칙적인 운동은 노화와 관련된 많은 건강 문제를 막는 데 도움이 될 수 있다."
+  }
+}

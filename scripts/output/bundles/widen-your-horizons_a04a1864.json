@@ -1,0 +1,30 @@
+{
+  "id": "widen-your-horizons_a04a1864",
+  "expression": "widen your horizons",
+  "selectionMeta": {
+    "selectedPhrase": "widen your horizons",
+    "selectedSenseLabelKo": "시야를 넓히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Living abroad for a year really helped her widen her horizons and appreciate different ways of life."
+  },
+  "step2": {
+    "story": "After years of working the same job in the same city, Marcus decided to take an online course in design just to widen his horizons. He discovered a passion he never knew existed, and soon began taking on freelance projects on the side.",
+    "topicTag": "personal growth",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "Elena had always played it safe, sticking to familiar routines and rarely stepping outside her comfort zone. Her mentor encouraged her to widen her horizons by volunteering at an international community center on weekends. At first she felt awkward, surrounded by people from cultures she barely knew. But as weeks passed, she found herself laughing over shared meals, picking up words in new languages, and seeing the world through entirely different eyes. The experience reshaped not just her perspective but her ambitions, and she left every session feeling quietly transformed.",
+    "topicTag": "cultural experience",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 지평선(horizon)을 넓힌다는 뜻으로, 경험·지식·관점의 범위를 확장하는 것을 의미한다.",
+    "realUsageKo": "새로운 경험을 하거나 다양한 분야를 접함으로써 사고방식이나 세계관을 넓히는 상황에서 사용된다. 여행, 교육, 새로운 도전 등을 권유할 때 자주 쓰인다.",
+    "etymologyKo": "'horizon'은 그리스어 'horizōn'(경계를 짓다)에서 유래했으며, 시야의 끝 경계선을 뜻한다. '시야의 경계를 넓힌다'는 비유적 표현으로 발전했다.",
+    "nuanceKo": "긍정적이고 격려하는 톤으로 주로 쓰이며, 자기계발·교육·여행의 맥락에서 자연스럽게 사용된다. 'broaden your horizons'와 거의 같은 의미로 혼용된다.",
+    "shortExampleEn": "Traveling solo taught me to widen my horizons and trust myself.",
+    "shortExampleKo": "혼자 여행하면서 시야를 넓히고 스스로를 믿는 법을 배웠다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "shake-off_6b36e3b3",
+  "expression": "shake off",
+  "selectionMeta": {
+    "selectedPhrase": "shake off",
+    "selectedSenseLabelKo": "떨쳐내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a rough morning, she went for a walk to shake off the anxiety before her big presentation."
+  },
+  "step2": {
+    "story": "David had been carrying the weight of his failure all week, replaying every mistake in his mind. On Saturday morning, he laced up his running shoes and hit the trail, determined to shake off the guilt that had been holding him back. By the time he reached the hilltop, he felt lighter than he had in days.",
+    "topicTag": "personal setback",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For three weeks after the breakup, Maya barely left her apartment. The sadness clung to her like a second skin, and no amount of distraction seemed to help. Her friend finally dragged her to a weekend pottery class, insisting that doing something with her hands would help her shake off the gloom. At first Maya just sat there, poking at the clay without enthusiasm. But somewhere between centering the wheel and watching a lopsided bowl take shape, she felt the heaviness begin to lift. She laughed at her own clumsy creation, and it was the first real laugh she had managed in weeks.",
+    "topicTag": "emotional recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "몸을 흔들어 무언가를 떨어뜨리다.",
+    "realUsageKo": "부정적인 감정, 스트레스, 나쁜 기억 등을 의식적으로 떨쳐내거나 극복할 때 사용한다. 물리적 추격자를 따돌리는 상황에도 쓰인다.",
+    "etymologyKo": "'shake'(흔들다)와 방향·분리를 나타내는 부사 'off'가 결합한 구동사로, 몸에 붙은 것을 흔들어 떼어내는 물리적 이미지에서 비롯되었다.",
+    "nuanceKo": "단순히 잊으려는 수동적 태도보다 의지를 가지고 극복하려는 능동적 뉘앙스가 강하다. 구어체와 문어체 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "It took him a few days to shake off the jet lag after the long flight.",
+    "shortExampleKo": "그는 긴 비행 후 시차 적응을 하는 데 며칠이 걸렸다."
+  }
+}

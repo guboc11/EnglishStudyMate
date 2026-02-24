@@ -1,0 +1,30 @@
+{
+  "id": "egg-on_81d6ef6e",
+  "expression": "egg on",
+  "selectionMeta": {
+    "selectedPhrase": "egg on",
+    "selectedSenseLabelKo": "부추기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His teammates egged him on to attempt the difficult trick shot, and he finally gave in."
+  },
+  "step2": {
+    "story": "During the dare, the whole group egged Marcus on to knock on the stranger's door. He hesitated, but their chanting grew louder. Reluctantly, he stepped forward and knocked.",
+    "topicTag": "peer pressure",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Elena had been sitting on the sidelines for weeks, watching others audition for the lead role while she held back out of fear. Her friends kept egging her on, insisting she had more talent than anyone else in the room. One evening, they practically dragged her to the audition hall and refused to let her leave. Standing under the spotlight, heart pounding, she finally let go of her doubt and delivered a performance that stunned the judges. The director called her name first on the callback list. She turned to her friends, who were beaming with pride, grateful they had egged her on when she couldn't believe in herself.",
+    "topicTag": "self-confidence",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 자극하거나 충동질하여 어떤 행동을 하도록 부추긴다는 뜻입니다.",
+    "realUsageKo": "주로 누군가가 망설이거나 꺼리는 행동을 하도록 옆에서 부추길 때 사용하며, 긍정적 격려나 부정적 충동 모두에 쓰입니다.",
+    "etymologyKo": "고대 노르드어 'eggja'(자극하다, 예리하게 하다)에서 유래했으며, '달걀(egg)'과는 전혀 관련이 없습니다.",
+    "nuanceKo": "종종 경솔하거나 위험한 행동을 부추기는 뉘앙스를 담고 있어, 장난스럽거나 무책임한 상황에서 자주 사용됩니다.",
+    "shortExampleEn": "Her coworkers egged her on to finally speak up at the meeting.",
+    "shortExampleKo": "동료들은 그녀가 마침내 회의에서 발언하도록 부추겼다."
+  }
+}

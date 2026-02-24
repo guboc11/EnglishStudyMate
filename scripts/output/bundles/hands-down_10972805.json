@@ -1,0 +1,30 @@
+{
+  "id": "hands-down_10972805",
+  "expression": "hands down",
+  "selectionMeta": {
+    "selectedPhrase": "hands down",
+    "selectedSenseLabelKo": "단연코",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "That was hands down the best pizza I've ever eaten."
+  },
+  "step2": {
+    "story": "After watching all five candidates present their ideas, the judges barely needed to deliberate. Maya's proposal was hands down the most creative and well-researched of the group. She walked away with the first-place prize and a standing ovation.",
+    "topicTag": "competition",
+    "moodTag": "impressed"
+  },
+  "step3": {
+    "story": "The annual film festival had drawn dozens of entries from aspiring directors around the country. Critics spent three days screening every submission, debating tone, pacing, and originality late into the night. But when the final vote was tallied, one short film stood apart from the rest. Daniel's debut work was hands down the most emotionally powerful piece in the entire competition. The audience had sat in stunned silence as the credits rolled, and many were still wiping their eyes when the lights came back on. It was the kind of film people would remember for years.",
+    "topicTag": "film festival",
+    "moodTag": "moved"
+  },
+  "meaning": {
+    "literalMeaningKo": "손을 내리고, 즉 아무 저항 없이 승리한다는 뜻에서 유래한 표현.",
+    "realUsageKo": "비교 대상이 없을 만큼 분명하게 최고임을 강조할 때 사용하며, '단연코', '압도적으로', '의심할 여지 없이'라는 의미로 쓰인다.",
+    "etymologyKo": "경마에서 기수가 이미 이겼음이 확실할 때 채찍을 들지 않고 손을 내린 채(hands down) 결승선을 통과한 데서 유래했다.",
+    "nuanceKo": "구어체에서 자주 쓰이며, 어떤 것이 경쟁 상대가 없을 정도로 탁월하다는 강한 확신과 자신감을 담고 있다.",
+    "shortExampleEn": "She is hands down the most talented singer in the school.",
+    "shortExampleKo": "그녀는 단연코 학교에서 가장 재능 있는 가수야."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "inner-strength_e0e5bda3",
+  "expression": "inner strength",
+  "selectionMeta": {
+    "selectedPhrase": "inner strength",
+    "selectedSenseLabelKo": "내면의 힘",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She found her inner strength during the most difficult moments of her life."
+  },
+  "step2": {
+    "story": "After losing her job, Maria spent weeks in despair. One morning, she looked in the mirror and decided to tap into her inner strength. She updated her resume and began applying with renewed confidence.",
+    "topicTag": "personal resilience",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the diagnosis came, James felt the world collapse around him. For weeks, he barely left his room, overwhelmed by fear and uncertainty. But slowly, he began to rediscover his inner strength — the quiet resolve that had carried him through hardships before. He started small: a short walk each morning, a call to a trusted friend. Each step forward reminded him that he was more capable than he thought. In time, James faced his illness not with dread, but with a steady, quiet courage.",
+    "topicTag": "overcoming illness",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "내면에서 비롯되는 정신적·감정적 힘을 의미한다.",
+    "realUsageKo": "어려운 상황에서 외부의 도움 없이 스스로 버티고 극복할 수 있는 내적 능력을 표현할 때 사용한다.",
+    "etymologyKo": "'Inner'는 '내부의'를 뜻하는 고대 영어 'innera'에서 유래했으며, 'strength'는 고대 영어 'strengþu'(힘, 단단함)에서 비롯되었다.",
+    "nuanceKo": "단순한 신체적 힘이 아닌 정신적·영적 강인함을 강조하며, 주로 역경이나 고통을 이겨낼 때의 내면적 회복력을 가리킨다.",
+    "shortExampleEn": "He drew on his inner strength to keep going despite the pain.",
+    "shortExampleKo": "그는 고통에도 불구하고 계속 나아가기 위해 내면의 힘을 끌어냈다."
+  }
+}

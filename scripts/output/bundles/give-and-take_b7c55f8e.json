@@ -1,0 +1,30 @@
+{
+  "id": "give-and-take_b7c55f8e",
+  "expression": "give and take",
+  "selectionMeta": {
+    "selectedPhrase": "give and take",
+    "selectedSenseLabelKo": "주고받기 / 타협",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A successful partnership requires give and take from both sides."
+  },
+  "step2": {
+    "story": "Maya and her roommate had very different schedules, which often caused tension. They sat down one evening and agreed that good living together required give and take—Maya would keep music low after 10 p.m., and her roommate would do the dishes on weekdays. The compromise made their apartment feel like a real home.",
+    "topicTag": "roommate life",
+    "moodTag": "cooperative"
+  },
+  "step3": {
+    "story": "During the contract negotiations, both teams arrived with firm demands and little patience. By midday, the talks had stalled and everyone looked ready to walk out. The lead negotiator stood up and reminded the room that any lasting deal is built on give and take—neither side can walk away with everything. Slowly, the two parties began trading concessions: longer payment terms for a lower price, extended support in exchange for a faster delivery date. By late afternoon, a draft agreement sat on the table. It wasn't perfect for anyone, but both sides felt they had been heard, and that made all the difference.",
+    "topicTag": "business negotiation",
+    "moodTag": "pragmatic"
+  },
+  "meaning": {
+    "literalMeaningKo": "주는 것과 받는 것, 즉 서로 양보하고 얻는 행위를 가리킵니다.",
+    "realUsageKo": "협상, 관계, 팀워크 등에서 한쪽만 양보하는 것이 아니라 양쪽 모두 조금씩 양보하고 이득을 나눌 때 사용합니다. '서로 주고받는 타협'이라는 의미로 일상·비즈니스 모두에서 자주 쓰입니다.",
+    "etymologyKo": "14세기 영어에서 'give'(주다)와 'take'(받다)를 나란히 결합한 표현으로, 상호 교환 행위를 직관적으로 나타냅니다. 18세기 이후 '타협·상호 양보'라는 추상적 의미로 굳어졌습니다.",
+    "nuanceKo": "강요나 일방적 희생이 아닌 자발적이고 균형 잡힌 상호 양보를 강조하며, 긍정적이고 성숙한 관계의 특성을 나타냅니다. 비즈니스 협상과 개인 관계 모두에 중립적·긍정적 어조로 사용됩니다.",
+    "shortExampleEn": "Marriage works best when there's plenty of give and take.",
+    "shortExampleKo": "결혼 생활은 서로 충분히 주고받을 때 가장 잘 유지됩니다."
+  }
+}

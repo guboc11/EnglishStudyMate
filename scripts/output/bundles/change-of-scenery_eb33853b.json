@@ -1,0 +1,30 @@
+{
+  "id": "change-of-scenery_eb33853b",
+  "expression": "change of scenery",
+  "selectionMeta": {
+    "selectedPhrase": "change of scenery",
+    "selectedSenseLabelKo": "환경 전환",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of working from the same desk, she decided she needed a change of scenery and booked a week at a coastal cabin."
+  },
+  "step2": {
+    "story": "Marcus had been staring at the same four walls for weeks, and his creativity was running dry. His manager suggested a change of scenery, so he packed his laptop and headed to a nearby café with large windows overlooking the park. By the afternoon, he had finished the project outline he'd been stuck on for days.",
+    "topicTag": "work burnout",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "Nadia had lived in the same neighborhood her entire life, and lately everything felt gray and routine. Her sister called one evening and proposed a spontaneous road trip, insisting that what Nadia needed was a change of scenery. They drove three hours north to a small mountain town neither of them had visited before, wandering through pine forests and eating at a tiny diner with mismatched chairs. The unfamiliar streets, the crisp mountain air, and the absence of her usual obligations made Nadia feel like a different person. By the time they drove home on Sunday, she was laughing easily again, her restlessness replaced by a quiet sense of renewal. Sometimes all it takes is stepping outside your everyday world to rediscover what you love about your life.",
+    "topicTag": "travel and renewal",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "주변 환경이나 장소를 바꾸는 것을 뜻합니다.",
+    "realUsageKo": "지루함이나 스트레스, 번아웃을 느낄 때 일상적인 환경에서 벗어나 새로운 곳으로 가는 행위를 표현할 때 자주 쓰입니다. '기분 전환을 위해 여행을 가다'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "'change'(변화)와 'scenery'(풍경, 배경)가 합쳐진 구로, 무대의 배경이 바뀌듯 삶의 배경을 바꾼다는 이미지에서 유래했습니다.",
+    "nuanceKo": "가볍고 일상적인 어조로 쓰이며, 심각한 이주나 이사보다는 잠시 환경을 바꾸는 소소한 변화에 어울립니다. 제안이나 권유 표현에 자주 등장합니다.",
+    "shortExampleEn": "A weekend trip to the mountains gave him the change of scenery he desperately needed.",
+    "shortExampleKo": "주말 산악 여행이 그에게 절실히 필요했던 환경 전환을 가져다주었습니다."
+  }
+}

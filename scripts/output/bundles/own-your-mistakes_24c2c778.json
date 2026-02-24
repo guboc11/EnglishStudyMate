@@ -1,0 +1,30 @@
+{
+  "id": "own-your-mistakes_24c2c778",
+  "expression": "own your mistakes",
+  "selectionMeta": {
+    "selectedPhrase": "own your mistakes",
+    "selectedSenseLabelKo": "실수를 인정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The best leaders own their mistakes and use them as opportunities to grow."
+  },
+  "step2": {
+    "story": "After the project failed to meet the deadline, Marcus stood before his team and owned his mistakes instead of making excuses. He explained where his planning had gone wrong and outlined exactly what he would do differently next time.",
+    "topicTag": "leadership",
+    "moodTag": "accountable"
+  },
+  "step3": {
+    "story": "Sophie had been dreading Monday morning since she sent the wrong report to the client on Friday. When her manager called her into the office, she took a deep breath and owned her mistake before he could say a word. She laid out what had happened, why it happened, and the steps she had already taken to correct it. Her manager leaned back in his chair, visibly surprised by her honesty. 'That's exactly what I needed to hear,' he said. 'Everyone makes errors — it's owning your mistakes that sets you apart.'",
+    "topicTag": "workplace accountability",
+    "moodTag": "honest"
+  },
+  "meaning": {
+    "literalMeaningKo": "'Own'은 '소유하다'라는 뜻으로, 자신의 실수를 자기 것으로 받아들인다는 의미입니다.",
+    "realUsageKo": "실제로는 실수나 잘못을 변명 없이 솔직하게 인정하고 책임지는 태도를 가리킵니다. 직장, 대인관계 등 다양한 상황에서 성숙함과 책임감을 나타낼 때 씁니다.",
+    "etymologyKo": "'Own'의 '책임을 인정하다'라는 용법은 20세기 중반 영어 구어에서 확산되었으며, '자신의 것으로 받아들이다'는 뜻에서 파생되었습니다.",
+    "nuanceKo": "단순한 사과(say sorry)보다 훨씬 적극적인 태도로, 결과에 대한 책임을 기꺼이 지겠다는 강한 의지를 내포합니다. 리더십이나 자기 계발 맥락에서 긍정적으로 평가받는 표현입니다.",
+    "shortExampleEn": "She owned her mistake and apologized directly to the customer.",
+    "shortExampleKo": "그녀는 자신의 실수를 인정하고 고객에게 직접 사과했습니다."
+  }
+}

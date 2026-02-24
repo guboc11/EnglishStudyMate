@@ -1,0 +1,30 @@
+{
+  "id": "opt-in_ce0acee4",
+  "expression": "opt in",
+  "selectionMeta": {
+    "selectedPhrase": "opt in",
+    "selectedSenseLabelKo": "참여하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You can opt in to receive weekly newsletters by checking the box at the bottom of the sign-up form."
+  },
+  "step2": {
+    "story": "The company launched a new rewards program and sent everyone an invitation. Sarah decided to opt in after seeing how many points she could earn on everyday purchases. Within a week, she had already redeemed her first reward.",
+    "topicTag": "loyalty program",
+    "moodTag": "eager"
+  },
+  "step3": {
+    "story": "When the university announced a peer mentorship pilot program, most students hesitated, unsure if it would be worth their time. Daniel, however, chose to opt in without much deliberation — he had struggled in his first year and knew how much guidance would have helped him back then. He was matched with a senior student in his department, and their weekly meetings quickly became the highlight of his schedule. By the end of the semester, Daniel had not only improved his grades but had also found a genuine friend. The program coordinator later told him he was one of the most engaged participants they had ever seen. Opting in had turned out to be one of the best decisions he made in college.",
+    "topicTag": "mentorship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 제도나 활동에 스스로 선택하여 참여하다.",
+    "realUsageKo": "주로 뉴스레터 구독, 프로그램 등록, 데이터 수집 동의처럼 선택적으로 제공되는 것에 자발적으로 참여할 때 사용한다. 반대말은 'opt out(거부하다/탈퇴하다)'이다.",
+    "etymologyKo": "'opt'는 라틴어 'optare(선택하다)'에서 유래했으며, 'in'과 결합해 '안으로 선택해 들어가다'는 의미를 형성한다.",
+    "nuanceKo": "강요가 아닌 자발적 선택임을 강조하는 뉘앙스를 담고 있으며, 주로 공식적이거나 제도적인 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "You must opt in to share your location data with the app.",
+    "shortExampleKo": "앱과 위치 데이터를 공유하려면 직접 동의해야 합니다."
+  }
+}

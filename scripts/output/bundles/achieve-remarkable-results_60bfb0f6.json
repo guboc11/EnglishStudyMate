@@ -1,0 +1,30 @@
+{
+  "id": "achieve-remarkable-results_60bfb0f6",
+  "expression": "achieve remarkable results",
+  "selectionMeta": {
+    "selectedPhrase": "achieve remarkable results",
+    "selectedSenseLabelKo": "놀라운 결과를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "By staying focused and disciplined, the young researcher managed to achieve remarkable results in just six months."
+  },
+  "step2": {
+    "story": "The small startup had limited resources but a bold vision. Through relentless teamwork and creative problem-solving, they achieved remarkable results in their first year. Investors who once doubted them were now eager to get on board.",
+    "topicTag": "startup success",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Maria had always been told she wasn't cut out for competitive swimming. Her times were average, and her coach quietly suggested she consider a different sport. But Maria refused to give up. She redesigned her entire training routine, woke up at five every morning, and studied footage of elite swimmers for hours. By the end of the season, she had achieved remarkable results, breaking the school record and qualifying for regionals. Standing on the podium, she realized that doubt from others had only made her stronger.",
+    "topicTag": "personal growth",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'놀라운 결과들을 성취하다'라는 뜻으로, 기대 이상의 성과를 이루어냈음을 나타낸다.",
+    "realUsageKo": "노력이나 전략의 결과로 인상적인 성과를 냈을 때 사용하며, 비즈니스·스포츠·학업 등 다양한 맥락에서 쓰인다. 단순히 '잘했다'보다 훨씬 강한 인상과 놀라움을 전달한다.",
+    "etymologyKo": "'achieve'는 고대 프랑스어 'achever(완성하다)'에서 유래했고, 'remarkable'은 라틴어 'remarcare(다시 주목하다)'에서 왔다. 두 단어가 결합되어 '주목할 만한 성과를 완성하다'라는 강한 의미를 형성한다.",
+    "nuanceKo": "객관적으로 측정 가능한 성과에 주로 쓰이며, 감탄과 인정의 뉘앙스를 포함한다. 자기 자신보다는 타인의 성과를 칭찬하거나 공식적인 발표·보고서에서 자주 등장한다.",
+    "shortExampleEn": "The new training program helped the athletes achieve remarkable results at the national championships.",
+    "shortExampleKo": "새 훈련 프로그램 덕분에 선수들은 전국 대회에서 놀라운 결과를 낼 수 있었다."
+  }
+}

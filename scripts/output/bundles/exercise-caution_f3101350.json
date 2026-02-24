@@ -1,0 +1,30 @@
+{
+  "id": "exercise-caution_f3101350",
+  "expression": "exercise caution",
+  "selectionMeta": {
+    "selectedPhrase": "exercise caution",
+    "selectedSenseLabelKo": "주의를 기울이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "You should exercise caution when signing any contract without reading the fine print."
+  },
+  "step2": {
+    "story": "The investor had found what seemed like the perfect opportunity, but her mentor urged her to exercise caution before committing her savings. She slowed down, reviewed every detail, and ultimately avoided a costly mistake.",
+    "topicTag": "financial decision",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Marcus had been hiking the mountain trail dozens of times, but today the path looked different after last night's rain. His guide paused at a narrow ridge and said, 'We need to exercise caution here — the rocks are slippery and one wrong step could send us sliding.' Marcus nodded, placing each foot deliberately and gripping the rope they'd strung along the edge. By the time they reached the summit, the careful pace felt less like a delay and more like the whole point of the journey.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'exercise'는 '발휘하다·행사하다', 'caution'은 '조심·신중함'으로, 글자 그대로는 '신중함을 발휘하다'라는 뜻이다.",
+    "realUsageKo": "어떤 행동이나 결정을 내리기 전에 위험 요소를 충분히 고려하며 조심스럽게 행동할 것을 권고할 때 쓴다. 공식·비공식 상황 모두에서 자연스럽게 사용된다.",
+    "etymologyKo": "'exercise'는 라틴어 'exercere(훈련하다, 실행하다)'에서 왔으며, 'caution'은 라틴어 'cautio(경계, 주의)'에서 유래했다. 함께 쓰이면 '신중함을 실천하다'라는 의미를 형성한다.",
+    "nuanceKo": "단순히 '조심해'보다 더 격식 있고 진지한 어조를 띠며, 전문가나 권위 있는 인물이 경고나 조언을 할 때 자주 사용된다. 상황의 잠재적 위험성을 강조하는 뉘앙스가 있다.",
+    "shortExampleEn": "Drivers are advised to exercise caution on icy roads.",
+    "shortExampleKo": "운전자들은 빙판길에서 주의를 기울이도록 권고받고 있다."
+  }
+}

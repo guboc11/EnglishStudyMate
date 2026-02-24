@@ -1,0 +1,30 @@
+{
+  "id": "make-or-break_9b35a9bb",
+  "expression": "make or break",
+  "selectionMeta": {
+    "selectedPhrase": "make or break",
+    "selectedSenseLabelKo": "성공이냐 실패냐의 분기점",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The final pitch to investors is make or break for the startup—if it doesn't go well, the company will have to shut down."
+  },
+  "step2": {
+    "story": "Sarah had spent months preparing for the championship audition. She knew this was a make or break moment—either she'd earn the lead role or lose her shot entirely. Taking a deep breath, she walked onto the stage and gave the performance of her life.",
+    "topicTag": "performance pressure",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The small restaurant had been struggling for years, and the upcoming food festival was make or break for its survival. Chef Marco poured everything he had into perfecting his signature dish, working through the night to get every detail right. When the day of the festival arrived, a line formed outside his booth that stretched around the block. By noon, he had sold out completely, and three local journalists had already asked for interviews. That evening, as he counted the revenue, Marco realized the restaurant was not only saved—it was finally going to thrive.",
+    "topicTag": "business turnaround",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '만들거나 부수다', 즉 성공하거나 완전히 실패하는 양자택일의 상황을 뜻한다.",
+    "realUsageKo": "결과에 따라 성공과 실패가 완전히 갈리는 결정적인 순간이나 상황을 묘사할 때 사용한다. 주로 시험, 발표, 협상, 사업 등 중요한 분기점에서 자주 쓰인다.",
+    "etymologyKo": "16세기 영어에서 유래한 표현으로, 'make'(성공시키다)와 'break'(망가뜨리다)의 대조를 통해 결과의 극단적인 양면성을 나타낸다.",
+    "nuanceKo": "높은 긴장감과 절박함을 내포하며, 결과를 되돌릴 수 없는 결정적 국면을 강조한다. 형용사(a make-or-break moment)와 동사구(this will make or break you) 양쪽으로 쓰인다.",
+    "shortExampleEn": "This interview is make or break for my career.",
+    "shortExampleKo": "이번 면접은 내 커리어의 성공과 실패를 가르는 분기점이다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "account-for_80473763",
+  "expression": "account for",
+  "selectionMeta": {
+    "selectedPhrase": "account for",
+    "selectedSenseLabelKo": "설명하다 / 차지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Renewable energy now accounts for nearly 30% of the country's total electricity production."
+  },
+  "step2": {
+    "story": "The project manager had to account for every hour her team spent on the new software launch. She reviewed the logs carefully and discovered that testing alone accounted for almost half the total time. Her detailed report helped the company better plan future projects.",
+    "topicTag": "project management",
+    "moodTag": "analytical"
+  },
+  "step3": {
+    "story": "When the quarterly report landed on Daniel's desk, the numbers didn't add up. He spent the afternoon trying to account for a missing $15,000 in the budget, retracing every transaction line by line. It turned out that travel expenses had ballooned unexpectedly and now accounted for nearly a quarter of the department's spending. His manager asked him to account for the oversight in front of the board, which made Daniel nervous. He took a deep breath, presented the full breakdown, and explained exactly how the discrepancy had occurred. By the end of the meeting, everyone agreed that tighter expense tracking was long overdue.",
+    "topicTag": "workplace accountability",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "'account for'는 문자 그대로 '~에 대해 설명을 제공하다' 또는 '~의 비율을 차지하다'라는 뜻입니다.",
+    "realUsageKo": "어떤 사실이나 상황의 이유를 설명할 때, 또는 전체 중 특정 비율을 구성할 때 사용합니다. 예를 들어 데이터 분석, 예산 보고, 시간 관리 등 다양한 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'account'는 라틴어 'computare(계산하다)'에서 유래했으며, 중세 영어에서 재정 기록을 의미했습니다. 'account for'는 이 기록·계산의 의미가 확장되어 설명과 비율 표현에도 쓰이게 되었습니다.",
+    "nuanceKo": "공식적이고 논리적인 뉘앙스가 강해 보고서, 분석, 발표 등에서 자주 등장합니다. '설명하다'의 의미로 쓰일 때는 다소 책임 추궁의 어조를 띨 수 있습니다.",
+    "shortExampleEn": "Online sales now account for over 60% of the company's total revenue.",
+    "shortExampleKo": "온라인 판매가 이제 회사 전체 수익의 60% 이상을 차지합니다."
+  }
+}

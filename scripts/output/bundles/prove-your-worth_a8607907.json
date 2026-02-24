@@ -1,0 +1,30 @@
+{
+  "id": "prove-your-worth_a8607907",
+  "expression": "prove your worth",
+  "selectionMeta": {
+    "selectedPhrase": "prove your worth",
+    "selectedSenseLabelKo": "가치를 증명하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She worked tirelessly on the project to prove her worth to the new team."
+  },
+  "step2": {
+    "story": "Marcus had just joined the company as the youngest analyst on the floor. Determined to prove his worth, he stayed late every night preparing a market analysis no one had asked for. When he presented it at the next meeting, his manager smiled and said it was exactly what they needed.",
+    "topicTag": "workplace",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had transferred from a small branch office to the headquarters, and from day one she felt invisible among the senior staff. Every idea she raised in meetings was met with polite nods and then silence. Rather than retreat, she decided to prove her worth through action. She spent three weekends redesigning the client onboarding process, cutting the average time in half. When the results came in, her director personally walked over to her desk to congratulate her. That moment told her she had finally earned her place.",
+    "topicTag": "career growth",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 가치를 증명하다, 즉 자신이 얼마나 유능하고 쓸모 있는지를 행동으로 보여주다.",
+    "realUsageKo": "주로 직장, 팀, 경쟁 상황에서 스스로의 능력이나 존재 이유를 실제 성과로 입증해야 할 때 쓰인다. '내가 여기 있을 자격이 있다'는 뉘앙스를 담는다.",
+    "etymologyKo": "'prove'는 라틴어 'probare(검증하다, 시험하다)'에서 유래했으며, 'worth'는 고대 영어 'weorth(가치, 값어치)'에서 왔다. 두 단어가 결합해 '자신의 가치를 시험대에 올려 검증한다'는 의미를 형성한다.",
+    "nuanceKo": "단순한 자랑이 아니라, 외부의 의심이나 낮은 기대를 극복하고 행동으로 자신을 증명해야 하는 압박감이 내포된 표현이다. 겸손하면서도 강한 의지를 드러낼 때 자주 쓰인다.",
+    "shortExampleEn": "He knew he had to prove his worth before asking for a promotion.",
+    "shortExampleKo": "그는 승진을 요청하기 전에 자신의 가치를 증명해야 한다는 것을 알았다."
+  }
+}

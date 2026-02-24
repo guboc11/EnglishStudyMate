@@ -1,0 +1,30 @@
+{
+  "id": "take-full-responsibility_6a166c89",
+  "expression": "take full responsibility",
+  "selectionMeta": {
+    "selectedPhrase": "take full responsibility",
+    "selectedSenseLabelKo": "전적인 책임을 지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the project failed to meet the deadline, the team lead stood up and said she would take full responsibility for the oversight."
+  },
+  "step2": {
+    "story": "When the data breach was discovered, the CEO called an emergency press conference. He looked directly into the cameras and said, 'I take full responsibility for what happened.' The company's stock dipped that day, but public trust slowly recovered.",
+    "topicTag": "leadership",
+    "moodTag": "accountable"
+  },
+  "step3": {
+    "story": "Daniel had been managing the construction project for eight months, and everything seemed on track until a structural flaw was discovered two weeks before opening. The client was furious, and the entire team braced for the fallout. Daniel called a meeting and told everyone clearly: 'I take full responsibility for not catching this earlier — it was my oversight.' Rather than pointing fingers, he immediately coordinated with engineers to fix the problem. His willingness to own the mistake earned him unexpected respect from both his team and the client. When the building finally opened on time, it was Daniel who received the loudest applause.",
+    "topicTag": "professional accountability",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "'완전한 책임을 지다'라는 의미로, 어떤 일의 결과에 대해 전적으로 책임을 받아들이는 것을 뜻한다.",
+    "realUsageKo": "실수나 사고가 발생했을 때 변명 없이 자신의 책임임을 공개적으로 인정할 때 사용한다. 주로 리더십이나 전문적 맥락에서 쓰이며, 성숙하고 책임감 있는 태도를 강조한다.",
+    "etymologyKo": "'responsibility'는 라틴어 'respondere(응답하다)'에서 유래하여, 어떤 결과에 대해 '응답하고 감당하는 것'이라는 의미를 지닌다. 'full'을 더해 그 책임의 완전성을 강조한다.",
+    "nuanceKo": "단순한 사과보다 훨씬 강하고 공식적인 표현으로, 변명이나 회피 없이 결과를 온전히 받아들이겠다는 의지를 담고 있다. 비즈니스, 정치, 법적 맥락에서 자주 사용된다.",
+    "shortExampleEn": "The manager took full responsibility for the billing error and personally contacted each affected customer.",
+    "shortExampleKo": "그 매니저는 청구 오류에 대해 전적인 책임을 지고 영향을 받은 모든 고객에게 직접 연락했다."
+  }
+}

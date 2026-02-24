@@ -1,0 +1,30 @@
+{
+  "id": "smart-decision_c2c42176",
+  "expression": "smart decision",
+  "selectionMeta": {
+    "selectedPhrase": "smart decision",
+    "selectedSenseLabelKo": "현명한 결정",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Choosing to save money instead of buying a new phone was a smart decision that paid off when her car needed repairs."
+  },
+  "step2": {
+    "story": "After weeks of debate, Marcus finally turned down the high-paying job offer in another city. Staying close to his family and his roots was, in the end, the smart decision. His peace of mind proved it.",
+    "topicTag": "life choices",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Elena had been tempted to invest all her savings into the trendy startup everyone was talking about. But she paused, researched carefully, and decided to diversify instead. It felt overly cautious at the time, and her friends teased her for missing out. Six months later, the startup collapsed and her portfolio was untouched. What once seemed like hesitation turned out to be the smart decision that protected everything she had worked for.",
+    "topicTag": "financial planning",
+    "moodTag": "vindicated"
+  },
+  "meaning": {
+    "literalMeaningKo": "'smart'(영리한)과 'decision'(결정)의 조합으로, 말 그대로 '영리한 결정'을 뜻한다.",
+    "realUsageKo": "단순히 좋은 선택이 아니라, 상황을 충분히 고려한 뒤 내린 이성적이고 현명한 판단을 가리킬 때 쓴다. 결과가 좋았을 때 사후적으로 평가하는 맥락에서도 자주 쓰인다.",
+    "etymologyKo": "'smart'는 고대 영어 'smeart'(날카로운, 고통스러운)에서 유래했으며, 시간이 지나면서 '기민한, 영리한'이라는 의미로 발전했다. 'decision'은 라틴어 'decidere'(잘라내다, 결정하다)에서 왔다.",
+    "nuanceKo": "단순히 '좋은 결정(good decision)'보다 더 적극적으로 지혜롭고 전략적인 판단을 칭찬하는 뉘앙스를 담는다. 칭찬하거나 스스로 확신을 표현할 때 모두 어울린다.",
+    "shortExampleEn": "Leaving early to avoid the traffic was a smart decision.",
+    "shortExampleKo": "교통 체증을 피하려고 일찍 출발한 것은 현명한 결정이었다."
+  }
+}

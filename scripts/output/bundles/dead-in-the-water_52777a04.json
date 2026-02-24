@@ -1,0 +1,30 @@
+{
+  "id": "dead-in-the-water_52777a04",
+  "expression": "dead in the water",
+  "selectionMeta": {
+    "selectedPhrase": "dead in the water",
+    "selectedSenseLabelKo": "성사되지 못한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Without the investor's funding, the entire project was dead in the water before it even started."
+  },
+  "step2": {
+    "story": "The startup had spent months developing its app, but when the lead investor pulled out, the venture was dead in the water. The founders sat in silence, staring at spreadsheets that now meant nothing.",
+    "topicTag": "startup failure",
+    "moodTag": "defeated"
+  },
+  "step3": {
+    "story": "After two years of careful negotiation, the merger deal suddenly collapsed when the board refused to approve the terms. Both companies had counted on the partnership to survive the coming market downturn, and now everything was dead in the water. Employees whispered nervously in hallways, sensing the shift in the air. The CEO called an emergency meeting but had few reassuring words to offer. What had seemed like a done deal just weeks ago was now nothing more than a cautionary tale about counting chickens too early.",
+    "topicTag": "business deal collapse",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "물 위에서 죽어 있는, 즉 아무런 움직임도 없이 멈춰 있는 상태.",
+    "realUsageKo": "계획, 프로젝트, 협상 등이 진행될 가능성이 전혀 없이 완전히 무산되었을 때 사용한다. 보통 외부 요인으로 인해 더 이상 앞으로 나아갈 수 없게 된 상황을 묘사한다.",
+    "etymologyKo": "원래 항해 용어로, 바람이 없거나 고장이 나서 배가 물 위에서 전혀 움직이지 못하는 상태를 뜻했다. 이후 아무런 진전도 없이 멈춰버린 상황 전반을 가리키는 관용어로 확장되었다.",
+    "nuanceKo": "단순히 느리다는 것이 아니라 완전히 가망이 없다는 뉘앙스를 강하게 담고 있다. 공식적·비공식적 맥락 모두에서 쓰이며, 특히 비즈니스나 정치 분야에서 협상이나 법안이 무산될 때 자주 등장한다.",
+    "shortExampleEn": "The peace talks were dead in the water after both sides refused to compromise.",
+    "shortExampleKo": "양측이 타협을 거부하면서 평화 협상은 완전히 무산되었다."
+  }
+}

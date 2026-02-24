@@ -1,0 +1,30 @@
+{
+  "id": "at-a-crossroads_bfcd86f0",
+  "expression": "at a crossroads",
+  "selectionMeta": {
+    "selectedPhrase": "at a crossroads",
+    "selectedSenseLabelKo": "기로에 서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After ten years at the same company, she found herself at a crossroads, unsure whether to accept the promotion or pursue her dream of starting her own business."
+  },
+  "step2": {
+    "story": "Marcus had always followed the safe path, but now he was at a crossroads — stay in his stable government job or take a chance on his startup idea. He spent sleepless nights weighing both options, knowing the choice would define the next chapter of his life. Finally, he took a deep breath and chose to leap into the unknown.",
+    "topicTag": "career decision",
+    "moodTag": "uncertain"
+  },
+  "step3": {
+    "story": "At thirty-five, Elena felt she was at a crossroads unlike any she had faced before. Her long-term relationship had just ended, her lease was up, and her boss had offered her a transfer to a city across the country. Each morning she sat with her coffee and stared at the two roads stretching out before her in her mind. Part of her wanted the familiar comfort of staying — her friends, her neighbourhood, the café where everyone knew her name. But another part whispered that this disruption might be the universe nudging her toward the life she had always imagined. She finally realised that standing still was itself a choice, and a far more frightening one.",
+    "topicTag": "life transition",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '교차로에 서 있다', 즉 두 갈래 이상의 길이 만나는 지점에 서 있는 상태를 뜻한다.",
+    "realUsageKo": "실제로는 인생이나 경력, 관계 등에서 중요한 결정을 내려야 하는 중요한 기로에 놓였을 때 사용한다. 어떤 선택을 하느냐에 따라 앞으로의 방향이 크게 달라지는 상황을 묘사할 때 쓰인다.",
+    "etymologyKo": "중세 영어에서 'crossroads'는 여러 길이 교차하는 물리적 교차로를 의미했으며, 오래전부터 운명이나 선택의 갈림길을 상징하는 장소로 여겨졌다. 'at a crossroads'라는 비유적 표현은 18세기 무렵부터 인생의 중요한 결정 시점을 가리키는 데 쓰이기 시작했다.",
+    "nuanceKo": "단순한 일상적 선택이 아니라 삶의 방향을 크게 바꿀 수 있는 중대한 결정 앞에 서 있을 때 사용하는 표현으로, 다소 무겁고 심각한 어조를 띤다. 개인뿐 아니라 조직이나 국가 등 큰 주체에도 쓸 수 있다.",
+    "shortExampleEn": "The company is at a crossroads and must decide whether to merge or remain independent.",
+    "shortExampleKo": "그 회사는 기로에 서 있으며, 합병할지 독립을 유지할지 결정해야 한다."
+  }
+}

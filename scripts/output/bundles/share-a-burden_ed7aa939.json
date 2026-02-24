@@ -1,0 +1,30 @@
+{
+  "id": "share-a-burden_ed7aa939",
+  "expression": "share a burden",
+  "selectionMeta": {
+    "selectedPhrase": "share a burden",
+    "selectedSenseLabelKo": "짐을 나누다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When she finally opened up about her financial troubles, her brother offered to share a burden she had been carrying alone for months."
+  },
+  "step2": {
+    "story": "After losing his job, Marcus kept his worries hidden for weeks, afraid of being a bother. His sister noticed his distant behavior and sat with him one evening, urging him to share a burden he didn't have to carry alone. Together, they mapped out a plan that gave Marcus a renewed sense of hope.",
+    "topicTag": "family support",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Lena had been managing her mother's illness alone for six months, juggling hospital visits with a demanding full-time job. One afternoon, her colleague Daniel noticed how exhausted she looked and invited her for coffee after work. Lena hesitated, but Daniel simply said, 'You don't have to do this by yourself — let me share a burden with you.' In the weeks that followed, he helped coordinate meal deliveries while another colleague quietly covered some of her shifts. Slowly, Lena realized that accepting help wasn't a sign of weakness but a way to honor the people who genuinely cared about her.",
+    "topicTag": "caregiver stress",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무거운 짐을 다른 사람과 함께 나누어 지다.",
+    "realUsageKo": "어려운 상황, 고민, 또는 책임을 혼자 감당하지 않고 타인과 함께 나누는 것을 의미한다. 감정적·재정적·업무적 부담을 공유하는 다양한 상황에서 쓰인다.",
+    "etymologyKo": "'burden'은 고대 영어 'byrthen(짐, 무게)'에서 유래했으며, 'share'는 고대 영어 'scearu(나누다, 분배하다)'에서 왔다. 두 단어가 결합해 '짐을 함께 지다'라는 뜻이 형성되었다.",
+    "nuanceKo": "따뜻하고 공감적인 어조를 지니며, 고통받는 사람에게 도움의 손길을 내밀거나 상대의 제안을 받아들일 때 주로 사용된다. 혼자 감당하는 것이 미덕이 아닌 상황에서 연대의 가치를 강조하는 표현이다.",
+    "shortExampleEn": "She was grateful to have friends willing to share a burden she had carried for far too long.",
+    "shortExampleKo": "그녀는 너무 오래 혼자 짊어져온 짐을 함께 나눠줄 친구들이 있어 감사했다."
+  }
+}

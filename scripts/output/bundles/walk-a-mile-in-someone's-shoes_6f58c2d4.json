@@ -1,0 +1,30 @@
+{
+  "id": "walk-a-mile-in-someone's-shoes_6f58c2d4",
+  "expression": "walk a mile in someone's shoes",
+  "selectionMeta": {
+    "selectedPhrase": "walk a mile in someone's shoes",
+    "selectedSenseLabelKo": "입장을 바꿔서 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before you judge your colleague's decision, try to walk a mile in her shoes and understand the pressure she was under."
+  },
+  "step2": {
+    "story": "Marcus had always criticized his younger brother for dropping out of college, convinced it was pure laziness. One evening, their mother asked him to walk a mile in his brother's shoes and listen to what he had been silently carrying. After hearing about the anxiety and financial strain his brother had faced alone, Marcus felt the weight of his own assumptions lift away.",
+    "topicTag": "family relationships",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "The team meeting had grown tense when the project manager, Dana, snapped at a junior developer for missing yet another deadline. Her frustration was visible, and the room fell quiet. Later that day, her own supervisor pulled her aside and said gently, 'Have you tried to walk a mile in his shoes?' Dana paused, then recalled that the developer had recently mentioned caring for a sick parent while working remotely without proper tools. She realized she had been measuring his output without once considering his circumstances. The next morning, Dana approached him privately, offered flexibility, and the dynamic between them shifted entirely.",
+    "topicTag": "workplace empathy",
+    "moodTag": "humbling"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 신발을 신고 1마일을 걷다.",
+    "realUsageKo": "다른 사람의 상황이나 처지를 직접 경험해보거나 그 입장에서 생각해보라는 의미로 사용됩니다. 주로 판단하거나 비판하기 전에 상대방의 관점을 이해하라고 권고할 때 씁니다.",
+    "etymologyKo": "19세기 북아메리카 원주민 문화에서 유래한 표현으로, '남의 모카신을 신고 걸어보기 전엔 그를 판단하지 말라'는 격언에서 비롯되었습니다. 이후 신발(shoes)로 바뀌어 현대 영어에 정착했습니다.",
+    "nuanceKo": "비판이나 판단을 멈추고 공감하라는 부드럽지만 직접적인 권고 톤을 담고 있습니다. 설교적으로 들릴 수 있어 친밀한 관계나 진지한 대화 상황에서 주로 사용됩니다.",
+    "shortExampleEn": "You'd be less quick to criticize if you walked a mile in her shoes.",
+    "shortExampleKo": "그녀의 입장이 되어 생각해본다면 그렇게 쉽게 비판하지 못할 거예요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "catch-a-cold_f3a922d6",
+  "expression": "catch a cold",
+  "selectionMeta": {
+    "selectedPhrase": "catch a cold",
+    "selectedSenseLabelKo": "감기에 걸리다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She forgot her umbrella and caught a cold after walking home in the rain."
+  },
+  "step2": {
+    "story": "Tom went out without a jacket on a chilly evening and caught a cold by the next morning. He spent the whole day in bed with a box of tissues and hot soup, regretting his choice.",
+    "topicTag": "everyday health",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "It had been a long week at work, and Maya was exhausted when Friday finally came. She decided to take a shortcut home through the park, even though the wind was bitter and she had left her scarf behind. By Saturday morning, her throat was sore and her nose was running — she had caught a cold. She wrapped herself in a blanket, made a cup of ginger tea, and cancelled all her weekend plans. As she rested on the couch, she promised herself she would dress more warmly the next time the temperature dropped.",
+    "topicTag": "everyday health",
+    "moodTag": "cozy but sorry"
+  },
+  "meaning": {
+    "literalMeaningKo": "'감기를 잡다'라는 표현으로, 감기 바이러스에 감염되어 아프게 됨을 뜻합니다.",
+    "realUsageKo": "실생활에서 '감기에 걸리다'를 나타낼 때 가장 자연스럽게 쓰이는 표현입니다. 'get a cold'와 함께 일상 대화에서 자주 사용됩니다.",
+    "etymologyKo": "'catch'는 원래 무언가를 '붙잡다'는 뜻이며, 병을 외부에서 받아들이는 개념으로 확장되어 'catch a cold(감기를 얻다)'처럼 쓰이게 되었습니다.",
+    "nuanceKo": "주로 추위, 비, 또는 타인과의 접촉 등 외부 요인으로 인해 감기에 걸렸을 때 사용하며, 다소 우연적이고 방어하지 못한 뉘앙스가 담겨 있습니다.",
+    "shortExampleEn": "Make sure you wear a coat outside or you'll catch a cold.",
+    "shortExampleKo": "밖에 나갈 때 코트를 입어야 해, 안 그러면 감기에 걸릴 거야."
+  }
+}

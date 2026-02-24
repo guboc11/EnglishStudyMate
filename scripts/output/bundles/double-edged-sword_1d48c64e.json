@@ -1,0 +1,30 @@
+{
+  "id": "double-edged-sword_1d48c64e",
+  "expression": "double-edged sword",
+  "selectionMeta": {
+    "selectedPhrase": "double-edged sword",
+    "selectedSenseLabelKo": "양날의 검",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Social media is a double-edged sword — it connects people across the globe but also spreads misinformation at an alarming rate."
+  },
+  "step2": {
+    "story": "Mia finally got promoted to team lead, but she quickly realized it was a double-edged sword. The higher salary was welcome, yet the endless meetings and pressure left her little time for the creative work she loved.",
+    "topicTag": "career growth",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "When the small town of Millbrook was chosen as the site for a new technology hub, residents celebrated in the streets. Jobs would pour in, property values would rise, and the local economy would finally breathe again. But within a year, it became clear that prosperity was a double-edged sword. Rents skyrocketed, longtime neighbors were priced out, and the quiet charm that had defined Millbrook for generations began to fade. The mayor stood at the podium one evening, searching for words that could honor both the gains and the losses, knowing that the town had stepped through a door it could never close again.",
+    "topicTag": "community change",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "양쪽 모두 날이 선 검, 즉 어느 방향으로 휘둘러도 베인다는 의미.",
+    "realUsageKo": "어떤 것이 이점과 단점을 동시에 지니고 있어, 좋은 면과 나쁜 면이 불가분하게 연결된 상황을 묘사할 때 쓴다.",
+    "etymologyKo": "중세 유럽의 양날 검(double-edged sword)에서 유래했으며, 어느 쪽에서도 상처를 입힐 수 있다는 물리적 특성이 비유로 굳어졌다.",
+    "nuanceKo": "단순히 '장단점이 있다'는 표현보다 양면이 서로 얽혀 분리할 수 없다는 뉘앙스가 강하며, 다소 경고나 경계의 톤을 담는다.",
+    "shortExampleEn": "Honesty can be a double-edged sword — it builds trust but sometimes hurts feelings.",
+    "shortExampleKo": "솔직함은 양날의 검이 될 수 있다 — 신뢰를 쌓아주지만 때로는 감정을 상하게 한다."
+  }
+}

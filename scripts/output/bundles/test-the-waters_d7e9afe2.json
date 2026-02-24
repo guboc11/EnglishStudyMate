@@ -1,0 +1,30 @@
+{
+  "id": "test-the-waters_d7e9afe2",
+  "expression": "test the waters",
+  "selectionMeta": {
+    "selectedPhrase": "test the waters",
+    "selectedSenseLabelKo": "타진하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before committing to a full product launch, the startup decided to test the waters with a small pilot program to gauge customer interest."
+  },
+  "step2": {
+    "story": "Maya had always wanted to open her own bakery, but she was nervous about leaving her stable job. She decided to test the waters by selling her pastries at a weekend farmers' market first. The positive response she received gave her the confidence to take the next step.",
+    "topicTag": "career change",
+    "moodTag": "cautiously hopeful"
+  },
+  "step3": {
+    "story": "After years of working in corporate finance, Daniel had a burning desire to become a travel writer. Rather than quitting his job overnight, he chose to test the waters by starting an anonymous travel blog during his evenings and weekends. He submitted a few articles to small online magazines, carefully watching how readers responded to his voice and style. The encouraging comments and a paid feature from one outlet told him what he needed to know. Six months later, he handed in his resignation letter, armed with a portfolio and the quiet confidence of someone who had already proven himself before making the leap.",
+    "topicTag": "pursuing a passion",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "물속에 손이나 발을 넣어 온도나 상태를 확인한다는 뜻.",
+    "realUsageKo": "새로운 일이나 상황에 본격적으로 뛰어들기 전에 반응이나 가능성을 조심스럽게 살펴보거나 타진할 때 사용한다.",
+    "etymologyKo": "수영이나 항해 전에 물의 온도와 흐름을 먼저 확인하던 습관에서 유래한 표현이다.",
+    "nuanceKo": "섣불리 결정하지 않고 신중하게 상황을 파악하려는 태도를 내포하며, 리스크를 최소화하려는 실용적인 뉘앙스가 강하다.",
+    "shortExampleEn": "The company tested the waters with a limited beta release before the official launch.",
+    "shortExampleKo": "그 회사는 공식 출시 전에 제한된 베타 버전으로 시장 반응을 타진했다."
+  }
+}

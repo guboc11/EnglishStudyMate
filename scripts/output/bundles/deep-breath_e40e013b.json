@@ -1,0 +1,30 @@
+{
+  "id": "deep-breath_e40e013b",
+  "expression": "deep breath",
+  "selectionMeta": {
+    "selectedPhrase": "deep breath",
+    "selectedSenseLabelKo": "깊은 숨",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She paused before answering, taking a deep breath to calm herself."
+  },
+  "step2": {
+    "story": "Before stepping onto the stage, Marcus took a deep breath and closed his eyes. The crowd noise faded as he steadied his nerves and walked into the spotlight.",
+    "topicTag": "public speaking",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "The job interview had been going for forty minutes, and the final question caught Yuna off guard. She felt her heart race as the interviewer stared at her expectantly. She held up one finger and said, 'Give me just a moment.' She took a deep breath, letting it out slowly, and felt the panic begin to recede. With a steady voice, she answered clearly and confidently. Walking out of the building afterward, she smiled — that one deep breath had made all the difference.",
+    "topicTag": "job interview",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "폐를 가득 채울 만큼 천천히 깊게 들이쉬는 숨.",
+    "realUsageKo": "긴장되거나 감정이 격해졌을 때 마음을 가라앉히기 위해 하는 행동을 가리키며, 흔히 'take a deep breath' 형태로 쓴다.",
+    "etymologyKo": "'deep'은 고대 영어 'dēop'(깊은), 'breath'는 고대 영어 'brǣth'(숨, 냄새)에서 유래하며, 두 단어가 합쳐져 '깊은 숨'을 뜻하게 되었다.",
+    "nuanceKo": "단순한 호흡 동작을 넘어 '잠깐 진정하다'는 심리적 의미가 강하며, 충고나 지시로 쓰일 때('Take a deep breath')는 '침착해'라는 뉘앙스를 담는다.",
+    "shortExampleEn": "Just take a deep breath — everything will be fine.",
+    "shortExampleKo": "그냥 심호흡 한 번 해봐 — 다 잘 될 거야."
+  }
+}

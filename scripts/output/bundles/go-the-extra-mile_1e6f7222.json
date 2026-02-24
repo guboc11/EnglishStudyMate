@@ -1,0 +1,30 @@
+{
+  "id": "go-the-extra-mile_1e6f7222",
+  "expression": "go the extra mile",
+  "selectionMeta": {
+    "selectedPhrase": "go the extra mile",
+    "selectedSenseLabelKo": "한 발 더 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always goes the extra mile to make sure her clients feel valued and supported."
+  },
+  "step2": {
+    "story": "Marcus had already finished his report when he noticed a small error in his colleague's data. He could have ignored it, but he decided to go the extra mile and stayed late to help fix it. His colleague was deeply grateful, and their working relationship became stronger than ever.",
+    "topicTag": "workplace kindness",
+    "moodTag": "generous"
+  },
+  "step3": {
+    "story": "The restaurant had a reputation for going the extra mile, and tonight was no exception. When a family arrived for a birthday dinner, the staff had quietly arranged a small cake and handwritten notes from each table. The mother, who had mentioned the occasion only in passing when making the reservation, was moved to tears. The head chef came out personally to greet them, explaining that every guest deserved to feel special. As they left, the family promised to return and told everyone they knew about the experience. It was a small effort for the staff, but an unforgettable night for the family.",
+    "topicTag": "customer service",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '한 마일을 더 걷다'는 뜻이다.",
+    "realUsageKo": "실제로는 기대 이상으로 노력하거나 남들이 하지 않는 부분까지 신경 쓰는 행동을 표현할 때 쓴다. 직장, 서비스, 인간관계 등 다양한 상황에서 자주 사용된다.",
+    "etymologyKo": "성경 마태복음 5장 41절에서 유래한 표현으로, 로마 병사가 짐을 1마일 들어 달라고 하면 2마일을 들어 주라는 가르침에서 비롯되었다.",
+    "nuanceKo": "단순한 성실함을 넘어 자발적인 헌신이나 배려의 뉘앙스를 담고 있다. 주로 긍정적인 맥락에서 쓰이며 칭찬의 의미가 강하다.",
+    "shortExampleEn": "He always goes the extra mile for his students, staying after class to answer questions.",
+    "shortExampleKo": "그는 항상 학생들을 위해 한 발 더 나아가며, 수업 후에도 남아 질문에 답해 준다."
+  }
+}

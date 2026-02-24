@@ -1,0 +1,30 @@
+{
+  "id": "core-value_2aba19b6",
+  "expression": "core value",
+  "selectionMeta": {
+    "selectedPhrase": "core value",
+    "selectedSenseLabelKo": "핵심 가치",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Honesty is a core value that guides every decision she makes, both at work and in her personal life."
+  },
+  "step2": {
+    "story": "When the team was pressured to cut corners on safety, Marcus refused. Integrity was a core value he wasn't willing to compromise, no matter the cost.",
+    "topicTag": "workplace ethics",
+    "moodTag": "principled"
+  },
+  "step3": {
+    "story": "During the company's annual retreat, the CEO asked everyone to reflect on what core value they personally embodied. Most people listed things like 'innovation' or 'efficiency,' but Yuna quietly wrote down 'kindness.' Her colleagues were surprised — until they thought about how she always took time to support struggling teammates, even during the busiest sprints. The facilitator paused when he read her card and said, 'This one might be the most important of all.' From that day on, kindness became an officially recognized core value of the team, posted on the wall for everyone to see.",
+    "topicTag": "team culture",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 사람이나 조직이 가장 중요하게 여기는 근본적인 가치관이나 신념.",
+    "realUsageKo": "개인의 삶의 원칙이나 기업·조직의 운영 철학을 설명할 때 사용하며, 의사결정과 행동의 기준이 되는 가치를 가리킨다.",
+    "etymologyKo": "'core'는 라틴어 'cor(심장)'에서 유래해 '핵심'을 뜻하며, 'value'는 라틴어 'valere(가치 있다)'에서 왔다. 두 단어가 합쳐져 '가장 중심이 되는 가치'를 의미한다.",
+    "nuanceKo": "단순한 선호가 아니라 쉽게 타협하지 않는 깊은 신념을 강조하는 표현으로, 다소 공식적이고 진지한 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "Respect for others is a core value of our organization.",
+    "shortExampleKo": "타인에 대한 존중은 우리 조직의 핵심 가치입니다."
+  }
+}

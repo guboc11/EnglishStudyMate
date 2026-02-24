@@ -1,0 +1,30 @@
+{
+  "id": "tight-budget_d828b838",
+  "expression": "tight budget",
+  "selectionMeta": {
+    "selectedPhrase": "tight budget",
+    "selectedSenseLabelKo": "빠듯한 예산",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "We had to cancel the team dinner because we were working with a tight budget this quarter."
+  },
+  "step2": {
+    "story": "Sarah stared at the spreadsheet, knowing she had to plan the entire office renovation on a tight budget. She circled the most essential items and crossed out the rest, determined to make it work. By the end of the day, she had a lean but realistic plan.",
+    "topicTag": "financial planning",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Moving to a new city after graduation, Marcus quickly realized that surviving on a tight budget required creativity. He cooked most of his meals at home, tracked every expense in a notebook, and skipped the gym in favor of running outside. Some weeks were harder than others, but he never fell behind on rent. Friends occasionally teased him for turning down nights out, yet Marcus saw it differently — every small sacrifice was a step toward the savings goal he had set for himself. Slowly, the numbers in his account began to climb.",
+    "topicTag": "personal finance",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'tight'(빠듯한, 여유 없는) + 'budget'(예산)의 조합으로, 쓸 수 있는 돈이 거의 없는 상태를 의미한다.",
+    "realUsageKo": "개인 생활비, 프로젝트 비용, 회사 운영비 등 다양한 상황에서 예산이 부족하거나 여유가 없을 때 폭넓게 쓰인다. 'on a tight budget'이나 'work with a tight budget' 형태로 자주 등장한다.",
+    "etymologyKo": "'tight'는 고대 영어 및 북유럽어에서 '꽉 조인, 팽팽한'을 뜻하는 단어에서 유래했으며, 재정 맥락에서는 '여유 없이 빠듯한' 의미로 확장되었다.",
+    "nuanceKo": "단순히 '돈이 적다'는 사실 이상으로, 신중하게 지출을 관리해야 하는 상황임을 함의한다. 부정적 뉘앙스가 있지만 절박함보다는 현실적 제약을 나타내는 중립적 표현으로도 쓰인다.",
+    "shortExampleEn": "The startup launched its first product on a tight budget by using open-source tools.",
+    "shortExampleKo": "그 스타트업은 오픈소스 도구를 활용해 빠듯한 예산으로 첫 번째 제품을 출시했다."
+  }
+}

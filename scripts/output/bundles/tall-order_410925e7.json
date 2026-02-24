@@ -1,0 +1,30 @@
+{
+  "id": "tall-order_410925e7",
+  "expression": "tall order",
+  "selectionMeta": {
+    "selectedPhrase": "tall order",
+    "selectedSenseLabelKo": "어려운 일",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Finishing the entire project by Friday is a tall order, but the team is doing their best."
+  },
+  "step2": {
+    "story": "The manager announced that the quarterly sales target had been doubled overnight. Everyone in the room exchanged uneasy glances — it was a tall order. Still, they rolled up their sleeves and got to work.",
+    "topicTag": "work pressure",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the school asked Maya to organize the annual fundraiser with only two weeks' notice, she knew it was a tall order. The venue needed booking, volunteers had to be recruited, and promotional materials had to be designed from scratch. Most people would have turned the request down without a second thought. But Maya had always thrived under pressure, treating every obstacle as a puzzle to be solved. She divided the tasks into a tight schedule and delegated wisely. By the night of the event, the hall was packed and the fundraiser exceeded its goal.",
+    "topicTag": "personal challenge",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '키가 큰 주문'이라는 뜻이다.",
+    "realUsageKo": "실제로는 달성하기 매우 어렵거나 무리한 요구·과제를 가리킬 때 사용한다. 주로 누군가에게 기대치가 지나치게 높을 때 쓴다.",
+    "etymologyKo": "19세기 미국에서 'tall'이 '과도한, 터무니없는'의 뜻으로 쓰이던 데서 유래했으며, 'tall tale(허풍스러운 이야기)'과 같은 맥락에서 발전했다.",
+    "nuanceKo": "불만이나 체념보다는 어려움을 인정하면서도 도전 의지를 내비치는 뉘앙스로 쓰이는 경우가 많다. 격식체와 비격식체 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "Winning three gold medals in one Olympics is a tall order for any athlete.",
+    "shortExampleKo": "한 올림픽에서 금메달 세 개를 따는 것은 어떤 선수에게도 어려운 일이다."
+  }
+}

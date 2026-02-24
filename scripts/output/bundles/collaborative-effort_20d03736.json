@@ -1,0 +1,30 @@
+{
+  "id": "collaborative-effort_20d03736",
+  "expression": "collaborative effort",
+  "selectionMeta": {
+    "selectedPhrase": "collaborative effort",
+    "selectedSenseLabelKo": "협력적인 노력",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The successful launch of the new product was the result of a collaborative effort between the design, engineering, and marketing teams."
+  },
+  "step2": {
+    "story": "The community garden had been neglected for years, but this spring everything changed. Through a collaborative effort, neighbors cleared the weeds, planted fresh seeds, and painted the old fence together. By the end of the weekend, the space felt alive again.",
+    "topicTag": "community",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "When the school announced it needed a new library, no one expected it to come together so quickly. Teachers, parents, and local businesses joined in a collaborative effort, each contributing what they could — time, money, or materials. Students helped paint the walls and arrange the shelves, feeling proud to be part of something bigger than themselves. A local author donated dozens of books, and a carpenter built reading nooks free of charge. On opening day, the hallways buzzed with excitement as children ran inside to explore. What had once seemed impossible had become real because everyone chose to work together.",
+    "topicTag": "education",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "여러 사람이 함께 힘을 합쳐 이루는 공동의 노력.",
+    "realUsageKo": "개인이 아닌 여러 사람이나 집단이 공동의 목표를 위해 협력하여 무언가를 이루었을 때 사용하며, 직장·학교·지역사회 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'collaborative'는 라틴어 'collaborare(함께 일하다)'에서 유래했으며, 'effort'는 프랑스어 'effort(힘을 쏟다)'에서 비롯되었다.",
+    "nuanceKo": "단순한 협동(cooperation)보다 더 적극적이고 목적 지향적인 공동 작업을 강조하는 뉘앙스를 가지며, 주로 긍정적·성취적 맥락에서 사용된다.",
+    "shortExampleEn": "Solving climate change will require a collaborative effort from governments, businesses, and individuals alike.",
+    "shortExampleKo": "기후 변화 해결은 정부, 기업, 개인 모두의 협력적인 노력을 필요로 할 것이다."
+  }
+}

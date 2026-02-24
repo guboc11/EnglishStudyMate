@@ -1,0 +1,31 @@
+{
+  "id": "lifelong-learning_42e11d98",
+  "expression": "lifelong learning",
+  "selectionMeta": {
+    "selectedPhrase": "lifelong learning",
+    "selectedSenseLabelKo": "평생 학습",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She believes that lifelong learning is the key to staying relevant in a rapidly changing world."
+  },
+  "step2": {
+    "story": "After retiring from his engineering career, Marcus enrolled in an online philosophy course. He had always believed in lifelong learning, and retirement felt like the perfect opportunity to explore new ideas. Each evening, he sat at his desk with a notebook, filling pages with questions he had never had time to ask before.",
+    "topicTag": "personal growth",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "When the company announced that all employees would need to learn new data analysis tools, most of Priya's colleagues groaned. But Priya saw it differently — she had embraced lifelong learning since her early twenties, viewing every new challenge as a chance to expand her mind. She signed up for extra tutorials and spent her lunch breaks practicing with the software. Within a month, she was helping her teammates troubleshoot problems she herself had struggled with just weeks before. Her manager noticed, and soon asked her to lead the training sessions for the entire department. What had started as an inconvenience had become one of the most rewarding experiences of her career.",
+    "topicTag": "workplace growth",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "평생 동안 지속되는 학습 활동을 의미한다.",
+    "realUsageKo": "공식 교육이 끝난 후에도 지속적으로 새로운 지식과 기술을 습득하려는 태도나 행위를 설명할 때 사용한다. 자기계발, 직업 발전, 개인적 호기심 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'lifelong'은 'life(삶)'와 'long(긴)'의 합성어로 '평생에 걸친'을 뜻하며, 'learning'은 고대 영어 'leornian(배우다)'에서 유래했다. 두 단어가 결합해 '삶 전체에 걸쳐 계속 배우는 것'이라는 개념을 형성한다.",
+    "nuanceKo": "단순히 공부를 오래 한다는 뜻이 아니라 능동적이고 자발적인 성장 의지를 강조하는 긍정적인 뉘앙스를 지닌다. 교육·자기계발·커리어 관련 담론에서 자주 등장하며, 다소 격식 있는 표현이다."
+  ,
+    "shortExampleEn": "The university promotes lifelong learning by offering courses for adults of all ages.",
+    "shortExampleKo": "그 대학교는 모든 연령대의 성인을 위한 강좌를 제공함으로써 평생 학습을 장려한다."
+  }
+}

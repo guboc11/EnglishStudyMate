@@ -1,0 +1,30 @@
+{
+  "id": "in-the-driver's-seat_22287cf6",
+  "expression": "in the driver's seat",
+  "selectionMeta": {
+    "selectedPhrase": "in the driver's seat",
+    "selectedSenseLabelKo": "주도권을 잡고 있는",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of taking orders from others, Maya finally felt in the driver's seat when she launched her own company."
+  },
+  "step2": {
+    "story": "The merger negotiations had stalled for weeks, but when the rival firm's funding dried up, our team suddenly found itself in the driver's seat. We set the terms, chose the timeline, and the deal closed on our conditions.",
+    "topicTag": "business negotiation",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "For the first three months of the project, Daniel had been sidelined—attending meetings but rarely contributing decisions. Then the project lead resigned unexpectedly, and Daniel stepped up to fill the role. Overnight, he was in the driver's seat, responsible for budgets, timelines, and a team of twelve. At first the weight felt overwhelming, but he soon realized he had been preparing for exactly this moment without knowing it. He restructured the schedule, delegated wisely, and delivered the project two weeks ahead of deadline. The experience changed him; he no longer waited to be handed authority—he knew how to earn it.",
+    "topicTag": "career growth",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "운전석에 앉아 있는 상태, 즉 차량을 직접 조종하는 위치.",
+    "realUsageKo": "어떤 상황이나 협상, 프로젝트에서 주도권을 쥐고 결정을 내리는 위치에 있음을 뜻한다. 타인의 지시를 따르는 것이 아니라 스스로 방향을 결정할 수 있을 때 사용한다.",
+    "etymologyKo": "자동차의 운전석(driver's seat)에서 유래한 비유적 표현으로, 차를 조종하는 사람이 목적지와 속도를 결정한다는 데서 '통제권·주도권'의 의미가 파생되었다.",
+    "nuanceKo": "단순한 권한 보유를 넘어 실질적인 통제력과 자율성을 강조하는 뉘앙스가 있다. 경쟁 상황이나 협상에서 유리한 위치를 차지했을 때 특히 자주 쓰인다.",
+    "shortExampleEn": "With the competitor out of the race, we are now in the driver's seat.",
+    "shortExampleKo": "경쟁사가 레이스에서 빠지면서 이제 우리가 주도권을 쥐게 되었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "urgent-matter_8cd3f166",
+  "expression": "urgent matter",
+  "selectionMeta": {
+    "selectedPhrase": "urgent matter",
+    "selectedSenseLabelKo": "긴급한 사안",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager interrupted the meeting to address an urgent matter that had just come to his attention."
+  },
+  "step2": {
+    "story": "Sarah received a call from HR just as she was wrapping up for the day. They said there was an urgent matter requiring her immediate attention before she left the building. She grabbed her notebook and rushed to the conference room, heart pounding.",
+    "topicTag": "workplace",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "David was halfway through his vacation when his phone buzzed with a message from his supervisor: 'There's an urgent matter at the office — we need you on a call within the hour.' He stepped away from the beach, found a quiet spot with decent signal, and dialed in. The situation turned out to be a contract dispute that only he had the context to resolve. After two hours of intense back-and-forth, the issue was settled and the client was satisfied. He returned to his family exhausted but relieved, knowing the urgent matter had been handled before it could spiral out of control.",
+    "topicTag": "work-life balance",
+    "moodTag": "stressful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'urgent'(긴급한)과 'matter'(사안, 문제)가 결합된 표현으로, 즉각적인 주의나 조치가 필요한 사안을 뜻한다.",
+    "realUsageKo": "직장, 법률, 행정 등 공식적인 맥락에서 즉시 처리해야 할 문제나 이슈를 가리킬 때 자주 사용된다. '급한 일이 생겼다'는 뜻으로 일상 대화에서도 널리 쓰인다.",
+    "etymologyKo": "'urgent'는 라틴어 'urgere'(밀어붙이다, 압박하다)에서 유래했으며, 'matter'는 라틴어 'materia'(재료, 주제)에서 왔다. 두 단어가 결합해 '즉시 처리해야 할 사안'이라는 의미로 굳어졌다.",
+    "nuanceKo": "단순한 '중요한 일'보다 시간적 긴박함이 강조된 표현이다. 공식적이고 격식체 느낌이 있어 이메일 제목이나 업무 보고서에서 자주 보인다.",
+    "shortExampleEn": "Please call me back as soon as possible — there's an urgent matter I need to discuss with you.",
+    "shortExampleKo": "가능한 한 빨리 전화해 주세요 — 논의해야 할 긴급한 사안이 있습니다."
+  }
+}

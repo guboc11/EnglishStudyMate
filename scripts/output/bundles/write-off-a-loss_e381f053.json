@@ -1,0 +1,30 @@
+{
+  "id": "write-off-a-loss_e381f053",
+  "expression": "write off a loss",
+  "selectionMeta": {
+    "selectedPhrase": "write off a loss",
+    "selectedSenseLabelKo": "손실을 포기하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After the investment failed to recover, the CFO decided to write off a loss of two million dollars before the end of the fiscal year."
+  },
+  "step2": {
+    "story": "The startup had poured resources into a new product line, but sales never materialized. After months of hoping for a turnaround, the founders finally agreed to write off a loss and redirect their focus. It was a painful decision, but it freed them to pursue a more promising direction.",
+    "topicTag": "business setback",
+    "moodTag": "resigned"
+  },
+  "step3": {
+    "story": "Marcus stared at the spreadsheet, the red numbers refusing to change no matter how many times he refreshed the screen. The overseas venture had seemed so promising eighteen months ago, but the market had shifted and left the company exposed. His board of directors had been patient, but patience has limits. In the quarterly meeting, he stood up and calmly proposed to write off a loss of three million dollars, absorbing the hit now rather than dragging it into next year. The room fell silent for a moment, and then the chairman nodded slowly in agreement. Walking out into the cold morning air, Marcus felt the strange relief that comes only after you stop fighting the inevitable.",
+    "topicTag": "financial decision",
+    "moodTag": "somber"
+  },
+  "meaning": {
+    "literalMeaningKo": "손실을 장부에서 지워버리다, 즉 회수 불가능한 손실을 공식적으로 인정하고 포기하다.",
+    "realUsageKo": "사업이나 투자에서 회수할 수 없는 금액을 회계 장부에서 제거하거나 손실로 공식 처리할 때 사용한다. 더 넓게는 어떤 손해나 실패를 인정하고 그것에 더 이상 미련을 두지 않을 때도 쓰인다.",
+    "etymologyKo": "'write off'는 원래 회계 용어로, 자산 가치를 장부에서 삭제(write)하여 제거(off)한다는 뜻에서 유래했다. 'loss'와 결합해 손실 금액을 공식 말소한다는 의미로 굳어졌다.",
+    "nuanceKo": "단순한 손실 인정을 넘어, 더 이상 회복을 기대하지 않겠다는 결단과 체념의 뉘앙스가 함께 담겨 있다. 비즈니스 맥락에서는 냉정하고 실용적인 판단을 나타내는 어감이 강하다.",
+    "shortExampleEn": "The company chose to write off a loss on the failed acquisition rather than pursue costly litigation.",
+    "shortExampleKo": "회사는 비용이 많이 드는 소송을 진행하는 대신 실패한 인수에서 발생한 손실을 포기하기로 했다."
+  }
+}

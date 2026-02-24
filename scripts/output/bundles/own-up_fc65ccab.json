@@ -1,0 +1,30 @@
+{
+  "id": "own-up_fc65ccab",
+  "expression": "own up",
+  "selectionMeta": {
+    "selectedPhrase": "own up",
+    "selectedSenseLabelKo": "인정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the meeting, Jake finally owned up to missing the deadline instead of blaming the system."
+  },
+  "step2": {
+    "story": "When the client complained about the wrong figures in the report, Sarah could have blamed her colleague. Instead, she owned up to the mistake in front of the entire team. Her honesty surprised everyone, and the manager appreciated her integrity.",
+    "topicTag": "workplace accountability",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "The project had been failing for weeks, and the team kept pointing fingers at each other during every stand-up meeting. Finally, on a quiet Thursday afternoon, Marcus pulled his manager aside and owned up to the fact that he had misconfigured the deployment pipeline from the start. He explained what had gone wrong and laid out a plan to fix it. The manager was initially frustrated, but respected Marcus for coming forward rather than letting the problem fester. By the end of the week, the pipeline was fixed and the team's trust in Marcus had grown stronger than ever.",
+    "topicTag": "professional integrity",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'own'(소유하다)과 'up'(위로, 완전히)이 결합하여 '완전히 자신의 것으로 받아들이다'는 뜻을 형성한다.",
+    "realUsageKo": "실수나 잘못을 솔직하게 인정하고 책임을 질 때 사용한다. 주로 'own up to + 명사/동명사' 형태로 쓰인다.",
+    "etymologyKo": "19세기 영어에서 'own'이 '자백하다, 인정하다'는 동사로 쓰이던 용법에서 유래했으며, 'up'은 완결성이나 솔직함을 강조하는 부사로 추가되었다.",
+    "nuanceKo": "단순한 인정(admit)보다 더 자발적이고 용기 있는 고백의 뉘앙스를 담고 있으며, 책임 회피 없이 정면으로 마주하는 태도를 내포한다.",
+    "shortExampleEn": "He finally owned up to breaking the window.",
+    "shortExampleKo": "그는 결국 창문을 깬 것을 인정했다."
+  }
+}

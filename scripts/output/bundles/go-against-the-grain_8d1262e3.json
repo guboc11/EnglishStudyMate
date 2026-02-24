@@ -1,0 +1,30 @@
+{
+  "id": "go-against-the-grain_8d1262e3",
+  "expression": "go against the grain",
+  "selectionMeta": {
+    "selectedPhrase": "go against the grain",
+    "selectedSenseLabelKo": "흐름을 거스르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Choosing to quit a stable corporate job and become an artist truly goes against the grain, but she has never been happier."
+  },
+  "step2": {
+    "story": "Everyone in Marcus's family expected him to become a doctor, but he decided to go against the grain and pursue a career in music instead. His choice was met with skepticism, yet his passion and persistence eventually earned him the respect he deserved.",
+    "topicTag": "career choice",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "In a company where playing it safe was the unwritten rule, Priya proposed a bold strategy that went against the grain. Her colleagues exchanged nervous glances, and her manager warned her not to rock the boat. But Priya had done her research and believed deeply in the unconventional approach. She presented her data calmly and stood her ground when questioned. Three months later, the results far exceeded expectations, and even her harshest critics had to acknowledge her courage. Going against the grain had been uncomfortable, but it turned out to be exactly what the team needed.",
+    "topicTag": "workplace innovation",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "나무의 결(grain)을 거슬러 자른다는 뜻으로, 결 방향에 반하면 저항이 크고 거친 결과가 생기는 것을 표현합니다.",
+    "realUsageKo": "사회적 통념, 관습, 또는 다수의 기대에 반하는 행동을 할 때 사용합니다. 주류 흐름을 따르지 않고 자신만의 독립적인 길을 걸을 때 자주 씁니다.",
+    "etymologyKo": "목공에서 유래한 표현으로, 나무 결을 거슬러 자르면 저항이 생기고 표면이 거칠어지는 현상에서 비롯되었습니다. 17세기 영어 문헌에서부터 비유적 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "단순한 반대가 아니라 불편함이나 저항을 감수하면서도 자신의 신념대로 행동한다는 의지적인 뉘앙스를 담고 있습니다. 긍정적(용기 있는 선택)으로도, 부정적(고집스러운 반항)으로도 쓰일 수 있습니다.",
+    "shortExampleEn": "Living without a smartphone goes against the grain in today's connected world.",
+    "shortExampleKo": "오늘날 초연결 사회에서 스마트폰 없이 사는 것은 흐름을 거스르는 일이다."
+  }
+}

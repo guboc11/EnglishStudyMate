@@ -1,0 +1,30 @@
+{
+  "id": "put-on-the-back-burner_71747c27",
+  "expression": "put on the back burner",
+  "selectionMeta": {
+    "selectedPhrase": "put on the back burner",
+    "selectedSenseLabelKo": "뒤로 미루다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to put her plans to travel abroad on the back burner until she had saved enough money."
+  },
+  "step2": {
+    "story": "David had been passionate about writing a novel for years, but constant work deadlines forced him to put the project on the back burner. Every evening he would glance at his half-finished manuscript and promise himself that someday he would return to it.",
+    "topicTag": "personal goals",
+    "moodTag": "wistful"
+  },
+  "step3": {
+    "story": "After the company announced an unexpected product launch, the entire marketing team had to put their ongoing campaigns on the back burner. Mia, who had spent weeks crafting a brand awareness strategy, reluctantly archived her work and shifted focus to the new priority. She understood the business reality, but it stung to see months of careful planning suddenly paused indefinitely. As the launch chaos finally died down, she reopened her archived files and was relieved to find her ideas were still fresh and relevant. She vowed not to let important long-term projects slip away again just because urgent demands kept pulling her attention elsewhere.",
+    "topicTag": "workplace priorities",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 요리용 가스레인지의 뒤쪽 버너 위에 올려놓다.",
+    "realUsageKo": "어떤 계획이나 일을 당장 처리하지 않고 나중으로 미룰 때 사용한다. 주로 더 급한 일이 생겨서 덜 중요한 것을 잠시 보류할 때 쓰인다.",
+    "etymologyKo": "요리할 때 급하게 조리해야 하는 음식은 앞쪽 버너에 두고, 천천히 끓여도 되는 음식은 뒤쪽 버너에 두는 주방 관행에서 유래했다.",
+    "nuanceKo": "완전히 포기하는 것이 아니라 '일시적으로 미룬다'는 뉘앙스가 강하다. 언젠가는 다시 다룰 의향이 있음을 내포하며, 중립적이거나 약간 아쉬운 어조로 사용된다.",
+    "shortExampleEn": "We had to put the office renovation on the back burner due to budget cuts.",
+    "shortExampleKo": "예산 삭감으로 인해 사무실 리모델링 계획을 뒤로 미뤄야 했다."
+  }
+}

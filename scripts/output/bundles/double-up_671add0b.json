@@ -1,0 +1,30 @@
+{
+  "id": "double-up_671add0b",
+  "expression": "double up",
+  "selectionMeta": {
+    "selectedPhrase": "double up",
+    "selectedSenseLabelKo": "두 배로 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After seeing the success of their first store, the owners decided to double up their investment and open three more locations."
+  },
+  "step2": {
+    "story": "The startup had been growing steadily, but the CEO wanted to accelerate. She announced they would double up their marketing budget for the next quarter. The team rallied behind the decision, eager to see what the extra push would achieve.",
+    "topicTag": "business growth",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "Marcus had been training for the marathon for six months, but two weeks before race day, he realized he was falling behind his target pace. His coach pulled him aside and told him it was time to double up on his weekly mileage. At first, Marcus doubted he could handle the increased load, but he committed to the plan. Every morning, he laced up his shoes before dawn and hit the trail, refusing to let fatigue win. By the time race day arrived, the extra work had paid off — he crossed the finish line three minutes ahead of his personal best.",
+    "topicTag": "sports training",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 두 배로 늘리거나 배가시키다.",
+    "realUsageKo": "노력, 투자, 속도 등을 두 배로 증가시킨다는 의미로 사용되며, 특히 목표 달성을 위해 자원이나 헌신을 대폭 늘릴 때 쓰인다.",
+    "etymologyKo": "'double'(두 배)과 'up'(증가·강화)이 결합된 구동사로, 양이나 강도를 두 배로 올린다는 개념에서 비롯되었다.",
+    "nuanceKo": "단순히 양을 늘리는 것을 넘어, 의지와 결단을 담아 적극적으로 배가한다는 뉘앙스가 강하다. 비즈니스·스포츠 등 목표 지향적 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "We need to double up our efforts if we want to meet the deadline.",
+    "shortExampleKo": "마감일을 맞추려면 우리는 노력을 두 배로 늘려야 해."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "light-bulb-moment_4495c9f9",
+  "expression": "light bulb moment",
+  "selectionMeta": {
+    "selectedPhrase": "light bulb moment",
+    "selectedSenseLabelKo": "번뜩이는 순간",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After struggling with the math problem for an hour, she finally had a light bulb moment and solved it in seconds."
+  },
+  "step2": {
+    "story": "Marcus had been stuck on his novel's plot for weeks, unable to figure out how to connect the two storylines. Then, while washing dishes one evening, he had a light bulb moment — the two protagonists were actually long-lost siblings. He rushed to his desk and started writing furiously.",
+    "topicTag": "creative breakthrough",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "Dr. Yoon had been staring at the same data for three days, convinced there was a pattern hiding somewhere in the numbers. Her team had nearly given up hope of finding a solution before the grant deadline. Then, during a casual lunch conversation about river currents, she had a light bulb moment — the data wasn't linear, it was cyclical, like water flowing in loops. She sprinted back to the lab, reconfigured the model, and watched as everything clicked into place. The room erupted in cheers as the screen displayed exactly the results they had been searching for.",
+    "topicTag": "scientific discovery",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "전구가 켜지는 순간, 즉 갑자기 좋은 생각이나 해결책이 떠오르는 순간을 뜻합니다.",
+    "realUsageKo": "오랫동안 고민하던 문제가 갑자기 해결되거나, 새로운 아이디어가 번뜩이듯 떠오를 때 사용합니다. 보통 '아, 그렇구나!'라는 깨달음의 순간을 표현합니다.",
+    "etymologyKo": "만화나 애니메이션에서 등장인물이 아이디어를 떠올릴 때 머리 위에 전구(light bulb)가 켜지는 이미지에서 유래했습니다. 20세기 중반부터 영어 관용어로 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "단순한 아이디어보다 오랜 고민 끝에 갑자기 찾아오는 통찰이나 깨달음에 주로 사용됩니다. 긍정적이고 흥분된 어조로 쓰이는 경우가 많습니다.",
+    "shortExampleEn": "Reading that article gave me a real light bulb moment about why my startup kept failing.",
+    "shortExampleKo": "그 기사를 읽고 내 스타트업이 왜 계속 실패했는지 번뜩이는 깨달음을 얻었어."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "turn-your-life-around_9b496ed3",
+  "expression": "turn your life around",
+  "selectionMeta": {
+    "selectedPhrase": "turn your life around",
+    "selectedSenseLabelKo": "삶을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hitting rock bottom, Marcus decided it was time to turn his life around and start making healthier choices."
+  },
+  "step2": {
+    "story": "After years of struggling with bad habits, Lena finally decided to turn her life around. She signed up for a fitness class, found a therapist, and began surrounding herself with supportive friends. Within months, she barely recognized the confident, focused person she had become.",
+    "topicTag": "personal transformation",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had spent the better part of his thirties drifting from one dead-end job to another, telling himself things would improve on their own. One evening, after missing his daughter's school play for the third time, something inside him finally shifted. He realized that if he wanted to turn his life around, he had to be the one to make it happen—no one else would do it for him. He enrolled in night classes, cut back on the habits that were draining his energy, and started showing up for the people who mattered most. The process was slow and sometimes painful, but each small step forward gave him the courage to keep going. A year later, standing at his daughter's graduation with a new job offer in his pocket, Daniel understood that turning your life around isn't a single dramatic moment—it's a thousand quiet decisions made every day.",
+    "topicTag": "personal transformation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 삶을 반대 방향으로 돌린다는 의미로, 삶의 방향을 완전히 바꾼다는 뜻입니다.",
+    "realUsageKo": "주로 부정적인 상황이나 나쁜 습관에서 벗어나 긍정적인 방향으로 삶을 근본적으로 변화시킬 때 사용합니다. 개인적인 변화나 회복 이야기에서 자주 등장합니다.",
+    "etymologyKo": "'Turn around'는 '방향을 돌리다'라는 의미에서 유래했으며, 여기에 'your life'가 결합되어 삶 전체의 방향 전환을 나타냅니다. 20세기 중반부터 자기계발 맥락에서 널리 쓰이기 시작했습니다.",
+    "nuanceKo": "단순한 작은 변화가 아니라 삶 전반에 걸친 근본적이고 지속적인 변화를 암시합니다. 과거의 실패나 어려움을 극복하고 새출발하는 의지와 노력을 강조하는 긍정적이고 고무적인 뉘앙스를 지닙니다.",
+    "shortExampleEn": "It took losing everything to finally motivate him to turn his life around.",
+    "shortExampleKo": "모든 것을 잃고 나서야 그는 마침내 삶을 바꾸려는 동기를 얻었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "get-back-on-track_0d9ad29c",
+  "expression": "get back on track",
+  "selectionMeta": {
+    "selectedPhrase": "get back on track",
+    "selectedSenseLabelKo": "궤도에 다시 오르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After missing several deadlines, the team held a meeting to get back on track before the end of the quarter."
+  },
+  "step2": {
+    "story": "Maria had been struggling with her fitness routine ever since she hurt her knee in January. After two months of rest and physical therapy, she was finally ready to get back on track. She laced up her sneakers and headed out for her first morning run, feeling hopeful.",
+    "topicTag": "personal recovery",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "The product launch had been a disaster. The website crashed on day one, customer complaints flooded in, and the team morale hit rock bottom. The CEO called an all-hands meeting and laid out a clear, honest assessment of what had gone wrong. 'We need to get back on track,' she said, 'and that starts with listening to our users.' Over the next three weeks, the team worked around the clock, fixing bugs and improving the onboarding flow. By the end of the month, user satisfaction scores had climbed back to where they were before the launch, and the team finally felt like themselves again.",
+    "topicTag": "startup crisis",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "원래의 궤도(track) 위로 다시 돌아간다는 뜻으로, 벗어났던 방향이나 계획으로 복귀한다는 의미다.",
+    "realUsageKo": "일, 학습, 건강, 프로젝트 등 어떤 목표나 계획에서 이탈했다가 다시 정상 궤도로 돌아오는 상황에서 폭넓게 사용된다. '다시 제자리를 찾다', '정상화하다'의 뉘앙스로 쓰인다.",
+    "etymologyKo": "'track'은 기차나 달리기 레인처럼 정해진 경로를 뜻하며, 19세기 철도 문화에서 유래한 비유적 표현이다. 'on track'이 '순조롭게 진행 중'을 의미하고, 'get back'이 복귀를 나타내 합쳐진 숙어다.",
+    "nuanceKo": "단순한 재개보다 '한번 흔들렸다가 의지를 갖고 다시 잡아가는' 회복의 뉘앙스가 강하다. 자기 격려나 팀 독려 상황에서 특히 자연스럽게 쓰인다.",
+    "shortExampleEn": "Let's get back on track — we still have three agenda items to cover.",
+    "shortExampleKo": "다시 본론으로 돌아가죠 — 아직 다뤄야 할 안건이 세 가지 남았어요."
+  }
+}

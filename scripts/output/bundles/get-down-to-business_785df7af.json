@@ -1,0 +1,30 @@
+{
+  "id": "get-down-to-business_785df7af",
+  "expression": "get down to business",
+  "selectionMeta": {
+    "selectedPhrase": "get down to business",
+    "selectedSenseLabelKo": "본론으로 들어가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the brief introductions, the CEO said, 'Alright, let's get down to business,' and pulled up the quarterly report."
+  },
+  "step2": {
+    "story": "The team had spent ten minutes catching up over coffee when their manager set her mug down and said it was time to get down to business. She opened her laptop and projected the deadline chart onto the wall. Everyone straightened in their chairs.",
+    "topicTag": "workplace meeting",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Jake had flown in from Seattle specifically for this negotiation, and he wasn't interested in small talk. After the usual pleasantries, he leaned forward and said, 'I appreciate the hospitality, but we really need to get down to business.' The room shifted — smiles faded and notebooks came out. Both sides knew the contract terms were still far apart, and every hour in that conference room cost money. By the time they broke for lunch, they had hammered out the core pricing structure and were cautiously optimistic. Getting down to business early had saved them a full day of dancing around the issue.",
+    "topicTag": "business negotiation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '비즈니스(업무) 쪽으로 내려가다'는 뜻이다.",
+    "realUsageKo": "실제로는 잡담이나 서론을 끝내고 본격적인 주제나 업무로 넘어갈 때 사용한다. 회의, 협상, 대화 등 어떤 상황에서도 '이제 본론으로 들어가자'는 신호로 쓰인다.",
+    "etymologyKo": "19세기 미국 영어에서 유래했으며, 'business'가 '중요한 일·핵심 사안'을 뜻하고 'get down to'가 '~에 집중하다, ~에 착수하다'는 의미로 결합되었다.",
+    "nuanceKo": "딱딱하지 않으면서도 분위기를 전환하는 어감이 있어 격식체·비격식체 모두에서 자연스럽게 쓰인다. 보통 말하는 사람이 주도권을 쥐고 흐름을 바꿀 때 사용하므로 약간의 결단력이나 리더십이 느껴진다.",
+    "shortExampleEn": "We've only got an hour, so let's get down to business.",
+    "shortExampleKo": "시간이 한 시간밖에 없으니 바로 본론으로 들어갑시다."
+  }
+}

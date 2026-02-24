@@ -1,0 +1,30 @@
+{
+  "id": "turn-off-the-lights_738d7d7d",
+  "expression": "turn off the lights",
+  "selectionMeta": {
+    "selectedPhrase": "turn off the lights",
+    "selectedSenseLabelKo": "불을 끄다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Before leaving the house, she always makes sure to turn off the lights in every room."
+  },
+  "step2": {
+    "story": "After a long day, Jake finally settled into bed. He reached over to turn off the lights and let the darkness calm his restless mind. Within minutes, he drifted off to sleep.",
+    "topicTag": "bedtime routine",
+    "moodTag": "peaceful"
+  },
+  "step3": {
+    "story": "The last guest had gone home, and the party was finally over. Emma walked through the quiet living room, picking up empty cups and straightening cushions. She paused at the doorway and turned to look at the room one last time before reaching for the switch to turn off the lights. The house fell into a comfortable darkness, and she felt a wave of satisfaction wash over her. She climbed the stairs slowly, ready for the stillness that only comes at the end of a full day.",
+    "topicTag": "end of the day",
+    "moodTag": "content"
+  },
+  "meaning": {
+    "literalMeaningKo": "조명을 꺼서 빛이 나오지 않게 하다.",
+    "realUsageKo": "방이나 공간의 전등을 끌 때 일상적으로 사용하는 표현으로, 취침 전이나 외출 시 자주 쓰인다.",
+    "etymologyKo": "'turn off'는 스위치나 장치를 돌려(turn) 작동을 중단시킨다(off)는 의미에서 비롯되었으며, 기계·전자 기기를 끄는 다양한 상황에 쓰인다.",
+    "nuanceKo": "매우 일상적이고 중립적인 표현으로, 격식·비격식 상황 모두에서 자연스럽게 사용할 수 있다.",
+    "shortExampleEn": "Could you turn off the lights when you leave the room?",
+    "shortExampleKo": "방에서 나갈 때 불 좀 꺼줄 수 있어?"
+  }
+}

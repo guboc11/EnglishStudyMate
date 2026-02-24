@@ -1,0 +1,30 @@
+{
+  "id": "raw-emotion_b6ffe78b",
+  "expression": "raw emotion",
+  "selectionMeta": {
+    "selectedPhrase": "raw emotion",
+    "selectedSenseLabelKo": "날것의 감정",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her speech was filled with raw emotion as she described losing her home in the flood."
+  },
+  "step2": {
+    "story": "Standing at the podium, Marcus hadn't expected to feel so much. The raw emotion that poured out of him surprised even himself, and tears streamed down his face as he spoke. The audience sat in silence, moved by his unfiltered honesty.",
+    "topicTag": "public speaking",
+    "moodTag": "vulnerable"
+  },
+  "step3": {
+    "story": "After months of holding everything together, Elena finally broke down during the last therapy session of the year. Raw emotion flooded the room — grief, relief, and something she couldn't quite name all at once. Her therapist didn't say a word, just handed her a tissue and waited. Elena had always prided herself on staying composed, but in that moment she realized how exhausting that mask had been. Letting the raw emotion surface felt less like falling apart and more like finally breathing. She left the office lighter than she had felt in years.",
+    "topicTag": "emotional healing",
+    "moodTag": "cathartic"
+  },
+  "meaning": {
+    "literalMeaningKo": "가공되지 않은, 있는 그대로의 감정.",
+    "realUsageKo": "억누르거나 꾸미지 않은 진솔하고 강렬한 감정 표현을 묘사할 때 사용된다. 주로 눈물, 분노, 기쁨 등이 여과 없이 드러나는 순간에 쓰인다.",
+    "etymologyKo": "'raw'는 고대 영어 'hrēaw'에서 유래하여 '익히지 않은', '자연 그대로의' 뜻을 가지며, 감정에 결합되어 '다듬어지지 않은 본래 감정'을 의미하게 되었다.",
+    "nuanceKo": "단순히 강한 감정이 아니라 사회적 필터 없이 드러나는 솔직한 감정을 강조한다. 긍정·부정 어느 맥락에도 쓰이며, 진정성과 취약함이 동시에 느껴지는 뉘앙스를 담고 있다.",
+    "shortExampleEn": "The documentary captured the raw emotion of survivors recounting that day.",
+    "shortExampleKo": "그 다큐멘터리는 생존자들이 그날을 회상하는 날것의 감정을 담아냈다."
+  }
+}

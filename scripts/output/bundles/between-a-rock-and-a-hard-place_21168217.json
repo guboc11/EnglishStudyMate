@@ -1,0 +1,30 @@
+{
+  "id": "between-a-rock-and-a-hard-place_21168217",
+  "expression": "between a rock and a hard place",
+  "selectionMeta": {
+    "selectedPhrase": "between a rock and a hard place",
+    "selectedSenseLabelKo": "진퇴양난",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was between a rock and a hard place — she could either accept the unfair terms or lose the contract entirely."
+  },
+  "step2": {
+    "story": "Marcus had to choose between telling the truth and protecting his friend's secret. Either option would cause serious damage, leaving him truly between a rock and a hard place. He stayed up all night, unable to find a way out.",
+    "topicTag": "moral dilemma",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "The small business owner stared at the two offers on her desk. The bank was demanding full loan repayment by Friday, yet her biggest client had just asked for a 30-day delay on their invoice. She was completely between a rock and a hard place — refusing the client risked losing the account, but agreeing meant she couldn't pay the bank on time. She called her accountant, hoping for some creative solution, but the numbers simply didn't add up. After hours of agonizing deliberation, she finally decided to call the bank and negotiate, knowing it was the lesser of two very bad options.",
+    "topicTag": "financial pressure",
+    "moodTag": "desperate"
+  },
+  "meaning": {
+    "literalMeaningKo": "바위와 딱딱한 곳 사이에 끼어 있다는 뜻으로, 양쪽 모두 탈출구가 없는 상황을 묘사한다.",
+    "realUsageKo": "어떤 선택을 해도 나쁜 결과가 따르는 진퇴양난의 상황, 즉 딜레마에 처했을 때 사용한다.",
+    "etymologyKo": "고대 그리스 신화의 스킬라(Scylla)와 카리브디스(Charybdis) 사이를 항해해야 했던 오디세우스의 이야기에서 유래한 개념으로, 현대 영어에서는 19세기부터 'between a rock and a hard place'라는 표현으로 정착되었다.",
+    "nuanceKo": "단순한 어려움이 아니라 어느 쪽을 선택해도 손해가 불가피한 상황을 강조할 때 쓰이며, 절박함과 무력감의 뉘앙스가 담겨 있다.",
+    "shortExampleEn": "With rent due and no paycheck coming, he was between a rock and a hard place.",
+    "shortExampleKo": "집세는 내야 하는데 월급은 없으니, 그는 완전히 진퇴양난에 빠졌다."
+  }
+}

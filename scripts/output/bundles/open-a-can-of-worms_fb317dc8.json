@@ -1,0 +1,30 @@
+{
+  "id": "open-a-can-of-worms_fb317dc8",
+  "expression": "open a can of worms",
+  "selectionMeta": {
+    "selectedPhrase": "open a can of worms",
+    "selectedSenseLabelKo": "복잡한 문제를 드러내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Bringing up the old contract during the meeting opened a can of worms that no one was prepared to deal with."
+  },
+  "step2": {
+    "story": "Mark thought asking his team about the new project timeline would be a quick check-in, but he opened a can of worms instead. Every person raised a different concern — unclear roles, missing resources, conflicting deadlines — and what was meant to be a fifteen-minute chat stretched into an exhausting two-hour debate.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sarah had worked at the nonprofit for three years without ever questioning the budget process. One afternoon, she casually asked a senior director why certain funds were allocated to one department over another. She had no idea she was opening a can of worms. Within days, emails were flying between directors, old grievances resurfaced, and an emergency board meeting was called. What had started as a simple question spiraled into a full organizational audit. Sarah wished she had stayed quiet, but deep down she knew these problems had needed to surface for a long time.",
+    "topicTag": "organizational conflict",
+    "moodTag": "uneasy"
+  },
+  "meaning": {
+    "literalMeaningKo": "벌레가 든 캔을 열다.",
+    "realUsageKo": "어떤 행동이나 질문이 의도치 않게 복잡하고 해결하기 어려운 문제들을 드러내거나 불러일으킬 때 사용한다.",
+    "etymologyKo": "낚시 미끼용 벌레를 담은 캔을 열면 벌레들이 사방으로 퍼져 다시 주워 담기 어렵다는 이미지에서 유래한 표현이다.",
+    "nuanceKo": "보통 후회나 경고의 뉘앙스를 담고 있으며, 건드리지 않았으면 더 나았을 복잡한 문제가 터질 때 쓴다.",
+    "shortExampleEn": "Asking about the pay gap opened a can of worms at the company.",
+    "shortExampleKo": "임금 격차에 대해 물어보자 회사에서 복잡한 문제들이 터져 나왔다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "conquer-fear_38bd8d66",
+  "expression": "conquer fear",
+  "selectionMeta": {
+    "selectedPhrase": "conquer fear",
+    "selectedSenseLabelKo": "두려움을 정복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She knew the only way to conquer fear was to face it head-on, so she stepped onto the stage and began to speak."
+  },
+  "step2": {
+    "story": "Mark had always been terrified of heights, but he signed up for a climbing course to conquer fear once and for all. With each grip and foothold, his confidence grew. By the time he reached the summit, the fear that had haunted him for years had finally lost its grip.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For as long as she could remember, Sofia had been afraid of the ocean. The waves seemed to whisper of things she couldn't control. One summer, she decided she could no longer let this hold her back, and she enrolled in swimming lessons with the sole intention to conquer fear. The first few sessions were a struggle—her heart raced every time the water rose above her waist. But her instructor, patient and encouraging, reminded her that courage wasn't the absence of fear but the choice to move forward anyway. Week by week, Sofia pushed herself further until the day she swam out past the breakers and floated on her back, looking up at a cloudless sky, finally free.",
+    "topicTag": "overcoming phobia",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "두려움을 정복하다, 즉 두려움을 이겨내거나 극복하다는 의미입니다.",
+    "realUsageKo": "특정 공포나 불안을 직접 마주하거나 꾸준한 노력을 통해 극복하는 상황에서 사용됩니다. 주로 자기 성장이나 도전 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'conquer'는 라틴어 'conquirere(함께 찾다, 획득하다)'에서 유래했으며, 중세 영어를 거쳐 '정복하다'는 뜻으로 정착했습니다. 'fear'와 결합하여 내면의 적을 이기는 표현으로 발전했습니다.",
+    "nuanceKo": "단순히 두려움을 무시하거나 억누르는 것이 아니라, 적극적으로 맞서서 완전히 극복한다는 강한 의지와 성취의 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "He took deep breaths before his speech, determined to conquer fear and deliver his best performance.",
+    "shortExampleKo": "그는 연설 전에 심호흡을 하며 두려움을 정복하고 최선을 다해 발표하기로 다짐했다."
+  }
+}

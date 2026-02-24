@@ -1,0 +1,30 @@
+{
+  "id": "break-new-ground_c8069b43",
+  "expression": "break new ground",
+  "selectionMeta": {
+    "selectedPhrase": "break new ground",
+    "selectedSenseLabelKo": "새 영역을 개척하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The research team broke new ground by developing a vaccine that targets multiple virus strains simultaneously."
+  },
+  "step2": {
+    "story": "Maya spent years working on a concept her colleagues dismissed as impossible. When her prototype finally worked, she had broken new ground in renewable energy storage. The industry would never be the same.",
+    "topicTag": "innovation",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Dr. Chen stood before the packed auditorium, her hands trembling slightly as she prepared to present her findings. For a decade, she had quietly pursued a theory that most of her peers considered a dead end. Her research into neural regeneration had broken new ground, demonstrating for the first time that certain spinal cord injuries could be partially reversed. The audience fell silent as the data appeared on the screen, the implications slowly sinking in. A colleague in the front row leaned forward, eyes wide, recognizing that the field of medicine had just shifted beneath their feet. Dr. Chen exhaled slowly — years of doubt and perseverance had led to this single, world-changing moment.",
+    "topicTag": "medical research",
+    "moodTag": "awe-inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '새 땅을 갈다'라는 뜻으로, 쟁기로 경작되지 않은 땅을 처음 파는 행위를 가리킨다.",
+    "realUsageKo": "실제로는 아무도 시도하지 않은 분야나 방식을 처음으로 개척하거나 혁신적인 성과를 이룰 때 사용한다. 학문, 기술, 예술 등 다양한 분야에서 쓰인다.",
+    "etymologyKo": "농업에서 유래한 표현으로, 아직 경작된 적 없는 땅(new ground)을 쟁기로 처음 가는(break) 행위에서 비롯되었다. 19세기부터 비유적 의미로 확산되었다.",
+    "nuanceKo": "단순한 발전이 아닌 전례 없는 최초의 시도나 발견을 강조하는 표현이다. 긍정적이고 선구적인 뉘앙스를 강하게 띠며, 공식적·비공식적 상황 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "Her novel broke new ground by blending science fiction with traditional folklore.",
+    "shortExampleKo": "그녀의 소설은 SF와 전통 민담을 결합하여 새로운 영역을 개척했다."
+  }
+}

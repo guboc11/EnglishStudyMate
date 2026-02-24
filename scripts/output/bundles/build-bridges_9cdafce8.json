@@ -1,0 +1,30 @@
+{
+  "id": "build-bridges_9cdafce8",
+  "expression": "build bridges",
+  "selectionMeta": {
+    "selectedPhrase": "build bridges",
+    "selectedSenseLabelKo": "관계를 구축하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of tension between the two teams, the new manager worked hard to build bridges and restore a sense of trust."
+  },
+  "step2": {
+    "story": "Mia knew the argument with her coworker had left things awkward, so she decided to build bridges by inviting him to lunch. Over sandwiches, they laughed about the misunderstanding and found they actually had a lot in common. By the end of the week, they were collaborating more closely than ever.",
+    "topicTag": "workplace relationships",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had just transferred to a new department and could feel the cool distance the veteran employees kept from newcomers. Rather than waiting for them to come to him, he made it his mission to build bridges one conversation at a time. He started by asking questions about ongoing projects, genuinely listening instead of just trying to impress. Slowly, the ice began to thaw — a shared coffee here, a late-night debugging session there. Within a month, he was no longer the outsider but a trusted part of the team. Looking back, he realized that building bridges had always been less about grand gestures and more about consistent, small acts of care.",
+    "topicTag": "new beginnings",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적으로 다리를 건설한다는 뜻이지만, 비유적으로는 사람과 사람 사이의 연결을 만든다는 의미다.",
+    "realUsageKo": "갈등이 있거나 소원해진 관계를 회복하거나, 새로운 신뢰 관계를 형성하기 위해 적극적으로 노력하는 상황에서 사용한다.",
+    "etymologyKo": "'다리(bridge)'가 두 지점을 잇는 구조물이라는 데서 유래하여, 사람 사이의 단절된 간극을 메우는 행동을 상징하게 되었다.",
+    "nuanceKo": "단순한 친목 도모보다는 갈등·거리·오해가 있는 상황에서 화해나 연대를 위해 먼저 손을 내미는 뉘앙스가 강하다.",
+    "shortExampleEn": "The ambassador's visit was an opportunity to build bridges between the two nations.",
+    "shortExampleKo": "대사의 방문은 두 나라 사이에 관계를 구축할 수 있는 기회였다."
+  }
+}

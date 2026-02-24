@@ -1,0 +1,30 @@
+{
+  "id": "weigh-on_f7fb567a",
+  "expression": "weigh on",
+  "selectionMeta": {
+    "selectedPhrase": "weigh on",
+    "selectedSenseLabelKo": "부담이 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The unresolved argument with her sister continued to weigh on her throughout the day."
+  },
+  "step2": {
+    "story": "Jake hadn't replied to his friend's message for weeks, and the silence began to weigh on him. He knew he owed an apology but kept putting it off. Finally, the guilt became too heavy to ignore, and he picked up his phone.",
+    "topicTag": "friendship guilt",
+    "moodTag": "uneasy"
+  },
+  "step3": {
+    "story": "Ever since the quarterly report came out, the disappointing numbers had been weighing on the team manager. She replayed every decision she had made over the past months, wondering where things had gone wrong. Her colleagues noticed she seemed distracted during meetings, but no one brought it up. One evening, she stayed late to draft a recovery plan, hoping that action would ease the burden. By the time she finally left the office, she felt a small but real sense of relief — at least now she had a direction.",
+    "topicTag": "work pressure",
+    "moodTag": "burdened"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가가 마음이나 생각 위에 무겁게 얹혀 있다는 뜻이다.",
+    "realUsageKo": "걱정거리나 해결하지 못한 문제가 마음속에서 계속 부담으로 남아 있을 때 사용한다. 주로 심리적 압박감이나 죄책감이 지속되는 상황을 표현한다.",
+    "etymologyKo": "'weigh'는 '무게를 달다', '무겁게 누르다'는 의미를 가지며, 'on'과 결합해 어떤 대상 위에 물리적·정신적 무게가 가해지는 이미지를 만들어낸다.",
+    "nuanceKo": "단순한 걱정보다 지속적이고 누적된 심리적 부담감을 강조한다. 가볍게 스쳐 가는 불안이 아니라 일상적인 생각과 행동을 방해할 정도의 무게감을 시사한다.",
+    "shortExampleEn": "The decision to quit his job continued to weigh on him.",
+    "shortExampleKo": "직장을 그만두겠다는 결정이 계속 그에게 부담으로 남아 있었다."
+  }
+}

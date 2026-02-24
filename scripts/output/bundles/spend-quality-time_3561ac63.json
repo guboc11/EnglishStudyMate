@@ -1,0 +1,30 @@
+{
+  "id": "spend-quality-time_3561ac63",
+  "expression": "spend quality time",
+  "selectionMeta": {
+    "selectedPhrase": "spend quality time",
+    "selectedSenseLabelKo": "질 높은 시간을 보내다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "Every Sunday, she makes it a priority to spend quality time with her children by cooking together and going on walks in the park."
+  },
+  "step2": {
+    "story": "After months of working late, David finally decided to put his phone away and spend quality time with his wife. They cooked dinner together, laughed over old photos, and felt closer than they had in years.",
+    "topicTag": "family bonding",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Maya had been so caught up in deadlines that she hadn't really connected with her daughter in weeks. One Saturday morning, she closed her laptop and proposed a day with no screens. They baked banana bread, built a puzzle on the living room floor, and spent quality time just being present with each other. By evening, her daughter fell asleep on her shoulder during a movie, and Maya realized how much she had been missing. Sometimes the best thing you can give someone isn't a gift — it's your full attention.",
+    "topicTag": "parent-child relationship",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간의 양보다 질에 집중하여 의미 있고 충실한 시간을 함께 보내다.",
+    "realUsageKo": "주로 가족이나 친한 사람과 함께하는 시간 중에서 방해 없이 온전히 집중하며 보내는 시간을 가리킬 때 사용한다. 바쁜 일상 속에서 관계를 소중히 여기는 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'quality'는 라틴어 'qualitas(성질, 특성)'에서 유래하여 '질(質)'을 의미하며, 여기서는 단순한 시간의 양이 아닌 의미와 집중도를 강조하기 위해 'time' 앞에 결합된 표현이다.",
+    "nuanceKo": "단순히 같은 공간에 있는 것이 아니라 서로에게 온전히 집중하는 시간이라는 뉘앙스를 담고 있다. 바쁜 현대인의 삶에서 관계를 의도적으로 가꾸려는 태도를 내포한다.",
+    "shortExampleEn": "We try to spend quality time together every weekend, even if it's just a quiet dinner at home.",
+    "shortExampleKo": "우리는 집에서 조용히 저녁을 먹는 것이라도 매 주말 함께 질 높은 시간을 보내려고 노력해요."
+  }
+}

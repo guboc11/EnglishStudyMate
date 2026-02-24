@@ -1,0 +1,30 @@
+{
+  "id": "clear-the-table_e9c87743",
+  "expression": "clear the table",
+  "selectionMeta": {
+    "selectedPhrase": "clear the table",
+    "selectedSenseLabelKo": "식탁을 치우다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After finishing dinner, the children took turns to clear the table while their parents washed the dishes."
+  },
+  "step2": {
+    "story": "The family had just finished a big Sunday lunch together. Mom asked the kids to clear the table before anyone got up for dessert. They quickly stacked the plates and carried them to the kitchen.",
+    "topicTag": "family routine",
+    "moodTag": "cooperative"
+  },
+  "step3": {
+    "story": "Sunday dinners at Grandma's house always ended the same way. As soon as everyone set down their forks, Grandma would clap her hands and say, 'Alright, let's clear the table!' The grandchildren would scramble to stack plates, collect glasses, and fold napkins, each proud to help. Within minutes the long wooden table was spotless, ready for the apple pie Grandma had been hiding on the counter. She always said a clean table made dessert taste sweeter, and nobody ever argued with that.",
+    "topicTag": "family tradition",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "식탁 위에 있는 그릇, 음식, 식기 등을 치워서 테이블을 깨끗하게 비우다.",
+    "realUsageKo": "식사가 끝난 후 그릇과 잔 등을 정리하는 일상적인 행동을 가리킬 때 사용한다. 가정에서 식사 후 역할 분담을 이야기할 때 자주 등장한다.",
+    "etymologyKo": "'clear'는 고대 프랑스어 'cler(밝은, 비어 있는)'에서 유래하여 '장애물을 없애다, 비우다'는 뜻으로 발전했다. 'table'과 결합해 식탁을 깨끗이 비운다는 의미로 굳어졌다.",
+    "nuanceKo": "가사 분담이나 예의 바른 행동을 나타낼 때 쓰이며, 격식체·비격식체 모두에서 자연스럽게 사용된다. 명령형으로도 자주 쓰인다.",
+    "shortExampleEn": "Could you please clear the table while I get the dessert ready?",
+    "shortExampleKo": "내가 후식을 준비하는 동안 식탁 좀 치워줄 수 있어?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "deliver-a-message_be1c2b14",
+  "expression": "deliver a message",
+  "selectionMeta": {
+    "selectedPhrase": "deliver a message",
+    "selectedSenseLabelKo": "메시지를 전달하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She asked her colleague to deliver a message to the manager while she was in the meeting."
+  },
+  "step2": {
+    "story": "Tom couldn't reach his boss by phone, so he asked a coworker to deliver a message for him. The coworker walked straight to the manager's office and passed along the update without delay.",
+    "topicTag": "workplace communication",
+    "moodTag": "practical"
+  },
+  "step3": {
+    "story": "During the crisis drill, the radio system went down and the team had no way to contact headquarters. The team leader pulled aside the fastest runner on the unit and asked him to deliver a message to the command post on foot. The young officer memorized the details carefully and sprinted across the compound. Minutes later, he arrived breathless but successful, having delivered a message that changed the course of the exercise. The commander nodded and said that sometimes the simplest method is the most reliable.",
+    "topicTag": "crisis communication",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 메시지나 정보를 전달하다.",
+    "realUsageKo": "직접 말로 하거나 글로, 또는 중간 전달자를 통해 정보나 내용을 상대방에게 전하는 상황에서 폭넓게 사용된다.",
+    "etymologyKo": "'deliver'는 라틴어 'deliberare(해방하다, 넘겨주다)'에서 유래했으며, 중세 영어를 거쳐 '전달하다'는 뜻으로 정착했다.",
+    "nuanceKo": "단순한 대화보다 다소 공식적이거나 목적이 분명한 전달 행위에 주로 쓰이며, 구어와 문어 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "Can you deliver a message to Mr. Kim that the meeting has been moved to 3 p.m.?",
+    "shortExampleKo": "김 씨에게 회의가 오후 3시로 변경되었다고 메시지를 전달해 줄 수 있나요?"
+  }
+}

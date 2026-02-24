@@ -1,0 +1,30 @@
+{
+  "id": "lose-your-nerve_7551aab2",
+  "expression": "lose your nerve",
+  "selectionMeta": {
+    "selectedPhrase": "lose your nerve",
+    "selectedSenseLabelKo": "겁을 먹다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had trained for months, but standing at the edge of the diving board, she lost her nerve and climbed back down."
+  },
+  "step2": {
+    "story": "Marcus had rehearsed his speech a hundred times, but the moment he stepped onto the stage, he lost his nerve. His hands trembled as he looked out at the sea of expectant faces. Taking a deep breath, he reminded himself why he had come this far and pushed through.",
+    "topicTag": "public speaking",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Jenna had spent weeks planning to ask her boss for a promotion. She rehearsed every word, anticipated every question, and even picked out what to wear. But when the moment finally came and her boss looked up from his desk, she lost her nerve completely. Her carefully prepared sentences dissolved, and she heard herself asking about a trivial project deadline instead. Walking back to her desk, she felt a mix of frustration and relief. That evening, she wrote down her talking points again, determined not to lose her nerve a second time.",
+    "topicTag": "workplace courage",
+    "moodTag": "frustrated"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 신경(nerve)을 잃다, 즉 담력이나 용기를 잃다는 뜻이다.",
+    "realUsageKo": "어떤 일을 하려고 결심했다가 막상 그 순간이 오면 겁이 나서 포기하거나 주저하게 될 때 사용한다. 특히 용기가 필요한 상황 직전에 갑자기 두려움이 밀려올 때 쓴다.",
+    "etymologyKo": "'nerve'는 원래 라틴어 'nervus(힘줄, 힘)'에서 유래했으며, 영어에서 용기나 담력을 뜻하는 비유적 의미로 발전했다. 'lose your nerve'는 그 담력을 잃는다는 뜻으로 19세기부터 사용된 표현이다.",
+    "nuanceKo": "단순한 두려움보다는 '하려고 했는데 막판에 겁이 났다'는 뉘앙스가 강하다. 의지나 결심이 있었음을 전제로 하기 때문에 후회나 자책이 함께 느껴지는 표현이다.",
+    "shortExampleEn": "He was about to confess his feelings but lost his nerve at the last second.",
+    "shortExampleKo": "그는 막 자신의 감정을 고백하려 했지만 마지막 순간에 겁을 먹고 말았다."
+  }
+}

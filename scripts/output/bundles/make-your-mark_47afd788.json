@@ -1,0 +1,30 @@
+{
+  "id": "make-your-mark_47afd788",
+  "expression": "make your mark",
+  "selectionMeta": {
+    "selectedPhrase": "make your mark",
+    "selectedSenseLabelKo": "족적을 남기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She worked tirelessly for years, determined to make her mark in the field of renewable energy."
+  },
+  "step2": {
+    "story": "After graduating, James moved to a new city with nothing but ambition and a worn-out suitcase. He spent his first year struggling, but slowly began to make his mark as a community organizer who actually got things done.",
+    "topicTag": "career ambition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had always been the quietest voice in the room, overshadowed by louder, more confident colleagues. But when the company faced a crisis no one knew how to solve, she stayed late every night, mapping out a solution others had overlooked. The day she presented her plan, the room fell silent—not from doubt, but from awe. That was the moment Maya finally made her mark, not just on the project, but on everyone who had ever underestimated her.",
+    "topicTag": "workplace recognition",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 흔적이나 표시를 남긴다는 뜻으로, 어딘가에 물리적인 자국을 만든다는 의미에서 출발했다.",
+    "realUsageKo": "실제로는 어떤 분야나 사회에서 눈에 띄는 성과를 이루거나 기억될 만한 영향을 남긴다는 뜻으로 쓰인다. 주로 커리어, 예술, 사회 활동 등의 맥락에서 자주 등장한다.",
+    "etymologyKo": "'mark'는 고대 영어 'mearc'에서 유래해 경계선이나 표시를 뜻했다. 시간이 지나면서 비유적으로 확장되어 '세상에 자신의 존재를 각인시키다'는 의미로 발전했다.",
+    "nuanceKo": "단순한 성공을 넘어 다른 사람들이 기억할 만한 의미 있는 흔적을 남겼다는 뉘앙스를 담고 있다. 겸손하게 쓰기보다는 뚜렷한 성취나 영향력을 강조할 때 사용하는 표현이다.",
+    "shortExampleEn": "He finally made his mark with a debut novel that sold over a million copies.",
+    "shortExampleKo": "그는 백만 부 이상 팔린 데뷔 소설로 마침내 자신의 족적을 남겼다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "broad-perspective_3ac0c643",
+  "expression": "broad perspective",
+  "selectionMeta": {
+    "selectedPhrase": "broad perspective",
+    "selectedSenseLabelKo": "넓은 시야",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Traveling to different countries gave her a broad perspective on how people live and solve problems."
+  },
+  "step2": {
+    "story": "After working in three different industries, Marcus had developed a broad perspective on how businesses operate. He could see connections others missed because he understood so many different contexts.",
+    "topicTag": "personal growth",
+    "moodTag": "insightful"
+  },
+  "step3": {
+    "story": "When the team was stuck debating the same two options, they brought in Elena, who had spent years working across different departments and countries. Her broad perspective immediately reframed the discussion—she pointed out assumptions the team hadn't even noticed they were making. Instead of arguing over details, they stepped back and looked at the larger pattern. By the end of the meeting, they had found a third path none of them had considered before.",
+    "topicTag": "teamwork",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'넓은 시야'라는 뜻으로, 어떤 문제나 상황을 좁은 시각이 아닌 다양한 측면에서 바라보는 관점을 말한다.",
+    "realUsageKo": "특정 이슈를 한 가지 각도에서만 보지 않고 여러 맥락과 배경을 고려해 폭넓게 이해한다는 것을 표현할 때 사용한다. 경험이 많은 사람이나 다양한 분야를 아는 사람을 묘사할 때 자주 쓰인다.",
+    "etymologyKo": "'broad'는 고대 영어 'brad'(넓은)에서 유래했으며, 'perspective'는 라틴어 'perspectiva'(꿰뚫어 보다)에서 왔다. 두 단어가 결합해 '여러 방향을 꿰뚫어 보는 넓은 시각'이라는 의미를 형성했다.",
+    "nuanceKo": "단순히 '시야가 넓다'는 사실적 서술 외에도, 경험이 풍부하고 편견 없이 사고한다는 긍정적인 뉘앙스를 담고 있다. 주로 칭찬이나 긍정적 평가의 맥락에서 사용된다.",
+    "shortExampleEn": "His broad perspective helped the team avoid overlooking important details.",
+    "shortExampleKo": "그의 넓은 시야 덕분에 팀이 중요한 세부 사항을 놓치지 않을 수 있었다."
+  }
+}

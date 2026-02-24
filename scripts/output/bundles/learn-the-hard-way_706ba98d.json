@@ -1,0 +1,30 @@
+{
+  "id": "learn-the-hard-way_706ba98d",
+  "expression": "learn the hard way",
+  "selectionMeta": {
+    "selectedPhrase": "learn the hard way",
+    "selectedSenseLabelKo": "어렵게 배우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She learned the hard way that skipping backups can cost you everything when her laptop crashed the night before the deadline."
+  },
+  "step2": {
+    "story": "Jake ignored every warning about not checking the contract details before signing. He learned the hard way when unexpected fees wiped out his savings in the first month. Now he reads every line, no matter how long it takes.",
+    "topicTag": "financial mistake",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Maya had always been confident in her coding skills, so she skipped writing tests and pushed her changes straight to production. Within an hour, the entire platform went down and thousands of users were locked out. Her manager's call at midnight was not a pleasant one. Maya stayed up all night fixing the bug, promising herself she would never cut corners again. She learned the hard way that shortcuts in software development always come with a hidden price. From that night on, she became the most thorough tester on the team.",
+    "topicTag": "software development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '어려운 방식으로 배우다'로, 힘든 과정을 직접 겪으며 교훈을 얻는다는 뜻이다.",
+    "realUsageKo": "경고나 조언을 무시하다가 실패나 손해를 직접 경험한 후에야 교훈을 깨달았을 때 사용한다. 주로 후회나 반성의 맥락에서 쓰인다.",
+    "etymologyKo": "'hard way'는 '힘든 길'을 뜻하며, 쉬운 방법(easy way) 대신 시행착오를 통해 배우는 상황을 묘사하는 표현으로 오래전부터 영어권에서 사용되어 왔다.",
+    "nuanceKo": "실수나 고통스러운 경험을 통해 배웠다는 뉘앙스를 담고 있으며, 약간의 자조(自嘲)나 후회의 감정이 포함될 때가 많다. 충고를 듣지 않은 결과를 인정할 때도 자주 쓰인다.",
+    "shortExampleEn": "I learned the hard way that you should never mix bleach and ammonia.",
+    "shortExampleKo": "표백제와 암모니아를 절대 섞으면 안 된다는 걸 혹독하게 경험하며 배웠다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mind-over-matter_0de39cd3",
+  "expression": "mind over matter",
+  "selectionMeta": {
+    "selectedPhrase": "mind over matter",
+    "selectedSenseLabelKo": "정신이 물질보다 강하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the freezing temperature, she pushed through the final mile of the marathon with pure mind over matter."
+  },
+  "step2": {
+    "story": "Jake's knee was throbbing by mile eighteen, but he refused to quit. He kept repeating to himself that this was mind over matter — his body wanted to stop, but his will would not allow it. He crossed the finish line with tears streaming down his face.",
+    "topicTag": "endurance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After the surgery, the doctors told Mia she would need months before she could walk without a cane. She refused to accept that timeline. Every morning she dragged herself to physical therapy, gritting her teeth through the pain, reminding herself that this was mind over matter. Her body felt weak and broken, but her conviction never wavered. Six weeks later she stunned her surgeon by walking unaided into his office. 'I just decided I wouldn't let the pain win,' she said simply.",
+    "topicTag": "recovery",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "정신(마음)이 물질(육체적 현실)보다 우위에 있다는 뜻이다.",
+    "realUsageKo": "육체적 고통이나 한계를 정신력으로 극복할 때 주로 사용하며, 의지나 믿음이 현실의 장애를 이겨낼 수 있다는 상황에서도 폭넓게 쓰인다.",
+    "etymologyKo": "19세기 영국 시인 에드워드 불워-리턴이 1847년 소설에서 처음 사용한 표현으로, 철학적으로는 데카르트의 심신이원론에서 정신의 우위를 강조하는 개념에서 유래했다.",
+    "nuanceKo": "격려나 자기 동기부여 맥락에서 긍정적으로 쓰이며, 때로는 고통이나 피로를 무시하고 무리하게 밀어붙이는 것을 정당화하는 뉘앙스로도 사용될 수 있다.",
+    "shortExampleEn": "She ran the last kilometer on a sprained ankle — truly mind over matter.",
+    "shortExampleKo": "그녀는 발목을 삐었음에도 마지막 1킬로미터를 달렸다 — 정말이지 정신력의 승리였다."
+  }
+}

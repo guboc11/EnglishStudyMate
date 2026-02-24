@@ -1,0 +1,30 @@
+{
+  "id": "talk-is-cheap_32d50709",
+  "expression": "talk is cheap",
+  "selectionMeta": {
+    "selectedPhrase": "talk is cheap",
+    "selectedSenseLabelKo": "말은 쉽다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He always promises to help, but talk is cheap — he never actually shows up when it matters."
+  },
+  "step2": {
+    "story": "Everyone on the team had big ideas for the new project, but talk is cheap. By the end of the first week, only Mia had actually started working on her part. The others were still debating what to do.",
+    "topicTag": "teamwork",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "For months, Daniel told his family he was going to start his own business. He talked about it at every dinner, sketching out plans on napkins and sharing grand visions of success. But talk is cheap, and the months kept passing with nothing to show for it. One day, his younger sister quietly handed him a domain registration receipt — she had already built a simple website for his idea overnight. Embarrassed but inspired, Daniel finally sat down and wrote his first real business proposal. Sometimes, seeing someone else act is the push you need to stop just talking.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "말하는 것은 값이 싸다, 즉 말하는 것은 아무런 비용이 들지 않는다는 뜻이다.",
+    "realUsageKo": "실제로 행동하지 않고 말만 하는 것은 의미가 없다는 것을 강조할 때 사용하며, 약속이나 계획만 하고 실천하지 않는 사람을 비판할 때 쓴다.",
+    "etymologyKo": "이 표현은 19세기 초 영어 속담에서 유래했으며, '말은 공짜지만 행동에는 노력이 필요하다'는 교훈을 담고 있다.",
+    "nuanceKo": "다소 비판적이거나 냉소적인 어조를 띠며, 상대방의 공허한 약속이나 실천 없는 계획을 지적할 때 직접적으로 사용할 수 있다.",
+    "shortExampleEn": "She said she would donate to charity every month, but talk is cheap.",
+    "shortExampleKo": "그녀는 매달 기부하겠다고 했지만, 말은 쉽다."
+  }
+}

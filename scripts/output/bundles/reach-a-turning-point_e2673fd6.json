@@ -1,0 +1,30 @@
+{
+  "id": "reach-a-turning-point_e2673fd6",
+  "expression": "reach a turning point",
+  "selectionMeta": {
+    "selectedPhrase": "reach a turning point",
+    "selectedSenseLabelKo": "전환점에 이르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of struggling with burnout, she finally reached a turning point when she decided to leave her corporate job and pursue what truly mattered to her."
+  },
+  "step2": {
+    "story": "Marcus had been drifting through life without direction for years. When his doctor warned him about his declining health, he reached a turning point and committed to making real changes. He quit smoking, started running, and slowly rebuilt his sense of purpose.",
+    "topicTag": "personal health",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For three years, Elena had poured everything into her startup, sacrificing sleep, relationships, and her own well-being. The numbers kept falling short, and her team was exhausted. One quiet evening, staring at another round of disappointing reports, she reached a turning point — not of defeat, but of clarity. She realized the company needed a completely different direction, not just more effort in the same one. She gathered her team the next morning and, instead of pushing harder, she asked them what they truly believed in. That honest conversation changed everything, and slowly, the company began to find its footing again.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '전환점에 도달하다'라는 뜻으로, 중요한 변화가 일어나는 순간에 이르렀음을 의미합니다.",
+    "realUsageKo": "삶, 관계, 사업, 역사 등에서 이전과 이후가 뚜렷이 달라지는 결정적인 시점에 다다랐을 때 사용됩니다. 긍정적인 변화나 부정적인 위기 모두에 쓸 수 있습니다.",
+    "etymologyKo": "'turning point'는 원래 물리적으로 방향이 바뀌는 지점을 뜻하던 표현에서 비유적으로 확장되었습니다. 16~17세기 영어에서 극적인 전환이 일어나는 순간을 묘사할 때 쓰이기 시작했습니다.",
+    "nuanceKo": "단순한 변화가 아닌 '되돌릴 수 없는' 중요한 분기점의 뉘앙스를 담고 있습니다. 개인적 성장, 위기 극복, 역사적 사건 등 무게감 있는 맥락에서 주로 사용됩니다.",
+    "shortExampleEn": "The country reached a turning point after the election results were announced.",
+    "shortExampleKo": "선거 결과가 발표된 후 그 나라는 전환점에 이르렀다."
+  }
+}

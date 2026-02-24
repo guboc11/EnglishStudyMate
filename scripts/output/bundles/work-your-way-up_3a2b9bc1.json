@@ -1,0 +1,30 @@
+{
+  "id": "work-your-way-up_3a2b9bc1",
+  "expression": "work your way up",
+  "selectionMeta": {
+    "selectedPhrase": "work your way up",
+    "selectedSenseLabelKo": "차근차근 올라가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She started as a receptionist and worked her way up to become the company's chief executive officer over fifteen years."
+  },
+  "step2": {
+    "story": "Marcus joined the firm straight out of college with no connections and little experience. He took every small task seriously, learned from senior colleagues, and slowly worked his way up through the ranks. Within a decade, he was leading the very department he had once swept floors for.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Lily first arrived in the city, she had nothing but a worn backpack and an unyielding belief in herself. She took a job washing dishes at a small restaurant, listening carefully to the chefs and asking questions whenever she could. Night after night she practiced techniques at home, and eventually the head chef let her assist on the line. Bit by bit she worked her way up, earning each new responsibility through consistency and quiet dedication. Three years later, Lily stood at the front of her own kitchen as head chef, plating dishes for a full house. The climb had been slow, but every step had been hers.",
+    "topicTag": "personal ambition",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '위쪽으로 자신의 길을 개척하며 나아간다'는 뜻입니다.",
+    "realUsageKo": "실제로는 직장, 스포츠, 기술 등 어떤 분야에서든 낮은 위치에서 시작해 점진적으로 높은 위치나 수준에 도달하는 과정을 표현할 때 사용합니다.",
+    "etymologyKo": "'work one's way'는 18세기 영어에서 '스스로 노력하여 나아가다'는 의미로 굳어졌으며, 'up'과 결합해 지위나 수준이 상승하는 방향성을 강조하게 되었습니다.",
+    "nuanceKo": "단순한 승진이나 성공보다 꾸준한 노력과 인내의 과정을 강조하는 긍정적이고 진취적인 뉘앙스를 가집니다. 빠른 출세보다 성실함을 높이 평가하는 맥락에서 자주 쓰입니다.",
+    "shortExampleEn": "He worked his way up from intern to project manager in just four years.",
+    "shortExampleKo": "그는 단 4년 만에 인턴에서 프로젝트 매니저까지 차근차근 올라갔다."
+  }
+}

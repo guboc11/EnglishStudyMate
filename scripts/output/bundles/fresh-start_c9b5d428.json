@@ -1,0 +1,30 @@
+{
+  "id": "fresh-start_c9b5d428",
+  "expression": "fresh start",
+  "selectionMeta": {
+    "selectedPhrase": "fresh start",
+    "selectedSenseLabelKo": "새로운 출발",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of struggling in the city, she moved to a small coastal town to make a fresh start."
+  },
+  "step2": {
+    "story": "Daniel quit his stressful job and sold his apartment to make a fresh start in a new country. He packed only what he needed and booked a one-way ticket. For the first time in years, he felt genuinely hopeful about the future.",
+    "topicTag": "life change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After her divorce was finalized, Maya sat alone in her empty living room, surrounded by boxes. She had spent years trying to hold things together, but now she realized that sometimes letting go was the only way forward. She decided to use this painful moment as a chance for a fresh start — a new apartment, a new routine, and perhaps a new version of herself. She signed up for a pottery class she had always wanted to take and started journaling every morning. It wasn't easy, and some days the grief still hit her hard. But slowly, she began to feel like herself again.",
+    "topicTag": "personal renewal",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'신선한(fresh) 시작(start)'이라는 뜻으로, 말 그대로 깨끗하고 새로운 출발을 의미합니다.",
+    "realUsageKo": "과거의 실수나 어려움을 뒤로하고 새로운 환경이나 태도로 삶을 다시 시작할 때 사용합니다. 이직, 이사, 관계 회복 등 다양한 상황에서 쓰입니다.",
+    "etymologyKo": "'fresh'는 고대 영어 'fersc(신선한, 새로운)'에서 유래했으며, 'start'는 고대 영어 'styrtan(갑자기 움직이다)'에서 왔습니다. 두 단어가 합쳐져 '새로운 출발'이라는 뜻으로 굳어졌습니다.",
+    "nuanceKo": "단순히 '시작'을 의미하는 'new beginning'보다 과거와의 단절 및 정서적 해방감이 더 강하게 느껴지는 표현입니다. 주로 긍정적이고 희망적인 맥락에서 사용됩니다.",
+    "shortExampleEn": "Moving abroad gave him the fresh start he desperately needed.",
+    "shortExampleKo": "해외로 이주한 것이 그에게 절실히 필요했던 새로운 출발을 가져다주었다."
+  }
+}

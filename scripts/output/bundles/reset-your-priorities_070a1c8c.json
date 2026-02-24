@@ -1,0 +1,30 @@
+{
+  "id": "reset-your-priorities_070a1c8c",
+  "expression": "reset your priorities",
+  "selectionMeta": {
+    "selectedPhrase": "reset your priorities",
+    "selectedSenseLabelKo": "우선순위를 재설정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the health scare, she decided to reset her priorities and spend more time with family."
+  },
+  "step2": {
+    "story": "Marcus had been chasing promotions for years, neglecting his health and relationships. One evening, exhausted at his desk, he realized he needed to reset his priorities. He booked a week off and started small — morning walks, home-cooked dinners, real conversations.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "After her second burnout in three years, Diane finally admitted that something had to change. Her therapist suggested she take a hard look at her schedule and reset her priorities from the ground up. She made a list of everything she was doing and asked herself which items truly mattered — the answer surprised her. Half her to-do list was there to impress people she barely knew. She cleared her calendar, declined a prestigious project, and signed up for a pottery class she had postponed for a decade. It was the first week in years that she went to bed without dreading the morning.",
+    "topicTag": "burnout and recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 우선순위를 다시 설정하다, 즉 무엇이 가장 중요한지를 새로 정하다.",
+    "realUsageKo": "삶의 방향을 재검토하거나 번아웃 후 무엇에 집중할지 다시 결정할 때 주로 사용된다. 직장, 건강, 관계 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'reset'은 '다시(re-) + 설정하다(set)'의 합성어로, 원래 컴퓨터 용어에서 유래해 일상 언어로 확장되었다. 'priority'는 라틴어 'prior(먼저)'에서 파생되었다.",
+    "nuanceKo": "단순히 계획을 바꾸는 것보다 더 근본적인 가치 재정비의 느낌을 준다. 자기 성찰이나 큰 변화의 계기 이후에 자주 등장하며, 긍정적이고 결단력 있는 어조를 띤다.",
+    "shortExampleEn": "The pandemic forced many people to reset their priorities.",
+    "shortExampleKo": "팬데믹은 많은 사람들이 우선순위를 재설정하도록 만들었다."
+  }
+}

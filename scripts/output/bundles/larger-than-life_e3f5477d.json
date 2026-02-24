@@ -1,0 +1,30 @@
+{
+  "id": "larger-than-life_e3f5477d",
+  "expression": "larger than life",
+  "selectionMeta": {
+    "selectedPhrase": "larger than life",
+    "selectedSenseLabelKo": "과장된 / 대단한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The famous director had a larger-than-life personality that made every room he entered feel electric."
+  },
+  "step2": {
+    "story": "Everyone in town had heard of Marcus, the retired athlete whose stories were always larger than life. He claimed to have once outrun a bear and talked down a charging bull with his bare hands. Whether or not any of it was true, nobody could resist listening.",
+    "topicTag": "storytelling",
+    "moodTag": "amusing"
+  },
+  "step3": {
+    "story": "Sofia had only seen her grandmother in photographs, but even those images felt larger than life. In every picture, the woman stood front and center, laughing with her whole body, arms wide open as if embracing the entire world. When Sofia finally met her at the airport, nothing had changed — her grandmother swept her into a hug that lifted her off the ground, speaking so fast and warmly in three languages that Sofia could barely keep up. By the end of the first evening, Sofia understood why everyone in the family spoke of her with such awe. She wasn't just a person; she was a force of nature.",
+    "topicTag": "family reunion",
+    "moodTag": "warm and awe-inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '실제 삶보다 더 크다'는 뜻이다.",
+    "realUsageKo": "실제로는 사람이나 사물이 현실보다 훨씬 인상적이거나 과장되게 느껴질 때 사용하며, 특히 카리스마 넘치거나 드라마틱한 성격을 묘사할 때 쓴다.",
+    "etymologyKo": "영화나 연극에서 무대 위 배우의 과장된 연기가 실제 삶보다 더 극적으로 보인다는 데서 유래한 표현이다.",
+    "nuanceKo": "긍정적으로는 매우 인상적이고 카리스마 있다는 뜻이고, 부정적으로는 지나치게 과장되거나 허세스럽다는 뉘앙스를 담기도 한다.",
+    "shortExampleEn": "The rock star had a larger-than-life stage presence that captivated thousands.",
+    "shortExampleKo": "그 록스타는 수천 명을 사로잡는 압도적인 무대 존재감을 지니고 있었다."
+  }
+}

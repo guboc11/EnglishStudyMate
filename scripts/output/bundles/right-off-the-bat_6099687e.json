@@ -1,0 +1,30 @@
+{
+  "id": "right-off-the-bat_6099687e",
+  "expression": "right off the bat",
+  "selectionMeta": {
+    "selectedPhrase": "right off the bat",
+    "selectedSenseLabelKo": "즉시",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She answered the question right off the bat without even pausing to think."
+  },
+  "step2": {
+    "story": "When the manager asked who wanted to lead the new project, Daniel raised his hand right off the bat. Everyone in the room was impressed by his confidence and readiness.",
+    "topicTag": "workplace confidence",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "The interviewer had barely finished introducing herself when Maya knew, right off the bat, that this was the company she wanted to work for. The office buzzed with energy, and the people seemed genuinely passionate about their work. When asked about her greatest strength, Maya answered right off the bat: 'I thrive under pressure.' The interviewer smiled and nodded, clearly impressed by her directness. By the end of the conversation, they were already discussing a start date.",
+    "topicTag": "job interview",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "야구에서 배트로 공을 치는 순간처럼, 무언가가 시작되자마자 곧바로 일어남을 뜻합니다.",
+    "realUsageKo": "어떤 일이나 질문에 대해 지체 없이 즉시 반응하거나 행동할 때 사용합니다. 주로 빠른 결정이나 즉각적인 반응을 강조할 때 씁니다.",
+    "etymologyKo": "미국 야구 용어에서 유래했으며, 투수가 던진 공을 타자가 배트에 맞히는 바로 그 순간(off the bat)을 의미합니다. 20세기 초부터 '즉시'라는 의미로 일반적으로 쓰이기 시작했습니다.",
+    "nuanceKo": "격식체보다는 구어체·캐주얼한 상황에서 주로 쓰입니다. 단순히 '빨리'가 아니라 망설임이나 준비 없이 바로 반응했다는 자연스러운 즉흥성·자신감의 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "He knew right off the bat that something was wrong.",
+    "shortExampleKo": "그는 즉시 무언가 잘못되었다는 것을 알아챘다."
+  }
+}

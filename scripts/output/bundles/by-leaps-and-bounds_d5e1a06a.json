@@ -1,0 +1,30 @@
+{
+  "id": "by-leaps-and-bounds_d5e1a06a",
+  "expression": "by leaps and bounds",
+  "selectionMeta": {
+    "selectedPhrase": "by leaps and bounds",
+    "selectedSenseLabelKo": "비약적으로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Since joining the intensive training program, her confidence has grown by leaps and bounds."
+  },
+  "step2": {
+    "story": "After just three months of daily practice, Leo's guitar skills improved by leaps and bounds. His teacher could hardly believe how quickly he had progressed from fumbling chords to playing full songs.",
+    "topicTag": "personal growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "When the small tech startup launched its new app, downloads grew by leaps and bounds almost overnight. The founding team had spent two years refining their idea, and the market was finally ready for it. Within the first week, they surpassed every milestone they had set for the entire first year. Investors who had once hesitated were now reaching out, eager to be part of something that was clearly taking off. The founders celebrated quietly, knowing the real work was only beginning.",
+    "topicTag": "startup success",
+    "moodTag": "excited"
+  },
+  "meaning": {
+    "literalMeaningKo": "도약과 한 번 더 도약으로, 즉 크게 뛰어오르며 나아간다는 뜻이다.",
+    "realUsageKo": "실력, 수치, 상황 등이 매우 빠르고 눈에 띄게 향상되거나 증가할 때 사용한다. '비약적으로', '급격히'라는 의미로 성장이나 발전을 강조할 때 자주 쓰인다.",
+    "etymologyKo": "leap(도약)과 bound(큰 점프)가 합쳐진 표현으로, 둘 다 크게 뛰어오르는 동작을 의미하며 16세기경부터 영어에서 빠른 진전을 나타내는 관용구로 사용되어 왔다.",
+    "nuanceKo": "긍정적인 변화나 발전을 묘사할 때 주로 쓰이며, 단순한 성장이 아니라 눈에 띄게 빠른 속도의 발전을 강조하는 뉘앙스가 있다.",
+    "shortExampleEn": "The company's profits have increased by leaps and bounds this year.",
+    "shortExampleKo": "그 회사의 수익이 올해 비약적으로 증가했다."
+  }
+}

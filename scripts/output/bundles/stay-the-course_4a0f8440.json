@@ -1,0 +1,30 @@
+{
+  "id": "stay-the-course_4a0f8440",
+  "expression": "stay the course",
+  "selectionMeta": {
+    "selectedPhrase": "stay the course",
+    "selectedSenseLabelKo": "방향을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the mounting criticism, the team decided to stay the course and trust their original strategy."
+  },
+  "step2": {
+    "story": "The startup faced investor pressure to pivot after a slow first quarter. The CEO urged the team to stay the course, confident the product would find its market. Three months later, their patience paid off with a surge in new users.",
+    "topicTag": "business perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had been training for the marathon for six months when a minor knee injury threatened to derail everything. Her coach told her to stay the course with a modified plan rather than quit entirely. Some days the pain made her want to give up, and the doubt crept in louder than ever. But she kept her eyes on the finish line, adjusting her pace instead of abandoning the goal. On race day, Maya crossed the finish line with tears in her eyes, grateful she had chosen to stay the course when it mattered most.",
+    "topicTag": "marathon training",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '항로(course)를 유지하다'는 뜻으로, 배나 항공기가 정해진 경로를 벗어나지 않는 것을 의미한다.",
+    "realUsageKo": "실제로는 어려운 상황이나 압박이 있더라도 원래의 계획이나 방향을 포기하지 않고 꾸준히 밀고 나가는 것을 뜻한다. 주로 장기적인 목표나 전략을 유지할 때 사용된다.",
+    "etymologyKo": "항해 용어에서 유래했으며, 'course'는 배가 나아가는 항로를 의미한다. 거친 파도나 역풍이 불어도 정해진 항로를 유지한다는 개념이 비유적으로 확장되어 일반적인 상황에서의 인내와 방향 유지를 뜻하게 되었다.",
+    "nuanceKo": "단순한 끈기(persistence)보다는 외부의 압박이나 비판에도 불구하고 전략적으로 방향을 지키는 뉘앙스가 강하다. 정치, 비즈니스, 스포츠 등 공적인 맥락에서 자주 쓰이며 다소 격식 있는 어조를 띤다.",
+    "shortExampleEn": "We must stay the course even when the results aren't immediate.",
+    "shortExampleKo": "결과가 바로 나타나지 않더라도 우리는 방향을 유지해야 한다."
+  }
+}

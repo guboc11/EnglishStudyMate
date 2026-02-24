@@ -1,0 +1,30 @@
+{
+  "id": "unconditional-support_cbf12b8d",
+  "expression": "unconditional support",
+  "selectionMeta": {
+    "selectedPhrase": "unconditional support",
+    "selectedSenseLabelKo": "무조건적인 지지",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her parents offered unconditional support throughout her career change, never once questioning her choices."
+  },
+  "step2": {
+    "story": "When Marcus decided to quit his stable job to pursue painting, most people doubted him. His sister, however, gave him unconditional support, even helping him set up a small studio in her spare room.",
+    "topicTag": "family bonds",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Priya had always struggled with self-doubt, especially after her first startup failed. She was ready to give up entirely when her mentor sat across from her and said, 'I believe in you completely.' That unconditional support was unlike anything she had received before — no strings attached, no benchmarks to meet. It gave her the courage to try again, and this time she approached the work not out of fear, but out of genuine passion. Years later, she would say it was that single conversation that changed the entire arc of her life.",
+    "topicTag": "mentorship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떠한 조건도 없이 누군가를 지지하거나 도와주는 것을 의미합니다.",
+    "realUsageKo": "주로 부모, 친구, 멘토 등 가까운 관계에서 상대방의 선택이나 상황에 관계없이 변함없이 곁에 있어준다는 뜻으로 사용됩니다. 감정적 지지뿐 아니라 실질적인 도움을 포함하기도 합니다.",
+    "etymologyKo": "'unconditional'은 라틴어 'conditio(조건)'에 부정 접두사 'un-'이 붙어 '조건 없는'을 뜻하며, 'support'는 라틴어 'supportare(아래에서 받치다)'에서 유래해 '버팀목이 되어준다'는 의미를 담고 있습니다.",
+    "nuanceKo": "단순한 격려(encouragement)보다 더 깊고 지속적인 헌신의 뉘앙스를 지닙니다. 상대방이 실패하거나 잘못된 선택을 해도 판단하지 않고 함께한다는 강한 신뢰감을 내포합니다.",
+    "shortExampleEn": "No matter what happens, you have my unconditional support.",
+    "shortExampleKo": "무슨 일이 있어도 난 무조건적으로 너를 지지해."
+  }
+}

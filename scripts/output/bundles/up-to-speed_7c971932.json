@@ -1,0 +1,30 @@
+{
+  "id": "up-to-speed_7c971932",
+  "expression": "up to speed",
+  "selectionMeta": {
+    "selectedPhrase": "up to speed",
+    "selectedSenseLabelKo": "최신 상황을 파악한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Let me brief you on the project changes so you can get up to speed before the meeting starts."
+  },
+  "step2": {
+    "story": "After two weeks of vacation, Maya returned to the office to find everything had changed. Her manager spent an hour bringing her up to speed on the new product launch and team restructuring. By afternoon, she felt confident enough to jump back into her role.",
+    "topicTag": "workplace return",
+    "moodTag": "reassured"
+  },
+  "step3": {
+    "story": "Daniel had been on medical leave for a month, and walking back into the newsroom felt like stepping into a different world. Deadlines had shifted, sources had changed, and a major story had broken in his absence. His editor sat him down with a thick folder of notes, patiently bringing him up to speed on every development. It took the entire morning, but piece by piece the picture came together. By noon, Daniel had absorbed everything and was already drafting follow-up questions. He wasn't just caught up — he was ready to lead the next investigation.",
+    "topicTag": "journalism comeback",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "속도를 맞추다 — 다른 사람들과 같은 수준의 속도나 정보에 도달하다.",
+    "realUsageKo": "주로 'get up to speed' 또는 'bring someone up to speed' 형태로 쓰이며, 누군가가 최신 정보나 상황을 파악하도록 설명하거나 스스로 따라잡는다는 의미로 사용됩니다.",
+    "etymologyKo": "기계나 엔진이 정상 작동 속도(full speed)에 도달한다는 물리적 개념에서 유래했으며, 20세기 중반부터 '정보나 상황을 따라잡다'는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "업무·프로젝트·뉴스 등 놓친 정보를 따라잡는 상황에서 자주 쓰이며, 격식체와 비격식체 모두에서 자연스럽게 사용됩니다. 부담스럽지 않고 실용적인 어감을 줍니다.",
+    "shortExampleEn": "Can you bring the new intern up to speed on our workflow?",
+    "shortExampleKo": "새 인턴에게 우리 업무 방식을 파악할 수 있도록 설명해 줄 수 있어요?"
+  }
+}

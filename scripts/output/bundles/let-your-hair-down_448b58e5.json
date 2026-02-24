@@ -1,0 +1,30 @@
+{
+  "id": "let-your-hair-down_448b58e5",
+  "expression": "let your hair down",
+  "selectionMeta": {
+    "selectedPhrase": "let your hair down",
+    "selectedSenseLabelKo": "긴장을 풀다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of nonstop deadlines, she finally let her hair down at the company retreat and laughed louder than anyone."
+  },
+  "step2": {
+    "story": "Marcus had been so focused on his promotion that he barely smiled anymore. His friends dragged him to a rooftop party on Friday night, telling him it was time to let his hair down. By midnight, he was dancing and joking like his old self again.",
+    "topicTag": "social life",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Elena had spent the entire semester buried in textbooks, skipping every party and get-together her classmates invited her to. When finals were finally over, her roommate insisted they go to the beach for the weekend. Standing barefoot in the sand with a cold drink in her hand, Elena realized she had forgotten what it felt like to truly let her hair down. She laughed at silly jokes, stayed up watching shooting stars, and didn't check her phone once. By Sunday evening, she felt recharged in a way no amount of sleep could have managed, and she promised herself she'd make space for moments like these more often.",
+    "topicTag": "personal renewal",
+    "moodTag": "carefree"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리카락을 아래로 풀어 내린다는 뜻으로, 단단히 묶어 올린 머리를 푸는 행위를 말합니다.",
+    "realUsageKo": "실제로는 평소의 긴장이나 격식을 내려놓고 편안하게 즐기거나 자유롭게 행동할 때 사용합니다. 주로 스트레스를 해소하거나 파티·여행 등에서 마음껏 즐길 때 씁니다.",
+    "etymologyKo": "과거 서양 여성들은 공식적인 자리에서 머리를 단정히 올려 묶어야 했고, 집에 돌아와 머리를 풀어 내리는 것은 하루의 긴장을 내려놓는 행위였습니다. 이에서 '긴장을 풀다'는 비유적 의미가 생겨났습니다.",
+    "nuanceKo": "딱딱한 상황이나 일상의 압박에서 벗어나 자신을 자유롭게 드러낸다는 뉘앙스가 강합니다. 격식체보다는 구어체에서 자주 쓰이며, 긍정적이고 가벼운 어조를 지닙니다.",
+    "shortExampleEn": "You work so hard every day — come to the party and let your hair down for once.",
+    "shortExampleKo": "매일 너무 열심히 일하잖아 — 파티에 와서 한번쯤 긴장 좀 풀어봐."
+  }
+}

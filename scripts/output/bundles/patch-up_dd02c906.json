@@ -1,0 +1,30 @@
+{
+  "id": "patch-up_dd02c906",
+  "expression": "patch up",
+  "selectionMeta": {
+    "selectedPhrase": "patch up",
+    "selectedSenseLabelKo": "회복하다 / 수습하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After a heated argument, the two friends decided to patch up their differences and move on."
+  },
+  "step2": {
+    "story": "Mia and her sister hadn't spoken in months after a bitter fight over their mother's estate. One evening, Mia showed up at the door with a box of old photographs and a quiet apology, hoping to patch up what had broken between them. Her sister stepped aside to let her in.",
+    "topicTag": "family conflict",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "The team had been in crisis ever since the product launch went badly wrong and two leads stopped collaborating. The manager called everyone into a meeting, laid the failures on the table, and asked if they were willing to patch up their working relationship for the sake of the project. There was a long silence before one of them extended a hand across the table. It wasn't a full reconciliation, but it was a start. Over the following weeks, they rebuilt trust one small decision at a time, and by the next quarter the team was stronger than it had ever been.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense but resolving"
+  },
+  "meaning": {
+    "literalMeaningKo": "조각(patch)을 붙여 위로 올린다(up)는 뜻으로, 헤진 곳을 임시로 꿰맨다는 이미지에서 출발합니다.",
+    "realUsageKo": "관계, 다툼, 실수 등을 회복하거나 수습할 때 씁니다. 완전한 해결보다는 임시적이거나 불완전한 화해·수습의 뉘앙스를 담을 때가 많습니다.",
+    "etymologyKo": "'patch'는 중세 영어 'pacche'(헝겊 조각)에서 유래했으며, 'patch up'은 옷이나 상처에 임시 덧댐을 한다는 뜻이 점차 인간관계·상황 수습으로 확장되었습니다.",
+    "nuanceKo": "완벽한 해결(resolve)보다 임시방편적 수습에 가깝습니다. 'They patched things up'은 완전히 풀렸다기보다 일단 봉합했다는 느낌을 줍니다.",
+    "shortExampleEn": "It took weeks, but they finally managed to patch up their friendship.",
+    "shortExampleKo": "몇 주가 걸렸지만, 결국 그들은 우정을 회복할 수 있었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "take-the-lead_a1af86c9",
+  "expression": "take the lead",
+  "selectionMeta": {
+    "selectedPhrase": "take the lead",
+    "selectedSenseLabelKo": "앞서 나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When no one else stepped up, Maya decided to take the lead and organize the entire project herself."
+  },
+  "step2": {
+    "story": "The team had been going in circles for hours, unsure of what to do next. Finally, Jake stood up and took the lead, assigning clear roles to everyone. Within minutes, the energy in the room shifted and work began flowing smoothly.",
+    "topicTag": "teamwork",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The competition was fierce, and the other runners had set a blistering pace from the start. Sara had been holding back, conserving her energy for this moment. As they rounded the final curve, she pushed herself forward and took the lead, her lungs burning with each stride. The crowd roared around her, but she tuned out everything except the finish line ahead. She crossed it first, arms raised, tears already forming in her eyes. It was the moment she had trained years for.",
+    "topicTag": "competition",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞장을 서다, 선두를 차지하다.",
+    "realUsageKo": "경쟁이나 팀 활동에서 다른 사람들보다 앞서거나 주도권을 잡는 것을 의미한다. 스포츠, 비즈니스, 일상 대화 등 다양한 상황에서 두루 쓰인다.",
+    "etymologyKo": "'lead'는 고대 영어 'lǣdan(이끌다)'에서 유래했으며, 'take the lead'는 선두 자리를 능동적으로 '차지한다'는 의미를 담고 있다.",
+    "nuanceKo": "단순히 앞서는 것을 넘어, 자발적으로 주도권을 쥐는 뉘앙스가 강하다. 수동적으로 1위가 된 게 아니라 능동적으로 앞장섰다는 점을 강조할 때 자주 사용된다.",
+    "shortExampleEn": "She took the lead in the second lap and never looked back.",
+    "shortExampleKo": "그녀는 두 번째 바퀴에서 선두를 차지한 뒤 한 번도 뒤돌아보지 않았다."
+  }
+}

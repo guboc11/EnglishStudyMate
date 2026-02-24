@@ -1,0 +1,30 @@
+{
+  "id": "send-off_434d285b",
+  "expression": "send off",
+  "selectionMeta": {
+    "selectedPhrase": "send off",
+    "selectedSenseLabelKo": "보내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed at the airport gate to send off her daughter before the long flight."
+  },
+  "step2": {
+    "story": "The whole family gathered at the train station to send off their son as he left for college in another city. They waved until the train disappeared around the bend.",
+    "topicTag": "family farewell",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "On the morning of his departure, Mark's teammates showed up at his door to send him off properly. They had prepared a small banner and brought coffee and pastries to share on the curb. Mark hadn't expected such a warm gesture, and he struggled to hold back tears as they hugged him one by one. It was just a job transfer to another branch, but to him, that send-off felt like the closing of a meaningful chapter. He promised to visit whenever he could, and drove away with their laughter still ringing in his ears.",
+    "topicTag": "workplace farewell",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 떠나보내다, 즉 출발하는 사람을 배웅하다.",
+    "realUsageKo": "주로 여행, 이사, 유학 등으로 떠나는 사람을 공항·역·현관 등에서 작별 인사를 하며 배웅하는 상황에 사용한다. 명사형 'a send-off'는 환송 행사나 작별 자리를 가리키기도 한다.",
+    "etymologyKo": "'send'(보내다)와 방향·분리를 나타내는 부사 'off'가 결합된 구동사로, 16세기경부터 '출발시키다'는 의미로 사용되어 왔다.",
+    "nuanceKo": "단순히 물건을 부치는 뜻('편지를 부치다')으로도 쓰이지만, 사람을 배웅하는 맥락에서는 감정적인 작별의 뉘앙스가 강하다. 격식·비격식 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "We went to the harbor to send off the sailors.",
+    "shortExampleKo": "우리는 선원들을 배웅하러 항구에 나갔다."
+  }
+}

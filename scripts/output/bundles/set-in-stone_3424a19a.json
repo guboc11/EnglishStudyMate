@@ -1,0 +1,30 @@
+{
+  "id": "set-in-stone_3424a19a",
+  "expression": "set in stone",
+  "selectionMeta": {
+    "selectedPhrase": "set in stone",
+    "selectedSenseLabelKo": "확정된",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The meeting time isn't set in stone, so we can adjust it if something comes up."
+  },
+  "step2": {
+    "story": "The project deadline was set in stone by the client, leaving no room for negotiation. Despite the team's concerns, they accepted the terms and pushed forward. Everyone knew they had to deliver on time, no matter what.",
+    "topicTag": "work deadline",
+    "moodTag": "pressured"
+  },
+  "step3": {
+    "story": "When the director announced that the film's release date was set in stone, the entire crew felt the weight of the words. There would be no extensions, no last-minute delays — the premiere was happening on October 15th, period. The cinematographer stayed late every night for weeks, refining each scene with quiet determination. The editor barely slept, pushing through cuts that would have taken others months. On the morning of the premiere, as the team gathered in the lobby, someone joked that maybe next time they shouldn't carve dates in stone so quickly. Everyone laughed, but deep down they all knew the pressure had made them better.",
+    "topicTag": "film production",
+    "moodTag": "intense"
+  },
+  "meaning": {
+    "literalMeaningKo": "돌에 새겨져 있다는 뜻으로, 물리적으로 영구적으로 새긴 것을 의미한다.",
+    "realUsageKo": "어떤 결정이나 계획이 이미 확정되어 절대 바꿀 수 없음을 강조할 때 사용한다. 주로 부정문(not set in stone)으로 쓰여 '아직 확정된 건 아니다'는 뉘앙스를 나타내기도 한다.",
+    "etymologyKo": "고대부터 돌에 새긴 법이나 명령은 변경이 불가능하다는 인식에서 유래했으며, 성경의 십계명이 돌판에 새겨진 것처럼 영구적이고 절대적인 것을 상징한다.",
+    "nuanceKo": "매우 단호하고 공식적인 어감이 있으며, 협상이나 변경의 여지가 전혀 없음을 강조할 때 사용된다. 비즈니스나 계약 상황에서 자주 쓰인다.",
+    "shortExampleEn": "The rules are set in stone and cannot be changed.",
+    "shortExampleKo": "그 규칙들은 확정된 것이라 변경할 수 없다."
+  }
+}

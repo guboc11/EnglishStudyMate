@@ -1,0 +1,30 @@
+{
+  "id": "gain-expertise_7b40bcec",
+  "expression": "gain expertise",
+  "selectionMeta": {
+    "selectedPhrase": "gain expertise",
+    "selectedSenseLabelKo": "전문성을 쌓다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spent three years working in the field to gain expertise in data analysis before leading her own team."
+  },
+  "step2": {
+    "story": "After switching careers, Marcus threw himself into every challenging project he could find. Over two years, he began to gain expertise in cybersecurity, earning the trust of senior colleagues who once doubted him.",
+    "topicTag": "career growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Priya had always been fascinated by machine learning, but she knew that reading articles alone wouldn't be enough. She signed up for online courses, stayed late at the office, and volunteered for projects outside her job description. Slowly, she started to gain expertise in neural networks, and her contributions began drawing attention from the engineering lead. One afternoon, her manager pulled her aside and offered her a spot on the company's AI research team. All those late nights had finally paid off.",
+    "topicTag": "professional development",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "경험이나 학습을 통해 특정 분야의 전문적인 지식과 기술을 얻다.",
+    "realUsageKo": "어떤 분야에서 깊은 지식과 실력을 쌓아가는 과정을 표현할 때 사용하며, 시간과 노력이 필요함을 내포한다.",
+    "etymologyKo": "'gain'은 고대 프랑스어 'gaaignier(획득하다)'에서, 'expertise'는 라틴어 'expertus(경험한)'에서 유래해 '전문적 숙련도'를 뜻한다.",
+    "nuanceKo": "단순히 지식을 습득하는 것을 넘어 실전 경험을 통해 체득한 깊은 전문성을 강조하며, 노력과 시간의 투자를 긍정적으로 평가하는 뉘앙스를 담고 있다.",
+    "shortExampleEn": "He moved abroad to gain expertise in international finance.",
+    "shortExampleKo": "그는 국제 금융 분야의 전문성을 쌓기 위해 해외로 이주했다."
+  }
+}

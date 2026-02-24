@@ -1,0 +1,30 @@
+{
+  "id": "think-back_e5fbdbe2",
+  "expression": "think back",
+  "selectionMeta": {
+    "selectedPhrase": "think back",
+    "selectedSenseLabelKo": "돌이켜보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When I think back on my childhood summers, I remember long days at the lake with no worries at all."
+  },
+  "step2": {
+    "story": "Sara sat quietly at her old desk, thinking back to the years she had spent learning to play the piano. She could still hear her teacher's patient voice guiding her through each difficult piece. Those memories made her smile and pick up her practice again.",
+    "topicTag": "nostalgia",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "On the last day of his career, Daniel stood at the office window and began to think back over thirty years of work. He remembered the nervous energy of his first day, the late nights during big projects, and the teammates who had become lifelong friends. There had been failures too — deals that fell through, ideas that never took off — but he no longer felt regret about them. Instead, each setback now looked like a lesson that had shaped who he was. He realized that thinking back honestly, without rose-tinted glasses, was the only way to truly appreciate how far he had come.",
+    "topicTag": "career reflection",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "뒤를 돌아보다, 과거의 기억으로 생각을 돌리다.",
+    "realUsageKo": "과거의 경험이나 사건을 머릿속으로 되짚어볼 때 사용한다. 주로 'think back on/to something' 형태로 쓰인다.",
+    "etymologyKo": "'think(생각하다)'와 방향을 나타내는 부사 'back(뒤로)'이 결합한 구동사로, 생각의 방향을 과거로 돌린다는 의미에서 유래했다.",
+    "nuanceKo": "단순한 기억(remember)보다 의식적으로 과거를 되짚는 뉘앙스가 강하며, 그리움·성찰·반성 등 다양한 감정과 함께 쓰인다.",
+    "shortExampleEn": "I often think back to my university days.",
+    "shortExampleKo": "나는 종종 대학 시절을 돌이켜본다."
+  }
+}

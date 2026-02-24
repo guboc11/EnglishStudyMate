@@ -1,0 +1,30 @@
+{
+  "id": "get-the-picture_8dbc3dad",
+  "expression": "get the picture",
+  "selectionMeta": {
+    "selectedPhrase": "get the picture",
+    "selectedSenseLabelKo": "이해하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Once she explained the project timeline step by step, I finally got the picture and knew exactly what needed to be done."
+  },
+  "step2": {
+    "story": "Mark had been struggling to understand why the team kept missing deadlines. After a long meeting where everyone shared their concerns, he finally got the picture — there simply weren't enough people to handle the workload. He immediately requested additional resources from management.",
+    "topicTag": "workplace communication",
+    "moodTag": "realization"
+  },
+  "step3": {
+    "story": "Sara had been receiving vague feedback on her designs for weeks, and no matter how many revisions she made, her client seemed unsatisfied. Frustrated, she arranged a face-to-face meeting and asked the client to walk her through their vision from the very beginning. As the client described their brand values and target audience in detail, Sara finally got the picture — the designs were too edgy for the conservative audience they were trying to reach. She left the meeting with a clear direction and a renewed sense of purpose. Within days, she delivered a concept that the client immediately loved.",
+    "topicTag": "creative work",
+    "moodTag": "clarity"
+  },
+  "meaning": {
+    "literalMeaningKo": "그림을 얻다, 즉 머릿속에 전체적인 그림이 그려진다는 뜻이다.",
+    "realUsageKo": "어떤 상황이나 설명을 듣고 전체적인 맥락을 이해했을 때 사용한다. 주로 복잡하거나 처음에는 혼란스러웠던 상황을 마침내 파악하게 됐을 때 쓴다.",
+    "etymologyKo": "'picture'는 단순한 그림이 아니라 '전체적인 상황의 그림(the whole picture)'을 뜻하며, 19세기부터 영어에서 상황이나 맥락을 가리키는 비유로 사용되었다.",
+    "nuanceKo": "가볍고 구어적인 표현으로, 공식적인 글보다는 일상 대화에서 자주 쓰인다. 설명이 길었거나 반복 끝에 이해가 됐을 때 사용하면 자연스럽다.",
+    "shortExampleEn": "Oh, now I get the picture — you want me to handle the client calls while you're away.",
+    "shortExampleKo": "아, 이제 이해했어 — 네가 자리를 비우는 동안 내가 고객 전화를 담당하면 되는 거구나."
+  }
+}

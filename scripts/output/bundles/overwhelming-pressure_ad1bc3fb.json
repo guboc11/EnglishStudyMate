@@ -1,0 +1,30 @@
+{
+  "id": "overwhelming-pressure_ad1bc3fb",
+  "expression": "overwhelming pressure",
+  "selectionMeta": {
+    "selectedPhrase": "overwhelming pressure",
+    "selectedSenseLabelKo": "압도적인 압박",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She felt the overwhelming pressure of deadlines closing in from every direction."
+  },
+  "step2": {
+    "story": "During finals week, Marcus faced overwhelming pressure to perform well on every exam. He barely slept, surviving on coffee and sheer determination. Despite the stress, he pushed through and earned the grades he needed.",
+    "topicTag": "academic stress",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The night before the product launch, the entire team felt the overwhelming pressure of months of work coming down to a single moment. Every bug fix, every design tweak, every late night had led to this. The CEO paced the office floor, refreshing the staging server repeatedly. Engineers whispered to each other, double-checking deployment scripts. When the launch button was finally pressed and the site went live without a hitch, the room erupted in exhausted cheers — the overwhelming pressure that had gripped them all suddenly dissolved into relief.",
+    "topicTag": "product launch",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "감당하기 어려울 정도로 강렬하고 무거운 심리적·상황적 압박을 뜻한다.",
+    "realUsageKo": "업무 마감, 시험, 경쟁 등 외부 기대나 상황이 한꺼번에 몰려 감당하기 힘든 스트레스를 표현할 때 쓴다. 주로 'feel', 'face', 'cope with' 등의 동사와 함께 사용된다.",
+    "etymologyKo": "'overwhelming'은 고대 영어 'oferwhelm(덮어 잠기게 하다)'에서 유래해 '완전히 압도하다'는 의미가 됐고, 'pressure'는 라틴어 'pressura(누름, 억압)'에서 비롯됐다.",
+    "nuanceKo": "단순히 '힘들다'는 수준을 넘어, 정신적으로 거의 한계에 달했음을 강조하는 표현이다. 감정적 무게감과 긴박함을 동시에 전달한다.",
+    "shortExampleEn": "Athletes often talk about the overwhelming pressure they feel before a championship game.",
+    "shortExampleKo": "운동선수들은 챔피언십 경기 전에 느끼는 압도적인 압박에 대해 자주 이야기한다."
+  }
+}

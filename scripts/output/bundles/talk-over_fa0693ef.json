@@ -1,0 +1,30 @@
+{
+  "id": "talk-over_fa0693ef",
+  "expression": "talk over",
+  "selectionMeta": {
+    "selectedPhrase": "talk over",
+    "selectedSenseLabelKo": "논의하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making any final decisions, the partners sat down to talk over the terms of the new contract."
+  },
+  "step2": {
+    "story": "Maya and her roommate had been avoiding a difficult topic for weeks. One evening, they finally sat down to talk it over and clear the air. By the end of the night, they felt much closer.",
+    "topicTag": "conflict resolution",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The project had stalled for days because the two lead engineers couldn't agree on the architecture. Their manager suggested they talk it over in a dedicated meeting rather than exchanging tense emails. They reserved a conference room, laid out their concerns on a whiteboard, and spent an hour working through every disagreement. By the time they left the room, they had reached a consensus and drafted a shared plan. The atmosphere in the office shifted noticeably — the tension that had been building finally lifted. Sometimes all it takes is sitting down and talking things over face to face.",
+    "topicTag": "workplace collaboration",
+    "moodTag": "constructive"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 주제나 문제를 상대방과 함께 말로 검토하다.",
+    "realUsageKo": "결정을 내리기 전에 관계된 사람들과 함께 해당 사안을 충분히 논의하거나 협의할 때 사용한다. 단순한 대화보다 좀 더 목적 지향적인 토론의 뉘앙스가 있다.",
+    "etymologyKo": "'talk'(말하다)와 방향·완료를 나타내는 부사 'over'가 결합한 구동사로, 어떤 사안을 처음부터 끝까지 빠짐없이 살펴보며 이야기한다는 의미에서 비롯됐다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 갈등이나 중요한 결정 앞에서 신중하게 의논한다는 차분하고 협력적인 톤을 담고 있다.",
+    "shortExampleEn": "Let's talk over the schedule before the meeting starts.",
+    "shortExampleKo": "회의가 시작되기 전에 일정을 먼저 논의합시다."
+  }
+}

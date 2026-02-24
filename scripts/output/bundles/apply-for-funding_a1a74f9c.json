@@ -1,0 +1,30 @@
+{
+  "id": "apply-for-funding_a1a74f9c",
+  "expression": "apply for funding",
+  "selectionMeta": {
+    "selectedPhrase": "apply for funding",
+    "selectedSenseLabelKo": "자금을 신청하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup decided to apply for funding from a government innovation grant to accelerate its product development."
+  },
+  "step2": {
+    "story": "After months of building their prototype, the two co-founders knew it was time to apply for funding. They spent long nights preparing their pitch deck and financial projections. When the email arrived confirming their application had been received, they finally allowed themselves a moment of cautious optimism.",
+    "topicTag": "startup growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maria had poured two years of her life into her social enterprise, connecting rural farmers with urban markets. The operation was promising, but without capital she couldn't scale. Her mentor suggested she apply for funding through a regional development program, so she gathered her impact reports and financial statements. The application process was grueling — long forms, site visits, and panel interviews — but Maria pushed through each stage. On a rainy Thursday morning, she received the news: her application had been approved. With the new funding secured, she could finally hire the logistics team she had been dreaming about.",
+    "topicTag": "social enterprise",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "특정 목적을 위한 자금을 공식적으로 요청하거나 신청하다.",
+    "realUsageKo": "주로 스타트업, 비영리단체, 연구자 등이 투자자, 정부기관, 재단 등에 자금 지원을 공식 절차에 따라 신청할 때 사용한다. 단순한 부탁이 아니라 서류 제출 등의 절차를 수반하는 공식 신청을 의미한다.",
+    "etymologyKo": "'apply'는 라틴어 'applicare(붙이다, 향하다)'에서 유래하여 '지원하다, 신청하다'는 뜻으로 발전했고, 'funding'은 'fund(기금)'의 동명사형으로 재정 지원을 의미한다.",
+    "nuanceKo": "격식체 표현으로 비즈니스·학술·공공 분야에서 자주 쓰이며, 단순한 요청보다 공식성과 절차적 엄격함이 내포되어 있다. 'seek funding'보다 더 구체적인 행정적 신청 행위를 강조한다.",
+    "shortExampleEn": "We plan to apply for funding from the EU innovation program next quarter.",
+    "shortExampleKo": "우리는 다음 분기에 EU 혁신 프로그램에 자금을 신청할 계획입니다."
+  }
+}

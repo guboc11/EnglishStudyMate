@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-journal_c324d7ef",
+  "expression": "keep a journal",
+  "selectionMeta": {
+    "selectedPhrase": "keep a journal",
+    "selectedSenseLabelKo": "일기를 쓰다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to keep a journal to track her thoughts and feelings during her first year abroad."
+  },
+  "step2": {
+    "story": "After a tough week at school, Tom started to keep a journal every night before bed. Writing down his worries helped him feel calmer and more in control.",
+    "topicTag": "self-reflection",
+    "moodTag": "peaceful"
+  },
+  "step3": {
+    "story": "Maya had always struggled to process her emotions, so her therapist suggested she keep a journal. At first, she found it awkward to write about her day, filling only a few lines before giving up. But over time, she began to look forward to those quiet evening moments with her notebook. She wrote about small victories, frustrating moments, and dreams she rarely shared with anyone else. By the end of the year, she had filled three notebooks and felt a clarity about herself she had never known before.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "일기장을 계속 써 나가다, 즉 일기를 꾸준히 기록하는 행위를 뜻합니다.",
+    "realUsageKo": "자신의 생각, 감정, 하루 일과 등을 노트나 일기장에 정기적으로 기록하는 습관을 가리킬 때 사용합니다. 자기 성찰이나 감정 관리 맥락에서 자주 등장합니다.",
+    "etymologyKo": "'journal'은 라틴어 'diurnalis(하루의)'에서 유래한 프랑스어 'journal'에서 왔으며, 원래는 매일의 기록을 의미했습니다. 'keep'은 '유지하다·계속하다'는 뜻으로 결합되어 꾸준한 기록 행위를 나타냅니다.",
+    "nuanceKo": "'diary'보다 조금 더 격식 있고 성인스러운 느낌을 줍니다. 단순한 일상 기록뿐 아니라 심층적인 자기 성찰이나 목표 관리를 위한 기록에도 자주 쓰입니다.",
+    "shortExampleEn": "I keep a journal to remember the little moments that make life special.",
+    "shortExampleKo": "나는 삶을 특별하게 만드는 작은 순간들을 기억하려고 일기를 씁니다."
+  }
+}

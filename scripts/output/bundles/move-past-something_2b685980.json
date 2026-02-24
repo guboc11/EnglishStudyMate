@@ -1,0 +1,30 @@
+{
+  "id": "move-past-something_2b685980",
+  "expression": "move past something",
+  "selectionMeta": {
+    "selectedPhrase": "move past something",
+    "selectedSenseLabelKo": "~을 극복하고 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It took her years to move past the failure of her first business, but the experience ultimately made her a stronger entrepreneur."
+  },
+  "step2": {
+    "story": "After the breakup, Daniel struggled to move past the hurt and focus on his own goals. His friends encouraged him to channel his energy into new hobbies and relationships. Slowly, he began to rediscover himself and found joy again.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For months after losing her job, Sara found it impossible to move past the shame and self-doubt that haunted her daily routine. She would replay her last performance review over and over, searching for answers she could never quite find. Her therapist reminded her that setbacks were not permanent and that clinging to the past only delayed her future. Eventually, Sara started applying for new positions and took a course to sharpen her skills. Each small win rebuilt her confidence until the old wound no longer stung. By the end of the year, she had landed a role she truly loved and finally felt free.",
+    "topicTag": "career resilience",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 지나쳐 앞으로 나아가다.",
+    "realUsageKo": "주로 감정적 상처, 실패, 갈등 등 힘든 경험을 극복하고 삶을 계속 살아가는 것을 의미한다. '~에서 벗어나 앞으로 나아가다'라는 뉘앙스로 자주 쓰인다.",
+    "etymologyKo": "'move'(이동하다)와 방향·통과를 나타내는 전치사 'past'가 결합된 구동사로, 어떤 지점을 통과해 지나간다는 물리적 이미지에서 심리적·감정적 극복의 의미로 확장되었다.",
+    "nuanceKo": "단순히 잊는 것이 아니라 경험을 인정하면서도 그것에 머무르지 않고 성장해 나간다는 긍정적이고 능동적인 뉘앙스를 담고 있다. 'get over'보다 점진적이고 의지적인 과정을 강조하는 경향이 있다.",
+    "shortExampleEn": "He needed time to move past the argument and repair his friendship.",
+    "shortExampleKo": "그는 그 다툼을 극복하고 우정을 회복하는 데 시간이 필요했다."
+  }
+}

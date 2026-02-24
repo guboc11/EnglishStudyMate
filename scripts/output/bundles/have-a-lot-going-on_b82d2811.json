@@ -1,0 +1,30 @@
+{
+  "id": "have-a-lot-going-on_b82d2811",
+  "expression": "have a lot going on",
+  "selectionMeta": {
+    "selectedPhrase": "have a lot going on",
+    "selectedSenseLabelKo": "할 일이 많다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Sorry I haven't replied sooner — I have a lot going on at work this week."
+  },
+  "step2": {
+    "story": "Maya apologized for missing the team lunch. 'I have a lot going on right now — a deadline, a doctor's appointment, and my sister's visit all in the same week,' she explained. Her colleagues nodded, understanding completely.",
+    "topicTag": "busy schedule",
+    "moodTag": "apologetic"
+  },
+  "step3": {
+    "story": "Daniel stared at his calendar and sighed. Between the project launch, his parents' anniversary dinner, and the apartment move, he definitely had a lot going on. He made a cup of coffee and sat down to prioritize. One thing at a time, he reminded himself — panic wouldn't help. By the end of the hour, he had a clear list and felt surprisingly calm. Having a lot going on was manageable as long as he stayed organized.",
+    "topicTag": "time management",
+    "moodTag": "overwhelmed but coping"
+  },
+  "meaning": {
+    "literalMeaningKo": "많은 일들이 진행되고 있다",
+    "realUsageKo": "현재 처리해야 할 일이나 신경 써야 할 상황이 많다는 뜻으로, 바쁘거나 여러 일에 치여 있을 때 사용한다. 사과나 설명의 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'have ~ going on'은 '~이 진행 중이다'라는 구조로, 'a lot'이 목적어로 쓰여 '많은 것들이 진행 중임'을 나타낸다. 현재진행의 느낌을 주는 일상 구어 표현이다.",
+    "nuanceKo": "단순히 바쁘다는 뜻 외에도, 개인적인 어려움이나 복잡한 상황을 완곡하게 표현할 때도 사용된다. 친근하고 캐주얼한 어조이며, 공식적인 자리보다는 일상 대화에 적합하다.",
+    "shortExampleEn": "She seems distracted lately — she has a lot going on at home.",
+    "shortExampleKo": "그녀가 요즘 산만해 보여 — 집에서 처리할 일이 많은 것 같아."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tread-carefully_1fe3bacc",
+  "expression": "tread carefully",
+  "selectionMeta": {
+    "selectedPhrase": "tread carefully",
+    "selectedSenseLabelKo": "조심스럽게 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When discussing salary expectations with a new employer, it's wise to tread carefully so you don't undervalue yourself or scare them off."
+  },
+  "step2": {
+    "story": "Maya knew she had to tread carefully when she brought up the budget cuts at the team meeting. One wrong word could spark panic among her colleagues. She chose her phrases deliberately, watching every reaction before moving on.",
+    "topicTag": "workplace communication",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "Daniel had been warned that his new manager was known for her short temper, so he decided to tread carefully from his very first day. He observed how others phrased their questions and kept his tone measured and respectful in every interaction. When a project deadline slipped, he prepared his update thoroughly before approaching her office. He acknowledged the delay without making excuses, then laid out a clear recovery plan. She listened in silence, then nodded slowly — a rare sign of approval. Treading carefully had bought him the credibility he needed to earn her trust.",
+    "topicTag": "new job",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '조심스럽게 발을 내딛다'라는 뜻이다.",
+    "realUsageKo": "실제로는 민감하거나 위험한 상황에서 말이나 행동을 신중하게 하라는 의미로 쓰인다. 잘못 행동하면 관계가 틀어지거나 문제가 생길 수 있을 때 주로 사용된다.",
+    "etymologyKo": "'tread'는 고대 영어 'tredan(발로 밟다)'에서 유래했으며, 'carefully'와 결합해 한 걸음 한 걸음 조심하며 나아간다는 이미지를 형성했다.",
+    "nuanceKo": "상대방을 자극하거나 실수를 범할 위험이 있는 상황에서 쓰이며, 경고 또는 조언의 뉘앙스를 담는 경우가 많다. 너무 신중해서 소극적이라는 뉘앙스보다는 상황을 읽는 지혜를 강조하는 편이다.",
+    "shortExampleEn": "You need to tread carefully when dealing with someone who's just lost their job.",
+    "shortExampleKo": "방금 직장을 잃은 사람을 대할 때는 조심스럽게 나아가야 한다."
+  }
+}

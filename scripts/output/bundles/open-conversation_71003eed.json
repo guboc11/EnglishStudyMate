@@ -1,0 +1,30 @@
+{
+  "id": "open-conversation_71003eed",
+  "expression": "open conversation",
+  "selectionMeta": {
+    "selectedPhrase": "open conversation",
+    "selectedSenseLabelKo": "열린 대화",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Having an open conversation with her manager helped Sarah finally address the team's recurring communication issues."
+  },
+  "step2": {
+    "story": "After weeks of tension, Marcus asked his colleague for an open conversation about their working styles. They sat down over coffee and spoke honestly without judgment. By the end, they had a clear plan to collaborate more effectively.",
+    "topicTag": "workplace relationships",
+    "moodTag": "constructive"
+  },
+  "step3": {
+    "story": "The school counselor noticed that several students seemed withdrawn and disengaged, so she organized a small group session to have an open conversation about stress and expectations. At first, the students were hesitant, afraid their words might be used against them. But as the counselor shared her own experiences with pressure, the room began to relax. One by one, the students opened up about their fears and struggles. The counselor listened without interrupting, asking gentle questions to keep the dialogue going. By the time the session ended, everyone agreed it was one of the most valuable hours they had spent at school.",
+    "topicTag": "student wellbeing",
+    "moodTag": "vulnerable yet hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "거리낌 없이 솔직하게 나누는 대화.",
+    "realUsageKo": "서로 판단하거나 숨기지 않고 솔직하게 의견과 감정을 공유하는 대화를 가리킬 때 쓴다. 직장, 가정, 학교 등 다양한 상황에서 신뢰를 쌓거나 문제를 해결하기 위해 제안하는 표현으로 자주 사용된다.",
+    "etymologyKo": "'open'은 고대 영어 'openian'에서 유래해 '막히지 않은, 접근 가능한'이라는 의미를 지닌다. 'conversation'은 라틴어 'conversatio(함께 어울림)'에서 왔으며, 두 단어가 결합해 '어떤 주제든 자유롭게 나눌 수 있는 대화'를 뜻하게 되었다.",
+    "nuanceKo": "단순한 대화(talk)보다 더 진지하고 상호 존중의 뉘앙스를 가지며, 상대방을 비난하지 않고 서로의 이야기를 경청하겠다는 의지를 암시한다. 공식적인 자리보다는 인간적인 연결을 강조하는 상황에서 많이 쓰인다.",
+    "shortExampleEn": "We need to have an open conversation about how we share responsibilities at home.",
+    "shortExampleKo": "우리 집에서 역할 분담을 어떻게 할지 솔직하게 대화를 나눠야 해."
+  }
+}

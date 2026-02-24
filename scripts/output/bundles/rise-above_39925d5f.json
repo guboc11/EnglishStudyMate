@@ -1,0 +1,30 @@
+{
+  "id": "rise-above_39925d5f",
+  "expression": "rise above",
+  "selectionMeta": {
+    "selectedPhrase": "rise above",
+    "selectedSenseLabelKo": "극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the harsh criticism from her peers, she managed to rise above the negativity and stay focused on her goals."
+  },
+  "step2": {
+    "story": "After losing his job unexpectedly, Marcus felt defeated and uncertain about the future. But he chose to rise above his despair, spending each day developing new skills and applying for better opportunities. Within three months, he landed a position that surpassed everything he had before.",
+    "topicTag": "career setback",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "The championship game had barely started when Elena twisted her ankle on the wet court. The pain shot through her leg, and she could hear gasps from the crowd. Her coach rushed over, offering her a way out, but Elena shook her head. She had trained for this moment for two years, and she refused to let an injury define her. Gritting her teeth, she chose to rise above the pain and play through the final quarter. When the buzzer sounded and her team had won, Elena lifted the trophy with trembling arms, tears streaming down her face — not from the pain, but from the sheer relief of having refused to give up.",
+    "topicTag": "sports perseverance",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적으로 무언가의 위로 올라가다.",
+    "realUsageKo": "어려운 상황, 감정적 고통, 외부의 비판이나 역경을 극복하고 그보다 더 나은 수준으로 나아갈 때 사용한다. 주로 인내와 성숙함을 강조하는 맥락에서 쓰인다.",
+    "etymologyKo": "'rise(올라가다)'와 'above(위로)'의 결합으로, 무언가를 넘어 더 높은 곳으로 이동한다는 물리적 이미지에서 비롯된 표현이다.",
+    "nuanceKo": "단순히 문제를 피하는 것이 아니라, 그것을 직면하고도 흔들리지 않는 품격과 의지를 내포한다. 격식체와 비격식체 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "He learned to rise above the gossip and focus on his work.",
+    "shortExampleKo": "그는 험담을 극복하고 자신의 일에 집중하는 법을 배웠다."
+  }
+}

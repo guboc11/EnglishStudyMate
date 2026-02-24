@@ -1,0 +1,30 @@
+{
+  "id": "throw-your-hat-in-the-ring_475bbbf9",
+  "expression": "throw your hat in the ring",
+  "selectionMeta": {
+    "selectedPhrase": "throw your hat in the ring",
+    "selectedSenseLabelKo": "도전에 나서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of watching from the sidelines, she finally decided to throw her hat in the ring and run for city council."
+  },
+  "step2": {
+    "story": "The team had been struggling without a leader for months. When no one else stepped up, Marcus took a deep breath and threw his hat in the ring, announcing he'd take on the manager role. His colleagues were surprised but relieved someone had finally stepped forward.",
+    "topicTag": "leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The startup competition had attracted some of the brightest minds in the industry, and everyone assumed the big names would dominate. But Nina, a self-taught developer from a small town, decided to throw her hat in the ring anyway. She had spent six months building her app in her spare bedroom, fueled by coffee and stubborn belief in her idea. On the day of the pitch, she stood before a panel of seasoned investors, her voice steady despite her nerves. When the results were announced, Nina had placed second — a result that caught everyone off guard, including herself. She walked out of the auditorium knowing that simply daring to compete had already changed the course of her life.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "링 안에 모자를 던지다 — 권투 경기에서 참가 의사를 표시하던 전통적인 행동을 그대로 묘사한 표현이다.",
+    "realUsageKo": "어떤 경쟁이나 도전에 공식적으로 참가를 선언할 때 사용한다. 선거 출마, 승진 지원, 공개 경쟁 참여 등 용기가 필요한 상황에서 자주 쓰인다.",
+    "etymologyKo": "19세기 권투에서 유래했다. 당시 도전자가 링 안에 모자를 던지는 것이 경기 참가 의사를 알리는 방식이었으며, 이 관행이 일반적인 '도전 선언'의 의미로 굳어졌다.",
+    "nuanceKo": "단순히 참여하는 것이 아니라 용기를 내어 공개적으로 의사를 밝히는 뉘앙스가 강하다. 약간의 위험 부담이나 경쟁을 감수하는 적극적인 태도를 내포한다.",
+    "shortExampleEn": "Three candidates have already thrown their hats in the ring for the director position.",
+    "shortExampleKo": "이미 세 명의 후보가 이사직에 도전 의사를 밝혔다."
+  }
+}

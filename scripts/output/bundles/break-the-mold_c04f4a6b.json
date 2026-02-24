@@ -1,0 +1,30 @@
+{
+  "id": "break-the-mold_c04f4a6b",
+  "expression": "break the mold",
+  "selectionMeta": {
+    "selectedPhrase": "break the mold",
+    "selectedSenseLabelKo": "틀을 깨다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to break the mold and launch her own business instead of following the traditional career path her family expected."
+  },
+  "step2": {
+    "story": "Everyone in the small town painted their houses the same shade of white, but Marcus wanted to break the mold. He painted his home a bold cobalt blue, and soon his neighbors started adding their own splashes of color too.",
+    "topicTag": "individuality",
+    "moodTag": "bold"
+  },
+  "step3": {
+    "story": "For decades, the fashion house had produced the same classic silhouettes, and sales had grown predictable. When young designer Priya joined the team, she was determined to break the mold. Her first collection mixed traditional craftsmanship with unexpected street-art influences, shocking the critics at first. But by the end of fashion week, buyers were lining up and the brand was on the front pages of every major magazine. Priya had proven that sometimes the boldest move is the one no one saw coming.",
+    "topicTag": "creative innovation",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적인 틀(주조 틀)을 부순다는 뜻에서 유래했습니다.",
+    "realUsageKo": "기존의 관습이나 방식에서 벗어나 완전히 새롭고 독창적인 방법을 시도할 때 사용합니다. 주로 창의성, 혁신, 또는 개성 표현의 맥락에서 씁니다.",
+    "etymologyKo": "주조(casting) 공정에서 같은 틀(mold)로 동일한 제품을 반복 생산하는 데서 유래했으며, 그 틀을 깬다는 것은 획일적인 패턴을 탈피한다는 의미로 발전했습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 용기 있는 변화나 선구적인 시도를 칭찬할 때 자주 쓰입니다. 다소 격식 없는 표현으로 일상 대화와 글 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "His unconventional teaching style truly broke the mold.",
+    "shortExampleKo": "그의 파격적인 교수법은 정말 틀을 깨는 것이었다."
+  }
+}

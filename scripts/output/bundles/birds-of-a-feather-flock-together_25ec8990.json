@@ -1,0 +1,30 @@
+{
+  "id": "birds-of-a-feather-flock-together_25ec8990",
+  "expression": "birds of a feather flock together",
+  "selectionMeta": {
+    "selectedPhrase": "birds of a feather flock together",
+    "selectedSenseLabelKo": "유유상종",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It's no surprise that all three of them became close friends — birds of a feather flock together, and they all share the same passion for late-night coding sessions and obscure sci-fi films."
+  },
+  "step2": {
+    "story": "When Mia joined the hiking club, she quickly bonded with a small group who preferred remote trails over crowded parks. They spent every weekend exploring unmarked paths and sharing homemade trail mix. Birds of a feather flock together, and Mia finally felt like she had found her people.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Daniel had always felt out of place at his previous job, where most colleagues cared only about their bonuses and leaving on time. When he transferred to a small nonprofit, everything changed. The team stayed late not because they had to, but because they genuinely believed in the work. They volunteered on weekends, swapped books, and challenged each other to grow. Birds of a feather flock together, Daniel realized — he had landed among people who shared his values. For the first time in years, he left the office each evening feeling energized rather than drained.",
+    "topicTag": "workplace belonging",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "같은 깃털을 가진 새들은 함께 무리를 짓는다.",
+    "realUsageKo": "비슷한 성격, 가치관, 관심사를 가진 사람들은 자연스럽게 서로 어울리게 된다는 뜻으로, 주로 특정 집단이 형성되는 이유를 설명할 때 씁니다.",
+    "etymologyKo": "16세기 영어 문헌에 처음 등장한 표현으로, 같은 종류의 새들이 무리를 이루는 자연 현상에서 유래했습니다.",
+    "nuanceKo": "중립적 또는 약간 관찰적인 어조로 쓰이며, 상황에 따라 긍정적(취미 공동체)으로도 부정적(나쁜 친구들끼리 어울림)으로도 해석될 수 있습니다.",
+    "shortExampleEn": "All the entrepreneurs at the conference immediately gravitated toward each other — birds of a feather flock together.",
+    "shortExampleKo": "컨퍼런스의 창업가들은 서로에게 자연스럽게 이끌렸다 — 유유상종이니까."
+  }
+}

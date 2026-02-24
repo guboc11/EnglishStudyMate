@@ -1,0 +1,30 @@
+{
+  "id": "look-on_b9bae4c1",
+  "expression": "look on",
+  "selectionMeta": {
+    "selectedPhrase": "look on",
+    "selectedSenseLabelKo": "바라보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She could only look on helplessly as the argument between her friends grew more heated."
+  },
+  "step2": {
+    "story": "The crowd gathered around the street performer, and Daniel stood at the edge, content to look on while others tossed coins into the hat. There was something peaceful about watching without needing to be part of the action.",
+    "topicTag": "street performance",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "When the two senior engineers debated the best approach for the new system, Maya chose to look on from her seat rather than jump in. She was new to the team and still learning the unspoken dynamics of the room. As the discussion grew louder, she noticed how each person held their ground, and she absorbed every word like a quiet observer. By the time the meeting ended, she had learned more by looking on than she ever could have by speaking.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "직접 개입하지 않고 옆에서 지켜보다.",
+    "realUsageKo": "어떤 상황이나 사건이 벌어지는 동안 참여하지 않고 방관자로서 바라볼 때 사용한다. 때로는 무력감이나 의도적인 관찰의 뉘앙스를 함께 담는다.",
+    "etymologyKo": "'look'(보다)과 방향·지속을 나타내는 부사 'on'이 결합한 구동사로, 오랫동안 '계속 바라보다' 혹은 '(현장에서) 지켜보다'라는 의미로 쓰여 왔다.",
+    "nuanceKo": "단순히 보는 행위보다 '가만히 지켜만 본다'는 수동적 태도를 강조한다. 안타까움, 무력감, 또는 의도적 중립의 뉘앙스가 포함될 수 있다.",
+    "shortExampleEn": "He looked on in silence as they packed up his old office.",
+    "shortExampleKo": "그는 자신의 옛 사무실을 정리하는 모습을 말없이 바라봤다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pull-apart_540dcdba",
+  "expression": "pull apart",
+  "selectionMeta": {
+    "selectedPhrase": "pull apart",
+    "selectedSenseLabelKo": "분리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She carefully pulled apart the tangled wires to find the broken connection."
+  },
+  "step2": {
+    "story": "The old lamp had stopped working, so Marcus sat at the kitchen table and began to pull apart its base. Inside, he found a loose wire that had come undone over the years. A quick fix later, the lamp glowed warmly again.",
+    "topicTag": "home repair",
+    "moodTag": "patient"
+  },
+  "step3": {
+    "story": "During the science lab, the teacher asked students to pull apart the flower into its individual components and label each part. At first, Lily hesitated — the bloom looked too beautiful to take apart. But as she gently pulled apart each petal and laid them side by side, she began to see the structure she had only read about in textbooks. The stamen, pistil, and sepals suddenly made sense when she could hold them in her hands. By the end of class, what had once seemed like destruction felt more like discovery.",
+    "topicTag": "science education",
+    "moodTag": "curious"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 잡아당겨 분리하거나 떼어내다.",
+    "realUsageKo": "물리적으로 두 개 이상의 부분을 분리할 때 사용하며, 기계·물건·구조물 등을 해체하거나 엉킨 것을 풀어내는 상황에 자주 쓰인다.",
+    "etymologyKo": "'pull'(당기다)과 방향·결과를 나타내는 부사 'apart'(따로, 분리되어)가 결합한 구동사로, 문자 그대로 '당겨서 떨어지게 하다'는 의미에서 유래했다.",
+    "nuanceKo": "단순히 나누는 것보다 약간의 힘이나 노력이 필요한 분리를 암시하며, 중립적인 어조로 쓰이지만 맥락에 따라 분해·해체의 뉘앙스를 띨 수 있다.",
+    "shortExampleEn": "He pulled apart the bread and shared it with his sister.",
+    "shortExampleKo": "그는 빵을 둘로 나눠 여동생과 함께 먹었다."
+  }
+}

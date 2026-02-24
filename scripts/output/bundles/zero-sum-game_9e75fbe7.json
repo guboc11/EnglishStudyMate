@@ -1,0 +1,30 @@
+{
+  "id": "zero-sum-game_9e75fbe7",
+  "expression": "zero sum game",
+  "selectionMeta": {
+    "selectedPhrase": "zero sum game",
+    "selectedSenseLabelKo": "제로섬 게임",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Many politicians treat international trade as a zero sum game, believing that any benefit to a foreign country must come at the expense of their own."
+  },
+  "step2": {
+    "story": "The two tech giants viewed every contract as a zero sum game, convinced that any client one won was a client the other had lost. Their bitter rivalry consumed enormous resources on both sides without expanding the market. A consultant finally pointed out that their combined innovations could create an entirely new industry worth far more than what they were fighting over.",
+    "topicTag": "business rivalry",
+    "moodTag": "analytical"
+  },
+  "step3": {
+    "story": "Marcus had spent fifteen years in finance treating every deal as a zero sum game — if he won, someone else had to lose, and that was exactly how he liked it. He built a reputation for ruthless negotiation, squeezing every concession out of counterparts and leaving little goodwill behind. But when his firm lost a major client to a smaller competitor known for collaborative partnerships, his boss asked him to figure out why. Researching the rival firm, Marcus was struck by how they structured deals so both sides walked away feeling they had gained something. He began to realize that the zero sum game mentality had been costing him opportunities he never even knew existed. Slowly and reluctantly, he started approaching negotiations differently — and was surprised to find that expanding the pie together often left him with a larger slice than before.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "한쪽의 이익이 반드시 다른 쪽의 손실과 같아 전체 합이 항상 0이 되는 상황을 의미합니다.",
+    "realUsageKo": "경쟁에서 한쪽이 얻으면 다른 쪽이 반드시 잃는 구조를 설명할 때 사용합니다. 정치, 비즈니스, 협상 등 다양한 맥락에서 쓰이며, 협력 가능성을 배제하는 편협한 사고방식을 비판할 때도 씁니다.",
+    "etymologyKo": "게임 이론(game theory)에서 유래한 용어로, 모든 참가자의 이득과 손실의 합이 정확히 0이 되는 게임을 지칭합니다. 수학자 존 폰 노이만(John von Neumann)이 1940년대에 체계화한 개념입니다.",
+    "nuanceKo": "제로섬 게임은 흔히 경쟁적이고 적대적인 시각을 내포합니다. 특히 실제로는 협력을 통해 모두가 이익을 볼 수 있는 상황에서 이 표현을 쓰면, 좁은 시각이나 부정적인 태도를 비판하는 뉘앙스가 담깁니다.",
+    "shortExampleEn": "Climate change cannot be solved if countries keep treating it as a zero sum game where economic growth and environmental protection are incompatible.",
+    "shortExampleKo": "각국이 경제 성장과 환경 보호를 양립 불가능한 제로섬 게임으로 여기는 한, 기후 변화 문제는 해결될 수 없습니다."
+  }
+}

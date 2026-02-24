@@ -1,0 +1,30 @@
+{
+  "id": "watch-a-movie_9458256d",
+  "expression": "watch a movie",
+  "selectionMeta": {
+    "selectedPhrase": "watch a movie",
+    "selectedSenseLabelKo": "영화를 보다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After a long week at work, they decided to stay home and watch a movie together."
+  },
+  "step2": {
+    "story": "It was raining outside, so Emma suggested they watch a movie instead of going out. She picked a comedy she had been saving for the right moment, and they laughed together until the credits rolled.",
+    "topicTag": "weekend relaxation",
+    "moodTag": "cozy"
+  },
+  "step3": {
+    "story": "Daniel had been looking forward to Friday all week. As soon as he got home, he changed into comfortable clothes, made a big bowl of popcorn, and settled onto the couch to watch a movie he had been meaning to see for months. The opening scenes immediately pulled him in, and he forgot about the deadlines and meetings that had been weighing on him. By the time the credits rolled, he felt completely refreshed, grateful for the simple pleasure of a good film on a quiet evening.",
+    "topicTag": "daily routine",
+    "moodTag": "relaxed"
+  },
+  "meaning": {
+    "literalMeaningKo": "영화를 시청하다, 즉 영화관이나 집에서 영화를 보는 행위를 가리킨다.",
+    "realUsageKo": "일상적인 여가 활동을 표현할 때 가장 자주 쓰이는 구문으로, 혼자 또는 다른 사람과 함께 영화를 감상하는 상황에 두루 사용된다.",
+    "etymologyKo": "'watch'는 고대 영어 'wæccan(깨어 있다, 지켜보다)'에서 유래했으며, 단순히 눈으로 보는 것(see)보다 집중해서 바라보는 뉘앙스를 담고 있다.",
+    "nuanceKo": "'see a movie'가 영화관에서 보는 경험을 강조하는 반면, 'watch a movie'는 장소에 무관하게 영화를 감상하는 행위 자체에 초점을 맞추며, 집에서 보는 경우에 더 자연스럽게 쓰인다.",
+    "shortExampleEn": "Do you want to watch a movie tonight?",
+    "shortExampleKo": "오늘 밤 영화 볼래?"
+  }
+}

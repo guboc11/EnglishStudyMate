@@ -1,0 +1,30 @@
+{
+  "id": "launch-a-product_05a51b54",
+  "expression": "launch a product",
+  "selectionMeta": {
+    "selectedPhrase": "launch a product",
+    "selectedSenseLabelKo": "제품을 출시하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "The startup team worked through the night to launch a product that would change how people manage their daily tasks."
+  },
+  "step2": {
+    "story": "After months of development, Maya's team was finally ready to launch a product they believed in. The morning of the release, the office buzzed with nervous energy as everyone refreshed the analytics dashboard. By noon, thousands of users had signed up, and Maya felt a wave of pride wash over her.",
+    "topicTag": "product launch",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "Daniel had spent two years building his app in his spare bedroom, fueled by coffee and determination. When the day came to launch a product he had poured his heart into, he sat at his desk with shaking hands. He pressed the button at midnight, and within minutes, notifications started flooding in. By morning, tech blogs were writing about it, and his inbox was full of messages from early adopters. He called his co-founder, barely able to speak, realizing their vision had finally become real. It was not just a release — it was proof that the sleepless nights had all been worth it.",
+    "topicTag": "startup journey",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "제품을 세상에 내보내다, 즉 정식으로 출시하다.",
+    "realUsageKo": "새로운 상품이나 서비스를 시장에 처음 공개하거나 판매를 시작할 때 사용한다. 스타트업, 테크 업계, 마케팅 분야에서 특히 자주 쓰인다.",
+    "etymologyKo": "'launch'는 원래 배를 물에 띄운다는 의미의 고대 프랑스어 'lanchier'에서 유래했으며, 이후 '새로운 것을 세상에 내보내다'는 의미로 확장되었다.",
+    "nuanceKo": "단순히 '팔기 시작하다'보다 공식적인 공개와 준비된 출시라는 뉘앙스가 강하다. 이벤트성·전략적 의미가 내포되어 있어 발표나 캠페인을 동반하는 경우가 많다.",
+    "shortExampleEn": "We plan to launch a product at the annual tech conference next month.",
+    "shortExampleKo": "우리는 다음 달 연례 기술 컨퍼런스에서 제품을 출시할 계획이다."
+  }
+}

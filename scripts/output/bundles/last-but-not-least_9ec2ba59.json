@@ -1,0 +1,30 @@
+{
+  "id": "last-but-not-least_9ec2ba59",
+  "expression": "last but not least",
+  "selectionMeta": {
+    "selectedPhrase": "last but not least",
+    "selectedSenseLabelKo": "마지막이지만 중요한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Last but not least, I'd like to thank my parents for their unwavering support throughout this journey."
+  },
+  "step2": {
+    "story": "The manager finished the team meeting by recognizing each employee's contributions one by one. Last but not least, she praised the quiet analyst who had worked overtime for weeks without complaint. The room erupted in applause, and the analyst finally smiled.",
+    "topicTag": "workplace recognition",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "At the school's annual awards ceremony, the principal took the stage to announce the year's top achievers. She honored the athletes, the artists, and the academic stars, each greeted with cheers from the crowd. Then she paused and said, 'Last but not least, I want to recognize a student who showed up every single day with a smile and helped others without ever being asked.' A shy girl in the back row looked up in surprise as the entire auditorium turned toward her. Tears filled her eyes as her classmates rose to their feet. That moment reminded everyone that quiet dedication deserves the loudest applause.",
+    "topicTag": "school awards",
+    "moodTag": "heartfelt"
+  },
+  "meaning": {
+    "literalMeaningKo": "순서는 마지막이지만 결코 덜 중요하지 않다는 뜻이다.",
+    "realUsageKo": "여러 항목이나 사람을 나열할 때 마지막으로 언급되는 것이 그 순서 때문에 중요성이 낮은 것이 아님을 강조할 때 쓴다. 연설, 발표, 감사 인사 등에서 자주 사용된다.",
+    "etymologyKo": "16세기 영어에서 등장한 표현으로, 리스트의 마지막 항목이 앞선 항목들보다 못하지 않음을 청중에게 알리기 위해 사용되기 시작했다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 마지막 항목에 특별한 무게감을 부여하는 효과가 있다. 연설이나 글에서 클라이맥스처럼 활용되기도 한다.",
+    "shortExampleEn": "Last but not least, let's give a big hand to our amazing volunteers.",
+    "shortExampleKo": "마지막으로, 그러나 결코 덜 중요하지 않은, 우리의 놀라운 자원봉사자들에게 큰 박수를 보냅시다."
+  }
+}

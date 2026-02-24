@@ -1,0 +1,30 @@
+{
+  "id": "sleep-on-a-decision_28b8062b",
+  "expression": "sleep on a decision",
+  "selectionMeta": {
+    "selectedPhrase": "sleep on a decision",
+    "selectedSenseLabelKo": "결정을 서두르지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She told her manager she needed to sleep on the decision before committing to the new role."
+  },
+  "step2": {
+    "story": "Marcus received two job offers on the same day and felt overwhelmed. Rather than rushing into an answer, he chose to sleep on the decision overnight. By morning, he felt clear-headed and confident about which path to take.",
+    "topicTag": "career choice",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "After months of saving, Priya finally found an apartment she loved — but the rent was at the very edge of her budget. The landlord pressed her for an answer by end of day, and her heart was racing. She asked for just one night to sleep on the decision, explaining that she never made major commitments under pressure. That evening she reviewed her finances carefully, weighed the trade-offs, and wrote down her concerns. When she woke up the next morning, the anxiety had settled into quiet certainty, and she called the landlord with a calm, confident yes.",
+    "topicTag": "life decision",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "결정 위에서 잠을 자다, 즉 자는 동안 생각을 숙성시킨다는 뜻이다.",
+    "realUsageKo": "중요한 결정을 즉시 내리지 않고 하룻밤 동안 충분히 생각한 뒤에 결론을 내릴 때 사용한다. 특히 되돌리기 어려운 선택 앞에서 신중함을 표현하는 상황에 어울린다.",
+    "etymologyKo": "수면 중에 뇌가 낮 동안 받아들인 정보를 통합하고 정리한다는 개념에서 비롯된 표현으로, 18세기 영어에서부터 '자고 나서 결정한다'는 의미로 쓰여 왔다.",
+    "nuanceKo": "서두르지 않고 신중하게 판단하겠다는 긍정적인 뉘앙스를 가지며, 즉답을 요구하는 상대방에게 정중하게 시간을 요청할 때도 자연스럽게 사용할 수 있다.",
+    "shortExampleEn": "Can I sleep on this decision and get back to you tomorrow?",
+    "shortExampleKo": "이 결정을 하룻밤 생각해 보고 내일 답드려도 될까요?"
+  }
+}

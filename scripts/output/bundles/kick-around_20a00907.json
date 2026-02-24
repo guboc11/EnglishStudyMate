@@ -1,0 +1,30 @@
+{
+  "id": "kick-around_20a00907",
+  "expression": "kick around",
+  "selectionMeta": {
+    "selectedPhrase": "kick around",
+    "selectedSenseLabelKo": "검토하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team decided to kick around a few ideas before committing to a final strategy."
+  },
+  "step2": {
+    "story": "During the afternoon meeting, the manager asked everyone to kick around some options for the new product launch. After an hour of open discussion, they narrowed it down to two strong candidates. The relaxed format helped even the quietest members share their thoughts.",
+    "topicTag": "workplace discussion",
+    "moodTag": "collaborative"
+  },
+  "step3": {
+    "story": "It was a rainy Tuesday when Sarah called an informal brainstorming session in the break room. She wanted to kick around the idea of restructuring the onboarding process, which had frustrated new hires for months. With coffee in hand, colleagues leaned against counters and offered suggestions freely, without the pressure of a formal boardroom. Some ideas were half-formed, others surprisingly sharp, but all of them were worth exploring. By the end of the hour, the group had sketched out a rough plan that everyone felt genuinely excited about. Sometimes the best solutions come not from polished presentations, but from simply kicking around possibilities in a comfortable space.",
+    "topicTag": "process improvement",
+    "moodTag": "open-minded"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 발로 이리저리 차며 돌아다닌다는 뜻이다.",
+    "realUsageKo": "실제로는 아이디어나 안건을 결론 없이 느슨하게 논의하거나 검토할 때 사용한다. 격식 없는 자리에서 여러 가능성을 탐색하는 뉘앙스를 가진다.",
+    "etymologyKo": "공을 발로 툭툭 차며 목적 없이 노는 행위에서 유래했으며, 이것이 비유적으로 확장되어 '생각을 자유롭게 굴리다', 즉 가볍게 검토하다는 의미로 발전했다.",
+    "nuanceKo": "공식적인 분석이나 결정과는 달리, 부담 없이 이것저것 따져보는 탐색적 논의를 뜻한다. 회의보다는 잡담에 가까운 분위기에서 자주 쓰인다.",
+    "shortExampleEn": "Let's kick around some ideas over lunch.",
+    "shortExampleKo": "점심 먹으면서 몇 가지 아이디어를 검토해 보자."
+  }
+}

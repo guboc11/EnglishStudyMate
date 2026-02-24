@@ -1,0 +1,30 @@
+{
+  "id": "fall-on-deaf-ears_a44cf52f",
+  "expression": "fall on deaf ears",
+  "selectionMeta": {
+    "selectedPhrase": "fall on deaf ears",
+    "selectedSenseLabelKo": "귓등으로 듣다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His repeated warnings about the deteriorating bridge fell on deaf ears, and the town council approved no repairs."
+  },
+  "step2": {
+    "story": "Sarah spent weeks urging her roommate to cut back on spending before rent was due. Her advice fell on deaf ears, and the roommate blew through her paycheck on new clothes. By the end of the month, Sarah was left covering the full rent alone.",
+    "topicTag": "personal finance",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Marcus had been alerting the city council about the aging water pipes for three years, presenting detailed reports and cost estimates at every meeting. His warnings fell on deaf ears each time, as the council prioritized flashier projects that would resonate with voters. Then one winter night, a main pipe burst beneath the downtown district, flooding shops and homes within hours. As emergency crews scrambled through the icy streets, Marcus stood at the edge of the damage feeling a hollow sense of vindication. He had said exactly this would happen, yet no one had listened. Now the repair costs would be ten times what prevention would have required.",
+    "topicTag": "civic responsibility",
+    "moodTag": "resigned"
+  },
+  "meaning": {
+    "literalMeaningKo": "말이 귀머거리의 귀 위에 떨어지듯, 전달되지 않고 그냥 흘러내린다는 뜻이다.",
+    "realUsageKo": "충고·경고·요청이 상대방에게 완전히 무시되거나 아무런 영향도 미치지 못할 때 사용한다. 말한 사람의 좌절감이나 실망감이 내포된 표현이다.",
+    "etymologyKo": "16세기 영어 문헌부터 등장하는 표현으로, 'deaf(귀가 먹은)'와 'fall(떨어지다)'을 결합해 소리가 귀에 닿지 못하고 허공으로 사라지는 이미지를 묘사한 데서 유래했다.",
+    "nuanceKo": "단순한 무시를 넘어, 반복적으로 무시당한 상황에 더 자주 쓰이며 약간의 비난 혹은 체념의 뉘앙스가 담겨 있다.",
+    "shortExampleEn": "Her pleas for a shorter deadline fell on deaf ears.",
+    "shortExampleKo": "마감을 늘려달라는 그녀의 간청은 귓등으로도 듣지 않았다."
+  }
+}

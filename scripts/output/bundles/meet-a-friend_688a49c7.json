@@ -1,0 +1,30 @@
+{
+  "id": "meet-a-friend_688a49c7",
+  "expression": "meet a friend",
+  "selectionMeta": {
+    "selectedPhrase": "meet a friend",
+    "selectedSenseLabelKo": "친구를 만나다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After work, she decided to meet a friend for coffee at the café down the street."
+  },
+  "step2": {
+    "story": "Jake hadn't seen his college buddy in over a year, so he finally made time to meet a friend for lunch. They talked for hours, laughing about old memories and catching up on life.",
+    "topicTag": "friendship reunion",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "It had been a long and exhausting week, and Sarah felt like she needed a break from everything. She texted her closest friend and asked if she wanted to grab a coffee. They agreed to meet a friend at their favorite corner café on Saturday morning. When Sarah arrived, she instantly felt her stress melt away at the sight of a familiar face. They spent the afternoon talking about life, sharing laughs, and simply enjoying each other's company. By the time they said goodbye, Sarah felt refreshed and grateful for the simple joy of connection.",
+    "topicTag": "friendship and well-being",
+    "moodTag": "heartwarming"
+  },
+  "meaning": {
+    "literalMeaningKo": "친구를 만나다, 즉 지인과 약속을 잡거나 직접 대면하는 것을 의미합니다.",
+    "realUsageKo": "일상에서 친구와 약속을 잡고 만날 때 자연스럽게 사용되는 표현으로, 우연한 만남보다는 의도적인 만남에 더 자주 쓰입니다.",
+    "etymologyKo": "'meet'은 고대 영어 'mētan(만나다, 마주치다)'에서 유래했으며, 'friend'는 고대 영어 'frēond(사랑하는 사람)'에서 비롯되었습니다.",
+    "nuanceKo": "캐주얼하고 친근한 뉘앙스로, 격식 없는 일상적인 약속이나 만남을 표현할 때 적합합니다.",
+    "shortExampleEn": "I'm going to meet a friend at the park this afternoon.",
+    "shortExampleKo": "오늘 오후에 공원에서 친구를 만날 거야."
+  }
+}

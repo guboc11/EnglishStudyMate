@@ -1,0 +1,30 @@
+{
+  "id": "wear-down_af9f0a31",
+  "expression": "wear down",
+  "selectionMeta": {
+    "selectedPhrase": "wear down",
+    "selectedSenseLabelKo": "약해지게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Years of constant criticism finally began to wear down her confidence."
+  },
+  "step2": {
+    "story": "The negotiations had been going on for weeks, and the relentless pressure was starting to wear down the opposing team. By the third day, exhausted and frustrated, they finally agreed to the terms.",
+    "topicTag": "negotiation",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Marcus had been training for the marathon for six months, but the grueling schedule was beginning to wear down his enthusiasm. Every morning, his alarm went off at five, and he forced himself out of bed despite his aching legs. His coach noticed the change and reminded him that every great runner faces this wall. 'The training isn't meant to break you,' she said. 'It's meant to show you what you can endure.' That night, Marcus slept soundly, and by morning, the doubt that had tried to wear down his spirit had quietly faded.",
+    "topicTag": "perseverance",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "지속적인 압박이나 반복으로 인해 무언가를 점점 약하게 만들거나 닳게 한다는 뜻입니다.",
+    "realUsageKo": "주로 사람의 의지, 저항력, 또는 인내심을 서서히 약화시키는 상황에서 사용됩니다. 물리적 마모뿐 아니라 정신적·감정적 소진을 표현할 때도 자주 쓰입니다.",
+    "etymologyKo": "'wear'는 고대 영어 'werian(닳게 하다)'에서 유래했으며, 'down'과 결합해 점진적으로 아래로 닳아 없어지는 이미지를 형성합니다.",
+    "nuanceKo": "단순한 피로감보다는 지속적이고 반복적인 힘의 작용으로 인한 소진을 강조합니다. 저항이나 힘이 서서히 무너지는 뉘앙스가 강합니다.",
+    "shortExampleEn": "The constant noise from construction was starting to wear down the residents.",
+    "shortExampleKo": "공사장의 끊임없는 소음이 주민들을 점점 지치게 만들기 시작했다."
+  }
+}

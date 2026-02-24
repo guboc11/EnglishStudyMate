@@ -1,0 +1,30 @@
+{
+  "id": "protect-your-interests_5d66d080",
+  "expression": "protect your interests",
+  "selectionMeta": {
+    "selectedPhrase": "protect your interests",
+    "selectedSenseLabelKo": "이익을 보호하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before signing the contract, make sure you hire a lawyer to protect your interests."
+  },
+  "step2": {
+    "story": "Sarah had worked at the company for years, but the new merger made her uneasy. She hired an employment attorney to protect her interests before any changes took effect. Having professional advice gave her the confidence to negotiate from a position of strength.",
+    "topicTag": "workplace negotiation",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When David received an unexpected business partnership offer, the terms seemed generous on the surface. A trusted friend urged him not to rush and to consult a legal expert first. David spent a week reviewing the fine print with his attorney, who spotted several clauses that could cost him significantly. Together they drafted a counter-proposal designed to protect his interests without souring the relationship. The other party agreed to the revised terms, and the partnership launched on solid, fair ground. David later said it was the best investment he ever made.",
+    "topicTag": "business partnership",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 이익이나 권리가 침해받지 않도록 지키다.",
+    "realUsageKo": "계약, 협상, 법적 상황 등에서 자신에게 불리한 조건이 생기지 않도록 조치를 취할 때 사용한다. 주로 법률·비즈니스 맥락에서 자주 등장하는 표현이다.",
+    "etymologyKo": "'protect'는 라틴어 'protegere(앞에서 덮다)'에서 유래했고, 'interest'는 라틴어 'interesse(관여하다, 중요하다)'에서 비롯되어 '이해관계·이익'을 뜻하게 되었다.",
+    "nuanceKo": "단순한 자기 보호를 넘어, 능동적으로 대비하고 조치를 취한다는 뉘앙스가 강하다. 방어적이기보다 전략적인 어감을 지닌다.",
+    "shortExampleEn": "Always read the fine print to protect your interests.",
+    "shortExampleKo": "자신의 이익을 보호하려면 항상 세부 조항을 꼼꼼히 읽어야 한다."
+  }
+}

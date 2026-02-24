@@ -1,0 +1,30 @@
+{
+  "id": "follow-through-on_50628f9d",
+  "expression": "follow through on",
+  "selectionMeta": {
+    "selectedPhrase": "follow through on",
+    "selectedSenseLabelKo": "끝까지 해내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She promised to follow through on her plan to run a marathon, training every morning without fail."
+  },
+  "step2": {
+    "story": "Marcus told his team he would follow through on every commitment he made, no matter how difficult. When the deadline approached and others started making excuses, he stayed late and delivered exactly what he had promised.",
+    "topicTag": "work commitment",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For years, Elena had started new projects with enthusiasm only to abandon them halfway through. This time, she wrote her goal on a sticky note and placed it on her bathroom mirror: follow through on what you start. Every day she checked her progress, pushed through the days she felt like quitting, and reminded herself why she had begun. When she finally submitted the finished manuscript to the publisher, tears welled up in her eyes. She had done it — she had followed through on something that mattered most to her.",
+    "topicTag": "personal growth",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 일을 끝까지 밀고 나가다.",
+    "realUsageKo": "약속하거나 계획한 일을 포기하지 않고 완수할 때 사용한다. 주로 'follow through on a promise/commitment/plan'처럼 명사와 함께 쓰인다.",
+    "etymologyKo": "'follow through'는 스포츠에서 공을 친 후 팔이나 몸을 끝까지 휘두르는 동작에서 유래했으며, 이후 '어떤 행동을 완전히 마무리하다'는 의미로 확장되었다.",
+    "nuanceKo": "단순히 일을 마친다는 의미를 넘어, 어려움이나 유혹이 있어도 약속을 지키고 끝까지 해낸다는 강한 의지와 책임감을 내포한다.",
+    "shortExampleEn": "He always follows through on his promises.",
+    "shortExampleKo": "그는 항상 약속을 끝까지 지킨다."
+  }
+}

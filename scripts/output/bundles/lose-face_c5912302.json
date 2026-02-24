@@ -1,0 +1,30 @@
+{
+  "id": "lose-face_c5912302",
+  "expression": "lose face",
+  "selectionMeta": {
+    "selectedPhrase": "lose face",
+    "selectedSenseLabelKo": "체면을 잃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager didn't want to admit the mistake in front of the team because he was afraid of losing face."
+  },
+  "step2": {
+    "story": "During the meeting, David's proposal was rejected by the client without any hesitation. He felt he had completely lost face in front of his colleagues and struggled to stay composed.",
+    "topicTag": "workplace pressure",
+    "moodTag": "embarrassed"
+  },
+  "step3": {
+    "story": "Sarah had been the top salesperson at her company for three consecutive years, so when her biggest deal fell through at the last moment, she was devastated. Standing in front of her entire team as the numbers were announced, she felt she had lost face in the worst possible way. She quietly excused herself after the meeting and sat alone in the break room, replaying every decision she had made. It took her a few days to regain her confidence, but she eventually returned with a stronger pitch and a determination never to let fear of losing face stop her from taking risks again.",
+    "topicTag": "professional setback",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '얼굴을 잃다'는 뜻이다.",
+    "realUsageKo": "실제로는 공개적인 상황에서 체면이나 명예를 잃거나 창피를 당하는 것을 의미한다. 특히 다른 사람들 앞에서 실수를 인정하거나 지위가 낮아지는 상황에서 사용된다.",
+    "etymologyKo": "이 표현은 동아시아 문화권, 특히 중국어의 '丢脸(diū liǎn, 체면을 잃다)'에서 유래하여 19세기 영어권에 도입된 것으로 알려져 있다.",
+    "nuanceKo": "개인의 자존심이나 사회적 평판과 깊이 연관된 표현으로, 단순한 실수보다는 타인이 보는 앞에서의 굴욕감이나 위신 손상을 강조한다. 격식체·비격식체 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "He refused to back down because he didn't want to lose face in front of his peers.",
+    "shortExampleKo": "그는 동료들 앞에서 체면을 잃고 싶지 않아 물러서기를 거부했다."
+  }
+}

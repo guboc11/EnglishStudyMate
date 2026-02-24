@@ -1,0 +1,30 @@
+{
+  "id": "draw-the-line_0a3432b1",
+  "expression": "draw the line",
+  "selectionMeta": {
+    "selectedPhrase": "draw the line",
+    "selectedSenseLabelKo": "선을 긋다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to draw the line when her manager started calling her on weekends expecting immediate responses."
+  },
+  "step2": {
+    "story": "After months of working late and skipping lunch breaks, Marcus finally decided to draw the line. He calmly told his team that he would no longer respond to messages after 7 p.m. Everyone respected him more for it.",
+    "topicTag": "work-life balance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Priya had always been the one her friends called in a crisis — moving help, airport runs, last-minute favors. She loved being dependable, but lately the requests had become relentless. One evening, after canceling her own birthday dinner to help a friend pack boxes, she sat quietly and realized she had to draw the line. The next day she had honest conversations with the people closest to her, explaining that she still cared deeply but needed to protect her own time. It was uncomfortable at first, yet setting that boundary turned out to be the kindest thing she ever did — both for herself and for the friendships she valued most.",
+    "topicTag": "personal boundaries",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '선을 긋다'는 뜻으로, 어떤 한계나 경계를 물리적으로 표시하는 행위를 가리킵니다.",
+    "realUsageKo": "실제로는 더 이상 용납하지 않을 한계점을 정하거나, 어떤 행동·요구에 대해 분명히 거절 의사를 표명할 때 사용합니다. 주로 'draw the line at ~' 형태로 쓰여 구체적인 한계를 나타냅니다.",
+    "etymologyKo": "18세기 영국에서 농장 경계나 경기장 구역을 표시하기 위해 실제로 땅에 선을 그었던 관습에서 유래했으며, 이후 '허용 범위의 한계를 정한다'는 추상적 의미로 발전했습니다.",
+    "nuanceKo": "단순한 거절보다 더 단호하고 원칙적인 느낌을 줍니다. 감정적이기보다 의도적·자발적으로 경계를 설정하는 뉘앙스가 강하며, 자기 존중이나 가치관을 지킨다는 긍정적 함의를 담고 있습니다.",
+    "shortExampleEn": "I don't mind overtime occasionally, but I draw the line at working through holidays.",
+    "shortExampleKo": "가끔 야근은 괜찮지만, 휴일에 일하는 건 제 한계예요."
+  }
+}

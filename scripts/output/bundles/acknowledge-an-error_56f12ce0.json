@@ -1,0 +1,30 @@
+{
+  "id": "acknowledge-an-error_56f12ce0",
+  "expression": "acknowledge an error",
+  "selectionMeta": {
+    "selectedPhrase": "acknowledge an error",
+    "selectedSenseLabelKo": "잘못을 인정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The project manager stood before the team and openly acknowledged an error in the original budget forecast."
+  },
+  "step2": {
+    "story": "During the quarterly review, Sarah had to acknowledge an error she had made in the financial report. Instead of deflecting blame, she calmly explained what went wrong and outlined her plan to fix it. Her honesty earned her team's respect more than any success ever had.",
+    "topicTag": "workplace accountability",
+    "moodTag": "honest"
+  },
+  "step3": {
+    "story": "Marcus had spent weeks insisting that the software release was on track, but the mounting bug reports made it impossible to ignore the truth. In front of the entire department, he finally acknowledged an error in his estimation process — he had consistently underestimated testing time. The silence that followed felt heavy, but then his director nodded and said, 'Good. Now we can actually fix it.' That afternoon, Marcus rewrote the timeline with his team, this time building in proper buffers. Acknowledging the error was painful, but it unlocked a level of trust he hadn't expected.",
+    "topicTag": "software development",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'acknowledge an error'는 문자 그대로 '오류(실수)를 인정하다'라는 뜻이다.",
+    "realUsageKo": "실제로는 자신의 실수나 잘못된 판단을 공개적으로 또는 솔직하게 인정할 때 사용하며, 특히 직장이나 공식적인 상황에서 책임감 있는 태도를 표현할 때 자주 쓰인다.",
+    "etymologyKo": "'acknowledge'는 라틴어 'ad-(~에게) + cognoscere(알다)'에서 유래한 중세 영어 표현으로, '알고 있음을 공개적으로 밝히다'라는 의미를 가진다. 'error'는 라틴어 'errare(길을 잃다, 헤매다)'에서 왔다.",
+    "nuanceKo": "단순히 실수를 시인하는 것을 넘어, 성숙하고 책임감 있는 태도를 함축하는 표현이다. 방어적이거나 변명하는 뉘앙스 없이 잘못을 받아들이는 뉘앙스를 강하게 담고 있다.",
+    "shortExampleEn": "He was quick to acknowledge an error in his report and immediately sent a correction to the team.",
+    "shortExampleKo": "그는 보고서의 실수를 재빨리 인정하고 즉시 팀에 수정 사항을 전달했다."
+  }
+}

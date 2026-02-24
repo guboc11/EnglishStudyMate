@@ -1,0 +1,30 @@
+{
+  "id": "struggle-with-insomnia_3a151440",
+  "expression": "struggle with insomnia",
+  "selectionMeta": {
+    "selectedPhrase": "struggle with insomnia",
+    "selectedSenseLabelKo": "불면증과 씨름하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She has been struggling with insomnia for weeks, lying awake until the early hours no matter how exhausted she feels."
+  },
+  "step2": {
+    "story": "Mark had been struggling with insomnia ever since he started his new high-pressure job. Every night he stared at the ceiling, his mind racing through tomorrow's deadlines. After two months of sleepless nights, he finally decided to seek help from a doctor.",
+    "topicTag": "sleep health",
+    "moodTag": "exhausted"
+  },
+  "step3": {
+    "story": "For the past six months, Jenna had been struggling with insomnia, and it was beginning to affect every part of her life. She would climb into bed at ten, only to find herself wide awake at two in the morning, heart pounding with unnamed anxiety. She tried herbal teas, white noise apps, and even a weighted blanket, but nothing seemed to quiet her restless mind. Her doctor suggested that the root cause might be the chronic stress she had been ignoring for years. Reluctantly, Jenna began therapy and started setting firm boundaries between her work hours and personal time. Slowly, sleep began to return to her, one peaceful night at a time.",
+    "topicTag": "mental health",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'불면증과 힘겹게 싸우다'라는 뜻으로, 잠을 이루지 못하는 상태와 지속적으로 씨름하는 것을 의미합니다.",
+    "realUsageKo": "수면 문제가 일시적이지 않고 반복적·지속적으로 이어질 때 사용하며, 단순히 '잠을 못 자다'보다 훨씬 힘겹고 지속적인 상황을 강조합니다.",
+    "etymologyKo": "'struggle'은 고대 영어에서 '뒤척이다, 몸부림치다'는 의미에서 유래했으며, 'insomnia'는 라틴어 'insomnis(잠 못 드는)'에서 왔습니다. 두 단어가 결합되어 수면 부족과의 지속적인 싸움을 생생하게 표현합니다.",
+    "nuanceKo": "단순한 불편함이 아닌 상당한 고통과 피로감을 내포하며, 의지와 무관하게 반복되는 상황임을 암시하는 어조입니다.",
+    "shortExampleEn": "He has struggled with insomnia since losing his job last year.",
+    "shortExampleKo": "그는 작년에 직장을 잃은 이후 불면증과 씨름해 왔다."
+  }
+}

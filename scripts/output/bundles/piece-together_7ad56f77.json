@@ -1,0 +1,30 @@
+{
+  "id": "piece-together_7ad56f77",
+  "expression": "piece together",
+  "selectionMeta": {
+    "selectedPhrase": "piece together",
+    "selectedSenseLabelKo": "맞추다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After interviewing several witnesses, the detective was finally able to piece together what had happened on the night of the incident."
+  },
+  "step2": {
+    "story": "Mia found a box of old letters in her grandmother's attic and spent the afternoon trying to piece together her family's history. Each faded note revealed another clue, slowly connecting the names and dates she had never known.",
+    "topicTag": "family history",
+    "moodTag": "curious"
+  },
+  "step3": {
+    "story": "The crash site was a chaotic mess of scattered debris, and it took the investigators three full days to piece together the sequence of events that led to the accident. They gathered photographs, flight logs, and eyewitness accounts, laying everything out on a wide table in the hangar. Slowly, a picture emerged — a minor instrument failure had gone unnoticed, then compounded into something catastrophic. By the end of the week, they had pieced together a clear timeline that would guide the safety review. It was painstaking work, but without it, the same mistake might have been repeated.",
+    "topicTag": "investigation",
+    "moodTag": "methodical"
+  },
+  "meaning": {
+    "literalMeaningKo": "조각들을 하나씩 이어 붙여 전체를 완성하다.",
+    "realUsageKo": "흩어진 정보나 단서를 모아 전체 상황이나 진실을 파악할 때 사용한다. 수사, 역사 연구, 기억 복원 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'piece'(조각)와 'together'(함께)의 결합으로, 여러 조각을 한데 모아 완성하는 행위를 직관적으로 표현한다. 퍼즐 맞추기의 이미지에서 유래한 것으로 본다.",
+    "nuanceKo": "단순히 정보를 수집하는 것이 아니라 흩어진 단서들을 연결해 전체 그림을 재구성하는 과정에 초점이 있다. 시간과 노력이 필요한 지적 작업임을 암시하는 뉘앙스가 있다.",
+    "shortExampleEn": "She pieced together the torn letter to read what it said.",
+    "shortExampleKo": "그녀는 찢어진 편지를 맞춰 붙여 내용을 읽었다."
+  }
+}

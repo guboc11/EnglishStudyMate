@@ -1,0 +1,30 @@
+{
+  "id": "one-step-at-a-time_99173d87",
+  "expression": "one step at a time",
+  "selectionMeta": {
+    "selectedPhrase": "one step at a time",
+    "selectedSenseLabelKo": "한 번에 한 걸음씩",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Learning a new language can feel overwhelming, but if you take it one step at a time, you'll make steady progress."
+  },
+  "step2": {
+    "story": "Maria had always wanted to run a marathon, but the distance seemed impossible. Her coach told her to take it one step at a time, starting with short daily jogs. Slowly, her endurance grew and her confidence soared.",
+    "topicTag": "personal growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "After losing his job, Daniel felt paralyzed by the mountain of tasks ahead — updating his resume, reaching out to contacts, and preparing for interviews. His mentor sat down with him and said, 'You can't do everything at once. Take it one step at a time.' Daniel started with just one email that afternoon. The next day he revised his resume. By the end of the week, he had two interview requests. What had seemed impossible became manageable the moment he stopped looking at the whole staircase and focused on the next single step.",
+    "topicTag": "career transition",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "한 번에 한 걸음씩 나아간다는 뜻으로, 급하게 서두르지 않고 천천히 단계적으로 진행함을 의미합니다.",
+    "realUsageKo": "큰 목표나 어려운 상황에 압도될 때, 한 번에 모든 것을 해결하려 하지 말고 작은 단계부터 차근차근 해나가라고 조언할 때 사용합니다.",
+    "etymologyKo": "19세기부터 영어권에서 사용된 표현으로, 계단을 오를 때 한 번에 한 칸씩 올라야 한다는 물리적 행위에서 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "인내와 꾸준함을 강조하는 긍정적이고 위로적인 뉘앙스를 가지며, 주로 조언이나 격려의 맥락에서 사용됩니다.",
+    "shortExampleEn": "Don't stress about the whole project — just take it one step at a time.",
+    "shortExampleKo": "프로젝트 전체에 스트레스받지 마세요 — 그냥 한 번에 한 걸음씩 해나가세요."
+  }
+}

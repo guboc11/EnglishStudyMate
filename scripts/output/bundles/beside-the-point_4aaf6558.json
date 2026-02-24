@@ -1,0 +1,30 @@
+{
+  "id": "beside-the-point_4aaf6558",
+  "expression": "beside the point",
+  "selectionMeta": {
+    "selectedPhrase": "beside the point",
+    "selectedSenseLabelKo": "핵심을 벗어난",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Whether the meeting ran long is beside the point — the real issue is that we missed the client's deadline."
+  },
+  "step2": {
+    "story": "During the quarterly review, James kept bringing up how much effort the team had put in over the past months. His director cut him off, saying that was beside the point — the results simply weren't there. The team needed to focus on what went wrong, not on good intentions.",
+    "topicTag": "workplace review",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The debate in the conference room had been going on for over an hour. Sarah argued that the new software was expensive, but her colleague pointed out that cost was beside the point — the real question was whether it would solve their data security problem. She paused, realizing she had been focused on the wrong issue entirely. The team refocused and began weighing the actual risks against the alternatives. By the end of the meeting, they had a clear answer, even if it wasn't the one Sarah had expected.",
+    "topicTag": "decision making",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '요점 옆에 있다'는 뜻으로, 핵심 논점에서 벗어나 있음을 나타낸다.",
+    "realUsageKo": "논의나 대화에서 상대방이 꺼낸 내용이 정작 중요한 문제와 관련이 없거나 주제에서 벗어났을 때 사용한다. 흔히 '그건 핵심이 아니야'라는 뉘앙스로 쓰인다.",
+    "etymologyKo": "'Point'는 중세 영어에서 '요점, 논점'을 의미했으며, 'beside'는 '옆에, 벗어나'라는 뜻이다. 따라서 'beside the point'는 핵심에서 비껴난 위치에 있다는 비유적 표현으로 자리 잡았다.",
+    "nuanceKo": "다소 직접적이고 단호한 표현으로, 상대의 말을 차단하거나 논점을 재정립할 때 쓰인다. 격식체·비격식체 모두에서 사용 가능하지만, 대화 상황에 따라 다소 날카롭게 들릴 수 있다.",
+    "shortExampleEn": "Your excuses are beside the point; you still missed the deadline.",
+    "shortExampleKo": "네 변명은 핵심을 벗어났어. 어쨌든 넌 마감을 놓쳤잖아."
+  }
+}

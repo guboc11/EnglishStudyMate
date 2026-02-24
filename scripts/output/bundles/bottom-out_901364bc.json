@@ -1,0 +1,30 @@
+{
+  "id": "bottom-out_901364bc",
+  "expression": "bottom out",
+  "selectionMeta": {
+    "selectedPhrase": "bottom out",
+    "selectedSenseLabelKo": "바닥을 치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Analysts predict that housing prices will bottom out by mid-year before slowly recovering."
+  },
+  "step2": {
+    "story": "After months of declining revenue, the startup worried it might not survive. Then in March, sales finally seemed to bottom out, and new clients began signing on. The team breathed a collective sigh of relief and started planning their comeback.",
+    "topicTag": "business recovery",
+    "moodTag": "cautiously hopeful"
+  },
+  "step3": {
+    "story": "Claire had watched her savings dwindle for nearly a year after losing her position at the firm. Each month felt worse than the last, and she began to wonder if things would ever turn around. But in the bitter cold of February, her expenses seemed to bottom out, and she landed a part-time consulting gig that covered her rent. She started tracking every small win, no matter how insignificant it seemed. Slowly, the numbers on her spreadsheet shifted from red to black. By summer, she was back on her feet and more financially disciplined than she had ever been before.",
+    "topicTag": "personal finance",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "바닥에 완전히 닿다, 즉 어떤 수치나 상황이 가장 낮은 지점에 도달하다.",
+    "realUsageKo": "주로 경기, 주가, 매출, 감정 등이 최저점에 도달했음을 표현할 때 쓰인다. 종종 이후 반등이나 회복이 암시되는 맥락에서 사용된다.",
+    "etymologyKo": "'bottom(바닥)'과 방향·완료를 나타내는 'out'이 결합된 구동사로, 무언가가 더 이상 내려갈 수 없는 최저 지점에 완전히 도달했음을 뜻한다.",
+    "nuanceKo": "단순히 낮다는 의미보다 '최저점을 찍었다'는 뉘앙스가 강하며, 이후 회복 가능성을 내포하는 경우가 많다. 경제·금융 맥락에서 특히 자주 사용된다.",
+    "shortExampleEn": "Oil prices finally bottomed out after weeks of sharp declines.",
+    "shortExampleKo": "몇 주간의 급격한 하락 끝에 유가가 마침내 바닥을 쳤다."
+  }
+}

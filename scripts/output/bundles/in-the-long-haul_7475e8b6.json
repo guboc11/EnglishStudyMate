@@ -1,0 +1,30 @@
+{
+  "id": "in-the-long-haul_7475e8b6",
+  "expression": "in the long haul",
+  "selectionMeta": {
+    "selectedPhrase": "in the long haul",
+    "selectedSenseLabelKo": "장기적으로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Building healthy habits is challenging at first, but it truly pays off in the long haul."
+  },
+  "step2": {
+    "story": "Maya started saving a small portion of her salary each month, even when it felt pointless. Her friends spent freely, but she knew that discipline in the long haul would give her options they wouldn't have.",
+    "topicTag": "personal finance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Daniel decided to learn a second language at thirty-five, almost everyone around him doubted it was worth the effort. Progress came slowly — weeks passed before he could hold a simple conversation. Yet he kept showing up every morning, reviewing flashcards before work and listening to podcasts during his commute. Colleagues joked that he was wasting his time, but Daniel understood that fluency is earned in the long haul, not overnight. Two years later, he landed a position at an international firm, the only candidate who could negotiate directly with the overseas team. The slow, unglamorous hours had quietly become his greatest advantage.",
+    "topicTag": "language learning",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'긴 운반 여정에서'라는 뜻으로, 장거리 운송이라는 물리적 개념에서 비롯된 표현입니다.",
+    "realUsageKo": "단기적인 결과보다 장기적인 관점에서 무언가가 효과를 발휘하거나 중요하다는 것을 강조할 때 사용합니다. 꾸준한 노력이나 인내가 결국 성과로 이어진다는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'haul'은 무거운 물건을 힘껏 끌거나 운반하는 행위를 뜻하며, 'long haul'은 원래 트럭이나 선박이 먼 거리를 이동하는 장거리 운송을 의미했습니다. 이후 '오랜 시간에 걸친 힘든 과정'을 비유하는 표현으로 확장되었습니다.",
+    "nuanceKo": "단순히 '나중에'를 뜻하는 'in the long run'과 비슷하지만, 'in the long haul'은 그 과정이 다소 힘들고 지속적인 노력을 요구한다는 뉘앙스를 더 강하게 담고 있습니다. 인내와 꾸준함을 긍정적으로 평가하는 맥락에서 주로 사용됩니다.",
+    "shortExampleEn": "Consistent practice matters more than talent in the long haul.",
+    "shortExampleKo": "장기적으로는 재능보다 꾸준한 연습이 더 중요합니다."
+  }
+}

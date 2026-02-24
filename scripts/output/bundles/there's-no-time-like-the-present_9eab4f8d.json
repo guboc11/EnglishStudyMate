@@ -1,0 +1,30 @@
+{
+  "id": "there's-no-time-like-the-present_9eab4f8d",
+  "expression": "there's no time like the present",
+  "selectionMeta": {
+    "selectedPhrase": "there's no time like the present",
+    "selectedSenseLabelKo": "지금이 최선이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had been putting off applying to graduate school for months, but her mentor looked her in the eye and said, 'There's no time like the present — submit your application today.'"
+  },
+  "step2": {
+    "story": "Jake had been meaning to call his estranged father for years, always finding a reason to wait. One afternoon, holding his phone with shaky hands, he reminded himself that there's no time like the present. He dialed the number, and after two rings, a familiar voice answered.",
+    "topicTag": "personal growth",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "Maya had kept a half-finished novel on her desk for three years, convinced she would finish it 'someday.' Every morning she would glance at the thick stack of papers and feel a quiet guilt settle over her. One rainy Tuesday, her teenage daughter picked up the manuscript, read the first page, and looked up with wide eyes. 'Mom, this is really good — why haven't you finished it?' Maya opened her mouth to say she wasn't ready, but the words felt hollow. She sat down at her desk right then, reminding herself that there's no time like the present. By the time the rain stopped, she had written the first new paragraph in years.",
+    "topicTag": "creative ambition",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "지금 이 순간보다 더 좋은 시간은 없다.",
+    "realUsageKo": "미루고 있는 일을 지금 당장 시작하라고 격려하거나 촉구할 때 사용한다. 행동을 더 이상 미루지 말고 현재 시점에 바로 실행하라는 의미를 담고 있다.",
+    "etymologyKo": "17세기 영어에서 유래한 표현으로, 현재(present)의 소중함을 강조하는 격언 형태로 오랫동안 사용되어 왔다. 비슷한 라틴어 격언 'nunc aut numquam(지금 아니면 절대)'과 맥락을 같이한다.",
+    "nuanceKo": "상대방을 부드럽게 독려하는 긍정적인 어조로 자주 쓰이며, 지나치게 강압적이지 않으면서도 즉각적인 행동을 권유하는 뉘앙스가 있다. 자기 자신에게 다짐할 때도 사용할 수 있다.",
+    "shortExampleEn": "If you want to start exercising, there's no time like the present — put on your shoes and go.",
+    "shortExampleKo": "운동을 시작하고 싶다면 지금이 바로 최선이야 — 신발 신고 나가봐."
+  }
+}

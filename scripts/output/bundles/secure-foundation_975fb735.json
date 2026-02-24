@@ -1,0 +1,30 @@
+{
+  "id": "secure-foundation_975fb735",
+  "expression": "secure foundation",
+  "selectionMeta": {
+    "selectedPhrase": "secure foundation",
+    "selectedSenseLabelKo": "안전한 기반",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A strong education gives children a secure foundation for navigating life's challenges."
+  },
+  "step2": {
+    "story": "After years of financial instability, Mia finally paid off her debts and built a secure foundation for her future. She started saving consistently and invested in her skills, knowing that true stability comes from within. For the first time in years, she felt genuinely confident about what lay ahead.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had always envied his colleagues who seemed unshaken by office politics and sudden changes. He realized the difference was not luck but the secure foundation they had built through years of deliberate habit and self-awareness. He began waking early each morning to journal, exercise, and plan his priorities before the noise of the day began. Slowly, his anxiety about uncertain projects faded, replaced by a quiet confidence. His manager noticed the change and offered him a leadership role. Daniel accepted, knowing he finally had the secure foundation to carry others forward as well.",
+    "topicTag": "professional development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "흔들리지 않는 안전하고 튼튼한 기반이나 토대를 의미한다.",
+    "realUsageKo": "주로 삶, 커리어, 관계, 교육 등의 영역에서 안정적이고 신뢰할 수 있는 출발점이나 바탕을 갖추었음을 표현할 때 쓴다.",
+    "etymologyKo": "'secure'는 라틴어 'securus(걱정 없는, 안전한)'에서 유래했으며, 'foundation'은 라틴어 'fundatio(기초를 놓음)'에서 비롯되어 함께 '안심할 수 있는 토대'를 뜻하게 되었다.",
+    "nuanceKo": "단순히 물리적 안전함보다는 심리적·사회적 안정감을 함께 내포하며, 미래를 준비하는 긍정적이고 진지한 맥락에서 자주 사용된다.",
+    "shortExampleEn": "Good communication skills provide a secure foundation for any career.",
+    "shortExampleKo": "좋은 의사소통 능력은 어떤 직업에서든 안전한 기반이 되어 준다."
+  }
+}

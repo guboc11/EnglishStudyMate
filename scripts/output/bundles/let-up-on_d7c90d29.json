@@ -1,0 +1,30 @@
+{
+  "id": "let-up-on_d7c90d29",
+  "expression": "let up on",
+  "selectionMeta": {
+    "selectedPhrase": "let up on",
+    "selectedSenseLabelKo": "~에 대해 덜 엄격해지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of intense training, the coach finally decided to let up on the players and gave them a lighter practice schedule."
+  },
+  "step2": {
+    "story": "Jake had been pushing his younger sister hard to finish her homework every evening, refusing to let her rest until every problem was solved. One night, seeing her exhausted and in tears, he decided to let up on her and allow a short break. She finished the work with a clearer head, and they both felt better for it.",
+    "topicTag": "family pressure",
+    "moodTag": "compassionate"
+  },
+  "step3": {
+    "story": "For the first three months of the school year, Ms. Harmon was known as the strictest teacher in the building. She assigned extra reading every weekend and collected homework at the start of each class without exception. Students whispered that she never smiled and never let up on anyone who fell behind. But after the winter break, something shifted. She had spent the holidays watching her own children struggle under the pressure of competitive sports coaches, and she understood, for the first time, how crushing relentless expectations could feel. When she returned in January, she began to let up on the late submissions policy and offered office hours for students who needed more time. The class didn't become easier, but it became more human.",
+    "topicTag": "teaching and discipline",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '~에 대해 느슨해지다' 또는 '~에 대한 압박을 줄이다'라는 뜻이다.",
+    "realUsageKo": "누군가에게 가하던 엄격한 규칙, 압박, 비판 등을 완화하거나 덜 까다롭게 굴 때 사용한다. 주로 부모, 교사, 상사처럼 권위 있는 위치에 있는 사람이 아랫사람에게 적용하는 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'let up'은 19세기부터 '완화되다, 줄어들다'의 뜻으로 쓰였으며, 여기에 대상을 가리키는 전치사 'on'이 결합하여 특정 대상에 대한 압박을 줄인다는 의미가 형성되었다.",
+    "nuanceKo": "단순히 관대해진다는 중립적 뉘앙스를 가지며, 긍정적·부정적 판단 없이 상황에 따라 다르게 해석된다. 지나친 엄격함이 완화될 때는 안도의 의미가 담기기도 한다.",
+    "shortExampleEn": "The manager needs to let up on the team before they burn out completely.",
+    "shortExampleKo": "팀원들이 완전히 지쳐 쓰러지기 전에 매니저가 좀 더 여유를 줄 필요가 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "valuable-contribution_b436c3d1",
+  "expression": "valuable contribution",
+  "selectionMeta": {
+    "selectedPhrase": "valuable contribution",
+    "selectedSenseLabelKo": "귀중한 기여",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her research into renewable energy sources proved to be a valuable contribution to the scientific community."
+  },
+  "step2": {
+    "story": "Marcus spent months volunteering at the local shelter, organizing donation drives and counseling residents. His supervisor told him that his efforts were a valuable contribution to the community. Hearing those words made all the long evenings worthwhile.",
+    "topicTag": "community service",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "When the team assembled to review the year-end report, they paused on a single slide: a graph showing a sharp rise in patient recovery rates. Dr. Yoon had spent three years quietly refining her treatment protocol, often working late after everyone else had gone home. Her colleagues had rarely seen the full picture until that moment. The hospital director stood up and addressed the room, saying her work had been a valuable contribution not just to their department, but to medicine as a whole. Dr. Yoon felt a quiet pride settle over her, the kind that comes not from applause but from knowing the work truly mattered. She returned to her notes that evening, already thinking about what could be improved next.",
+    "topicTag": "medical research",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "'귀중한(valuable) 기여(contribution)'라는 뜻으로, 어떤 목표나 집단에 실질적으로 도움이 되는 중요한 행동이나 노력을 가리킨다.",
+    "realUsageKo": "직장, 학문, 사회활동 등 다양한 맥락에서 누군가의 노력이나 성과가 큰 가치를 지닌다고 평가할 때 사용하며, 주로 공식적이거나 격식 있는 상황에서 쓰인다.",
+    "etymologyKo": "'valuable'은 라틴어 'valere(가치 있다)'에서 유래했고, 'contribution'은 라틴어 'contribuere(함께 모으다)'에서 왔으며, 두 단어가 결합해 '큰 가치를 지닌 기여'를 뜻하게 되었다.",
+    "nuanceKo": "단순히 도움이 됐다는 표현보다 한층 격식 있고 존중하는 어조를 담고 있으며, 상대의 노력을 공식적으로 인정할 때 사용하면 진정성이 잘 전달된다.",
+    "shortExampleEn": "Your feedback was a valuable contribution to improving the product.",
+    "shortExampleKo": "당신의 피드백은 제품 개선에 귀중한 기여였습니다."
+  }
+}

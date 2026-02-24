@@ -1,0 +1,30 @@
+{
+  "id": "don't-count-your-chickens-before-they-hatch_0f9f0ac0",
+  "expression": "don't count your chickens before they hatch",
+  "selectionMeta": {
+    "selectedPhrase": "don't count your chickens before they hatch",
+    "selectedSenseLabelKo": "김칫국 먼저 마시지 마라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The sales team was already planning a celebration, but their manager warned them not to count their chickens before they hatch — the contract still needed to be signed."
+  },
+  "step2": {
+    "story": "Marcus had been telling everyone at the office that he was getting promoted, even picking out a bigger apartment near work. His mentor pulled him aside and said, 'Don't count your chickens before they hatch — the decision hasn't been announced yet.' Sure enough, the promotion went to someone else, and Marcus wished he had stayed quiet.",
+    "topicTag": "workplace ambition",
+    "moodTag": "cautionary"
+  },
+  "step3": {
+    "story": "Lena had spent weeks studying for the medical school entrance exam, and when she walked out of the test hall, she felt certain she had aced it. She called her parents, booked a celebratory dinner, and started researching apartments near the campus. Her older sister, a doctor herself, listened patiently before saying, 'I'm proud of how hard you worked, but don't count your chickens before they hatch.' The results came two weeks later — Lena had missed the cutoff score by just three points. The disappointment stung twice as hard because she had already told everyone she was in. She learned that hope and premature certainty were very different things, and that celebrating outcomes you haven't secured yet only makes failure more public.",
+    "topicTag": "academic pressure",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "알이 부화하기도 전에 병아리 수를 세지 말라는 뜻으로, 아직 일어나지 않은 일을 확실한 것처럼 여기지 말라는 의미입니다.",
+    "realUsageKo": "결과가 확정되기 전에 미리 성공을 가정하거나 계획을 세우는 사람에게 경고할 때 사용합니다. 기대가 너무 앞서 나가지 말라는 현실적인 조언으로 자주 쓰입니다.",
+    "etymologyKo": "16세기 유럽에서 유래한 표현으로, 농부가 달걀이 부화하기 전에 병아리 수를 미리 계산하다가 실제로는 더 적게 부화해 손해를 본다는 농촌 생활의 교훈에서 비롯되었습니다.",
+    "nuanceKo": "충고나 경고의 뉘앙스가 강하며, 가까운 사이에서 친근하게 쓰이기도 하지만 때로는 상대방의 들뜬 기대를 차갑게 식히는 냉정한 조언으로도 느껴질 수 있습니다.",
+    "shortExampleEn": "Don't count your chickens before they hatch — we haven't heard back from the investors yet.",
+    "shortExampleKo": "투자자들로부터 아직 답변도 못 받았는데 김칫국부터 마시지 마."
+  }
+}

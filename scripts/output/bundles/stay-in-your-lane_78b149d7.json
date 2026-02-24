@@ -1,0 +1,30 @@
+{
+  "id": "stay-in-your-lane_78b149d7",
+  "expression": "stay in your lane",
+  "selectionMeta": {
+    "selectedPhrase": "stay in your lane",
+    "selectedSenseLabelKo": "자기 일에 집중하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the junior developer started questioning the architect's design choices, his mentor quietly reminded him to stay in his lane and focus on the tasks assigned to him."
+  },
+  "step2": {
+    "story": "Marcus kept interrupting the marketing team's presentation with unsolicited opinions about branding. His manager pulled him aside afterward and told him to stay in his lane. From that day on, Marcus focused on his own engineering work and let the other teams do their jobs.",
+    "topicTag": "workplace boundaries",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The weekly strategy meeting had barely started when Derek jumped in to critique the sales team's quarterly numbers, even though he worked in product development. The room went quiet and a few people exchanged glances. His director, Sarah, cleared her throat and said calmly, 'Derek, I appreciate the enthusiasm, but let's stay in our lanes today.' Derek felt a flush of embarrassment creep up his neck — he realized he had a habit of overstepping, and it was starting to cost him goodwill. He took a breath, leaned back, and let the sales team finish without interruption. By the end of the meeting, the tension had lifted, and Sarah gave him a small nod of acknowledgment.",
+    "topicTag": "professional dynamics",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 차선 안에 머물다.",
+    "realUsageKo": "자신의 역할이나 전문 영역에서 벗어나 남의 일에 간섭하지 말고 자기 일에만 집중하라는 의미로 사용된다. 주로 누군가가 자신의 영역을 침범하거나 월권할 때 경고하는 표현이다.",
+    "etymologyKo": "도로 교통에서 차량이 지정된 차선을 유지해야 한다는 개념에서 유래했다. 1990년대부터 미국 일상 영어에서 비유적 의미로 쓰이기 시작했으며, 특히 직장·스포츠·소셜 미디어 맥락에서 자주 등장한다.",
+    "nuanceKo": "상대방에게 경고하거나 나무라는 뉘앙스가 강하며, 다소 직설적이고 날카로운 어조를 띤다. 친한 사이에서는 가볍게 쓸 수 있지만, 공식적인 자리에서는 상대방이 무시당한다고 느낄 수 있으므로 주의가 필요하다.",
+    "shortExampleEn": "She told her coworker to stay in his lane and stop meddling in her project.",
+    "shortExampleKo": "그녀는 동료에게 자기 일에나 집중하고 자신의 프로젝트에 참견하지 말라고 말했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "step-down_30016590",
+  "expression": "step down",
+  "selectionMeta": {
+    "selectedPhrase": "step down",
+    "selectedSenseLabelKo": "물러나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After fifteen years as CEO, she decided to step down and let a younger leader take the company forward."
+  },
+  "step2": {
+    "story": "The long-serving principal announced he would step down at the end of the school year. His colleagues were surprised but respected his decision to make way for new leadership. The school held a heartfelt farewell ceremony in his honor.",
+    "topicTag": "leadership transition",
+    "moodTag": "respectful"
+  },
+  "step3": {
+    "story": "Senator Harrison had served his district for over two decades, but the mounting pressure and health concerns finally convinced him it was time to step down. He stood at the podium, voice steady, and addressed the crowd that had supported him through every election. 'Stepping down is not giving up,' he said, 'it is knowing when someone else can serve you better.' His chief of staff watched from the side of the stage, wiping a quiet tear. The announcement rippled through the capitol, sparking both tributes and speculation about who would fill his seat. Harrison left the chamber that evening lighter than he had felt in years.",
+    "topicTag": "political resignation",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "한 발 아래로 내려서다.",
+    "realUsageKo": "직위나 권한 있는 자리에서 자발적으로 물러나거나 사임할 때 사용한다. 주로 공직, 경영직, 리더십 역할 등에서 쓰인다.",
+    "etymologyKo": "'step'(발걸음을 옮기다)과 'down'(아래로)의 결합으로, 높은 자리에서 아래로 내려온다는 물리적 이미지에서 '사임·퇴임'의 의미가 파생되었다.",
+    "nuanceKo": "강제 해임이 아닌 자발적 의사로 물러날 때 주로 쓰이며, 품위 있는 퇴장의 뉘앙스를 담고 있다.",
+    "shortExampleEn": "The coach stepped down after the team's third consecutive losing season.",
+    "shortExampleKo": "그 감독은 팀이 세 시즌 연속 부진한 성적을 거둔 후 자리에서 물러났다."
+  }
+}

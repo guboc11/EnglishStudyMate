@@ -1,0 +1,30 @@
+{
+  "id": "act-on_4d054421",
+  "expression": "act on",
+  "selectionMeta": {
+    "selectedPhrase": "act on",
+    "selectedSenseLabelKo": "~에 따라 행동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to act on her doctor's advice and start exercising regularly."
+  },
+  "step2": {
+    "story": "After months of hesitation, Marcus finally chose to act on his instincts and apply for the promotion. He submitted his application that afternoon and felt a wave of relief wash over him.",
+    "topicTag": "career decision",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The safety inspector had flagged several issues in the report, but management had done nothing for weeks. When an employee was nearly injured, the plant director knew it was time to act on the warnings without delay. He called an emergency meeting, assigned repair teams, and shut down the faulty equipment overnight. By morning, every hazard on the list had been addressed. The team felt proud that decisive action had prevented a serious accident.",
+    "topicTag": "workplace safety",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "'~에 따라 행동하다'라는 뜻으로, 어떤 정보나 조언·감정을 바탕으로 실제 행동을 취하는 것을 의미한다.",
+    "realUsageKo": "권고사항, 직관, 보고서, 감정 등을 받아들여 구체적인 조치를 취할 때 사용한다. 'act on advice(조언에 따라 행동하다)', 'act on information(정보를 토대로 행동하다)'처럼 쓰인다.",
+    "etymologyKo": "'act'는 라틴어 'actus(행위)'에서 유래했으며, 'on'은 '~을 기반으로'라는 방향성을 더해 '특정 근거에 따라 행동에 옮기다'는 의미를 형성했다.",
+    "nuanceKo": "단순히 반응하는 것이 아니라 의도적·능동적으로 조치를 취한다는 뉘앙스가 강하다. 공식적·전문적 맥락에서 자주 쓰이며, 다소 결단력 있는 어감을 풍긴다.",
+    "shortExampleEn": "The government promised to act on the committee's recommendations immediately.",
+    "shortExampleKo": "정부는 위원회의 권고안에 즉각 따르겠다고 약속했다."
+  }
+}

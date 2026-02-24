@@ -1,0 +1,30 @@
+{
+  "id": "take-stock-of_256e9503",
+  "expression": "take stock of",
+  "selectionMeta": {
+    "selectedPhrase": "take stock of",
+    "selectedSenseLabelKo": "재평가하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the project fell apart, she took a weekend alone to take stock of her priorities and figure out what truly mattered to her career."
+  },
+  "step2": {
+    "story": "After a turbulent year, Marcus sat quietly in his apartment and began to take stock of his life. He realized he had been chasing goals that no longer aligned with his values. The moment of reflection gave him a clear sense of the direction he actually wanted to go.",
+    "topicTag": "self-reflection",
+    "moodTag": "contemplative"
+  },
+  "step3": {
+    "story": "The end-of-quarter review forced Elena to take stock of everything her team had accomplished over the past three months. The numbers on the screen told only part of the story — beneath the metrics were long nights, creative breakthroughs, and hard-won lessons. She gathered everyone in the conference room and acknowledged both their struggles and their wins with equal weight. As she spoke, she noticed something shift in the room: people sat up straighter, their eyes brighter than before. By honestly taking stock of where they truly stood, Elena helped her team rediscover the pride and purpose that had driven them from the very start.",
+    "topicTag": "workplace leadership",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "원래 상인이 창고의 재고(stock)를 직접 세고 확인한다는 뜻입니다.",
+    "realUsageKo": "현재 상황, 자신의 삶, 또는 특정 성과를 냉정하게 되돌아보고 종합적으로 평가하는 것을 의미합니다. 중요한 결정을 앞두거나 전환점에 섰을 때 주로 사용됩니다.",
+    "etymologyKo": "19세기 상인들이 판매 시즌이 끝나면 남은 재고(stock)를 직접 세며 손익을 파악하던 관행에서 유래했습니다. 이후 삶이나 상황 전반을 점검한다는 비유적 의미로 확장되었습니다.",
+    "nuanceKo": "단순한 감정적 반성이 아닌 체계적이고 분석적인 평가의 뉘앙스가 강합니다. 이성적인 시각으로 현재 위치를 파악하고 앞으로의 방향을 설정한다는 느낌을 줍니다.",
+    "shortExampleEn": "It's time to take stock of what we've achieved this year.",
+    "shortExampleKo": "올해 우리가 이룬 것들을 차분히 되짚어볼 때가 됐습니다."
+  }
+}

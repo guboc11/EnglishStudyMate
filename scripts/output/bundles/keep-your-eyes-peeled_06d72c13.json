@@ -1,0 +1,30 @@
+{
+  "id": "keep-your-eyes-peeled_06d72c13",
+  "expression": "keep your eyes peeled",
+  "selectionMeta": {
+    "selectedPhrase": "keep your eyes peeled",
+    "selectedSenseLabelKo": "잘 살피다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Keep your eyes peeled for any signs of wildlife as we hike through this trail."
+  },
+  "step2": {
+    "story": "The team spread out across the busy street fair, searching for their missing friend. \"Keep your eyes peeled,\" Marcus urged, scanning every booth and crowd. Twenty minutes later, they finally spotted her near the food stalls, happily sampling local treats.",
+    "topicTag": "friendship",
+    "moodTag": "alert"
+  },
+  "step3": {
+    "story": "Detective Rivera stepped out of her car and surveyed the neighborhood where the suspect had last been seen. She radioed her partner: \"Keep your eyes peeled — he could be anywhere on this block.\" Every doorway, every passing car felt like a potential hiding spot. She moved slowly, methodically, trusting her instincts built over years on the force. Then, at the end of the alley, she caught a flicker of movement behind a dumpster. Her patience had paid off.",
+    "topicTag": "detective work",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈꺼풀을 벗긴 채 유지하다, 즉 눈을 크게 뜨고 있다는 뜻.",
+    "realUsageKo": "무언가를 찾거나 놓치지 않으려고 주의 깊게 살피라고 당부할 때 사용한다. 주로 명령문 형태로 쓰인다.",
+    "etymologyKo": "'Peel'은 '껍질을 벗기다'는 뜻으로, 눈꺼풀을 벗겨 눈을 활짝 뜬다는 이미지에서 유래한 표현이다.",
+    "nuanceKo": "구어적이고 친근한 어투로, 경고나 당부의 뉘앙스를 담고 있다. 공식적인 글보다 일상 대화나 가벼운 상황에서 주로 쓰인다.",
+    "shortExampleEn": "Keep your eyes peeled for a parking spot — this area fills up fast.",
+    "shortExampleKo": "주차 자리를 잘 살펴봐 — 이 구역은 금방 차거든."
+  }
+}

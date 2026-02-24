@@ -1,0 +1,30 @@
+{
+  "id": "acquire-new-skills_12eb2b10",
+  "expression": "acquire new skills",
+  "selectionMeta": {
+    "selectedPhrase": "acquire new skills",
+    "selectedSenseLabelKo": "새로운 기술을 습득하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She enrolled in an online coding course to acquire new skills that would help her transition into the tech industry."
+  },
+  "step2": {
+    "story": "After losing his job, Marcus decided it was the perfect time to acquire new skills. He signed up for a graphic design bootcamp and spent long evenings practicing with design software. Within three months, he had built a portfolio and landed his first freelance client.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Priya had worked as an accountant for twelve years when her company began automating most of her department's tasks. Rather than waiting to be let go, she took charge of her future and decided to acquire new skills in data analytics. She began waking up an hour earlier each morning to complete online modules before her workday started. Her colleagues teased her for studying during lunch breaks, but she didn't mind. Six months later, she presented her first data-driven report to senior management, who were so impressed they created a new role just for her. The experience taught her that reinvention was not only possible but deeply rewarding.",
+    "topicTag": "professional growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "새로운 기술이나 능력을 습득하거나 배워서 자신의 것으로 만들다.",
+    "realUsageKo": "주로 직업적 성장이나 자기계발의 맥락에서 의도적인 학습과 노력을 통해 새로운 능력을 갖추게 되는 과정을 표현할 때 사용한다. 교육, 취업, 커리어 전환 등의 상황에서 자주 등장한다.",
+    "etymologyKo": "'acquire'는 라틴어 'acquirere'(더하다, 얻다)에서 유래하며, 'ad-(~에)'와 'quaerere(찾다, 구하다)'의 합성어다. 중세 영어를 거쳐 현재의 의미로 정착되었다.",
+    "nuanceKo": "단순히 배운다는 'learn'보다 더 능동적이고 의도적인 노력의 뉘앙스가 강하다. 시간과 에너지를 투자해 역량을 축적한다는 전문적이고 진지한 어감을 가진다.",
+    "shortExampleEn": "The company encourages all employees to acquire new skills through its internal training program.",
+    "shortExampleKo": "그 회사는 내부 교육 프로그램을 통해 모든 직원들이 새로운 기술을 습득하도록 장려한다."
+  }
+}

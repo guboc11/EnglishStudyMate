@@ -1,0 +1,30 @@
+{
+  "id": "coordinate-efforts_47aa2e6a",
+  "expression": "coordinate efforts",
+  "selectionMeta": {
+    "selectedPhrase": "coordinate efforts",
+    "selectedSenseLabelKo": "노력을 조율하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The project manager held a meeting to coordinate efforts across all departments before the product launch."
+  },
+  "step2": {
+    "story": "The relief organizations struggled to reach flood victims efficiently until a central team stepped in to coordinate efforts. Once communication channels were clear, supplies reached every shelter within hours.",
+    "topicTag": "teamwork",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After the storm knocked out power across the city, emergency responders from three different agencies arrived at the same location with overlapping plans and no shared strategy. The city director quickly called everyone together to coordinate efforts, assigning specific zones and radio frequencies to each team. Within the first hour, a clear command structure emerged and crews began working without duplication. Residents noticed the difference immediately — blocked roads were cleared faster and medical help arrived before dark. By morning, what had seemed like chaos had become a model of organized response.",
+    "topicTag": "emergency response",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "여러 사람이나 집단의 노력을 하나의 목표를 향해 체계적으로 정렬하고 조율한다는 뜻입니다.",
+    "realUsageKo": "팀 프로젝트, 비상 상황, 조직 간 협력 등에서 중복이나 혼선 없이 효율적으로 함께 일하는 과정을 설명할 때 씁니다.",
+    "etymologyKo": "'coordinate'는 라틴어 'co-(함께)'와 'ordinare(순서를 매기다)'에서 유래했으며, 여러 요소를 같은 질서 안에 두는 것을 의미합니다.",
+    "nuanceKo": "단순한 협력보다 더 능동적이고 구조적인 뉘앙스를 가지며, 지휘자나 리더의 역할이 암시되는 경우가 많습니다.",
+    "shortExampleEn": "We need to coordinate efforts with the marketing team to ensure a consistent message.",
+    "shortExampleKo": "일관된 메시지를 유지하려면 마케팅 팀과 노력을 조율해야 합니다."
+  }
+}

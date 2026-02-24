@@ -1,0 +1,30 @@
+{
+  "id": "let-go-of_b0418150",
+  "expression": "let go of",
+  "selectionMeta": {
+    "selectedPhrase": "let go of",
+    "selectedSenseLabelKo": "놓아주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of holding a grudge, she finally decided to let go of her anger and move forward."
+  },
+  "step2": {
+    "story": "Marcus had been carrying the weight of his failed business for two years. His therapist gently encouraged him to let go of the regret and focus on what he had learned. That evening, he wrote a letter to himself, and for the first time, felt truly free.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Elena stood at the edge of the dock, watching the sunset paint the water in shades of gold. She had spent the past year struggling to let go of a friendship that had slowly turned toxic. Her journal sat open beside her, filled with pages of grief and confusion. But tonight, something felt different — lighter, somehow. She took a deep breath and whispered a quiet goodbye to the version of herself that had clung so tightly to what no longer served her. Letting go, she realized, was not giving up; it was making space for something better.",
+    "topicTag": "emotional healing",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 잡고 있던 손을 놓아 자유롭게 하다.",
+    "realUsageKo": "물리적으로 손을 놓는 상황뿐 아니라, 감정·집착·과거·관계 등을 마음에서 내려놓고 더 이상 붙들지 않는다는 의미로 폭넓게 쓰인다.",
+    "etymologyKo": "'let'은 고대 영어 'lǣtan(허용하다, 내버려 두다)'에서 유래했으며, 'go'와 결합해 '가게 내버려 두다'는 뜻이 됐다. 여기에 대상을 나타내는 'of'가 붙어 '~을 놓아주다'라는 구동사가 완성됐다.",
+    "nuanceKo": "단순히 손에서 놓는 물리적 행위부터 오랜 감정적 집착을 내려놓는 심리적 해방까지 넓은 스펙트럼에서 쓰인다. 특히 감정적 맥락에서는 '결단'과 '성장'의 뉘앙스를 담고 있어 긍정적·치유적 톤으로 자주 사용된다.",
+    "shortExampleEn": "It's time to let go of the past and start fresh.",
+    "shortExampleKo": "이제 과거를 놓아주고 새롭게 시작할 때야."
+  }
+}

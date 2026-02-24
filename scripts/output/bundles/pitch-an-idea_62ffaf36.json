@@ -1,0 +1,30 @@
+{
+  "id": "pitch-an-idea_62ffaf36",
+  "expression": "pitch an idea",
+  "selectionMeta": {
+    "selectedPhrase": "pitch an idea",
+    "selectedSenseLabelKo": "아이디어를 제안하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "She nervously gathered her notes and prepared to pitch an idea to the executive team during the quarterly review."
+  },
+  "step2": {
+    "story": "Marcus had spent weeks refining his concept before finally deciding to pitch an idea to his manager. Standing in the conference room, he laid out the plan clearly and confidently. His manager leaned forward with genuine interest, asking when they could start.",
+    "topicTag": "workplace presentation",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Elena had been sitting on the concept for months, convinced it could transform how the company handled customer feedback. When the innovation summit finally arrived, she signed up for a five-minute slot to pitch an idea she called 'Loop'—a real-time sentiment tracker. The room was packed with senior directors and product leads, and her palms were damp as she clicked through her slides. But the moment she showed the projected revenue impact, the conversation shifted from polite attention to genuine excitement. Questions came rapid-fire, and the VP of Product asked her to schedule a follow-up that same afternoon. Walking out of the auditorium, Elena felt the months of quiet preparation had been worth every late night.",
+    "topicTag": "innovation and entrepreneurship",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "아이디어를 (투구하듯) 던져 제안하다.",
+    "realUsageKo": "비즈니스 맥락에서 상사, 투자자, 클라이언트 등에게 아이디어나 사업 계획을 설득력 있게 발표하거나 제안할 때 사용한다. 단순한 의견 제시보다 설득과 승인을 목표로 한 공식적·전략적 제안에 가깝다.",
+    "etymologyKo": "'Pitch'는 원래 야구에서 공을 던지는 행위를 뜻하며, 19세기 후반 영어권 상업 문화에서 '팔기 위해 무언가를 던지다'는 의미로 확장되었다. 오늘날 비즈니스 영어에서는 아이디어·제품·서비스를 상대방에게 제시하는 행위 전반을 가리킨다.",
+    "nuanceKo": "단순히 의견을 말하는 것(suggest)과 달리, 'pitch'에는 상대를 설득하려는 적극적인 의도와 준비된 발표라는 뉘앙스가 담겨 있다. 스타트업 투자 유치나 광고 대행사의 프레젠테이션처럼 경쟁적이고 결과 지향적인 상황에서 자주 쓰인다.",
+    "shortExampleEn": "He used the staff meeting as a chance to pitch an idea for a flexible work-from-home policy.",
+    "shortExampleKo": "그는 직원 회의를 유연 재택근무 정책에 대한 아이디어를 제안할 기회로 활용했다."
+  }
+}

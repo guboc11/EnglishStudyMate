@@ -1,0 +1,30 @@
+{
+  "id": "ease-off_3316a0d3",
+  "expression": "ease off",
+  "selectionMeta": {
+    "selectedPhrase": "ease off",
+    "selectedSenseLabelKo": "완화되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The rain began to ease off around midday, and people started coming out of the shelters."
+  },
+  "step2": {
+    "story": "After weeks of intense negotiations, the pressure finally began to ease off. Both teams took a deep breath and agreed to meet again with fresh perspectives.",
+    "topicTag": "negotiation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "For three months, the project had consumed every waking hour of Maya's life. But as the deadline passed and the product launched successfully, the tension began to ease off. She found herself sleeping through the night for the first time in weeks. Her colleagues noticed the change too — the lines on her forehead softened, and her laughter returned. Sometimes you don't realize how heavy a burden is until it finally lifts.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가가 점차 줄어들거나 약해지는 것을 의미합니다.",
+    "realUsageKo": "압박, 고통, 나쁜 날씨 등이 서서히 완화되거나 줄어드는 상황에서 사용합니다. 또한 누군가에게 덜 엄격하게 대하거나 압력을 줄이라는 의미로도 씁니다.",
+    "etymologyKo": "'ease'는 라틴어 'adjacens'(편안한 곳)에서 유래하여 '편안함'이나 '완화'를 뜻하며, 'off'가 결합되어 무언가가 점차 멀어지거나 줄어드는 뉘앙스를 더합니다.",
+    "nuanceKo": "갑작스러운 중단이 아닌 점진적인 완화를 강조하는 표현입니다. 구어체에서 자주 사용되며 자연스럽고 부드러운 느낌을 줍니다.",
+    "shortExampleEn": "The storm finally eased off by evening.",
+    "shortExampleKo": "폭풍이 저녁이 되어서야 마침내 잦아들었다."
+  }
+}

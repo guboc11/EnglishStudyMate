@@ -1,0 +1,30 @@
+{
+  "id": "run-of-the-mill_1f3d78a1",
+  "expression": "run of the mill",
+  "selectionMeta": {
+    "selectedPhrase": "run of the mill",
+    "selectedSenseLabelKo": "평범한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The movie was run of the mill — predictable plot, forgettable characters, and nothing that made it stand out from the dozens of similar films released that year."
+  },
+  "step2": {
+    "story": "Maya had hoped her blind date would be someone special, but the evening turned out to be completely run of the mill — dinner at a chain restaurant, small talk about the weather, and an awkward goodbye at the door. She drove home wondering if she was expecting too much, or if she simply hadn't met the right person yet.",
+    "topicTag": "dating",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "After years of working at a run of the mill marketing firm, Daniel had nearly forgotten what it felt like to be excited about his job. Every campaign followed the same template, every meeting covered the same ground, and every Friday felt identical to the last. Then one afternoon, a new client walked in with an idea so unconventional that the entire room fell silent. Daniel leaned forward in his chair for the first time in months, pen already moving across his notepad. For once, the week ahead didn't feel ordinary at all.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "제분소(mill)에서 막 나온(run of) 것, 즉 특별한 선별 없이 그냥 흘러나온 평범한 산출물을 뜻합니다.",
+    "realUsageKo": "특별히 뛰어나거나 인상적이지 않고 그저 평범한 것을 묘사할 때 사용합니다. 사람, 물건, 경험 모두에 쓸 수 있습니다.",
+    "etymologyKo": "19세기 제분 산업에서 유래한 표현으로, 'run of the mill'은 특별히 선별하지 않고 제분기에서 그냥 나오는 평균적인 밀가루를 가리켰습니다.",
+    "nuanceKo": "중립적이거나 약간 부정적인 뉘앙스를 지닙니다. 노골적인 비판은 아니지만, 기대에 못 미치거나 특색이 없다는 아쉬움을 담고 있습니다.",
+    "shortExampleEn": "It was a run of the mill performance — competent, but nothing memorable.",
+    "shortExampleKo": "그것은 평범한 공연이었다 — 능숙하긴 했지만 기억에 남는 것은 없었다."
+  }
+}

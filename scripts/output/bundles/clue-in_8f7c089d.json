@@ -1,0 +1,30 @@
+{
+  "id": "clue-in_8f7c089d",
+  "expression": "clue in",
+  "selectionMeta": {
+    "selectedPhrase": "clue in",
+    "selectedSenseLabelKo": "알려주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Can you clue me in on what happened at the meeting while I was away?"
+  },
+  "step2": {
+    "story": "Sarah had missed the team briefing due to a doctor's appointment. Her colleague James stopped by her desk to clue her in on the new project deadline. She was grateful she hadn't been left in the dark.",
+    "topicTag": "workplace communication",
+    "moodTag": "grateful"
+  },
+  "step3": {
+    "story": "When Marcus returned from his two-week vacation, the office felt completely different. People were rushing around with unfamiliar urgency, and he had no idea why. He pulled aside his manager, Elena, and asked her to clue him in on what had changed. She explained that a major client had requested an accelerated delivery schedule, shaking up the entire team's priorities. Marcus took a deep breath, nodded, and rolled up his sleeves — now that he was clued in, he was ready to help.",
+    "topicTag": "returning from leave",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'단서(clue)를 안으로 넣어준다'는 뜻으로, 누군가에게 필요한 정보를 제공한다는 의미입니다.",
+    "realUsageKo": "누군가가 모르는 정보나 상황을 알려줄 때 사용하며, 주로 'clue someone in on something' 형태로 씁니다.",
+    "etymologyKo": "'clue'는 원래 실타래(clew)를 뜻하는 고대 영어 단어로, 미로에서 길을 찾는 실마리를 의미했습니다. 여기서 '단서·정보'라는 뜻이 파생되었고, 'clue in'은 20세기 미국 영어에서 구동사로 자리 잡았습니다.",
+    "nuanceKo": "격식체보다는 구어체·비격식 표현에 가깝고, 가볍고 친근한 뉘앙스를 줍니다. 'inform'보다 더 캐주얼하며, 상대가 놓친 정보를 친절히 채워주는 느낌을 담고 있습니다.",
+    "shortExampleEn": "Nobody clued me in about the schedule change.",
+    "shortExampleKo": "일정 변경에 대해 아무도 나한테 알려주지 않았어."
+  }
+}

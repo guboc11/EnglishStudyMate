@@ -1,0 +1,30 @@
+{
+  "id": "deliver-on-time_cfc6fff6",
+  "expression": "deliver on time",
+  "selectionMeta": {
+    "selectedPhrase": "deliver on time",
+    "selectedSenseLabelKo": "제때 납품하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Our factory managed to deliver on time despite the supply chain disruptions that hit the region last quarter."
+  },
+  "step2": {
+    "story": "The production team worked through the weekend to make sure the order would deliver on time. Their client had a strict launch deadline, and missing it would have meant heavy penalties. By Monday morning, the shipment was already on its way.",
+    "topicTag": "manufacturing deadline",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the logistics manager received the call that a key supplier had gone on strike, her stomach dropped. The contract required them to deliver on time or face a 20% penalty, and the deadline was just four days away. She immediately called an emergency meeting, rerouted orders to three backup vendors, and arranged express freight for the most critical components. Her team barely slept, tracking shipments across five time zones through the night. On the morning of the deadline, the last pallet rolled off the truck with two hours to spare. The client shook her hand and said they'd never worked with a partner who could deliver on time under such pressure.",
+    "topicTag": "supply chain crisis",
+    "moodTag": "tense yet triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "약속된 시간 안에 물건이나 결과물을 납품하다.",
+    "realUsageKo": "비즈니스 맥락에서 계약이나 합의에 따라 상품, 서비스, 또는 프로젝트 결과물을 기한 내에 완료하여 전달하는 것을 의미한다. 제조업, 물류, 프로젝트 관리 등 다양한 분야에서 폭넓게 사용된다.",
+    "etymologyKo": "'deliver'는 라틴어 'deliberare(해방시키다, 넘겨주다)'에서 유래하여 중세 영어에 '전달하다'의 의미로 정착했다. 'on time'은 '예정된 시각에'를 뜻하는 부사구로, 두 표현이 결합되어 비즈니스 영어의 핵심 표현이 되었다.",
+    "nuanceKo": "단순히 늦지 않는다는 의미를 넘어, 신뢰와 전문성을 강조하는 뉘앙스를 담고 있다. 납품 지연이 계약 위반이나 패널티로 이어질 수 있는 상황에서 자주 사용되며, 공급업체·파트너의 신뢰도를 평가하는 기준으로 쓰인다.",
+    "shortExampleEn": "We pride ourselves on always being able to deliver on time, no matter the circumstances.",
+    "shortExampleKo": "우리는 어떤 상황에서도 항상 제때 납품할 수 있다는 것을 자랑스럽게 생각합니다."
+  }
+}

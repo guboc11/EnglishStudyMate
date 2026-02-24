@@ -1,0 +1,30 @@
+{
+  "id": "harsh-reality_41cb6be4",
+  "expression": "harsh reality",
+  "selectionMeta": {
+    "selectedPhrase": "harsh reality",
+    "selectedSenseLabelKo": "냉혹한 현실",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of chasing his dream of becoming a professional musician, he finally had to face the harsh reality that talent alone wasn't enough to pay the bills."
+  },
+  "step2": {
+    "story": "She graduated with honors and expected job offers to flood in, but the harsh reality of the job market hit her hard. Month after month of rejections forced her to reconsider her expectations and build new skills she hadn't anticipated needing.",
+    "topicTag": "career struggle",
+    "moodTag": "sobering"
+  },
+  "step3": {
+    "story": "For most of his twenties, Daniel believed that working hard and staying loyal to his company would guarantee success. Then one Tuesday morning, he received a termination notice along with forty other employees in a mass layoff. The harsh reality was that the corporate world operated on profit margins, not loyalty. He sat in his car for an hour before driving home, the weight of it settling in his chest. That evening, he opened his laptop not to browse job boards, but to finally register for the coding bootcamp he had put off for three years. Sometimes the harshest truths are the ones that finally set you free.",
+    "topicTag": "job loss and reinvention",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "가혹한(harsh) 현실(reality), 즉 받아들이기 힘들 만큼 냉혹하고 불편한 사실이나 상황을 의미합니다.",
+    "realUsageKo": "기대나 희망과 달리 실제 현실이 냉정하고 힘들다는 것을 깨달을 때 사용합니다. 주로 'face the harsh reality(냉혹한 현실을 직면하다)'나 'the harsh reality is that...(냉혹한 현실은 ~이다)' 형태로 쓰입니다.",
+    "etymologyKo": "'harsh'는 고대 노르드어 'harskr(거칠다)'에서 유래했으며, 'reality'는 라틴어 'realitas(실재)'에서 왔습니다. 두 단어가 결합해 '직시하기 불편한 실제 상황'을 뜻하는 굳어진 표현이 되었습니다.",
+    "nuanceKo": "단순히 '어렵다'는 뜻을 넘어 환상이나 기대가 무너지는 순간의 충격과 체념의 감정이 담겨 있습니다. 주로 진지하거나 성찰적인 맥락에서 사용되며, 자기 위로보다는 냉철한 인정의 뉘앙스가 강합니다.",
+    "shortExampleEn": "The harsh reality is that not everyone who works hard will achieve their dreams.",
+    "shortExampleKo": "냉혹한 현실은 열심히 노력한다고 해서 모두가 꿈을 이루는 것은 아니라는 것입니다."
+  }
+}

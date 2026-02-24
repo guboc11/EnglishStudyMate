@@ -1,0 +1,30 @@
+{
+  "id": "press-ahead_b39e1a87",
+  "expression": "press ahead",
+  "selectionMeta": {
+    "selectedPhrase": "press ahead",
+    "selectedSenseLabelKo": "계속 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the setbacks, the team decided to press ahead with the launch scheduled for next month."
+  },
+  "step2": {
+    "story": "The budget cuts were severe, but Maya chose to press ahead with her research project. She believed the findings were too important to abandon, so she worked late every night to keep things moving.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the storm knocked out power across the site, the construction manager gathered his crew at dawn and told them they would press ahead as planned. Every delay cost money the company didn't have, and the deadline was non-negotiable. The workers patched up what they could and pressed ahead through the mud and cold, pouring foundations while generator lights flickered overhead. By evening, they had finished the day's target — tired, but proud they hadn't stopped. The manager shook each worker's hand and said quietly, 'We press ahead. That's what we do.'",
+    "topicTag": "workplace challenge",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "앞으로 계속 밀고 나아가다.",
+    "realUsageKo": "어려움이나 반대에도 불구하고 하던 일을 멈추지 않고 계속 진행할 때 사용한다. 주로 프로젝트, 계획, 목표 추구 상황에서 쓰인다.",
+    "etymologyKo": "'press'는 '압력을 가하며 나아가다'는 뜻의 고대 프랑스어 presser에서 유래했으며, 'ahead'와 결합해 '앞으로 밀고 가다'는 의미가 됐다.",
+    "nuanceKo": "단순히 '계속하다(continue)'보다 의지와 추진력이 강조된 표현이다. 장애물이 있음을 암시하면서도 굴하지 않겠다는 뉘앙스를 담고 있어 결단력 있는 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "We will press ahead with the plan regardless of the criticism.",
+    "shortExampleKo": "우리는 비판에 관계없이 계획을 계속 밀고 나갈 것이다."
+  }
+}

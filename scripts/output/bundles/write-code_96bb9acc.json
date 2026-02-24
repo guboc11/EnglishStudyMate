@@ -1,0 +1,30 @@
+{
+  "id": "write-code_96bb9acc",
+  "expression": "write code",
+  "selectionMeta": {
+    "selectedPhrase": "write code",
+    "selectedSenseLabelKo": "코드를 작성하다",
+    "selectedDomain": "tech"
+  },
+  "step1": {
+    "sentence": "She stays up late every night to write code for the new app her team is launching next month."
+  },
+  "step2": {
+    "story": "Marcus had always dreamed of building his own game. He taught himself to write code after work, practicing for hours each evening. Six months later, his first game was live on the app store.",
+    "topicTag": "self-improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Priya sat at her desk long after her colleagues had gone home, the glow of her monitor lighting the empty office. She had been asked to write code for a feature that everyone said was impossible to finish before the deadline. But she had a plan. Line by line, she worked through the logic, testing each function as she went. By 2 a.m., the tests were all green. She leaned back in her chair and smiled — she had done it.",
+    "topicTag": "late-night work",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "코드를 작성하다 — 컴퓨터가 실행할 수 있는 프로그래밍 언어로 명령문을 적는다는 뜻.",
+    "realUsageKo": "소프트웨어 개발 맥락에서 프로그램·기능·스크립트를 만들기 위해 프로그래밍 언어로 소스 코드를 작성하는 행위를 가리킨다.",
+    "etymologyKo": "'code'는 라틴어 'codex(책, 목록)'에서 유래했으며, 20세기 중반 컴퓨터 시대에 접어들며 '프로그래밍 언어로 된 명령문'이라는 의미로 자리 잡았다.",
+    "nuanceKo": "직업적·일상적 뉘앙스 모두 가지며, 전문 개발자뿐 아니라 취미로 코딩을 배우는 사람에게도 자연스럽게 쓰인다. 'code'가 동사로도 쓰여 'write code'와 'code'는 유사한 의미로 혼용된다.",
+    "shortExampleEn": "I need a few hours of quiet time to write code without interruptions.",
+    "shortExampleKo": "방해 없이 코드를 작성하려면 조용한 시간이 몇 시간 필요해."
+  }
+}

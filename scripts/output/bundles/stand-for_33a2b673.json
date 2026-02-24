@@ -1,0 +1,30 @@
+{
+  "id": "stand-for_33a2b673",
+  "expression": "stand for",
+  "selectionMeta": {
+    "selectedPhrase": "stand for",
+    "selectedSenseLabelKo": "나타내다 / 지지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The letters 'UN' stand for United Nations, an international organization promoting peace and cooperation."
+  },
+  "step2": {
+    "story": "Maya wore a pin with a peace symbol on her jacket every day. When her coworker asked what it stood for, she explained it represented her belief in nonviolence. She believed small gestures could remind people of the values worth standing for.",
+    "topicTag": "personal values",
+    "moodTag": "earnest"
+  },
+  "step3": {
+    "story": "During the town hall meeting, the councilman asked each candidate what their campaign truly stood for. One by one, they listed policies and promises, but Elena stepped forward and spoke simply: 'I stand for the people who feel invisible in this city.' The crowd went quiet, then broke into applause. She had not promised the most, but she had said what many longed to hear. When the votes were counted, her words had proven more powerful than any slogan. She understood that what you stand for defines who you are far more than what you say.",
+    "topicTag": "civic leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 위해 서다, 즉 어떤 것을 대표하거나 지지하는 자리에 서다.",
+    "realUsageKo": "약어나 기호가 무엇을 '나타내는지' 설명할 때, 또는 어떤 가치나 원칙을 '지지하고 옹호한다'는 의미로 폭넓게 사용된다.",
+    "etymologyKo": "'stand'(서다)와 'for'(~을 위해)의 결합으로, 어떤 대의나 의미를 대변하기 위해 자리를 지킨다는 개념에서 비롯되었다.",
+    "nuanceKo": "단순한 표기나 약어를 설명할 때는 중립적 어조이지만, 가치·신념과 함께 쓰이면 확고한 신념과 도덕적 입장을 강조하는 무게감 있는 표현이 된다.",
+    "shortExampleEn": "What does 'ASAP' stand for?",
+    "shortExampleKo": "'ASAP'은 무엇을 나타내나요?"
+  }
+}

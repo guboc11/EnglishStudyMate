@@ -1,0 +1,30 @@
+{
+  "id": "neck-deep-in_5ca60ac7",
+  "expression": "neck deep in",
+  "selectionMeta": {
+    "selectedPhrase": "neck deep in",
+    "selectedSenseLabelKo": "깊이 관여된",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "By the time the deadline arrived, Marcus was neck deep in unresolved complaints and had no idea how to catch up."
+  },
+  "step2": {
+    "story": "Priya had been neck deep in the merger negotiations for three weeks straight, barely sleeping. Every time she thought she was close to a resolution, another complication surfaced. She finally called her mentor and admitted she needed help.",
+    "topicTag": "work stress",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "When Daniel volunteered to lead the city's new infrastructure project, he had no idea what he was getting into. Within a month, he was neck deep in bureaucratic red tape, conflicting stakeholder demands, and a budget that kept shrinking. He stayed late every night, cross-referencing reports and renegotiating contracts, trying to keep the project alive. His colleagues admired his dedication, but they could see the toll it was taking on him. One evening, his old mentor stopped by the office and told him that being neck deep in problems wasn't the same as making progress. That conversation changed everything — Daniel learned to delegate, and the project finally moved forward.",
+    "topicTag": "leadership challenges",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "목까지 깊이 잠겨 있다는 뜻으로, 어떤 상황에 완전히 빠져 있는 상태를 나타낸다.",
+    "realUsageKo": "일, 빚, 문제 등에 너무 깊이 얽혀 있어 쉽게 빠져나오기 어려운 상황을 표현할 때 사용한다. 주로 부담스럽거나 벅찬 상황에 쓰인다.",
+    "etymologyKo": "목(neck)까지 물이나 진흙에 잠긴 상황을 비유적으로 확장한 표현으로, 'up to one's neck in'과 같은 의미로도 쓰인다.",
+    "nuanceKo": "부정적이거나 힘든 상황에 주로 사용되며, 자발적이든 비자발적이든 벗어나기 어려운 깊은 관여 상태를 강조하는 뉘앙스를 가진다.",
+    "shortExampleEn": "She's neck deep in debt after the failed business venture.",
+    "shortExampleKo": "그녀는 사업 실패 후 빚에 깊이 빠져 있다."
+  }
+}

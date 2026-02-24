@@ -1,0 +1,30 @@
+{
+  "id": "quick-thinking_fc8ae16e",
+  "expression": "quick thinking",
+  "selectionMeta": {
+    "selectedPhrase": "quick thinking",
+    "selectedSenseLabelKo": "빠른 사고",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her quick thinking during the power outage prevented the experiment from being ruined."
+  },
+  "step2": {
+    "story": "When the hiking trail suddenly flooded, Marcus's quick thinking saved the group. He spotted a rocky ledge just in time and guided everyone to safety before the water rose further.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The kitchen fire broke out without warning during the dinner rush. Chef Lena didn't panic — her quick thinking kicked in immediately. She grabbed the fire blanket, smothered the flames, and calmly redirected her team to the backup station. Within minutes, service had resumed as if nothing had happened. The restaurant manager later told her that her quick thinking had saved not just the evening, but potentially the entire business.",
+    "topicTag": "workplace crisis",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "빠른 사고: 상황을 신속하게 파악하고 즉각적으로 판단하는 능력.",
+    "realUsageKo": "위기나 예상치 못한 상황에서 순간적으로 올바른 판단을 내리는 능력을 칭찬하거나 묘사할 때 사용한다. 주로 'thanks to her quick thinking' 또는 'quick thinking saved the day'처럼 쓰인다.",
+    "etymologyKo": "'quick'은 고대 영어 'cwic'(살아 있는, 민첩한)에서 유래했으며, 'thinking'은 사고 행위를 뜻한다. 두 단어가 결합해 '재빠른 판단력'을 의미하는 굳어진 연어(collocation)로 자리 잡았다.",
+    "nuanceKo": "단순히 머리가 좋다는 뜻이 아니라, 압박 상황에서 즉시 행동할 수 있는 실용적인 민첩함을 강조한다. 칭찬의 뉘앙스가 강하며, 침착함과 결단력을 함께 함의한다.",
+    "shortExampleEn": "Thanks to the paramedic's quick thinking, the patient survived the cardiac arrest.",
+    "shortExampleKo": "구급대원의 빠른 사고 덕분에 환자는 심정지에서 살아났다."
+  }
+}

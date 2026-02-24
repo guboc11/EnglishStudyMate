@@ -1,0 +1,30 @@
+{
+  "id": "run-up-against_bf6a51a6",
+  "expression": "run up against",
+  "selectionMeta": {
+    "selectedPhrase": "run up against",
+    "selectedSenseLabelKo": "~에 부딪히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She ran up against a strict deadline that made finishing the project nearly impossible."
+  },
+  "step2": {
+    "story": "Marcus had been planning the community event for weeks, but he ran up against unexpected permit restrictions from the city. No matter how many calls he made, the bureaucratic wall wouldn't budge. He had to completely rethink the venue before time ran out.",
+    "topicTag": "planning obstacles",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Elena had always believed her startup idea was solid, but the moment she began pitching to investors, she ran up against a wall of skepticism she hadn't anticipated. One investor after another questioned the market size, the timing, and her team's experience. She left each meeting feeling deflated, wondering if she had misjudged the whole venture. Still, each rejection taught her something new about how to sharpen her pitch. She revised her deck, gathered more data, and went back out with renewed confidence. Slowly, the resistance began to soften, and she realized that running up against opposition had only made her case stronger.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 향해 달려가다가 그것과 부딪히다.",
+    "realUsageKo": "계획이나 과정 중에 예상치 못한 장애물, 어려움, 또는 반대에 직면할 때 사용합니다. 주로 해결하기 어려운 문제나 저항에 맞닥뜨리는 상황을 묘사합니다.",
+    "etymologyKo": "'run'(달리다)과 'up against'(~에 맞닥뜨려)가 결합된 구동사로, 빠르게 전진하다가 장벽이나 저항에 부딪히는 물리적 이미지에서 비유적 의미가 발전했습니다.",
+    "nuanceKo": "단순히 '어려움이 있다'는 표현보다 더 갑작스럽고 예상치 못한 충돌의 느낌을 줍니다. 문제의 심각성이나 외부적 원인을 강조할 때 자주 쓰입니다.",
+    "shortExampleEn": "The new policy ran up against strong opposition from employees.",
+    "shortExampleKo": "새 정책은 직원들의 강한 반대에 부딪혔다."
+  }
+}

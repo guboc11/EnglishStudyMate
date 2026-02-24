@@ -1,0 +1,30 @@
+{
+  "id": "frown-upon_cb155e04",
+  "expression": "frown upon",
+  "selectionMeta": {
+    "selectedPhrase": "frown upon",
+    "selectedSenseLabelKo": "못마땅하게 여기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Many traditionalists frown upon the idea of skipping formal education in favor of self-taught skills."
+  },
+  "step2": {
+    "story": "The company's culture frowns upon employees leaving before 6 PM, even if all their work is done. Marcus felt the silent pressure every time he packed up his bag at 5:30. He eventually found a new job where output mattered more than hours.",
+    "topicTag": "workplace culture",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Growing up, Diane's family frowned upon any display of emotion in public. Crying at a movie or laughing too loudly at a restaurant was met with sharp looks and whispered corrections. She spent years believing that controlling her feelings was a sign of strength. It wasn't until she moved abroad and saw how openly people expressed themselves that she began to question what she had been taught. Slowly, she learned that vulnerability wasn't weakness — it was simply human. She stopped frowning upon herself for feeling things deeply.",
+    "topicTag": "family values",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "눈살을 찌푸리며 바라보다, 즉 무언가를 못마땅하게 여기거나 승인하지 않다.",
+    "realUsageKo": "어떤 행동이나 태도를 사회적·도덕적으로 바람직하지 않다고 여길 때 사용하며, 공식적인 금지보다는 암묵적인 비난이나 불승인을 나타낸다.",
+    "etymologyKo": "'frown'은 중세 영어에서 '얼굴을 찡그리다'는 뜻으로, 'upon'과 결합해 특정 대상을 향해 눈살을 찌푸린다는 의미로 발전했다.",
+    "nuanceKo": "강한 금지보다는 사회적 기대나 관습에 어긋난다는 뉘앙스를 가지며, 주로 격식 있는 문맥이나 글에서 자주 쓰인다.",
+    "shortExampleEn": "Society often frowns upon people who break unspoken rules of etiquette.",
+    "shortExampleKo": "사회는 암묵적인 예절 규범을 어기는 사람들을 못마땅하게 여기는 경우가 많다."
+  }
+}

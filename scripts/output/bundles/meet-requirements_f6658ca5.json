@@ -1,0 +1,30 @@
+{
+  "id": "meet-requirements_f6658ca5",
+  "expression": "meet requirements",
+  "selectionMeta": {
+    "selectedPhrase": "meet requirements",
+    "selectedSenseLabelKo": "요구사항을 충족하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new software update was released only after the team confirmed it would meet requirements set by the client."
+  },
+  "step2": {
+    "story": "Maya spent the entire weekend revising her project proposal. She knew the committee was strict, and she had to meet requirements on both budget and timeline. When she finally submitted it, she felt a quiet confidence she hadn't expected.",
+    "topicTag": "work deadline",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had been preparing for the engineering certification exam for six months. Every week, he checked the official guidelines to make sure his practice aligned with the standards he needed to meet requirements for licensure. His friends thought he was overdoing it, but Daniel knew that in his field, close enough was never good enough. On exam day, he walked into the testing center calm and focused. When the results came back two weeks later, he had passed with a strong margin. The discipline of making sure he could meet requirements at every stage had paid off completely.",
+    "topicTag": "professional certification",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "요구사항(requirements)을 충족하다(meet), 즉 정해진 기준이나 조건을 만족시키다.",
+    "realUsageKo": "업무, 시험, 법적 기준 등에서 정해진 조건을 모두 갖추거나 기준에 부합함을 나타낼 때 광범위하게 사용된다. '조건을 맞추다', '기준을 충족하다'는 뉘앙스로 격식체와 비격식체 모두에서 쓰인다.",
+    "etymologyKo": "'meet'는 고대 영어 'mētan(마주치다, 맞닥뜨리다)'에서 유래하여, 무언가에 정면으로 대응한다는 의미로 확장되었다. 'requirement'는 라틴어 'requirere(필요로 하다)'에서 온 말로, 두 단어가 결합하여 '필요 조건에 정면으로 응하다'는 뜻을 갖는다.",
+    "nuanceKo": "단순히 조건을 통과하는 것 이상으로 기준에 '딱 맞게' 부합한다는 뉘앙스가 있다. 비즈니스, 법률, 학문, 기술 문서 등 격식 있는 맥락에서 특히 자주 등장하며, 능동적으로 기준을 달성했음을 강조한다.",
+    "shortExampleEn": "All applicants must meet requirements before the interview stage.",
+    "shortExampleKo": "모든 지원자는 면접 단계 전에 요구사항을 충족해야 합니다."
+  }
+}

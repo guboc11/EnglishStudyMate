@@ -1,0 +1,30 @@
+{
+  "id": "burn-the-candle-at-both-ends_5c9a81f4",
+  "expression": "burn the candle at both ends",
+  "selectionMeta": {
+    "selectedPhrase": "burn the candle at both ends",
+    "selectedSenseLabelKo": "무리하게 일하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She's been burning the candle at both ends lately, staying late at the office and then coming home to study for her certification exam."
+  },
+  "step2": {
+    "story": "Marcus had been burning the candle at both ends for weeks—working double shifts at the restaurant and attending night classes. His friends urged him to slow down, but he insisted the sacrifice was worth it. Still, dark circles under his eyes told a different story.",
+    "topicTag": "work stress",
+    "moodTag": "exhausted"
+  },
+  "step3": {
+    "story": "When Sarah landed her dream internship, she thought she could handle it all: the demanding nine-to-five, evening volunteer shifts, and weekend freelance projects. For the first month, she burned the candle at both ends, fueled by ambition and cold brew coffee. By the second month, small mistakes crept into her work and she snapped at her roommate over trivial things. Her mentor pulled her aside one afternoon and said quietly, 'You can't pour from an empty cup.' Sarah finally cancelled two side commitments, booked a full weekend of rest, and returned to her desk the following Monday feeling, for the first time in months, genuinely ready to tackle the day.",
+    "topicTag": "burnout and self-care",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "양쪽 끝에서 동시에 촛불을 태우다.",
+    "realUsageKo": "수면이나 휴식을 희생하면서 이른 아침부터 늦은 밤까지 무리하게 일하거나 활동하는 상황을 묘사할 때 사용한다.",
+    "etymologyKo": "17세기 프랑스어 표현에서 유래했으며, 촛불의 양 끝을 동시에 태우면 두 배 빨리 소진되는 것처럼 에너지를 낭비한다는 의미로 영어에 정착했다.",
+    "nuanceKo": "과도한 노력에 대한 경고나 걱정의 뉘앙스를 담고 있으며, 장기적으로 지속 불가능한 생활 방식을 비판적 또는 우려하는 시각으로 표현할 때 주로 쓰인다.",
+    "shortExampleEn": "If you keep burning the candle at both ends, you'll burn out before the project is even finished.",
+    "shortExampleKo": "계속 그렇게 무리하면 프로젝트가 끝나기도 전에 완전히 지쳐버릴 거야."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "intense-focus_d0375f1f",
+  "expression": "intense focus",
+  "selectionMeta": {
+    "selectedPhrase": "intense focus",
+    "selectedSenseLabelKo": "강렬한 집중",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She completed the project ahead of schedule thanks to her intense focus during the final week."
+  },
+  "step2": {
+    "story": "The exam was only an hour away, and Marcus closed his eyes to clear his mind. He took a deep breath and channeled intense focus into every practice problem on his desk. By the time he walked into the hall, he felt calm and ready.",
+    "topicTag": "study preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The coding competition had been going on for six hours, and the room buzzed with keyboards and hushed voices. Leila barely noticed the noise — she had slipped into a state of intense focus that made everything else disappear. The problem in front of her was complex, but each line of code she wrote felt precise and deliberate. Her teammates exchanged worried glances at the clock, but Leila only saw the screen. In the final ten minutes, she found the bug, fixed it, and hit submit. When the results came in, their team had placed first.",
+    "topicTag": "coding competition",
+    "moodTag": "absorbed"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 대상이나 과제에 강렬하고 집중된 주의를 기울이는 상태.",
+    "realUsageKo": "공부, 업무, 스포츠 등 높은 집중력이 요구되는 상황에서 다른 것에 전혀 신경 쓰지 않고 한 가지에 몰두하는 모습을 표현할 때 씁니다.",
+    "etymologyKo": "'intense'는 라틴어 'intensus(팽팽하게 당겨진)'에서 유래했고, 'focus'는 라틴어로 '화덕, 불꽃의 중심'을 뜻합니다. 두 단어가 결합해 '한 점에 강하게 모인 주의력'을 나타냅니다.",
+    "nuanceKo": "단순히 집중한다는 뜻을 넘어, 주변의 모든 것을 차단할 만큼 강렬하고 깊은 몰입 상태를 강조합니다. 긍정적인 맥락에서 뛰어난 성과를 이끄는 원동력으로 자주 묘사됩니다.",
+    "shortExampleEn": "His intense focus on the task helped him finish two hours early.",
+    "shortExampleKo": "그 일에 대한 그의 강렬한 집중 덕분에 두 시간이나 일찍 끝낼 수 있었다."
+  }
+}

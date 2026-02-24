@@ -1,0 +1,30 @@
+{
+  "id": "endless-possibilities_d1144400",
+  "expression": "endless possibilities",
+  "selectionMeta": {
+    "selectedPhrase": "endless possibilities",
+    "selectedSenseLabelKo": "무한한 가능성",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When she finally moved to the city, she felt that her future held endless possibilities."
+  },
+  "step2": {
+    "story": "Jake stood at the edge of the cliff, staring out at the vast ocean below. He had just quit his job and felt both terrified and alive, knowing that endless possibilities stretched before him. For the first time in years, he felt free to choose his own path.",
+    "topicTag": "new beginnings",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maria had always followed the plan her parents laid out for her — study hard, get a stable job, and settle down. But the day she stumbled into a pottery class by accident, something shifted inside her. She discovered she had a natural talent for shaping clay, and with it came the realization that her life held endless possibilities she had never dared to imagine. She began spending every evening at the studio, her hands covered in clay, her mind buzzing with ideas for new designs. Friends started asking if they could buy her pieces, and soon a small online shop turned into something real. Looking back, she could hardly believe that one unexpected afternoon had opened so many doors.",
+    "topicTag": "self-discovery",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "'endless'(끝없는)와 'possibilities'(가능성들)의 결합으로, 끝이 없을 만큼 많은 가능성들을 뜻한다.",
+    "realUsageKo": "새로운 기회나 선택지가 매우 많을 때 사용하며, 특히 인생의 전환점이나 새로운 출발 앞에서 미래에 대한 기대감을 표현할 때 자주 쓰인다.",
+    "etymologyKo": "'endless'는 고대 영어 'endeleas'(끝이 없는)에서 유래하며, 'possibility'는 라틴어 'possibilitas'(가능함)에서 왔다. 두 단어의 결합은 한계 없이 열려 있는 잠재력을 강조한다.",
+    "nuanceKo": "긍정적이고 낙관적인 어감이 강하며, 단순히 '많다'는 것을 넘어 상상할 수 없을 만큼 다양하고 풍부한 선택지가 있음을 암시한다. 주로 희망적이거나 격려하는 맥락에서 사용된다.",
+    "shortExampleEn": "The internet has opened up endless possibilities for small business owners.",
+    "shortExampleKo": "인터넷은 소규모 사업자들에게 무한한 가능성을 열어주었다."
+  }
+}

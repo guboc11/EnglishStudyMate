@@ -1,0 +1,30 @@
+{
+  "id": "show-someone-the-ropes_9c7e4bf2",
+  "expression": "show someone the ropes",
+  "selectionMeta": {
+    "selectedPhrase": "show someone the ropes",
+    "selectedSenseLabelKo": "방법을 알려주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "On her first day at the company, her manager took the time to show her the ropes so she could get started with confidence."
+  },
+  "step2": {
+    "story": "Jake was nervous about starting his new job at the warehouse, but his colleague Emma immediately offered to show him the ropes. She walked him through every procedure step by step, making sure he understood the workflow before leaving him on his own.",
+    "topicTag": "workplace mentorship",
+    "moodTag": "reassuring"
+  },
+  "step3": {
+    "story": "When Mia joined the small marketing agency fresh out of college, she had the skills but none of the real-world experience. Her supervisor, Daniel, could see her potential and decided to personally show her the ropes over the first two weeks. He brought her into client meetings, explained how to handle difficult feedback, and taught her the unwritten rules of the office. Mia soaked everything up like a sponge, asking questions and taking careful notes. By the end of her first month, she was handling her own accounts with minimal guidance. She never forgot how much Daniel's patience had meant to her, and years later she made a point of showing the ropes to every new hire who walked through the door.",
+    "topicTag": "workplace mentorship",
+    "moodTag": "warm and grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 밧줄(ropes)을 보여주다.",
+    "realUsageKo": "새로운 일이나 환경에서 필요한 방법, 절차, 규칙 등을 직접 가르쳐주거나 안내해 주는 것을 의미한다. 직장, 학교, 조직 등 다양한 상황에서 경험 있는 사람이 초보자를 이끌 때 사용한다.",
+    "etymologyKo": "19세기 선원들의 용어에서 유래했다. 배에서 일하려면 수많은 밧줄(ropes)의 용도와 조작법을 익혀야 했으며, 숙련된 선원이 신입 선원에게 각 밧줄의 사용법을 알려주는 것에서 비롯되었다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 친절하고 협력적인 뉘앙스를 담고 있다. 단순한 설명을 넘어 실질적이고 경험적인 지식을 전달한다는 의미를 내포한다.",
+    "shortExampleEn": "Could you show me the ropes before I start handling customers on my own?",
+    "shortExampleKo": "혼자 고객을 응대하기 전에 방법 좀 알려줄 수 있어요?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "willing-participant_df389d81",
+  "expression": "willing participant",
+  "selectionMeta": {
+    "selectedPhrase": "willing participant",
+    "selectedSenseLabelKo": "자발적인 참여자",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was a willing participant in the community workshop, eager to share her ideas and learn from others."
+  },
+  "step2": {
+    "story": "The team needed volunteers for the new project, and Marcus stepped forward as a willing participant without any hesitation. His enthusiasm encouraged others to join in as well.",
+    "topicTag": "teamwork",
+    "moodTag": "enthusiastic"
+  },
+  "step3": {
+    "story": "When the professor announced a study on decision-making, Priya signed up immediately as a willing participant. She had always been curious about psychology and saw it as a chance to contribute to real research. Throughout the sessions, she answered every question thoughtfully and engaged with each task with genuine interest. The researchers later noted that her responses had provided some of the most insightful data in the entire study. Priya left feeling that her involvement had truly mattered.",
+    "topicTag": "research and curiosity",
+    "moodTag": "engaged"
+  },
+  "meaning": {
+    "literalMeaningKo": "기꺼이 참여하는 사람, 즉 강요 없이 스스로 원해서 참가하는 참여자.",
+    "realUsageKo": "어떤 활동, 실험, 프로젝트 등에 자발적으로 동참하는 사람을 가리킬 때 사용하며, 의지와 자율성을 강조한다.",
+    "etymologyKo": "'willing'은 고대 영어 'willan(원하다)'에서 유래해 '기꺼이 하는'을 뜻하고, 'participant'는 라틴어 'participare(함께 나누다)'에서 왔다.",
+    "nuanceKo": "강제나 압박 없이 스스로 선택해 참여한다는 점을 부각하며, 긍정적이고 적극적인 태도를 내포한다.",
+    "shortExampleEn": "All students were willing participants in the school's mentorship program.",
+    "shortExampleKo": "모든 학생들이 학교 멘토십 프로그램에 자발적인 참여자로 함께했다."
+  }
+}

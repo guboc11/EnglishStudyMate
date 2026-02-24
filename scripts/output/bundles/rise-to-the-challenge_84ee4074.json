@@ -1,0 +1,30 @@
+{
+  "id": "rise-to-the-challenge_84ee4074",
+  "expression": "rise to the challenge",
+  "selectionMeta": {
+    "selectedPhrase": "rise to the challenge",
+    "selectedSenseLabelKo": "도전에 응하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the lead developer quit unexpectedly, Maya rose to the challenge and delivered the product launch on time."
+  },
+  "step2": {
+    "story": "No one expected the rookie to rise to the challenge when the team's best player got injured. But he stepped onto the field with calm determination and played the game of his life. By the final whistle, his teammates were lifting him on their shoulders.",
+    "topicTag": "sports competition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the regional manager announced she was retiring early, the entire branch fell into uncertainty. No one felt ready to take over, and the workload seemed impossible to manage alone. That's when Daniel decided to rise to the challenge, volunteering to lead the transition despite his own doubts. He stayed late every night, listened carefully to his colleagues' concerns, and broke every overwhelming task into smaller steps. Within a month, the branch was not only running smoothly — it was outperforming its targets. Daniel later said it was the hardest thing he'd ever done, but also the most defining.",
+    "topicTag": "workplace leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "도전을 향해 일어서다, 즉 어려운 상황이나 요구에 맞서 대응하다.",
+    "realUsageKo": "예상보다 어렵거나 중요한 상황에서 능력을 발휘해 잘 해내는 것을 뜻하며, 주로 압박 속에서도 포기하지 않고 맞서는 태도를 강조할 때 사용한다.",
+    "etymologyKo": "'Rise'는 고대 영어 'rīsan(일어나다)'에서 유래했으며, 'challenge'는 라틴어 'calumnia(비난, 도발)'에서 비롯됐다. 두 단어가 합쳐져 '도전 앞에 일어서다'는 비유적 표현이 됐다.",
+    "nuanceKo": "단순히 시도한다는 의미를 넘어, 어렵고 부담스러운 상황에서도 물러서지 않고 최선을 다하는 적극적이고 용기 있는 태도를 내포한다. 칭찬이나 격려의 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "She rose to the challenge and completed the project despite the tight deadline.",
+    "shortExampleKo": "그녀는 빠듯한 마감 일정에도 불구하고 도전에 응해 프로젝트를 완수했다."
+  }
+}

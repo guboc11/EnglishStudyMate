@@ -1,0 +1,30 @@
+{
+  "id": "nothing-ventured-nothing-gained_b1a717e9",
+  "expression": "nothing ventured nothing gained",
+  "selectionMeta": {
+    "selectedPhrase": "nothing ventured nothing gained",
+    "selectedSenseLabelKo": "시도하지 않으면 얻는 것도 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to apply for the competitive scholarship abroad, reminding herself that nothing ventured nothing gained."
+  },
+  "step2": {
+    "story": "Marcus had been hesitating for months about pitching his startup idea to investors. His mentor finally told him, 'Nothing ventured, nothing gained — send the email today.' He did, and landed his first meeting the very next week.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "After years of playing it safe in her career, Dana was offered the chance to lead a project that felt far beyond her experience. Fear held her back for days until a friend reminded her that nothing ventured, nothing gained. She accepted the role, stumbling at first but learning faster than she ever had before. The project not only succeeded — it became the highlight of her résumé. Looking back, Dana realized that the biggest risk had been standing still, and that growth always lived just outside her comfort zone.",
+    "topicTag": "personal growth",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "아무것도 시도하지 않으면 아무것도 얻을 수 없다.",
+    "realUsageKo": "위험을 감수하거나 새로운 시도를 해야만 성과나 보상을 얻을 수 있다는 것을 강조할 때 사용한다. 망설이는 사람에게 용기를 북돋우거나 행동을 촉구할 때 자주 쓰인다.",
+    "etymologyKo": "중세 영어 속담에서 유래했으며, 14세기 문헌에서도 유사한 표현이 발견된다. 원래 형태는 'nothing venture, nothing have'로 알려져 있으며, 위험 없이는 이익도 없다는 상인·항해 문화의 정서를 반영한다.",
+    "nuanceKo": "격언적이고 다소 고전적인 어감이 있어 진지한 조언이나 동기부여 맥락에서 주로 쓰인다. 가볍게 쓰면 '에라, 모르겠다'는 뉘앙스도 담길 수 있다.",
+    "shortExampleEn": "I know the audition is tough, but nothing ventured nothing gained — just go for it.",
+    "shortExampleKo": "오디션이 힘든 건 알지만, 시도하지 않으면 얻는 것도 없어 — 그냥 도전해봐."
+  }
+}

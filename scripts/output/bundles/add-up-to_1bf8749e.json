@@ -1,0 +1,30 @@
+{
+  "id": "add-up-to_1bf8749e",
+  "expression": "add up to",
+  "selectionMeta": {
+    "selectedPhrase": "add up to",
+    "selectedSenseLabelKo": "결국 ~이 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "All the small delays throughout the day added up to a missed deadline."
+  },
+  "step2": {
+    "story": "Maya kept skipping her morning runs, telling herself it was just one day. But those skipped workouts added up to three missed months of training. When the race registration opened, she realized she wasn't ready.",
+    "topicTag": "self-discipline",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "At the end of the fiscal year, the finance team gathered to review the numbers. Every small overspend on coffee, office supplies, and last-minute travel had seemed harmless on its own. But when the accountant laid out the spreadsheet, those individually trivial expenses added up to a staggering $40,000 in unplanned costs. The room fell silent as the manager stared at the figure. 'It's never just one thing,' she said quietly. From that point on, every purchase, no matter how small, required a second look.",
+    "topicTag": "financial management",
+    "moodTag": "sobering"
+  },
+  "meaning": {
+    "literalMeaningKo": "여러 항목을 합산하면 특정 수치나 결과가 된다는 뜻이다.",
+    "realUsageKo": "숫자의 합계를 표현할 때뿐 아니라, 작은 행동이나 사건들이 쌓여 결국 어떤 결과나 의미를 만들어낼 때 비유적으로도 자주 쓰인다.",
+    "etymologyKo": "'add up'은 수를 더해 합계를 내다는 의미에서 출발했으며, 여기에 방향·도달을 나타내는 'to'가 붙어 '결국 ~이 되다'라는 표현으로 굳어졌다.",
+    "nuanceKo": "단순한 수학적 합산보다 '누적된 결과'를 강조하는 뉘앙스가 강하며, 긍정적 성과보다 예상치 못한 부정적 결과를 드러낼 때 특히 효과적으로 쓰인다.",
+    "shortExampleEn": "The extra hours she put in each week added up to over 200 hours by year's end.",
+    "shortExampleKo": "그녀가 매주 추가로 투입한 시간은 연말이 되자 200시간이 넘는 결과로 이어졌다."
+  }
+}

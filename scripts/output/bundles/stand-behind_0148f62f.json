@@ -1,0 +1,30 @@
+{
+  "id": "stand-behind_0148f62f",
+  "expression": "stand behind",
+  "selectionMeta": {
+    "selectedPhrase": "stand behind",
+    "selectedSenseLabelKo": "지지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how controversial the decision was, she chose to stand behind her team's judgment."
+  },
+  "step2": {
+    "story": "When Sarah's proposal was criticized during the meeting, her manager immediately stood behind her without hesitation. He reminded the team that her research was thorough and her reasoning was sound. Sarah felt a surge of confidence knowing she had his full support.",
+    "topicTag": "workplace support",
+    "moodTag": "encouraged"
+  },
+  "step3": {
+    "story": "When James announced his plan to pivot the startup in a bold new direction, many investors grew skeptical. His co-founder Lisa had private doubts, but she chose to stand behind him publicly at every presentation. She believed a united front was essential during uncertain times, and she trusted James's instincts built over years of partnership. As weeks passed and early results trickled in, their shared conviction began to win over even the most hesitant backers. James never forgot that Lisa's willingness to stand behind him in those critical early days had made all the difference. Their partnership grew stronger, rooted in mutual trust that had been tested and proven.",
+    "topicTag": "startup leadership",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가의 뒤에 물리적으로 서다.",
+    "realUsageKo": "어떤 사람이나 결정을 지지하거나 옹호한다는 의미로 사용된다. 특히 어려운 상황에서도 흔들리지 않고 공개적으로 지지할 때 쓰인다.",
+    "etymologyKo": "'stand'(서다)와 'behind'(뒤에)가 결합하여, 누군가의 등 뒤에 버팀목처럼 서서 지켜준다는 이미지에서 비롯된 표현이다.",
+    "nuanceKo": "단순한 동의보다 강한 헌신과 책임감이 담긴 표현으로, 비판이나 압박이 있는 상황에서도 적극적으로 지지한다는 뉘앙스가 강하다.",
+    "shortExampleEn": "The CEO stood behind the employee despite the public backlash.",
+    "shortExampleKo": "CEO는 여론의 역풍에도 불구하고 그 직원을 지지했다."
+  }
+}

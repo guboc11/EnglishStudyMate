@@ -1,0 +1,30 @@
+{
+  "id": "turn-down-an-offer_5658f9f0",
+  "expression": "turn down an offer",
+  "selectionMeta": {
+    "selectedPhrase": "turn down an offer",
+    "selectedSenseLabelKo": "제안을 거절하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to turn down an offer from a competing firm because she valued her team too much to leave."
+  },
+  "step2": {
+    "story": "Marcus had been job-hunting for months, so everyone was surprised when he chose to turn down an offer from one of the city's top companies. The salary was generous, but the role didn't align with where he wanted his career to go. Sometimes saying no is the boldest move you can make.",
+    "topicTag": "career decision",
+    "moodTag": "resolute"
+  },
+  "step3": {
+    "story": "The email arrived on a Tuesday morning, and Priya stared at it for a long time before closing her laptop. It was an offer she had dreamed about two years ago — a senior position at a prestigious firm with a salary that would change her life. Yet something felt off. After a sleepless night talking it over with her partner, she made up her mind to turn down an offer that most people would have accepted without a second thought. She wrote back with a polite but firm message, thanking the recruiter and explaining that the timing wasn't right. Walking away was hard, but when she hit send, a quiet sense of clarity washed over her — she knew she had chosen integrity over opportunity.",
+    "topicTag": "career and values",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "'turn down'은 '아래로 돌리다'라는 뜻으로, 제안을 거절한다는 의미로 굳어진 표현이다.",
+    "realUsageKo": "취업 제안, 비즈니스 거래, 초대 등 다양한 상황에서 '거절하다'는 뜻으로 폭넓게 사용된다. 'decline an offer'보다 구어적이고 일상적인 느낌이 강하다.",
+    "etymologyKo": "'turn down'은 원래 라디오나 조명의 볼륨·밝기를 낮출 때 쓰던 표현에서 유래했으며, 20세기 초부터 '거절하다'는 뜻으로 확장되어 쓰이기 시작했다.",
+    "nuanceKo": "단순한 거절을 뜻하지만, 이미 받은 제안을 능동적으로 물리친다는 뉘앙스가 있어 결단력 있는 행동을 암시한다. 'reject'보다 덜 부정적으로 들린다.",
+    "shortExampleEn": "He turned down an offer to become the department head, preferring to stay close to hands-on work.",
+    "shortExampleKo": "그는 부서장 자리 제안을 거절했는데, 현장 업무에 더 가까이 있고 싶었기 때문이다."
+  }
+}

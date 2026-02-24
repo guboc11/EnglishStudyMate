@@ -1,0 +1,30 @@
+{
+  "id": "lose-your-temper_3eae4190",
+  "expression": "lose your temper",
+  "selectionMeta": {
+    "selectedPhrase": "lose your temper",
+    "selectedSenseLabelKo": "화를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She tried to stay calm, but after being interrupted for the third time, she finally lost her temper."
+  },
+  "step2": {
+    "story": "Marcus had been patient all morning as the project kept falling apart, but when his colleague blamed him in front of everyone, he lost his temper. He raised his voice in the middle of the office, startling the whole team. Embarrassed by his outburst, he quietly apologized and stepped outside to cool down.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Nina had always prided herself on staying composed under pressure, but moving day had been one disaster after another. The movers arrived two hours late, two boxes were dropped and broken, and the new apartment's key didn't even work at first. When the landlord casually said there was 'nothing he could do until Monday,' Nina finally lost her temper. She spoke sharply, words tumbling out faster than she could control, her hands shaking slightly. Afterward, sitting on a cardboard box in the half-empty hallway, she felt a wave of exhaustion and regret—she knew losing her temper hadn't fixed anything, and she promised herself she'd handle things more calmly next time.",
+    "topicTag": "moving stress",
+    "moodTag": "frustrated"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '화(기질)를 잃다'는 뜻으로, 감정적 평정심을 잃어버리는 상태를 나타냅니다.",
+    "realUsageKo": "참고 있던 감정이 한계에 달해 갑자기 화를 내거나 소리를 지르는 상황을 표현할 때 사용합니다. 주로 평소에는 차분한 사람이 특정 자극에 의해 순간적으로 분노를 표출할 때 씁니다.",
+    "etymologyKo": "'temper'는 중세 영어에서 '기질' 또는 '마음의 균형 상태'를 의미했으며, 라틴어 'temperare(조절하다)'에서 유래했습니다. '균형 잡힌 감정 상태를 잃는다'는 개념이 이 표현의 핵심입니다.",
+    "nuanceKo": "단순히 화가 난 상태(be angry)와 달리, 평소의 자제력이나 이성을 잃고 순간적으로 폭발하는 뉘앙스가 있습니다. 행동 이후 후회가 따르는 경우를 묘사할 때 특히 잘 어울립니다.",
+    "shortExampleEn": "He rarely loses his temper, so everyone was shocked when he slammed the door.",
+    "shortExampleKo": "그는 좀처럼 화를 내지 않아서, 그가 문을 쾅 닫았을 때 모두가 깜짝 놀랐다."
+  }
+}

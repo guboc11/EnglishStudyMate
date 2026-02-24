@@ -1,0 +1,30 @@
+{
+  "id": "run-by_bee8d9c8",
+  "expression": "run by",
+  "selectionMeta": {
+    "selectedPhrase": "run by",
+    "selectedSenseLabelKo": "~에게 의견을 묻다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before finalizing the proposal, she wanted to run it by her manager to make sure it aligned with the team's direction."
+  },
+  "step2": {
+    "story": "Jake had a new idea for restructuring the project timeline and felt confident about it. Still, he decided to run it by his colleague before presenting it to the client. Her feedback helped him spot a scheduling conflict he had completely missed.",
+    "topicTag": "workplace communication",
+    "moodTag": "collaborative"
+  },
+  "step3": {
+    "story": "After three days of drafting, Mia finally had a product launch strategy she was proud of. Before sending it to the executive team, she wanted a second pair of eyes on it and asked if she could run the plan by her mentor. Her mentor listened carefully, asked probing questions, and pointed out an assumption about market timing that hadn't been tested. Mia went back to her desk, revised the section, and strengthened her argument with data she had overlooked. When she finally presented to the executives, her confidence showed. She had learned that running an idea by someone you trust before a big reveal almost always makes it sharper.",
+    "topicTag": "strategic planning",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 누군가 곁으로 빠르게 지나가게 하다.",
+    "realUsageKo": "아이디어나 계획을 상대방에게 이야기하고 의견이나 확인을 구할 때 사용합니다. 공식 승인보다는 가볍게 검토를 요청하는 뉘앙스입니다.",
+    "etymologyKo": "'run'(흐르다, 지나가다)과 'by'(~곁에, ~를 통해)가 결합된 표현으로, 정보를 누군가 옆으로 빠르게 흘려보낸다는 이미지에서 유래했습니다.",
+    "nuanceKo": "부담 없이 의견을 묻는 가볍고 협력적인 어감을 지닙니다. 'ask for approval'보다 훨씬 캐주얼하며, 상대방의 판단을 존중하면서도 최종 결정권은 본인에게 있음을 암시합니다.",
+    "shortExampleEn": "Can I run this idea by you before the meeting?",
+    "shortExampleKo": "회의 전에 이 아이디어를 당신에게 한번 이야기해봐도 될까요?"
+  }
+}

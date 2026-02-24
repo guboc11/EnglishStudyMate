@@ -1,0 +1,30 @@
+{
+  "id": "spin-your-wheels_2b5a2f8e",
+  "expression": "spin your wheels",
+  "selectionMeta": {
+    "selectedPhrase": "spin your wheels",
+    "selectedSenseLabelKo": "헛수고하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of revising the same report without any feedback, she realized she was spinning her wheels and decided to schedule a meeting with her manager."
+  },
+  "step2": {
+    "story": "Jake had been tweaking his startup pitch for months, rewriting slides and rehearsing lines without ever showing it to anyone. One evening his mentor told him bluntly, 'You're spinning your wheels — just go talk to real customers.' The next morning, Jake set up five interviews, and by the end of the week he had more useful feedback than in all his months of solo preparation.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Maya had always prided herself on her work ethic, staying late every night to refine her team's project strategy. But after three months with no visible progress, her colleague gently pointed out that they were spinning their wheels, going in circles rather than moving forward. Maya took a step back and realized she had been optimizing details while the core direction was never clearly agreed upon. She called a team meeting, and within an hour they aligned on a single goal. The relief in the room was immediate — suddenly everyone knew exactly what to do. By the end of the following week, they had shipped more than in the previous three months combined.",
+    "topicTag": "team productivity",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "바퀴가 헛돌다 — 차량의 바퀴가 제자리에서만 돌며 앞으로 나아가지 못하는 상태를 말한다.",
+    "realUsageKo": "시간과 에너지를 많이 쏟지만 실질적인 진전이나 결과를 얻지 못할 때 사용한다. 노력이 방향 없이 낭비되는 상황을 묘사하며, 자기 자신이나 타인의 비효율적인 행동을 지적할 때 흔히 쓰인다.",
+    "etymologyKo": "진흙이나 눈 속에 빠진 차량의 바퀴가 헛돌며 앞으로 나아가지 못하는 모습에서 유래했다. 20세기 초 자동차가 보급되면서 생겨난 표현으로, 물리적 상황이 비유적 의미로 확장되었다.",
+    "nuanceKo": "단순히 진행이 느린 것이 아니라 노력 자체가 아무 성과 없이 낭비된다는 뉘앙스를 담고 있다. 다소 비판적이거나 자기 성찰적인 톤으로 쓰이는 경우가 많다.",
+    "shortExampleEn": "We've been in meetings all week but we're just spinning our wheels — nothing is getting decided.",
+    "shortExampleKo": "우리는 일주일 내내 회의만 했지만 헛수고였어 — 아무것도 결정되지 않았어."
+  }
+}

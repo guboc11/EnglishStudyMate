@@ -1,0 +1,30 @@
+{
+  "id": "pay-the-consequences_b54eb8a8",
+  "expression": "pay the consequences",
+  "selectionMeta": {
+    "selectedPhrase": "pay the consequences",
+    "selectedSenseLabelKo": "결과에 대한 대가를 치르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He ignored all the warning signs and eventually had to pay the consequences of his reckless decisions."
+  },
+  "step2": {
+    "story": "Sarah skipped every study session and didn't take her finals seriously. When the results came out, she had to pay the consequences and repeat the year. It was a hard lesson, but one she would never forget.",
+    "topicTag": "academic failure",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "For years, Marcus cut corners at work, submitted reports full of errors, and dismissed his manager's feedback. He told himself the shortcuts saved time and that no one would notice. Then a major client discovered the discrepancies, and the company lost a contract worth millions. Marcus was called into the boardroom and told he would have to pay the consequences — his position was being terminated. Walking out of the building that afternoon, he finally understood that every choice carries a price, and sooner or later that bill comes due.",
+    "topicTag": "workplace accountability",
+    "moodTag": "sobering"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 행동이나 결정으로 인해 발생한 부정적인 결과를 감수하다.",
+    "realUsageKo": "잘못된 선택이나 무책임한 행동 이후 그에 따른 불이익, 처벌, 또는 손실을 직접 받아들여야 하는 상황을 묘사할 때 사용한다.",
+    "etymologyKo": "'pay'는 고대 프랑스어 'payer(빚을 갚다)'에서 유래했으며, 'consequence'는 라틴어 'consequentia(따라오는 것)'에서 비롯되었다. 합쳐서 '따라오는 것을 갚다', 즉 책임을 지다라는 의미가 됐다.",
+    "nuanceKo": "부정적인 결과를 감수한다는 뉘앙스가 강하며, 자업자득의 의미를 내포하는 경우가 많다. 경고나 훈계의 맥락에서도 자주 쓰인다.",
+    "shortExampleEn": "If you keep lying to people, you'll eventually pay the consequences.",
+    "shortExampleKo": "사람들에게 계속 거짓말을 하면, 결국 그 대가를 치르게 될 거야."
+  }
+}

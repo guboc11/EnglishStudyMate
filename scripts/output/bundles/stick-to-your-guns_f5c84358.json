@@ -1,0 +1,30 @@
+{
+  "id": "stick-to-your-guns_f5c84358",
+  "expression": "stick to your guns",
+  "selectionMeta": {
+    "selectedPhrase": "stick to your guns",
+    "selectedSenseLabelKo": "입장을 고수하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when her colleagues pushed back, she decided to stick to her guns and present the original proposal to the board."
+  },
+  "step2": {
+    "story": "The team urged Marcus to drop his unconventional marketing idea, but he chose to stick to his guns. Two weeks later, the campaign exceeded every benchmark they had set.",
+    "topicTag": "workplace decision",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Everyone in the room disagreed with Priya's assessment of the project timeline. Her manager frowned, her colleagues exchanged skeptical glances, and the client tapped the table impatiently. Still, Priya had run the numbers three times and was certain she was right. She took a slow breath and stuck to her guns, calmly walking the group through each data point. By the end of the meeting, the room had come around to her side.",
+    "topicTag": "professional confidence",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 총을 꼭 붙들고 놓지 않다.",
+    "realUsageKo": "압박이나 반대에도 불구하고 자신의 의견이나 입장을 끝까지 고수할 때 사용한다. 주로 누군가가 설득이나 비판에 굴하지 않고 소신을 지키는 상황을 묘사한다.",
+    "etymologyKo": "18세기 군사 표현에서 유래했으며, 전투 중 병사가 후퇴하지 않고 자신의 포(砲) 옆을 지키는 모습에서 비롯되었다. 이후 '소신을 버리지 않는다'는 의미로 일반화되었다.",
+    "nuanceKo": "외부의 압력이나 집단적 반대가 있는 상황을 전제하므로, 단순한 고집이 아닌 확신에 찬 의연함을 강조하는 뉘앙스가 강하다. 긍정적인 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "Despite the criticism, she stuck to her guns and refused to change the design.",
+    "shortExampleKo": "비판에도 불구하고 그녀는 입장을 고수하며 디자인을 바꾸기를 거부했다."
+  }
+}

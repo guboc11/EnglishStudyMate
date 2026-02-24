@@ -1,0 +1,30 @@
+{
+  "id": "two-wrongs-don't-make-a-right_7f89f0a3",
+  "expression": "two wrongs don't make a right",
+  "selectionMeta": {
+    "selectedPhrase": "two wrongs don't make a right",
+    "selectedSenseLabelKo": "잘못으로 잘못을 바로잡을 수 없다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Just because he lied to you first doesn't mean you should lie back — two wrongs don't make a right."
+  },
+  "step2": {
+    "story": "When Maya found out her coworker had taken credit for her idea, she wanted to delete his files in revenge. Her mentor stopped her and said, 'Two wrongs don't make a right — report it properly instead.' Maya took a deep breath and went to HR the next morning.",
+    "topicTag": "workplace conflict",
+    "moodTag": "restrained"
+  },
+  "step3": {
+    "story": "After Jake discovered his brother had secretly borrowed and dented his car without asking, he was furious and considered scratching his brother's motorcycle in return. Their father sat him down that evening and said quietly, 'I understand you're angry, but two wrongs don't make a right.' Jake argued that his brother deserved to feel the same pain, but his father reminded him that revenge only creates more damage between people who love each other. Reluctantly, Jake agreed to talk things out instead. The next day, the brothers had an honest conversation, and his brother apologized and offered to pay for the repair. Jake realized that choosing the harder path had preserved something more valuable than the car.",
+    "topicTag": "family conflict",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 가지 잘못이 합쳐진다고 해서 올바른 일이 되지는 않는다.",
+    "realUsageKo": "누군가 잘못을 당했을 때 보복으로 똑같이 잘못된 행동을 하는 것은 상황을 해결하지 못한다는 뜻으로 사용된다. 주로 복수나 앙갚음을 말리는 상황에서 쓰인다.",
+    "etymologyKo": "18세기 영어 속담에서 유래했으며, 'wrong'은 '잘못된 행동'을 의미한다. 최초 기록은 1734년 벤저민 프랭클린의 글에서 발견된다.",
+    "nuanceKo": "도덕적 충고를 줄 때 사용하는 표현으로, 다소 교훈적이고 설교적인 느낌이 있다. 친한 사이에서도 쓰이지만 주로 어른이 아이에게, 혹은 조언자가 상대방을 타이를 때 자주 쓰인다.",
+    "shortExampleEn": "I know she was rude to you, but insulting her back won't help — two wrongs don't make a right.",
+    "shortExampleKo": "그녀가 무례하게 굴었다는 건 알지만, 되받아 모욕하는 건 도움이 안 돼 — 잘못으로 잘못을 바로잡을 수 없어."
+  }
+}

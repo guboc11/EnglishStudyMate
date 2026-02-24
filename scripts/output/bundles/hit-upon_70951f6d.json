@@ -1,0 +1,30 @@
+{
+  "id": "hit-upon_70951f6d",
+  "expression": "hit upon",
+  "selectionMeta": {
+    "selectedPhrase": "hit upon",
+    "selectedSenseLabelKo": "우연히 생각해내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "While doodling in her notebook during lunch, she suddenly hit upon the idea that would change her entire research direction."
+  },
+  "step2": {
+    "story": "Marcus had been stuck on the same problem for days until he hit upon a solution while rinsing dishes after dinner. It was one of those unexpected moments where everything clicked into place.",
+    "topicTag": "creative thinking",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Elena had spent three exhausting weeks trying to find a new angle for her novel. She had filled notebook after notebook with rejected ideas, each one feeling more forced than the last. Then one afternoon, while watching pigeons squabble over a crust of bread in the park, she hit upon the perfect metaphor for her protagonist's inner conflict. She rushed home, barely stopping to take off her coat, and typed furiously for hours. By midnight, the chapter that had haunted her was finally alive on the page.",
+    "topicTag": "creative breakthrough",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가에 '부딪히다'는 뜻의 hit이 upon과 결합해, 아이디어나 해결책이 머릿속에 불현듯 '닿는' 장면을 표현한다.",
+    "realUsageKo": "의도적으로 고민한 끝이 아니라 우연한 계기로 좋은 생각이나 해결책을 떠올릴 때 사용한다. 주로 'hit upon an idea / a solution / a plan' 형태로 쓰인다.",
+    "etymologyKo": "'hit'은 고대 노르드어 'hitta(우연히 만나다)'에서 유래했으며, upon과 결합해 '우연히 마주치다'는 의미를 갖게 되었다.",
+    "nuanceKo": "계획된 발견보다 뜻밖의 순간에 아이디어가 떠오른다는 뉘앙스가 강하며, 다소 격식 있는 문어체에도 잘 어울린다.",
+    "shortExampleEn": "He hit upon a brilliant solution while taking his morning walk.",
+    "shortExampleKo": "그는 아침 산책을 하다가 기발한 해결책을 우연히 떠올렸다."
+  }
+}

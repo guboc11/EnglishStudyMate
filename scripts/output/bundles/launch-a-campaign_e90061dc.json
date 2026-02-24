@@ -1,0 +1,30 @@
+{
+  "id": "launch-a-campaign_e90061dc",
+  "expression": "launch a campaign",
+  "selectionMeta": {
+    "selectedPhrase": "launch a campaign",
+    "selectedSenseLabelKo": "캠페인을 시작하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The nonprofit decided to launch a campaign to raise awareness about ocean pollution."
+  },
+  "step2": {
+    "story": "Sarah had spent months preparing data and visuals before her team was ready to launch a campaign for the new product line. The launch exceeded expectations, generating thousands of sign-ups in the first week.",
+    "topicTag": "marketing",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "After losing market share to a competitor, the leadership team knew they had to act decisively. They brought together designers, copywriters, and data analysts to launch a campaign unlike anything the company had done before. The strategy combined social media ads, influencer partnerships, and a bold new brand message. Within a month, customer engagement had doubled and sales were climbing steadily. The team celebrated quietly, already planning their next move.",
+    "topicTag": "brand strategy",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "캠페인을 공식적으로 시작하다 또는 출범시키다.",
+    "realUsageKo": "비즈니스, 정치, 사회 운동 등의 분야에서 목표를 달성하기 위한 조직적인 활동을 개시할 때 사용한다. 광고 캠페인, 모금 캠페인, 인지도 제고 캠페인 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'launch'는 고대 프랑스어 'lanchier'(창을 던지다)에서 유래하여 '강하게 시작하다'는 의미로 발전했다. 'campaign'은 라틴어 'campania'(평야, 전장)에서 비롯되어 군사 작전을 뜻하다가 조직적인 활동 전반을 가리키게 되었다.",
+    "nuanceKo": "단순히 '시작하다'보다 더 조직적이고 대규모이며 공식적인 시작을 강조한다. 준비와 전략이 수반된 출범임을 내포하므로, 중요한 이니셔티브나 마케팅 활동을 묘사할 때 격식 있고 전문적인 뉘앙스를 준다.",
+    "shortExampleEn": "They plan to launch a campaign targeting young professionals next quarter.",
+    "shortExampleKo": "그들은 다음 분기에 젊은 직장인을 대상으로 하는 캠페인을 시작할 계획이다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cut-through_9134b342",
+  "expression": "cut through",
+  "selectionMeta": {
+    "selectedPhrase": "cut through",
+    "selectedSenseLabelKo": "관통하다 / 단호하게 처리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to cut through the bureaucratic red tape and get the permits approved within a day."
+  },
+  "step2": {
+    "story": "The new manager could cut through confusion like no one else on the team. When debates dragged on, she stepped in, laid out the facts, and made a decision on the spot.",
+    "topicTag": "leadership",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "David had been waiting three weeks for his insurance claim to move forward, buried under a pile of forms and unanswered emails. Frustrated, he called the regional office and asked to speak with a supervisor who could actually cut through the delays. The supervisor listened, reviewed the file in real time, and resolved the issue within the hour. David hung up the phone relieved, realizing that sometimes all it takes is one person willing to cut through the noise and act.",
+    "topicTag": "bureaucracy",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 가로질러 자르거나 통과하다.",
+    "realUsageKo": "복잡한 절차, 혼란, 또는 장애물을 단호하게 제거하거나 무시하고 핵심에 바로 접근할 때 사용한다. 비유적으로 '장벽을 뚫다', '문제를 단칼에 해결하다'는 뉘앙스로 자주 쓰인다.",
+    "etymologyKo": "'cut'(자르다)과 'through'(통과하여)의 결합으로, 물리적으로 무언가를 가로질러 자른다는 의미에서 비롯되었다. 시간이 지나면서 장애물이나 복잡성을 제거한다는 추상적 의미로 확장되었다.",
+    "nuanceKo": "단순히 해결하는 것을 넘어 효율적이고 단호하게 처리한다는 긍정적 어감을 지닌다. 리더십이나 문제 해결 능력을 강조할 때 자주 사용된다.",
+    "shortExampleEn": "His calm explanation cut through the tension in the room.",
+    "shortExampleKo": "그의 차분한 설명이 방 안의 긴장감을 단번에 해소했다."
+  }
+}

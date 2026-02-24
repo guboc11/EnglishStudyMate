@@ -1,0 +1,30 @@
+{
+  "id": "go-above-and-beyond_ca50d001",
+  "expression": "go above and beyond",
+  "selectionMeta": {
+    "selectedPhrase": "go above and beyond",
+    "selectedSenseLabelKo": "기대 이상으로 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always goes above and beyond to make sure her clients are satisfied with the results."
+  },
+  "step2": {
+    "story": "When the deadline was moved up by a week, Marcus didn't complain — he stayed late every night to go above and beyond what was expected. His manager noticed and praised him in front of the entire team.",
+    "topicTag": "workplace dedication",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "Claire had only been hired as a junior designer, but from day one she went above and beyond what anyone asked of her. She redesigned the client presentation on her own time, adding animations and research no one had requested. When the client chose their firm over three competitors, the director pointed directly to Claire's work as the reason. It wasn't just talent — it was the kind of effort that makes people stand out. From that moment on, everyone on the team knew her name.",
+    "topicTag": "career growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '위와 그 너머로 가다'라는 뜻으로, 정해진 범위를 초과하여 나아간다는 이미지를 담고 있다.",
+    "realUsageKo": "실제로는 '기대치나 요구 사항을 훨씬 뛰어넘는 노력이나 성과를 보이다'라는 의미로 쓰이며, 직장, 서비스, 인간관계 등 다양한 맥락에서 누군가의 탁월한 헌신을 칭찬할 때 자주 사용된다.",
+    "etymologyKo": "군사·법률 용어에서 유래한 표현으로, 'above and beyond the call of duty(임무의 부름 이상)'에서 축약된 형태다. 19세기부터 사용되었으며, 의무 이상의 행동을 뜻하는 맥락에서 발전했다.",
+    "nuanceKo": "긍정적이고 칭찬하는 어조를 강하게 띠며, 단순히 '열심히 했다'는 것을 넘어 기대 수준을 상당히 초과했음을 강조한다. 과장이 아닌 진심 어린 인정의 표현으로 받아들여진다.",
+    "shortExampleEn": "The volunteers went above and beyond to help the flood victims.",
+    "shortExampleKo": "자원봉사자들은 홍수 피해자들을 돕기 위해 기대 이상의 노력을 기울였다."
+  }
+}

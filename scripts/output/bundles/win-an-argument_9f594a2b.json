@@ -1,0 +1,30 @@
+{
+  "id": "win-an-argument_9f594a2b",
+  "expression": "win an argument",
+  "selectionMeta": {
+    "selectedPhrase": "win an argument",
+    "selectedSenseLabelKo": "논쟁에서 이기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed calm and presented the facts clearly, which helped her win an argument with her coworker about the project deadline."
+  },
+  "step2": {
+    "story": "Mark had been debating the new policy with his manager for weeks. He finally gathered enough data to win an argument during the team meeting, and the manager agreed to reconsider. Everyone in the room was impressed by how well-prepared he was.",
+    "topicTag": "workplace debate",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena and her brother had argued about the same topic every family dinner for years. This time, she had done her research and was ready. She laid out her points one by one, calmly and clearly, refusing to let his interruptions throw her off. When she finished, there was a long silence at the table. For the first time, she had managed to win an argument against him, and even their father admitted she had made a compelling case. She felt not triumphant, but quietly satisfied.",
+    "topicTag": "family discussion",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "논쟁에서 승리하다, 즉 토론이나 말싸움에서 상대방을 설득하거나 논리적으로 제압하는 것을 의미한다.",
+    "realUsageKo": "실제로는 단순히 큰 소리를 내거나 고집을 부리는 것이 아니라, 논리·증거·설득력으로 상대방의 동의를 끌어내거나 자신의 주장이 옳음을 인정받을 때 사용한다.",
+    "etymologyKo": "'win'은 고대 영어 'winnan(싸우다, 노력하다)'에서 유래했고, 'argument'는 라틴어 'argumentum(증거, 논거)'에서 비롯되어 '논리적 근거를 통한 주장'을 뜻하게 되었다.",
+    "nuanceKo": "단순히 말싸움에서 이겼다는 뉘앙스보다는 논리적이고 이성적인 토론에서 우위를 점했다는 긍정적인 뉘앙스를 띠는 경우가 많으며, 때로는 개인 간의 승부욕을 암시하기도 한다.",
+    "shortExampleEn": "He used solid evidence to win an argument with his professor.",
+    "shortExampleKo": "그는 확실한 증거를 사용해 교수와의 논쟁에서 이겼다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "leave-no-stone-unturned_a033037f",
+  "expression": "leave no stone unturned",
+  "selectionMeta": {
+    "selectedPhrase": "leave no stone unturned",
+    "selectedSenseLabelKo": "모든 방법을 동원하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The detective promised to leave no stone unturned in his search for the missing child."
+  },
+  "step2": {
+    "story": "When Sarah's scholarship application was rejected, she refused to give up. She left no stone unturned, calling every committee member and rewriting her essay three times. Her persistence finally paid off when they agreed to review her case.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The small town had been searching for answers after the fire destroyed the community center. The new fire chief, a woman named Rosa, promised to leave no stone unturned. She interviewed witnesses, examined insurance records, and even consulted experts from the city. Weeks passed, and just when others were ready to move on, Rosa found a crucial clue hidden in an old maintenance log. The arsonist was caught, and the town finally had the closure it needed. Rosa's relentless effort reminded everyone that justice sometimes requires someone unwilling to stop digging.",
+    "topicTag": "investigation",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 돌도 뒤집지 않은 채 남겨두지 않는다는 뜻으로, 모든 곳을 샅샅이 살핀다는 의미이다.",
+    "realUsageKo": "목표를 달성하기 위해 가능한 모든 방법과 수단을 동원한다는 뜻으로 쓰인다. 주로 수사, 탐색, 노력이 요구되는 상황에서 사용된다.",
+    "etymologyKo": "고대 그리스 전설에서 유래한 표현으로, 페르시아 장군이 황금을 숨겼다는 소문에 델피의 신탁이 '모든 돌을 뒤집어 보라'고 조언한 데서 비롯되었다.",
+    "nuanceKo": "단순한 노력을 넘어 철저하고 집요한 태도를 강조하는 표현이다. 포기하지 않는 의지와 완벽한 탐색을 동시에 내포하며, 진지하고 결연한 분위기에서 자주 사용된다.",
+    "shortExampleEn": "We will leave no stone unturned to find a cure for this disease.",
+    "shortExampleKo": "우리는 이 병의 치료법을 찾기 위해 모든 방법을 동원할 것이다."
+  }
+}

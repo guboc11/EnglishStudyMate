@@ -1,0 +1,30 @@
+{
+  "id": "fight-off_2d36d7c3",
+  "expression": "fight off",
+  "selectionMeta": {
+    "selectedPhrase": "fight off",
+    "selectedSenseLabelKo": "물리치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She managed to fight off a cold just before the big presentation by resting and drinking plenty of fluids."
+  },
+  "step2": {
+    "story": "Jake had been feeling exhausted for days, but he was determined to fight off the fatigue long enough to finish the project. He brewed a strong pot of coffee and pushed through the final report. By morning, he had submitted it — tired but victorious.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The playoff game had barely started when Marcus twisted his ankle on a bad landing. The pain was sharp, but he refused to leave the court. For three grueling quarters, he fought off the urge to sit down, taping his ankle tighter between breaks. His teammates kept glancing over, worried, but Marcus gave them a steady nod each time. With two minutes left and the score tied, he drove to the basket and drew the foul. He sank both free throws, sealing the win. In the locker room afterward, he finally let himself feel the pain — but also the pride.",
+    "topicTag": "sports",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "싸워서 쫓아내다, 물리치다.",
+    "realUsageKo": "질병, 피로, 감정, 또는 외부의 위협 등을 의지나 노력으로 이겨내거나 떨쳐낼 때 사용한다. 물리적인 공격을 막아내는 상황에도 쓰인다.",
+    "etymologyKo": "'fight'(싸우다)와 방향 부사 'off'(떼어내다)가 결합한 구동사로, 적이나 위협을 자신에게서 밀어내어 제거하는 행위에서 유래했다.",
+    "nuanceKo": "단순히 피하는 것이 아니라 능동적으로 맞서 싸워서 극복한다는 뉘앙스가 강하며, 의지력과 노력이 수반된 상황에 어울린다.",
+    "shortExampleEn": "She fought off her anxiety and delivered a confident speech.",
+    "shortExampleKo": "그녀는 불안감을 물리치고 자신감 있는 연설을 해냈다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "come-apart_25a55974",
+  "expression": "come apart",
+  "selectionMeta": {
+    "selectedPhrase": "come apart",
+    "selectedSenseLabelKo": "무너지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of holding everything together, she finally began to come apart when her closest friend moved away."
+  },
+  "step2": {
+    "story": "Marcus had been managing the stress of work and family alone for too long. The night his project was cancelled, he sat in his car and felt himself come apart, tears streaming down his face for the first time in years. It was the moment he realized he needed help.",
+    "topicTag": "emotional breakdown",
+    "moodTag": "vulnerable"
+  },
+  "step3": {
+    "story": "For a year, Elena had held herself together through her mother's illness, her divorce, and the move to a new city. She told herself she was fine, that she could handle it all. But one quiet Sunday morning, while washing dishes and listening to an old song her mother used to hum, she began to come apart completely. She slid down to the kitchen floor, sobbing in a way she hadn't allowed herself to do before. A neighbor knocked on her door an hour later, and Elena realized that coming apart had been the first honest thing she'd done in months.",
+    "topicTag": "grief and resilience",
+    "moodTag": "overwhelmed"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '떨어져 나오다', 즉 무언가가 조각으로 분리되거나 해체되는 것을 의미합니다.",
+    "realUsageKo": "실제로는 사람이 감정적으로 무너지거나 통제력을 잃을 때, 또는 계획·관계·상황이 완전히 틀어질 때 사용합니다.",
+    "etymologyKo": "come(오다)과 apart(떨어져)의 결합으로, 원래 물체가 부서지거나 분리되는 물리적 상태를 나타냈으나 점차 감정적·추상적 붕괴의 의미로 확장되었습니다.",
+    "nuanceKo": "억눌러 왔던 감정이나 상황이 한꺼번에 터지는 뉘앙스가 강하며, 주로 취약하고 힘겨운 순간을 묘사할 때 씁니다.",
+    "shortExampleEn": "He tried to stay calm, but he came apart when he heard the news.",
+    "shortExampleKo": "그는 침착하려 했지만, 그 소식을 들었을 때 무너지고 말았다."
+  }
+}

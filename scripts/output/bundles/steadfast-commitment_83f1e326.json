@@ -1,0 +1,30 @@
+{
+  "id": "steadfast-commitment_83f1e326",
+  "expression": "steadfast commitment",
+  "selectionMeta": {
+    "selectedPhrase": "steadfast commitment",
+    "selectedSenseLabelKo": "흔들리지 않는 헌신",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her steadfast commitment to the project kept the team motivated even during the most difficult weeks."
+  },
+  "step2": {
+    "story": "Despite repeated setbacks, Marcus never wavered in his steadfast commitment to finishing the marathon. He trained through rain and injury, telling himself that giving up was simply not an option.",
+    "topicTag": "personal goals",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the nonprofit's funding was suddenly cut in half, everyone expected Director Chen to scale back the program. Instead, her steadfast commitment to the community only grew stronger. She spent weekends writing grant proposals and reached out personally to dozens of donors, refusing to let the people who depended on them down. Volunteers rallied around her resolve, donating their own time and resources to fill the gap. Within three months, the program was not only back on track but had expanded to serve twice as many families. Her unwavering dedication became the foundation upon which the entire organization rebuilt its confidence.",
+    "topicTag": "community service",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'steadfast'은 '확고한, 흔들리지 않는'이라는 뜻이고, 'commitment'는 '헌신, 전념'을 의미하여, 합쳐서 '흔들리지 않는 헌신'을 나타냅니다.",
+    "realUsageKo": "어떤 목표나 가치, 또는 사람에 대해 외부 압력이나 어려움에도 불구하고 변함없이 헌신하는 태도를 묘사할 때 사용합니다. 주로 칭찬이나 존경의 맥락에서 쓰입니다.",
+    "etymologyKo": "'steadfast'는 고대 영어 'stedefæst'에서 유래하며 'stede(장소)'와 'fæst(굳건한)'의 합성어로, '제자리를 굳건히 지키는'이라는 의미를 가집니다. 'commitment'는 라틴어 'committere(함께 보내다, 위임하다)'에서 비롯되었습니다.",
+    "nuanceKo": "단순한 의무감이 아니라 내면의 신념과 의지에서 비롯된 헌신을 강조합니다. 격식체 문어체에서 자주 쓰이며, 리더십이나 도덕적 용기를 묘사할 때 특히 어울리는 표현입니다.",
+    "shortExampleEn": "The athlete's steadfast commitment to clean competition earned her lasting respect.",
+    "shortExampleKo": "그 운동선수의 클린 경쟁에 대한 흔들리지 않는 헌신은 그녀에게 오랜 존경을 안겨 주었다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "let-it-slide_361ff04d",
+  "expression": "let it slide",
+  "selectionMeta": {
+    "selectedPhrase": "let it slide",
+    "selectedSenseLabelKo": "넘어가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She noticed the mistake in the report but decided to let it slide since the deadline was just hours away."
+  },
+  "step2": {
+    "story": "Tom's coworker forgot to cc him on an important email chain, causing him to miss a key meeting. Though frustrated, Tom chose to let it slide rather than make it a bigger issue than it needed to be.",
+    "topicTag": "workplace conflict",
+    "moodTag": "forgiving"
+  },
+  "step3": {
+    "story": "It had been a long week at the office, and tensions were running high on the team. During the Friday debrief, Mark interrupted Claire three times while she was presenting her data—something that would normally drive her up the wall. But Claire took a breath and decided to let it slide, reminding herself that Mark was also under enormous pressure. After the meeting, she quietly pulled him aside and mentioned it calmly, choosing conversation over confrontation. By letting the small slight go in the moment, she preserved the working relationship and kept the team's morale intact.",
+    "topicTag": "team dynamics",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '미끄러져 가게 두다'라는 뜻이다.",
+    "realUsageKo": "실제로는 누군가의 실수나 잘못된 행동을 문제 삼지 않고 그냥 넘어갈 때 사용한다. 주로 갈등을 피하거나 상황을 크게 만들고 싶지 않을 때 쓴다.",
+    "etymologyKo": "슬라이드(slide)의 이미지에서 유래했으며, 문제나 실수가 마치 매끄러운 표면을 타고 사라지듯 그냥 흘려보낸다는 의미에서 비롯되었다.",
+    "nuanceKo": "완전한 용서보다는 '이번만은 참고 넘긴다'는 뉘앙스가 강하다. 상대방을 배려하거나 큰 싸움을 피하려는 실용적 판단에서 비롯될 때가 많다.",
+    "shortExampleEn": "He was rude to me, but I let it slide because he'd been having a rough day.",
+    "shortExampleKo": "그가 나에게 무례하게 굴었지만, 힘든 하루를 보내고 있었기 때문에 그냥 넘어가기로 했다."
+  }
+}

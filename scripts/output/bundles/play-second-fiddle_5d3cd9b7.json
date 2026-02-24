@@ -1,0 +1,30 @@
+{
+  "id": "play-second-fiddle_5d3cd9b7",
+  "expression": "play second fiddle",
+  "selectionMeta": {
+    "selectedPhrase": "play second fiddle",
+    "selectedSenseLabelKo": "보조 역할을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite her years of experience, she was tired of always playing second fiddle to colleagues who were louder but less competent."
+  },
+  "step2": {
+    "story": "Marcus had worked at the firm for six years, yet he always seemed to play second fiddle to a flashier colleague who won every client presentation. He quietly kept delivering results, convinced that the work would eventually speak for itself. Then one day, the CEO called him directly to lead the company's most important new account.",
+    "topicTag": "workplace recognition",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For as long as she could remember, Leila had played second fiddle to her business partner, managing operations behind the scenes while he charmed investors in the spotlight. She told herself she didn't mind, that success was success regardless of who got the credit. But when a leading industry magazine reached out specifically to interview her about the supply chain systems she had built from scratch, something shifted inside her. The article ran with her photo on the cover and her inbox filled overnight with partnership offers and speaking invitations. Standing at her window the morning it published, Leila made a quiet decision: she would never again play second fiddle to anyone, and she began drafting the business plan for her own venture.",
+    "topicTag": "career growth",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "오케스트라에서 주선율을 맡는 제1바이올린이 아닌 제2바이올린(second fiddle)을 연주한다는 뜻입니다.",
+    "realUsageKo": "직장, 인간관계, 경쟁 등 다양한 상황에서 주도적인 역할이 아닌 보조적이거나 덜 중요한 위치에 놓여 있음을 나타낼 때 사용합니다. 흔히 'play second fiddle to someone'의 형태로 씁니다.",
+    "etymologyKo": "18세기 오케스트라 편성에서 유래했습니다. 제1바이올린(first fiddle)이 주선율을 이끌고 제2바이올린(second fiddle)이 그것을 보조하는 역할에서, 부차적이고 종속적인 위치를 뜻하는 관용어로 발전했습니다.",
+    "nuanceKo": "단순히 보조 역할을 한다는 사실을 넘어, 원치 않음에도 뒤로 밀려나 있다는 불만이나 아쉬움의 뉘앙스를 담고 있을 때가 많습니다. 수동적이거나 억눌린 상황에서 자주 사용됩니다.",
+    "shortExampleEn": "He refused to play second fiddle any longer and decided to launch his own project.",
+    "shortExampleKo": "그는 더 이상 보조 역할에 머물기를 거부하고 자신의 프로젝트를 시작하기로 결심했다."
+  }
+}

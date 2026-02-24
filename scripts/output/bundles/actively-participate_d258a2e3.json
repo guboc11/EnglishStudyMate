@@ -1,0 +1,30 @@
+{
+  "id": "actively-participate_d258a2e3",
+  "expression": "actively participate",
+  "selectionMeta": {
+    "selectedPhrase": "actively participate",
+    "selectedSenseLabelKo": "적극적으로 참여하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was encouraged by her teacher to actively participate in class discussions rather than just listening."
+  },
+  "step2": {
+    "story": "Mark used to sit quietly during team meetings, afraid his ideas weren't good enough. One day, his manager urged him to actively participate, and he nervously shared a suggestion that ended up saving the project.",
+    "topicTag": "workplace growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "When Priya joined the community center's planning committee, she felt like an outsider surrounded by long-time members. For the first few sessions, she stayed silent, nodding along as others made decisions. Then the committee chair looked directly at her and said, 'We need everyone to actively participate — your perspective matters.' Priya took a breath and spoke up about the lack of programs for teenagers in the neighborhood. The room went quiet, then erupted in agreement. From that meeting on, she never held back again.",
+    "topicTag": "community involvement",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'능동적으로(actively)' + '참여하다(participate)'의 결합으로, 단순히 자리를 지키는 것이 아니라 적극적으로 행동하며 참여한다는 의미이다.",
+    "realUsageKo": "회의, 수업, 프로젝트, 지역 활동 등 어떤 집단적 활동에서 소극적으로 구경하는 것이 아니라 스스로 나서서 의견을 내고 역할을 다하는 상황에 쓰인다.",
+    "etymologyKo": "'actively'는 라틴어 'activus(행동하는)'에서, 'participate'는 라틴어 'participare(함께 나누다)'에서 유래했으며, 두 단어가 결합해 '주도적으로 함께하다'는 뜻을 강조한다.",
+    "nuanceKo": "단순한 'participate(참여하다)'보다 훨씬 적극적이고 주도적인 뉘앙스를 풍기며, 상대방에게 더 많은 기여를 기대하거나 촉구할 때 자주 사용된다.",
+    "shortExampleEn": "Students who actively participate in class tend to retain information better.",
+    "shortExampleKo": "수업에 적극적으로 참여하는 학생들은 정보를 더 잘 기억하는 경향이 있다."
+  }
+}

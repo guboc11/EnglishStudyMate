@@ -1,0 +1,30 @@
+{
+  "id": "have-one's-hands-full_5db41ab1",
+  "expression": "have one's hands full",
+  "selectionMeta": {
+    "selectedPhrase": "have one's hands full",
+    "selectedSenseLabelKo": "손이 꽉 차다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She has her hands full managing three young children while also keeping up with her demanding job."
+  },
+  "step2": {
+    "story": "Maria has her hands full this week with back-to-back deadlines and a team member out sick. She barely has time to eat lunch, let alone take a break. Still, she pushes through with quiet determination.",
+    "topicTag": "work stress",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "Tom thought moving to a new city while starting a new job would be manageable, but he quickly realized he had his hands full. Unpacking boxes, setting up utilities, and learning the ropes at work all demanded his attention at the same time. Some nights he fell asleep at his desk, too exhausted to even make dinner. His friends offered to help, but Tom's pride kept him from asking. Slowly, week by week, the chaos began to settle, and he finally found his rhythm.",
+    "topicTag": "life transition",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "손이 가득 차 있다는 뜻으로, 두 손으로 무언가를 꽉 쥐고 있는 상태를 묘사한다.",
+    "realUsageKo": "실제로는 할 일이 너무 많아 여유가 없는 상태를 나타낼 때 사용된다. 바쁘거나 감당하기 벅찬 상황에서 자주 쓰인다.",
+    "etymologyKo": "양손이 물건으로 가득 차면 다른 일을 할 수 없다는 신체적 이미지에서 유래했으며, 16세기경부터 영어에서 비유적으로 사용되기 시작했다.",
+    "nuanceKo": "부정적인 의미보다는 중립적이거나 가볍게 바쁨을 표현하는 뉘앙스가 강하다. 정중하게 추가 요청을 거절할 때도 자연스럽게 쓰인다.",
+    "shortExampleEn": "I'd love to help, but I already have my hands full with this project.",
+    "shortExampleKo": "도와드리고 싶지만, 저는 이 프로젝트로 이미 손이 꽉 찼어요."
+  }
+}

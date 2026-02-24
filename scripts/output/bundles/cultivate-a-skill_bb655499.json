@@ -1,0 +1,30 @@
+{
+  "id": "cultivate-a-skill_bb655499",
+  "expression": "cultivate a skill",
+  "selectionMeta": {
+    "selectedPhrase": "cultivate a skill",
+    "selectedSenseLabelKo": "기술을 기르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to cultivate a skill in public speaking by joining a local debate club."
+  },
+  "step2": {
+    "story": "After years of avoiding the spotlight, Marcus finally decided to cultivate a skill in photography. He spent weekends practicing in the park, studying light and composition with quiet dedication.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Priya lost her corporate job, she saw it as a chance to cultivate a skill she had always pushed aside — woodworking. She signed up for a beginner's class at the community center and showed up every Saturday, hands clumsy at first but growing steadier each week. Her instructor told her that patience was the real tool, and she took that to heart. Month by month, the rough cuts became smooth joints, and the simple boxes became elegant shelves. What started as a way to fill time had quietly become a craft she was proud to call her own.",
+    "topicTag": "new hobby",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 기술을 농작물 키우듯 꾸준히 가꾸고 발전시키다.",
+    "realUsageKo": "특정 능력이나 기술을 시간과 노력을 들여 의도적으로 발전시켜 나갈 때 사용한다. 단순히 배우는 것을 넘어 지속적인 연습과 투자를 강조한다.",
+    "etymologyKo": "'cultivate'는 라틴어 'cultivare(땅을 갈다)'에서 유래했으며, 17세기부터 '능력이나 재능을 계발하다'는 의미로 확장되어 사용되었다.",
+    "nuanceKo": "단순한 학습보다 장기적이고 의도적인 노력의 뉘앙스가 강하다. 노력과 인내를 통해 무언가를 키워낸다는 긍정적이고 성숙한 어감을 준다.",
+    "shortExampleEn": "It takes years of practice to cultivate a skill like calligraphy.",
+    "shortExampleKo": "캘리그래피 같은 기술을 기르는 데는 수년간의 연습이 필요하다."
+  }
+}

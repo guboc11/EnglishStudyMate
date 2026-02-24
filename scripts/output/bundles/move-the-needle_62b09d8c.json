@@ -1,0 +1,30 @@
+{
+  "id": "move-the-needle_62b09d8c",
+  "expression": "move the needle",
+  "selectionMeta": {
+    "selectedPhrase": "move the needle",
+    "selectedSenseLabelKo": "의미 있는 변화를 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of small improvements, the new marketing strategy finally started to move the needle on customer engagement."
+  },
+  "step2": {
+    "story": "The team had been working overtime for weeks, but nothing seemed to move the needle on sales. Then their new product launch changed everything overnight.",
+    "topicTag": "business growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Elena had been volunteering at the community center for two years, teaching coding to underprivileged teenagers. At times, the progress felt invisible — attendance was inconsistent and resources were thin. But she kept showing up, convinced that education was the only thing that could truly move the needle on poverty in her neighborhood. One afternoon, she received an email from a former student who had just landed his first software engineering job. That single message made every exhausting night worth it, and reminded her that real change takes time to surface.",
+    "topicTag": "community impact",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "바늘을 움직이다 — 계기판이나 측정 장치의 바늘을 실제로 움직인다는 뜻.",
+    "realUsageKo": "어떤 노력이나 행동이 수치·상황·여론 등에 의미 있는 변화를 가져올 때 사용한다. 주로 비즈니스, 정치, 사회 변화 맥락에서 '실질적인 효과를 내다'는 의미로 쓰인다.",
+    "etymologyKo": "라디오나 계기판의 바늘(needle)이 신호 강도나 수치 변화를 시각적으로 보여주는 데서 유래했다. 20세기 초 방송 산업에서 처음 쓰이기 시작해 점차 일반 비즈니스 표현으로 확산되었다.",
+    "nuanceKo": "단순한 개선이 아니라 '눈에 띄는, 측정 가능한 변화'를 강조한다. 주로 긍정적 맥락에서 쓰이며, 부정문('didn't move the needle')으로 쓰면 노력이 효과 없었음을 뜻한다.",
+    "shortExampleEn": "His speech was passionate, but it didn't move the needle in the polls.",
+    "shortExampleKo": "그의 연설은 열정적이었지만, 지지율에는 아무런 변화를 가져오지 못했다."
+  }
+}

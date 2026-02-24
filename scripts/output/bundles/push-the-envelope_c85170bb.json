@@ -1,0 +1,30 @@
+{
+  "id": "push-the-envelope_c85170bb",
+  "expression": "push the envelope",
+  "selectionMeta": {
+    "selectedPhrase": "push the envelope",
+    "selectedSenseLabelKo": "한계를 밀어붙이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The young architect decided to push the envelope by designing a building with no straight walls."
+  },
+  "step2": {
+    "story": "Maya had always played it safe in her career, but this time she wanted to push the envelope. She proposed a marketing campaign unlike anything her company had ever tried before. Her team was nervous, but her bold vision paid off.",
+    "topicTag": "career ambition",
+    "moodTag": "bold"
+  },
+  "step3": {
+    "story": "After years of making conventional video games, Ethan felt restless. He wanted to push the envelope and create something that would challenge players in entirely new ways. He assembled a small team of like-minded developers who shared his appetite for risk. Together they worked late nights, scrapping old ideas and chasing unconventional ones. When their game launched, critics called it unlike anything they had ever seen. Ethan smiled, knowing that pushing the envelope had been worth every sleepless night.",
+    "topicTag": "creative innovation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "봉투(envelope)를 밀어붙인다는 뜻으로, 물리적 경계나 한계를 넘으려 한다는 의미입니다.",
+    "realUsageKo": "기존의 규범이나 한계를 과감히 넘어 새로운 시도를 할 때 사용합니다. 특히 창의적·기술적·사회적 경계를 뛰어넘는 행동을 묘사할 때 자주 쓰입니다.",
+    "etymologyKo": "항공 분야에서 유래한 표현으로, 'flight envelope'는 항공기가 안전하게 비행할 수 있는 속도와 고도의 한계 범위를 의미합니다. 조종사들이 이 한계를 초과해 비행 능력의 극한을 시험하는 행위에서 비롯되었습니다.",
+    "nuanceKo": "긍정적인 뉘앙스가 강하며, 도전 정신과 혁신적인 태도를 칭찬할 때 쓰입니다. 단, 지나친 위험 감수나 무모함을 비판하는 문맥에서 쓰이기도 합니다.",
+    "shortExampleEn": "This director always pushes the envelope with his experimental film techniques.",
+    "shortExampleKo": "이 감독은 항상 실험적인 영화 기법으로 한계를 밀어붙입니다."
+  }
+}

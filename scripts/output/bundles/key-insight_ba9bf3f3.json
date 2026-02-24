@@ -1,0 +1,30 @@
+{
+  "id": "key-insight_ba9bf3f3",
+  "expression": "key insight",
+  "selectionMeta": {
+    "selectedPhrase": "key insight",
+    "selectedSenseLabelKo": "핵심 통찰",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After reviewing the data for hours, she finally arrived at a key insight that changed the direction of the entire project."
+  },
+  "step2": {
+    "story": "The team had been stuck on the problem for days, unable to make progress. Then during a casual lunch break, Marcus shared a key insight about why users kept abandoning the app. Within an hour, they had a clear plan to fix it.",
+    "topicTag": "problem solving",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Dr. Lena Marsh had spent three years studying sleep patterns in shift workers, filling notebook after notebook with observations. The data seemed scattered and contradictory until one evening, while rereading old notes over coffee, she stumbled upon a key insight: the workers who adapted best all shared one small habit—a consistent wind-down ritual regardless of the hour. She sat back and felt the quiet thrill of something clicking into place. That single key insight reshaped her entire research framework and eventually became the centerpiece of her published study. Her colleagues later told her it was the most elegant finding in the field that decade.",
+    "topicTag": "research",
+    "moodTag": "thoughtful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'key'는 '핵심적인', 'insight'는 '통찰·깨달음'을 뜻하므로, 직역하면 '핵심적인 통찰'이다.",
+    "realUsageKo": "문제나 상황을 깊이 이해하게 해주는 결정적인 깨달음이나 발견을 가리킬 때 쓰인다. 비즈니스·연구·일상 대화 모두에서 자주 등장하며, 복잡한 것을 단번에 명확하게 만드는 아이디어를 강조할 때 사용한다.",
+    "etymologyKo": "'insight'는 고대 영어 'insiht'에서 유래했으며 '내부를 본다(seeing within)'는 뜻이다. 'key'는 자물쇠를 여는 열쇠처럼 '핵심·결정적'이라는 의미로 쓰여, 함께 쓰이면 '본질을 꿰뚫는 깨달음'을 나타낸다.",
+    "nuanceKo": "단순한 아이디어나 의견보다 훨씬 깊고 결정적인 이해를 함의하며, 말하는 사람이 그 깨달음이 중요하다는 점을 강조하는 뉘앙스가 있다. 학술·비즈니스 맥락에서 특히 격식체로 자주 사용된다.",
+    "shortExampleEn": "The survey provided a key insight into what customers actually want.",
+    "shortExampleKo": "그 설문조사는 고객이 실제로 원하는 것에 대한 핵심 통찰을 제공했다."
+  }
+}

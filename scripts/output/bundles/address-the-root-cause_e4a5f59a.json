@@ -1,0 +1,30 @@
+{
+  "id": "address-the-root-cause_e4a5f59a",
+  "expression": "address the root cause",
+  "selectionMeta": {
+    "selectedPhrase": "address the root cause",
+    "selectedSenseLabelKo": "근본 원인을 해결하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of repeatedly patching the system errors, the engineering team finally decided to address the root cause of the recurring failures."
+  },
+  "step2": {
+    "story": "After the third customer complaint that week, the manager called an emergency meeting. Rather than applying another quick fix, she insisted the team address the root cause of the dissatisfaction. By the end of the session, they had a clear plan to rebuild the onboarding process from scratch.",
+    "topicTag": "workplace problem-solving",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For months, the software team had been putting out fires—patching bugs, calming frustrated clients, and working overtime just to keep the product afloat. Their manager, exhausted by the endless cycle, gathered everyone for a frank conversation. 'We keep treating the symptoms,' she said, gesturing at a whiteboard covered in incident reports, 'but we need to address the root cause.' After hours of honest discussion, they traced the problem back to a fundamental gap in their testing process. It wasn't a glamorous fix, but rebuilding the framework from the ground up gave the team something they hadn't felt in months—confidence. Half a year later, bug reports had dropped by eighty percent, and the team finally had time to build instead of just repair.",
+    "topicTag": "organizational improvement",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "문제의 근본적인 원인을 파악하고 직접 해결하다.",
+    "realUsageKo": "표면적인 증상이나 임시방편이 아닌, 문제가 발생하는 가장 깊은 이유를 찾아 근원부터 해결한다는 의미로 사용된다. 직장, 의학, 사회 문제 등 다양한 맥락에서 폭넓게 쓰인다.",
+    "etymologyKo": "'address'는 '~에 주의를 기울이다, 다루다'라는 뜻을 가지며, 'root cause'는 어떤 문제의 가장 근본적인 원인을 의미한다. 이 표현은 품질 관리와 문제 해결 방법론(예: 5 Whys 기법)에서 유래하여 일반 언어로 확산되었다.",
+    "nuanceKo": "단순히 문제를 수정하는 것이 아니라 장기적이고 철저한 해결책을 추구한다는 분석적이고 진지한 뉘앙스를 담고 있다. 즉흥적인 대처보다 깊이 있는 사고를 강조할 때 사용된다.",
+    "shortExampleEn": "We need to address the root cause of the high employee turnover, not just offer better perks.",
+    "shortExampleKo": "단순히 복지를 개선하는 것이 아니라, 높은 직원 이직률의 근본 원인을 해결해야 합니다."
+  }
+}

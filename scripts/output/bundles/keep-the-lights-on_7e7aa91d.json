@@ -1,0 +1,30 @@
+{
+  "id": "keep-the-lights-on_7e7aa91d",
+  "expression": "keep the lights on",
+  "selectionMeta": {
+    "selectedPhrase": "keep the lights on",
+    "selectedSenseLabelKo": "운영을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the budget cuts, the team worked overtime just to keep the lights on until the new funding came through."
+  },
+  "step2": {
+    "story": "The small nonprofit had been struggling for months, barely able to keep the lights on with dwindling donations. The director made tough decisions—cutting staff and events—just to keep the organization alive. Finally, a last-minute grant saved them from closing.",
+    "topicTag": "nonprofit survival",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "When the startup lost its biggest client, revenue dropped by sixty percent overnight. The founders sat around the conference table, faces pale, calculating what it would take just to keep the lights on through the next quarter. They deferred their own salaries, paused new hires, and cancelled every non-essential subscription. For three months, every decision came down to one question: is this necessary to survive? Slowly, new leads came in, and the team rebuilt with leaner habits and sharper focus. Looking back, those brutal months taught them that keeping the lights on is sometimes the bravest thing a company can do.",
+    "topicTag": "startup crisis",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "전등을 켜 두다, 즉 기본적인 전기 공급을 유지한다는 뜻이다.",
+    "realUsageKo": "조직이나 사업이 최소한의 기능만 유지하며 겨우 운영을 이어가는 상황을 묘사할 때 쓰인다. '겨우 버티다', '운영을 유지하다'는 뉘앙스로 자주 사용된다.",
+    "etymologyKo": "전기요금을 내야만 불을 켤 수 있다는 데서 유래했으며, '불이 켜져 있다'는 것이 곧 '사업이 돌아가고 있다'는 의미로 확장되었다.",
+    "nuanceKo": "단순한 성장이나 번영이 아니라, 최소한의 생존을 가까스로 이어가는 상황에 초점이 맞춰져 있다. 어려운 시기의 절박함이나 인내심을 강조할 때 효과적이다.",
+    "shortExampleEn": "Revenue from the few remaining clients was just enough to keep the lights on.",
+    "shortExampleKo": "남은 몇 안 되는 고객들로부터 얻은 수익이 겨우 운영을 유지할 정도였다."
+  }
+}

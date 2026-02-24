@@ -1,0 +1,30 @@
+{
+  "id": "establish-market-presence_a5a31e31",
+  "expression": "establish market presence",
+  "selectionMeta": {
+    "selectedPhrase": "establish market presence",
+    "selectedSenseLabelKo": "시장 입지를 구축하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup partnered with local distributors to establish market presence before launching its national advertising campaign."
+  },
+  "step2": {
+    "story": "After years of operating only online, the company decided it was time to establish market presence in Southeast Asia. They opened flagship stores in Bangkok and Jakarta, quickly winning over local consumers.",
+    "topicTag": "business expansion",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "When NovaTech entered the European market, nobody expected them to succeed against the well-entrenched giants. But their CEO had a clear plan: sponsor industry conferences, form strategic alliances with regional firms, and offer free trials to enterprise clients. Within eighteen months, NovaTech had managed to establish market presence in six countries. Competitors finally took notice when quarterly reports showed NovaTech capturing a meaningful share of new contracts. What had once seemed like an impossible climb now looked like a textbook case of methodical growth.",
+    "topicTag": "market entry strategy",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "특정 시장에서 인지도와 영향력을 구축하여 확고한 위치를 차지하는 것을 의미한다.",
+    "realUsageKo": "신규 지역이나 산업에 진출할 때 브랜드 인지도, 유통망, 고객 기반을 쌓아 경쟁력 있는 위치를 확보하는 과정을 표현할 때 사용한다.",
+    "etymologyKo": "'establish'는 라틴어 'stabilire(안정시키다)'에서 유래했으며, 'market presence'는 시장 내 존재감·입지를 뜻하는 비즈니스 영어 표현으로 20세기 중반 경영학 용어로 정착되었다.",
+    "nuanceKo": "단순한 진출(entry)보다 지속적이고 인정받는 위치를 구축한다는 뉘앙스가 강하며, 공식적인 비즈니스 보고서나 전략 발표에서 자주 쓰이는 격식체 표현이다.",
+    "shortExampleEn": "We need at least two years to establish market presence in that region.",
+    "shortExampleKo": "그 지역에서 시장 입지를 구축하려면 최소 2년은 필요합니다."
+  }
+}

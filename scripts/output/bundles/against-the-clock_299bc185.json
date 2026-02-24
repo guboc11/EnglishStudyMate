@@ -1,0 +1,30 @@
+{
+  "id": "against-the-clock_299bc185",
+  "expression": "against the clock",
+  "selectionMeta": {
+    "selectedPhrase": "against the clock",
+    "selectedSenseLabelKo": "시간에 쫓기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The development team worked against the clock to fix the critical bug before the product launch."
+  },
+  "step2": {
+    "story": "Sara had only two hours to finish her presentation before the board meeting. She worked against the clock, skipping lunch and ignoring her phone. When she finally walked into the room, slides polished and ready, she felt a wave of relief wash over her.",
+    "topicTag": "work deadline",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "The hospital OR was silent except for the steady beep of monitors. Dr. Patel and his team were racing against the clock — the patient had lost too much blood and every second counted. Nurses moved with practiced precision, handing instruments before they were even asked for. Dr. Patel's hands remained steady despite the pressure, each stitch deliberate and sure. An hour later, he stepped back and exhaled slowly. They had made it, but only just.",
+    "topicTag": "medical emergency",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "시계를 상대로 — 즉, 시간 자체와 경쟁하는 상황을 의미합니다.",
+    "realUsageKo": "마감 시간이 촉박하거나 제한된 시간 안에 무언가를 끝내야 할 때 사용합니다. 주로 압박감이 크고 긴박한 상황에서 씁니다.",
+    "etymologyKo": "스포츠에서 유래한 표현으로, 타임 어택처럼 시계가 카운트다운되는 상황에서 최대한 빨리 완료해야 하는 경기 방식에서 비롯되었습니다.",
+    "nuanceKo": "단순히 '바쁘다'는 것 이상으로, 시간이 촉박해 극도의 압박 속에 있다는 긴박함과 절박함을 강하게 내포합니다.",
+    "shortExampleEn": "Firefighters worked against the clock to contain the blaze before it reached the neighborhood.",
+    "shortExampleKo": "소방관들은 화재가 주택가에 번지기 전에 진화하기 위해 시간과 싸웠습니다."
+  }
+}

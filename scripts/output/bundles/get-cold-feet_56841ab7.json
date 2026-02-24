@@ -1,0 +1,30 @@
+{
+  "id": "get-cold-feet_56841ab7",
+  "expression": "get cold feet",
+  "selectionMeta": {
+    "selectedPhrase": "get cold feet",
+    "selectedSenseLabelKo": "겁을 먹다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had trained for months, but standing at the starting line, she suddenly got cold feet and considered pulling out of the race."
+  },
+  "step2": {
+    "story": "Tom had planned to propose to his girlfriend at her favorite restaurant, but when the moment arrived, he got cold feet and slipped the ring back into his pocket. He stared at his untouched dessert, heart pounding, unable to say the words.",
+    "topicTag": "relationships",
+    "moodTag": "nervous"
+  },
+  "step3": {
+    "story": "Maya had spent weeks preparing her business pitch, rehearsing every word until it felt natural. But standing outside the boardroom door, listening to the muffled voices inside, she got cold feet and her carefully prepared confidence began to crumble. Her palms were sweating, and she started scrolling through her notes for the tenth time even though she knew them by heart. A colleague passing by noticed her pale face and whispered, 'You've got this — just walk in.' Maya took a deep breath, reminded herself how hard she had worked for this moment, and pushed open the door.",
+    "topicTag": "career",
+    "moodTag": "anxious"
+  },
+  "meaning": {
+    "literalMeaningKo": "발이 차가워지다 — 말 그대로 발이 식는다는 뜻이다.",
+    "realUsageKo": "중요한 일을 앞두고 갑자기 두려움이나 불안을 느껴 망설이거나 포기하려 할 때 사용한다. 결혼, 발표, 도전적인 결정 등 긴장되는 상황에서 자주 쓰인다.",
+    "etymologyKo": "19세기 영미권에서 유래한 표현으로, 공포나 긴장으로 혈액순환이 나빠져 발이 실제로 차가워지는 신체 반응에서 비롯된 것으로 알려져 있다.",
+    "nuanceKo": "단순히 무서워하는 것보다 '결정적인 순간에 용기가 꺾이다'는 뉘앙스가 강하다. 가볍게 농담처럼 쓰기도 하고 진지한 맥락에서도 자연스럽게 사용된다.",
+    "shortExampleEn": "He got cold feet right before the job interview and almost didn't go in.",
+    "shortExampleKo": "그는 취업 면접 직전에 겁을 먹고 거의 들어가지 못할 뻔했다."
+  }
+}

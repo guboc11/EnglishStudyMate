@@ -1,0 +1,30 @@
+{
+  "id": "worth-every-penny_ed3402e3",
+  "expression": "worth every penny",
+  "selectionMeta": {
+    "selectedPhrase": "worth every penny",
+    "selectedSenseLabelKo": "충분히 가치가 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The cooking class was expensive, but it was worth every penny because I learned skills I use every week."
+  },
+  "step2": {
+    "story": "Maya saved up for months to buy a high-quality camera. When it arrived and she took her first photos, she knew it was worth every penny. The clarity and color were far beyond anything her old phone could capture.",
+    "topicTag": "personal purchase",
+    "moodTag": "satisfied"
+  },
+  "step3": {
+    "story": "David had hesitated for weeks before booking the solo trip to Japan. The flights alone had wiped out half his savings, and he almost canceled twice. But standing at the base of a torii gate at sunrise, watching the mist curl over the mountains, he felt every doubt dissolve. The food, the temples, the quiet moments on local trains — all of it was worth every penny. He returned home lighter, as if the journey had given him something money couldn't directly buy. He started saving for the next trip before he even unpacked.",
+    "topicTag": "travel",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "지불한 모든 돈만큼의 가치가 있다.",
+    "realUsageKo": "어떤 것에 돈을 많이 썼지만 그 가치나 만족감이 충분하다고 느낄 때 사용한다. 주로 비싼 물건, 경험, 서비스에 대한 긍정적인 평가를 표현할 때 쓰인다.",
+    "etymologyKo": "'Penny'는 영국의 소액 동전에서 유래했으며, 'worth every penny'는 지불한 금액 한 푼 한 푼이 모두 가치 있다는 뜻으로 오래전부터 영어권에서 사용되어 온 관용 표현이다.",
+    "nuanceKo": "비용에 대한 후회 없이 만족한다는 강한 긍정의 뉘앙스를 담고 있다. 격식체와 비격식체 모두에서 자연스럽게 사용되며, 추천이나 후기를 전달할 때 자주 등장한다.",
+    "shortExampleEn": "The restaurant was pricey, but the meal was worth every penny.",
+    "shortExampleKo": "그 식당은 비쌌지만 식사는 충분히 그 값을 했다."
+  }
+}

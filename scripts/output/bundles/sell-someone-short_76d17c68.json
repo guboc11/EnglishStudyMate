@@ -1,0 +1,30 @@
+{
+  "id": "sell-someone-short_76d17c68",
+  "expression": "sell someone short",
+  "selectionMeta": {
+    "selectedPhrase": "sell someone short",
+    "selectedSenseLabelKo": "과소평가하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Don't sell yourself short — your experience and skills are exactly what this company needs."
+  },
+  "step2": {
+    "story": "Maya had always been hesitant to apply for senior positions, convinced she wasn't ready. Her mentor finally told her to stop selling herself short, reminding her of every obstacle she had overcome. That conversation gave Maya the confidence to submit her application the very next day.",
+    "topicTag": "self-confidence",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "When the team lead announced the new project manager opening, everyone immediately thought of Daniel — everyone except Daniel himself. He quietly told a colleague that he doubted he had what it took, listing every gap in his résumé. His colleague shook her head and said, 'You're selling yourself short. You've led three successful launches this year alone.' Daniel spent the weekend revisiting his accomplishments and realized his self-doubt had been distorting his view. He applied for the role, aced the interview, and later admitted that nearly selling himself short had almost cost him the opportunity of a lifetime.",
+    "topicTag": "career growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 낮은 가격에 팔다, 즉 실제 가치보다 낮게 평가하다.",
+    "realUsageKo": "주로 자기 자신이나 타인의 능력·가치·잠재력을 실제보다 낮게 평가하거나 과소평가하는 상황에 사용한다. 'Don't sell yourself short'처럼 자신감을 북돋울 때 자주 쓰인다.",
+    "etymologyKo": "주식 거래에서 '공매도(short selling)'처럼 가치보다 낮은 가격으로 팔아버린다는 개념에서 유래했으며, 이것이 사람의 가치를 낮게 평가하는 의미로 확장되었다.",
+    "nuanceKo": "주로 자기비하나 겸손이 지나쳐 스스로를 제대로 평가받지 못하게 만드는 상황에서 쓰인다. 부정문 'Don't sell yourself short' 형태로 격려·조언의 뉘앙스를 띠는 경우가 많다.",
+    "shortExampleEn": "You have years of experience — don't sell yourself short when negotiating your salary.",
+    "shortExampleKo": "당신은 수년간의 경험이 있잖아요 — 연봉 협상에서 자신을 과소평가하지 마세요."
+  }
+}

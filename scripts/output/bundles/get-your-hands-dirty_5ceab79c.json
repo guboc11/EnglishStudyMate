@@ -1,0 +1,30 @@
+{
+  "id": "get-your-hands-dirty_5ceab79c",
+  "expression": "get your hands dirty",
+  "selectionMeta": {
+    "selectedPhrase": "get your hands dirty",
+    "selectedSenseLabelKo": "직접 뛰어들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you really want to understand how the business works, you need to get your hands dirty and work the floor for a week."
+  },
+  "step2": {
+    "story": "Maria had managed the bakery from an office for years, reviewing spreadsheets while her staff handled the ovens. One morning, short-staffed and overwhelmed, she decided to get her hands dirty and bake alongside her team. By noon, she understood the work in a way no report had ever shown her.",
+    "topicTag": "work leadership",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "James had always considered himself a hands-off entrepreneur, delegating every task to his team while he focused on strategy. But when the product launch kept getting delayed, his mentor told him bluntly: 'You need to get your hands dirty.' Reluctantly, James joined the developers in their late-night coding sessions and sat with the designers to review prototypes. Within two weeks, he spotted the bottleneck that no one else had dared to flag. The launch went ahead on schedule, and James finally understood why great leaders sometimes have to roll up their sleeves and do the work themselves.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "growth"
+  },
+  "meaning": {
+    "literalMeaningKo": "손을 더럽히다 — 실제로 손에 흙이나 먼지가 묻을 만큼 직접 일을 한다는 뜻이다.",
+    "realUsageKo": "높은 지위에 있거나 이론적 역할을 맡은 사람이 직접 현장에 뛰어들어 힘들거나 번거로운 일을 몸소 한다는 의미로 쓰인다. 때로는 도덕적으로 불편한 일에 직접 개입한다는 부정적 뉘앙스로도 사용된다.",
+    "etymologyKo": "육체노동을 할 때 실제로 손이 더러워지는 데서 유래한 표현이다. 19세기부터 영어권에서 '직접 일에 참여하다'는 의미로 폭넓게 쓰여 왔다.",
+    "nuanceKo": "긍정적 맥락에서는 솔선수범하는 리더십이나 현장 참여를 칭찬할 때 쓰이고, 부정적 맥락에서는 불법적이거나 윤리적으로 의심스러운 일에 직접 손을 댄다는 의미로도 쓰인다. 문맥에 따라 해석이 달라지므로 주의가 필요하다.",
+    "shortExampleEn": "The CEO wasn't afraid to get her hands dirty and personally called dissatisfied customers.",
+    "shortExampleKo": "그 CEO는 직접 뛰어드는 것을 두려워하지 않았고, 불만 고객들에게 직접 전화를 걸었다."
+  }
+}

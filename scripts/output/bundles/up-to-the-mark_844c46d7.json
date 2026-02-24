@@ -1,0 +1,30 @@
+{
+  "id": "up-to-the-mark_844c46d7",
+  "expression": "up to the mark",
+  "selectionMeta": {
+    "selectedPhrase": "up to the mark",
+    "selectedSenseLabelKo": "기준에 부합하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The final report wasn't quite up to the mark, so the manager asked the team to revise it before the deadline."
+  },
+  "step2": {
+    "story": "After weeks of practice, Mia finally felt her performance was up to the mark. Her coach nodded in approval as she nailed every routine without a single mistake. The hard work had clearly paid off.",
+    "topicTag": "performance evaluation",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "Daniel had been struggling with his new role as a project lead. His first two deliverables were rejected because they simply weren't up to the mark. Frustrated but determined, he spent the weekend studying the company's quality standards in detail. He rewrote the entire proposal from scratch, this time paying close attention to every requirement. When he submitted the revised version on Monday, his supervisor smiled and said it was exactly what they needed. That small victory gave Daniel the confidence to keep pushing forward.",
+    "topicTag": "workplace growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'표시(mark)에 닿다'는 뜻으로, 원래 무게나 품질을 나타내는 기준선에 도달했음을 의미합니다.",
+    "realUsageKo": "어떤 사람이나 결과물이 요구되는 기준이나 수준에 충분히 부합할 때 사용합니다. 주로 업무, 학업, 기술 등 성과를 평가하는 맥락에서 쓰입니다.",
+    "etymologyKo": "19세기 영국에서 금·은 등 귀금속의 순도나 무게를 확인할 때 기준 표시(mark)를 찍던 관행에서 유래했습니다. 이후 '기준에 맞다'는 일반적인 의미로 확장되었습니다.",
+    "nuanceKo": "주로 부정문(not up to the mark)이나 의문문으로 사용되어 기대에 미치지 못함을 표현할 때가 많습니다. 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "His presentation skills are finally up to the mark after months of training.",
+    "shortExampleKo": "몇 달간의 훈련 끝에 그의 발표 실력이 드디어 기준에 부합하게 되었다."
+  }
+}

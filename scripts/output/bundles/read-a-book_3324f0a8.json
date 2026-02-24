@@ -1,0 +1,30 @@
+{
+  "id": "read-a-book_3324f0a8",
+  "expression": "read a book",
+  "selectionMeta": {
+    "selectedPhrase": "read a book",
+    "selectedSenseLabelKo": "책을 읽다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She likes to read a book before going to sleep every night."
+  },
+  "step2": {
+    "story": "After a long day at work, Marcus sat down in his favorite chair and decided to read a book instead of watching television. The quiet room and warm lamp light made it the perfect escape. Within minutes, he was completely absorbed in the story.",
+    "topicTag": "evening routine",
+    "moodTag": "relaxed"
+  },
+  "step3": {
+    "story": "Every Sunday morning, Lily would make herself a cup of tea and read a book by the window while the rest of the house was still asleep. She had always believed that reading was the best way to travel without leaving home. This week she had chosen a novel set in 1920s Paris, and the vivid descriptions made her feel as though she were actually there. The rain tapping gently against the glass only added to the atmosphere. By the time her family woke up, she had already finished three chapters and was reluctant to put it down.",
+    "topicTag": "weekend leisure",
+    "moodTag": "peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "책 한 권을 읽다.",
+    "realUsageKo": "일상적인 독서 활동을 나타낼 때 사용하며, 취미나 습관으로 책을 읽는 행위를 표현한다. '책을 읽다'는 뜻으로 가장 기본적인 독서 표현이다.",
+    "etymologyKo": "'read'는 고대 영어 'rǣdan'에서 유래했으며 원래 '해석하다', '추측하다'는 의미였다. 시간이 지나면서 문자를 해독하고 이해하는 행위를 뜻하게 되었다.",
+    "nuanceKo": "매우 자연스럽고 중립적인 표현으로, 격식체와 비격식체 모두에서 사용된다. 특정 책 제목 없이 독서 행위 자체를 가리킬 때 자주 쓰인다.",
+    "shortExampleEn": "I try to read a book every month.",
+    "shortExampleKo": "나는 매달 책 한 권을 읽으려고 노력한다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "take-part-in_19ad85f9",
+  "expression": "take part in",
+  "selectionMeta": {
+    "selectedPhrase": "take part in",
+    "selectedSenseLabelKo": "참가하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was nervous but decided to take part in the school debate competition."
+  },
+  "step2": {
+    "story": "Marcus had never taken part in a charity run before, but his coworkers convinced him to join. He trained for weeks and crossed the finish line with a huge smile on his face.",
+    "topicTag": "community event",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Every year, the small town holds a harvest festival, and nearly everyone takes part in the celebrations. This year, Lily finally convinced her shy younger brother to take part in the pie-baking contest. He spent the whole week perfecting his apple pie recipe, staying up late to get every detail right. On the day of the contest, he nervously set his pie on the judging table alongside dozens of others. When the judges announced him as a finalist, his face lit up with disbelief. Taking part in something bigger than himself turned out to be the confidence boost he never knew he needed.",
+    "topicTag": "personal growth",
+    "moodTag": "uplifting"
+  },
+  "meaning": {
+    "literalMeaningKo": "'~의 일부(part)를 맡다'는 뜻으로, 어떤 활동이나 행사에 직접 관여하다.",
+    "realUsageKo": "행사, 대회, 프로젝트, 토론 등 다양한 활동에 '참가하다' 또는 '참여하다'는 의미로 폭넓게 사용된다. 단순히 자리에 있는 것을 넘어 능동적으로 활동에 기여하는 뉘앙스가 있다.",
+    "etymologyKo": "'part'는 라틴어 'pars(부분)'에서 유래했으며, '한 부분을 차지하다'는 개념이 '역할을 맡아 참여하다'는 의미로 발전했다.",
+    "nuanceKo": "자발적이고 능동적인 참여를 강조하는 표현으로, 의무적인 참석보다는 적극적인 개입의 뉘앙스가 강하다. 'join'보다 격식체에 가깝고 'participate in'과 거의 동의어로 쓰인다.",
+    "shortExampleEn": "Everyone is encouraged to take part in the discussion.",
+    "shortExampleKo": "모든 사람이 토론에 참가하도록 권장됩니다."
+  }
+}

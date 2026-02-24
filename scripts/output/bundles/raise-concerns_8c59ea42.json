@@ -1,0 +1,30 @@
+{
+  "id": "raise-concerns_8c59ea42",
+  "expression": "raise concerns",
+  "selectionMeta": {
+    "selectedPhrase": "raise concerns",
+    "selectedSenseLabelKo": "우려를 제기하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Several board members raised concerns about the proposed merger's impact on existing employees."
+  },
+  "step2": {
+    "story": "During the team meeting, Maya raised concerns about the tight deadline for the new product launch. Her manager listened carefully and agreed to extend the timeline by two weeks.",
+    "topicTag": "workplace communication",
+    "moodTag": "constructive"
+  },
+  "step3": {
+    "story": "When the city council unveiled plans for the new highway, local residents immediately raised concerns about noise pollution and traffic safety near the school. A community organizer named Daniel collected signatures and requested a formal hearing. At the hearing, engineers raised further concerns about the structural design, suggesting it could increase flood risk in the area. After weeks of deliberation, the council agreed to revise the plans, crediting the residents who had raised concerns early in the process.",
+    "topicTag": "civic engagement",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'raise'는 '올리다', 'concerns'는 '우려 사항'으로, 직역하면 '우려를 높이 들어올리다'는 뜻입니다.",
+    "realUsageKo": "실제로는 문제나 걱정거리를 공식적으로 표명하거나 공론화할 때 사용합니다. 주로 회의, 토론, 공식 문서 등 격식 있는 맥락에서 쓰입니다.",
+    "etymologyKo": "'raise'는 고대 노르드어 'reisa(세우다)'에서 유래했으며, 'concern'은 라틴어 'concernere(관련되다)'에서 파생된 중세 영어 단어입니다.",
+    "nuanceKo": "단순한 불평이 아니라 건설적이고 책임감 있는 방식으로 문제를 제기하는 뉘앙스가 있습니다. 격식체 표현이므로 비즈니스, 정치, 학술 문맥에서 자주 등장합니다.",
+    "shortExampleEn": "The doctor raised concerns about the patient's unusually high blood pressure.",
+    "shortExampleKo": "의사는 환자의 비정상적으로 높은 혈압에 대해 우려를 제기했다."
+  }
+}

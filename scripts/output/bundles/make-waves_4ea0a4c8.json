@@ -1,0 +1,30 @@
+{
+  "id": "make-waves_4ea0a4c8",
+  "expression": "make waves",
+  "selectionMeta": {
+    "selectedPhrase": "make waves",
+    "selectedSenseLabelKo": "파장을 일으키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The young engineer made waves at the conference by presenting a solution that challenged decades of industry assumptions."
+  },
+  "step2": {
+    "story": "When Nadia published her research contradicting the standard treatment protocol, she made waves across the entire medical community. Colleagues who had never met her were suddenly debating her findings in hospital corridors and online forums.",
+    "topicTag": "professional breakthrough",
+    "moodTag": "bold"
+  },
+  "step3": {
+    "story": "Daniel had spent three quiet years at the architecture firm, mostly refining other people's drafts and keeping his more radical ideas to himself. Then, during a city planning presentation, he unveiled a proposal to convert the abandoned waterfront warehouse into a vertical urban farm — and immediately made waves. Senior partners exchanged uncomfortable looks, but the city officials leaned forward with genuine curiosity. By the end of the week, the proposal had been picked up by two local newspapers. Daniel understood that making waves meant accepting that not everyone would applaud, but he had finally said something worth hearing.",
+    "topicTag": "creative ambition",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '파도를 만들다'라는 뜻이다.",
+    "realUsageKo": "어떤 사람이나 행동이 집단·사회·조직 안에서 주목할 만한 변화나 논란을 불러일으킬 때 사용한다. 긍정적(혁신, 도전)으로도, 부정적(불필요한 소란)으로도 쓰일 수 있다.",
+    "etymologyKo": "바다의 파도가 주변으로 퍼져 나가며 영향을 미치는 이미지에서 비롯된 표현으로, 19세기 영어에서부터 비유적 의미로 사용되기 시작했다.",
+    "nuanceKo": "문맥에 따라 '용감하게 변화를 이끈다'는 긍정적 뉘앙스와 '괜한 말썽을 일으킨다'는 부정적 뉘앙스를 모두 가질 수 있으므로 전후 맥락을 주의 깊게 살펴야 한다.",
+    "shortExampleEn": "The young activist made waves with her powerful speech about climate change.",
+    "shortExampleKo": "그 젊은 활동가는 기후 변화에 관한 강렬한 연설로 파장을 일으켰다."
+  }
+}

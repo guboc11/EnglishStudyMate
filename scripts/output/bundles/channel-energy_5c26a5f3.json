@@ -1,0 +1,30 @@
+{
+  "id": "channel-energy_5c26a5f3",
+  "expression": "channel energy",
+  "selectionMeta": {
+    "selectedPhrase": "channel energy",
+    "selectedSenseLabelKo": "에너지를 집중하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of letting frustration take over, she learned to channel energy into her creative projects."
+  },
+  "step2": {
+    "story": "After a difficult breakup, Marcus found himself restless and unable to sleep. He decided to channel energy into training for a marathon, hitting the track every morning before dawn. Within months, his heartbreak had transformed into one of his greatest personal achievements.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The boardroom fell silent as the new CEO walked in. For years, the company had been plagued by internal conflict and low morale, with employees arguing instead of collaborating. She stood at the whiteboard and said, 'We need to stop wasting what we have and channel energy into building something we're proud of.' Over the next quarter, she restructured teams, refocused priorities, and replaced blame with accountability. Employees who once clashed began working side by side with a shared sense of purpose. The company's turnaround became a case study in what happens when an organization finally learns to channel energy in the right direction.",
+    "topicTag": "workplace leadership",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "'channel'은 수로나 채널처럼 특정 방향으로 흐르게 한다는 뜻으로, 'channel energy'는 에너지를 특정 방향으로 모아 흘려보낸다는 의미입니다.",
+    "realUsageKo": "부정적인 감정이나 분산된 힘을 특정 목표나 활동에 집중적으로 쏟아붓는 상황에서 자주 씁니다. 예를 들어 스트레스나 분노를 운동·창작 등 생산적인 일에 전환할 때 쓰입니다.",
+    "etymologyKo": "'channel'은 라틴어 'canalis(관, 수로)'에서 유래해 '흐름을 특정 경로로 안내하다'는 동사 의미를 갖게 되었으며, 여기에 'energy'가 결합되어 현재의 표현이 되었습니다.",
+    "nuanceKo": "단순히 '집중하다(focus)'보다 더 능동적이고 전략적인 뉘앙스가 있습니다. 원래 분산되거나 낭비될 수 있었던 힘을 의도적으로 유용한 곳으로 돌린다는 긍정적·주체적 함의를 담고 있습니다.",
+    "shortExampleEn": "He channels his energy into volunteering every weekend.",
+    "shortExampleKo": "그는 매 주말 자원봉사 활동에 에너지를 집중합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "close-the-gap_aa496ae3",
+  "expression": "close the gap",
+  "selectionMeta": {
+    "selectedPhrase": "close the gap",
+    "selectedSenseLabelKo": "격차를 줄이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new training program helped the team close the gap between their current performance and the industry standard."
+  },
+  "step2": {
+    "story": "Sara had always lagged behind her classmates in math, but she refused to give up. She studied every evening, determined to close the gap before the final exam. By the last week of the semester, her scores were nearly equal to the top students in class.",
+    "topicTag": "academic improvement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Marcus joined the company, the sales team was trailing their competitors by nearly thirty percent. He analyzed the data carefully and proposed a bold new strategy focused on underserved markets. Month by month, the numbers began to shift as the team worked tirelessly to close the gap. By the end of the year, they had not only caught up but edged slightly ahead. The CEO praised Marcus at the annual meeting, crediting his persistence and clear vision for the turnaround. It was a reminder that with the right approach, even the widest gap can be narrowed.",
+    "topicTag": "business competition",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 대상 사이의 간격이나 차이를 좁히다.",
+    "realUsageKo": "성과, 실력, 수치 등의 격차가 줄어드는 상황에 쓰이며, 경쟁·학습·사회 문제 등 다양한 맥락에서 활용됩니다.",
+    "etymologyKo": "'gap'은 고대 노르드어 'gap(구멍, 틈)'에서 유래했으며, 'close'와 결합해 물리적·비유적 간격을 줄인다는 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 차이를 없애는 것이 아니라 점진적으로 따라잡는 과정을 강조하며, 노력과 의지의 뉘앙스가 담겨 있습니다.",
+    "shortExampleEn": "We need to close the gap in wages between men and women.",
+    "shortExampleKo": "우리는 남성과 여성 사이의 임금 격차를 줄여야 합니다."
+  }
+}

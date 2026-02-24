@@ -1,0 +1,30 @@
+{
+  "id": "firm-belief_95008514",
+  "expression": "firm belief",
+  "selectionMeta": {
+    "selectedPhrase": "firm belief",
+    "selectedSenseLabelKo": "굳은 믿음",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She has a firm belief that hard work and persistence will eventually lead to success."
+  },
+  "step2": {
+    "story": "Despite repeated setbacks in her career, Maya held onto her firm belief that her skills would one day be recognized. She kept applying for jobs and improving herself, never letting doubt take root. Her resilience was rooted not in certainty, but in conviction.",
+    "topicTag": "personal resilience",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Growing up, Daniel watched his father work two jobs without complaint, guided by a firm belief that honest effort would always be rewarded. That lesson stayed with Daniel through every challenge he faced as an adult. When his startup nearly failed in its second year, he didn't panic — he doubled down, trusting the same principle his father had lived by. Colleagues admired his calm in the storm, not knowing it was built on something as simple as inherited faith in the process. Years later, when the company finally turned profitable, Daniel stood before his team and said it wasn't strategy alone that got them there. It was the firm belief that what they were building mattered.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 것에 대해 흔들리지 않고 강하게 갖는 믿음.",
+    "realUsageKo": "주로 가치관, 원칙, 이념 등에 대해 확고하게 지지하거나 신뢰할 때 사용한다. 쉽게 바뀌지 않는 깊은 신념을 표현할 때 쓰인다.",
+    "etymologyKo": "'firm'은 라틴어 'firmus(견고한, 튼튼한)'에서 유래했으며, 'belief'는 고대 영어 'geleafa(신뢰, 확신)'에서 비롯되었다.",
+    "nuanceKo": "단순한 생각이나 의견이 아니라 오랜 시간 형성된 깊은 확신을 뜻하며, 다소 공식적이고 진지한 맥락에서 자주 사용된다.",
+    "shortExampleEn": "He acted on his firm belief that every person deserves a fair chance.",
+    "shortExampleKo": "그는 모든 사람이 공평한 기회를 받을 자격이 있다는 굳은 믿음에 따라 행동했다."
+  }
+}

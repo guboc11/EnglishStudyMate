@@ -1,0 +1,30 @@
+{
+  "id": "too-many-cooks-spoil-the-broth_ce3c163e",
+  "expression": "too many cooks spoil the broth",
+  "selectionMeta": {
+    "selectedPhrase": "too many cooks spoil the broth",
+    "selectedSenseLabelKo": "사공이 많으면 배가 산으로 간다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The product launch kept getting delayed because too many cooks spoil the broth — every department wanted final say on the design."
+  },
+  "step2": {
+    "story": "The committee had twelve members, each insisting on changes to the annual report. Deadlines slipped as every revision triggered a new round of objections. It was a textbook case of too many cooks spoil the broth.",
+    "topicTag": "workplace collaboration",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Maya had been excited when the startup hired three additional creative directors to help with the rebrand. At first the ideas flowed freely, but soon every concept was pulled in a dozen directions. One director wanted bold colors; another insisted on minimalism; a third kept reopening decisions everyone thought were final. Weeks passed without a single approved logo. The CEO finally pulled Maya aside and said, 'We've learned the hard way that too many cooks spoil the broth — pick one lead and let them run with it.' Maya nodded, relieved someone had finally said it out loud.",
+    "topicTag": "creative leadership",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "요리사가 너무 많으면 스프를 망친다.",
+    "realUsageKo": "어떤 일에 관여하는 사람이 너무 많으면 서로 의견이 충돌해 오히려 일을 망칠 수 있다는 뜻으로 사용된다. 주로 의사결정이 지연되거나 결과물의 질이 떨어지는 상황을 비판할 때 쓴다.",
+    "etymologyKo": "16세기 영국 속담에서 유래했으며, 실제 요리 현장에서 여러 사람이 간을 맞추다 보면 맛이 엉망이 된다는 경험에서 비롯된 표현이다.",
+    "nuanceKo": "비판적이지만 유머러스한 어조로 쓰이는 경우가 많다. 직접적인 비난보다는 상황을 가볍게 꼬집는 뉘앙스가 있어, 회의나 팀 프로젝트 맥락에서 부드럽게 문제를 지적할 때 적합하다.",
+    "shortExampleEn": "We should assign one person to make the final call — too many cooks spoil the broth.",
+    "shortExampleKo": "최종 결정권자를 한 명 정해야 해 — 사공이 많으면 배가 산으로 가거든."
+  }
+}

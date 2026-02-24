@@ -1,0 +1,30 @@
+{
+  "id": "change-a-habit_02f314cc",
+  "expression": "change a habit",
+  "selectionMeta": {
+    "selectedPhrase": "change a habit",
+    "selectedSenseLabelKo": "습관을 바꾸다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to change a habit after realizing she was spending too much time scrolling through her phone before bed."
+  },
+  "step2": {
+    "story": "Mark had always skipped breakfast, but his doctor urged him to change a habit that was hurting his energy levels. He started setting his alarm ten minutes earlier to eat a small meal before leaving the house. Within a few weeks, he noticed he felt sharper and more focused throughout the day.",
+    "topicTag": "health routine",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "For years, Jenna had reached for her phone the moment she woke up, drowning in notifications before she even got out of bed. Her therapist gently suggested she try to change a habit that was fueling her morning anxiety. At first, it felt almost impossible—her hand moved toward the nightstand automatically, as if on autopilot. She placed the charger across the room and bought a simple alarm clock to remove the temptation entirely. Slowly, her mornings became quieter, and she found herself breathing easier before the day had even begun. What started as a small experiment turned into the most meaningful shift she had made in years.",
+    "topicTag": "digital wellness",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 습관을 다른 것으로 바꾸거나 없애다.",
+    "realUsageKo": "오랫동안 반복해온 행동 패턴을 의도적으로 수정하거나 끊어내는 상황에서 쓰인다. 건강, 생활 방식, 업무 습관 등 다양한 맥락에서 폭넓게 사용된다.",
+    "etymologyKo": "'change'는 고대 프랑스어 'changer'(바꾸다)에서 유래하며, 'habit'은 라틴어 'habitus'(몸에 밴 상태)에서 비롯되었다. 두 단어가 결합해 '몸에 밴 행동을 바꾸다'라는 의미를 이룬다.",
+    "nuanceKo": "단순한 행동 변경보다 노력과 의지가 필요한 과정임을 함축한다. 중립적이지만 긍정적인 변화를 지향하는 뉘앙스가 강하며, 자기계발이나 건강 관련 대화에서 자주 등장한다.",
+    "shortExampleEn": "It takes time to change a habit, but consistency makes it possible.",
+    "shortExampleKo": "습관을 바꾸는 데는 시간이 걸리지만, 꾸준함이 있으면 가능하다."
+  }
+}

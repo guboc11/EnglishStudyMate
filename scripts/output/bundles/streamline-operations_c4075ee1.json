@@ -1,0 +1,30 @@
+{
+  "id": "streamline-operations_c4075ee1",
+  "expression": "streamline operations",
+  "selectionMeta": {
+    "selectedPhrase": "streamline operations",
+    "selectedSenseLabelKo": "운영을 효율화하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The new CEO was hired specifically to streamline operations and reduce unnecessary overhead across all departments."
+  },
+  "step2": {
+    "story": "After years of rapid growth, the company had accumulated layers of redundant processes that slowed everything down. The operations team was brought in to streamline operations by automating repetitive tasks and eliminating bottlenecks. Within six months, project delivery time had been cut in half.",
+    "topicTag": "business efficiency",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The factory floor had not been redesigned since the 1990s, and it showed. Workers crossed paths constantly, equipment sat idle for hours, and shipments were routinely delayed. Management finally decided it was time to streamline operations from the ground up. They brought in a consulting firm to map out every workflow and identify where time and money were being lost. New software was installed to automate inventory tracking, and the floor layout was reorganized to minimize movement. Within a quarter, output had increased by thirty percent without adding a single new employee.",
+    "topicTag": "manufacturing improvement",
+    "moodTag": "optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "운영(operations)을 유선형으로 만들다, 즉 흐름이 매끄럽고 효율적이 되도록 단순화하다.",
+    "realUsageKo": "기업이나 조직에서 불필요한 단계·비용·인력을 제거하여 업무 프로세스를 더 빠르고 효율적으로 만들 때 사용한다. 경영 보고서, 전략 회의, 투자자 발표 등 비즈니스 맥락에서 매우 자주 등장한다.",
+    "etymologyKo": "'streamline'은 유체역학에서 저항 없이 흐르는 유선(流線) 형태를 뜻하는 말로, 20세기 초 항공·자동차 디자인에 쓰이다가 비즈니스 영역으로 확장되어 '불필요한 것을 제거해 효율을 높이다'는 의미로 정착했다.",
+    "nuanceKo": "단순히 '빠르게 한다'가 아니라 구조 자체를 재설계해 군더더기를 없앤다는 뉘앙스가 강하다. 긍정적이고 주도적인 개선 의지를 내포하며, 구조조정(restructuring)보다 부드럽고 전문적인 표현으로 여겨진다.",
+    "shortExampleEn": "We need to streamline operations before we can scale the business.",
+    "shortExampleKo": "사업을 확장하기 전에 먼저 운영을 효율화해야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "go-from-strength-to-strength_98c4e605",
+  "expression": "go from strength to strength",
+  "selectionMeta": {
+    "selectedPhrase": "go from strength to strength",
+    "selectedSenseLabelKo": "점점 더 잘 되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Since launching her podcast two years ago, Maya has gone from strength to strength, attracting sponsors and doubling her listener base every few months."
+  },
+  "step2": {
+    "story": "After a rocky first year, the small bakery began to go from strength to strength once the owner started offering fresh sourdough on weekends. Word spread quickly through the neighborhood, and soon there were lines out the door every Saturday morning.",
+    "topicTag": "small business growth",
+    "moodTag": "optimistic"
+  },
+  "step3": {
+    "story": "When Daniel joined the company as a junior developer, few expected him to stand out. But he tackled every challenge with quiet determination, learning new frameworks on his own time and volunteering for projects others avoided. Within eighteen months he had led two successful product launches, and his team began to notice how he seemed to go from strength to strength with each assignment. Management offered him a senior role, but Daniel asked instead for a mentorship program so he could help the next wave of newcomers grow just as he had. His colleagues agreed that what made him exceptional was not just his skill, but his belief that progress, once started, should never stop.",
+    "topicTag": "career development",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "한 가지 강점에서 다음 강점으로 계속 나아간다는 뜻으로, 성공이 또 다른 성공으로 이어지는 상황을 묘사합니다.",
+    "realUsageKo": "사람, 조직, 프로젝트 등이 지속적으로 발전하거나 성과가 꾸준히 좋아질 때 사용하는 표현입니다. 단순한 일회성 성공이 아니라 연속적인 성장을 강조할 때 씁니다.",
+    "etymologyKo": "성경 시편 84편 7절 'They go from strength to strength'에서 유래했으며, 순례자가 목적지를 향해 점점 힘을 얻어 나아가는 모습을 묘사한 데서 비롯되었습니다.",
+    "nuanceKo": "긍정적이고 고무적인 뉘앙스를 가지며, 뉴스 기사나 비즈니스 발표 등 격식 있는 문맥에서 자주 사용됩니다. 칭찬이나 응원의 의미도 담겨 있습니다.",
+    "shortExampleEn": "The young athlete has gone from strength to strength since joining the new training program.",
+    "shortExampleKo": "그 젊은 운동선수는 새 훈련 프로그램에 합류한 이후 점점 더 좋아지고 있습니다."
+  }
+}

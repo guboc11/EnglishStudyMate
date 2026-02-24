@@ -1,0 +1,30 @@
+{
+  "id": "quick-on-the-uptake_c89e7ee6",
+  "expression": "quick on the uptake",
+  "selectionMeta": {
+    "selectedPhrase": "quick on the uptake",
+    "selectedSenseLabelKo": "이해가 빠른",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She's quick on the uptake, so you only need to explain the process once."
+  },
+  "step2": {
+    "story": "During orientation, the trainer was immediately impressed by the new intern. She was quick on the uptake, asking sharp follow-up questions after just a brief overview of the workflow. By the end of the day, she was already guiding her fellow newcomers through the steps.",
+    "topicTag": "workplace",
+    "moodTag": "impressed"
+  },
+  "step3": {
+    "story": "Marcus had always been quick on the uptake, a trait that served him well in fast-paced environments. When the startup assigned him to a completely unfamiliar project, he absorbed the brief in minutes and began drafting a plan. His teammates watched in quiet amazement as he connected dots they hadn't even noticed yet. Within a week, he had identified three inefficiencies that had plagued the team for months. The manager pulled him aside and said, 'I knew from day one you'd be an asset here.' Marcus smiled — being quick on the uptake had opened every door he'd ever walked through.",
+    "topicTag": "career growth",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "'uptake'(이해·흡수)에서 빠르다는 뜻으로, 상황이나 정보를 신속하게 파악한다는 의미입니다.",
+    "realUsageKo": "누군가가 설명을 들을 때 빠르게 이해하고 요점을 잡아내는 능력을 칭찬할 때 사용합니다. 학습 속도가 빠르거나 눈치가 뛰어난 사람을 묘사할 때 자주 쓰입니다.",
+    "etymologyKo": "'uptake'는 원래 광산업에서 공기나 연기를 빨아들이는 통로를 가리키는 단어였으며, 이후 '이해하거나 흡수하는 능력'을 뜻하게 되었습니다. 'quick on the uptake'는 19세기부터 사용된 관용구입니다.",
+    "nuanceKo": "칭찬의 뉘앙스가 강하며, 영리함보다는 '이해 속도'에 초점을 맞춥니다. 반대 표현은 'slow on the uptake'(눈치가 느린)입니다.",
+    "shortExampleEn": "He's quick on the uptake — he understood the entire system after just one demo.",
+    "shortExampleKo": "그는 이해가 빨라서 데모를 한 번 보고 시스템 전체를 파악했다."
+  }
+}

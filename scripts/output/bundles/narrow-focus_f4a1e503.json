@@ -1,0 +1,30 @@
+{
+  "id": "narrow-focus_f4a1e503",
+  "expression": "narrow focus",
+  "selectionMeta": {
+    "selectedPhrase": "narrow focus",
+    "selectedSenseLabelKo": "좁은 집중",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her narrow focus on finishing the report meant she ignored every distraction around her."
+  },
+  "step2": {
+    "story": "During exam season, Marcus kept a narrow focus on just three core subjects. He blocked out social media and declined every invitation to hang out. By the end of the week, he felt confident and prepared.",
+    "topicTag": "studying",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had always been the kind of person who could get lost in a single task for hours. When her team was handed a high-stakes product launch, she developed a narrow focus that bordered on obsession — color-coded notes, silent mornings, one goal at a time. Her colleagues sometimes worried she was missing the bigger picture, but Elena trusted the process. Each small win stacked up, and the launch day arrived smoother than anyone had expected. Standing in front of the team afterward, she smiled and said the secret had been simple: do one thing, do it completely, and then move on.",
+    "topicTag": "work achievement",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "좁은 집중 — 하나의 특정 대상이나 목표에만 주의를 집중하는 것.",
+    "realUsageKo": "어떤 일이나 목표에 다른 것들을 배제하고 오직 그것에만 에너지를 쏟는 상태를 묘사할 때 사용된다. 긍정적으로는 집중력과 전문성을 뜻하고, 부정적으로는 시야가 좁다는 뉘앙스를 줄 수 있다.",
+    "etymologyKo": "narrow는 '좁다'를 뜻하는 고대 영어 nearu에서 유래했고, focus는 '불의 중심점'을 의미하는 라틴어 focus(화로)에서 비롯되었다. 두 단어가 합쳐져 '한 지점으로 좁혀진 주의력'을 나타낸다.",
+    "nuanceKo": "문맥에 따라 칭찬(강한 집중력)이 될 수도, 비판(시야가 좁음)이 될 수도 있다. 비즈니스·학업 상황에서는 주로 긍정적인 의미로 쓰인다.",
+    "shortExampleEn": "A narrow focus on cost-cutting helped the company survive the recession.",
+    "shortExampleKo": "비용 절감에 대한 좁은 집중 덕분에 그 회사는 불황을 버텨낼 수 있었다."
+  }
+}

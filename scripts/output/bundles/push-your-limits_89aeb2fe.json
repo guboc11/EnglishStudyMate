@@ -1,0 +1,30 @@
+{
+  "id": "push-your-limits_89aeb2fe",
+  "expression": "push your limits",
+  "selectionMeta": {
+    "selectedPhrase": "push your limits",
+    "selectedSenseLabelKo": "한계를 밀어붙이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Every morning she wakes up at five to train, determined to push her limits and qualify for the national championship."
+  },
+  "step2": {
+    "story": "Marcus had always played it safe at the gym, sticking to weights he knew he could handle. One day his coach challenged him to push his limits and attempt a heavier lift. Surprised by his own strength, Marcus realized he had been holding himself back for years.",
+    "topicTag": "fitness",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena signed up for her first marathon on a whim, never having run more than five kilometers before. Every training session forced her to push her limits — longer distances, steeper hills, earlier mornings. There were days when her legs screamed and her mind begged her to stop, but she kept going. She reminded herself that growth only happens at the edge of comfort, not inside it. On race day, crossing the finish line with tears in her eyes, she understood that pushing her limits had changed not just her body but her entire sense of what was possible.",
+    "topicTag": "personal growth",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 한계를 밀어붙이다, 즉 현재 능력의 경계선을 넘어서려고 시도하다.",
+    "realUsageKo": "신체적·정신적 능력의 경계를 의도적으로 초과하려 노력할 때 사용하며, 자기계발이나 도전 맥락에서 자주 쓰인다. 스포츠, 커리어, 창작 활동 등 다양한 상황에 적용된다.",
+    "etymologyKo": "'push'는 고대 프랑스어 'pousser(밀다)'에서 유래했으며, 'limits'는 라틴어 'limes(경계선, 가장자리)'에서 왔다. 두 단어가 결합해 '경계를 밀어내다'라는 의미의 표현이 되었다.",
+    "nuanceKo": "단순한 노력을 넘어 의도적으로 불편함을 감수하며 자신을 혹독하게 밀어붙이는 뉘앙스가 강하다. 동기부여적이고 긍정적인 맥락에서 주로 쓰이며, 무모하다기보다는 용감하고 성장 지향적인 인상을 준다.",
+    "shortExampleEn": "You'll never know what you're truly capable of unless you push your limits.",
+    "shortExampleKo": "자신의 한계를 밀어붙이지 않으면 당신이 진정 무엇을 할 수 있는지 절대 알 수 없다."
+  }
+}

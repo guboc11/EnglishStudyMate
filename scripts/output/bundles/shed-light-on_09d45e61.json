@@ -1,0 +1,30 @@
+{
+  "id": "shed-light-on_09d45e61",
+  "expression": "shed light on",
+  "selectionMeta": {
+    "selectedPhrase": "shed light on",
+    "selectedSenseLabelKo": "밝혀주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The newly discovered documents shed light on the true cause of the historical dispute."
+  },
+  "step2": {
+    "story": "The forensic report finally shed light on what had happened that night. Investigators had been puzzled for weeks, but the evidence now pointed clearly to a single conclusion.",
+    "topicTag": "investigation",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Dr. Mara Chen had spent three years combing through ancient manuscripts, searching for answers. Her breakthrough came on a rainy Tuesday when she noticed a pattern in the marginalia that other scholars had overlooked. The faded annotations shed light on a trading route long thought to be mythical, connecting two civilizations separated by a vast desert. Colleagues who had once dismissed her theory gathered around her desk, stunned into silence. For the first time, the gap in the historical record had a plausible explanation. Mara exhaled slowly, realizing that her quiet persistence had rewritten a chapter of human history.",
+    "topicTag": "historical discovery",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가에 빛을 비추다.",
+    "realUsageKo": "어떤 주제나 상황을 더 잘 이해할 수 있도록 새로운 정보나 설명을 제공할 때 사용한다. 주로 연구, 조사, 발견의 맥락에서 쓰인다.",
+    "etymologyKo": "고대 영어에서 '빛(light)'은 지식과 이해의 상징으로 사용되었고, 'shed'는 '퍼뜨리다'는 뜻에서 비롯되어 '빛을 퍼뜨려 어둠 속 진실을 드러낸다'는 의미로 발전했다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 쓰이며, 긍정적이고 계몽적인 뉘앙스를 띤다. 단순히 '설명하다'보다 더 극적인 발견이나 통찰의 느낌을 준다.",
+    "shortExampleEn": "This interview sheds light on the artist's creative process.",
+    "shortExampleKo": "이 인터뷰는 그 예술가의 창작 과정을 밝혀준다."
+  }
+}

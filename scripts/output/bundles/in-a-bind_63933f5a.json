@@ -1,0 +1,30 @@
+{
+  "id": "in-a-bind_63933f5a",
+  "expression": "in a bind",
+  "selectionMeta": {
+    "selectedPhrase": "in a bind",
+    "selectedSenseLabelKo": "곤경에 처한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She was in a bind when she realized she had promised to attend two different events on the same evening."
+  },
+  "step2": {
+    "story": "Tom found himself in a bind when his laptop died an hour before his presentation to the board. He frantically borrowed a colleague's charger, but the battery refused to hold a charge. With no time to spare, he printed his slides and delivered the pitch the old-fashioned way — and it went surprisingly well.",
+    "topicTag": "work stress",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Maya was in a bind when the supplier she had relied on for years suddenly raised prices by thirty percent the week before her shop's biggest sale. She had already advertised the discounts and couldn't afford to cancel. Desperate, she reached out to three smaller local vendors and negotiated deals on the spot. It meant more coordination and a few sleepless nights, but she pulled it off. When the sale weekend arrived, the shelves were stocked and customers left happy. Maya learned that being in a bind didn't always mean being stuck — sometimes it just meant finding a different door.",
+    "topicTag": "business pressure",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "끈이나 밧줄에 묶여 꼼짝할 수 없는 상태",
+    "realUsageKo": "선택지가 없거나 빠져나오기 어려운 곤란한 상황에 처했을 때 사용합니다. 시간, 돈, 약속 등 여러 가지 압박이 겹쳐 어쩔 줄 모를 때 특히 자주 씁니다.",
+    "etymologyKo": "'bind'는 고대 영어 'bindan(묶다)'에서 유래했습니다. '묶여서 움직이지 못하는 것처럼 옴짝달싹 못하는 상황'이라는 의미가 비유적으로 굳어진 표현입니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 사용됩니다. 극단적인 위기보다는 난처하고 곤란한 일상적 상황을 묘사할 때 어울리며, 다소 가벼운 어감을 띠기도 합니다.",
+    "shortExampleEn": "I'm in a bind — I lent my car to a friend and now I have no way to get to the airport.",
+    "shortExampleKo": "나 정말 곤란해졌어 — 친구한테 차를 빌려줬는데 공항에 갈 방법이 없네."
+  }
+}

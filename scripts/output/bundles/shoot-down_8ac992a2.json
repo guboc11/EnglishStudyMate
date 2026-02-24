@@ -1,0 +1,30 @@
+{
+  "id": "shoot-down_8ac992a2",
+  "expression": "shoot down",
+  "selectionMeta": {
+    "selectedPhrase": "shoot down",
+    "selectedSenseLabelKo": "거절하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager shot down my proposal before I even finished presenting it."
+  },
+  "step2": {
+    "story": "Sarah had spent weeks preparing her budget proposal, but the committee shot it down in minutes. She left the meeting feeling deflated but already thinking about how to revise her approach.",
+    "topicTag": "workplace rejection",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "James had been working on his startup idea for months, refining every detail before finally pitching it to the investors. He stood confidently at the front of the room, walking them through the slides he had rehearsed countless times. But the lead investor shot down the idea almost immediately, citing market saturation and weak profit margins. The room fell silent as James tried to hold his composure. On the train ride home, he replayed the feedback in his head and slowly began to see it not as failure, but as a sharper lens to look through. He opened his laptop and started rewriting the pitch from scratch.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 쏘아서 떨어뜨린다는 뜻으로, 비행기나 물체를 격추한다는 의미입니다.",
+    "realUsageKo": "실생활에서는 누군가의 아이디어, 제안, 요청 등을 단호하게 거절하거나 무시할 때 사용합니다. 주로 권위 있는 사람이 아랫사람의 의견을 일축할 때 쓰입니다.",
+    "etymologyKo": "군사 용어에서 유래한 표현으로, 적의 항공기를 총이나 미사일로 격추(shoot down)하는 행위에서 비롯되었습니다. 이후 '강하게 제압하다'는 의미가 확장되어 비유적으로 쓰이게 되었습니다.",
+    "nuanceKo": "단순한 거절(reject, decline)보다 훨씬 단호하고 즉각적인 뉘앙스를 풍깁니다. 상대방의 의견이나 제안을 공개적으로, 혹은 냉정하게 묵살하는 느낌을 줄 수 있습니다.",
+    "shortExampleEn": "He shot down every suggestion I made during the meeting.",
+    "shortExampleKo": "그는 회의 중에 내가 한 모든 제안을 거절했다."
+  }
+}

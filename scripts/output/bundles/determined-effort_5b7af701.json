@@ -1,0 +1,30 @@
+{
+  "id": "determined-effort_5b7af701",
+  "expression": "determined effort",
+  "selectionMeta": {
+    "selectedPhrase": "determined effort",
+    "selectedSenseLabelKo": "굳은 노력",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Through determined effort, she finally mastered the complex piano piece after months of daily practice."
+  },
+  "step2": {
+    "story": "Marcus had failed his certification exam twice, but he refused to give up. With determined effort, he restructured his study schedule and sought help from a mentor. On his third attempt, he passed with flying colors.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the small community center was threatened with closure due to lack of funds, a group of dedicated volunteers refused to let it disappear. With determined effort, they organized fundraisers, reached out to local businesses, and campaigned door to door for donations. Weeks of tireless work brought them closer to their goal than anyone had expected. The local newspaper ran a story about their campaign, drawing even more support from neighboring towns. In the end, not only did they save the center, but they raised enough to renovate the aging building. Their determined effort transformed a moment of crisis into a story of community pride.",
+    "topicTag": "community",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "굳은 의지를 가지고 기울이는 노력을 뜻한다.",
+    "realUsageKo": "목표를 달성하기 위해 포기하지 않고 끈질기게 힘을 쏟는 상황에서 사용된다. 주로 어려운 도전이나 장애물을 극복하는 맥락에서 긍정적으로 쓰인다.",
+    "etymologyKo": "'determined'는 라틴어 'determinare(경계를 짓다, 결정하다)'에서 유래하여 '확고히 결심한'이라는 뜻을 갖게 되었으며, 'effort'는 고대 프랑스어 'esfort(힘을 쏟다)'에서 비롯되었다.",
+    "nuanceKo": "단순한 노력(effort)보다 훨씬 강한 의지와 집념이 담긴 표현으로, 포기하지 않는 끈기와 목적의식이 강조된다. 격식체·비격식체 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "It took determined effort, but she eventually finished writing her first novel.",
+    "shortExampleKo": "굳은 노력 끝에 그녀는 마침내 첫 소설을 완성했다."
+  }
+}

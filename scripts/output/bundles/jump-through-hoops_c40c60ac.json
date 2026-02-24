@@ -1,0 +1,30 @@
+{
+  "id": "jump-through-hoops_c40c60ac",
+  "expression": "jump through hoops",
+  "selectionMeta": {
+    "selectedPhrase": "jump through hoops",
+    "selectedSenseLabelKo": "어려운 요구를 충족시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had to jump through hoops just to get her insurance claim approved."
+  },
+  "step2": {
+    "story": "Marcus wanted to open a small bakery, but the city required endless permits and inspections. He spent three months jumping through hoops before he could even unlock the doors. When opening day finally came, every exhausting step felt worth it.",
+    "topicTag": "bureaucracy",
+    "moodTag": "persevering"
+  },
+  "step3": {
+    "story": "Priya had dreamed of studying abroad since high school, but the application process turned out to be far more grueling than she had imagined. She jumped through hoops gathering transcripts, letters of recommendation, financial statements, and language certificates, each document leading to another requirement she hadn't anticipated. Her friends marveled at her patience as the pile of paperwork grew taller on her desk. There were moments she considered giving up, wondering if the prize was worth the obstacle course surrounding it. But the morning she received her acceptance letter, she felt a quiet, unshakeable pride that no shortcut could have given her. Every hoop she had leapt through had shaped her into someone ready to thrive in a new country.",
+    "topicTag": "study abroad application",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 서커스에서 훈련된 동물이 불타는 고리를 통과해 뛰어오르는 모습을 가리킵니다.",
+    "realUsageKo": "실제로는 어떤 목표를 달성하기 위해 복잡하거나 불합리한 요구 사항들을 하나하나 충족시켜야 하는 상황에 쓰입니다. 특히 관료적 절차나 까다로운 조건들을 참아내며 통과할 때 자주 사용됩니다.",
+    "etymologyKo": "19세기 서커스 공연에서 유래한 표현으로, 조련된 동물이 고리(hoop)를 통과해 뛰어오르는 묘기에서 비롯되었습니다. 이후 인간이 어렵고 불필요해 보이는 절차들을 억지로 수행해야 하는 상황을 비유하게 되었습니다.",
+    "nuanceKo": "이 표현은 요구 사항이 과도하거나 불공평하다는 불만 혹은 비판의 뉘앙스를 담고 있습니다. 목표 자체보다 그 과정이 지나치게 복잡하다는 점을 강조할 때 씁니다.",
+    "shortExampleEn": "We had to jump through hoops to get the refund processed.",
+    "shortExampleKo": "환불을 처리받기 위해 온갖 까다로운 절차를 거쳐야 했다."
+  }
+}

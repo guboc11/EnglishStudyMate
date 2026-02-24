@@ -1,0 +1,30 @@
+{
+  "id": "ease-the-burden_c5ef6d4e",
+  "expression": "ease the burden",
+  "selectionMeta": {
+    "selectedPhrase": "ease the burden",
+    "selectedSenseLabelKo": "부담을 줄이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company introduced flexible work hours to ease the burden on employees who were struggling to balance work and family responsibilities."
+  },
+  "step2": {
+    "story": "After her mother fell ill, Sarah took on extra shifts to help pay the bills, and her siblings chipped in to ease the burden. Knowing she wasn't alone made the difficult weeks more bearable.",
+    "topicTag": "family support",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "When the new manager joined the team, he quickly noticed that a few senior engineers were carrying far more than their share of the workload. He redistributed tasks more evenly and brought in two junior developers to ease the burden. At first, some team members were skeptical, fearing the newcomers would slow things down. But within a month, deadlines were being met with less stress, and the team's morale had noticeably improved. The manager held a short stand-up every morning to catch blockers early and prevent any one person from getting overwhelmed. It was a simple change, but it transformed the entire culture of the department.",
+    "topicTag": "workplace management",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'burden(짐, 부담)'을 'ease(완화하다, 줄이다)'한다는 뜻으로, 말 그대로 무거운 짐을 가볍게 한다는 의미입니다.",
+    "realUsageKo": "실제로는 업무, 재정, 감정적 스트레스 등 다양한 종류의 부담을 덜어주거나 줄여주는 상황에서 폭넓게 사용됩니다. 개인 간의 도움뿐 아니라 정책이나 제도적 차원에서도 자주 쓰입니다.",
+    "etymologyKo": "'ease'는 고대 프랑스어 'aise(편안함, 여유)'에서 유래했으며, 13세기부터 '고통이나 어려움을 줄이다'는 동사 의미로 영어에서 사용되기 시작했습니다. 'burden'은 고대 영어 'byrthen(짐)'에서 왔습니다.",
+    "nuanceKo": "단순히 문제를 해결하는 것이 아니라, 완전히 없애지는 못하더라도 더 감당할 수 있는 수준으로 만들어준다는 뉘앙스가 있습니다. 배려와 지원의 행위를 강조할 때 자주 쓰입니다.",
+    "shortExampleEn": "Automating the report generation helped ease the burden on the finance team.",
+    "shortExampleKo": "보고서 생성을 자동화하는 것이 재무팀의 부담을 줄이는 데 도움이 되었다."
+  }
+}

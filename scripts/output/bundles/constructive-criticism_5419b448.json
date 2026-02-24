@@ -1,0 +1,30 @@
+{
+  "id": "constructive-criticism_5419b448",
+  "expression": "constructive criticism",
+  "selectionMeta": {
+    "selectedPhrase": "constructive criticism",
+    "selectedSenseLabelKo": "건설적인 비판",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She welcomed the constructive criticism from her mentor and used it to significantly improve her presentation skills."
+  },
+  "step2": {
+    "story": "After submitting his first draft, Daniel braced himself for the feedback. His editor offered constructive criticism, pointing out pacing issues while praising the vivid characters. Encouraged rather than discouraged, Daniel returned to his desk with renewed focus.",
+    "topicTag": "writing feedback",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "The design review meeting had always made Priya nervous, but this time felt different. Her manager began with what was working well before delivering constructive criticism about the color palette and layout hierarchy. Rather than feeling attacked, Priya found herself nodding and taking notes. She realized that her manager wasn't tearing down her work — she was building a path toward something better. By the end of the session, Priya had a clear revision plan and a genuine sense of gratitude. Constructive criticism, she understood now, was one of the most valuable gifts a colleague could offer.",
+    "topicTag": "workplace growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 건설하거나 발전시키는 데 도움이 되는 비판.",
+    "realUsageKo": "단순히 흠을 지적하는 것이 아니라 개선 방향을 함께 제시하는 피드백을 가리킬 때 사용합니다. 직장, 학교, 창작 활동 등 다양한 상황에서 쓰입니다.",
+    "etymologyKo": "'constructive'는 라틴어 'construere(짓다, 쌓다)'에서 유래했고, 'criticism'은 그리스어 'kritikos(판단하는)'에서 왔습니다. 두 단어가 합쳐져 '발전을 위한 판단'이라는 뜻을 형성했습니다.",
+    "nuanceKo": "단순한 비난(negative criticism)과 대비되는 긍정적인 뉘앙스를 지닙니다. 이 표현을 사용하면 피드백을 주는 사람의 의도가 상대방을 돕기 위한 것임을 강조하는 효과가 있습니다.",
+    "shortExampleEn": "I always appreciate constructive criticism because it helps me grow.",
+    "shortExampleKo": "건설적인 비판은 성장에 도움이 되기 때문에 항상 감사하게 받아들입니다."
+  }
+}

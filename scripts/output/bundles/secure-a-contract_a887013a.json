@@ -1,0 +1,30 @@
+{
+  "id": "secure-a-contract_a887013a",
+  "expression": "secure a contract",
+  "selectionMeta": {
+    "selectedPhrase": "secure a contract",
+    "selectedSenseLabelKo": "계약을 따내다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "After months of negotiations, the sales team finally managed to secure a contract with one of the largest retailers in the region."
+  },
+  "step2": {
+    "story": "Maria had been pitching to the same client for six months without success. Then, on a rainy Tuesday afternoon, she walked into the conference room and secured a contract worth more than anything her department had seen all year. She called her manager from the parking lot, barely able to keep her voice steady.",
+    "topicTag": "business negotiation",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "James had flown across three time zones to make this pitch, and he could feel the exhaustion in his bones as he set up his slides. The client was notoriously difficult—three other agencies had already walked away empty-handed. He presented calmly, answered every tough question without flinching, and listened more than he spoke. When the room went quiet after his closing remarks, the CEO leaned forward and said they were ready to move forward. James shook every hand in that room before stepping outside, where he finally let himself breathe. He had secured a contract that would define his company's next two years.",
+    "topicTag": "high-stakes sales",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "'계약을 확보하다'는 뜻으로, 협상이나 경쟁을 통해 계약을 성공적으로 체결하는 것을 의미합니다.",
+    "realUsageKo": "비즈니스 맥락에서 오랜 협상·경쟁 끝에 공식 계약을 따내는 상황에 사용합니다. 단순히 계약서에 서명하는 것 이상으로, 노력과 설득의 결실이라는 뉘앙스가 담겨 있습니다.",
+    "etymologyKo": "'secure'는 라틴어 'securus(걱정 없는, 안전한)'에서 유래하여 '확실히 얻다, 확보하다'라는 동사적 의미로 발전했습니다. 'contract'는 라틴어 'contractus(함께 끌어당긴 것)'에서 온 말로 양측이 합의한 구속력 있는 약속을 뜻합니다.",
+    "nuanceKo": "단순한 계약 체결보다 경쟁이나 어려움을 극복하고 얻어낸 성취감이 강조됩니다. 주로 영업·비즈니스 개발 맥락에서 자주 쓰이며, 성공적인 결과에 대한 안도와 자부심이 내포되어 있습니다.",
+    "shortExampleEn": "The startup managed to secure a contract with a major airline after a year of talks.",
+    "shortExampleKo": "그 스타트업은 1년간의 협의 끝에 대형 항공사와 계약을 따내는 데 성공했습니다."
+  }
+}

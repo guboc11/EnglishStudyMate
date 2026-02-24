@@ -1,0 +1,30 @@
+{
+  "id": "take-a-nap_dca5275f",
+  "expression": "take a nap",
+  "selectionMeta": {
+    "selectedPhrase": "take a nap",
+    "selectedSenseLabelKo": "낮잠을 자다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to take a nap after lunch to recharge before the afternoon meeting."
+  },
+  "step2": {
+    "story": "After a busy morning of errands, Marco felt his eyes growing heavy. He lay down on the couch to take a nap, setting an alarm for thirty minutes. He woke up feeling refreshed and ready to tackle the rest of the day.",
+    "topicTag": "rest and relaxation",
+    "moodTag": "peaceful"
+  },
+  "step3": {
+    "story": "The summer heat had drained every ounce of energy from Lily by early afternoon. She closed the blinds in her bedroom, letting just a sliver of cool shadow fill the room. She decided to take a nap, pulling a light blanket over herself despite the warmth. Within minutes, the sounds of the neighborhood faded and she drifted off peacefully. When she woke an hour later, the golden light of late afternoon stretched across the floor, and she felt completely renewed. She stretched her arms wide, grateful for that small gift of rest.",
+    "topicTag": "afternoon rest",
+    "moodTag": "refreshed"
+  },
+  "meaning": {
+    "literalMeaningKo": "짧은 낮잠을 자다.",
+    "realUsageKo": "주로 낮에 짧게 쉬거나 피로를 회복하기 위해 잠깐 자는 행위를 표현할 때 사용하며, 수면 시간이 길지 않음을 내포한다.",
+    "etymologyKo": "'nap'은 고대 영어 'hnappian'에서 유래한 단어로 '졸다, 잠깐 자다'를 의미하며, 'take'와 결합해 낮잠을 취하는 행위를 나타낸다.",
+    "nuanceKo": "짧고 가벼운 수면을 뜻하며, 피로 해소나 재충전의 긍정적인 뉘앙스를 담고 있다. 일상적이고 편안한 상황에서 자주 쓰인다.",
+    "shortExampleEn": "I usually take a nap on weekends to catch up on sleep.",
+    "shortExampleKo": "나는 보통 주말에 밀린 잠을 보충하려고 낮잠을 잔다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "right-direction_52f48e6b",
+  "expression": "right direction",
+  "selectionMeta": {
+    "selectedPhrase": "right direction",
+    "selectedSenseLabelKo": "올바른 방향",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The mentor's advice pointed him in the right direction when he felt lost in his career."
+  },
+  "step2": {
+    "story": "After months of uncertainty, the feedback from her supervisor finally pushed her in the right direction. She revised her approach and began to see real progress for the first time.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had been applying for jobs with no success, and his confidence was fading fast. A career counselor reviewed his resume and pointed out that he was targeting roles far above his current experience. The counselor suggested starting with entry-level positions and building a portfolio first — and that guidance turned out to be the right direction. Within two months, Daniel landed an interview, then an offer. Looking back, he realized that the small, honest correction had made all the difference.",
+    "topicTag": "job search",
+    "moodTag": "turning point"
+  },
+  "meaning": {
+    "literalMeaningKo": "'right direction'은 문자 그대로 '올바른 방향', 즉 목표나 목적지를 향한 적절한 경로를 의미합니다.",
+    "realUsageKo": "실생활에서는 물리적인 방향뿐 아니라, 조언·결정·행동이 올바른 결과를 향해 나아가고 있음을 나타낼 때 폭넓게 사용됩니다. 특히 'in the right direction', 'pointed in the right direction' 형태로 자주 쓰입니다.",
+    "etymologyKo": "'right'는 고대 영어 'riht'에서 유래해 '곧은, 올바른'을 뜻하며, 'direction'은 라틴어 'directio'(곧게 이끔)에서 왔습니다. 두 단어가 결합해 '올바르게 이끄는 방향'이라는 의미를 형성합니다.",
+    "nuanceKo": "단순히 맞다/틀리다의 이분법적 판단보다는 '바람직한 진전이나 개선을 향한 움직임'이라는 긍정적 뉘앙스가 강합니다. 격려나 조언을 전달할 때 부드럽게 방향을 제시하는 표현으로 자주 활용됩니다.",
+    "shortExampleEn": "Your plan isn't perfect yet, but it's a step in the right direction.",
+    "shortExampleKo": "당신의 계획이 아직 완벽하진 않지만, 올바른 방향으로 나아가는 한 걸음입니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "make-connections_f49cf9ef",
+  "expression": "make connections",
+  "selectionMeta": {
+    "selectedPhrase": "make connections",
+    "selectedSenseLabelKo": "연결을 만들다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Attending the industry conference gave her a chance to make connections with professionals she had only known online."
+  },
+  "step2": {
+    "story": "Daniel was nervous at his first networking event, unsure how to start a conversation. But once he began asking questions and listening carefully, he started to make connections that felt genuine. By the end of the evening, he had exchanged cards with three people who shared his interests.",
+    "topicTag": "networking",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maya had just moved to a new city and knew almost no one. She signed up for a community workshop on urban gardening, not just for the plants, but because she wanted to make connections with people who cared about the same things she did. At first, the conversations were polite but surface-level. Over the following weeks, though, shared soil and shared effort brought out real stories—about families, dreams, and struggles. Slowly, Maya began to make connections that felt less like networking and more like belonging. By spring, she had a small circle of friends she trusted, all rooted in the same patch of earth.",
+    "topicTag": "community building",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "사람이나 사물 사이에 연결 고리를 만들다.",
+    "realUsageKo": "주로 새로운 사람들과 관계를 형성하거나 네트워크를 구축할 때 사용하며, 직장·사교·학습 등 다양한 상황에서 쓰인다.",
+    "etymologyKo": "'make'는 고대 영어 'macian(만들다)'에서, 'connection'은 라틴어 'connexio(묶음, 연결)'에서 유래했다.",
+    "nuanceKo": "단순한 지인 사귀기보다 의미 있는 유대나 인맥 형성을 강조하는 표현으로, 비즈니스 맥락에서 특히 자주 사용된다.",
+    "shortExampleEn": "She joined the club to make connections with other young entrepreneurs.",
+    "shortExampleKo": "그녀는 다른 젊은 창업자들과 연결을 만들기 위해 그 클럽에 가입했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "give-someone-a-hard-time_70fa6c0d",
+  "expression": "give someone a hard time",
+  "selectionMeta": {
+    "selectedPhrase": "give someone a hard time",
+    "selectedSenseLabelKo": "힘들게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My manager has been giving me a hard time about the deadline, even though I'm doing my best."
+  },
+  "step2": {
+    "story": "Sarah's new supervisor kept giving her a hard time about every minor mistake she made. Despite the constant criticism, she stayed focused and continued improving her work. Eventually, her dedication paid off and her supervisor began to respect her effort.",
+    "topicTag": "workplace pressure",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Jake had just started his first job at a busy restaurant, and the head chef seemed determined to give him a hard time from day one. Every dish Jake prepared was met with sharp criticism, and even small errors were pointed out in front of the entire kitchen staff. At first, Jake felt discouraged and wondered if he had made a mistake taking the job. But over time, he realized the chef was pushing him to meet a high standard, not to break him. He started arriving early, studying recipes, and asking questions after his shifts. Within a month, the chef nodded approvingly at Jake's work — his hard time had turned into his greatest teacher.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 힘든 시간을 주다.",
+    "realUsageKo": "상대방을 비판하거나 괴롭히거나 불필요하게 어렵게 만드는 행동을 묘사할 때 사용한다. 직장, 가정, 학교 등 다양한 상황에서 쓰인다.",
+    "etymologyKo": "'hard time'은 18세기부터 '어려운 시기'를 뜻하는 표현으로 쓰였으며, 'give someone a hard time'은 20세기 초 미국 영어에서 굳어진 관용 표현이다.",
+    "nuanceKo": "가벼운 놀림부터 진지한 괴롭힘까지 폭넓게 쓰이며, 문맥에 따라 유머러스하거나 부정적인 뉘앙스를 가질 수 있다.",
+    "shortExampleEn": "Stop giving me a hard time — I already said I was sorry.",
+    "shortExampleKo": "그만 힘들게 해 — 나 이미 미안하다고 했잖아."
+  }
+}

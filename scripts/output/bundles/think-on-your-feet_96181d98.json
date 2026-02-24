@@ -1,0 +1,30 @@
+{
+  "id": "think-on-your-feet_96181d98",
+  "expression": "think on your feet",
+  "selectionMeta": {
+    "selectedPhrase": "think on your feet",
+    "selectedSenseLabelKo": "즉흥적으로 생각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the presenter suddenly fell ill, Sarah had to think on her feet and deliver the entire keynote without any preparation."
+  },
+  "step2": {
+    "story": "The interviewer threw Marcus an unexpected question about a product crisis he had never dealt with. He took a breath and began to think on his feet, weaving together past experiences into a confident answer. The interviewers exchanged impressed glances as he finished.",
+    "topicTag": "job interview",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "The kitchen was in chaos — the head chef had called in sick an hour before the dinner rush. Lena, a line cook for only six months, suddenly found herself in charge. She had to think on her feet, reorganizing the prep schedule and reassigning stations to keep everything moving. Dishes flew out of the kitchen with unexpected precision, each plate earning nods of approval from the servers. By the end of the night, the restaurant had received zero complaints. Lena stood at the back of the empty kitchen, exhausted but quietly proud of what she had pulled off.",
+    "topicTag": "workplace pressure",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "발 위에서 생각하다, 즉 서 있는 상태에서 바로 생각해낸다는 의미.",
+    "realUsageKo": "예상치 못한 상황에서 즉각적으로 판단하고 행동하는 능력을 표현할 때 사용한다. 특히 압박 상황에서의 빠른 임기응변을 강조한다.",
+    "etymologyKo": "19세기 법정 문화에서 유래한 표현으로, 변호사가 자리에 앉지 못하고 서 있는 채로 즉석에서 논거를 구성해야 했던 상황에서 비롯되었다.",
+    "nuanceKo": "단순히 빠른 생각이 아니라 압박 속에서도 침착하게 올바른 판단을 내리는 능력이라는 긍정적 뉘앙스를 담고 있다.",
+    "shortExampleEn": "Great customer service reps know how to think on their feet when complaints get complicated.",
+    "shortExampleKo": "훌륭한 고객 서비스 담당자는 불만이 복잡해질 때 즉흥적으로 대처하는 법을 안다."
+  }
+}

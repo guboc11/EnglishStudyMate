@@ -1,0 +1,30 @@
+{
+  "id": "genuine-interest_45007b90",
+  "expression": "genuine interest",
+  "selectionMeta": {
+    "selectedPhrase": "genuine interest",
+    "selectedSenseLabelKo": "진정한 관심",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She listened to every detail of his story with genuine interest, asking thoughtful questions along the way."
+  },
+  "step2": {
+    "story": "Marcus had expected the interview to feel routine, but the hiring manager leaned forward and asked about his research with genuine interest. Her eyes lit up as he explained his findings, and the conversation stretched well past the scheduled time.",
+    "topicTag": "job interview",
+    "moodTag": "engaged"
+  },
+  "step3": {
+    "story": "Elena had grown used to polite smiles whenever she brought up her passion for marine biology at dinner parties. So when the older gentleman next to her started asking follow-up questions with genuine interest, she was caught off guard. He wanted to know about specific species, ocean currents, and the impact of rising temperatures on coral reefs. She found herself sketching diagrams on a napkin, laughing as she realized an hour had slipped by. It was the first time in years she had talked about her work without feeling the need to apologize for being too enthusiastic.",
+    "topicTag": "shared passion",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "진짜이고 꾸밈없는 관심이나 호기심.",
+    "realUsageKo": "누군가의 말이나 활동에 단순히 예의상 반응하는 것이 아니라 진심으로 집중하고 알고 싶어 한다는 것을 나타낼 때 사용한다.",
+    "etymologyKo": "'genuine'은 라틴어 'genuinus(타고난, 자연스러운)'에서 유래했으며, 'interest'는 라틴어 'inter esse(사이에 있다)'에서 파생되어 관여·관심의 뜻으로 발전했다.",
+    "nuanceKo": "상대방의 말에 진심으로 몰입한다는 긍정적 뉘앙스를 지니며, 형식적이거나 의례적인 관심과 명확히 대비된다.",
+    "shortExampleEn": "He showed genuine interest in her project by reading every page of her proposal.",
+    "shortExampleKo": "그는 그녀의 제안서를 한 장 한 장 읽으며 그녀의 프로젝트에 진정한 관심을 보였다."
+  }
+}

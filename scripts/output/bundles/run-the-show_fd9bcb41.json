@@ -1,0 +1,30 @@
+{
+  "id": "run-the-show_fd9bcb41",
+  "expression": "run the show",
+  "selectionMeta": {
+    "selectedPhrase": "run the show",
+    "selectedSenseLabelKo": "책임지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "While the CEO was traveling, it was Maria who truly ran the show and kept every department on track."
+  },
+  "step2": {
+    "story": "When the director fell ill on opening night, the stage manager stepped up and ran the show without missing a beat. The cast rallied behind her, impressed by how calmly she handled every last-minute crisis.",
+    "topicTag": "leadership",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "James had only been at the company for two years, but after the sudden departure of the VP, everyone looked to him to run the show. He called an all-hands meeting the very next morning, laid out a clear plan, and assigned roles before anyone had time to panic. His steady voice and decisive thinking turned a moment of chaos into one of the team's most productive weeks. By Friday, the client had no idea that anything unusual had happened behind the scenes.",
+    "topicTag": "workplace leadership",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '쇼를 진행하다', 즉 공연이나 행사를 운영한다는 뜻이다.",
+    "realUsageKo": "실제로는 어떤 조직, 프로젝트, 또는 상황 전반을 책임지고 주도한다는 의미로 쓰인다. 공식적인 직함이 없더라도 실질적으로 모든 결정을 내리는 사람에게 자주 사용된다.",
+    "etymologyKo": "연극·서커스 등 무대 공연에서 쇼 전체를 총괄하는 사람을 가리키던 표현에서 유래했으며, 20세기 초부터 일반적인 '책임자' 의미로 확장되어 사용되고 있다.",
+    "nuanceKo": "권위와 주도권을 강조하는 표현으로, 긍정적인 맥락(능력 있는 리더)에서도, 부정적인 맥락(혼자 모든 걸 통제하려는 사람)에서도 쓰일 수 있다.",
+    "shortExampleEn": "She's been running the show ever since the founder retired.",
+    "shortExampleKo": "창업자가 은퇴한 이후로 그녀가 모든 것을 책임지고 있다."
+  }
+}

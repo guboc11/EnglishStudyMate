@@ -1,0 +1,30 @@
+{
+  "id": "honest-feedback_3b463ecc",
+  "expression": "honest feedback",
+  "selectionMeta": {
+    "selectedPhrase": "honest feedback",
+    "selectedSenseLabelKo": "솔직한 피드백",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She asked her mentor for honest feedback on her business plan before submitting it to investors."
+  },
+  "step2": {
+    "story": "After weeks of working on his presentation, Daniel finally showed it to his colleague. She gave him honest feedback, pointing out that the data visualizations were hard to read and the conclusion felt rushed. He was initially stung by her words, but he rewrote the ending that night and felt genuinely proud of the result.",
+    "topicTag": "workplace growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Mia had spent three months writing her first short story, pouring every spare hour into it. When she finally handed it to her writing group, she braced herself and asked for honest feedback. They praised her vivid descriptions but told her plainly that the pacing in the middle dragged and the protagonist felt passive. At first, Mia wanted to defend every choice she had made. But as she walked home, she turned their words over in her mind and realized they were right. She sat back down at her desk the next morning with a clearer sense of purpose, grateful that her group had trusted her enough to be candid.",
+    "topicTag": "creative writing",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "꾸밈없이 솔직하게 전달하는 평가나 의견.",
+    "realUsageKo": "주로 직장, 학업, 창작 활동 등에서 상대방의 발전을 위해 긍정적인 면뿐만 아니라 개선이 필요한 점도 거리낌 없이 말해주는 피드백을 가리킬 때 사용한다.",
+    "etymologyKo": "'honest'는 라틴어 'honestus(명예로운, 올바른)'에서 유래했고, 'feedback'은 20세기 공학 용어에서 파생되어 '반응·평가'라는 의미로 확대되었다.",
+    "nuanceKo": "단순히 칭찬이 아닌 진실을 말한다는 뉘앙스가 강하며, 때로는 듣기 불편할 수 있지만 신뢰와 배려를 바탕으로 한다는 긍정적인 함의를 담고 있다.",
+    "shortExampleEn": "I really appreciate honest feedback because it helps me improve faster.",
+    "shortExampleKo": "솔직한 피드백을 정말 감사히 여겨요. 덕분에 더 빨리 발전할 수 있거든요."
+  }
+}

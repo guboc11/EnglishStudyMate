@@ -1,0 +1,30 @@
+{
+  "id": "muddle-through_bb5e8a2e",
+  "expression": "muddle through",
+  "selectionMeta": {
+    "selectedPhrase": "muddle through",
+    "selectedSenseLabelKo": "어떻게든 헤쳐나가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even without a clear plan, she managed to muddle through the first week of her new job."
+  },
+  "step2": {
+    "story": "Tom had never cooked for twenty people before, but he was determined to muddle through the dinner party. He burned the first batch of pasta, improvised a sauce from whatever was left in the fridge, and somehow pulled it all together. By the time his guests arrived, the table was set and the food was actually decent.",
+    "topicTag": "cooking challenge",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "When the project manager quit without warning two weeks before the product launch, the team was left scrambling. No one had the full picture of what still needed to be done, and panic spread quickly through the office. But instead of giving up, they gathered around a whiteboard, divided up the remaining tasks, and decided to muddle through together. The next two weeks were chaotic — late nights, unexpected bugs, and last-minute design changes — but the team kept pushing. On launch day, the product went live with only minor hiccups, and the exhausted team stood proud. Sometimes, the willingness to muddle through is all it takes to cross the finish line.",
+    "topicTag": "team resilience",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'muddle'는 혼란이나 뒤죽박죽인 상태를 의미하며, 'through'와 결합해 '혼란스러운 상황을 뚫고 나아간다'는 뜻을 가집니다.",
+    "realUsageKo": "계획이나 준비가 충분하지 않아도 어떻게든 상황을 헤쳐나갈 때 사용하며, 완벽하지 않더라도 버텨내는 과정 자체를 강조합니다.",
+    "etymologyKo": "'muddle'은 16세기 네덜란드어 'moddelen'(진흙 속에서 뒹굴다)에서 유래했으며, 시간이 지나면서 혼란과 무질서를 뜻하는 영어 단어로 자리 잡았습니다.",
+    "nuanceKo": "완벽한 해결책 없이 어떻게든 버텨낸다는 뉘앙스가 있어, 약간의 겸손함이나 자조적인 톤을 담을 때가 많습니다.",
+    "shortExampleEn": "We didn't have all the answers, but we muddled through somehow.",
+    "shortExampleKo": "완벽한 답은 없었지만, 우리는 어떻게든 헤쳐나갔다."
+  }
+}

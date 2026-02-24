@@ -1,0 +1,30 @@
+{
+  "id": "hidden-potential_ce3d0bac",
+  "expression": "hidden potential",
+  "selectionMeta": {
+    "selectedPhrase": "hidden potential",
+    "selectedSenseLabelKo": "숨겨진 잠재력",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her mentor was the first person to recognize the hidden potential in her unconventional ideas."
+  },
+  "step2": {
+    "story": "The shy student rarely spoke up in class, but his teacher noticed something different about the way he solved problems. She stayed after school one day and told him, \"You have hidden potential that most people would miss.\" From that moment, he began to believe in himself.",
+    "topicTag": "personal growth",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "When the small-town bakery was struggling to survive, a business consultant arrived and spent a week observing its operations. At first, the owner feared the verdict would be grim. But the consultant smiled and said the bakery had hidden potential that had simply never been tapped. With a few changes to the menu and a stronger social media presence, the shop began attracting customers from neighboring cities. Within a year, what had once seemed like a failing business was thriving beyond anyone's expectations.",
+    "topicTag": "business turnaround",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "겉으로 드러나지 않은, 아직 발현되지 않은 잠재적인 능력이나 가능성.",
+    "realUsageKo": "사람, 조직, 아이디어 등이 아직 충분히 활용되거나 인정받지 못한 능력 또는 가능성을 가리킬 때 쓰인다. 주로 누군가가 그 가능성을 알아봐 주거나 계발해야 한다는 맥락에서 사용된다.",
+    "etymologyKo": "'hidden'은 고대 영어 'hydan(숨기다)'에서 유래했고, 'potential'은 라틴어 'potentia(힘, 능력)'에서 비롯되었다. 두 단어가 결합해 '아직 드러나지 않은 능력'이라는 의미를 형성한다.",
+    "nuanceKo": "단순히 '재능이 있다'는 표현보다 발견되기를 기다리는 미지의 가능성이라는 뉘앙스가 강하다. 희망적이고 긍정적인 맥락에서 자주 쓰이며, 코치·멘토·관찰자의 시선을 담을 때 특히 잘 어울린다.",
+    "shortExampleEn": "The coach saw hidden potential in the young athlete and offered to train her.",
+    "shortExampleKo": "코치는 그 어린 선수에게서 숨겨진 잠재력을 발견하고 훈련을 제안했다."
+  }
+}

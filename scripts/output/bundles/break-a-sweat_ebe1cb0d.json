@@ -1,0 +1,30 @@
+{
+  "id": "break-a-sweat_ebe1cb0d",
+  "expression": "break a sweat",
+  "selectionMeta": {
+    "selectedPhrase": "break a sweat",
+    "selectedSenseLabelKo": "땀을 흘리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She finished the entire 5K run without even breaking a sweat, impressing everyone at the finish line."
+  },
+  "step2": {
+    "story": "Marcus had been training for months, so the qualifying exam barely made him break a sweat. He answered every question with calm confidence and submitted his paper early. The other candidates looked exhausted, but he walked out feeling fresh.",
+    "topicTag": "personal achievement",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "The new intern, Lily, was handed a mountain of data reports on her very first day and told to have them ready by noon. Her colleagues whispered that no one had ever finished that task in under four hours. Yet Lily didn't break a sweat—she had built a custom script for exactly this kind of work during her final year at university. By eleven o'clock she had a clean, color-coded summary sitting on the manager's desk. When the team gathered for lunch, they couldn't stop talking about how she had breezed through what used to take half the afternoon. From that day forward, the office legend grew: Lily was the one who never broke a sweat.",
+    "topicTag": "workplace skills",
+    "moodTag": "impressive"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '땀 한 방울을 흘리다'라는 뜻입니다.",
+    "realUsageKo": "실제로는 어떤 일을 힘들이지 않고 쉽게 해낼 때, 또는 전혀 힘들어하지 않을 때 사용합니다. 주로 'without breaking a sweat(땀 한 방울 흘리지 않고)' 형태로 자주 쓰입니다.",
+    "etymologyKo": "육체적 노력을 기울이면 땀이 난다는 사실에서 유래했습니다. 19세기부터 영어권에서 노력이나 고통의 척도로 '땀'을 사용해 왔으며, 'break a sweat'는 그 땀이 날 만큼 힘들다는 의미를 역이용한 표현입니다.",
+    "nuanceKo": "칭찬이나 감탄의 뉘앙스로 쓰일 때가 많지만, 때로는 누군가가 너무 쉽게 해냈다고 가볍게 비꼬는 어조로도 사용될 수 있습니다. 격식체보다는 구어체에서 주로 쓰입니다.",
+    "shortExampleEn": "He solved the puzzle without breaking a sweat.",
+    "shortExampleKo": "그는 땀 한 방울 흘리지 않고 퍼즐을 풀었다."
+  }
+}

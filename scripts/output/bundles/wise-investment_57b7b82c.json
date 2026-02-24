@@ -1,0 +1,30 @@
+{
+  "id": "wise-investment_57b7b82c",
+  "expression": "wise investment",
+  "selectionMeta": {
+    "selectedPhrase": "wise investment",
+    "selectedSenseLabelKo": "현명한 투자",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Buying a quality pair of running shoes turned out to be a wise investment, as they lasted three years without any issues."
+  },
+  "step2": {
+    "story": "After years of impulse spending, Mia decided to take a finance course online. She realized that putting money into her education was the wisest investment she could make. A year later, a promotion confirmed she had been right.",
+    "topicTag": "personal finance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Daniel had always been skeptical about spending money on professional development, preferring to save every dollar he earned. One afternoon, his mentor sat him down and explained that learning new skills was a wise investment in his future, not just an expense. Reluctantly, Daniel enrolled in a data analytics course that cost him three months of savings. Six months after finishing, his company offered him a senior analyst role with a significantly higher salary. Standing in the new office, he thought about how that single decision had changed the entire trajectory of his career. He finally understood that a wise investment pays dividends you cannot always predict in advance.",
+    "topicTag": "career growth",
+    "moodTag": "grateful"
+  },
+  "meaning": {
+    "literalMeaningKo": "돈이나 시간, 노력을 현명하게 사용하여 미래에 가치 있는 결과를 얻는 행위를 뜻한다.",
+    "realUsageKo": "단순한 금전적 투자뿐 아니라 교육, 건강, 인간관계 등 다양한 분야에서 장기적으로 이득이 되는 선택을 묘사할 때 폭넓게 사용된다.",
+    "etymologyKo": "'wise'는 고대 영어 'wīs(현명한)'에서 유래했으며, 'investment'는 라틴어 'investire(옷을 입히다, 자산을 맡기다)'에서 비롯되어 오늘날 '자금·노력을 투입하는 행위'를 의미한다.",
+    "nuanceKo": "단순히 '좋은 선택'보다 더 계획적이고 미래 지향적인 뉘앙스를 가지며, 칭찬이나 설득의 맥락에서 자주 등장한다.",
+    "shortExampleEn": "Spending time with your family is always a wise investment.",
+    "shortExampleKo": "가족과 시간을 보내는 것은 언제나 현명한 투자입니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bump-into_172720f6",
+  "expression": "bump into",
+  "selectionMeta": {
+    "selectedPhrase": "bump into",
+    "selectedSenseLabelKo": "우연히 만나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I bumped into my old college roommate at the grocery store yesterday."
+  },
+  "step2": {
+    "story": "On her lunch break, Sarah bumped into her former mentor near the coffee shop downtown. They hadn't spoken in two years, but the chance encounter felt warm and easy. They exchanged numbers and promised to catch up soon.",
+    "topicTag": "unexpected reunion",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "Jake was rushing through the airport, barely awake after an early-morning flight, when he bumped into his university best friend at the baggage claim. They stared at each other in disbelief — they lived in different countries and hadn't planned to be anywhere near each other. After a moment of shock, they burst out laughing and spent the next hour sharing stories over overpriced airport coffee. Jake missed his connecting bus, but he didn't mind one bit. Some coincidences, he decided, are worth every inconvenience.",
+    "topicTag": "chance encounter",
+    "moodTag": "joyful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가에 부딪히다, 또는 누군가와 우연히 마주치다.",
+    "realUsageKo": "일상에서는 주로 예상치 못한 상황에서 아는 사람을 우연히 만났을 때 사용한다. 계획 없이 만남이 이루어졌음을 강조하는 표현이다.",
+    "etymologyKo": "'bump'는 '쾅 부딪히다'는 뜻으로, 길을 가다 예상치 못하게 누군가와 '부딪히듯' 마주친다는 이미지에서 비롯된 표현이다.",
+    "nuanceKo": "뜻밖의 만남임을 자연스럽게 전달하며, 대체로 긍정적이거나 중립적인 감정을 담고 있다. 'run into'와 거의 같은 의미로 쓰인다.",
+    "shortExampleEn": "I bumped into my old neighbor while walking the dog this morning.",
+    "shortExampleKo": "오늘 아침 개를 산책시키다가 예전 이웃을 우연히 만났어."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tongue-in-cheek_2dd230e6",
+  "expression": "tongue in cheek",
+  "selectionMeta": {
+    "selectedPhrase": "tongue in cheek",
+    "selectedSenseLabelKo": "농담으로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She said tongue in cheek that she could eat an entire pizza by herself, but everyone knew she absolutely could."
+  },
+  "step2": {
+    "story": "During the team meeting, Marcus suggested tongue in cheek that they should all move to a tropical island and work remotely. His colleagues burst out laughing, though a few secretly wished it were a real option. The manager smiled and steered the conversation back to the quarterly report.",
+    "topicTag": "workplace humor",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "At the awards ceremony, the veteran comedian stepped up to the podium and announced tongue in cheek that he was accepting the lifetime achievement award purely for the free dinner. The crowd roared with laughter, knowing full well how much the recognition meant to him. He paused, letting the room settle, then added with a wink that the trophy would make an excellent doorstop. His wife in the front row shook her head with a fond smile, having heard this same routine at every event for thirty years. Beneath the jokes, everyone in the hall understood the deep respect they had for a man who had spent decades making people laugh through the hardest of times.",
+    "topicTag": "comedy and recognition",
+    "moodTag": "warm and humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "혀를 볼 안쪽에 넣은 채로, 즉 웃음을 참으면서 말하는 모습을 묘사한 표현.",
+    "realUsageKo": "진심이 아닌 농담이나 풍자로 하는 말임을 나타낼 때 사용하며, '반농담으로' 또는 '익살스럽게'라는 뉘앙스를 전달한다.",
+    "etymologyKo": "18세기 영어에서 유래했으며, 혀를 볼에 밀어 넣으면 웃음을 억누르는 표정이 된다는 신체적 동작에서 비롯됐다.",
+    "nuanceKo": "완전한 거짓말은 아니지만 진지하게 받아들이지 말라는 신호로 쓰이며, 가벼운 풍자나 자조적 유머에 자주 등장한다.",
+    "shortExampleEn": "He said tongue in cheek that working from home had completely ruined his social life — now he had to talk to his cat.",
+    "shortExampleKo": "그는 재택근무가 자신의 사회생활을 완전히 망쳤다고 농담 삼아 말했다 — 이제 고양이와 대화해야 한다고."
+  }
+}

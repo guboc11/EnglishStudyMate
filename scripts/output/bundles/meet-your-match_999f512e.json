@@ -1,0 +1,30 @@
+{
+  "id": "meet-your-match_999f512e",
+  "expression": "meet your match",
+  "selectionMeta": {
+    "selectedPhrase": "meet your match",
+    "selectedSenseLabelKo": "맞수를 만나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of dominating every chess tournament in the city, Marcus finally met his match when he sat across from a quiet teenager who had been playing since age four."
+  },
+  "step2": {
+    "story": "Elena had won every debate competition in her school without breaking a sweat. But at the regional finals, she met her match in a soft-spoken boy named Daniel who dismantled every one of her arguments with calm precision. She walked away not defeated, but genuinely impressed.",
+    "topicTag": "competition",
+    "moodTag": "humbled"
+  },
+  "step3": {
+    "story": "Coach Rivera had always believed his striker, Paulo, was untouchable on the field. Paulo dribbled past defenders like they were standing still, and his confidence bordered on arrogance. Then came the championship match against Northside, and Paulo met his match in a towering center-back named Torres. Every run Paulo made, Torres was already there. Every feint was read a second early. By halftime, Paulo sat quietly on the bench, staring at his cleats. It was the first time all season he had truly been challenged, and somewhere beneath the frustration, he knew it would make him better.",
+    "topicTag": "sports rivalry",
+    "moodTag": "intense"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 적수 또는 동등한 상대를 만나다.",
+    "realUsageKo": "경쟁이나 대결 상황에서 자신과 실력이 비슷하거나 자신을 능가하는 상대를 처음으로 만났을 때 사용한다. 오랫동안 무패를 자랑하던 사람이 드디어 강력한 도전자를 만났을 때 특히 자주 쓰인다.",
+    "etymologyKo": "'match'는 고대 영어 'gemæcca(동등한 자, 짝)'에서 유래했으며, 'meet your match'는 수백 년간 영어에서 '자신에게 필적하는 상대와 맞닥뜨리다'라는 의미로 사용되어 왔다.",
+    "nuanceKo": "단순한 패배보다는 '드디어 나와 같은 수준의 상대를 만났다'는 뉘앙스가 강하다. 상대에 대한 존중이 담겨 있으며, 부정적이기보다는 중립적 또는 긍정적인 맥락에서도 쓰인다.",
+    "shortExampleEn": "She thought no one could beat her at tennis, but she finally met her match.",
+    "shortExampleKo": "그녀는 테니스에서 자신을 이길 사람이 없다고 생각했지만, 마침내 맞수를 만났다."
+  }
+}

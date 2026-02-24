@@ -1,0 +1,30 @@
+{
+  "id": "keep-the-ball-rolling_4cf044ba",
+  "expression": "keep the ball rolling",
+  "selectionMeta": {
+    "selectedPhrase": "keep the ball rolling",
+    "selectedSenseLabelKo": "계속 진행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the initial excitement faded, it was up to the team leader to keep the ball rolling and maintain everyone's momentum."
+  },
+  "step2": {
+    "story": "The product launch had gone smoothly, but the marketing team knew the real challenge was just beginning. Sarah volunteered to organize weekly check-ins to keep the ball rolling and prevent enthusiasm from dying down. Her consistent effort paid off as the campaign gained traction over the following months.",
+    "topicTag": "teamwork",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "When the community garden project lost its founding organizer, many volunteers feared the whole initiative would collapse. Maya stepped up, not because she had all the answers, but because she believed in what they had built together. She sent out a newsletter, scheduled a planning meeting, and reached out personally to the most active members. Her goal was simple: keep the ball rolling until someone more experienced could take the lead. Week by week, the garden continued to thrive, and eventually Maya realized she had become the leader she was looking for. Sometimes momentum is its own kind of inspiration.",
+    "topicTag": "community",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "공이 계속 굴러가도록 유지하다.",
+    "realUsageKo": "어떤 일이나 활동이 중단되지 않고 계속 진행되도록 유지한다는 의미로 사용된다. 주로 프로젝트, 대화, 행사 등이 흐름을 잃지 않도록 노력할 때 쓴다.",
+    "etymologyKo": "공이 굴러가는 물리적 이미지에서 유래했으며, 19세기부터 '진행 중인 활동을 지속하다'는 비유적 의미로 영어권에서 널리 사용되기 시작했다.",
+    "nuanceKo": "적극적이고 실용적인 뉘앙스를 지니며, 중단 위기에 처한 상황에서 누군가가 주도적으로 동력을 유지할 때 긍정적으로 쓰인다. 가벼운 회화체부터 업무 맥락까지 두루 쓰인다.",
+    "shortExampleEn": "Let's schedule another meeting next week to keep the ball rolling.",
+    "shortExampleKo": "다음 주에 회의를 한 번 더 잡아서 계속 진행해 봅시다."
+  }
+}

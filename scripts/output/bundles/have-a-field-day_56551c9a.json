@@ -1,0 +1,30 @@
+{
+  "id": "have-a-field-day_56551c9a",
+  "expression": "have a field day",
+  "selectionMeta": {
+    "selectedPhrase": "have a field day",
+    "selectedSenseLabelKo": "마음껏 즐기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The kids had a field day at the amusement park, running from ride to ride without a care in the world."
+  },
+  "step2": {
+    "story": "When the strict teacher was absent, the students had a field day passing notes and chatting freely. The substitute had no idea how to keep them in line, so laughter filled the classroom all afternoon.",
+    "topicTag": "school life",
+    "moodTag": "playful"
+  },
+  "step3": {
+    "story": "The moment the CEO announced he was stepping down, the gossip columnists had a field day. Every tabloid ran wild speculation about the company's future, printing rumor after rumor without checking the facts. Office workers huddled around their phones during lunch, trading the latest headlines and laughing at the more outrageous theories. By evening, social media was flooded with memes and jokes at the company's expense. The PR team worked overtime trying to issue statements, but it was no use — the internet was having too much fun to stop.",
+    "topicTag": "media frenzy",
+    "moodTag": "chaotic"
+  },
+  "meaning": {
+    "literalMeaningKo": "들판에서 하루를 즐기다.",
+    "realUsageKo": "제약 없이 마음껏 즐기거나 신나게 활동하는 상황을 표현할 때 사용한다. 특히 남의 실수나 혼란스러운 상황을 기회 삼아 신나게 즐기는 경우에 자주 쓰인다.",
+    "etymologyKo": "원래 'field day'는 군대나 학교에서 야외 활동이나 훈련을 하는 특별한 날을 의미했다. 이 특별한 날에 자유롭게 활동하는 느낌이 전이되어 '마음껏 즐기다'는 의미로 발전했다.",
+    "nuanceKo": "긍정적인 흥분감과 함께 약간 장난스럽거나 남의 불행을 즐기는 뉘앙스가 담길 수 있다. 특히 미디어나 비평가들이 누군가의 실수를 마음껏 공격할 때 자주 사용된다.",
+    "shortExampleEn": "The paparazzi had a field day when the celebrity couple was spotted arguing in public.",
+    "shortExampleKo": "그 유명인 커플이 공개 장소에서 다투는 모습이 포착되자 파파라치들은 신나게 즐겼다."
+  }
+}

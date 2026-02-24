@@ -1,0 +1,30 @@
+{
+  "id": "overcome-self-doubt_7d4b87b1",
+  "expression": "overcome self-doubt",
+  "selectionMeta": {
+    "selectedPhrase": "overcome self-doubt",
+    "selectedSenseLabelKo": "자기 의심을 극복하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had to overcome self-doubt before she could step onto the stage and deliver her first public speech."
+  },
+  "step2": {
+    "story": "Marcus had always wanted to apply for the promotion, but a nagging voice inside kept telling him he wasn't good enough. He spent weeks working to overcome self-doubt, reminding himself of every challenge he had already conquered. The morning he finally submitted his application, he felt a quiet confidence he hadn't known before.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Every time Lena sat down at the piano for her recital practice, her fingers would freeze. She had played this piece a hundred times in her room, but the thought of performing in front of others made her feel like a fraud. Her teacher noticed and told her that every great musician had to overcome self-doubt at some point — it was part of the journey, not a sign to stop. Slowly, Lena began to separate the critical voice in her head from her actual ability. She started recording herself, listening back, and acknowledging the progress she had made. By the night of the recital, the doubt was still there, but it was quieter, and she walked onto the stage anyway.",
+    "topicTag": "music and performance",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자기 자신에 대한 의심이나 불신을 이겨내다.",
+    "realUsageKo": "능력이나 가치에 대한 내면의 부정적 목소리를 극복하고 앞으로 나아가는 상황에서 사용된다. 주로 도전적인 일을 시작하거나 지속할 때의 심리적 장벽을 묘사한다.",
+    "etymologyKo": "'overcome'은 고대 영어 'ofercuman'에서 유래해 '극복하다'는 의미이며, 'self-doubt'는 'self(자기 자신)'와 'doubt(의심)'의 합성어로 자신에 대한 불확신을 뜻한다.",
+    "nuanceKo": "단순히 자신감을 갖는다는 뜻보다 내면의 저항을 의식적으로 이겨낸다는 능동적이고 노력이 담긴 뉘앙스가 강하다. 성장 스토리나 동기 부여 맥락에서 자주 등장한다.",
+    "shortExampleEn": "You need to overcome self-doubt if you want to reach your full potential.",
+    "shortExampleKo": "잠재력을 최대한 발휘하려면 자기 의심을 극복해야 한다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "let-up_d06c88a6",
+  "expression": "let up",
+  "selectionMeta": {
+    "selectedPhrase": "let up",
+    "selectedSenseLabelKo": "약해지다 / 그치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The heavy rain finally let up around midnight, and we were able to drive home safely."
+  },
+  "step2": {
+    "story": "The storm had been raging for hours, but just before dawn it began to let up. Sarah stepped outside to find the streets glistening and the air calm at last.",
+    "topicTag": "weather",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "For three days straight, the blizzard had battered the small mountain town without mercy. Roads were closed, power lines had snapped, and families huddled inside hoping for a break. On the morning of the fourth day, the wind finally let up, and pale winter sunlight crept through the frost-covered windows. The townspeople emerged cautiously, shovels in hand, sharing relieved smiles across snow-buried fences. It felt like the world had been holding its breath and could now exhale.",
+    "topicTag": "natural disaster",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'let'(놓아주다)과 'up'(위로)이 결합해 무언가를 위로 풀어주다, 즉 힘이나 강도가 느슨해지다는 뜻입니다.",
+    "realUsageKo": "비·바람·통증·압박 등 지속되던 강도 높은 상태가 약해지거나 멈출 때 사용합니다. 사람이 압박을 줄이거나 노력을 늦추는 상황에도 쓰입니다.",
+    "etymologyKo": "고대 영어에서 'let'은 '허락하다·놓아주다'를 의미했으며, 'up'이 결합되어 '강도를 풀어주다'는 뜻으로 발전했습니다.",
+    "nuanceKo": "오래 지속되던 것이 드디어 잠잠해질 때의 안도감을 내포합니다. 부정문(won't let up)으로 쓰면 '전혀 그칠 기미가 없다'는 답답함을 강조합니다.",
+    "shortExampleEn": "The pressure at work never seems to let up these days.",
+    "shortExampleKo": "요즘 직장 내 압박이 도무지 줄어들 기미가 없다."
+  }
+}

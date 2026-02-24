@@ -1,0 +1,30 @@
+{
+  "id": "weigh-the-pros-and-cons_e3ee1fa5",
+  "expression": "weigh the pros and cons",
+  "selectionMeta": {
+    "selectedPhrase": "weigh the pros and cons",
+    "selectedSenseLabelKo": "장단점을 따지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before accepting the job offer in another city, she took a week to carefully weigh the pros and cons of relocating her entire family."
+  },
+  "step2": {
+    "story": "Marcus stared at the two university acceptance letters on his desk, one from a prestigious school far from home and the other from a local college. He spent the evening weighing the pros and cons of each option, jotting down notes about tuition costs, career opportunities, and family ties. By midnight, the decision had become clearer than he expected.",
+    "topicTag": "life decisions",
+    "moodTag": "thoughtful"
+  },
+  "step3": {
+    "story": "Elena had been offered a promotion that would double her salary but require her to travel three weeks out of every month. She sat down with a blank notebook and began to weigh the pros and cons with the same methodical care she applied to everything in her life. On one side, financial freedom and career advancement; on the other, missed birthdays, her daughter's school plays, and the quiet dinners she had grown to treasure. Her husband sat beside her in silence, not pushing either way, trusting her process. When she finally closed the notebook, she realized that the numbers alone could never capture what truly mattered. Weighing the pros and cons had not given her the answer, but it had shown her what she valued most.",
+    "topicTag": "career and family balance",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "무게를 달듯이 장점(pros)과 단점(cons)을 비교하다.",
+    "realUsageKo": "어떤 결정을 내리기 전에 좋은 점과 나쁜 점을 체계적으로 따져보는 행위를 표현할 때 사용한다. 직장 선택, 이사, 투자 등 중요한 판단이 필요한 상황에서 자주 쓰인다.",
+    "etymologyKo": "'Weigh'는 고대 영어 'wegan(무게를 달다)'에서 유래했고, 'pros'는 라틴어 'pro(찬성하여)', 'cons'는 라틴어 'contra(반대하여)'에서 비롯되었다. 16세기부터 pros and cons가 한 쌍으로 쓰이기 시작했다.",
+    "nuanceKo": "즉흥적 감정보다 이성적·분석적 사고를 강조하는 표현이다. 신중하고 균형 잡힌 판단자의 이미지를 전달하며, 비즈니스·학술·일상 모든 맥락에서 격식 없이 자연스럽게 사용된다.",
+    "shortExampleEn": "You should weigh the pros and cons before signing the contract.",
+    "shortExampleKo": "계약서에 서명하기 전에 장단점을 따져봐야 해."
+  }
+}

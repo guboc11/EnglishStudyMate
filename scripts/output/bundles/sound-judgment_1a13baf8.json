@@ -1,0 +1,30 @@
+{
+  "id": "sound-judgment_1a13baf8",
+  "expression": "sound judgment",
+  "selectionMeta": {
+    "selectedPhrase": "sound judgment",
+    "selectedSenseLabelKo": "건전한 판단",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The board trusted the CEO's sound judgment when she decided to pause the expansion and focus on stabilizing the core business."
+  },
+  "step2": {
+    "story": "When the project hit an unexpected budget shortfall, Marcus resisted the urge to panic and instead relied on sound judgment to identify where costs could be cut without harming quality. His team was grateful he hadn't made rash decisions under pressure.",
+    "topicTag": "workplace decision-making",
+    "moodTag": "composed"
+  },
+  "step3": {
+    "story": "Elena had been a crisis counselor for over a decade, and her colleagues had come to depend on her sound judgment in moments when emotions ran high and clarity was scarce. One evening, a distressed teenager called in, and the situation quickly escalated in ways the training manual hadn't fully anticipated. Rather than defaulting to a script, Elena listened carefully, asked measured questions, and guided the conversation toward a point of calm. Afterward, her supervisor reviewed the call and noted that it was precisely that kind of sound judgment—knowing when to follow protocol and when to adapt—that made Elena exceptional at her work.",
+    "topicTag": "crisis management",
+    "moodTag": "steady"
+  },
+  "meaning": {
+    "literalMeaningKo": "건강하고 흔들림 없는 판단력을 뜻한다.",
+    "realUsageKo": "압박이나 불확실한 상황에서도 올바르고 현명한 결정을 내리는 능력을 칭찬하거나 묘사할 때 사용된다. 주로 경험 많은 사람이나 리더의 자질을 설명하는 맥락에서 쓰인다.",
+    "etymologyKo": "'sound'는 고대 영어 'gesund'에서 유래해 '건강한, 온전한'을 의미하며, 여기서는 결함 없이 견고하다는 뜻으로 쓰인다. 'judgment'는 라틴어 'judicium(판결, 분별)'에서 왔다.",
+    "nuanceKo": "단순히 '좋은 판단'보다 더 신뢰감 있고 무게 있는 표현이다. 즉흥적이지 않고 경험과 원칙에 근거한 판단임을 암시하며, 격식체 및 직업적 맥락에서 자주 사용된다.",
+    "shortExampleEn": "Her sound judgment during the negotiation saved the company from a costly mistake.",
+    "shortExampleKo": "협상 중 그녀의 건전한 판단이 회사를 값비싼 실수로부터 구해 냈다."
+  }
+}

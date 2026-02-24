@@ -1,0 +1,30 @@
+{
+  "id": "drive-someone-crazy_e2d7b4c0",
+  "expression": "drive someone crazy",
+  "selectionMeta": {
+    "selectedPhrase": "drive someone crazy",
+    "selectedSenseLabelKo": "미치게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The constant notification sounds from his phone were starting to drive everyone in the office crazy."
+  },
+  "step2": {
+    "story": "Mia's neighbor played loud music every night until midnight, and it was driving her absolutely crazy. She tried earplugs, white noise machines, and even politely knocking on his door, but nothing worked. Finally, she called the building manager and the noise stopped for good.",
+    "topicTag": "neighbor conflict",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Daniel had been working on the same bug in his code for three days straight, and the endless cycle of fixing one error only to find another was driving him crazy. He would stare at the screen for hours, convinced he was missing something obvious, only to find nothing wrong. His teammates noticed how tense he had become and suggested he take a walk to clear his head. When he came back with fresh eyes, he spotted the missing semicolon in seconds. It drove him even crazier to realize how simple the fix was after all that stress.",
+    "topicTag": "work stress",
+    "moodTag": "exasperated"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 미친 상태로 몰아간다는 뜻으로, 극도로 짜증나거나 답답하게 만든다는 의미입니다.",
+    "realUsageKo": "주로 반복적이거나 피할 수 없는 행동·상황이 사람을 극도로 짜증나게 할 때 사용합니다. 강한 감정적 불쾌감을 표현하며, 과장된 표현으로도 자주 쓰입니다.",
+    "etymologyKo": "'drive'는 '몰다'는 뜻으로, 가축을 한 방향으로 강제로 몰아가는 이미지에서 유래했습니다. 이것이 비유적으로 확장되어 '어떤 상태로 몰아넣다'는 의미를 갖게 되었습니다.",
+    "nuanceKo": "구어체에서 매우 자주 쓰이는 표현으로, 심각한 분노보다는 일상적인 짜증·답답함을 강조할 때 어울립니다. 'nuts', 'mad', 'up the wall' 등과 바꿔 쓸 수 있습니다.",
+    "shortExampleEn": "My little brother's habit of humming at the dinner table drives me crazy.",
+    "shortExampleKo": "남동생이 식탁에서 콧노래를 흥얼거리는 버릇이 나를 미치게 해."
+  }
+}

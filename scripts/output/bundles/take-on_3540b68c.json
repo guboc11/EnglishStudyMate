@@ -1,0 +1,30 @@
+{
+  "id": "take-on_3540b68c",
+  "expression": "take on",
+  "selectionMeta": {
+    "selectedPhrase": "take on",
+    "selectedSenseLabelKo": "맡다 / 도전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to take on a leadership role in the community project, even though it meant working extra hours every week."
+  },
+  "step2": {
+    "story": "Marcus had always played it safe, but when his manager asked him to take on the struggling product launch, he said yes without hesitation. He worked late nights, rallied the team, and turned the project around in just three weeks.",
+    "topicTag": "career challenge",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena stared at the job posting for a long moment before clicking apply. The role required skills she was still developing, but she had always believed in taking on challenges that pushed her past her comfort zone. Her first week on the job was overwhelming — new systems, new people, and a mountain of responsibilities no one had fully prepared her for. But she took it one task at a time, asking questions and staying late until things clicked. A month in, her manager pulled her aside and said she had taken on the role better than anyone had expected. Elena smiled, knowing that the hardest part had been simply deciding to try.",
+    "topicTag": "personal growth",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 '위에 얹다'는 뜻으로, 책임이나 역할을 자신에게 올려놓는 이미지에서 비롯되었습니다.",
+    "realUsageKo": "어떤 일이나 책임을 맡거나, 어려운 과제·상대에게 도전할 때 사용합니다. 직장이나 일상에서 모두 자주 쓰이는 표현입니다.",
+    "etymologyKo": "'take'(취하다)와 'on'(위에, 지속적으로)의 결합으로, 무게나 부담을 자신 위에 올려받는 이미지에서 파생된 표현입니다.",
+    "nuanceKo": "단순히 일을 받는 것을 넘어, 스스로 선택하여 책임을 지거나 도전하는 뉘앙스가 강합니다. 수동적이 아닌 능동적인 결심을 내포합니다.",
+    "shortExampleEn": "I didn't expect to take on so much responsibility in my first month.",
+    "shortExampleKo": "첫 달에 이렇게 많은 책임을 맡게 될 줄은 몰랐어요."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-come-easy-go_e63b9f3c",
+  "expression": "easy come easy go",
+  "selectionMeta": {
+    "selectedPhrase": "easy come easy go",
+    "selectedSenseLabelKo": "쉽게 얻으면 쉽게 잃는다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He lost his entire bonus at the casino that night, but just shrugged and said, 'Easy come, easy go.'"
+  },
+  "step2": {
+    "story": "Maya won fifty dollars in a scratch card and immediately spent it all on dinner for her friends. When her roommate pointed out she'd blown her winnings in one hour, Maya just laughed and said, 'Easy come, easy go.' She never stressed much about money she hadn't planned on anyway.",
+    "topicTag": "money and luck",
+    "moodTag": "carefree"
+  },
+  "step3": {
+    "story": "Daniel had been riding high all week after finding an expensive watch on the subway, feeling like the universe had finally decided to smile on him. He took his friends out for drinks, bought new sneakers he didn't need, and treated himself to a fancy lunch every day. By Friday, the watch had slipped off his wrist somewhere on his morning jog, and he realized he'd also spent nearly three hundred dollars celebrating his good fortune. He sat on a park bench staring at his empty wrist, then let out a slow breath. 'Easy come, easy go,' he muttered to himself, and decided it was better to laugh about it than cry.",
+    "topicTag": "unexpected fortune",
+    "moodTag": "philosophical"
+  },
+  "meaning": {
+    "literalMeaningKo": "쉽게 얻어진 것은 쉽게 사라진다는 뜻의 영어 속담입니다.",
+    "realUsageKo": "노력 없이 얻은 돈이나 행운이 금방 없어졌을 때 체념하거나 가볍게 넘기며 쓰는 표현입니다. 후회나 아쉬움보다는 쿨하게 받아들이는 태도를 나타낼 때 주로 사용합니다.",
+    "etymologyKo": "16세기 영어에서 유래한 오래된 속담으로, 'lightly come, lightly go'라는 형태로 먼저 기록되었으며 이후 'easy come, easy go'로 정착되었습니다.",
+    "nuanceKo": "체념적이지만 긍정적인 뉘앙스를 가지며, 상실에 대해 크게 낙담하지 않는 여유로운 태도를 표현합니다. 자기 위로나 타인을 위로할 때 모두 자연스럽게 쓸 수 있습니다.",
+    "shortExampleEn": "She lost all her gambling winnings by the end of the night — easy come, easy go.",
+    "shortExampleKo": "그녀는 밤이 끝날 무렵 도박으로 딴 돈을 전부 잃었다 — 쉽게 얻으면 쉽게 잃는 법이지."
+  }
+}

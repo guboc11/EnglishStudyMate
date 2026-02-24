@@ -1,0 +1,30 @@
+{
+  "id": "handle-objections_948200af",
+  "expression": "handle objections",
+  "selectionMeta": {
+    "selectedPhrase": "handle objections",
+    "selectedSenseLabelKo": "반대를 처리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A skilled salesperson knows how to handle objections calmly and turn doubts into opportunities."
+  },
+  "step2": {
+    "story": "Before the big pitch, Maya practiced how to handle objections from skeptical investors. She anticipated every question and prepared clear, confident answers. When the moment came, she handled each objection so smoothly that the room fell silent in approval.",
+    "topicTag": "business negotiation",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Daniel had been preparing for weeks for the product launch presentation. He knew the board would push back on the budget, so he spent hours learning how to handle objections without getting defensive. On the day of the meeting, the CFO immediately challenged the projected costs. Daniel took a breath, acknowledged the concern, and walked through the data point by point. By the end, even the most skeptical board member was nodding along. Knowing how to handle objections had turned a potential failure into a decisive win.",
+    "topicTag": "workplace presentation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'handle'은 '다루다', 'objections'은 '반대 의견'으로, 직역하면 '반대 의견을 다루다'라는 뜻이다.",
+    "realUsageKo": "주로 영업, 협상, 발표 상황에서 상대방의 반론이나 우려를 침착하게 대응하고 해소하는 행위를 가리킨다. 단순히 반박하는 것이 아니라 상대의 입장을 인정하면서 설득력 있게 답변하는 뉘앙스를 담고 있다.",
+    "etymologyKo": "'handle'은 고대 영어 'handlian'(손으로 만지다, 다루다)에서 유래했으며, 'objection'은 라틴어 'objectio'(맞서 던지다)에서 비롯되어 '반대 의견'을 의미하게 되었다.",
+    "nuanceKo": "단순히 반대를 '무시하다'나 '이기다'가 아닌, 상대의 우려를 적극적으로 받아들이고 해결하는 전문적이고 성숙한 태도를 함의한다. 특히 비즈니스·영업·리더십 맥락에서 자주 쓰이는 표현이다.",
+    "shortExampleEn": "He was trained to handle objections professionally during sales calls.",
+    "shortExampleKo": "그는 영업 통화 중 반대 의견을 전문적으로 처리하도록 훈련받았다."
+  }
+}

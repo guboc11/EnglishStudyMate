@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-stiff-upper-lip_67f23a91",
+  "expression": "keep a stiff upper lip",
+  "selectionMeta": {
+    "selectedPhrase": "keep a stiff upper lip",
+    "selectedSenseLabelKo": "감정을 숨기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even as the bad news sank in, she kept a stiff upper lip and thanked the interviewer calmly before walking out."
+  },
+  "step2": {
+    "story": "When Daniel learned that his project had been cancelled after months of work, he kept a stiff upper lip in front of his team and assured them they would find a better path forward. Only later, alone in the car, did he let himself feel the disappointment.",
+    "topicTag": "workplace setback",
+    "moodTag": "stoic"
+  },
+  "step3": {
+    "story": "The morning of her mother's funeral, Claire woke up knowing she had to hold everything together for her younger siblings. She kept a stiff upper lip through the service, reading the eulogy without her voice breaking once. Friends pulled her aside afterward to admire how composed she had been, but she barely heard them. It was only back home, sitting in her mother's favorite chair, that the grief finally came flooding out. Keeping a stiff upper lip had cost her more than she realized.",
+    "topicTag": "grief and loss",
+    "moodTag": "bittersweet"
+  },
+  "meaning": {
+    "literalMeaningKo": "윗입술을 꿋꿋하게 유지한다는 뜻으로, 슬픔이나 고통을 느낄 때 입술이 떨리지 않도록 참는 모습에서 비롯된 표현이다.",
+    "realUsageKo": "어려운 상황에서 감정을 드러내지 않고 침착하게 버텨낼 때 사용한다. 특히 공개적인 자리에서 슬픔이나 고통을 억누르는 태도를 묘사할 때 자주 쓰인다.",
+    "etymologyKo": "19세기 영국 문화에서 유래한 표현으로, 감정이 북받칠 때 입술이 떨리는 것을 참는 모습을 묘사한 데서 시작되었다. 영국인의 절제된 기질을 상징하는 표현으로 널리 알려져 있다.",
+    "nuanceKo": "감정을 억누르는 것이 미덕으로 여겨지는 맥락에서 주로 쓰이며, 다소 고풍스럽거나 격식 있는 뉘앙스가 있다. 지나치게 감정을 숨기는 행동을 비판적으로 묘사할 때도 사용될 수 있다.",
+    "shortExampleEn": "He kept a stiff upper lip throughout the difficult negotiation, never letting his frustration show.",
+    "shortExampleKo": "그는 힘든 협상 내내 감정을 숨기며 좌절감을 전혀 드러내지 않았다."
+  }
+}

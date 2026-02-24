@@ -1,0 +1,30 @@
+{
+  "id": "out-of-the-question_73a550ae",
+  "expression": "out of the question",
+  "selectionMeta": {
+    "selectedPhrase": "out of the question",
+    "selectedSenseLabelKo": "불가능한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Taking a vacation right now is completely out of the question — we have a product launch in two weeks."
+  },
+  "step2": {
+    "story": "Mia asked her manager if she could work remotely for the next month, but he shook his head firmly. 'With the audit coming up, that's out of the question,' he said. She sighed and returned to her desk, already rescheduling her plans.",
+    "topicTag": "workplace",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Daniel had been training for months for the marathon, but three days before the race he twisted his ankle badly during a morning run. His doctor examined the swelling and told him that competing was out of the question. Daniel sat in silence, staring at his running shoes by the door. He had pictured himself crossing that finish line so many times. Slowly, he put the shoes away and reminded himself there would be another race — one he could actually run.",
+    "topicTag": "sports",
+    "moodTag": "disappointed"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '질문 밖에 있는', 즉 논의조차 할 수 없는 상태를 뜻합니다.",
+    "realUsageKo": "어떤 일이 절대 불가능하거나 허용될 수 없음을 단호하게 말할 때 사용합니다. 단순한 거절보다 더 강하고 확정적인 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "19세기 영어에서 유래한 표현으로, '논의(question)의 범위 바깥(out of)'이라는 구조에서 비롯되었습니다. 토론할 가치조차 없다는 의미에서 '불가능'을 뜻하게 되었습니다.",
+    "nuanceKo": "매우 단호하고 최종적인 어감을 줍니다. 협상이나 재고의 여지가 전혀 없음을 강조할 때 쓰이며, 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "Staying out past midnight is out of the question on a school night.",
+    "shortExampleKo": "학교 다음 날 밤 자정이 넘도록 밖에 있는 건 절대 안 돼."
+  }
+}

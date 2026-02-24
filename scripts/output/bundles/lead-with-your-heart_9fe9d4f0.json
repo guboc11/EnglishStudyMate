@@ -1,0 +1,30 @@
+{
+  "id": "lead-with-your-heart_9fe9d4f0",
+  "expression": "lead with your heart",
+  "selectionMeta": {
+    "selectedPhrase": "lead with your heart",
+    "selectedSenseLabelKo": "감정에 따라 행동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Sometimes the best decisions come when you lead with your heart rather than overthinking every detail."
+  },
+  "step2": {
+    "story": "When Maya saw the injured stray dog on her way to an important meeting, she chose to lead with her heart and stopped to get it help. She called a nearby shelter and waited until someone arrived, knowing she would be late. Her colleagues were understanding, and she arrived feeling more at peace than any meeting could have given her.",
+    "topicTag": "compassion",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Daniel had spent weeks analyzing data and running projections before his big career decision, yet he still felt paralyzed. His mentor sat across from him and said quietly, 'Sometimes you just have to lead with your heart.' That simple advice cut through all the noise in his head. He thought about which path genuinely excited him, which one made him feel alive when he imagined it. By the next morning, he had made his choice — not because the numbers were perfect, but because his gut and his passion aligned. He walked into the office with a clarity he hadn't felt in months.",
+    "topicTag": "career decision",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "심장(감정)을 앞세워 이끌다, 즉 이성보다 감정을 먼저 내세워 행동하다.",
+    "realUsageKo": "논리나 계산보다 자신의 감정·직관·열정을 우선시하여 결정하거나 행동할 때 사용한다. 긍정적 뉘앙스로 용기 있는 선택이나 진심 어린 행동을 묘사하는 데 자주 쓰인다.",
+    "etymologyKo": "'heart'는 오래전부터 감정·용기·본능의 중심으로 여겨졌으며, 'lead with'는 '~을 앞에 내세우다'라는 뜻으로 결합되어 감정을 행동의 원동력으로 삼는다는 의미가 됐다.",
+    "nuanceKo": "주로 긍정적·격려적 맥락에서 쓰이며, 지나친 분석을 멈추고 진심에 따라 행동하라는 조언의 뉘앙스를 담는다. 경우에 따라 '너무 감정적으로 결정한다'는 가벼운 경고로도 쓰일 수 있다.",
+    "shortExampleEn": "She decided to lead with her heart and forgave him without waiting for a perfect apology.",
+    "shortExampleKo": "그녀는 감정에 따라 행동하기로 결심하고, 완벽한 사과를 기다리지 않고 그를 용서했다."
+  }
+}

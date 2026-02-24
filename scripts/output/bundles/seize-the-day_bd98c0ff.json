@@ -1,0 +1,30 @@
+{
+  "id": "seize-the-day_bd98c0ff",
+  "expression": "seize the day",
+  "selectionMeta": {
+    "selectedPhrase": "seize the day",
+    "selectedSenseLabelKo": "오늘을 잡아라",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of playing it safe, Maya finally decided to seize the day and quit her stable job to pursue her dream of painting."
+  },
+  "step2": {
+    "story": "Jake had been putting off his trip to Japan for three years, always finding another excuse to wait. One morning he woke up, booked the flight, and thought — it's time to seize the day. He landed in Tokyo two weeks later with nothing but a backpack and a wide grin.",
+    "topicTag": "travel",
+    "moodTag": "adventurous"
+  },
+  "step3": {
+    "story": "Elena stood at the edge of the stage, heart hammering, watching the audition list shrink to her name. She had rehearsed this moment a hundred times in her bedroom mirror, but now, with real spotlights bearing down, doubt crept in. Her teacher's voice echoed in her mind: 'You only get so many chances — seize the day.' She took a slow breath, walked into the light, and began to sing. By the last note, the room was silent in the best possible way. She had seized it — every trembling, glorious second of it.",
+    "topicTag": "performance",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '하루를 잡아라'로, 지금 이 순간을 놓치지 말라는 뜻이다.",
+    "realUsageKo": "현재의 기회를 망설이지 않고 적극적으로 붙잡으라고 권유할 때 사용한다. 주로 두려움이나 망설임을 극복하고 행동에 나서도록 격려하는 맥락에서 쓰인다.",
+    "etymologyKo": "라틴어 'Carpe diem'에서 유래했으며, 로마 시인 호라티우스가 기원전 23년에 쓴 시에서 처음 등장했다. 'Carpe'는 '잡다·수확하다', 'diem'은 '하루'를 뜻한다.",
+    "nuanceKo": "단순한 즉흥적 행동보다는 두려움을 이기고 의미 있는 도전에 나서는 결단의 뉘앙스가 강하다. 격려·동기부여 상황에서 긍정적이고 영감을 주는 어조로 자주 쓰인다.",
+    "shortExampleEn": "You've been talking about starting your own business for years — seize the day and just do it.",
+    "shortExampleKo": "몇 년째 창업 얘기만 하고 있잖아 — 지금 바로 도전해봐."
+  }
+}

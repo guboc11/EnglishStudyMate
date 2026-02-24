@@ -1,0 +1,30 @@
+{
+  "id": "recharge-your-batteries_7cc553b7",
+  "expression": "recharge your batteries",
+  "selectionMeta": {
+    "selectedPhrase": "recharge your batteries",
+    "selectedSenseLabelKo": "에너지를 재충전하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After working non-stop for three weeks, Maya finally took a long weekend in the mountains to recharge her batteries before the next big project."
+  },
+  "step2": {
+    "story": "Daniel had been pulling late nights at the office all month and could feel himself running on empty. His manager noticed and told him to take Friday off and recharge his batteries over the long weekend. He came back on Monday refreshed, focused, and ready to tackle anything.",
+    "topicTag": "work stress",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Sophie had always prided herself on her relentless work ethic, but after six months without a real break, even simple tasks felt exhausting. Her best friend dragged her on a spontaneous road trip along the coast, insisting she needed to recharge her batteries or risk burning out completely. For three days, Sophie left her laptop at home, slept in, and did nothing but watch the waves and eat good food. By the time she returned to the city, she felt like a different person—clear-headed, motivated, and genuinely excited about her work again. The trip reminded her that rest wasn't a reward for hard work; it was a necessary part of doing hard work well.",
+    "topicTag": "burnout recovery",
+    "moodTag": "renewed"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 배터리를 다시 충전한다는 뜻이다.",
+    "realUsageKo": "실제로는 피로하거나 지쳐 있을 때 휴식을 취하거나 충분한 에너지를 회복한다는 의미로 쓰인다. 업무, 학업, 일상적인 스트레스로부터 잠시 벗어나 재충전하는 상황에서 자연스럽게 사용된다.",
+    "etymologyKo": "배터리(battery)가 방전되면 다시 충전해야 작동하듯이, 사람도 에너지가 소진되면 휴식을 통해 다시 충전해야 한다는 비유에서 유래했다. 20세기 중반 이후 일상 영어에서 널리 쓰이기 시작했다.",
+    "nuanceKo": "긍정적이고 따뜻한 뉘앙스를 지니며, 자기 관리나 건강한 휴식을 권장하는 맥락에서 자주 등장한다. 격식을 차리지 않는 구어체 표현으로, 친구나 동료 사이에서 편하게 쓰인다.",
+    "shortExampleEn": "I'm taking the whole weekend off to recharge my batteries.",
+    "shortExampleKo": "에너지를 재충전하려고 주말 내내 쉬려고 해."
+  }
+}

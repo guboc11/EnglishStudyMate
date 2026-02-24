@@ -1,0 +1,30 @@
+{
+  "id": "trust-the-process_0de0cb52",
+  "expression": "trust the process",
+  "selectionMeta": {
+    "selectedPhrase": "trust the process",
+    "selectedSenseLabelKo": "과정을 믿다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even when the results aren't visible yet, you have to trust the process and keep putting in the work every day."
+  },
+  "step2": {
+    "story": "Maya had been training for six months without seeing much improvement, and doubt was starting to creep in. Her coach reminded her to trust the process and focus on the small habits rather than the distant goal. Slowly, the effort began to compound, and she found herself stronger than she ever imagined.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After a year of writing every morning with nothing to show for it, Daniel almost quit his novel. His mentor sat him down and told him that great work rarely announces itself early—you simply have to trust the process and show up anyway. Daniel returned to his desk, word by word, chapter by chapter, resisting the urge to measure progress by the page count alone. Months later, the story began to breathe on its own, characters taking shape in ways he hadn't planned. When he finally typed the last sentence, he understood what his mentor meant: the discipline itself had been the destination. The finished manuscript was just the proof.",
+    "topicTag": "creative work",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "과정(process)을 신뢰한다(trust)는 뜻으로, 결과보다 과정을 믿고 따른다는 의미이다.",
+    "realUsageKo": "즉각적인 결과가 보이지 않더라도 꾸준히 노력하면 결국 성과가 나타날 것이라는 믿음을 표현할 때 사용한다. 운동, 학습, 창작 등 장기적인 노력이 필요한 상황에서 자주 쓰인다.",
+    "etymologyKo": "스포츠 코칭 문화에서 유래한 표현으로, 특히 NBA 코치 샘 힌키가 팀 재건 전략을 설명하며 자주 사용하면서 일반 대중에게도 널리 퍼졌다.",
+    "nuanceKo": "조급함을 내려놓고 장기적인 관점을 가지라는 격려의 뉘앙스가 강하다. 자기 자신에게 혹은 어려움을 겪는 타인에게 건네는 말로 모두 자연스럽다.",
+    "shortExampleEn": "It's only been three weeks—trust the process and don't give up yet.",
+    "shortExampleKo": "아직 3주밖에 안 됐어. 과정을 믿고 포기하지 마."
+  }
+}

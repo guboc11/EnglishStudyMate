@@ -1,0 +1,30 @@
+{
+  "id": "odds-and-ends_ab5538a3",
+  "expression": "odds and ends",
+  "selectionMeta": {
+    "selectedPhrase": "odds and ends",
+    "selectedSenseLabelKo": "잡다한 것들",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spent the afternoon sorting through the odds and ends cluttering her desk drawer."
+  },
+  "step2": {
+    "story": "After months of working from home, Maria's desk had accumulated odds and ends — old receipts, tangled cables, and forgotten sticky notes. She finally set aside a Saturday to clear it all out, and by evening the space felt completely transformed.",
+    "topicTag": "home organization",
+    "moodTag": "refreshed"
+  },
+  "step3": {
+    "story": "When Jake moved out of his apartment, he realized just how many odds and ends he had collected over the years. Broken headphones, mismatched socks, half-empty bottles of cologne — none of it seemed worth packing, yet he couldn't bring himself to throw it all away. He called his sister for help, and together they sorted through the clutter, laughing at the memories tied to each strange little object. By the end of the day, the apartment was empty, and Jake felt lighter than he had in years.",
+    "topicTag": "moving out",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "여러 가지 잡다한 물건이나 사항들을 가리키는 말입니다.",
+    "realUsageKo": "정해진 카테고리 없이 여러 종류의 작은 물건들이나 사소한 일들을 통틀어 말할 때 사용합니다. 서랍 안의 잡동사니나 마무리되지 않은 자잘한 업무들을 가리킬 때 모두 쓸 수 있습니다.",
+    "etymologyKo": "16세기 영어에서 유래한 표현으로, 'odd'는 '짝이 맞지 않는, 남은'이라는 뜻이며 'ends'는 '끝자락, 나머지'를 의미합니다. 즉, 분류되지 않고 남겨진 자투리들이라는 개념에서 비롯되었습니다.",
+    "nuanceKo": "부정적인 어감보다는 중립적이거나 약간 친근한 느낌으로 쓰입니다. 일상적인 구어체에서 자주 사용되며, 복잡하게 설명하기 어려운 잡다한 것들을 간단히 표현할 때 편리합니다.",
+    "shortExampleEn": "I need to pick up a few odds and ends from the store before the trip.",
+    "shortExampleKo": "여행 전에 가게에서 자잘한 것들을 좀 사야 해."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "on-the-same-page_22e4703c",
+  "expression": "on the same page",
+  "selectionMeta": {
+    "selectedPhrase": "on the same page",
+    "selectedSenseLabelKo": "같은 이해를 하고 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before we start the project, let's make sure we're all on the same page about the timeline and goals."
+  },
+  "step2": {
+    "story": "The team gathered for a quick meeting before the product launch. The manager wanted everyone on the same page about their individual responsibilities. After a clear briefing, the team felt confident and ready to move forward.",
+    "topicTag": "teamwork",
+    "moodTag": "collaborative"
+  },
+  "step3": {
+    "story": "Sarah noticed tension building between the design and development teams as the deadline approached. She called an emergency meeting and asked each side to explain their understanding of the requirements. It quickly became clear they had been working from different assumptions for weeks. Sarah spent the next hour walking everyone through the original brief until they were finally on the same page. The atmosphere in the room shifted from frustration to focus, and the team left with a shared plan they all believed in.",
+    "topicTag": "workplace communication",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '같은 페이지에 있다'는 뜻으로, 같은 문서나 내용을 보고 있다는 의미입니다.",
+    "realUsageKo": "실제로는 두 명 이상이 어떤 주제에 대해 동일한 이해나 인식을 공유하고 있다는 것을 나타낼 때 사용합니다. 회의나 협업 상황에서 특히 자주 쓰입니다.",
+    "etymologyKo": "책이나 문서를 함께 읽을 때 같은 페이지를 보아야 같은 내용을 이해할 수 있다는 데서 유래했습니다. 20세기 중반 비즈니스 영어에서 널리 퍼진 표현입니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 사용되며, 오해나 불일치를 해소하고 공통된 이해를 확인하는 긍정적인 뉘앙스를 가집니다.",
+    "shortExampleEn": "Can we meet briefly to make sure we're on the same page before the client call?",
+    "shortExampleKo": "클라이언트 통화 전에 우리가 같은 이해를 하고 있는지 확인하려고 잠깐 만날 수 있을까요?"
+  }
+}

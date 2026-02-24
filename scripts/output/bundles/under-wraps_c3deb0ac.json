@@ -1,0 +1,30 @@
+{
+  "id": "under-wraps_c3deb0ac",
+  "expression": "under wraps",
+  "selectionMeta": {
+    "selectedPhrase": "under wraps",
+    "selectedSenseLabelKo": "비밀로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company kept its new product under wraps until the official launch event next month."
+  },
+  "step2": {
+    "story": "The research team had been working for two years on a groundbreaking discovery, but their director insisted on keeping it under wraps until the paper was peer-reviewed. The pressure to stay silent was immense, especially at conferences where colleagues kept asking questions. Finally, the day the journal published their findings, they celebrated with a team dinner.",
+    "topicTag": "scientific discovery",
+    "moodTag": "anticipatory"
+  },
+  "step3": {
+    "story": "Maya had spent the past six months developing a surprise anniversary trip for her partner, and keeping it under wraps had been the hardest thing she had ever done. Every time her partner mentioned wanting to visit Japan, she had to bite her tongue and change the subject, all while secretly booking flights and a ryokan in Kyoto. Her friends were sworn to secrecy, though her best friend nearly slipped twice at dinner parties. As the departure date drew closer, Maya invented a weekend work trip as a cover story, watching her partner pack a small bag with no idea of what was really coming. When they arrived at the airport and she finally revealed the destination on the boarding pass, her partner burst into tears of disbelief. Keeping the secret had been exhausting, but the look of pure joy on her partner's face made every cautious word worth it.",
+    "topicTag": "surprise trip",
+    "moodTag": "joyful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 천이나 포장재로 감싸서 보이지 않게 한다는 뜻이다.",
+    "realUsageKo": "실제로는 정보나 계획, 프로젝트 등을 외부에 알리지 않고 비밀로 유지한다는 의미로 사용된다. 주로 공식 발표 전에 정보를 감추거나 놀라움을 지키기 위해 쓰인다.",
+    "etymologyKo": "과거 상품이나 선물을 천(wrap)으로 덮어 내용을 숨기던 관행에서 유래했다. 'under'는 '덮여 있는 상태'를 나타내어, 무언가가 포장 아래 감춰진 상태를 비유적으로 표현하게 되었다.",
+    "nuanceKo": "의도적이고 신중한 비밀 유지의 뉘앙스를 가지며, 단순히 모르는 상태가 아니라 알면서도 숨기고 있다는 느낌을 준다. 비즈니스나 공식적인 맥락에서 자주 쓰여 격식체와 비격식체 모두에 어울린다.",
+    "shortExampleEn": "The merger negotiations were kept under wraps to avoid market speculation.",
+    "shortExampleKo": "시장 투기를 막기 위해 합병 협상은 비밀로 유지되었다."
+  }
+}

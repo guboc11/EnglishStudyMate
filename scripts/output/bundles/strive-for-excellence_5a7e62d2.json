@@ -1,0 +1,30 @@
+{
+  "id": "strive-for-excellence_5a7e62d2",
+  "expression": "strive for excellence",
+  "selectionMeta": {
+    "selectedPhrase": "strive for excellence",
+    "selectedSenseLabelKo": "탁월함을 추구하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She always strives for excellence in her work, refusing to submit anything until it meets the highest standard."
+  },
+  "step2": {
+    "story": "Marco joined the design team with one goal in mind: to strive for excellence in every project. He spent extra hours refining each detail, from color palettes to pixel-perfect layouts. His teammates noticed and began raising their own standards to match his dedication.",
+    "topicTag": "professional growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "From her first day as a chef's apprentice, Yuna made a quiet promise to herself—she would strive for excellence no matter how grueling the kitchen became. She arrived before sunrise to practice knife skills and stayed after closing to memorize every sauce on the menu. Some nights she went home exhausted, fingers aching, yet she returned the next morning with the same fire. Over time, her dishes began to stand out for their precision and depth of flavor. The head chef noticed and offered her a lead station, saying she embodied what it truly meant to strive for excellence. Yuna smiled, knowing the journey had only just begun.",
+    "topicTag": "culinary ambition",
+    "moodTag": "inspired"
+  },
+  "meaning": {
+    "literalMeaningKo": "탁월함(excellence)을 위해 열심히 노력하다(strive)는 뜻이다.",
+    "realUsageKo": "단순히 잘하려는 것을 넘어 최고 수준을 목표로 끊임없이 애쓰는 태도를 표현할 때 쓴다. 직장, 학업, 예술 등 다양한 분야에서 높은 기준을 추구하는 사람을 묘사할 때 자주 등장한다.",
+    "etymologyKo": "'strive'는 고대 프랑스어 'estriver(다투다, 분투하다)'에서 유래했으며, 'excellence'는 라틴어 'excellentia(탁월함)'에서 왔다. 두 단어가 합쳐져 최상의 결과를 향해 부단히 노력한다는 의미를 형성했다.",
+    "nuanceKo": "결과보다 과정과 태도를 강조하는 표현으로, 단발적 성취가 아닌 지속적인 노력과 높은 기준을 암시한다. 공식적이고 진지한 맥락에서 자주 쓰이며 긍정적이고 모범적인 뉘앙스를 풍긴다.",
+    "shortExampleEn": "Our company culture encourages every employee to strive for excellence in customer service.",
+    "shortExampleKo": "우리 회사 문화는 모든 직원이 고객 서비스에서 탁월함을 추구하도록 장려한다."
+  }
+}

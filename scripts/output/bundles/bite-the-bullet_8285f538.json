@@ -1,0 +1,30 @@
+{
+  "id": "bite-the-bullet_8285f538",
+  "expression": "bite the bullet",
+  "selectionMeta": {
+    "selectedPhrase": "bite the bullet",
+    "selectedSenseLabelKo": "이를 악물고 버티다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Even though the surgery was painful, she decided to bite the bullet and go through with it without any painkillers."
+  },
+  "step2": {
+    "story": "Jake had been avoiding the difficult conversation with his business partner for weeks. Finally, he decided to bite the bullet and address the financial problems head-on. The talk was uncomfortable, but it saved their company.",
+    "topicTag": "business conflict",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maria had been dreading the dentist for three years, canceling appointment after appointment whenever fear got the better of her. The pain in her tooth had grown unbearable, and she knew she couldn't keep running away. One morning, she took a deep breath, picked up the phone, and decided to bite the bullet. She booked the earliest available slot and showed up trembling, but she showed up. When it was all over, she walked out into the sunlight feeling lighter than she had in years, proud that she had finally faced what she feared most.",
+    "topicTag": "overcoming fear",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "총알을 깨물다 — 과거에 마취 없이 수술을 받을 때 환자가 총알을 입에 물고 고통을 참았던 데서 유래한 표현.",
+    "realUsageKo": "고통스럽거나 불쾌하지만 피할 수 없는 상황을 이를 악물고 받아들이고 해낼 때 사용한다.",
+    "etymologyKo": "19세기 전쟁터에서 마취제 없이 수술을 받아야 했던 병사들이 고통을 참기 위해 총알을 입에 물었던 관행에서 비롯된 표현으로, 1796년 문헌에서 처음 등장한다.",
+    "nuanceKo": "단순히 참는 것을 넘어 '힘들다는 걸 알면서도 능동적으로 결단을 내린다'는 의지와 용기의 뉘앙스가 강하다. 피동적인 인내보다 적극적인 선택을 강조한다.",
+    "shortExampleEn": "I hate public speaking, but I bit the bullet and gave the presentation anyway.",
+    "shortExampleKo": "나는 대중 앞에서 말하는 게 정말 싫지만, 이를 악물고 발표를 끝까지 해냈다."
+  }
+}

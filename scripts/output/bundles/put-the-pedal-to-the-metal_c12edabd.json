@@ -1,0 +1,30 @@
+{
+  "id": "put-the-pedal-to-the-metal_c12edabd",
+  "expression": "put the pedal to the metal",
+  "selectionMeta": {
+    "selectedPhrase": "put the pedal to the metal",
+    "selectedSenseLabelKo": "전속력으로 나아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the deadline was moved up by a week, the entire team had to put the pedal to the metal to finish the project on time."
+  },
+  "step2": {
+    "story": "The startup had only three weeks left before their product launch, and they were still behind schedule. The CEO gathered everyone and announced it was time to put the pedal to the metal. Working nights and weekends, they managed to ship the product right on time.",
+    "topicTag": "startup launch",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had been training for the marathon for six months, carefully pacing herself to avoid burning out. With five kilometers left on the course, she glanced at her watch and realized she was behind her target pace. Her coach's voice echoed in her head: 'When you see the finish line, put the pedal to the metal.' She took a deep breath, pushed through the wall of fatigue, and found a speed she didn't know she still had. Spectators roared as she surged past three runners in the final stretch. She crossed the finish line with a personal best, tears streaming down her face.",
+    "topicTag": "marathon",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "가속 페달을 금속 바닥까지 완전히 밟다.",
+    "realUsageKo": "어떤 일을 최대 속도나 최대 노력으로 밀어붙이는 상황에서 사용된다. 업무, 경쟁, 목표 달성 등 다양한 맥락에서 '전력 질주하다', '전속력으로 나아가다'는 의미로 쓰인다.",
+    "etymologyKo": "자동차의 가속 페달(accelerator pedal)을 금속 바닥(floor)까지 완전히 밟는 행위에서 유래했다. 1970년대 미국 속어에서 시작되어 일상 표현으로 정착했다.",
+    "nuanceKo": "단순히 빠르게 한다는 의미를 넘어, 더 이상 여유를 두지 않고 한계까지 밀어붙인다는 강한 의지와 긴박감을 함께 담고 있다.",
+    "shortExampleEn": "We need to put the pedal to the metal if we want to finish this before the deadline.",
+    "shortExampleKo": "마감 전에 끝내려면 전속력으로 달려야 해."
+  }
+}

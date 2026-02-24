@@ -1,0 +1,30 @@
+{
+  "id": "turning-point_b3984d1a",
+  "expression": "turning point",
+  "selectionMeta": {
+    "selectedPhrase": "turning point",
+    "selectedSenseLabelKo": "전환점",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Losing that job turned out to be the turning point that led her to start her own business."
+  },
+  "step2": {
+    "story": "After years of drifting through unfulfilling work, Marcus finally reached a turning point when his mentor challenged him to pursue what he truly loved. He quit his corporate job the next week and enrolled in a culinary school. It was scary, but he knew he had crossed a threshold he could never go back from.",
+    "topicTag": "career change",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had always played it safe, staying in the same town, the same job, the same routine for a decade. Then one afternoon, a letter arrived—an acceptance to a residency program across the country. She sat at her kitchen table for a long time, staring at the paper. She recognized this moment as a turning point; whatever she chose, her life would never look the same. With trembling hands, she picked up her phone and accepted the offer. For the first time in years, she felt the quiet electricity of standing at the edge of something new.",
+    "topicTag": "life decision",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '방향이 바뀌는 지점'을 뜻한다.",
+    "realUsageKo": "어떤 상황이나 사람의 삶에서 이전과 이후가 뚜렷이 달라지는 결정적인 순간을 가리킬 때 쓴다. 긍정적·부정적 변화 모두에 사용할 수 있다.",
+    "etymologyKo": "'turn(방향을 돌리다)'과 'point(지점)'의 합성어로, 19세기부터 영어에서 결정적 전환의 순간을 묘사하는 표현으로 굳어졌다.",
+    "nuanceKo": "단순한 변화가 아니라 돌이킬 수 없는 중요한 분기점이라는 무게감을 담고 있으며, 회고적(retrospective) 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "The surgery was a turning point in his recovery.",
+    "shortExampleKo": "그 수술이 그의 회복에서 전환점이 되었다."
+  }
+}

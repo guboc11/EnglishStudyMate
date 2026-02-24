@@ -1,0 +1,30 @@
+{
+  "id": "hit-a-milestone_5ba58171",
+  "expression": "hit a milestone",
+  "selectionMeta": {
+    "selectedPhrase": "hit a milestone",
+    "selectedSenseLabelKo": "이정표에 도달하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The startup hit a milestone when it reached one million users just six months after launch."
+  },
+  "step2": {
+    "story": "After months of grueling work, the development team finally hit a milestone by shipping their first public release. The office erupted in cheers as the app went live without a single critical bug. It was a small victory, but it proved they were on the right track.",
+    "topicTag": "achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "Maya had been training for the marathon for almost a year, logging early morning runs through rain and cold. When she crossed the halfway mark of her first race without stopping, she knew she had hit a milestone she once thought impossible. Her legs ached and her breathing was ragged, but a wave of pride pushed her forward. She remembered all the mornings she had almost quit, all the blisters and self-doubt, and now none of that seemed to matter. Hitting this milestone did not mean the race was over—it meant she had proven to herself that finishing was within reach. She picked up her pace and ran the second half with more confidence than she had ever felt before.",
+    "topicTag": "personal growth",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "이정표(milestone)에 도달(hit)한다는 뜻으로, 어떤 과정에서 중요한 지점에 이른다는 의미입니다.",
+    "realUsageKo": "프로젝트, 사업, 개인 목표 등에서 중요한 단계나 성과를 달성했을 때 사용합니다. 숫자 목표(100만 사용자, 첫 출시 등) 달성 시 특히 자주 쓰입니다.",
+    "etymologyKo": "'Milestone'은 고대 로마 시대 도로에 1마일마다 세워 두던 돌 표지에서 유래했으며, 이후 중요한 진척 단계를 뜻하게 되었습니다. 'Hit'은 '정확히 도달하다'는 의미로 결합되어 쓰입니다.",
+    "nuanceKo": "단순한 완료가 아닌 '의미 있는 진전'을 강조하는 표현으로, 긍정적이고 축하하는 어감이 강합니다. 공식 보고서, 비즈니스 발표, 개인 성장 이야기 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "We hit a major milestone today—our product just turned one year old.",
+    "shortExampleKo": "오늘 우리는 중요한 이정표에 도달했어요. 제품 출시 1주년이 된 거예요."
+  }
+}

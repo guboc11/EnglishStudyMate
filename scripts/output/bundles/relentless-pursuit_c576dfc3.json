@@ -1,0 +1,30 @@
+{
+  "id": "relentless-pursuit_c576dfc3",
+  "expression": "relentless pursuit",
+  "selectionMeta": {
+    "selectedPhrase": "relentless pursuit",
+    "selectedSenseLabelKo": "끊임없는 추구",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her relentless pursuit of excellence pushed her team to deliver results beyond what anyone had thought possible."
+  },
+  "step2": {
+    "story": "Marcus had always been driven by a relentless pursuit of his goals, waking before dawn to train while others slept. After years of sacrifice, the gold medal finally hung around his neck.",
+    "topicTag": "personal achievement",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "From the moment she entered the research lab as a junior scientist, Dr. Yoon's relentless pursuit of a cure defined every waking hour. She missed holidays, skipped vacations, and filled notebooks with failed hypotheses that others would have taken as signs to quit. Her colleagues admired her dedication but worried she was burning out. Then one quiet Tuesday morning, the data aligned perfectly—the compound worked. The relentless pursuit that had cost her so much had finally paid off, and she sat alone in the lab for a long moment, letting the silence hold the magnitude of what she had just accomplished.",
+    "topicTag": "scientific discovery",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "끊임없는 추구: 멈추지 않고 계속해서 무언가를 좇거나 목표를 향해 나아가는 행위.",
+    "realUsageKo": "주로 목표, 성공, 완벽함, 진실 등을 향한 강렬하고 지속적인 노력을 묘사할 때 사용된다. 개인의 야망이나 조직의 비전을 강조하는 맥락에서 자주 등장한다.",
+    "etymologyKo": "'Relentless'는 '누그러지다'를 뜻하는 고대 영어 'relent'에 부정 접미사 '-less'가 붙어 '전혀 누그러지지 않는'의 의미가 됐다. 'Pursuit'는 라틴어 'prosequi(뒤따르다)'에서 유래한 프랑스어 'poursuivre'를 거쳐 영어에 정착했다.",
+    "nuanceKo": "긍정적 맥락에서는 강한 의지와 헌신을 칭찬하는 뉘앙스를 가지며, 부정적 맥락에서는 집착이나 강박적 성향을 암시할 수도 있다. 격식체와 비격식체 모두에서 사용 가능하다.",
+    "shortExampleEn": "The startup's relentless pursuit of innovation kept it ahead of larger competitors.",
+    "shortExampleKo": "그 스타트업의 끊임없는 혁신 추구 덕분에 더 큰 경쟁사들보다 앞서 나갈 수 있었다."
+  }
+}

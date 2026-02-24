@@ -1,0 +1,30 @@
+{
+  "id": "chase-your-tail_e953cb8c",
+  "expression": "chase your tail",
+  "selectionMeta": {
+    "selectedPhrase": "chase your tail",
+    "selectedSenseLabelKo": "헛수고하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After spending three hours reorganizing the spreadsheet only to revert the changes, she realized she had been chasing her tail the whole time."
+  },
+  "step2": {
+    "story": "Tom spent the entire morning chasing his tail trying to fix a bug that kept reappearing the moment he patched another part of the code. Every fix seemed to create a new problem, and by noon he had made zero real progress. He finally stepped back, took a break, and returned with a fresh perspective that solved everything in twenty minutes.",
+    "topicTag": "work frustration",
+    "moodTag": "exhausted"
+  },
+  "step3": {
+    "story": "For weeks, the marketing team had been chasing their tail trying to figure out why their campaign numbers kept dropping. They tweaked the ads, changed the copy, adjusted the budget, and tested new audiences, yet the results barely shifted. Each small improvement in one area seemed to cause a dip somewhere else, leaving everyone increasingly demoralized. Their manager finally called in a consultant who reviewed the data and pointed out that they had been targeting the wrong demographic from the very start. All the micro-adjustments had been pointless — they had simply been chasing their tail while the core problem went unaddressed. Once they redirected their efforts toward the right audience, the numbers climbed steadily within a week.",
+    "topicTag": "marketing strategy",
+    "moodTag": "frustrated"
+  },
+  "meaning": {
+    "literalMeaningKo": "개가 자신의 꼬리를 잡으려고 빙글빙글 도는 모습을 그대로 묘사한 표현이다.",
+    "realUsageKo": "실제로는 아무런 성과 없이 같은 노력을 반복하거나 헛수고를 하는 상황을 표현할 때 쓰인다. 열심히 하지만 제자리걸음인 상황에 잘 어울린다.",
+    "etymologyKo": "개가 자기 꼬리를 잡으려고 제자리에서 맴도는 행동에서 비롯된 표현으로, 노력이 결국 출발점으로 돌아오는 비효율적인 상황을 비유한다.",
+    "nuanceKo": "좌절감과 피로감이 담긴 표현으로, 단순히 바쁜 것이 아니라 노력이 헛되이 낭비된다는 뉘앙스를 강하게 풍긴다.",
+    "shortExampleEn": "We've been chasing our tail all week without solving the real problem.",
+    "shortExampleKo": "우리는 진짜 문제는 해결하지도 못한 채 일주일 내내 헛수고만 했어."
+  }
+}

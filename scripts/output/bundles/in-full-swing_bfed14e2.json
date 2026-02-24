@@ -1,0 +1,30 @@
+{
+  "id": "in-full-swing_bfed14e2",
+  "expression": "in full swing",
+  "selectionMeta": {
+    "selectedPhrase": "in full swing",
+    "selectedSenseLabelKo": "한창 진행 중인",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The summer festival was in full swing by the time we arrived, with live music filling the air and crowds dancing in every direction."
+  },
+  "step2": {
+    "story": "The product launch was in full swing, with the marketing team sending out press releases and the sales team fielding calls back-to-back. Everyone in the office moved with a sense of urgency and shared purpose. By noon, the first wave of orders had already exceeded their weekly target.",
+    "topicTag": "workplace momentum",
+    "moodTag": "energized"
+  },
+  "step3": {
+    "story": "By the end of October, preparations for the annual harvest festival were in full swing. Volunteers strung golden lights along the main street while vendors set up stalls overflowing with apples, pumpkins, and homemade preserves. Children in costumes darted between adults, their laughter cutting through the crisp autumn air. Elena stood at the center of it all, clipboard in hand, quietly amazed at how a small idea had grown into something the whole town looked forward to each year. She took a deep breath, smiled, and waved to a group of neighbors arranging hay bales in the square. This was exactly the kind of community she had always hoped to build.",
+    "topicTag": "community event",
+    "moodTag": "warm and celebratory"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 일이나 활동이 최고조에 달해 활발하게 돌아가고 있는 상태를 의미합니다.",
+    "realUsageKo": "행사, 프로젝트, 계절 활동 등 다양한 상황이 '한창 진행 중'임을 표현할 때 사용합니다. 긍정적이고 활기찬 분위기를 함께 전달하는 경우가 많습니다.",
+    "etymologyKo": "'swing'은 원래 기계나 장치가 리드미컬하게 최고 속도로 작동하는 상태를 뜻했으며, 'in full swing'은 기계가 완전한 가동 속도에 도달했다는 데서 유래해 현재는 모든 종류의 활동에 쓰입니다.",
+    "nuanceKo": "주로 긍정적이거나 활기찬 맥락에서 쓰이며, 어떤 일이 충분히 무르익어 최고 속도로 돌아가고 있다는 뉘앙스를 담고 있습니다. 아직 시작 단계가 아닌, 이미 본격적으로 진행 중임을 강조합니다.",
+    "shortExampleEn": "The holiday shopping season is in full swing.",
+    "shortExampleKo": "연말 쇼핑 시즌이 한창입니다."
+  }
+}

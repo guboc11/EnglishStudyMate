@@ -1,0 +1,30 @@
+{
+  "id": "stem-from_f68d179a",
+  "expression": "stem from",
+  "selectionMeta": {
+    "selectedPhrase": "stem from",
+    "selectedSenseLabelKo": "~에서 비롯되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Her fear of public speaking stems from a humiliating experience she had in middle school."
+  },
+  "step2": {
+    "story": "Marcus couldn't figure out why he always felt anxious before meetings. After talking to a therapist, he realized his anxiety stemmed from years of being criticized harshly by his father. Understanding the root cause finally gave him a way to address it.",
+    "topicTag": "self-awareness",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Lena had struggled with trust issues for as long as she could remember, pushing away anyone who got too close. Her closest friend finally sat her down and asked her to really think about where those walls came from. After weeks of journaling, Lena came to see that her difficulties stemmed from a period in childhood when she had been repeatedly let down by the adults she relied on. It was a painful realization, but also a freeing one. She began to separate her past experiences from the people standing in front of her today. Slowly, she started to let people in again.",
+    "topicTag": "emotional healing",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 것이 특정 원인이나 근원에서 자라나오다.",
+    "realUsageKo": "문제, 감정, 상황 등의 원인이나 기원을 설명할 때 사용한다. '~에서 비롯되다', '~가 원인이다'라는 뜻으로 쓰인다.",
+    "etymologyKo": "'stem'은 식물의 줄기를 뜻하며, 줄기가 뿌리에서 자라나온다는 개념에서 파생되어 '기원하다'라는 의미로 발전했다.",
+    "nuanceKo": "주로 부정적이거나 복잡한 상황의 근본 원인을 설명할 때 자주 쓰이며, 격식체와 비격식체 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "Many conflicts stem from a lack of clear communication.",
+    "shortExampleKo": "많은 갈등은 명확한 의사소통의 부재에서 비롯된다."
+  }
+}

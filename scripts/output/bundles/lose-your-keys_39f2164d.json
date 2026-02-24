@@ -1,0 +1,30 @@
+{
+  "id": "lose-your-keys_39f2164d",
+  "expression": "lose your keys",
+  "selectionMeta": {
+    "selectedPhrase": "lose your keys",
+    "selectedSenseLabelKo": "열쇠를 잃어버리다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "I always lose my keys right before I need to leave the house."
+  },
+  "step2": {
+    "story": "Tom was already late for work when he realized he had lost his keys again. He frantically searched through his coat pockets and bag before finally finding them under a pile of mail on the kitchen counter.",
+    "topicTag": "daily routine",
+    "moodTag": "frantic"
+  },
+  "step3": {
+    "story": "Sarah had a habit of losing her keys at the worst possible moments. One rainy evening, she stood at her front door soaking wet, digging through her purse in a panic. She checked every pocket, every compartment, growing more frustrated by the second. Just as she was about to call her roommate, she felt the familiar jingle at the very bottom of her bag. Relieved, she made a mental note to finally buy a key hook for the entryway.",
+    "topicTag": "home life",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 열쇠를 잃어버리다.",
+    "realUsageKo": "실제로 열쇠를 찾을 수 없게 되었을 때 사용하며, 일상적인 분실 상황을 표현할 때 가장 자주 쓰인다.",
+    "etymologyKo": "'lose'는 고대 영어 'losian(멸망하다, 잃다)'에서 유래했으며, 소유물을 더 이상 찾거나 가질 수 없는 상태를 나타낸다.",
+    "nuanceKo": "사소한 일상적 실수를 나타내는 표현으로, 가볍게 당황하거나 자기 자신에게 짜증을 낼 때 자주 쓰인다.",
+    "shortExampleEn": "Did you lose your keys again? They're on the table.",
+    "shortExampleKo": "또 열쇠 잃어버렸어? 테이블 위에 있어."
+  }
+}

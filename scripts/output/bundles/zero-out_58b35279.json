@@ -1,0 +1,30 @@
+{
+  "id": "zero-out_58b35279",
+  "expression": "zero out",
+  "selectionMeta": {
+    "selectedPhrase": "zero out",
+    "selectedSenseLabelKo": "소거하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team decided to zero out all legacy permissions before rolling out the new access control system."
+  },
+  "step2": {
+    "story": "After months of budget overruns, the CFO announced a plan to zero out the deficit by cutting non-essential spending. Every department scrambled to find savings, knowing the company's survival depended on it.",
+    "topicTag": "finance",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Maya stared at the spreadsheet, her cursor hovering over the final row of outstanding debts. After two years of careful saving and side work, she was finally ready to zero out her student loan balance completely. She clicked confirm, and the number flickered from thousands to zero. For a moment she just sat in silence, hardly believing it was real. Then a slow smile spread across her face — the weight she had carried since graduation was gone.",
+    "topicTag": "personal finance",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 수치나 잔액을 0으로 만들다, 즉 완전히 없애거나 소거하다.",
+    "realUsageKo": "주로 재정·회계·데이터 맥락에서 잔액, 오류, 설정값 등을 완전히 제거하거나 초기화할 때 사용한다. '빚을 다 갚다', '데이터를 지우다', '수치를 초기화하다' 등 다양한 상황에 쓰인다.",
+    "etymologyKo": "숫자 0을 뜻하는 'zero'와 완전히 처리함을 나타내는 부사 'out'이 결합된 구동사로, 회계 및 군사 용어에서 먼저 쓰이기 시작했다.",
+    "nuanceKo": "중립적이고 실용적인 어감으로, 감정보다는 결과에 초점을 맞춘 표현이다. 격식체와 비격식체 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "We need to zero out the account before transferring it to the new system.",
+    "shortExampleKo": "새 시스템으로 이전하기 전에 계정 잔액을 완전히 소거해야 합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "plant-a-seed_7c8c3b2f",
+  "expression": "plant a seed",
+  "selectionMeta": {
+    "selectedPhrase": "plant a seed",
+    "selectedSenseLabelKo": "씨앗을 뿌리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the workshop, the mentor hoped to plant a seed of curiosity that would inspire the students to keep exploring."
+  },
+  "step2": {
+    "story": "During their casual lunch break, Mia told her younger colleague about her own early struggles in the industry. She wasn't sure if it would help, but she wanted to plant a seed of resilience in him before the tough season ahead. Weeks later, he thanked her — saying that conversation had changed everything.",
+    "topicTag": "mentorship",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had spent years as a science teacher in a small rural school, watching his students leave for bigger cities with little ambition to return. One afternoon, he brought in a local engineer to speak to the class — not expecting much, just hoping to plant a seed. The engineer talked about how she had grown up in a similar town, faced the same doubts, and still built something she was proud of. Daniel watched the students lean forward, eyes wide, asking questions they had never asked before. He didn't know which of them would act on it, or when, but he trusted that something had shifted. Some seeds take years to grow, he reminded himself — the planting still matters.",
+    "topicTag": "education",
+    "moodTag": "quietly optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "씨앗을 땅에 심다.",
+    "realUsageKo": "어떤 생각, 감정, 또는 변화의 가능성을 누군가의 마음속에 심어놓다는 의미로 사용된다. 당장 결과가 나타나지 않더라도 미래에 영향을 미칠 것을 기대하며 무언가를 시작하거나 제안할 때 쓴다.",
+    "etymologyKo": "농업적 은유에서 유래했으며, 씨앗을 심으면 시간이 지나 싹이 트듯 아이디어나 영향도 서서히 자라난다는 개념을 반영한다. 영어권에서 오래전부터 비유적 표현으로 사용되어 왔다.",
+    "nuanceKo": "직접적인 강요 없이 은근하고 인내심 있는 방식으로 영향을 준다는 뉘앙스가 강하다. 결과보다 과정과 가능성을 중시하는 태도를 담고 있으며, 교육·멘토링·설득 상황에서 자주 쓰인다.",
+    "shortExampleEn": "The documentary planted a seed of doubt in my mind about the project.",
+    "shortExampleKo": "그 다큐멘터리는 내 마음속에 그 프로젝트에 대한 의심의 씨앗을 심었다."
+  }
+}

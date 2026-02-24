@@ -1,0 +1,30 @@
+{
+  "id": "play-out_25eab5bf",
+  "expression": "play out",
+  "selectionMeta": {
+    "selectedPhrase": "play out",
+    "selectedSenseLabelKo": "전개되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No one could have predicted how the negotiation would play out over the next few hours."
+  },
+  "step2": {
+    "story": "The team watched nervously as the final match began to play out on the field. Every decision the coach had made that week was about to be tested. By the final whistle, they finally understood why he had believed in them all along.",
+    "topicTag": "sports",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sara had rehearsed the conversation in her head a hundred times, but she never expected it to play out the way it did. When she finally told her boss she was leaving, there was a long silence that made her heart race. Then, instead of anger, he smiled and said he had seen this coming for months. He offered to write her a glowing recommendation letter on the spot. Standing there in his office, Sara realized that the scenarios she had feared most rarely played out the way she imagined. She walked out feeling lighter than she had in years.",
+    "topicTag": "career change",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 일이 끝까지 진행되거나 결말에 이르다.",
+    "realUsageKo": "상황이나 사건이 시간이 지남에 따라 어떻게 전개되고 결론에 이르는지 묘사할 때 사용한다. 주로 예측하기 어려운 상황의 결과를 말할 때 쓰인다.",
+    "etymologyKo": "'play'는 고대 영어 'plegan(움직이다, 활동하다)'에서 유래했으며, 'out'과 결합해 '끝까지 펼쳐지다'라는 의미로 발전했다.",
+    "nuanceKo": "중립적인 어조로 결과를 관찰하거나 서술하는 느낌이 강하다. 좋고 나쁨을 판단하기보다 사태가 자연스럽게 흘러가는 과정에 주목할 때 어울린다.",
+    "shortExampleEn": "Let's wait and see how this situation plays out.",
+    "shortExampleKo": "이 상황이 어떻게 전개되는지 기다려 보자."
+  }
+}

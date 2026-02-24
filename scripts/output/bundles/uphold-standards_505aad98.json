@@ -1,0 +1,30 @@
+{
+  "id": "uphold-standards_505aad98",
+  "expression": "uphold standards",
+  "selectionMeta": {
+    "selectedPhrase": "uphold standards",
+    "selectedSenseLabelKo": "기준을 유지하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite the budget cuts, the team continued to uphold standards and deliver quality work on every project."
+  },
+  "step2": {
+    "story": "The new manager was under pressure to cut corners, but she refused to compromise. She insisted on upholding standards even when it slowed down production. Her team respected her for it.",
+    "topicTag": "workplace integrity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the school board proposed reducing the grading criteria to boost pass rates, Principal Chen stood firm in front of the auditorium. She explained that her job was not to make success easier, but to help students earn it. 'We must uphold standards,' she said, 'because they protect the value of every student's achievement.' The audience fell quiet, and then slowly, a few parents began to applaud. By the end of the meeting, the proposal was withdrawn. The students left knowing that their diplomas would mean something.",
+    "topicTag": "education and values",
+    "moodTag": "principled"
+  },
+  "meaning": {
+    "literalMeaningKo": "'uphold'은 '지지하다·유지하다', 'standards'는 '기준·수준'으로, 글자 그대로 기준을 높이 받쳐 떨어지지 않게 한다는 뜻이다.",
+    "realUsageKo": "품질, 윤리, 규범 등의 수준을 타협 없이 지켜나갈 때 사용하며, 주로 직업적·도덕적 책임감을 강조하는 맥락에서 쓰인다.",
+    "etymologyKo": "'uphold'는 고대 영어 'uphealdan(위로 붙들다)'에서 유래했으며, 'standard'는 중세 프랑스어 'estandart(깃발·기준점)'에서 왔다.",
+    "nuanceKo": "단순히 규칙을 따르는 것 이상으로, 압박이나 유혹에도 원칙을 지킨다는 능동적이고 의지적인 뉘앙스를 담고 있다.",
+    "shortExampleEn": "It is every employee's responsibility to uphold standards of honesty and professionalism.",
+    "shortExampleKo": "정직성과 전문성의 기준을 유지하는 것은 모든 직원의 책임이다."
+  }
+}

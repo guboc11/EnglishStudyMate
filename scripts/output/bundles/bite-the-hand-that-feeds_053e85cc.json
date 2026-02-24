@@ -1,0 +1,30 @@
+{
+  "id": "bite-the-hand-that-feeds_053e85cc",
+  "expression": "bite the hand that feeds",
+  "selectionMeta": {
+    "selectedPhrase": "bite the hand that feeds",
+    "selectedSenseLabelKo": "도움을 준 사람을 해치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the company funded his entire career, he turned around and sued them — a clear case of biting the hand that feeds."
+  },
+  "step2": {
+    "story": "Marcus had relied on his mentor's connections to land every major client he ever had. Yet when his mentor needed a favor in return, Marcus publicly criticized him to impress a new business partner. Everyone in the industry agreed he was biting the hand that feeds.",
+    "topicTag": "workplace betrayal",
+    "moodTag": "bitter"
+  },
+  "step3": {
+    "story": "For three years, the small publishing house had taken a chance on Elena, printing her books when no one else would and promoting her work tirelessly. Her debut novel became a modest success, and the publisher celebrated her like family. Then, when a larger firm came calling with a lucrative offer, Elena not only signed with them but gave an interview mocking her original publisher as 'small-time.' The literary community was stunned — here was someone openly biting the hand that feeds. Her new publisher noticed too, and quietly wondered if she would do the same to them someday.",
+    "topicTag": "ambition and loyalty",
+    "moodTag": "disillusioned"
+  },
+  "meaning": {
+    "literalMeaningKo": "먹이를 주는 손을 물다.",
+    "realUsageKo": "자신을 돕거나 지원해 준 사람에게 해를 끼치거나 배신하는 행동을 비유적으로 표현할 때 사용한다. 주로 배은망덕한 태도를 비판할 때 쓴다.",
+    "etymologyKo": "먹이를 주는 주인의 손을 무는 개의 행동에서 유래한 표현으로, 중세 영어 문헌에서부터 등장하며 에드먼드 버크(Edmund Burke)가 1770년 저술에서 이 표현을 사용해 널리 알려졌다.",
+    "nuanceKo": "강한 도덕적 비난을 담은 표현으로, 어리석음과 배은망덕함을 동시에 지적하는 뉘앙스가 있다. 주로 제3자가 누군가의 행동을 비판할 때 사용한다.",
+    "shortExampleEn": "He bit the hand that fed him by leaking company secrets to a rival firm.",
+    "shortExampleKo": "그는 경쟁사에 회사 기밀을 유출함으로써 자신을 키워 준 회사를 배신했다."
+  }
+}

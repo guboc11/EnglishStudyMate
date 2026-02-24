@@ -1,0 +1,30 @@
+{
+  "id": "rolling-with-the-punches_f6e2a845",
+  "expression": "rolling with the punches",
+  "selectionMeta": {
+    "selectedPhrase": "rolling with the punches",
+    "selectedSenseLabelKo": "적응력이 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing her job and apartment in the same month, she kept rolling with the punches and eventually landed something even better."
+  },
+  "step2": {
+    "story": "When the venue canceled two days before the event, Marcus didn't panic. He started rolling with the punches, calling every contact he had until he found a new location. By the night of the event, no one could tell anything had gone wrong.",
+    "topicTag": "event planning",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Priya had planned her product launch for months, but the manufacturer backed out at the last minute. She sat with the shock for exactly one hour, then got to work. Rolling with the punches had always been her strongest skill — not because setbacks didn't hurt, but because she refused to let them define the outcome. She renegotiated with a smaller supplier, adjusted the launch timeline, and reframed the delay as a chance to refine the packaging. When the product finally shipped six weeks later, the reviews were better than anything she had projected. Looking back, she realized that the disruption had pushed her toward decisions she'd been too cautious to make on her own.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "권투에서 상대방의 주먹을 몸을 움직여 흘려보내듯이, 상황의 충격을 부드럽게 받아넘기는 것.",
+    "realUsageKo": "예상치 못한 어려움이나 변화에 유연하게 대응하며 앞으로 나아간다는 의미로 쓰인다. 불평하거나 포기하지 않고 상황에 맞춰 적응하는 태도를 강조할 때 자주 사용된다.",
+    "etymologyKo": "권투(boxing)에서 유래한 표현으로, 선수가 주먹을 '피하지 않고' 몸을 같은 방향으로 움직여 충격을 최소화하는 기술인 'rolling with a punch'에서 비롯되었다.",
+    "nuanceKo": "단순한 인내(endurance)보다 적극적인 유연성(flexibility)의 뉘앙스가 강하다. 상황을 억지로 통제하려 하지 않고 흐름을 받아들이면서도 포기하지 않는 긍정적이고 실용적인 태도를 함의한다.",
+    "shortExampleEn": "The startup had to pivot three times in its first year, but the team was good at rolling with the punches.",
+    "shortExampleKo": "그 스타트업은 첫 해에 세 번이나 방향을 바꿔야 했지만, 팀원들은 변화에 잘 적응했다."
+  }
+}

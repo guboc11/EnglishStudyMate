@@ -1,0 +1,30 @@
+{
+  "id": "bite-your-tongue_5b192ce7",
+  "expression": "bite your tongue",
+  "selectionMeta": {
+    "selectedPhrase": "bite your tongue",
+    "selectedSenseLabelKo": "말을 참다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When her boss took credit for her idea again, she had to bite her tongue to avoid saying something she'd regret."
+  },
+  "step2": {
+    "story": "During the family dinner, Marcus's uncle made another careless remark about his career choices. Marcus bit his tongue, reminding himself that arguing would only ruin the evening. He took a slow breath and quietly reached for more bread.",
+    "topicTag": "family tension",
+    "moodTag": "restrained"
+  },
+  "step3": {
+    "story": "The quarterly review meeting had barely started when David's colleague began presenting the strategy David had spent weeks developing — without a single mention of his name. David felt a sharp surge of anger rise in his chest. He bit his tongue hard, gripping his pen beneath the table while the room nodded along approvingly. He knew this wasn't the moment to speak up; making a scene in front of senior leadership would only reflect badly on him. After the meeting, he exhaled slowly in the corridor, already composing a calm, professional email he would send before the end of the day.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense but composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "혀를 깨물다 — 말이 나오려는 것을 물리적으로 막는 행위.",
+    "realUsageKo": "하고 싶은 말이 있지만 상황상 참아야 할 때, 특히 감정적으로 반응하면 역효과가 날 것을 알면서도 충동을 느낄 때 씁니다. 주로 'bite your tongue', 'bit my tongue' 형태로 사용합니다.",
+    "etymologyKo": "중세 영어 시절부터 '혀를 깨물어 말을 막는다'는 이미지가 관용적으로 쓰였으며, 셰익스피어 작품에도 유사 표현이 등장합니다.",
+    "nuanceKo": "단순히 침묵하는 것과 달리, 말하고 싶은 욕구를 의식적으로 억제하는 내적 갈등이 담겨 있습니다. 참는 것이 쉽지 않다는 뉘앙스가 강합니다.",
+    "shortExampleEn": "I had to bite my tongue when he blamed me for his mistake.",
+    "shortExampleKo": "그가 자기 실수를 나 탓으로 돌렸을 때 나는 말을 꾹 참아야 했다."
+  }
+}

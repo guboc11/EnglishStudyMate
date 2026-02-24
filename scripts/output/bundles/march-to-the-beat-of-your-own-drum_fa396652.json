@@ -1,0 +1,30 @@
+{
+  "id": "march-to-the-beat-of-your-own-drum_fa396652",
+  "expression": "march to the beat of your own drum",
+  "selectionMeta": {
+    "selectedPhrase": "march to the beat of your own drum",
+    "selectedSenseLabelKo": "자신만의 방식대로 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Ever since she left her corporate job to open a pottery studio, Elena has always marched to the beat of her own drum."
+  },
+  "step2": {
+    "story": "While his classmates were rushing to apply for finance internships, Marcus spent his summer learning to weld and build furniture. He had always marched to the beat of his own drum, trusting that his passion would eventually pay off. By senior year, his handcrafted pieces were selling faster than he could make them.",
+    "topicTag": "career choice",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Growing up in a small town where everyone seemed to follow the same path — school, factory job, early marriage — Nora felt like she never quite fit in. She dyed her hair, read philosophy books at the diner, and dreamed of traveling abroad on a shoestring budget. Her family worried, her neighbors whispered, but Nora continued to march to the beat of her own drum without apology. At twenty-five she packed a single bag and moved to Barcelona, picking up freelance illustration work along the way. Years later, looking out from her sun-filled studio over the old city rooftops, she felt nothing but gratitude for the road she had chosen. Some people find happiness by following the crowd; Nora found hers by walking in the opposite direction.",
+    "topicTag": "self-discovery",
+    "moodTag": "free-spirited"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신만의 북소리에 맞춰 행진하다 — 즉, 다른 사람의 리듬이 아닌 자기 자신의 리듬을 따른다는 뜻이다.",
+    "realUsageKo": "다수의 기대나 관습을 따르지 않고 독자적인 방식으로 살아가거나 행동하는 사람을 묘사할 때 쓴다. 주로 개성이 강하거나 독립적인 성격을 가진 사람에 대한 칭찬 또는 중립적 평가로 사용된다.",
+    "etymologyKo": "19세기 미국 작가 헨리 데이비드 소로우의 《월든》(1854)에서 유래했다. 소로우는 '다른 북소리를 듣는 사람은 그 박자에 맞게 걸음을 맞춰야 한다'고 썼고, 이 표현이 굳어져 현재의 관용구가 되었다.",
+    "nuanceKo": "긍정적·중립적 뉘앙스를 모두 가질 수 있다. 칭찬할 때는 용기 있고 독립적인 삶의 태도를 강조하지만, 맥락에 따라 '고집스럽거나 제멋대로'라는 완곡한 비판으로 쓰이기도 한다."  ,
+    "shortExampleEn": "He never followed trends — he always marched to the beat of his own drum.",
+    "shortExampleKo": "그는 유행을 따른 적이 없었다 — 항상 자신만의 방식대로 살았다."
+  }
+}

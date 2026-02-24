@@ -1,0 +1,30 @@
+{
+  "id": "maximize-potential_5fc82c7f",
+  "expression": "maximize potential",
+  "selectionMeta": {
+    "selectedPhrase": "maximize potential",
+    "selectedSenseLabelKo": "잠재력을 극대화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A good mentor helps students maximize their potential by identifying their strengths and guiding them toward the right opportunities."
+  },
+  "step2": {
+    "story": "After years of playing it safe, Lena finally decided to take on the challenging project her manager offered her. She wanted to maximize her potential and prove to herself what she was truly capable of. By the end of the quarter, she had delivered results that surprised even her toughest critics.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had always been told he had raw talent, but talent alone wasn't getting him anywhere. He enrolled in an intensive coaching program designed to help athletes maximize their potential through structured training and mental conditioning. At first, the early mornings and relentless drills felt overwhelming, but he kept pushing. Week by week, he noticed his performance improving in ways he hadn't imagined possible. By the final competition of the season, Daniel ran a personal best and stood on the podium for the first time. He realized that maximizing your potential wasn't about luck—it was about the daily choices you made when no one was watching.",
+    "topicTag": "sports achievement",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "잠재력(potential)을 최대화하다(maximize)는 뜻으로, 가능성을 가장 높은 수준까지 끌어올린다는 의미입니다.",
+    "realUsageKo": "개인이나 조직이 가진 능력·가능성을 최대한 발휘하도록 한다는 맥락에서 자기계발, 교육, 비즈니스 등 다양한 분야에서 폭넓게 사용됩니다.",
+    "etymologyKo": "'maximize'는 라틴어 'maximus(가장 큰)'에서 유래했고, 'potential'은 라틴어 'potentia(힘, 능력)'에서 비롯되었습니다.",
+    "nuanceKo": "단순히 '잘하다'보다 한 단계 더 나아가 가능성의 한계까지 도달한다는 적극적·능동적 뉘앙스를 담고 있으며, 코칭·리더십 맥락에서 자주 등장합니다.",
+    "shortExampleEn": "The new training program was designed to maximize the potential of every team member.",
+    "shortExampleKo": "새 교육 프로그램은 팀원 모두의 잠재력을 극대화하도록 설계되었습니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "water-under-the-bridge_8bb0ec73",
+  "expression": "water under the bridge",
+  "selectionMeta": {
+    "selectedPhrase": "water under the bridge",
+    "selectedSenseLabelKo": "이미 지나간 일",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The argument we had last year is water under the bridge — we've both moved on and our friendship is stronger than ever."
+  },
+  "step2": {
+    "story": "Sarah and Tom hadn't spoken in months after their falling out over a business deal. But when they bumped into each other at a mutual friend's wedding, they both agreed it was water under the bridge. They spent the evening laughing and catching up like old times.",
+    "topicTag": "friendship",
+    "moodTag": "reconciling"
+  },
+  "step3": {
+    "story": "David stared at the old photograph of him and his brother Marcus, taken before everything fell apart. Years of silence had followed a heated dispute over their father's inheritance, and neither had been willing to make the first move. But when Marcus called out of nowhere to say their mother was ill, David didn't hesitate. He drove three hours to the hospital, and when they finally saw each other in the waiting room, Marcus extended his hand. David shook it firmly, and both men understood without a word that the past was water under the bridge. What mattered now was being there for the woman who had raised them.",
+    "topicTag": "family reconciliation",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "다리 아래를 흘러간 물",
+    "realUsageKo": "과거에 일어난 일이나 갈등을 더 이상 문제 삼지 않고 잊기로 했을 때 사용해요. 주로 화해하거나 과거를 뒤로하고 앞으로 나아가는 맥락에서 씁니다.",
+    "etymologyKo": "다리 아래로 흐르는 물은 이미 지나가 버려 되돌릴 수 없다는 이미지에서 유래했어요. 16세기 영어 문헌에서 비슷한 표현이 등장하기 시작했습니다.",
+    "nuanceKo": "과거의 잘못이나 갈등을 용서하고 잊겠다는 뉘앙스가 강해요. 체념보다는 성숙하고 여유 있는 태도로 과거를 정리하는 느낌을 줍니다.",
+    "shortExampleEn": "We had our disagreements, but that's all water under the bridge now.",
+    "shortExampleKo": "우리 사이에 의견 충돌이 있었지만, 이제 다 지나간 일이에요."
+  }
+}

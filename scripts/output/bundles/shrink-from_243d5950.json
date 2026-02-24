@@ -1,0 +1,30 @@
+{
+  "id": "shrink-from_243d5950",
+  "expression": "shrink from",
+  "selectionMeta": {
+    "selectedPhrase": "shrink from",
+    "selectedSenseLabelKo": "~을 회피하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She never shrank from speaking the truth, even when it made people uncomfortable."
+  },
+  "step2": {
+    "story": "David had always shrunk from confrontation, letting small problems grow into serious ones. But when his team's hard work was unfairly credited to someone else, he realized he could no longer shrink from having a difficult conversation with his manager.",
+    "topicTag": "workplace courage",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The courtroom fell silent as the prosecutor turned to face the jury. Elena had spent years shrinking from moments like this — the spotlight, the judgment, the crushing weight of expectation. But this case was different; an innocent person's freedom hung in the balance. She had promised herself she would never again shrink from her duty when it truly mattered. Taking a steady breath, she squared her shoulders and began her opening statement with a clarity and conviction she hadn't felt in years.",
+    "topicTag": "moral courage",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '무언가로부터 움츠러들거나 물러서다'라는 뜻이다.",
+    "realUsageKo": "두려움이나 불편함 때문에 어려운 일, 책임, 또는 의무를 피하거나 회피할 때 사용된다. 주로 해야 할 일을 하지 않으려는 소극적인 태도를 묘사할 때 쓰인다.",
+    "etymologyKo": "'shrink'는 고대 영어 'scrincan'에서 유래해 '줄어들다, 움츠러들다'를 의미하며, 'from'과 결합해 어떤 대상으로부터 뒤로 물러서는 행위를 나타내게 되었다.",
+    "nuanceKo": "두려움이나 불편함으로 인해 책임이나 의무를 회피하는 부정적인 뉘앙스를 가진다. 누군가가 마땅히 해야 할 일을 외면할 때 주로 사용되며, 비판적인 맥락에서 자주 등장한다.",
+    "shortExampleEn": "A true leader never shrinks from making tough decisions.",
+    "shortExampleKo": "진정한 리더는 어려운 결정을 내리는 것을 절대 회피하지 않는다."
+  }
+}

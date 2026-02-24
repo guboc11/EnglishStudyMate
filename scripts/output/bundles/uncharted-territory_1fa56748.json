@@ -1,0 +1,30 @@
+{
+  "id": "uncharted-territory_1fa56748",
+  "expression": "uncharted territory",
+  "selectionMeta": {
+    "selectedPhrase": "uncharted territory",
+    "selectedSenseLabelKo": "미지의 영역",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Starting a business in a new industry felt like venturing into uncharted territory, with no maps or precedents to guide her."
+  },
+  "step2": {
+    "story": "When the team decided to launch their app in Southeast Asia, they knew they were entering uncharted territory. None of them had experience in that market, and local regulations were difficult to interpret. Still, they pressed forward, excited by the possibilities.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "adventurous"
+  },
+  "step3": {
+    "story": "Dr. Patel had spent twenty years studying marine biology, but the deep-sea trench her team was about to explore was truly uncharted territory. No human had ever sent a submersible to that depth in this region. As the vessel descended into the dark water, her instruments flickered with readings she had never seen before. Strange bioluminescent creatures drifted past the porthole, unnamed and unstudied. She felt a mixture of awe and responsibility — whatever she documented here would rewrite the textbooks. This was exactly why she had become a scientist.",
+    "topicTag": "scientific exploration",
+    "moodTag": "awe-inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "지도에 표시되지 않은, 아직 탐험되지 않은 영역이나 땅을 의미합니다.",
+    "realUsageKo": "실제로는 아무도 경험해보지 못한 새로운 상황, 분야, 또는 도전을 가리킬 때 사용합니다. 익숙하지 않아 불확실하고 예측하기 어려운 상황에 쓰입니다.",
+    "etymologyKo": "'Uncharted'는 '지도(chart)에 없는'이라는 뜻으로, 대항해 시대에 탐험가들이 아직 지도에 표기되지 않은 미지의 바다나 땅을 항해할 때 쓰던 표현에서 비롯되었습니다.",
+    "nuanceKo": "단순히 '모른다'는 것을 넘어서, 선례가 없고 위험과 가능성이 공존하는 흥미진진한 상황을 암시합니다. 도전적이지만 부정적이지 않은 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "Remote work was uncharted territory for most companies before the pandemic.",
+    "shortExampleKo": "팬데믹 이전에는 재택근무가 대부분의 기업에게 미지의 영역이었다."
+  }
+}

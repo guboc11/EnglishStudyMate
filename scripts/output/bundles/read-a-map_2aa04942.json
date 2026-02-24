@@ -1,0 +1,30 @@
+{
+  "id": "read-a-map_2aa04942",
+  "expression": "read a map",
+  "selectionMeta": {
+    "selectedPhrase": "read a map",
+    "selectedSenseLabelKo": "지도를 읽다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She stopped at the trailhead to read a map before heading into the forest."
+  },
+  "step2": {
+    "story": "Jake had never learned to read a map properly, so he always relied on his phone for directions. One day, deep in the countryside with no signal, he pulled out a paper map and slowly figured out where he was. By the time he reached the village, he felt a quiet pride in having found his own way.",
+    "topicTag": "outdoor adventure",
+    "moodTag": "accomplished"
+  },
+  "step3": {
+    "story": "Maya and her grandfather set off early on a Saturday morning for a hike through the national park. He handed her a folded paper map at the entrance and said, 'Let's see if you can read a map as well as your father could.' Maya studied the contour lines and trail markers carefully, tracing the route with her finger. At each fork in the path, she checked the map again, slowly building her confidence. By the time they reached the summit overlook, her grandfather gave her a proud nod. 'You read a map better than most adults,' he said, and Maya smiled, feeling a new connection to the land beneath her feet.",
+    "topicTag": "family hiking",
+    "moodTag": "proud"
+  },
+  "meaning": {
+    "literalMeaningKo": "종이 지도나 도면을 보고 위치, 방향, 경로 등의 정보를 이해하는 것을 뜻합니다.",
+    "realUsageKo": "실생활에서 여행, 하이킹, 도시 탐방 등 물리적 공간을 이동할 때 종이 지도나 지도 앱을 해석하는 상황에서 폭넓게 사용됩니다.",
+    "etymologyKo": "'read'는 고대 영어 'rǣdan'에서 유래하여 '해석하다, 이해하다'는 의미를 지니며, 텍스트뿐 아니라 기호나 도형을 읽는 행위에도 쓰입니다. 'map'은 중세 라틴어 'mappa mundi(세계의 천)에서 온 말로, 지형을 도식화한 것을 의미합니다.",
+    "nuanceKo": "단순히 지도를 쳐다보는 것이 아니라 지도를 '해석'하고 활용할 수 있는 능력을 강조합니다. 디지털 내비게이션에 익숙한 현대에는 이 표현이 전통적 기술이나 자립심과 연결되는 뉘앙스를 가질 수 있습니다.",
+    "shortExampleEn": "Can you read a map, or should I use GPS?",
+    "shortExampleKo": "지도를 읽을 줄 아세요, 아니면 GPS를 써야 할까요?"
+  }
+}

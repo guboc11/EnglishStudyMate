@@ -1,0 +1,30 @@
+{
+  "id": "factor-in_f6782cc3",
+  "expression": "factor in",
+  "selectionMeta": {
+    "selectedPhrase": "factor in",
+    "selectedSenseLabelKo": "고려하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When planning the project timeline, we need to factor in potential delays caused by supply chain issues."
+  },
+  "step2": {
+    "story": "Maya was preparing her travel budget for the trip abroad. She carefully factored in visa fees, travel insurance, and unexpected expenses. By planning ahead, she avoided any unpleasant financial surprises during the journey.",
+    "topicTag": "travel planning",
+    "moodTag": "careful"
+  },
+  "step3": {
+    "story": "The startup team gathered around the whiteboard to finalize their product launch strategy. The CEO reminded everyone to factor in the holiday shopping season when setting their release date. One engineer pointed out that server load during peak traffic should also be factored in. The marketing lead added customer onboarding time and feedback loops to the list of considerations. After an hour of thorough discussion, the team had a realistic plan that accounted for every major variable. They left the meeting confident that nothing important had been overlooked.",
+    "topicTag": "business strategy",
+    "moodTag": "thorough"
+  },
+  "meaning": {
+    "literalMeaningKo": "'factor(요소)'를 계산이나 계획 속에 '포함시키다'는 뜻으로, 특정 요소를 고려 대상에 넣는다는 의미입니다.",
+    "realUsageKo": "계획을 세우거나 결정을 내릴 때 특정 요소나 변수를 빠뜨리지 않고 계산에 넣는다는 맥락에서 자주 쓰입니다. '~을 감안하다', '~을 반영하다'와 비슷하게 사용됩니다.",
+    "etymologyKo": "'factor'는 라틴어 'factor(행위자, 만드는 사람)'에서 유래했으며, 수학적 '인수'라는 의미에서 '계산 요소'로 확장되었습니다. 여기에 방향을 나타내는 'in'이 결합하여 '요소를 계산 안으로 넣다'는 뜻이 되었습니다.",
+    "nuanceKo": "단순히 '생각하다'보다 더 체계적이고 분석적인 뉘앙스를 가집니다. 비즈니스, 학문, 일상적 계획 등 다양한 상황에서 쓰이며, 중립적이고 전문적인 어조를 띱니다.",
+    "shortExampleEn": "Did you factor in the cost of shipping when you calculated the total price?",
+    "shortExampleKo": "총 가격을 계산할 때 배송비를 고려했나요?"
+  }
+}

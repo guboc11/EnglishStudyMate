@@ -1,0 +1,30 @@
+{
+  "id": "cut-operating-costs_3ce5488b",
+  "expression": "cut operating costs",
+  "selectionMeta": {
+    "selectedPhrase": "cut operating costs",
+    "selectedSenseLabelKo": "운영 비용을 줄이다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The new CEO was under pressure to cut operating costs without sacrificing product quality."
+  },
+  "step2": {
+    "story": "After a difficult quarter, the board asked the management team to cut operating costs by 15%. The team reviewed every department's budget, looking for inefficiencies and redundancies. Within two months, they had streamlined processes and reduced expenses without laying off a single employee.",
+    "topicTag": "cost reduction",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the startup's runway shrank to six months, the founders knew they had to cut operating costs fast. They started by renegotiating office leases and switching to more affordable software subscriptions. The engineering team consolidated three servers into one, saving thousands each month. Marketing shifted its budget from paid ads to organic content, which turned out to perform just as well. By the end of the quarter, the company had extended its runway by nearly a year and found a leaner, more disciplined way to operate.",
+    "topicTag": "startup survival",
+    "moodTag": "urgent"
+  },
+  "meaning": {
+    "literalMeaningKo": "운영 비용을 삭감하다 — 사업을 운영하는 데 드는 비용을 줄이는 행위를 나타낸다.",
+    "realUsageKo": "기업이나 조직이 지출을 줄이기 위해 비용 항목을 재검토하고 감축하는 상황에서 폭넓게 쓰인다. 주로 경영 회의, 재무 보고서, 사업 전략 논의에서 자주 등장한다.",
+    "etymologyKo": "'cut'은 고대 영어 'cyttan'에서 유래하여 '잘라내다, 감소시키다'는 의미로 발전했으며, 'operating costs'는 사업 운영에 필요한 일상적 비용을 뜻하는 회계 용어다.",
+    "nuanceKo": "단순히 절약한다는 뜻을 넘어, 체계적이고 의도적인 비용 감축 조치를 취한다는 뉘앙스가 있다. 긴축 경영이나 위기 대응 맥락에서 자주 사용되어 다소 긴박한 분위기를 풍길 수 있다.",
+    "shortExampleEn": "We need to cut operating costs before we can consider hiring new staff.",
+    "shortExampleKo": "새 직원 채용을 검토하기 전에 먼저 운영 비용을 줄여야 한다."
+  }
+}

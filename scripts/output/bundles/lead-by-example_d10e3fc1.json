@@ -1,0 +1,30 @@
+{
+  "id": "lead-by-example_d10e3fc1",
+  "expression": "lead by example",
+  "selectionMeta": {
+    "selectedPhrase": "lead by example",
+    "selectedSenseLabelKo": "모범을 보이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The best managers lead by example, staying late when the team is under pressure instead of just giving orders from above."
+  },
+  "step2": {
+    "story": "When the new principal arrived, she didn't lecture students about punctuality — she led by example by being the first one through the school doors every morning. Within a month, late arrivals had dropped noticeably, and students began holding each other accountable too.",
+    "topicTag": "leadership",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "Marcus had spent years telling his sales team to treat every customer with patience and respect, yet numbers kept slipping. His mentor pulled him aside one afternoon and said simply, 'Walk the floor.' The next day, Marcus stepped out of his office and took calls alongside his team, staying calm through complaints and genuinely thanking each customer. His team watched in silence, then slowly started mirroring his tone. By Friday the atmosphere on the floor had shifted entirely — not because Marcus had issued a new policy, but because he had chosen to lead by example rather than manage from a distance.",
+    "topicTag": "workplace culture",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말이 아닌 자신의 행동으로 다른 사람들을 이끌다.",
+    "realUsageKo": "리더나 상위 위치에 있는 사람이 지시만 하는 대신 직접 행동으로 보여줌으로써 팀원이나 주변 사람들의 행동을 이끌어낸다는 의미로 사용된다. 직장, 교육, 육아 등 다양한 상황에서 쓰인다.",
+    "etymologyKo": "'lead'는 고대 영어 'lǣdan(이끌다)'에서, 'example'은 라틴어 'exemplum(본보기, 표본)'에서 유래했다. 'lead by example'은 19세기부터 리더십 맥락에서 관용구로 굳어져 사용되기 시작했다.",
+    "nuanceKo": "단순히 모범적이라는 칭찬보다는, 말보다 행동이 앞선다는 적극적인 의지를 강조하는 표현이다. 지시나 규칙을 강요하는 방식과 대조적으로 쓰이며, 진정성 있는 리더십을 뜻하는 긍정적 뉘앙스가 강하다.",
+    "shortExampleEn": "She always leads by example, volunteering for the hardest tasks before asking anyone else to step up.",
+    "shortExampleKo": "그녀는 항상 모범을 보이며, 다른 사람에게 요청하기 전에 먼저 가장 힘든 일에 자원한다."
+  }
+}

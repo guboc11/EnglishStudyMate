@@ -1,0 +1,30 @@
+{
+  "id": "moral-dilemma_80d3b382",
+  "expression": "moral dilemma",
+  "selectionMeta": {
+    "selectedPhrase": "moral dilemma",
+    "selectedSenseLabelKo": "도덕적 딜레마",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The doctor faced a moral dilemma when she had to decide whether to tell the patient the full truth about his terminal diagnosis."
+  },
+  "step2": {
+    "story": "Marcus discovered that his best friend had been cheating on exams, and he found himself caught in a moral dilemma. Reporting him could end their friendship and ruin his friend's future, but staying silent felt like a betrayal of his own values.",
+    "topicTag": "friendship and ethics",
+    "moodTag": "conflicted"
+  },
+  "step3": {
+    "story": "Sarah had been working undercover for months, and she finally had enough evidence to expose the company's illegal dumping. But her moral dilemma deepened when she learned that the factory employed hundreds of struggling families in the small town. If she went public, those people would lose their only source of income. She spent sleepless nights weighing the environmental damage against the economic devastation her report would cause. In the end, she chose to give the company a private ultimatum first, believing that a just outcome had to account for everyone's humanity.",
+    "topicTag": "whistleblowing and justice",
+    "moodTag": "torn"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 가지 선택지 사이에서 어느 쪽이 도덕적으로 옳은지 판단하기 어려운 상황.",
+    "realUsageKo": "옳고 그름이 명확하지 않은 윤리적 선택의 기로에 놓였을 때 사용한다. 개인적 상황뿐 아니라 사회적·직업적 맥락에서도 폭넓게 쓰인다.",
+    "etymologyKo": "'moral'은 라틴어 'moralis(풍습, 윤리)'에서 유래했고, 'dilemma'는 그리스어 'dilēmma(두 가지 가정)'에서 비롯되어 '두 가지 도덕적 선택지 사이의 갈등'을 뜻하게 되었다.",
+    "nuanceKo": "단순한 고민이 아니라 어느 쪽을 선택해도 중요한 가치를 희생해야 하는 심각한 윤리적 갈등을 함의한다. 무게감 있고 진지한 어조로 사용된다.",
+    "shortExampleEn": "He faced a moral dilemma when he found his colleague's wallet full of cash.",
+    "shortExampleKo": "그는 현금이 가득한 동료의 지갑을 발견했을 때 도덕적 딜레마에 직면했다."
+  }
+}

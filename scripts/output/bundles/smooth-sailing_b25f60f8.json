@@ -1,0 +1,30 @@
+{
+  "id": "smooth-sailing_b25f60f8",
+  "expression": "smooth sailing",
+  "selectionMeta": {
+    "selectedPhrase": "smooth sailing",
+    "selectedSenseLabelKo": "순조로운 항해",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Once we got the permits approved, the rest of the project was smooth sailing."
+  },
+  "step2": {
+    "story": "After weeks of difficult negotiations, the team finally reached an agreement. From that point on, launching the new product was smooth sailing. Everything fell into place exactly as planned.",
+    "topicTag": "project management",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Maya had spent months preparing for her graduate school application — gathering recommendations, rewriting her personal statement, and studying for the entrance exam. The process was exhausting and full of setbacks. But once she submitted everything and received her acceptance letter, the administrative steps that followed were smooth sailing. The housing office was helpful, the financial aid came through quickly, and her advisor welcomed her warmly. She finally allowed herself to breathe and look forward to the journey ahead.",
+    "topicTag": "personal achievement",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "파도 없이 배가 순조롭게 항해하는 상황을 의미합니다.",
+    "realUsageKo": "어떤 일이나 과정이 별다른 어려움이나 장애 없이 쉽고 순조롭게 진행될 때 사용합니다. 보통 힘든 초반부가 지나고 이후가 수월해질 때 씁니다.",
+    "etymologyKo": "항해 용어에서 유래했으며, 바람과 파도가 잔잔해 배가 거침없이 나아가는 상태를 묘사한 표현입니다. 19세기부터 비유적 의미로 사용되기 시작했습니다.",
+    "nuanceKo": "주로 긍정적인 맥락에서 쓰이며, 이전에 어려움이 있었음을 암시하는 경우가 많습니다. 구어체와 문어체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "It wasn't easy at first, but once we hired the right people, it was smooth sailing.",
+    "shortExampleKo": "처음에는 쉽지 않았지만, 적합한 사람들을 채용하고 나서는 순조롭게 진행됐어요."
+  }
+}

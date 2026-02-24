@@ -1,0 +1,30 @@
+{
+  "id": "swim-against-the-tide_6f1665cf",
+  "expression": "swim against the tide",
+  "selectionMeta": {
+    "selectedPhrase": "swim against the tide",
+    "selectedSenseLabelKo": "대세에 역행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to swim against the tide by pursuing a career in art when everyone expected her to follow a more conventional path."
+  },
+  "step2": {
+    "story": "When every other restaurant in town switched to fast-casual dining, Marco chose to swim against the tide and open a slow-food bistro focused on local ingredients. His friends warned him it was financial suicide, but within a year, people were lining up for his handcrafted meals.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "During the tech boom, nearly all of Priya's colleagues rushed to join flashy startups chasing quick funding. She chose to swim against the tide, quietly building her own small software consultancy that prioritized long-term client relationships over rapid growth. People in her network questioned her judgment, whispering that she was leaving easy money on the table. But when the startup bubble cooled and layoffs swept through the industry, Priya's steady business kept growing. She had learned early that resisting popular trends wasn't stubbornness — it was clarity. Swimming against the tide had carried her to calmer, more sustainable waters.",
+    "topicTag": "career choices",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "조류를 거슬러 헤엄치다.",
+    "realUsageKo": "대다수의 의견, 유행, 또는 사회적 흐름에 반하여 행동하거나 자신만의 방향을 고수할 때 사용한다.",
+    "etymologyKo": "바다나 강의 조류(tide)를 거슬러 헤엄치는 물리적 이미지에서 유래했으며, 대세나 여론의 흐름을 물결에 빗댄 표현이다.",
+    "nuanceKo": "단순한 반항보다는 용기 있는 독립성이나 신념에 따른 선택을 강조하는 뉘앙스를 지닌다. 긍정적인 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "He swam against the tide by choosing to write poetry instead of studying business.",
+    "shortExampleKo": "그는 경영학을 공부하는 대신 시를 쓰기로 선택함으로써 대세에 역행했다."
+  }
+}

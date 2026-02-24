@@ -1,0 +1,30 @@
+{
+  "id": "remarkable-achievement_34444b84",
+  "expression": "remarkable achievement",
+  "selectionMeta": {
+    "selectedPhrase": "remarkable achievement",
+    "selectedSenseLabelKo": "놀라운 성취",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Finishing the marathon after recovering from a serious injury was a remarkable achievement that inspired everyone who knew her story."
+  },
+  "step2": {
+    "story": "After three grueling years of research, the young scientist finally published her findings in one of the world's leading journals. Her mentor described it as a remarkable achievement for someone so early in her career. The lab erupted in applause when the acceptance email arrived.",
+    "topicTag": "scientific research",
+    "moodTag": "proud"
+  },
+  "step3": {
+    "story": "Marcus had grown up in a neighborhood where most kids dropped out before finishing high school, and college felt like a distant dream. He worked double shifts on weekends, studied on the bus, and slept only five hours a night for two years straight. When he stood on the stage to receive his engineering degree, the dean called it a remarkable achievement that reflected extraordinary dedication. His mother sat in the front row, clutching her handbag and crying quietly. Marcus looked out at the crowd and thought of every moment he had nearly given up. He folded his diploma carefully, knowing it represented far more than a certificate — it was proof that he belonged.",
+    "topicTag": "personal growth",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'remarkable'(놀라운, 주목할 만한)과 'achievement'(성취, 업적)의 결합으로, 특별히 뛰어나고 인상적인 성과를 의미한다.",
+    "realUsageKo": "개인이나 집단이 이뤄낸 탁월한 결과를 칭찬할 때 사용하며, 공식 발표, 수상 소감, 뉴스 기사 등 다양한 맥락에서 등장한다.",
+    "etymologyKo": "'remarkable'은 라틴어 'remarcare'(다시 표시하다)에서 유래해 '주목할 가치가 있는'이라는 뜻으로 발전했고, 'achievement'는 고대 프랑스어 'achever'(완성하다, 마무리하다)에서 비롯됐다.",
+    "nuanceKo": "단순한 'good result'보다 훨씬 높은 찬사를 담고 있으며, 격식체와 비격식체 모두에서 자연스럽게 쓰인다. 노력이나 어려움을 극복한 맥락과 함께 쓰일 때 감동이 배가된다.",
+    "shortExampleEn": "Landing a rover on Mars was a remarkable achievement for the entire space agency.",
+    "shortExampleKo": "화성에 로버를 착륙시킨 것은 우주국 전체에 있어 놀라운 성취였다."
+  }
+}

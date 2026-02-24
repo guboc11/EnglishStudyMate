@@ -1,0 +1,30 @@
+{
+  "id": "go-with-the-flow_21f78e6e",
+  "expression": "go with the flow",
+  "selectionMeta": {
+    "selectedPhrase": "go with the flow",
+    "selectedSenseLabelKo": "흐름에 따르다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When the travel plans changed unexpectedly, Maya decided to go with the flow and enjoy the spontaneous adventure."
+  },
+  "step2": {
+    "story": "The team meeting ran over time and pushed back all of Jake's afternoon schedule. Instead of getting frustrated, he chose to go with the flow and rearranged his tasks on the spot. By the end of the day, he'd actually finished more than planned.",
+    "topicTag": "workplace adaptability",
+    "moodTag": "calm"
+  },
+  "step3": {
+    "story": "Sara had meticulously planned every hour of her weekend trip to the coast, but the ferry was delayed and the seaside café she loved was closed for renovations. For a moment she felt the familiar tension rising in her chest. Then she took a breath and decided to go with the flow. She wandered into a tiny market she'd never noticed before, stumbled upon a local jazz performance, and ended up sharing a picnic on the pier with strangers who became new friends. On the drive home she realised the unscripted hours had given her the best stories of the whole year.",
+    "topicTag": "travel",
+    "moodTag": "lighthearted"
+  },
+  "meaning": {
+    "literalMeaningKo": "흐름과 함께 나아가다, 즉 물이 흐르는 방향을 거스르지 않고 따라간다는 의미입니다.",
+    "realUsageKo": "계획대로 되지 않는 상황이나 통제할 수 없는 변화에 저항하지 않고 유연하게 적응할 때 사용합니다. 주로 '억지로 맞서지 말고 그냥 흐름에 맡겨'처럼 조언할 때 씁니다.",
+    "etymologyKo": "물이 자연스럽게 흐르는 강의 이미지에서 비롯된 표현으로, 1960~70년대 미국 히피 문화에서 '자연의 흐름에 순응하라'는 철학을 담아 널리 퍼졌습니다.",
+    "nuanceKo": "지나치게 수동적이거나 무기력한 뉘앙스 없이, 여유롭고 유연한 태도를 긍정적으로 표현합니다. 딱딱하지 않은 구어체로 친구 사이나 가벼운 직장 대화에서 자연스럽게 씁니다.",
+    "shortExampleEn": "I didn't have a strict agenda for the weekend, so I just went with the flow.",
+    "shortExampleKo": "주말에 딱히 정해진 계획이 없어서 그냥 흐름에 따랐어."
+  }
+}

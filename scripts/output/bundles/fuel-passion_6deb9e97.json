@@ -1,0 +1,30 @@
+{
+  "id": "fuel-passion_6deb9e97",
+  "expression": "fuel passion",
+  "selectionMeta": {
+    "selectedPhrase": "fuel passion",
+    "selectedSenseLabelKo": "열정을 자극하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Traveling to new countries and experiencing different cultures truly fuels her passion for photography."
+  },
+  "step2": {
+    "story": "Marcus had always enjoyed cooking, but watching a documentary about street food vendors around the world truly fueled his passion. He signed up for culinary school the very next day and never looked back.",
+    "topicTag": "personal growth",
+    "moodTag": "inspired"
+  },
+  "step3": {
+    "story": "For years, Elena worked a steady office job that paid the bills but left her feeling hollow. Then one evening, she stumbled upon a local art exhibition and stood transfixed before a painting that seemed to speak directly to her soul. The colors, the emotion, the sheer boldness of the brushwork — it fueled her passion for painting in a way she hadn't felt since childhood. She went home that night and dug out her old canvases from under the bed. Within months, she had transformed her spare room into a studio and was waking up before dawn every day, eager to paint.",
+    "topicTag": "rediscovering creativity",
+    "moodTag": "uplifted"
+  },
+  "meaning": {
+    "literalMeaningKo": "연료가 불길을 타오르게 하듯, 무언가가 열정을 더욱 강하게 불타오르게 만든다는 뜻이다.",
+    "realUsageKo": "어떤 경험, 사건, 또는 자극이 사람의 열정이나 동기를 크게 높여줄 때 사용한다. 주로 'fuel someone's passion for ~' 형태로 쓰인다.",
+    "etymologyKo": "'fuel'은 라틴어 'focus(화로, 난로)'에서 유래했으며, 불을 유지시키는 연료를 뜻하다가 점차 '동기나 감정을 강화하다'는 비유적 의미로 확장되었다.",
+    "nuanceKo": "단순히 관심이 생기는 것보다 더 강렬하고 적극적인 자극을 암시한다. 열정이 이미 어느 정도 있었으나 더 크게 타오르게 된 상황에 자연스럽게 어울린다.",
+    "shortExampleEn": "Reading about great inventors fueled his passion for engineering.",
+    "shortExampleKo": "위대한 발명가들에 관한 책을 읽으면서 그의 공학에 대한 열정이 더욱 불타올랐다."
+  }
+}

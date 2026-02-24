@@ -1,0 +1,30 @@
+{
+  "id": "leverage-strengths_f4f2dc3f",
+  "expression": "leverage strengths",
+  "selectionMeta": {
+    "selectedPhrase": "leverage strengths",
+    "selectedSenseLabelKo": "강점을 활용하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new manager encouraged her team to leverage strengths rather than compete against each other."
+  },
+  "step2": {
+    "story": "After joining a struggling startup, Maya realized the team was trying to copy competitors instead of standing out. She called a meeting and urged everyone to leverage strengths — their deep expertise in user research — to redesign the product. Within months, their unique approach attracted investors who had previously ignored them.",
+    "topicTag": "teamwork",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "When Daniel took over as project lead, the team was demoralized from a string of failed launches. Instead of overhauling everything, he sat down with each member to understand what they did best. He then restructured the workflow so that designers focused on visual storytelling, engineers tackled the hardest technical challenges, and writers crafted the messaging. By choosing to leverage strengths rather than mask weaknesses, the team delivered their best product yet. The launch exceeded expectations, and for the first time in years, everyone left the office feeling genuinely proud.",
+    "topicTag": "leadership",
+    "moodTag": "empowering"
+  },
+  "meaning": {
+    "literalMeaningKo": "'레버리지(지렛대)를 이용하다'와 '강점'의 결합으로, 강점을 지렛대 삼아 최대한 활용한다는 뜻이다.",
+    "realUsageKo": "주로 직장·팀·사업 맥락에서 개인이나 조직이 이미 가진 장점을 전략적으로 이용해 성과를 높일 때 쓴다. '약점을 고치는 것'보다 '강점을 극대화하는 것'에 초점을 둘 때 자주 등장한다.",
+    "etymologyKo": "'leverage'는 '지렛대(lever)'에서 파생된 단어로, 작은 힘으로 큰 결과를 얻는 물리적 원리를 비즈니스·전략 언어에 비유한 표현이다.",
+    "nuanceKo": "단순히 '잘 활용한다'는 표현보다 전략적·의도적으로 강점을 극대화한다는 뉘앙스가 강하며, 리더십·자기계발·비즈니스 맥락에서 격식체로 자주 쓰인다.",
+    "shortExampleEn": "Great leaders know how to leverage strengths within their team.",
+    "shortExampleKo": "훌륭한 리더는 팀 내 강점을 어떻게 활용해야 할지 알고 있다."
+  }
+}

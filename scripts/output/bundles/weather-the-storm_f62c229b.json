@@ -1,0 +1,30 @@
+{
+  "id": "weather-the-storm_f62c229b",
+  "expression": "weather the storm",
+  "selectionMeta": {
+    "selectedPhrase": "weather the storm",
+    "selectedSenseLabelKo": "어려움을 이겨내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite losing half her team and facing a tight deadline, she managed to weather the storm and deliver the project on time."
+  },
+  "step2": {
+    "story": "When the startup lost its biggest client overnight, the CEO gathered everyone and promised they would weather the storm together. They cut costs, found new leads, and refused to give up. Three months later, the company was stronger than ever.",
+    "topicTag": "business resilience",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The small bakery had been in the family for three generations, but the pandemic brought it to the edge of collapse. With almost no customers and bills piling up, Maria considered closing for good. Her grandmother reminded her how the shop had weathered the storm during the war, keeping the community fed with whatever flour they could find. Inspired, Maria pivoted to online orders and delivered bread door to door every morning. The loyal neighborhood rallied around her, spreading the word until lines stretched down the block. When the worst had finally passed, the bakery stood as a symbol of what it meant to weather the storm with grace.",
+    "topicTag": "perseverance",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "폭풍을 견뎌내다, 즉 거센 바람과 비를 버텨 항해를 이어가다.",
+    "realUsageKo": "어려운 상황이나 위기를 포기하지 않고 끝까지 버텨 극복해 낼 때 사용한다. 개인적 고난, 사업 위기, 사회적 혼란 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "항해 용어에서 유래했으며, 선박이 폭풍 속에서 방향을 잃지 않고 무사히 통과하는 것을 의미했다. 이후 어떤 힘든 상황도 꿋꿋이 헤쳐나간다는 비유적 의미로 확장되었다.",
+    "nuanceKo": "단순히 '살아남다'보다 능동적으로 버텨낸다는 뉘앙스가 강하다. 공식적·비공식적 상황 모두에 어울리며, 고난 끝에 이겨냈다는 긍정적 뉘앙스를 내포한다.",
+    "shortExampleEn": "Every family has to weather the storm at some point.",
+    "shortExampleKo": "모든 가족은 언젠가 어려움을 이겨내야 할 때가 있다."
+  }
+}

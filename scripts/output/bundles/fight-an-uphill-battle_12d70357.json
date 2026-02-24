@@ -1,0 +1,30 @@
+{
+  "id": "fight-an-uphill-battle_12d70357",
+  "expression": "fight an uphill battle",
+  "selectionMeta": {
+    "selectedPhrase": "fight an uphill battle",
+    "selectedSenseLabelKo": "힘든 싸움을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As a newcomer in a market dominated by established giants, the small startup knew it was fighting an uphill battle."
+  },
+  "step2": {
+    "story": "Maya had been fighting an uphill battle to get her environmental proposal approved by the city council. Every meeting ended with more objections and delays, but she refused to give up. She knew that meaningful change rarely came easily.",
+    "topicTag": "perseverance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When David joined the struggling community center as its new director, he quickly realized he was fighting an uphill battle. The building needed repairs, funding had dried up, and the neighborhood had lost faith in the program. Every day brought a new obstacle — a leaking roof, a rejected grant application, or a staff member quitting. Still, David organized weekend events, knocked on doors, and personally invited families back. Slowly, people began to return, and the donations started trickling in. It had been an uphill battle from the start, but watching the center come alive again made every hard-won step worth it.",
+    "topicTag": "community rebuilding",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 언덕을 오르며 싸운다는 뜻으로, 중력을 거슬러 힘겹게 나아가는 상황을 묘사한다.",
+    "realUsageKo": "실제로는 불리한 조건이나 강한 반대에 맞서 목표를 이루려고 힘겹게 노력하는 상황을 표현할 때 사용한다. 특히 성공 가능성이 낮거나 장애물이 많은 경우에 자주 쓰인다.",
+    "etymologyKo": "전쟁이나 군사 전술에서 유래한 표현으로, 언덕 위에서 싸우는 쪽이 유리하다는 사실에서 비롯되었다. 언덕 아래에서 공격하는 측은 불리한 위치에서 싸워야 했기에, 이 표현이 '불리한 상황에서의 힘든 싸움'을 의미하게 되었다.",
+    "nuanceKo": "단순히 어렵다는 뜻을 넘어, 구조적으로 불리한 상황이나 외부 저항이 강할 때 쓰인다. 좌절감보다는 포기하지 않는 의지와 함께 쓰이는 경우가 많아, 도전적이면서도 의연한 뉘앙스를 담고 있다.",
+    "shortExampleEn": "She's fighting an uphill battle trying to change the company's outdated policies.",
+    "shortExampleKo": "그녀는 회사의 구식 정책을 바꾸려고 힘든 싸움을 하고 있다."
+  }
+}

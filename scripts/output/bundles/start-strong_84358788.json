@@ -1,0 +1,30 @@
+{
+  "id": "start-strong_84358788",
+  "expression": "start strong",
+  "selectionMeta": {
+    "selectedPhrase": "start strong",
+    "selectedSenseLabelKo": "강하게 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to succeed in the competition, you need to start strong and set the pace from the very beginning."
+  },
+  "step2": {
+    "story": "Maya had been preparing for weeks, and on race day she decided to start strong rather than hold back. She pushed hard from the first mile, building a lead that her competitors struggled to close. By the halfway point, her confidence was soaring.",
+    "topicTag": "competition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The new project manager called the team together on their first Monday. 'We need to start strong,' she said, laying out a clear roadmap for the quarter ahead. She assigned roles, set measurable targets, and blocked time for weekly check-ins before anyone had even settled into their chairs. The team left the meeting energized, each member knowing exactly what was expected of them. By the end of the first week, three key deliverables were already complete. Starting strong had set the tone for everything that followed.",
+    "topicTag": "workplace",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "강하게 시작하다, 즉 어떤 일을 힘차고 적극적으로 출발하다.",
+    "realUsageKo": "경쟁·프로젝트·새 학기 등 시작 시점에서 좋은 기세와 높은 에너지로 임하는 것을 강조할 때 사용한다. '처음부터 기선을 잡다'는 뉘앙스를 담고 있다.",
+    "etymologyKo": "'start'는 고대 영어 'styrtan(갑자기 움직이다)'에서 유래했고, 'strong'은 고대 영어 'strang(힘센)'에서 왔다. 두 단어가 결합해 '힘차게 출발하다'는 의미의 콜로케이션으로 자리 잡았다.",
+    "nuanceKo": "단순히 '빨리 시작하다'가 아니라 에너지·집중도·의지가 높은 상태로 시작한다는 긍정적 뉘앙스가 강하다. 스포츠, 비즈니스, 자기계발 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "We started strong in Q1 and maintained that momentum throughout the year.",
+    "shortExampleKo": "우리는 1분기에 강하게 시작했고 그 기세를 연말까지 이어 나갔다."
+  }
+}

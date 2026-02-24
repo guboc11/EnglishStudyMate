@@ -1,0 +1,30 @@
+{
+  "id": "tie-up-loose-ends_4dcd3677",
+  "expression": "tie up loose ends",
+  "selectionMeta": {
+    "selectedPhrase": "tie up loose ends",
+    "selectedSenseLabelKo": "마무리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before leaving the office on Friday, she stayed an extra hour to tie up loose ends so nothing would fall through the cracks over the weekend."
+  },
+  "step2": {
+    "story": "The project was nearly complete, but Daniel needed one more day to tie up loose ends before the final handover. He sent follow-up emails, updated the shared documents, and confirmed the last few action items with his team. By the next morning, everything was neatly in order.",
+    "topicTag": "work deadline",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "After fifteen years at the same company, Maya had finally decided to move on to a new opportunity. Her last two weeks were a whirlwind of meetings and handovers as she worked tirelessly to tie up loose ends before her departure. She documented every ongoing project in meticulous detail, introduced her replacement to key clients, and made sure no unresolved issues would be left behind. Some colleagues were surprised by how thorough she was, but Maya believed in leaving things better than she found them. On her final day, she sat quietly at her desk and looked around the office one last time. Every loose end had been tied, and she felt genuinely ready to begin the next chapter.",
+    "topicTag": "career transition",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "느슨하게 남겨진 끝들을 단단히 묶다 — 아직 마무리되지 않은 일들을 매듭짓는다는 뜻입니다.",
+    "realUsageKo": "완전히 끝나지 않은 작은 일이나 세부 사항들을 처리하고 정리할 때 사용합니다. 프로젝트, 계약, 여행, 직장 이동 등 큰 일이 거의 마무리될 즈음 남은 잔여 과제를 깔끔히 처리하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "밧줄이나 실의 느슨한 끝(loose ends)을 단단히 묶는(tie up) 행위에서 유래했습니다. 매듭짓지 않은 실 끝이 풀리듯, 마무리되지 않은 일도 나중에 문제를 일으킬 수 있다는 비유에서 비롯된 표현입니다.",
+    "nuanceKo": "책임감 있고 꼼꼼하게 일을 마무리한다는 긍정적인 뉘앙스가 강합니다. 성실하고 전문적인 태도를 암시하며, 서두르지 않고 차분하게 정리하는 이미지를 줍니다.",
+    "shortExampleEn": "I just need a couple more days to tie up loose ends before I hand the project over to you.",
+    "shortExampleKo": "프로젝트를 당신에게 넘기기 전에 이틀만 더 마무리할 일들을 정리할게요."
+  }
+}

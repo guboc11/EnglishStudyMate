@@ -1,0 +1,30 @@
+{
+  "id": "draw-a-line-in-the-sand_630c4555",
+  "expression": "draw a line in the sand",
+  "selectionMeta": {
+    "selectedPhrase": "draw a line in the sand",
+    "selectedSenseLabelKo": "명확한 한계를 긋다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of being overloaded with extra tasks, she finally decided to draw a line in the sand and told her manager she wouldn't take on any more responsibilities without a raise."
+  },
+  "step2": {
+    "story": "Tom had been lending money to his friend for years without ever being paid back. One afternoon, he sat down and drew a line in the sand, calmly explaining that he could no longer lend anything until previous debts were settled. His friend was surprised, but Tom felt a wave of relief wash over him.",
+    "topicTag": "friendship boundaries",
+    "moodTag": "firm"
+  },
+  "step3": {
+    "story": "For the past year, the small neighborhood association had tolerated the developer's repeated encroachments on the community park. Each time, they had politely complained and been ignored. But when bulldozers arrived to tear down the last patch of green space, the residents gathered and unanimously decided to draw a line in the sand. They chained themselves to the old oak trees, called the local press, and filed an emergency injunction with the city. The developer was stunned — these quiet neighbors had transformed overnight into a formidable force. In the end, the park was saved, and the community learned the power of knowing when enough was enough.",
+    "topicTag": "community activism",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "모래 위에 선을 긋다 — 물리적으로 땅바닥에 경계선을 그린다는 의미입니다.",
+    "realUsageKo": "더 이상 양보하거나 허용하지 않겠다는 명확한 한계를 선언할 때 사용합니다. 협상, 직장, 인간관계 등 다양한 상황에서 '여기까지만 참겠다'는 단호한 의지를 표현할 때 쓰입니다.",
+    "etymologyKo": "고대 군사 전술에서 유래한 표현으로, 장군이 전장의 모래 위에 실제로 선을 그어 '이 선을 넘으면 전투를 시작한다'는 최후 경고를 뜻했습니다. 미국 역사에서는 텍사스 독립 전쟁(알라모 전투, 1836년) 당시 지휘관이 모래에 선을 그어 결사 항전 의지를 밝혔다는 일화로 널리 알려졌습니다.",
+    "nuanceKo": "단순한 거절이 아니라 '이 지점부터는 절대 물러서지 않겠다'는 강한 결의를 담고 있습니다. 주로 공식적이거나 중요한 맥락에서 쓰이며, 감정보다는 원칙에 기반한 단호함을 강조하는 뉘앙스를 가집니다.",
+    "shortExampleEn": "The CEO drew a line in the sand, announcing that any further budget cuts would result in his resignation.",
+    "shortExampleKo": "CEO는 명확한 한계를 그으며, 추가 예산 삭감이 이루어지면 사임하겠다고 선언했습니다."
+  }
+}

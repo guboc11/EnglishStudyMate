@@ -1,0 +1,30 @@
+{
+  "id": "cut-corners_147bf1e0",
+  "expression": "cut corners",
+  "selectionMeta": {
+    "selectedPhrase": "cut corners",
+    "selectedSenseLabelKo": "지름길을 택하다 (대충하다)",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The contractor cut corners on the building materials, and the roof started leaking within a year."
+  },
+  "step2": {
+    "story": "The team was racing to meet a tight deadline, so they decided to cut corners on the testing phase. When the product launched, users quickly discovered several critical bugs that could have been caught earlier.",
+    "topicTag": "work pressure",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "Maya had been working on the marketing report for three days straight, and her manager needed it by morning. Exhausted and out of time, she considered cutting corners by skipping the data verification step. Her colleague noticed her hesitation and warned her that the last person who cut corners on a report had faced serious consequences when the numbers turned out to be wrong. Maya took a deep breath, poured another cup of coffee, and decided to do the job properly. By dawn, she had a thorough, accurate report on her manager's desk — and she had never felt more proud of her work.",
+    "topicTag": "workplace integrity",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 '모서리를 자른다'는 뜻으로, 길을 걸을 때 굽은 길 대신 모서리를 가로질러 지름길을 택하는 행동에서 유래했습니다.",
+    "realUsageKo": "실제로는 시간, 비용, 노력을 아끼기 위해 제대로 된 절차나 기준을 무시하고 대충 처리하는 것을 의미합니다. 주로 부정적인 결과를 초래하는 행동을 묘사할 때 씁니다.",
+    "etymologyKo": "18세기 영국에서 마차 운전사들이 교차로의 모서리를 가로질러 빠르게 이동하던 관행에서 비롯된 표현으로, '정해진 경로를 무시하고 지름길을 택한다'는 의미로 발전했습니다.",
+    "nuanceKo": "부정적인 뉘앙스가 강한 표현으로, 단순히 효율을 높이는 것이 아니라 품질이나 안전을 희생시키는 무책임한 행동을 암시합니다. 비즈니스, 건설, 교육 등 다양한 분야에서 폭넓게 사용됩니다.",
+    "shortExampleEn": "You can't cut corners when it comes to food safety.",
+    "shortExampleKo": "식품 안전에 관해서는 대충 처리할 수 없습니다."
+  }
+}

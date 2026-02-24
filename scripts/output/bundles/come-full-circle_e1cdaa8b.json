@@ -1,0 +1,30 @@
+{
+  "id": "come-full-circle_e1cdaa8b",
+  "expression": "come full circle",
+  "selectionMeta": {
+    "selectedPhrase": "come full circle",
+    "selectedSenseLabelKo": "원점으로 돌아오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of living abroad and chasing new experiences, she returned to her hometown and felt that her life had come full circle."
+  },
+  "step2": {
+    "story": "David left his family's small bakery to pursue a career in finance, convinced that money would bring him fulfillment. Decades later, burned out and restless, he quit his corporate job and opened a bakery of his own. His journey had come full circle, and this time he knew exactly why he loved it.",
+    "topicTag": "life journey",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Maya had grown up listening to her grandmother's folk songs, melodies she later abandoned when she moved to the city to study classical music at a prestigious conservatory. She spent fifteen years mastering techniques and performing on grand stages, always feeling that something was missing. One evening, a young student asked her to demonstrate improvisation, and instinctively she hummed one of her grandmother's tunes. The audience fell silent, then erupted in applause. Standing there with tears in her eyes, Maya realized her musical life had come full circle — the roots she had once run from were exactly what made her art extraordinary.",
+    "topicTag": "music and identity",
+    "moodTag": "nostalgic"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '완전한 원을 그리며 돌아오다'라는 뜻으로, 출발점과 동일한 지점으로 되돌아오는 것을 의미합니다.",
+    "realUsageKo": "어떤 상황이나 삶의 여정이 처음 시작된 지점으로 되돌아왔을 때, 또는 오랜 변화 끝에 결국 원래의 상태나 가치로 회귀했을 때 사용합니다.",
+    "etymologyKo": "원의 기하학적 속성에서 유래한 표현으로, 원은 시작점과 끝점이 같다는 점에서 '순환'과 '회귀'의 상징으로 오래전부터 쓰였습니다. 영어에서는 17세기부터 관련 개념이 사용되었습니다.",
+    "nuanceKo": "단순한 반복이 아니라 긴 여정 끝의 의미 있는 귀환을 함축하며, 종종 깨달음이나 운명적 순환의 뉘앙스를 담습니다. 긍정적·중립적 맥락 모두에 쓰일 수 있습니다.",
+    "shortExampleEn": "The company that once relied on handmade goods has come full circle, returning to artisan craftsmanship after decades of mass production.",
+    "shortExampleKo": "한때 수제품에 의존했던 그 회사는 수십 년간의 대량 생산 끝에 다시 장인 정신으로 돌아오며 원점으로 돌아왔다."
+  }
+}

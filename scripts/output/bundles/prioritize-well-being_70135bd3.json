@@ -1,0 +1,30 @@
+{
+  "id": "prioritize-well-being_70135bd3",
+  "expression": "prioritize well-being",
+  "selectionMeta": {
+    "selectedPhrase": "prioritize well-being",
+    "selectedSenseLabelKo": "웰빙을 우선시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of overworking, she finally decided to prioritize well-being over career advancement."
+  },
+  "step2": {
+    "story": "Marcus had always pushed himself to the limit at work, skipping meals and staying late every night. One morning, he woke up exhausted and realized he needed to prioritize well-being before his health completely broke down. He started blocking time on his calendar for rest, exercise, and meals with family.",
+    "topicTag": "work-life balance",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "For years, Yuna wore her busyness like a badge of honor, believing that constant hustle was the only path to success. But after collapsing during a presentation, her doctor gave her a frank warning: she had to prioritize well-being or face serious consequences. Slowly, she began making small changes — morning walks, phone-free dinners, and actually using her vacation days. Her colleagues noticed she seemed calmer and more focused than ever before. Yuna realized that choosing to prioritize well-being hadn't made her less productive; it had made her more resilient and clear-headed. Now she speaks openly about burnout, hoping others won't wait for a crisis to learn the same lesson.",
+    "topicTag": "burnout recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "웰빙(신체적·정신적 건강과 행복)을 다른 것보다 먼저 중요하게 여기다.",
+    "realUsageKo": "일, 성과, 타인의 기대보다 자신의 건강과 행복을 앞에 두는 태도나 선택을 묘사할 때 사용한다. 번아웃, 자기계발, 직장 문화 맥락에서 자주 등장한다.",
+    "etymologyKo": "'prioritize'는 라틴어 'prior(앞선)'에서 유래해 '우선순위를 두다'는 뜻이고, 'well-being'은 '잘(well)' + '있음(being)'의 합성어로 신체적·정신적 건강 상태를 의미한다.",
+    "nuanceKo": "단순한 휴식이나 즐거움을 넘어 의식적인 선택과 가치관의 변화를 암시한다. 자기 돌봄(self-care)보다 더 능동적이고 지속적인 실천의 뉘앙스를 담는다.",
+    "shortExampleEn": "The company introduced flexible hours to help employees prioritize well-being.",
+    "shortExampleKo": "그 회사는 직원들이 웰빙을 우선시할 수 있도록 유연 근무제를 도입했다."
+  }
+}

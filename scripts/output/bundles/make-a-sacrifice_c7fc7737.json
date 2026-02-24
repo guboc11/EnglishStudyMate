@@ -1,0 +1,30 @@
+{
+  "id": "make-a-sacrifice_c7fc7737",
+  "expression": "make a sacrifice",
+  "selectionMeta": {
+    "selectedPhrase": "make a sacrifice",
+    "selectedSenseLabelKo": "희생을 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to make a sacrifice and give up her promotion so her colleague could have the opportunity instead."
+  },
+  "step2": {
+    "story": "James had always dreamed of traveling the world, but when his younger sister needed help paying for college, he chose to make a sacrifice. He put his travel fund toward her tuition without a second thought. Watching her graduate made every penny worth it.",
+    "topicTag": "family support",
+    "moodTag": "selfless"
+  },
+  "step3": {
+    "story": "Elena had been saving for years to open her own bakery, but when her mother fell ill, she knew what she had to do. She chose to make a sacrifice and use her savings to cover the medical bills, setting her dream aside for now. Friends told her she was foolish to give up everything she had worked for, but Elena saw it differently. To her, family was never a compromise — it was the reason she worked so hard in the first place. Months later, her mother recovered, and together they began planning the bakery side by side. The sacrifice had not ended her dream; it had given it deeper meaning.",
+    "topicTag": "personal values",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 포기하거나 잃는 행위를 하다.",
+    "realUsageKo": "자신에게 소중한 것을 다른 사람이나 더 중요한 목표를 위해 내어주는 상황에서 사용된다. 물질적인 것뿐 아니라 시간, 기회, 꿈 등을 포기할 때도 쓰인다.",
+    "etymologyKo": "'sacrifice'는 라틴어 'sacrificium'에서 유래했으며, 'sacer(신성한)'와 'facere(만들다)'의 합성어로 원래 신에게 제물을 바치는 행위를 의미했다. 현대에는 중요한 것을 타인을 위해 포기하는 의미로 확장되었다.",
+    "nuanceKo": "자발적이고 의미 있는 포기를 강조하며, 희생의 가치나 숭고함이 내포된 경우가 많다. 단순한 손실보다는 능동적이고 의식적인 선택임을 암시한다.",
+    "shortExampleEn": "He made a great sacrifice by working two jobs to support his family.",
+    "shortExampleKo": "그는 가족을 부양하기 위해 두 가지 일을 하며 큰 희생을 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "have-skin-in-the-game_d6aa2cca",
+  "expression": "have skin in the game",
+  "selectionMeta": {
+    "selectedPhrase": "have skin in the game",
+    "selectedSenseLabelKo": "이해관계가 있다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As a co-founder, she has skin in the game and works harder than anyone else on the team."
+  },
+  "step2": {
+    "story": "Marcus had poured his savings into the startup and recruited his closest friends to join. Unlike outside consultants, he truly had skin in the game and every decision kept him up at night. That personal stake pushed him to make smarter, more careful choices.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the board debated whether to enter a risky new market, the outside advisors spoke confidently about bold expansion. But Lena, who had invested her entire retirement fund in the company, reminded them that not everyone in the room had skin in the game. She argued that those with real stakes understood the downside far better than consultants collecting a fee. The debate grew tense as she challenged each advisor to put their own money behind their recommendations. In the end, the board chose a more measured approach, guided by the voices of those who stood to lose the most.",
+    "topicTag": "business decision-making",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "게임에 자신의 피부(살)를 걸다, 즉 위험을 감수하며 직접 참여한다는 뜻.",
+    "realUsageKo": "어떤 일의 결과에 따라 자신도 이익이나 손해를 직접 입는 이해관계자임을 나타낼 때 사용한다. 주로 비즈니스·투자·정치 맥락에서 쓰인다.",
+    "etymologyKo": "원래 도박 용어에서 유래했으며, 고대에는 투기장의 검투사처럼 목숨을 거는 것을 의미했다. 경제학자 나심 탈레브가 동명의 저서를 통해 대중화시켰다.",
+    "nuanceKo": "단순한 관여가 아니라 실제 손실 위험이 있는 이해관계임을 강조하는 표현으로, 책임감과 진정성을 함께 내포한다.",
+    "shortExampleEn": "Investors who have skin in the game tend to monitor their portfolios much more closely.",
+    "shortExampleKo": "직접 이해관계가 있는 투자자들은 자신의 포트폴리오를 훨씬 더 면밀히 모니터링하는 경향이 있다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "gloss-over_cbd83b8b",
+  "expression": "gloss over",
+  "selectionMeta": {
+    "selectedPhrase": "gloss over",
+    "selectedSenseLabelKo": "얼버무리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the meeting, the manager tried to gloss over the team's missed deadlines by focusing on minor achievements instead."
+  },
+  "step2": {
+    "story": "The politician stood at the podium and glossed over the scandal with a vague apology, hoping the audience wouldn't press for details. The reporters in the room exchanged glances, fully aware that the real questions had gone unanswered.",
+    "topicTag": "politics",
+    "moodTag": "evasive"
+  },
+  "step3": {
+    "story": "After the quarterly results came in, the CEO called an all-hands meeting. Everyone in the room knew the numbers were bad, but he glossed over the losses with talk of 'strategic pivots' and 'future opportunities.' Employees sat quietly, frustrated that no one was addressing the layoffs rumored for next month. His carefully worded slides skipped past the most critical data points entirely. When the floor opened for questions, a senior engineer finally asked directly about job security. The CEO smiled and glossed over the question once more, promising only that leadership was 'working hard on solutions.'",
+    "topicTag": "workplace communication",
+    "moodTag": "tense"
+  },
+  "meaning": {
+    "literalMeaningKo": "표면을 매끄럽게 덮어버리듯 문제나 사실을 대충 넘어가다.",
+    "realUsageKo": "불편한 사실, 실수, 또는 중요한 문제를 제대로 다루지 않고 슬쩍 넘어가거나 얼버무릴 때 사용한다. 주로 의도적으로 회피하는 상황에서 쓰인다.",
+    "etymologyKo": "'gloss'는 16세기 영어에서 '표면적인 광택' 또는 '그럴듯한 설명'을 뜻했으며, 'over'와 결합해 무언가를 겉만 번지르르하게 덮어버린다는 의미로 발전했다.",
+    "nuanceKo": "단순히 빠뜨리는 것이 아니라 의도적으로 회피하거나 축소하는 뉘앙스가 강하다. 정치, 직장, 인간관계에서 책임을 피하려는 행동을 비판적으로 묘사할 때 자주 쓰인다.",
+    "shortExampleEn": "She glossed over her mistake in the report and hoped no one would notice.",
+    "shortExampleKo": "그녀는 보고서의 실수를 얼버무리고 아무도 눈치채지 못하길 바랐다."
+  }
+}

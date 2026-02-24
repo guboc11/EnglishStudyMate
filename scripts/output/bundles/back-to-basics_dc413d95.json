@@ -1,0 +1,30 @@
+{
+  "id": "back-to-basics_dc413d95",
+  "expression": "back to basics",
+  "selectionMeta": {
+    "selectedPhrase": "back to basics",
+    "selectedSenseLabelKo": "기본으로 돌아가다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of poor results, the coach decided it was time to go back to basics and focus on fundamental drills."
+  },
+  "step2": {
+    "story": "The startup had been chasing trendy features for months, but nothing seemed to click with users. The CEO called a meeting and said it was time to go back to basics. They stripped everything down and focused on the one thing they did best.",
+    "topicTag": "business strategy",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After a string of disappointing performances, Chef Maria closed her restaurant for two weeks. Her dishes had become too complicated, too experimental, and her loyal customers had started drifting away. She went back to basics, revisiting the simple recipes her grandmother had taught her in a small village kitchen. She practiced knife skills, mastered stocks, and relearned how to balance flavors without relying on fancy techniques. When the restaurant reopened, the menu was half the size but twice as satisfying. The regulars returned, and for the first time in a year, Maria felt proud of every plate she sent out.",
+    "topicTag": "cooking and craft",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "'기초(basics)로 돌아간다(back to)'는 뜻으로, 복잡함을 내려놓고 가장 근본적인 것으로 되돌아가는 행위를 가리킵니다.",
+    "realUsageKo": "지나치게 복잡해지거나 방향을 잃었을 때 핵심·원칙·기본기로 돌아가자는 의미로 씁니다. 스포츠, 비즈니스, 교육 등 다양한 분야에서 '초심으로 돌아가다'와 비슷하게 사용됩니다.",
+    "etymologyKo": "1970년대 영국에서 교육 개혁 논쟁 중 '3Rs(읽기·쓰기·셈하기)를 다시 가르쳐야 한다'는 주장과 함께 널리 쓰이기 시작한 표현입니다.",
+    "nuanceKo": "현재 상황이 잘못되었거나 과도하게 복잡해졌다는 비판적 인식을 내포하며, 겸손하고 실용적인 태도를 강조하는 뉘앙스를 담고 있습니다.",
+    "shortExampleEn": "The team went back to basics after losing three games in a row.",
+    "shortExampleKo": "팀은 세 경기 연속 패배 후 기본기로 돌아갔다."
+  }
+}

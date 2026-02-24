@@ -1,0 +1,30 @@
+{
+  "id": "lead-up-to_89d3c217",
+  "expression": "lead up to",
+  "selectionMeta": {
+    "selectedPhrase": "lead up to",
+    "selectedSenseLabelKo": "~으로 이어지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "A string of misunderstandings can lead up to a serious conflict if they are never addressed."
+  },
+  "step2": {
+    "story": "The tension at the office had been building for months. Every skipped meeting and unanswered email seemed to lead up to an inevitable clash. When the manager finally called everyone in, no one was surprised.",
+    "topicTag": "workplace tension",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Maya had been tracking the small signs for weeks — the late arrivals, the hushed conversations, the budget reports that never quite added up. Each incident on its own seemed minor, but together they appeared to lead up to something much bigger. She started keeping notes, documenting every detail with quiet precision. When the company's annual review finally arrived, her suspicions were confirmed. The months of subtle mismanagement had been leading up to a full restructuring. Maya took a steady breath and opened the meeting with everything she had documented.",
+    "topicTag": "corporate crisis",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "일련의 사건이나 행동이 특정 순간이나 결과로 점진적으로 이어지다.",
+    "realUsageKo": "어떤 중요한 사건이나 결과가 발생하기까지의 과정을 설명할 때 사용합니다. 여러 작은 사건들이 누적되어 하나의 큰 결과를 만들어 낼 때 자주 씁니다.",
+    "etymologyKo": "'lead'는 고대 영어 'lǣdan(이끌다)'에서 유래했으며, 'up to'와 결합해 어떤 지점을 향해 점진적으로 나아가는 흐름을 표현하게 되었습니다.",
+    "nuanceKo": "단순한 원인-결과보다 '과정의 축적'을 강조하며, 중요한 사건 직전의 전개를 묘사할 때 자주 사용됩니다. 긍정적·부정적 맥락 모두에 쓰입니다.",
+    "shortExampleEn": "The weeks of intense practice led up to the final performance.",
+    "shortExampleKo": "몇 주간의 집중 연습이 마지막 공연으로 이어졌다."
+  }
+}

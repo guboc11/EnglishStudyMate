@@ -1,0 +1,30 @@
+{
+  "id": "same-old-same-old_6ae17a97",
+  "expression": "same old same old",
+  "selectionMeta": {
+    "selectedPhrase": "same old same old",
+    "selectedSenseLabelKo": "항상 똑같다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When his coworker asked how his weekend went, Marcus shrugged and said, 'Same old same old — groceries, laundry, and too much TV.'"
+  },
+  "step2": {
+    "story": "Every Monday morning, Lisa's boss asked how her weekend was, and every Monday she gave the same answer: 'Same old same old.' She woke up, ran errands, and watched movies alone. Deep down, she knew something had to change.",
+    "topicTag": "daily routine",
+    "moodTag": "restless"
+  },
+  "step3": {
+    "story": "Jake had worked at the same desk for six years, and whenever anyone asked what was new, his answer never changed: 'Same old same old.' He arrived at nine, ate lunch at his desk, and left at five. The faces around him shifted — new hires came, colleagues got promoted — but his world stayed perfectly still. One afternoon, a junior colleague asked if he ever got bored, and for the first time Jake paused before answering. That pause surprised him more than anything. By Friday he had signed up for an evening photography class, unsure where it would lead but certain he was done settling for the same old same old.",
+    "topicTag": "work life",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로 '똑같고 또 똑같다'는 뜻으로, 아무것도 달라지지 않은 상태를 묘사한다.",
+    "realUsageKo": "일상이나 상황이 전혀 변하지 않을 때 쓰며, 주로 '별일 없어', '늘 그렇지 뭐' 같은 뉘앙스로 대화에서 사용된다.",
+    "etymologyKo": "1970년대 미국 구어에서 등장한 표현으로, 단조로운 반복을 강조하기 위해 'same old'를 두 번 겹쳐 말한 것에서 유래했다.",
+    "nuanceKo": "지루함이나 체념을 담고 있으며, 상황에 따라 가볍게 넘기는 투로도, 은근한 불만을 드러내는 투로도 쓰인다.",
+    "shortExampleEn": "'How's work lately?' 'Same old same old — meetings and deadlines.'",
+    "shortExampleKo": "'요즘 일은 어때?' '항상 똑같지 — 회의에 마감이지 뭐.'"
+  }
+}

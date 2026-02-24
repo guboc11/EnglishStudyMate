@@ -1,0 +1,30 @@
+{
+  "id": "muddy-the-waters_ae681d89",
+  "expression": "muddy the waters",
+  "selectionMeta": {
+    "selectedPhrase": "muddy the waters",
+    "selectedSenseLabelKo": "문제를 복잡하게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Bringing up unrelated issues during the meeting only served to muddy the waters and delay a resolution."
+  },
+  "step2": {
+    "story": "The negotiation had been going smoothly until one party started raising old grievances that had nothing to do with the current deal. Their attempt to muddy the waters frustrated everyone at the table. The lead negotiator calmly steered the conversation back to the core issue.",
+    "topicTag": "negotiation",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Sarah had spent weeks preparing a clear, concise report on the budget shortfall. At the presentation, however, a colleague began citing statistics from unrelated departments, visibly confusing the executives in the room. It was a deliberate move to muddy the waters and shift blame away from his own team. Sarah took a breath, walked to the whiteboard, and drew a simple diagram that cut through the noise. Within minutes, the room refocused on the actual problem. She knew that clarity was her strongest weapon against those who preferred confusion.",
+    "topicTag": "workplace politics",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "물을 흙탕물로 만들다, 즉 맑은 물을 뿌옇고 탁하게 만든다는 뜻이다.",
+    "realUsageKo": "어떤 상황이나 논의를 더 복잡하고 혼란스럽게 만들 때 사용하며, 특히 의도적으로 문제를 흐리거나 판단을 어렵게 할 때 쓴다.",
+    "etymologyKo": "강이나 연못의 맑은 물에 흙을 섞어 탁하게 만드는 이미지에서 유래했으며, 16세기 영어 문헌에서부터 '사태를 혼란스럽게 하다'는 의미로 사용되었다.",
+    "nuanceKo": "대체로 부정적인 뉘앙스를 지니며, 의도적으로 혼란을 야기하거나 진실을 흐리려는 행위를 비판할 때 자주 사용된다.",
+    "shortExampleEn": "Stop muddying the waters with irrelevant details and just answer the question.",
+    "shortExampleKo": "관련 없는 세부 사항으로 문제를 복잡하게 만들지 말고 그냥 질문에 답하세요."
+  }
+}

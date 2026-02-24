@@ -1,0 +1,30 @@
+{
+  "id": "take-a-day-off_7aa4fc0d",
+  "expression": "take a day off",
+  "selectionMeta": {
+    "selectedPhrase": "take a day off",
+    "selectedSenseLabelKo": "하루 쉬다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to take a day off to rest and recharge after a long, exhausting week at work."
+  },
+  "step2": {
+    "story": "Mark hadn't taken a break in months, so his manager finally told him to take a day off. He spent the morning sleeping in and the afternoon reading by the window. By evening, he felt refreshed and ready to tackle the week ahead.",
+    "topicTag": "rest and recovery",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Emily had been waking up tired every morning for weeks, dragging herself to the office despite feeling completely drained. One Thursday, she finally decided to take a day off and do absolutely nothing productive. She made a slow breakfast, took a long walk through the park, and let the afternoon slip by with a good book. No emails, no deadlines, no noise — just quiet. By the time she went to bed that night, the heaviness she'd been carrying had lifted. She realized that sometimes, taking a day off is the most responsible thing you can do.",
+    "topicTag": "self-care",
+    "moodTag": "peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "하루를 떼어내다, 즉 하루 동안 일이나 학교를 쉬다.",
+    "realUsageKo": "직장이나 학교를 하루 결석·결근하거나 일상적인 일과를 중단하고 쉬는 상황에서 사용된다. 병가, 개인 사유, 단순 휴식 등 목적을 불문하고 폭넓게 쓰인다.",
+    "etymologyKo": "'take'는 '취하다·얻다'는 의미이고, 'off'는 분리나 중단을 나타내는 부사로, 두 단어가 결합해 '(일·의무에서) 벗어나 하루를 갖다'라는 뜻이 되었다.",
+    "nuanceKo": "가볍고 일상적인 표현으로, 공식 문서보다는 구어에서 자주 쓰인다. 계획적인 휴식과 즉흥적인 휴식 모두에 사용 가능하며, 부담 없이 요청하거나 제안하는 뉘앙스를 담고 있다.",
+    "shortExampleEn": "I'm going to take a day off tomorrow and visit my parents.",
+    "shortExampleKo": "나는 내일 하루 쉬고 부모님을 방문할 계획이야."
+  }
+}

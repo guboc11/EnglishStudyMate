@@ -1,0 +1,30 @@
+{
+  "id": "robust-plan_878f84bc",
+  "expression": "robust plan",
+  "selectionMeta": {
+    "selectedPhrase": "robust plan",
+    "selectedSenseLabelKo": "튼튼한 계획",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The project manager presented a robust plan that accounted for every possible risk and had clear contingencies in place."
+  },
+  "step2": {
+    "story": "After the last product launch failed due to poor preparation, the team spent weeks building a robust plan this time around. Every department had assigned roles, deadlines, and backup options. When launch day arrived, they moved through each phase without a single unexpected hiccup.",
+    "topicTag": "project management",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Maya had learned her lesson the hard way after her startup nearly collapsed during its first year. This time, before approaching any investors, she spent three months developing a robust plan that addressed financials, market risks, and operational challenges. She mapped out scenarios for both rapid growth and slow adoption, making sure the business could survive either path. When she finally sat down with the venture capital firm, they were visibly impressed by her thoroughness. One investor leaned forward and said, 'Most founders come in with a dream — you came in with a robust plan.' Maya left the meeting with a term sheet in hand.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "강건한(robust) 계획(plan), 즉 빈틈없이 탄탄하게 짜인 계획을 의미한다.",
+    "realUsageKo": "주로 비즈니스, 프로젝트 관리, 정책 논의 등에서 '예상치 못한 상황에도 흔들리지 않을 만큼 철저히 준비된 계획'을 표현할 때 쓰인다.",
+    "etymologyKo": "'robust'는 라틴어 'robustus(참나무처럼 강한)'에서 유래했으며, 'plan'과 결합해 내구성 있고 실행 가능한 계획이라는 뉘앙스를 형성했다.",
+    "nuanceKo": "단순히 '좋은 계획'보다 한층 강한 표현으로, 리스크 대비·구체성·실행 가능성이 모두 갖춰진 계획에 사용하며, 공식적이고 전문적인 맥락에서 자주 등장한다.",
+    "shortExampleEn": "We need a robust plan before we commit any resources to this initiative.",
+    "shortExampleKo": "이 사업에 자원을 투입하기 전에 우리는 튼튼한 계획이 필요하다."
+  }
+}

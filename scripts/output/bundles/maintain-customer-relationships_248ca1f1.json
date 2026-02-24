@@ -1,0 +1,30 @@
+{
+  "id": "maintain-customer-relationships_248ca1f1",
+  "expression": "maintain customer relationships",
+  "selectionMeta": {
+    "selectedPhrase": "maintain customer relationships",
+    "selectedSenseLabelKo": "고객 관계를 유지하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "Our sales team works hard every quarter to maintain customer relationships through regular follow-ups and personalized service."
+  },
+  "step2": {
+    "story": "After landing a major contract, the account manager knew the real work was just beginning. She set up monthly check-in calls and sent personalized updates to maintain customer relationships over the long term. Her consistent effort paid off when the client renewed for a third consecutive year.",
+    "topicTag": "client retention",
+    "moodTag": "dedicated"
+  },
+  "step3": {
+    "story": "James joined the company as a junior sales representative with little more than a phone and a spreadsheet of contacts. His manager told him that closing deals was only half the job — the other half was learning to maintain customer relationships once the ink was dry. James began sending handwritten thank-you notes after every purchase and scheduling quarterly review calls to check on each client's satisfaction. Over time, customers started calling him first whenever they had a new need, trusting that he genuinely cared about their success. Three years later, his renewal rate was the highest on the team, and he had turned five clients into loyal advocates who referred new business. James understood that a relationship maintained is a revenue stream sustained.",
+    "topicTag": "sales and loyalty",
+    "moodTag": "committed"
+  },
+  "meaning": {
+    "literalMeaningKo": "고객과의 관계를 지속적으로 유지하고 관리한다는 뜻이다.",
+    "realUsageKo": "단순히 거래를 마무리한 후에도 고객과 꾸준히 소통하고 신뢰를 쌓아 나가는 비즈니스 활동을 가리킨다. 주로 영업, 마케팅, 고객 서비스 맥락에서 쓰인다.",
+    "etymologyKo": "'maintain'은 라틴어 'manu tenere(손으로 붙잡다)'에서 유래하여 '유지하다, 지속시키다'는 의미를 가지며, 'customer relationship'과 결합해 고객과의 연결을 놓지 않는다는 개념을 표현한다.",
+    "nuanceKo": "단발성 거래가 아닌 장기적 파트너십을 강조하는 표현으로, 능동적이고 지속적인 노력이 수반됨을 암시한다. 공식적인 비즈니스 문서나 회의에서 자주 사용된다.",
+    "shortExampleEn": "We invest in CRM software to help us maintain customer relationships more effectively.",
+    "shortExampleKo": "우리는 고객 관계를 더 효과적으로 유지하기 위해 CRM 소프트웨어에 투자한다."
+  }
+}

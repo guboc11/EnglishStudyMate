@@ -1,0 +1,30 @@
+{
+  "id": "face-your-fears_8eda0d89",
+  "expression": "face your fears",
+  "selectionMeta": {
+    "selectedPhrase": "face your fears",
+    "selectedSenseLabelKo": "두려움에 맞서다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The therapist encouraged him to face your fears one small step at a time rather than avoiding them altogether."
+  },
+  "step2": {
+    "story": "Maya had always been terrified of public speaking, but her new job required her to lead team presentations. She decided it was time to face your fears and signed up for a local speaking club. After just a few sessions, she realized the fear was far smaller than she had imagined.",
+    "topicTag": "personal growth",
+    "moodTag": "courageous"
+  },
+  "step3": {
+    "story": "For years, Daniel refused to go near the ocean after a frightening experience as a child. His friends would head to the beach every summer, and he would always make excuses to stay behind. One day, his young daughter asked him to teach her to swim, and he knew he could no longer let his fear hold him back. He took a deep breath, stepped into the shallow water, and decided to face your fears for her sake. Day by day the water felt less threatening, and by the end of the summer he was swimming alongside his daughter in the open sea. Looking back, he was grateful that her simple request had given him the courage to finally confront what had haunted him for decades.",
+    "topicTag": "overcoming childhood trauma",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신의 두려움을 정면으로 마주하다.",
+    "realUsageKo": "두려워하거나 불안한 상황을 회피하지 않고 용기 있게 직접 맞닥뜨릴 때 사용한다. 심리적 도전, 공포증 극복, 어려운 대화 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'face'는 고대 프랑스어 'face(얼굴)'에서 유래했으며, '~을 정면으로 향하다'라는 동사 의미로 발전했다. 'fear'는 고대 영어 'fǣr(갑작스러운 위험)'에서 비롯되었다.",
+    "nuanceKo": "단순히 두려움을 느끼는 것이 아니라 그것을 의식적으로 선택하여 맞선다는 능동적이고 결단력 있는 뉘앙스를 담고 있다. 격려나 자기계발 맥락에서 자주 등장한다.",
+    "shortExampleEn": "Sometimes you just have to face your fears and take that first step.",
+    "shortExampleKo": "때로는 그냥 두려움에 맞서서 첫 발을 내딛어야 한다."
+  }
+}

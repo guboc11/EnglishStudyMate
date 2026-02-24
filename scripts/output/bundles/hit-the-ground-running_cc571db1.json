@@ -1,0 +1,30 @@
+{
+  "id": "hit-the-ground-running_cc571db1",
+  "expression": "hit the ground running",
+  "selectionMeta": {
+    "selectedPhrase": "hit the ground running",
+    "selectedSenseLabelKo": "순조롭게 출발하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She hit the ground running on her first day at the new company, already drafting proposals before lunch."
+  },
+  "step2": {
+    "story": "When Marcus joined the startup, everyone expected a slow adjustment period. Instead, he hit the ground running, launching his first product update within the week. His energy set the tone for the entire team.",
+    "topicTag": "new job",
+    "moodTag": "energetic"
+  },
+  "step3": {
+    "story": "The project had been stalled for months before Priya was brought on board. From the moment she stepped into the office, she hit the ground running — organizing meetings, clearing blockers, and rallying the team around a clear deadline. Her colleagues watched in quiet amazement as the chaos slowly gave way to momentum. By the end of the first week, they had shipped what had taken the previous team a month to plan. Priya just smiled and said it was all about starting with intention.",
+    "topicTag": "workplace momentum",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "착지하자마자 달리기 시작한다는 뜻으로, 시작부터 빠르게 움직인다는 의미입니다.",
+    "realUsageKo": "새로운 일이나 상황을 시작하자마자 준비된 상태로 활발하게 행동할 때 씁니다. 적응 기간 없이 곧바로 성과를 내는 사람을 묘사할 때 자주 사용됩니다.",
+    "etymologyKo": "군사 용어에서 유래했다고 알려져 있으며, 낙하산 강하 후 착지 즉시 달려나가는 병사의 모습에서 비롯된 표현입니다. 20세기 초부터 비즈니스와 일상 언어에서도 쓰이기 시작했습니다.",
+    "nuanceKo": "긍정적인 의미로 주로 쓰이며, 빠른 적응력과 주도성을 강조합니다. 압박감이 있는 상황에서도 흔들리지 않는 실행력을 암시하는 뉘앙스가 있습니다.",
+    "shortExampleEn": "The new coach hit the ground running with three consecutive wins in his first month.",
+    "shortExampleKo": "새 감독은 첫 달에 세 경기 연속 승리를 거두며 순조롭게 출발했다."
+  }
+}

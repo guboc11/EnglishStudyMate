@@ -1,0 +1,30 @@
+{
+  "id": "zero-in_e2a12966",
+  "expression": "zero in",
+  "selectionMeta": {
+    "selectedPhrase": "zero in",
+    "selectedSenseLabelKo": "집중하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of scattered research, she finally zeroed in on the key factor causing the issue."
+  },
+  "step2": {
+    "story": "The detective reviewed hundreds of clues before he could zero in on the real suspect. Once he focused his attention, the answer became surprisingly clear.",
+    "topicTag": "problem solving",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "Marcus had been struggling with his startup for months, pulled in too many directions at once. His mentor sat him down and told him to stop trying to do everything. 'Pick one problem and zero in on it,' she said firmly. Marcus spent the next week doing just that, ignoring everything except his core product. By Friday, he had made more progress than he had in the previous two months. Learning to zero in on what truly mattered had changed everything.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "영점(zero)을 맞추듯 특정 대상에 정확히 겨누다.",
+    "realUsageKo": "여러 가능성 중에서 하나의 목표나 핵심에 집중하거나 좁혀가는 과정을 표현할 때 사용한다. 주로 'zero in on'의 형태로 쓰인다.",
+    "etymologyKo": "군사 용어에서 유래했으며, 총이나 포의 조준을 영점(zero point)에 맞추는 행위에서 비롯되었다.",
+    "nuanceKo": "단순히 '집중하다'보다 흩어진 주의를 점차 하나로 좁혀가는 뉘앙스가 강하며, 분석적이고 의도적인 집중을 암시한다.",
+    "shortExampleEn": "The team zeroed in on the most critical bug before the release.",
+    "shortExampleKo": "팀은 출시 전 가장 심각한 버그에 집중했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "touch-up_f95e0265",
+  "expression": "touch up",
+  "selectionMeta": {
+    "selectedPhrase": "touch up",
+    "selectedSenseLabelKo": "손보다 / 마무리하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spent the last few minutes before the presentation touching up her slides to fix a couple of typos."
+  },
+  "step2": {
+    "story": "The photographer reviewed every image before submitting the final batch. She touched up a few shots — adjusting the lighting and removing a shadow — until everything looked polished. The client wouldn't notice the effort, but she would.",
+    "topicTag": "creative work",
+    "moodTag": "meticulous"
+  },
+  "step3": {
+    "story": "The renovation was almost done, but Marco refused to call it finished. He walked through each room with fresh eyes, touching up paint along the baseboards and filling in tiny nail holes the crew had overlooked. His business partner kept saying it was good enough, but Marco believed the details were what separated a good job from a great one. He dabbed a brush along the door frame, stepped back, and finally allowed himself a small nod of approval. Only then did he pick up the phone to tell the client the house was ready.",
+    "topicTag": "craftsmanship",
+    "moodTag": "perfectionist"
+  },
+  "meaning": {
+    "literalMeaningKo": "'살짝 건드리다'라는 뜻으로, 어떤 것을 가볍게 손질한다는 이미지에서 출발한 표현이다.",
+    "realUsageKo": "글, 사진, 그림, 인테리어, 화장 등 이미 완성에 가까운 것을 마지막으로 조금 다듬거나 개선할 때 사용한다. '손을 좀 봐야겠어' 또는 '마무리 작업을 하다'에 해당한다.",
+    "etymologyKo": "'touch'(닿다, 손대다)와 방향·결과를 나타내는 부사 'up'이 결합한 구동사로, 'up'이 '완성도를 높이다'는 뉘앙스를 더한다. 19세기 영어에서 그림이나 인쇄물을 보정하는 맥락에서 자리잡았다.",
+    "nuanceKo": "대규모 수정이 아니라 소소한 마무리 손질을 뜻하기 때문에, 과도한 수정보다는 가볍고 정교한 개선에 가깝다. 격식·비격식 상황 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "I need to touch up my essay before submitting it.",
+    "shortExampleKo": "제출하기 전에 에세이를 좀 다듬어야 해."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "you-live-and-learn_98e22853",
+  "expression": "you live and learn",
+  "selectionMeta": {
+    "selectedPhrase": "you live and learn",
+    "selectedSenseLabelKo": "살면서 배운다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After accidentally adding salt instead of sugar to her coffee, Maria just laughed and said, 'You live and learn!'"
+  },
+  "step2": {
+    "story": "Tom had always assumed that more sleep on weekends would make up for staying up late during the week. After weeks of still feeling exhausted, he finally read that irregular sleep patterns only make things worse. You live and learn, he thought, as he set a consistent bedtime for himself.",
+    "topicTag": "health habits",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "When Sara first started cooking, she was confident she could eyeball every measurement without reading the recipe carefully. The birthday cake she made for her sister turned out flat and far too sweet, and her sister politely ate a small slice without a word. Sara stared at the untouched cake on the counter that night, replaying every step she had skipped. She pulled out the recipe book and read it properly from start to finish for the first time. You live and learn, she told herself — and the next cake she baked was the best one the family had ever tasted.",
+    "topicTag": "personal growth",
+    "moodTag": "warm and humorous"
+  },
+  "meaning": {
+    "literalMeaningKo": "살아가면서 (경험을 통해) 배우게 된다.",
+    "realUsageKo": "실수나 예상치 못한 경험을 한 뒤 '그래도 이렇게 배우는 거지'라는 태도로 받아들일 때 씁니다. 자책보다는 가벼운 깨달음과 수용의 뉘앙스가 강합니다.",
+    "etymologyKo": "오래된 영어 속담으로, 삶의 경험이 곧 교육이라는 오랜 관념에서 비롯됐습니다. 19세기 이전부터 구어 표현으로 사용되어 왔습니다.",
+    "nuanceKo": "실수를 인정하면서도 유머와 여유를 잃지 않는 긍정적인 어조입니다. 자신이나 타인의 실수에 대해 너그럽게 반응할 때 자연스럽게 어울립니다.",
+    "shortExampleEn": "I didn't know you had to let the dough rest — you live and learn.",
+    "shortExampleKo": "반죽을 숙성시켜야 하는 줄 몰랐네 — 살면서 배우는 거지."
+  }
+}

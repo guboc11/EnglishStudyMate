@@ -1,0 +1,30 @@
+{
+  "id": "on-a-high-note_4028e4fb",
+  "expression": "on a high note",
+  "selectionMeta": {
+    "selectedPhrase": "on a high note",
+    "selectedSenseLabelKo": "좋은 분위기로",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team decided to end the project on a high note by celebrating their final milestone with a team dinner."
+  },
+  "step2": {
+    "story": "After months of hard work, the sales team closed their biggest deal of the year just before the holidays. They wanted to end the quarter on a high note, so the manager organized a small celebration in the office. Everyone left that Friday feeling proud and energized.",
+    "topicTag": "workplace achievement",
+    "moodTag": "celebratory"
+  },
+  "step3": {
+    "story": "Sarah had spent three years building her small bakery from scratch, and now the time had come to hand it over to her daughter. The last week of her ownership was packed with familiar faces — loyal customers who had watched the shop grow from a tiny counter to a beloved neighborhood spot. On her final day, she baked her signature lemon tart one last time and shared it with everyone who walked through the door. Laughter and warm memories filled the shop all afternoon. When she finally locked up that evening, Sarah felt a deep sense of peace. She was glad she had chosen to leave on a high note, surrounded by the people who had made it all worthwhile.",
+    "topicTag": "life transitions",
+    "moodTag": "bittersweet and fulfilled"
+  },
+  "meaning": {
+    "literalMeaningKo": "높은 음으로 끝내다 — 음악에서 마지막 음을 높게 마무리하는 것을 뜻한다.",
+    "realUsageKo": "어떤 일이나 시간을 긍정적이고 성공적인 분위기로 마무리할 때 사용한다. 주로 'end on a high note', 'finish on a high note' 형태로 쓰인다.",
+    "etymologyKo": "음악 용어에서 유래했다. 공연이나 연주가 높고 강한 음으로 끝날 때 관객에게 강렬하고 긍정적인 인상을 남긴다는 데서 비롯되었다.",
+    "nuanceKo": "단순히 '잘 끝났다'는 것을 넘어, 최고의 순간에 마무리한다는 뉘앙스가 담겨 있다. 아쉬움 없이 좋은 상태에서 끝맺는다는 의지적인 느낌을 준다.",
+    "shortExampleEn": "Let's end the meeting on a high note by sharing some good news.",
+    "shortExampleKo": "좋은 소식을 나누며 회의를 좋은 분위기로 마무리합시다."
+  }
+}

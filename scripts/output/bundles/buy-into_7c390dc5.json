@@ -1,0 +1,30 @@
+{
+  "id": "buy-into_7c390dc5",
+  "expression": "buy into",
+  "selectionMeta": {
+    "selectedPhrase": "buy into",
+    "selectedSenseLabelKo": "~을 믿다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She took a while to buy into the new team strategy, but once she did, she became its most passionate advocate."
+  },
+  "step2": {
+    "story": "Mark had heard the same motivational speech from his manager before, so he sat in the back of the room with his arms crossed. But this time, the data backing up the new plan was hard to ignore. By the end of the presentation, he had completely started to buy into the vision.",
+    "topicTag": "workplace motivation",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Emma had always been skeptical of self-help culture — the affirmations, the vision boards, the relentless positivity. When her therapist suggested she try journaling and reframing her inner dialogue, she rolled her eyes. Still, she gave it a reluctant try for two weeks. Slowly, almost without noticing, she began to buy into the idea that her mindset actually shaped her outcomes. Small wins started to accumulate — a difficult conversation handled calmly, a setback that didn't spiral into despair. Six months later, she kept a journal by her bed and swore by it.",
+    "topicTag": "personal growth",
+    "moodTag": "transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '~을 사다'이지만, 비유적으로 어떤 생각이나 믿음을 받아들인다는 뜻입니다.",
+    "realUsageKo": "어떤 아이디어, 계획, 또는 믿음 체계를 진심으로 수용하거나 지지할 때 사용합니다. 처음에 의심했다가 점차 납득하게 되는 과정을 내포하는 경우가 많습니다.",
+    "etymologyKo": "'Buy'는 고대 영어 'bycgan(사다)'에서 유래했으며, 여기서는 어떤 개념에 '투자하다' 혹은 '완전히 받아들이다'라는 비유적 의미로 발전했습니다.",
+    "nuanceKo": "단순한 동의보다 더 깊은 수용과 신뢰를 나타냅니다. 설득 과정 끝에 생각이 바뀌었음을 암시할 때 자주 쓰이며, 비즈니스와 일상 대화 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "I didn't buy into his excuse at all.",
+    "shortExampleKo": "나는 그의 변명을 전혀 믿지 않았어."
+  }
+}

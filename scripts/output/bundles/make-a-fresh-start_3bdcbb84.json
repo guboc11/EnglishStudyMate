@@ -1,0 +1,30 @@
+{
+  "id": "make-a-fresh-start_3bdcbb84",
+  "expression": "make a fresh start",
+  "selectionMeta": {
+    "selectedPhrase": "make a fresh start",
+    "selectedSenseLabelKo": "새로 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After quitting her stressful job, she decided to move to a new city and make a fresh start."
+  },
+  "step2": {
+    "story": "Daniel had been stuck in the same routine for years, feeling unfulfilled and drained. One morning, he packed his bags and left his hometown to make a fresh start somewhere new. The open road ahead of him felt like a blank page full of possibilities.",
+    "topicTag": "life change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For three years, Maya had been carrying the weight of a failed business and a broken relationship. Every morning she woke up in the same apartment, surrounded by memories she couldn't escape. Finally, her sister convinced her it was time to make a fresh start. Maya sold most of her belongings, signed up for a course she'd always been curious about, and found a small apartment in a different neighborhood. On her first morning there, sunlight streamed through unfamiliar windows and she felt, for the first time in years, genuinely light. She realized that making a fresh start wasn't about erasing the past — it was about choosing to step forward anyway.",
+    "topicTag": "personal reinvention",
+    "moodTag": "bittersweet yet hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "깨끗하고 새로운 출발을 하다.",
+    "realUsageKo": "과거의 실패나 부정적인 상황을 뒤로하고 완전히 새롭게 시작할 때 사용한다. 새로운 장소, 직업, 관계 등 삶의 전환점에서 자주 쓰인다.",
+    "etymologyKo": "'fresh'는 고대 영어에서 '새로운, 깨끗한'을 의미하며, 'start'와 결합해 '오염되지 않은 새로운 시작'이라는 뜻을 형성했다.",
+    "nuanceKo": "단순한 재시도가 아니라 과거와의 단절을 내포하는 표현으로, 결단력 있고 의지적인 뉘앙스가 강하다.",
+    "shortExampleEn": "He moved abroad to make a fresh start after the divorce.",
+    "shortExampleKo": "그는 이혼 후 새로 시작하기 위해 해외로 이주했다."
+  }
+}

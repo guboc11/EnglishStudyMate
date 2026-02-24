@@ -1,0 +1,30 @@
+{
+  "id": "stay-true-to-yourself_6a851d97",
+  "expression": "stay true to yourself",
+  "selectionMeta": {
+    "selectedPhrase": "stay true to yourself",
+    "selectedSenseLabelKo": "자신에게 충실하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "No matter how much pressure you face at work, it's important to stay true to yourself and not compromise your values."
+  },
+  "step2": {
+    "story": "After years of chasing promotions and reshaping her personality to fit what her boss wanted, Maya finally quit. She realized she had forgotten who she really was. Starting over was scary, but she made a promise to herself: this time, she would stay true to herself no matter what.",
+    "topicTag": "self-identity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had always been the quiet, thoughtful kid in his friend group, but when he entered college he felt pressure to act louder and more confident to fit in. He began changing the way he dressed, the music he liked, and even his opinions in conversations. One evening, his older sister visited and barely recognized him. 'What happened to you?' she asked gently. Her words hit him hard. That night, Daniel sat alone and thought about everything he had given up just to belong. He decided from that point on, no matter the social cost, he would stay true to yourself — his values, his interests, and his quiet strength.",
+    "topicTag": "peer pressure",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "자기 자신에게 진실하게 남아 있다는 뜻으로, 외부 압력에도 자신의 본래 모습과 가치관을 유지하는 것을 의미합니다.",
+    "realUsageKo": "주로 사회적 압박이나 유혹에 굴복하지 않고 자신의 신념과 개성을 지키라는 조언이나 다짐의 맥락에서 사용됩니다.",
+    "etymologyKo": "'true'는 고대 영어 'trēowe'에서 유래하여 '충실한, 신의 있는'을 의미하며, 'stay true to'는 어떤 대상에 대해 변함없이 충실하다는 표현으로 발전했습니다.",
+    "nuanceKo": "단순히 솔직하라는 의미를 넘어, 외부 기대나 동조 압력에 맞서 자신의 정체성을 지켜야 한다는 도덕적·감정적 뉘앙스가 강합니다.",
+    "shortExampleEn": "Even when everyone around you changes, stay true to yourself.",
+    "shortExampleKo": "주변 모든 사람이 변할지라도, 자신에게 충실하세요."
+  }
+}

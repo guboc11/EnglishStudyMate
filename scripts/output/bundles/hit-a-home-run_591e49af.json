@@ -1,0 +1,30 @@
+{
+  "id": "hit-a-home-run_591e49af",
+  "expression": "hit a home run",
+  "selectionMeta": {
+    "selectedPhrase": "hit a home run",
+    "selectedSenseLabelKo": "대성공을 거두다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The young designer hit a home run with her first solo collection, receiving praise from critics and selling out within hours."
+  },
+  "step2": {
+    "story": "Marcus had been preparing for the product pitch for weeks, rehearsing every detail until it felt natural. When he finally stood before the investors, he hit a home run — securing three times the funding he had hoped for. His team erupted in cheers the moment he walked back through the office door.",
+    "topicTag": "career achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "The small bakery had struggled for two years, barely covering rent while larger chains dominated the neighborhood. Then the owner, Elena, decided to take a risk and introduced a line of artisan sourdough breads made from locally sourced grains. Food bloggers discovered her shop overnight, and by the weekend there was a line stretching down the block. Elena had truly hit a home run — the new line not only saved the bakery but turned it into a destination people drove across the city to visit. She hired three new bakers within a month and began planning a second location, something she had only ever let herself dream about in quiet moments.",
+    "topicTag": "small business success",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "야구에서 홈런을 치다, 즉 타자가 공을 쳐서 베이스를 모두 돌아 득점하는 것을 의미한다.",
+    "realUsageKo": "실제로는 어떤 일을 매우 훌륭하게 해내거나 큰 성공을 거뒀을 때 사용한다. 발표, 사업, 창작 등 다양한 분야에서 뛰어난 성과를 냈을 때 폭넓게 쓰인다.",
+    "etymologyKo": "미국 야구(baseball)에서 유래한 표현으로, 홈런이 경기에서 가장 극적인 득점 방식이라는 점에서 '완벽한 성공'을 뜻하는 비유적 표현으로 확장되었다. 19세기 후반 야구가 미국 문화에 깊이 자리 잡으면서 일상 언어에도 스며들었다.",
+    "nuanceKo": "단순한 성공이 아니라 기대를 훨씬 뛰어넘는 인상적인 성공에 사용하는 표현이다. 구어체 영어에서 자주 쓰이며, 격식체 문서보다는 대화나 캐주얼한 글쓰기에 어울린다.",
+    "shortExampleEn": "She really hit a home run with that marketing campaign.",
+    "shortExampleKo": "그녀는 그 마케팅 캠페인으로 정말 대성공을 거뒀어."
+  }
+}

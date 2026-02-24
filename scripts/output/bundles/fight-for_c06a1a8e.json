@@ -1,0 +1,30 @@
+{
+  "id": "fight-for_c06a1a8e",
+  "expression": "fight for",
+  "selectionMeta": {
+    "selectedPhrase": "fight for",
+    "selectedSenseLabelKo": "~을 위해 싸우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to fight for her right to be heard at the community meeting."
+  },
+  "step2": {
+    "story": "Marcus had been passed over for promotion twice, but he refused to give up. He gathered his performance records and asked for a meeting with his manager to fight for the position he deserved. His persistence paid off when the company offered him the role the following week.",
+    "topicTag": "workplace fairness",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When the city announced plans to demolish the old neighborhood library, Elena felt a fire ignite inside her. The library had been her refuge as a child, a place where she had discovered worlds beyond her small town. She organized a petition, rallied neighbors, and stood at every council meeting to fight for the building's preservation. Week after week she faced dismissive officials and dwindling crowds, yet she pressed on, convinced that some things were worth the struggle. In the end, the council voted to restore the library instead of tearing it down, and Elena stood on its steps with tears in her eyes, knowing she had fought for something that truly mattered.",
+    "topicTag": "community activism",
+    "moodTag": "passionate"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 얻거나 지키기 위해 싸우다.",
+    "realUsageKo": "물리적 싸움뿐 아니라 권리, 신념, 기회 등을 지키거나 쟁취하기 위해 노력하고 주장하는 상황에 두루 쓰인다.",
+    "etymologyKo": "'fight'는 고대 영어 'feohtan(싸우다)'에서 유래했으며, 'for'와 결합해 목표 대상을 향한 투쟁 방향을 나타낸다.",
+    "nuanceKo": "단순한 요청이나 시도보다 훨씬 강한 의지와 지속적인 노력을 함축하며, 포기하지 않겠다는 결연한 태도가 담겨 있다.",
+    "shortExampleEn": "They fought for equal pay for years before the law finally changed.",
+    "shortExampleKo": "그들은 법이 바뀌기까지 수년간 동일 임금을 위해 싸웠다."
+  }
+}

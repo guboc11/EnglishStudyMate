@@ -1,0 +1,30 @@
+{
+  "id": "shift-your-mindset_02b91818",
+  "expression": "shift your mindset",
+  "selectionMeta": {
+    "selectedPhrase": "shift your mindset",
+    "selectedSenseLabelKo": "마음가짐을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to stop feeling overwhelmed by setbacks, you need to shift your mindset and start seeing them as opportunities to grow."
+  },
+  "step2": {
+    "story": "After failing her third job interview in a row, Maya sat down with her mentor, who urged her to shift your mindset about rejection. Instead of seeing each 'no' as a dead end, she began treating it as feedback. Within weeks, her confidence changed noticeably, and so did her results.",
+    "topicTag": "career growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Daniel had spent years believing that talent was something you were born with, not something you could build. Every time he struggled with a new skill, he gave up quickly, convinced he simply wasn't cut out for it. Then his coach challenged him to shift your mindset — to treat difficulty as a sign that his brain was working hard, not failing. At first, the idea felt forced and unconvincing. But slowly, as he pushed through discomfort and noticed small improvements, something changed inside him. He realized that the way he thought about learning had been the only real obstacle all along.",
+    "topicTag": "personal growth",
+    "moodTag": "transformative"
+  },
+  "meaning": {
+    "literalMeaningKo": "'마음가짐(mindset)을 이동시키다(shift)'는 뜻으로, 생각하는 방식이나 태도를 다른 방향으로 바꾼다는 의미입니다.",
+    "realUsageKo": "어떤 상황이나 문제를 바라보는 근본적인 관점이나 태도를 의도적으로 바꿀 때 사용합니다. 특히 부정적인 사고방식에서 긍정적·성장 지향적 사고방식으로 전환하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'shift'는 고대 영어 'sciftan(배열하다, 나누다)'에서 유래해 '위치나 방향을 바꾸다'는 의미로 발전했고, 'mindset'은 20세기 초 심리학 분야에서 '고정된 사고 패턴'을 뜻하는 말로 자리 잡았습니다.",
+    "nuanceKo": "단순히 생각을 바꾸는 것(change your mind)보다 더 근본적이고 의도적인 변화를 강조합니다. 자기계발, 코칭, 리더십 맥락에서 특히 많이 사용되며, 능동적인 노력이 필요함을 내포합니다.",
+    "shortExampleEn": "To enjoy the process of learning, you first have to shift your mindset and embrace mistakes as part of growth.",
+    "shortExampleKo": "학습 과정을 즐기려면, 먼저 마음가짐을 바꿔 실수를 성장의 일부로 받아들여야 합니다."
+  }
+}

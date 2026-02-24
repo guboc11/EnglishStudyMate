@@ -1,0 +1,30 @@
+{
+  "id": "unlock-potential_069e3f8d",
+  "expression": "unlock potential",
+  "selectionMeta": {
+    "selectedPhrase": "unlock potential",
+    "selectedSenseLabelKo": "잠재력을 발휘하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new mentorship program was designed to unlock potential in students who had never been given a real chance to shine."
+  },
+  "step2": {
+    "story": "Maya had always struggled in school, but her new teacher saw something in her that others had missed. By giving her challenging projects and genuine encouragement, the teacher helped Maya unlock potential she never knew she had. Within a year, Maya was leading the school's science team.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "step3": {
+    "story": "James joined the startup as a junior developer, unsure if he truly belonged there. His manager, noticing his quiet curiosity and diligence, began assigning him to increasingly complex problems. 'I want to unlock potential, not just fill seats,' she told the team during a meeting. Slowly, James began to take ownership of entire features, surprising even himself with the solutions he devised. What started as self-doubt transformed into confidence as each challenge revealed a new capability. By year's end, he had become one of the most trusted engineers on the team.",
+    "topicTag": "career development",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "자물쇠를 열듯이 잠재력을 풀어낸다는 의미로, 내면에 숨어 있는 능력을 끌어낸다는 뜻이다.",
+    "realUsageKo": "개인, 조직, 기술 등이 가진 숨겨진 능력이나 가능성을 충분히 발휘하도록 이끌거나 환경을 조성할 때 사용한다. '잠재력을 발휘하다' 또는 '가능성을 열어주다'에 해당한다.",
+    "etymologyKo": "'unlock'은 'un-(반대)'과 'lock(잠그다)'의 합성어로 '잠금을 해제하다'는 뜻이며, 'potential'은 라틴어 'potentia(힘, 능력)'에서 유래해 '아직 발현되지 않은 능력'을 의미한다.",
+    "nuanceKo": "단순히 능력을 사용하는 것이 아니라, 이전까지 억눌리거나 드러나지 않았던 능력을 외부의 계기나 지원으로 끌어낸다는 적극적·긍정적 뉘앙스가 강하다.",
+    "shortExampleEn": "Good coaching can unlock potential that athletes didn't even know they possessed.",
+    "shortExampleKo": "훌륭한 코칭은 선수들이 자신도 몰랐던 잠재력을 발휘하게 해줄 수 있다."
+  }
+}

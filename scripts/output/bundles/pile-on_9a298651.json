@@ -1,0 +1,30 @@
+{
+  "id": "pile-on_9a298651",
+  "expression": "pile on",
+  "selectionMeta": {
+    "selectedPhrase": "pile on",
+    "selectedSenseLabelKo": "가중시키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the project failed, the manager continued to pile on criticism, making it impossible for the team to recover their confidence."
+  },
+  "step2": {
+    "story": "The deadline had already passed, and now the client was piling on additional demands that hadn't been part of the original agreement. Sarah stared at her inbox, wondering how much more pressure she could handle before something broke.",
+    "topicTag": "work stress",
+    "moodTag": "overwhelmed"
+  },
+  "step3": {
+    "story": "Marcus had been working double shifts for two weeks straight when his supervisor called him in to pile on yet another responsibility. He sat in the small office, nodding as the list of new tasks grew longer, his exhaustion turning into a quiet, hollow numbness. On top of managing the warehouse floor, he was now expected to handle scheduling and training the new hires — all without additional pay. That evening, he drove home in silence, the weight of everything piled on him pressing down like a physical force. He knew something had to change, but he wasn't sure how to say it without risking the job he couldn't afford to lose.",
+    "topicTag": "workplace pressure",
+    "moodTag": "exhausted"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 쌓아 올리다, 더 얹다.",
+    "realUsageKo": "이미 힘든 상황에 부담이나 비판, 요구 등을 추가로 가중시킬 때 사용한다. 부정적인 것들이 연달아 누적되는 상황에서 자주 쓰인다.",
+    "etymologyKo": "'pile'은 '쌓다'는 뜻의 동사이며, 'on'과 결합해 '위에 계속 쌓아 올리다'는 의미를 형성한다. 물리적 쌓기에서 유래해 압박이나 부담을 더하는 비유적 의미로 발전했다.",
+    "nuanceKo": "주로 부정적 맥락에서 쓰이며, 한 번이 아니라 계속해서 더해지는 누적적 압박의 느낌을 담고 있다. 비판이나 비난이 여럿이 동시에 가해질 때도 사용할 수 있다.",
+    "shortExampleEn": "When he admitted his mistake, his colleagues began to pile on with more complaints.",
+    "shortExampleKo": "그가 실수를 인정하자 동료들이 더 많은 불만을 쏟아내기 시작했다."
+  }
+}

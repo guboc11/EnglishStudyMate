@@ -1,0 +1,30 @@
+{
+  "id": "fight-for-a-cause_9eafd913",
+  "expression": "fight for a cause",
+  "selectionMeta": {
+    "selectedPhrase": "fight for a cause",
+    "selectedSenseLabelKo": "대의를 위해 싸우다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She dedicated her career to fight for a cause she believed in — equal access to education for every child."
+  },
+  "step2": {
+    "story": "After losing her brother to a preventable disease, Maya decided to fight for a cause that many ignored. She started a small nonprofit, writing letters and organizing rallies until the government finally listened.",
+    "topicTag": "social activism",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Daniel had always kept his head down and avoided controversy, but one day he witnessed an injustice he couldn't ignore. A local factory was quietly dumping waste into the river that supplied water to his hometown. He realized someone had to fight for a cause that the community depended on, even if it meant going up against powerful interests. He gathered evidence, rallied neighbors, and brought the story to the press. It wasn't easy — there were threats and setbacks — but Daniel refused to quit. In the end, the factory was fined and the river slowly began to recover.",
+    "topicTag": "environmental justice",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 대의나 목적을 위해 싸우다.",
+    "realUsageKo": "단순한 물리적 싸움이 아니라 사회적·정치적 신념이나 목표를 위해 적극적으로 노력하고 투쟁하는 것을 의미한다. 주로 사회 운동, 권리 옹호, 환경 보호 등의 맥락에서 쓰인다.",
+    "etymologyKo": "'fight'는 고대 영어 'feohtan(싸우다)'에서 유래했으며, 'cause'는 라틴어 'causa(이유, 목적)'에서 온 말로, 함께 쓰이면 '어떤 신념이나 목적을 위해 투쟁하다'는 의미가 된다.",
+    "nuanceKo": "희생이나 어려움을 감수하면서도 굳은 신념으로 행동한다는 강한 의지와 헌신의 뉘앙스를 담고 있다. 단순한 주장이나 지지(support)보다 더 능동적이고 강렬한 행동을 암시한다.",
+    "shortExampleEn": "He spent his whole life fighting for a cause he truly believed in.",
+    "shortExampleKo": "그는 자신이 진심으로 믿는 대의를 위해 평생을 바쳤다."
+  }
+}

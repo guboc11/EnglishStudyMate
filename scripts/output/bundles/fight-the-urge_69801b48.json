@@ -1,0 +1,30 @@
+{
+  "id": "fight-the-urge_69801b48",
+  "expression": "fight the urge",
+  "selectionMeta": {
+    "selectedPhrase": "fight the urge",
+    "selectedSenseLabelKo": "충동을 억제하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She had to fight the urge to check her phone every five minutes during the meeting."
+  },
+  "step2": {
+    "story": "Mark stood in the bakery, surrounded by the smell of fresh pastries. He was trying to eat healthier, so he had to fight the urge to buy a chocolate croissant. Taking a deep breath, he picked up a plain coffee and walked out feeling proud.",
+    "topicTag": "self-control",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "It was the final round of the debate, and Jamie's opponent had just said something completely wrong about the data. Jamie felt a surge of frustration rising and had to fight the urge to interrupt right then and there. She clenched her pen under the desk and waited for her turn, rehearsing her rebuttal in her head. When the moderator finally called on her, she responded calmly and precisely, dismantling each point with evidence. Her teammates later told her that her composure was the most impressive part of the whole performance. Fighting that urge to react impulsively had turned out to be her biggest advantage.",
+    "topicTag": "debate",
+    "moodTag": "composed"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 충동(강한 욕구)에 맞서 싸우다.",
+    "realUsageKo": "하고 싶은 행동을 참거나 억누를 때 사용한다. 주로 감정적 반응, 나쁜 습관, 순간적인 욕구를 자제하는 상황에서 쓰인다.",
+    "etymologyKo": "'fight'는 고대 영어 'feohtan(싸우다)'에서 유래했으며, 'urge'는 라틴어 'urgere(강하게 밀다)'에서 비롯됐다. 두 단어가 결합해 내면의 충동과 싸운다는 의미를 형성한다.",
+    "nuanceKo": "단순히 참는다는 뜻보다 강한 내적 갈등이 있음을 암시한다. 충동이 상당히 강해서 의식적인 노력이 필요함을 나타낸다.",
+    "shortExampleEn": "He fought the urge to respond to the rude comment online.",
+    "shortExampleKo": "그는 온라인의 무례한 댓글에 답글을 달고 싶은 충동을 억눌렀다."
+  }
+}

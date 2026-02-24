@@ -1,0 +1,30 @@
+{
+  "id": "read-someone-like-a-book_7e1c64bc",
+  "expression": "read someone like a book",
+  "selectionMeta": {
+    "selectedPhrase": "read someone like a book",
+    "selectedSenseLabelKo": "누군가를 꿰뚫어 보다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She could read him like a book — one glance at his face and she knew exactly what he was hiding."
+  },
+  "step2": {
+    "story": "Maria had always been perceptive, but her new partner was particularly easy to read. She could read him like a book — whenever he was nervous, he'd tap his fingers on the desk and avoid eye contact. It made working together surprisingly smooth.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "perceptive"
+  },
+  "step3": {
+    "story": "Detective Chen had worked homicide for fifteen years, and by now she could read people like a book. The moment the suspect sat down across from her, she noticed the slight tremor in his hands and the way his eyes kept drifting toward the exit. He was hiding something — she was certain of it. 'You seem a little nervous,' she said calmly, watching his shoulders tense at the words. He forced a smile and insisted he was fine, but Chen had already read him like a book. By the end of the interview, he had confessed everything.",
+    "topicTag": "detective work",
+    "moodTag": "suspenseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 책처럼 읽다.",
+    "realUsageKo": "상대방의 감정, 생각, 의도를 매우 쉽고 정확하게 파악하다는 의미입니다. 눈치가 빠르거나 상대를 잘 이해하는 사람을 묘사할 때 주로 씁니다.",
+    "etymologyKo": "책(book)은 내용을 그대로 담고 있어 읽으면 모든 것을 알 수 있다는 데서 유래했습니다. 즉, 어떤 사람이 마치 책처럼 투명하게 느껴진다는 비유적 표현입니다.",
+    "nuanceKo": "긍정적인 맥락(예리한 통찰력)과 부정적인 맥락(상대가 너무 뻔하다는 의미) 모두에서 사용됩니다. 상대의 감정이나 속마음이 숨김없이 드러날 때 씁니다.",
+    "shortExampleEn": "You can't bluff around her — she reads everyone like a book.",
+    "shortExampleKo": "그녀 앞에서는 허세를 부릴 수 없어 — 그녀는 모든 사람을 꿰뚫어 봐."
+  }
+}

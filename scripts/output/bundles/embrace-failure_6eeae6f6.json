@@ -1,0 +1,30 @@
+{
+  "id": "embrace-failure_6eeae6f6",
+  "expression": "embrace failure",
+  "selectionMeta": {
+    "selectedPhrase": "embrace failure",
+    "selectedSenseLabelKo": "실패를 받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The best entrepreneurs learn to embrace failure as an inevitable part of the journey toward success."
+  },
+  "step2": {
+    "story": "After her startup collapsed, Mia sat alone in her empty office feeling defeated. But her mentor reminded her that every great innovator had to embrace failure before they could truly succeed. She took a deep breath, packed her lessons, and began planning her next venture.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "step3": {
+    "story": "Daniel had spent three years building his app, only to watch it fail spectacularly at launch. The embarrassment was crushing, and he avoided talking about it for months. Then he attended a conference where a successful CEO spoke candidly about having to embrace failure multiple times before finding the right path. Something shifted in Daniel that day. He started openly sharing what had gone wrong and discovered that investors respected his honesty and hard-won experience. By learning to embrace failure rather than hide from it, he turned his biggest setback into his greatest credential.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "실패를 팔 벌려 안듯이 받아들인다는 뜻으로, 실패를 거부하거나 두려워하지 않고 기꺼이 수용한다는 의미입니다.",
+    "realUsageKo": "성장·학습·창업 맥락에서 실패를 성공의 필수 과정으로 긍정적으로 받아들이자고 권장할 때 주로 사용합니다. '실패를 두려워하지 말고 배움의 기회로 삼아라'는 뉘앙스를 담습니다.",
+    "etymologyKo": "embrace는 중세 프랑스어 embrasser(품에 안다)에서 유래했으며, failure는 라틴어 fallere(속이다, 넘어지다)에서 비롯되었습니다. 두 단어가 결합해 '실패를 안아들이다'라는 의미가 되었습니다.",
+    "nuanceKo": "단순히 실패를 '인정한다'는 수준을 넘어, 적극적으로 환영하고 소중히 여긴다는 강한 긍정의 뉘앙스를 지닙니다. 자기계발·스타트업·리더십 담론에서 특히 자주 등장하는 표현입니다.",
+    "shortExampleEn": "Great leaders embrace failure and use it as fuel to grow stronger.",
+    "shortExampleKo": "훌륭한 리더는 실패를 받아들이고 그것을 더 강해지기 위한 원동력으로 삼습니다."
+  }
+}

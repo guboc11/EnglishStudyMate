@@ -1,0 +1,30 @@
+{
+  "id": "win-over_ccacd3b1",
+  "expression": "win over",
+  "selectionMeta": {
+    "selectedPhrase": "win over",
+    "selectedSenseLabelKo": "설득하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She spent weeks presenting data and listening to concerns before she finally managed to win over the skeptical board members."
+  },
+  "step2": {
+    "story": "Marcus had a bold idea for restructuring the team, but his manager was resistant. He prepared a clear presentation with evidence and addressed every objection calmly, and by the end of the meeting he had won her over completely.",
+    "topicTag": "workplace persuasion",
+    "moodTag": "confident"
+  },
+  "step3": {
+    "story": "Elena joined the community council with a proposal to convert an abandoned lot into a neighborhood garden. Most residents were indifferent, and a few were openly opposed, worried about noise and maintenance costs. Rather than arguing, she organized a small tour of a thriving garden in a nearby district and let the results speak for themselves. She also offered to handle the first month of upkeep personally, removing the biggest objection people had. One by one, the skeptics came around, and within two meetings she had won over even the most reluctant voices on the council. The garden broke ground the following spring.",
+    "topicTag": "community initiative",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가를 '이겨서 자기편으로 넘어오게 한다'는 뜻으로, 반대하거나 망설이는 상대를 설득하여 지지를 얻는다는 의미입니다.",
+    "realUsageKo": "주로 처음에는 회의적이거나 반대하던 사람을 논리·매력·행동 등으로 설득해 자신의 편으로 만들 때 씁니다. 직장, 정치, 개인 관계 등 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "etymologyKo": "'win'은 고대 영어 'winnan(싸워서 얻다)'에서 왔고, 'over'는 상대를 완전히 넘어서 자기 쪽으로 끌어온다는 방향성을 더합니다. 19세기부터 '설득하다'는 의미로 굳어졌습니다.",
+    "nuanceKo": "단순한 동의를 구하는 것보다 적극적인 설득 과정을 강조하며, 상대가 처음에 저항감이 있었다는 뉘앙스를 내포합니다. 부드럽고 긍정적인 어감으로, 강요보다는 매력·논리·인내로 설득한다는 느낌을 줍니다.",
+    "shortExampleEn": "It took him three presentations to finally win over the investors.",
+    "shortExampleKo": "그는 세 번의 발표 끝에 마침내 투자자들을 설득하는 데 성공했다."
+  }
+}

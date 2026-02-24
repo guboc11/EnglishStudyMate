@@ -1,0 +1,30 @@
+{
+  "id": "come-off_f740f2ed",
+  "expression": "come off",
+  "selectionMeta": {
+    "selectedPhrase": "come off",
+    "selectedSenseLabelKo": "~처럼 보이다 / 분리되다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She didn't mean to come off as arrogant, but her confident tone in the presentation surprised her colleagues."
+  },
+  "step2": {
+    "story": "During his first team meeting, Mark tried to be assertive, but he worried he might come off as bossy instead. After the meeting, a colleague reassured him that he had actually come off as calm and prepared.",
+    "topicTag": "workplace communication",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Julia had rehearsed her speech for days, but standing in front of the crowd, she suddenly feared she would come off as unprepared. Her voice trembled slightly as she began, yet she pushed through every sentence with determination. By the end, several audience members approached her to say she had come off as genuine and passionate. One woman even told her that the small nervous moments only made her more relatable. Julia smiled, relieved that what had felt like weakness on the inside had come off so differently to everyone watching.",
+    "topicTag": "public speaking",
+    "moodTag": "vulnerable"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '떨어져 나오다' 또는 '분리되다'를 의미한다.",
+    "realUsageKo": "'come off as'의 형태로 '~처럼 보이다, ~라는 인상을 주다'의 뜻으로 자주 쓰이며, 물체가 표면에서 떨어지거나 분리될 때도 사용한다.",
+    "etymologyKo": "come(오다)과 off(분리·이탈)의 결합에서 유래했으며, 물리적 분리라는 본래 의미가 확장되어 외부에 전달되는 인상이나 인식을 뜻하게 되었다.",
+    "nuanceKo": "'come off as'는 의도와 무관하게 상대방이 받는 인상을 표현할 때 쓰이며, 종종 의도치 않은 부정적 인상을 전달할 때 자주 등장한다.",
+    "shortExampleEn": "The button came off my coat while I was rushing to work.",
+    "shortExampleKo": "출근하는 길에 코트에서 단추가 떨어졌다."
+  }
+}

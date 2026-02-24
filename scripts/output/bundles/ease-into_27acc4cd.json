@@ -1,0 +1,30 @@
+{
+  "id": "ease-into_27acc4cd",
+  "expression": "ease into",
+  "selectionMeta": {
+    "selectedPhrase": "ease into",
+    "selectedSenseLabelKo": "서서히 시작하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After returning from a long vacation, she decided to ease into her work routine by starting with just a few emails."
+  },
+  "step2": {
+    "story": "Marcus had been out of the gym for months and knew better than to push himself too hard on his first day back. He chose to ease into his fitness routine with a light jog and some stretching. By the end of the session, he felt refreshed rather than exhausted.",
+    "topicTag": "fitness",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When Yuna joined the new company, her manager suggested she ease into the role rather than trying to change everything at once. She spent her first two weeks simply observing how the team worked and asking thoughtful questions. Slowly, she began contributing ideas in meetings, then took on a small project of her own. By the end of the month, she had earned the trust of her colleagues and felt genuinely settled. The gradual approach had made all the difference — she felt confident, not overwhelmed.",
+    "topicTag": "new job",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가 안으로 천천히 미끄러져 들어가다.",
+    "realUsageKo": "새로운 상황, 역할, 또는 습관을 급하게 시작하지 않고 서서히, 조심스럽게 시작할 때 사용한다.",
+    "etymologyKo": "'ease'는 고대 프랑스어 'aise(편안함)'에서 유래했으며, 'ease into'는 편안하고 자연스럽게 무언가에 스며들듯 진입한다는 의미로 발전했다.",
+    "nuanceKo": "급격한 변화나 과도한 부담을 피하려는 신중하고 현명한 태도를 내포하며, 부드럽고 긍정적인 어감을 가진다.",
+    "shortExampleEn": "He decided to ease into the new diet by cutting out sugary drinks first.",
+    "shortExampleKo": "그는 먼저 단 음료부터 끊는 것으로 새로운 식단에 서서히 적응하기로 했다."
+  }
+}

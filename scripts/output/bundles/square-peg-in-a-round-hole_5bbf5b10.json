@@ -1,0 +1,30 @@
+{
+  "id": "square-peg-in-a-round-hole_5bbf5b10",
+  "expression": "square peg in a round hole",
+  "selectionMeta": {
+    "selectedPhrase": "square peg in a round hole",
+    "selectedSenseLabelKo": "어울리지 않다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He always felt like a square peg in a round hole at the corporate law firm, preferring creative writing over contract drafting."
+  },
+  "step2": {
+    "story": "Maya joined the finance team straight out of art school, but she felt like a square peg in a round hole from day one. While her colleagues debated market trends, she was sketching character designs in the margins of spreadsheets. She finally quit to pursue illustration full-time, and never looked back.",
+    "topicTag": "career change",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Daniel had always been the creative type, so when his parents pushed him into medicine, he knew deep down he was a square peg in a round hole. He spent years memorizing anatomy charts while secretly filling notebooks with short stories and poetry. His professors praised his intelligence but noticed he never quite seemed present in lectures. One afternoon, a patient told him that his calming, storytelling way of explaining diagnoses was the most comforting thing she had ever experienced. That moment shifted something in him — perhaps he didn't need to abandon medicine, but simply find a way to bring his true self into it. He enrolled in a medical humanities program, and for the first time in years, felt exactly the right shape for the space he was in.",
+    "topicTag": "identity and purpose",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "둥근 구멍에 억지로 끼워 넣으려는 네모난 못.",
+    "realUsageKo": "어떤 환경이나 집단에 자연스럽게 어울리지 못하는 사람을 가리킬 때 사용합니다. 주로 직장, 사회적 상황, 관계 등에서 '나는 여기에 맞지 않아'라는 느낌을 표현할 때 씁니다.",
+    "etymologyKo": "18세기 영국에서 유래한 표현으로, 네모난 못(square peg)이 둥근 구멍(round hole)에 맞지 않는다는 물리적 사실에서 비롯되었습니다. 작가 시드니 스미스(Sydney Smith)가 1825년 저작에서 처음 문서화된 형태로 사용한 것으로 알려져 있습니다.",
+    "nuanceKo": "단순히 '어울리지 않는다'는 중립적인 뉘앙스지만, 맥락에 따라 자기 자신에 대한 공감이나 타인에 대한 연민을 담기도 합니다. 비판보다는 '환경과의 불일치'에 초점을 두는 표현입니다.",
+    "shortExampleEn": "She's clearly a square peg in a round hole at that marketing firm — her heart is in music.",
+    "shortExampleKo": "그녀는 분명 그 마케팅 회사에 어울리지 않아요 — 그녀의 마음은 음악에 있거든요."
+  }
+}

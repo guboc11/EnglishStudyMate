@@ -1,0 +1,30 @@
+{
+  "id": "ride-the-wave_00b1d983",
+  "expression": "ride the wave",
+  "selectionMeta": {
+    "selectedPhrase": "ride the wave",
+    "selectedSenseLabelKo": "흐름을 타다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to ride the wave of positive feedback and launch her second product ahead of schedule."
+  },
+  "step2": {
+    "story": "After his viral video unexpectedly hit a million views overnight, Marcus chose to ride the wave and post follow-up content every day. Within a week, he had gained fifty thousand new subscribers and landed his first brand deal.",
+    "topicTag": "social media success",
+    "moodTag": "excited"
+  },
+  "step3": {
+    "story": "The small café had been struggling for months, but when a food blogger's glowing review went viral, customers suddenly lined up around the block. The owner, Priya, knew she had a rare chance to ride the wave before the buzz faded. She extended her hours, hired two extra staff, and introduced a weekend brunch menu almost overnight. It was exhausting, but the momentum carried her through. By the time things settled down, she had tripled her regular customer base and finally felt the business was on solid ground.",
+    "topicTag": "business growth",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "파도를 타다 — 서퍼가 파도 위에 올라서 그 흐름을 따라 나아가는 모습.",
+    "realUsageKo": "어떤 긍정적인 흐름이나 추세, 기회가 왔을 때 그것을 잘 활용하여 앞으로 나아간다는 뜻으로 사용된다. 주로 성공, 인기, 트렌드 등의 상승 국면을 적극적으로 활용하는 상황에서 쓰인다.",
+    "etymologyKo": "서핑에서 유래한 표현으로, 서퍼가 파도의 힘을 이용해 앞으로 나아가듯 외부의 흐름이나 기세를 능동적으로 활용한다는 의미로 확장되었다.",
+    "nuanceKo": "단순히 흐름에 떠내려가는 것이 아니라 의도적으로 기회를 포착하고 활용한다는 능동적인 뉘앙스가 강하다. 긍정적인 상황에서 주로 쓰이며, 타이밍을 잘 맞춘다는 전략적 의미도 담겨 있다.",
+    "shortExampleEn": "The startup decided to ride the wave of the AI boom and secured major funding.",
+    "shortExampleKo": "그 스타트업은 AI 붐의 흐름을 타서 대규모 투자를 유치했다."
+  }
+}

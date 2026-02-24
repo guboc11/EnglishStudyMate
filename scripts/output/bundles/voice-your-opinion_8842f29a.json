@@ -1,0 +1,30 @@
+{
+  "id": "voice-your-opinion_8842f29a",
+  "expression": "voice your opinion",
+  "selectionMeta": {
+    "selectedPhrase": "voice your opinion",
+    "selectedSenseLabelKo": "의견을 말하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "During the town hall meeting, the mayor encouraged every resident to voice their opinion about the proposed park renovation."
+  },
+  "step2": {
+    "story": "Maya had always stayed quiet during team meetings, afraid of saying the wrong thing. One day, her manager pulled her aside and urged her to voice her opinion more often, reminding her that her ideas were valuable. From that moment on, Maya began speaking up, and her contributions quickly became the highlight of every discussion.",
+    "topicTag": "workplace confidence",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "The school board meeting had been going on for over an hour, and tensions were rising over the new curriculum policy. Parents, teachers, and students packed the auditorium, each with something to say. When the moderator finally opened the floor, he looked out at the crowd and said, 'This is your community — please, voice your opinion.' A young student named Daniel was the first to stand up, his hands trembling slightly as he spoke about how the changes would affect his classmates. One by one, others followed, sharing frustrations, hopes, and ideas they had kept bottled up for months. By the end of the night, the board had agreed to reconsider the policy — proof that speaking up could make a real difference.",
+    "topicTag": "civic engagement",
+    "moodTag": "empowered"
+  },
+  "meaning": {
+    "literalMeaningKo": "'voice'는 '목소리'라는 명사이지만 여기서는 동사로 쓰여, 자신의 의견(opinion)을 소리 내어 표현한다는 의미입니다.",
+    "realUsageKo": "회의, 토론, 공청회 등에서 자신의 생각이나 입장을 공개적으로 말할 때 주로 사용합니다. 소극적으로 있지 않고 적극적으로 발언하는 뉘앙스를 담고 있습니다.",
+    "etymologyKo": "'voice'는 라틴어 'vox(목소리)'에서 유래했으며, 중세 영어를 거쳐 '말로 표현하다'는 동사 의미로 확장되었습니다.",
+    "nuanceKo": "단순히 말하는 것(say/tell)보다 더 적극적이고 공식적인 뉘앙스를 가집니다. 보통 다수가 있는 자리에서 자신의 입장을 용기 있게 밝히는 상황에 어울립니다.",
+    "shortExampleEn": "Don't be afraid to voice your opinion in the meeting.",
+    "shortExampleKo": "회의에서 두려워하지 말고 의견을 말하세요."
+  }
+}

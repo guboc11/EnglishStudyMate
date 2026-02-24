@@ -1,0 +1,30 @@
+{
+  "id": "beat-the-odds_9cb336b5",
+  "expression": "beat the odds",
+  "selectionMeta": {
+    "selectedPhrase": "beat the odds",
+    "selectedSenseLabelKo": "역경을 이겨내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Despite being told she had only a small chance of recovery, Maya managed to beat the odds and returned to the stage six months later."
+  },
+  "step2": {
+    "story": "Born into poverty with no connections in the industry, Lena was told she would never make it as a professional musician. She practiced every day for five years, took every gig she could find, and slowly built a following. In the end, she beat the odds and signed with a major label before her thirtieth birthday.",
+    "topicTag": "personal achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "When the doctors told James that his startup had failed and his savings were gone, he sat in his empty office for a long time. Everyone around him was advising him to give up and look for a stable job. But James had poured four years of his life into this dream, and he refused to let it end there. He reached out to an old mentor, rebuilt his pitch from scratch, and knocked on dozens of doors that had already been shut on him once. Twelve months later, he stood on a stage at a startup conference, thanking his team for helping him beat the odds and turn the struggling company into a profitable business.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "확률(the odds)을 이긴다(beat)는 뜻으로, 불리한 가능성을 극복한다는 의미이다.",
+    "realUsageKo": "성공 가능성이 낮은 상황에서 예상을 뒤엎고 좋은 결과를 이뤄냈을 때 사용한다. 역경, 질병, 경쟁 등 불리한 조건을 이겨냈음을 강조할 때 자주 쓰인다.",
+    "etymologyKo": "'odds'는 도박에서 배당률을 뜻하는 말로, 어떤 일이 일어날 가능성의 비율을 의미한다. 'beat the odds'는 낮은 배당률을 뚫고 이긴다는 도박 용어에서 유래해 일상적인 역경 극복의 의미로 확장되었다.",
+    "nuanceKo": "단순한 성공보다 훨씬 어려운 상황에서 이뤄낸 성취임을 강조하는 표현으로, 감탄과 존경의 뉘앙스를 담고 있다. 뉴스, 스포츠 중계, 자기계발 맥락에서 자주 등장한다.",
+    "shortExampleEn": "The young boxer beat the odds and defeated the reigning champion in the first round.",
+    "shortExampleKo": "그 젊은 복서는 역경을 이겨내고 현 챔피언을 1라운드에서 꺾었다."
+  }
+}

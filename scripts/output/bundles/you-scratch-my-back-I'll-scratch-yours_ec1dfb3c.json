@@ -1,0 +1,30 @@
+{
+  "id": "you-scratch-my-back-I'll-scratch-yours_ec1dfb3c",
+  "expression": "you scratch my back I'll scratch yours",
+  "selectionMeta": {
+    "selectedPhrase": "you scratch my back I'll scratch yours",
+    "selectedSenseLabelKo": "서로 도와주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When my neighbor offered to watch my dog while I was away, I told him, 'You scratch my back, I'll scratch yours — I'll mow your lawn when you go on vacation.'"
+  },
+  "step2": {
+    "story": "Jake helped his colleague finish a big presentation late on a Friday night. The next month, when Jake needed a day off unexpectedly, his colleague covered his meetings without hesitation — you scratch my back, I'll scratch yours.",
+    "topicTag": "workplace cooperation",
+    "moodTag": "warm"
+  },
+  "step3": {
+    "story": "Maya had been struggling to get her small bakery noticed in the crowded downtown market. Then she met Leo, who ran a popular coffee cart nearby. Leo suggested they promote each other — he would hand out her pastry samples with every coffee, and she would recommend his cart to every customer who came in for a morning treat. 'You scratch my back, I'll scratch yours,' Leo said with a grin. Within two weeks, both of their sales had noticeably climbed. The partnership reminded Maya that in business, generosity and mutual support often open doors that solo effort cannot.",
+    "topicTag": "small business",
+    "moodTag": "optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "네가 내 등을 긁어주면 나도 네 등을 긁어줄게.",
+    "realUsageKo": "서로 도움을 주고받는 상부상조 관계를 표현할 때 쓰인다. 상대방이 나를 도와주면 나도 그에 상응하는 호의를 베풀겠다는 의미로, 직장·비즈니스·일상적 인간관계 모두에서 널리 사용된다.",
+    "etymologyKo": "등을 직접 긁기 어려운 신체적 불편함에서 비롯된 표현으로, 상대방이 닿기 어려운 곳을 대신 긁어주는 행위가 '서로 필요를 채워주는 관계'의 은유로 정착했다. 18세기 영어 문헌에서도 유사한 표현이 발견된다.",
+    "nuanceKo": "우호적이고 실용적인 분위기를 띠지만, 상황에 따라 이해관계에 기반한 거래적 뉘앙스를 풍길 수 있다. 진심 어린 협력을 나타낼 때도, 서로 편의를 봐주는 암묵적 거래를 암시할 때도 사용된다.",
+    "shortExampleEn": "She agreed to proofread his report if he'd help her move — you scratch my back, I'll scratch yours.",
+    "shortExampleKo": "그녀는 그가 이사를 도와주면 그의 보고서를 교정해주기로 했다 — 서로 도우면서 살아야지."
+  }
+}

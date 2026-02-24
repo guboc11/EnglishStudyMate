@@ -1,0 +1,30 @@
+{
+  "id": "stretch-goal_7fc790ca",
+  "expression": "stretch goal",
+  "selectionMeta": {
+    "selectedPhrase": "stretch goal",
+    "selectedSenseLabelKo": "도전적인 목표",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The team set a stretch goal of doubling their revenue by the end of the year, knowing it would push everyone to their limits."
+  },
+  "step2": {
+    "story": "Maya's manager asked her to propose a stretch goal for the next quarter. She took a deep breath and wrote down a target three times higher than what she had ever achieved. That number scared her — and that was exactly why she chose it.",
+    "topicTag": "career growth",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "During the annual planning meeting, the CEO asked each department head to present not just their standard targets, but also a stretch goal — something that felt almost out of reach. The sales director hesitated before writing a number on the whiteboard that made the room go quiet. 'Is that even possible?' someone whispered. 'Probably not,' she admitted, 'but if we hit even eighty percent of it, we'll have grown more than any previous year.' By December, the team had missed the stretch goal by a narrow margin, but the effort had transformed how they worked together — and they ended the year more capable than they had ever imagined.",
+    "topicTag": "workplace motivation",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'stretch'(뻗다, 늘리다)와 'goal'(목표)의 결합으로, 현재 능력을 최대한 늘려야 닿을 수 있는 목표를 뜻한다.",
+    "realUsageKo": "현실적인 목표보다 훨씬 높게 설정해 최대한의 노력을 이끌어 내는 도전적 목표를 가리킬 때 사용한다. 기업·팀·개인의 목표 설정 맥락에서 자주 쓰인다.",
+    "etymologyKo": "비즈니스 영어에서 1990년대 무렵부터 널리 쓰이기 시작한 표현으로, 구글·GE 등 대기업의 OKR(목표 및 핵심 결과) 문화와 함께 대중화되었다.",
+    "nuanceKo": "달성 여부보다 과정에서의 성장을 강조하는 긍정적 뉘앙스가 강하며, 의욕을 고취하는 맥락에서 자주 등장한다. 단순한 '높은 목표'와 달리, 실패를 어느 정도 허용하는 전략적 의도가 내포되어 있다.",
+    "shortExampleEn": "Finishing the marathon under four hours was my stretch goal for this season.",
+    "shortExampleKo": "이번 시즌에 마라톤을 4시간 이내로 완주하는 것이 내 도전적인 목표였다."
+  }
+}

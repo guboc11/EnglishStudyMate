@@ -1,0 +1,30 @@
+{
+  "id": "regret-a-decision_66b39704",
+  "expression": "regret a decision",
+  "selectionMeta": {
+    "selectedPhrase": "regret a decision",
+    "selectedSenseLabelKo": "결정을 후회하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Years later, she would regret the decision to leave her hometown without saying goodbye to her closest friends."
+  },
+  "step2": {
+    "story": "Marcus quit his stable job to pursue a risky startup, and within a year he began to regret that decision deeply. The market had shifted, and his savings were nearly gone. He sat in his empty office, wondering if he should have stayed.",
+    "topicTag": "career change",
+    "moodTag": "regretful"
+  },
+  "step3": {
+    "story": "When Priya chose to skip her best friend's wedding to meet a deadline at work, she told herself it was the right call. But as weeks passed, the silence between them grew, and she started to regret that decision more than any other she had ever made. She replayed the moment over and over—the unanswered calls, the polite but distant texts. One evening, she finally drove to her friend's apartment, flowers in hand, hoping it wasn't too late. Standing at the door, heart pounding, she realized that no deadline was ever worth losing someone irreplaceable. The door opened, and for the first time in months, both of them cried.",
+    "topicTag": "friendship and priorities",
+    "moodTag": "remorseful"
+  },
+  "meaning": {
+    "literalMeaningKo": "내린 결정에 대해 후회하거나 아쉬움을 느끼다.",
+    "realUsageKo": "과거에 내린 선택이 잘못되었거나 더 나은 결과를 놓쳤다고 느낄 때 사용한다. 주로 시간이 지난 후 돌이켜보며 쓰인다.",
+    "etymologyKo": "'regret'은 고대 프랑스어 'regreter(슬퍼하다, 애도하다)'에서 유래했으며, 'decision'은 라틴어 'decisio(잘라내다, 결정하다)'에서 왔다.",
+    "nuanceKo": "단순한 불만이 아니라 감정적 무게감이 담긴 표현으로, 돌이킬 수 없는 상황에서 더 자주 쓰인다. 공식적인 글과 일상 대화 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "He deeply regretted the decision to sell his grandmother's house.",
+    "shortExampleKo": "그는 할머니의 집을 판 결정을 몹시 후회했다."
+  }
+}

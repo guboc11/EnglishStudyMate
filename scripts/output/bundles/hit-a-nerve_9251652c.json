@@ -1,0 +1,30 @@
+{
+  "id": "hit-a-nerve_9251652c",
+  "expression": "hit a nerve",
+  "selectionMeta": {
+    "selectedPhrase": "hit a nerve",
+    "selectedSenseLabelKo": "신경을 건드리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His comment about her work ethic really hit a nerve, and she left the meeting without saying another word."
+  },
+  "step2": {
+    "story": "During the team review, the manager casually mentioned that some people weren't pulling their weight. The remark hit a nerve with Jake, who had been working overtime for weeks. He quietly closed his laptop and stared at the table, struggling to keep his composure.",
+    "topicTag": "workplace tension",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Lena had always been sensitive about her decision to drop out of college, so when her aunt brought it up at the family dinner, it hit a nerve immediately. She felt the familiar heat rise to her cheeks as everyone at the table went quiet. She had worked hard to build her career without a degree, and she was proud of what she had achieved. But the comment made her feel like none of that mattered in her family's eyes. She excused herself, stepped outside, and took a slow breath of cold air to settle the sting.",
+    "topicTag": "family pressure",
+    "moodTag": "hurt"
+  },
+  "meaning": {
+    "literalMeaningKo": "신경을 건드리다, 즉 예민한 부분을 자극하다.",
+    "realUsageKo": "누군가의 감정적으로 민감한 부분이나 상처를 건드려 강한 반응을 유발할 때 사용한다. 의도적이든 아니든 상대방이 민감하게 반응하는 발언이나 행동에 쓰인다.",
+    "etymologyKo": "'nerve'는 신체의 신경을 뜻하며, 신경을 건드리면 즉각적이고 강한 반응이 나타나는 것에서 유래했다. 감정적으로 취약한 부분을 건드리는 행위를 신체적 자극에 비유한 표현이다.",
+    "nuanceKo": "부정적인 뉘앙스가 강하며, 의도치 않게 상대를 자극했을 때도 쓰이지만 상대가 예민하게 반응한다는 점을 내포한다. 'touch a nerve'와 거의 같은 의미로 혼용된다.",
+    "shortExampleEn": "Mentioning his ex-girlfriend's name clearly hit a nerve.",
+    "shortExampleKo": "그의 전 여자친구 이름을 언급하자 분명히 신경을 건드린 것 같았다."
+  }
+}

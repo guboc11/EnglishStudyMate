@@ -1,0 +1,30 @@
+{
+  "id": "do-a-180_3bbb27f1",
+  "expression": "do a 180",
+  "selectionMeta": {
+    "selectedPhrase": "do a 180",
+    "selectedSenseLabelKo": "완전히 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After hearing the customer complaints, the CEO decided to do a 180 and completely overhaul the company's return policy."
+  },
+  "step2": {
+    "story": "Mark had always insisted that remote work ruined team culture, but after working from home for a month, he did a 180. He started advocating for flexible arrangements at every leadership meeting.",
+    "topicTag": "workplace change",
+    "moodTag": "surprised"
+  },
+  "step3": {
+    "story": "For years, Clara had been dead set against social media, calling it a waste of time and a drain on creativity. Her friends had long given up trying to convince her otherwise. But when her small bakery started losing customers to competitors with vibrant online presences, she knew something had to change. She did a 180 almost overnight, setting up accounts on every major platform and posting daily. Within three months, her follower count had grown into the thousands, and the morning queue outside her shop was longer than ever.",
+    "topicTag": "business growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "180도를 돌다, 즉 완전히 반대 방향으로 돌아서다.",
+    "realUsageKo": "생각, 태도, 행동 방침 등을 이전과 완전히 반대로 바꿀 때 사용한다. 긍정적인 변화와 부정적인 변화 모두에 쓰일 수 있다.",
+    "etymologyKo": "180도를 회전하면 처음 방향의 정반대를 향하게 된다는 기하학적 개념에서 유래했다. 스케이트보드와 스노보드 같은 익스트림 스포츠 문화에서 널리 쓰이다가 일상 영어로 확산되었다.",
+    "nuanceKo": "변화의 폭이 매우 크고 완전하다는 점을 강조하는 표현이다. 상대방이나 화자 자신도 놀랄 만큼 갑작스러운 전환을 나타낼 때 특히 효과적이다.",
+    "shortExampleEn": "She used to hate running, but she did a 180 after joining a local marathon club.",
+    "shortExampleKo": "그녀는 달리기를 싫어했지만, 지역 마라톤 클럽에 가입한 후 완전히 생각이 바뀌었다."
+  }
+}

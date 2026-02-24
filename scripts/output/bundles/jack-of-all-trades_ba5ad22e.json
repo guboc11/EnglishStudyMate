@@ -1,0 +1,30 @@
+{
+  "id": "jack-of-all-trades_ba5ad22e",
+  "expression": "jack of all trades",
+  "selectionMeta": {
+    "selectedPhrase": "jack of all trades",
+    "selectedSenseLabelKo": "팔방미인",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Our new intern is a real jack of all trades — he can design graphics, write code, and handle customer calls all in the same day."
+  },
+  "step2": {
+    "story": "When the small startup lost three employees at once, Maya stepped up as a jack of all trades, handling marketing, finances, and customer support simultaneously. Her colleagues were amazed at how seamlessly she shifted between roles. Within a month, the company had stabilized entirely because of her versatility.",
+    "topicTag": "workplace",
+    "moodTag": "impressive"
+  },
+  "step3": {
+    "story": "Growing up on a farm with limited resources, Daniel learned to fix engines, build fences, cook meals, and even stitch wounds when the nearest town was hours away. By the time he moved to the city, people quickly noticed he was a jack of all trades unlike anyone they had met before. Neighbors called him whenever a pipe burst, a laptop crashed, or a garden needed redesigning. He never turned anyone away, quietly enjoying the satisfaction of solving problems that stumped specialists. Some teased that he was a master of none, but Daniel knew that his breadth of skill had carried him through every challenge life had thrown his way.",
+    "topicTag": "self-reliance",
+    "moodTag": "confident"
+  },
+  "meaning": {
+    "literalMeaningKo": "모든 거래(직업)의 잭, 즉 온갖 일을 다 할 수 있는 사람을 가리킨다.",
+    "realUsageKo": "다양한 분야에 두루 능숙한 사람을 묘사할 때 쓰이며, 칭찬의 의미로도, '어느 하나도 깊이 있게 못 한다'는 뉘앙스로도 사용된다.",
+    "etymologyKo": "중세 영어에서 'Jack'은 평범한 남성을 뜻하는 일반 명사였으며, 16세기 무렵 여러 직종을 전전하는 잡역부를 'jack of all trades'라 부르기 시작했다.",
+    "nuanceKo": "긍정·부정 양면이 공존하는 표현으로, 뒤에 'master of none'을 붙이면 깊이의 부재를 강조하는 비판적 어조가 된다.",
+    "shortExampleEn": "He's a jack of all trades who can repair cars, paint walls, and write software.",
+    "shortExampleKo": "그는 자동차 수리, 벽 페인팅, 소프트웨어 작성까지 모두 해낼 수 있는 팔방미인이다."
+  }
+}

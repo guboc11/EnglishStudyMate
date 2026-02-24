@@ -1,0 +1,30 @@
+{
+  "id": "lose-track_d0c4a161",
+  "expression": "lose track",
+  "selectionMeta": {
+    "selectedPhrase": "lose track",
+    "selectedSenseLabelKo": "놓치다 / 잊어버리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "I was so absorbed in the novel that I completely lost track of time and missed dinner."
+  },
+  "step2": {
+    "story": "Emma sat down at her desk to quickly check her emails before lunch, but she lost track of time scrolling through her inbox. Before she knew it, two hours had passed and her coffee had gone cold. She laughed at herself, closed the laptop, and finally went to eat.",
+    "topicTag": "daily routine",
+    "moodTag": "lighthearted"
+  },
+  "step3": {
+    "story": "Daniel had always been the kind of person who kept meticulous lists and schedules, but that afternoon everything fell apart. He started reorganizing his bookshelf and somehow lost track of the hours as memories attached to each book pulled him into long daydreams. When he finally snapped back to reality, the room was dark and the dinner he had planned to cook sat untouched on the counter. He checked his phone and saw three messages from his wife asking where he was. Sighing, he realized that losing track of the present had become a habit he needed to break. He set a reminder on his phone and promised himself he would be more mindful going forward.",
+    "topicTag": "self-reflection",
+    "moodTag": "contemplative"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가의 흔적이나 경로를 잃어버리다.",
+    "realUsageKo": "시간, 숫자, 대화 내용, 혹은 사람의 근황 등을 까맣게 잊거나 파악하지 못하게 되는 상황을 표현할 때 사용한다. 주로 'lose track of'의 형태로 뒤에 대상을 붙여 쓴다.",
+    "etymologyKo": "'track'은 원래 발자국이나 이동 경로를 뜻하는 단어로, 'lose track'은 그 경로나 흔적을 놓쳐버린다는 개념에서 유래했다.",
+    "nuanceKo": "의도치 않게 집중하거나 몰두하다 보니 다른 것을 잊게 된 상황에서 자주 쓰이며, 부정적이기보다는 중립적이거나 가볍게 자책하는 뉘앙스로 사용되는 경우가 많다.",
+    "shortExampleEn": "I lost track of how many cups of coffee I had today.",
+    "shortExampleKo": "오늘 커피를 몇 잔이나 마셨는지 잊어버렸다."
+  }
+}

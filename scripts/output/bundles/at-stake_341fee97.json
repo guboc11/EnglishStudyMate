@@ -1,0 +1,30 @@
+{
+  "id": "at-stake_341fee97",
+  "expression": "at stake",
+  "selectionMeta": {
+    "selectedPhrase": "at stake",
+    "selectedSenseLabelKo": "위험에 처한",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "With millions of lives at stake, the scientists worked around the clock to develop a vaccine."
+  },
+  "step2": {
+    "story": "The negotiations had gone on for days, and both sides knew what was at stake. If they failed to reach an agreement, thousands of workers would lose their jobs. Every word spoken in that room carried the weight of people's livelihoods.",
+    "topicTag": "high-stakes negotiation",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sarah stared at the final exam paper, her hands trembling slightly. Her scholarship was at stake—fail this test and she would lose her funding for the next two years. She took a slow breath and reminded herself of all the late nights she had spent preparing. Every question she answered carefully, double-checking her work before moving on. When the proctor finally called time, she set down her pen and exhaled. Whatever the result, she had given everything she had, knowing full well what was at stake.",
+    "topicTag": "academic pressure",
+    "moodTag": "anxious but determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "말뚝(stake)에 걸려 있다는 뜻으로, 무언가가 위험에 노출된 상태를 가리킨다.",
+    "realUsageKo": "중요한 것이 잃어버릴 위험에 처해 있거나, 결과에 따라 큰 영향을 받을 수 있는 상황을 표현할 때 사용한다. 주로 'what is at stake', 'lives at stake', 'jobs at stake' 형태로 쓰인다.",
+    "etymologyKo": "중세 도박에서 유래했으며, 'stake'는 내기에 거는 돈이나 판돈을 의미했다. 무언가를 말뚝에 걸어 놓는다는 이미지에서 '위험에 처하다'는 의미로 발전했다.",
+    "nuanceKo": "단순한 위험이 아닌, 결과에 따라 중요한 것을 잃거나 얻을 수 있는 긴장감 높은 상황에서 사용된다. 격식체와 비격식체 모두에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "The company's reputation is at stake if this product fails.",
+    "shortExampleKo": "이 제품이 실패하면 회사의 명성이 위험에 처한다."
+  }
+}

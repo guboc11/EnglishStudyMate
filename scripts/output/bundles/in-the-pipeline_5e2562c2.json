@@ -1,0 +1,30 @@
+{
+  "id": "in-the-pipeline_5e2562c2",
+  "expression": "in the pipeline",
+  "selectionMeta": {
+    "selectedPhrase": "in the pipeline",
+    "selectedSenseLabelKo": "진행 중인",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new product feature is already in the pipeline and should be ready by next quarter."
+  },
+  "step2": {
+    "story": "The team lead assured everyone that the budget approval was in the pipeline. Though nothing had been confirmed yet, everyone felt cautiously optimistic about the upcoming changes.",
+    "topicTag": "workplace planning",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After months of negotiations, Mia finally got word that her promotion was in the pipeline. Her manager had submitted the paperwork weeks ago, but the HR department was still processing it. She tried not to get too excited, knowing how easily these things could stall. Still, every morning she checked her email with a flutter of anticipation. When the official offer letter finally arrived on a rainy Thursday, she let out a long breath she hadn't realized she'd been holding.",
+    "topicTag": "career growth",
+    "moodTag": "anticipation"
+  },
+  "meaning": {
+    "literalMeaningKo": "파이프라인 안에 있다는 뜻으로, 무언가가 처리 과정 중에 있음을 의미한다.",
+    "realUsageKo": "어떤 계획이나 프로젝트가 이미 진행 중이거나 곧 실행될 예정임을 나타낼 때 사용된다. 아직 완료되지 않았지만 공식적으로 추진되고 있는 상태를 뜻한다.",
+    "etymologyKo": "원래 석유나 가스 산업에서 파이프라인을 통해 물질이 이동하는 것에서 유래했다. 이후 어떤 것이 '처리 흐름' 속에 있다는 비유적 의미로 확장되었다.",
+    "nuanceKo": "공식적이고 진지한 뉘앙스를 가지며, 주로 비즈니스나 직장 환경에서 많이 쓰인다. 아직 확정된 것은 아니지만 가시적인 진전이 있음을 암시한다.",
+    "shortExampleEn": "Several new hires are in the pipeline for the engineering team.",
+    "shortExampleKo": "엔지니어링 팀을 위한 신규 채용이 몇 건 진행 중이다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "work-in-tandem_92b9c348",
+  "expression": "work in tandem",
+  "selectionMeta": {
+    "selectedPhrase": "work in tandem",
+    "selectedSenseLabelKo": "함께 일하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The design and engineering teams work in tandem to ensure every product launch runs smoothly."
+  },
+  "step2": {
+    "story": "Sarah and Jake had always worked in tandem on their school projects. Her creativity and his analytical thinking made them an unstoppable pair. By the end of the semester, they had produced the best presentation in the entire class.",
+    "topicTag": "teamwork",
+    "moodTag": "collaborative"
+  },
+  "step3": {
+    "story": "When the hospital introduced its new patient care system, the doctors and nurses had to learn to work in tandem like never before. Each morning, they gathered for a brief huddle to align on priorities and share critical updates. At first, the coordination felt awkward, with overlapping responsibilities and occasional miscommunication. But over time, the team developed a seamless rhythm, anticipating each other's needs without a word. By the end of the month, patient recovery times had improved significantly—a testament to what happens when people truly work in tandem.",
+    "topicTag": "healthcare",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 사람 또는 두 팀이 나란히, 함께 일한다는 의미입니다.",
+    "realUsageKo": "두 명 이상이 긴밀히 협력하거나 동시에 같은 목표를 향해 일할 때 사용됩니다. 주로 업무나 프로젝트 맥락에서 팀워크를 강조할 때 씁니다.",
+    "etymologyKo": "'Tandem'은 라틴어로 '길게 늘어서'를 뜻하며, 두 마리 말이 앞뒤로 나란히 마차를 끄는 모습에서 유래했습니다.",
+    "nuanceKo": "단순히 같이 일한다는 뜻을 넘어, 긴밀히 협조하며 효율적으로 움직인다는 뉘앙스가 있습니다. 격식체와 비격식체 모두에서 자연스럽게 사용됩니다.",
+    "shortExampleEn": "The two departments work in tandem to deliver results on time.",
+    "shortExampleKo": "두 부서는 제때 결과를 내기 위해 함께 일합니다."
+  }
+}

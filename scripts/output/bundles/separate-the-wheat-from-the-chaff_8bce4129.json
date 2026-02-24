@@ -1,0 +1,30 @@
+{
+  "id": "separate-the-wheat-from-the-chaff_8bce4129",
+  "expression": "separate the wheat from the chaff",
+  "selectionMeta": {
+    "selectedPhrase": "separate the wheat from the chaff",
+    "selectedSenseLabelKo": "좋은 것과 나쁜 것을 구별하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The rigorous interview process was designed to separate the wheat from the chaff and identify only the most qualified candidates."
+  },
+  "step2": {
+    "story": "After receiving hundreds of applications, the hiring manager had to separate the wheat from the chaff. She spent three days reviewing portfolios, quickly setting aside those that lacked depth or originality.",
+    "topicTag": "hiring process",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "The film festival received over two thousand submissions from aspiring directors around the world. A panel of seasoned critics worked tirelessly for weeks to separate the wheat from the chaff, screening each entry with careful attention. Many films were beautifully shot but lacked a compelling narrative, and those were quietly eliminated from contention. By the final round, only a handful of truly exceptional works remained. The ones that survived the selection process went on to move audiences and win awards, proving that the effort to distinguish real talent from mediocrity had been worthwhile.",
+    "topicTag": "film festival",
+    "moodTag": "discerning"
+  },
+  "meaning": {
+    "literalMeaningKo": "곡식을 타작할 때 알맹이(밀)와 껍데기(겨)를 분리하다.",
+    "realUsageKo": "여러 대상 중에서 가치 있는 것과 그렇지 않은 것을 구별하거나, 능력 있는 사람과 그렇지 않은 사람을 가려낼 때 사용한다.",
+    "etymologyKo": "성경(마태복음 3장 12절)에서 유래한 표현으로, 타작 마당에서 밀알(wheat)과 쭉정이(chaff)를 바람으로 분리하던 고대 농업 방식에서 비롯되었다.",
+    "nuanceKo": "판별·선별의 의미를 강조하며, 다소 엄격하거나 권위 있는 기준을 적용하는 상황에서 자주 쓰인다. 중립적이지만 선별 기준이 높다는 뉘앙스를 담고 있다.",
+    "shortExampleEn": "The scholarship committee used the essay round to separate the wheat from the chaff.",
+    "shortExampleKo": "장학금 위원회는 에세이 심사를 통해 우수한 지원자와 그렇지 않은 지원자를 가려냈다."
+  }
+}

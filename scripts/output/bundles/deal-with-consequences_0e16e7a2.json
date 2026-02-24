@@ -1,0 +1,30 @@
+{
+  "id": "deal-with-consequences_0e16e7a2",
+  "expression": "deal with consequences",
+  "selectionMeta": {
+    "selectedPhrase": "deal with consequences",
+    "selectedSenseLabelKo": "결과를 감당하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She knew she had to deal with consequences of skipping the deadline, so she prepared a full explanation for her manager."
+  },
+  "step2": {
+    "story": "After hiding the mistake for weeks, Marcus finally admitted what he had done. His boss told him he would have to deal with consequences, but appreciated his honesty. That conversation changed the way Marcus approached problems at work.",
+    "topicTag": "workplace accountability",
+    "moodTag": "somber"
+  },
+  "step3": {
+    "story": "Lena had always avoided confrontation, letting small problems pile up until they became crises. When the project finally collapsed, her team looked to her for answers she didn't have. Her mentor sat with her that evening and said, gently but firmly, that it was time to deal with consequences rather than run from them. Lena spent the next week meeting each stakeholder, owning every misstep, and outlining a recovery plan. It was painful, but each honest conversation lightened the weight she'd been carrying. By the end, the team's trust in her had grown stronger than before the failure.",
+    "topicTag": "personal accountability",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 행동이나 결정으로 인해 발생한 결과를 직접 마주하고 처리하다.",
+    "realUsageKo": "잘못된 선택이나 실수 이후에 그로 인한 부정적인 결과를 피하지 않고 책임감 있게 받아들이는 상황에서 사용한다. 종종 어렵거나 불편한 상황을 감수해야 함을 암시한다.",
+    "etymologyKo": "'Deal with'는 고대 영어 'dǣlan(나누다, 처리하다)'에서 유래했으며, 'consequence'는 라틴어 'consequentia(뒤따라오는 것)'에서 비롯되었다.",
+    "nuanceKo": "주로 부정적이거나 불리한 결과를 감수하는 맥락에서 쓰이며, 책임감과 성숙함을 강조하는 어조를 띤다. 도피 없이 현실을 직면하겠다는 의지가 담겨 있다.",
+    "shortExampleEn": "You made the decision, so now you have to deal with consequences.",
+    "shortExampleKo": "네가 그 결정을 내렸으니, 이제 결과를 감당해야 해."
+  }
+}

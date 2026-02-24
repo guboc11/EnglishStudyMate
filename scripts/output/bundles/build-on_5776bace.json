@@ -1,0 +1,30 @@
+{
+  "id": "build-on_5776bace",
+  "expression": "build on",
+  "selectionMeta": {
+    "selectedPhrase": "build on",
+    "selectedSenseLabelKo": "~을 기반으로 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She plans to build on her early research to develop a more comprehensive theory."
+  },
+  "step2": {
+    "story": "After finishing his first novel, Marcus didn't start from scratch. He decided to build on the world he had already created, expanding the story into a trilogy. The readers who loved the original were thrilled.",
+    "topicTag": "creative work",
+    "moodTag": "motivated"
+  },
+  "step3": {
+    "story": "Dr. Yoon had spent three years studying the city's traffic patterns, and now she finally had a solid dataset to work with. Rather than pursuing an entirely new direction, she chose to build on that foundation, layering in new variables like weather and public events. Her colleagues admired her disciplined approach—she never chased novelty for its own sake. As the months passed, her model grew more accurate and her reputation in the field grew stronger. When she presented her findings at the conference, the room fell quiet with the weight of what she had achieved. It was proof that patience and the willingness to build on existing work could lead somewhere truly remarkable.",
+    "topicTag": "academic research",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가 위에 더 쌓아 올린다는 뜻으로, 기존의 것을 토대로 발전시킨다는 의미입니다.",
+    "realUsageKo": "이미 존재하는 아이디어, 성과, 관계 등을 바탕으로 더 발전시키거나 확장할 때 사용합니다. '~을 발판 삼아 나아가다'와 비슷한 뉘앙스입니다.",
+    "etymologyKo": "'build'(짓다, 쌓다)와 방향을 나타내는 전치사 'on'이 결합된 구동사로, 물리적으로 무언가 위에 건물을 짓는 이미지에서 비롯되었습니다.",
+    "nuanceKo": "단순히 이어가는 것이 아니라 기존의 것을 적극적으로 활용하고 발전시킨다는 긍정적이고 진취적인 뉘앙스를 지닙니다. 학문, 비즈니스, 개인 성장 등 다양한 맥락에서 두루 쓰입니다.",
+    "shortExampleEn": "We need to build on our previous success to stay ahead of the competition.",
+    "shortExampleKo": "우리는 경쟁에서 앞서 나가기 위해 이전의 성공을 기반으로 해야 합니다."
+  }
+}

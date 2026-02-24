@@ -1,0 +1,30 @@
+{
+  "id": "narrow-the-gap_9d858215",
+  "expression": "narrow the gap",
+  "selectionMeta": {
+    "selectedPhrase": "narrow the gap",
+    "selectedSenseLabelKo": "격차를 좁히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The new training program helped the junior team narrow the gap between themselves and the industry leaders within just one season."
+  },
+  "step2": {
+    "story": "After years of lagging behind, the startup finally began to narrow the gap with its well-funded competitors. The team worked tirelessly, shipping new features every week and listening closely to user feedback.",
+    "topicTag": "business competition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Mia joined the debate club in her first year, she struggled to keep up with students who had been competing for years. She recorded every practice session, studied her opponents' techniques, and stayed late to rehearse her rebuttals. Slowly, her arguments became sharper and her confidence grew. By the regional championship, she had managed to narrow the gap so significantly that even the senior members took her seriously. Standing at the podium during the final round, Mia realized that the distance between where she had started and where she now stood was almost unrecognizable.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 대상 사이의 간격(gap)을 좁히다(narrow)는 뜻으로, 물리적 거리나 추상적 차이를 줄이는 행위를 직접적으로 표현한다.",
+    "realUsageKo": "주로 경쟁, 성적, 기술 수준, 경제적 불평등 등에서 두 집단 혹은 두 개체 간의 차이를 줄여나가는 상황을 묘사할 때 사용된다. 'narrow the gap between A and B' 형태로 자주 쓰인다.",
+    "etymologyKo": "'narrow'는 고대 영어 'nearu'에서 유래하여 '폭이 좁은'을 의미하며, 여기서는 동사로 쓰여 '좁히다'를 뜻한다. 'gap'은 고대 노르드어 'gap'에서 비롯되어 '틈새, 격차'를 의미한다.",
+    "nuanceKo": "단순히 따라잡는 것보다 지속적인 노력과 진전을 강조하는 뉘앙스가 있으며, 완전히 따라잡지는 못했지만 의미 있는 발전이 이루어지고 있음을 함의한다. 긍정적이고 희망적인 맥락에서 주로 사용된다.",
+    "shortExampleEn": "Years of investment in education have helped narrow the gap between rural and urban students.",
+    "shortExampleKo": "수년간의 교육 투자가 농촌과 도시 학생들 간의 격차를 좁히는 데 도움이 되었다."
+  }
+}

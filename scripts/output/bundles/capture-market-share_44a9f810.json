@@ -1,0 +1,30 @@
+{
+  "id": "capture-market-share_44a9f810",
+  "expression": "capture market share",
+  "selectionMeta": {
+    "selectedPhrase": "capture market share",
+    "selectedSenseLabelKo": "시장 점유율을 차지하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup launched an aggressive pricing strategy to capture market share from established competitors."
+  },
+  "step2": {
+    "story": "After months of planning, the team rolled out their new product at half the competitor's price. Within weeks, they began to capture market share in the mid-range segment. Sales figures climbed steadily, and investors took notice.",
+    "topicTag": "business competition",
+    "moodTag": "ambitious"
+  },
+  "step3": {
+    "story": "When NovaTech entered the smartphone market, analysts were skeptical — the space was already dominated by two giants. But NovaTech's CEO had a clear vision: offer flagship-level hardware at a budget price point and capture market share from cost-conscious consumers who felt underserved. They released their first device with a bold marketing campaign and a price tag that made headlines. Within a year, NovaTech had captured nearly twelve percent of the mid-tier segment, forcing rivals to rethink their own pricing. The board celebrated the milestone, but the CEO reminded everyone that holding market share is far harder than winning it.",
+    "topicTag": "tech startup growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "시장에서 경쟁자들보다 더 많은 점유율(share)을 차지(capture)하다.",
+    "realUsageKo": "특정 산업이나 제품 카테고리에서 자사 브랜드나 제품이 차지하는 판매 비중을 늘리는 전략적 행위를 설명할 때 쓰인다. 신규 진입자가 기존 강자로부터 고객을 빼앗아 오는 맥락에서 특히 자주 사용된다.",
+    "etymologyKo": "'capture'는 라틴어 'capere(잡다, 취하다)'에서 유래했으며, 군사적·사냥 맥락에서 발전해 비즈니스 영역으로 확장됐다. 'market share'는 전체 시장 매출 중 특정 기업이 차지하는 비율을 뜻하는 경제 용어다.",
+    "nuanceKo": "단순히 매출을 늘리는 것 이상으로, 경쟁자의 고객을 적극적으로 빼앗아 온다는 공격적·전략적 뉘앙스가 있다. 경영진 발표, 투자자 보고서, 비즈니스 뉴스에서 격식체로 쓰이며, 회사가 성장 의지를 강조할 때 선호되는 표현이다.",
+    "shortExampleEn": "They cut prices drastically to capture market share before the holiday season.",
+    "shortExampleKo": "그들은 연휴 시즌 전에 시장 점유율을 차지하기 위해 가격을 대폭 인하했다."
+  }
+}

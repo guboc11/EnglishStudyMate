@@ -1,0 +1,30 @@
+{
+  "id": "manage-cash-flow_da9bd2e6",
+  "expression": "manage cash flow",
+  "selectionMeta": {
+    "selectedPhrase": "manage cash flow",
+    "selectedSenseLabelKo": "현금 흐름을 관리하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "One of the biggest challenges for small business owners is learning how to manage cash flow effectively so they can cover expenses during slow months."
+  },
+  "step2": {
+    "story": "Rachel launched her bakery with passion, but by the third month she was struggling to pay suppliers. She hired an accountant to help her manage cash flow and set up weekly forecasting. Within a season, the business stabilized and she finally stopped losing sleep over payroll.",
+    "topicTag": "small business",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "When Daniel took over his family's construction company, the books looked healthy on paper but the bank account told a different story. Invoices were going out late, and clients were taking sixty days to pay while suppliers expected payment in thirty. He knew he had to manage cash flow more deliberately if the company was going to survive. Daniel introduced a strict invoicing schedule, negotiated extended terms with key vendors, and opened a revolving credit line for emergencies. Month by month, the gap between money in and money out narrowed. A year later, the business had a three-month cash reserve and Daniel could finally plan for growth instead of just scrambling to stay afloat.",
+    "topicTag": "business turnaround",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "사업 운영 중 들어오고 나가는 현금의 흐름을 체계적으로 통제하고 조율한다는 뜻이다.",
+    "realUsageKo": "주로 비즈니스 맥락에서 수입과 지출의 타이밍을 맞춰 자금 부족 없이 운영을 유지하는 행위를 가리킨다. 스타트업, 소상공인, 기업 CFO 등 누구나 사용하는 핵심 재무 표현이다.",
+    "etymologyKo": "'cash flow(현금 흐름)'는 1950년대 회계 및 재무 분석 용어로 정착했으며, 수익(profit)과 달리 실제 현금의 유입·유출 시점을 강조한다. 'manage'는 라틴어 'manus(손)'에서 유래해 '손으로 다루다'는 뜻으로 발전했다.",
+    "nuanceKo": "단순히 돈을 아끼는 것이 아니라 타이밍과 전략적 조율을 강조하는 표현이다. 재정적 위기 상황뿐 아니라 성장 단계에서도 쓰이며, 전문적이고 능동적인 어감을 띤다.",
+    "shortExampleEn": "The startup hired a CFO specifically to manage cash flow during its rapid expansion phase.",
+    "shortExampleKo": "그 스타트업은 급격한 성장 단계에서 현금 흐름을 관리하기 위해 CFO를 채용했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "comfort-zone_ba5781a1",
+  "expression": "comfort zone",
+  "selectionMeta": {
+    "selectedPhrase": "comfort zone",
+    "selectedSenseLabelKo": "편안한 영역",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She knew that landing her dream job would require stepping outside her comfort zone and learning to speak up in meetings."
+  },
+  "step2": {
+    "story": "Marcus had always avoided public speaking, happy to stay in his comfort zone behind a desk. But when his manager asked him to lead the quarterly presentation, he decided to take the leap. The applause at the end made every nervous moment worth it.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For years, Aiko had taken the same route to work, eaten at the same restaurants, and spent weekends in the same coffee shop — all well within her comfort zone. One autumn, a colleague invited her to join a rock-climbing club, and something in her said yes before her mind could say no. The first session left her arms shaking and her heart pounding, but also buzzing with a feeling she hadn't known in a long time. Week by week, she tackled harder routes, made new friends, and found herself laughing at challenges that once would have sent her straight back to safety. Looking back months later, she realized that the comfort zone she had guarded so carefully had quietly become a cage — and climbing had set her free.",
+    "topicTag": "personal growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "편안함을 느끼는 익숙한 범위나 영역을 뜻합니다.",
+    "realUsageKo": "새로운 도전이나 낯선 상황을 피하고 익숙하고 안전한 것만 추구하는 상태를 묘사할 때 사용합니다. 주로 'step out of one's comfort zone(편안한 영역을 벗어나다)'처럼 도전·성장을 권유하는 맥락에서 자주 등장합니다.",
+    "etymologyKo": "20세기 초 심리학 용어에서 유래했으며, 1908년 Yerkes-Dodson 법칙 연구에서 최적 수행을 위해 일정 수준의 불안이 필요하다는 개념과 연결됩니다. 이후 경영·자기계발 분야로 퍼지며 대중화되었습니다.",
+    "nuanceKo": "부정적인 뜻은 아니지만, '편안한 영역에만 머문다'고 하면 도전 의지가 부족하다는 완곡한 비판이 담기기도 합니다. 반대로 'step out of your comfort zone'은 긍정적 변화와 성장을 격려하는 표현으로 쓰입니다.",
+    "shortExampleEn": "Traveling solo for the first time pushed him far outside his comfort zone.",
+    "shortExampleKo": "처음으로 혼자 여행을 떠난 것은 그를 편안한 영역 밖으로 훌쩍 밀어냈다."
+  }
+}

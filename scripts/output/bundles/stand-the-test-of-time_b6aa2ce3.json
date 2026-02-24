@@ -1,0 +1,30 @@
+{
+  "id": "stand-the-test-of-time_b6aa2ce3",
+  "expression": "stand the test of time",
+  "selectionMeta": {
+    "selectedPhrase": "stand the test of time",
+    "selectedSenseLabelKo": "시간의 시험을 견디다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The friendship they built in college has truly stood the test of time, remaining strong even decades later."
+  },
+  "step2": {
+    "story": "Maria kept returning to the same recipe her grandmother had passed down — a simple tomato sauce that had stood the test of time across three generations. No trendy technique or modern shortcut ever came close to matching its depth of flavor. Some things, she decided, endure precisely because they were made right from the start.",
+    "topicTag": "family tradition",
+    "moodTag": "nostalgic"
+  },
+  "step3": {
+    "story": "When the architecture firm proposed demolishing the old stone library, the community pushed back hard. Critics argued the building was outdated, but historians pointed to its graceful arches and handcrafted details as proof that great craftsmanship stands the test of time. The debate drew hundreds to a town hall meeting, where residents shared memories of first books borrowed and quiet afternoons spent inside its walls. In the end, the council voted to restore it rather than tear it down. The library reopened two years later, its bones unchanged but its future secured. It stood not just as a building, but as evidence that what is built with care and intention outlasts every passing trend.",
+    "topicTag": "preservation",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "시간이라는 시험을 견뎌낸다는 뜻으로, 오랜 세월이 지나도 가치나 품질이 변하지 않음을 의미합니다.",
+    "realUsageKo": "주로 관계, 예술 작품, 아이디어, 건축물 등이 세월이 흘러도 여전히 유효하거나 훌륭하다고 평가받을 때 사용합니다. '시대를 초월하다', '세월을 견뎌낸다'는 의미로 자주 쓰입니다.",
+    "etymologyKo": "'test'는 라틴어 'testum'(도가니, 시험 용기)에서 유래하였으며, 금속을 불로 검증하듯 무언가를 검증한다는 뜻이 담겨 있습니다. 오래전부터 내구성과 가치를 평가하는 은유로 사용되어 왔습니다.",
+    "nuanceKo": "단순히 '오래됐다'는 의미가 아니라 시간의 검증을 통과했다는 긍정적인 뉘앙스가 강합니다. 칭찬이나 존중의 맥락에서 주로 사용되며, 유행을 넘어선 보편적 가치를 강조할 때 효과적입니다.",
+    "shortExampleEn": "Shakespeare's plays have stood the test of time and are still performed around the world.",
+    "shortExampleKo": "셰익스피어의 희곡은 시간의 시험을 견뎌내어 지금도 전 세계에서 공연되고 있습니다."
+  }
+}

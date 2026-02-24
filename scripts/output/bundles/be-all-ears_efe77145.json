@@ -1,0 +1,30 @@
+{
+  "id": "be-all-ears_efe77145",
+  "expression": "be all ears",
+  "selectionMeta": {
+    "selectedPhrase": "be all ears",
+    "selectedSenseLabelKo": "귀를 기울이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Go ahead and tell me what happened — I'm all ears."
+  },
+  "step2": {
+    "story": "Mia finally gathered the courage to share her business idea with her mentor. 'Tell me everything,' her mentor said, leaning forward. 'I'm all ears.' Encouraged by his attention, Mia laid out her plan with confidence.",
+    "topicTag": "mentorship",
+    "moodTag": "encouraging"
+  },
+  "step3": {
+    "story": "After weeks of keeping her worries to herself, Dana sat down with her best friend at their favorite café. 'Something's been on your mind,' her friend said softly. 'I can tell. I'm all ears whenever you're ready.' Dana took a long breath and felt the knot in her chest loosen just a little. She began to talk — slowly at first, then in a rush — and her friend listened without interrupting once. By the time they left the café, Dana felt lighter than she had in weeks.",
+    "topicTag": "friendship",
+    "moodTag": "warm"
+  },
+  "meaning": {
+    "literalMeaningKo": "온통 귀가 되다, 즉 귀만 있는 상태.",
+    "realUsageKo": "상대방의 말을 매우 열심히 들을 준비가 되어 있다는 뜻으로, 주의를 집중해서 경청하겠다는 의지를 나타낼 때 사용한다.",
+    "etymologyKo": "18세기 영어에서 유래한 표현으로, 온몸이 귀가 된 것처럼 집중해서 듣는다는 의미의 과장법적 표현에서 비롯되었다.",
+    "nuanceKo": "친근하고 따뜻한 어조를 띠며, 상대방이 편하게 말할 수 있도록 적극적으로 경청하겠다는 신호를 줄 때 자연스럽게 쓰인다.",
+    "shortExampleEn": "If you want to talk about it, I'm all ears.",
+    "shortExampleKo": "얘기하고 싶으면 기꺼이 들을게."
+  }
+}

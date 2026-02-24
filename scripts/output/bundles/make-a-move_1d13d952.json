@@ -1,0 +1,30 @@
+{
+  "id": "make-a-move_1d13d952",
+  "expression": "make a move",
+  "selectionMeta": {
+    "selectedPhrase": "make a move",
+    "selectedSenseLabelKo": "행동을 취하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "If you want to get that promotion, you need to make a move and talk to your manager soon."
+  },
+  "step2": {
+    "story": "She had been hesitating for weeks, but she finally decided to make a move and apply for the position abroad. The moment she submitted the application, a wave of relief washed over her.",
+    "topicTag": "career decision",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "For months, Daniel had watched the startup opportunity sit on the table, unsure if the timing was right. His mentor kept telling him that the market wouldn't wait forever. One morning, after a sleepless night of weighing the risks, he decided it was time to make a move. He called the founding team, accepted the offer, and handed in his resignation by noon. The uncertainty still lingered, but so did the unmistakable feeling that he had finally stopped standing still.",
+    "topicTag": "career leap",
+    "moodTag": "resolute"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '움직임을 만들다', 즉 몸을 움직이거나 자리를 옮기는 행위를 가리킨다.",
+    "realUsageKo": "실제로는 어떤 상황에서 결정을 내리고 구체적인 행동을 취하는 것을 의미하며, 특히 더 이상 망설이지 않고 첫 발을 내딛을 때 사용한다.",
+    "etymologyKo": "'move'는 라틴어 'movere(움직이다)'에서 유래했으며, 체스 등 게임에서 말을 옮기는 '수(手)'를 뜻하다가 비유적으로 일반적인 행동·조치를 가리키는 표현으로 확장되었다.",
+    "nuanceKo": "결단력이나 적극성을 강조하는 뉘앙스가 있으며, 타이밍이 중요한 상황에서 '지금 행동해야 한다'는 압박감과 함께 자주 쓰인다.",
+    "shortExampleEn": "We've been talking about this long enough — it's time to make a move.",
+    "shortExampleKo": "우리 이 얘기 충분히 했어. 이제 행동에 나설 때야."
+  }
+}

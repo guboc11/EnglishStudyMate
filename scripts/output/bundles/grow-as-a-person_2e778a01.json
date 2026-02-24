@@ -1,0 +1,30 @@
+{
+  "id": "grow-as-a-person_2e778a01",
+  "expression": "grow as a person",
+  "selectionMeta": {
+    "selectedPhrase": "grow as a person",
+    "selectedSenseLabelKo": "인간적으로 성장하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Living abroad for a year forced me to grow as a person in ways I never expected."
+  },
+  "step2": {
+    "story": "After losing her job, Maya decided to volunteer at a local shelter instead of rushing into a new position. The experience was humbling, and she quickly began to grow as a person through the relationships she built there. By the time she returned to the workforce, her perspective on success had completely changed.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Daniel had always played it safe—same routines, same friends, same comfortable life. When his mentor challenged him to take on a project far beyond his skill level, he nearly refused. But something pushed him forward, and over the following months he made countless mistakes, asked for help, and learned to sit with discomfort. Slowly, he started to grow as a person in a way that no promotion or award had ever made him feel. He became more patient, more curious, and more willing to listen. Looking back, he realized that the project's outcome mattered far less than who he had become in the process.",
+    "topicTag": "self-development",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "한 사람으로서 성장한다는 뜻으로, 인격·가치관·감성 등이 더 성숙해지는 것을 의미한다.",
+    "realUsageKo": "주로 도전적인 경험이나 어려움을 겪은 후 내면적으로 더 성숙해졌음을 표현할 때 쓰인다. '그 경험이 나를 인간적으로 성장하게 했다'처럼 자기 성찰과 함께 사용되는 경우가 많다.",
+    "etymologyKo": "'grow'는 고대 영어 'growan(자라다)'에서 유래하며, 'as a person'은 단순한 기술 습득이 아닌 존재 자체의 변화를 강조하는 표현이다.",
+    "nuanceKo": "단순한 능력 향상이 아니라 인격·공감 능력·가치관 등 내면적 성숙을 가리킨다. 다소 진지하고 성찰적인 맥락에서 자주 쓰이며, 긍정적이고 따뜻한 어감을 지닌다.",
+    "shortExampleEn": "Traveling solo taught me to grow as a person and trust my own judgment.",
+    "shortExampleKo": "혼자 여행하면서 나는 인간적으로 성장하고 스스로의 판단을 믿는 법을 배웠다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "chart-a-course_44386d70",
+  "expression": "chart a course",
+  "selectionMeta": {
+    "selectedPhrase": "chart a course",
+    "selectedSenseLabelKo": "방향을 정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of uncertainty, the team finally sat down together to chart a course for the company's future."
+  },
+  "step2": {
+    "story": "Maya stared at the whiteboard covered in sticky notes and arrows. She had to chart a course through the chaos if her startup was going to survive the next quarter. Taking a deep breath, she picked up a marker and drew a single clear line from where they were to where they needed to be.",
+    "topicTag": "career planning",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The mountain rescue team gathered around a topographic map spread across the hood of their truck, headlamps cutting through the pre-dawn darkness. Their leader, an experienced guide named Torres, traced possible routes with his finger, weighing each against the worsening weather reports. 'We need to chart a course that keeps us off the exposed ridgeline,' he said, circling a lower valley path. The team debated quietly, knowing that the decision they made in the next few minutes would shape everything that followed. When they finally agreed on a route, a collective calm settled over the group — not because the path ahead was easy, but because they had a direction. They shouldered their packs and moved out into the dark, trusting the course they had charted together.",
+    "topicTag": "teamwork under pressure",
+    "moodTag": "focused"
+  },
+  "meaning": {
+    "literalMeaningKo": "글자 그대로는 항해사가 지도에 항로를 그려 넣는 행위를 뜻한다.",
+    "realUsageKo": "실제로는 목표를 향한 구체적인 계획이나 방향을 정하는 것을 의미하며, 비즈니스·커리어·인생 등 다양한 상황에서 쓰인다.",
+    "etymologyKo": "'chart'는 라틴어 'charta(종이, 지도)'에서 유래했으며, 항해 시대에 선원들이 지도에 항로를 직접 표시하던 관습에서 비롯된 표현이다.",
+    "nuanceKo": "단순히 계획을 세운다는 것 이상으로, 불확실하거나 복잡한 상황에서 능동적으로 방향을 결정한다는 진취적이고 주도적인 뉘앙스를 담고 있다.",
+    "shortExampleEn": "The new CEO was hired to chart a course out of the company's financial crisis.",
+    "shortExampleKo": "신임 CEO는 회사의 재정 위기를 벗어날 방향을 정하기 위해 고용되었다."
+  }
+}

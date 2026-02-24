@@ -1,0 +1,30 @@
+{
+  "id": "have-trouble-sleeping_164b6084",
+  "expression": "have trouble sleeping",
+  "selectionMeta": {
+    "selectedPhrase": "have trouble sleeping",
+    "selectedSenseLabelKo": "잠을 자는 데 어려움이 있다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She has been having trouble sleeping ever since she started working the night shift."
+  },
+  "step2": {
+    "story": "Mark had trouble sleeping the night before his big presentation. He kept replaying his slides in his head, worrying about every detail. By morning, he was exhausted but somehow still managed to nail it.",
+    "topicTag": "work stress",
+    "moodTag": "anxious"
+  },
+  "step3": {
+    "story": "Ever since moving to the city, Jess had trouble sleeping through the noise of traffic and sirens. She tried earplugs, white noise machines, and even herbal tea, but nothing seemed to help. Her doctor suggested that her phone use before bed might be making things worse. Reluctantly, she started leaving her phone in the kitchen at night. Within a week, she finally began to drift off without lying awake for hours, and mornings felt a little less like a battle.",
+    "topicTag": "sleep habits",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "잠을 자는 것에 어려움을 겪다.",
+    "realUsageKo": "수면에 문제가 있거나 잠을 잘 이루지 못하는 상황을 설명할 때 사용한다. 스트레스, 걱정, 건강 문제 등 다양한 원인과 함께 쓰인다.",
+    "etymologyKo": "'have trouble + ~ing'는 '~하는 데 어려움을 겪다'를 뜻하는 고정 구문으로, 'trouble'이 '어려움·곤란'을 의미하는 명사로 쓰인다.",
+    "nuanceKo": "일시적인 상황이나 만성적인 상태 모두에 쓸 수 있으며, 중립적인 어조로 불편함을 완곡하게 표현한다. 병원 상담이나 일상 대화 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "I've been having trouble sleeping lately because of all the noise outside.",
+    "shortExampleKo": "요즘 밖에서 나는 소음 때문에 잠을 자는 데 어려움이 있어요."
+  }
+}

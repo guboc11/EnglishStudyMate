@@ -1,0 +1,30 @@
+{
+  "id": "show-your-true-colors_ef40da24",
+  "expression": "show your true colors",
+  "selectionMeta": {
+    "selectedPhrase": "show your true colors",
+    "selectedSenseLabelKo": "본색을 드러내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It wasn't until the deal fell through that he finally showed his true colors and blamed everyone else for the failure."
+  },
+  "step2": {
+    "story": "Everyone loved Marcus when times were good, but the moment the project hit a crisis, he showed his true colors. He pointed fingers, withheld information, and disappeared when the team needed him most.",
+    "topicTag": "workplace conflict",
+    "moodTag": "disillusioned"
+  },
+  "step3": {
+    "story": "Sara had always thought her business partner was someone she could trust, no matter what. They had built the company together from nothing, sharing late nights and tough decisions. But when a larger firm offered to buy them out, he showed his true colors — pushing for a deal that would cut Sara out entirely. He had been quietly negotiating behind her back for months, treating their partnership as nothing more than a stepping stone. The betrayal stung more than any failed deal ever could. Sara walked away from both the acquisition and the partnership, wiser about who she chose to build with next.",
+    "topicTag": "betrayal in business",
+    "moodTag": "bitter"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '자신의 진짜 색깔을 보여주다'라는 뜻이다.",
+    "realUsageKo": "실제로는 평소에 숨겨왔던 본래의 성격이나 의도를 드러낼 때 사용하며, 주로 부정적인 맥락에서 쓰인다.",
+    "etymologyKo": "전쟁이나 항해에서 배가 적군 혹은 아군의 깃발(colors)을 올려 정체를 밝히던 관습에서 유래했으며, 16~17세기 영어에서 정착된 표현이다.",
+    "nuanceKo": "주로 기대를 배신하거나 감추었던 나쁜 면이 드러날 때 쓰여 실망·배신감의 뉘앙스를 담는다. 긍정적 의미로도 쓸 수 있으나 훨씬 드물다.",
+    "shortExampleEn": "She showed her true colors when she took credit for the whole team's work.",
+    "shortExampleKo": "그녀는 팀 전체의 성과를 혼자 가로채면서 본색을 드러냈다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "calm-your-nerves_9457809e",
+  "expression": "calm your nerves",
+  "selectionMeta": {
+    "selectedPhrase": "calm your nerves",
+    "selectedSenseLabelKo": "긴장을 가라앉히다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She took a few deep breaths before walking on stage to calm her nerves."
+  },
+  "step2": {
+    "story": "Daniel had been pacing his office for an hour before the big client presentation. He stepped outside for some fresh air to calm his nerves, repeating his key points quietly to himself. By the time he walked back in, he felt steady and ready.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Mia stood backstage, her heart pounding as she heard the crowd filling the auditorium. It was her first solo violin recital, and every mistake she had ever made seemed to replay in her mind at once. Her teacher appeared beside her and handed her a cup of warm chamomile tea. 'Drink this — it'll calm your nerves,' she said with a reassuring smile. Mia took a slow sip, focused on her breathing, and let the warmth spread through her chest. When her name was finally called, she walked out into the light feeling grounded and prepared.",
+    "topicTag": "performance anxiety",
+    "moodTag": "reassured"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '신경을 진정시키다'라는 뜻으로, 불안하거나 긴장된 상태를 가라앉힌다는 의미입니다.",
+    "realUsageKo": "중요한 발표, 시험, 공연 등을 앞두고 느끼는 긴장감이나 불안감을 줄이기 위한 행동을 묘사할 때 사용됩니다. 심호흡, 음악 듣기, 산책 등 다양한 방법과 함께 쓰입니다.",
+    "etymologyKo": "'nerve'는 라틴어 'nervus(힘줄, 신경)'에서 유래했으며, 복수형 'nerves'는 19세기부터 '불안감, 초조함'을 뜻하는 관용적 의미로 쓰이기 시작했습니다.",
+    "nuanceKo": "불안이나 긴장이 과도하게 쌓인 상황에서 의도적으로 마음을 안정시키려는 노력을 강조하는 표현으로, 위로하거나 조언할 때 자주 사용됩니다.",
+    "shortExampleEn": "Listening to music before the exam helped him calm his nerves.",
+    "shortExampleKo": "시험 전에 음악을 들으니 긴장이 가라앉는 데 도움이 됐다."
+  }
+}

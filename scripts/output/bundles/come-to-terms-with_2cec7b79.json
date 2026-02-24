@@ -1,0 +1,30 @@
+{
+  "id": "come-to-terms-with_2cec7b79",
+  "expression": "come to terms with",
+  "selectionMeta": {
+    "selectedPhrase": "come to terms with",
+    "selectedSenseLabelKo": "받아들이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of grief, she finally began to come to terms with the loss of her father."
+  },
+  "step2": {
+    "story": "Marcus had struggled for years to come to terms with his failed business. One evening, while walking along the river, he realized the experience had made him wiser and more resilient. He stopped fighting the past and started planning his future.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Elena stared at the acceptance letter from her dream university, then at the rejection letter beside it. She had spent the entire summer unable to come to terms with the fact that she hadn't gotten in. Her friends tried to comfort her, pointing out all the other doors still open to her. Slowly, through long conversations and quiet moments of self-reflection, she began to come to terms with the disappointment. She enrolled at her second-choice school with a cautious sense of hope. By the end of her first semester, she realized it had been the right place for her all along.",
+    "topicTag": "life choices",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가와 '조건을 맞추다'는 뜻으로, 현실과 타협점을 찾는다는 의미입니다.",
+    "realUsageKo": "힘든 현실이나 불편한 진실을 감정적으로 받아들이고 마음의 평화를 찾는 과정을 표현할 때 씁니다. 주로 상실, 실패, 변화 등 부정적인 상황을 수용할 때 사용됩니다.",
+    "etymologyKo": "'terms'는 원래 계약이나 협상의 '조건'을 뜻하는 말로, 16세기부터 쓰였습니다. '조건에 합의하다'는 의미가 확장되어 '현실을 인정하고 받아들이다'는 뜻이 되었습니다.",
+    "nuanceKo": "단순히 포기하는 것이 아니라 내면의 저항을 극복하고 능동적으로 수용하는 뉘앙스가 담겨 있습니다. 감정적 과정이 전제되므로 가벼운 상황보다는 깊은 고민이 필요한 상황에 어울립니다.",
+    "shortExampleEn": "He had to come to terms with the fact that his career as an athlete was over.",
+    "shortExampleKo": "그는 선수 생활이 끝났다는 사실을 받아들여야 했다."
+  }
+}

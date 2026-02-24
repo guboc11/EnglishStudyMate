@@ -1,0 +1,30 @@
+{
+  "id": "act-on-instinct_5966cc22",
+  "expression": "act on instinct",
+  "selectionMeta": {
+    "selectedPhrase": "act on instinct",
+    "selectedSenseLabelKo": "직감대로 행동하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Without time to analyze the situation, she decided to act on instinct and pulled the child away from the street."
+  },
+  "step2": {
+    "story": "The negotiator had no script for this moment. He chose to act on instinct, softening his voice and asking the man on the ledge about his daughter. Slowly, the man stepped back.",
+    "topicTag": "crisis decision",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Maya had spent years training for high-stakes situations, but nothing fully prepared her for the moment the alarm went silent and the lights cut out. Her team looked to her, waiting. She didn't consult the manual or run through protocols — she simply acted on instinct, barking clear orders and moving toward the source of the problem. Later, her supervisor asked how she had known what to do. Maya paused, then shrugged. 'I stopped thinking and just trusted what felt right,' she said. Sometimes, instinct is the fastest path to the right answer.",
+    "topicTag": "emergency response",
+    "moodTag": "decisive"
+  },
+  "meaning": {
+    "literalMeaningKo": "본능에 따라 행동하다, 즉 논리적 분석 없이 직감이 이끄는 대로 행동하다.",
+    "realUsageKo": "위기 상황이나 시간이 촉박할 때 논리적 판단 없이 직관적으로 빠르게 행동하는 것을 묘사할 때 사용한다. 긍정적인 결과와 함께 쓰이는 경우가 많다.",
+    "etymologyKo": "'instinct'는 라틴어 'instinctus(충동, 자극)'에서 유래했으며, 'instigare(부추기다)'와 연관된다. 즉 외부 자극이 아닌 내면의 충동에 따라 움직인다는 의미를 담고 있다.",
+    "nuanceKo": "신중한 분석보다 직관을 믿는 용기 있는 행동을 암시하며, 대개 긍정적이거나 중립적인 뉘앙스를 가진다. 경험에서 우러난 직관을 강조할 때 특히 잘 어울린다.",
+    "shortExampleEn": "He didn't overthink it — he acted on instinct and made the save.",
+    "shortExampleKo": "그는 과도하게 생각하지 않았다. 직감대로 행동해서 막아냈다."
+  }
+}

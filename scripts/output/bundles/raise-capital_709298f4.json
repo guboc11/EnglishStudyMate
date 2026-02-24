@@ -1,0 +1,30 @@
+{
+  "id": "raise-capital_709298f4",
+  "expression": "raise capital",
+  "selectionMeta": {
+    "selectedPhrase": "raise capital",
+    "selectedSenseLabelKo": "자본을 조달하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup founder traveled to Silicon Valley to raise capital from venture investors who believed in her vision."
+  },
+  "step2": {
+    "story": "After months of refining his business plan, Marcus finally felt ready to raise capital for his tech startup. He pitched to a dozen investors, and by the end of the week, he had secured enough funding to launch.",
+    "topicTag": "startup funding",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had spent two years building her renewable energy company from the ground up, but growth had stalled without enough cash to scale operations. She knew the only way forward was to raise capital, so she spent weeks preparing a compelling pitch deck and financial projections. The conference room was filled with skeptical venture capitalists, but Elena walked them through every detail with quiet confidence. When she finished, the lead investor leaned forward and said they were in. With the new funding secured, Elena finally had the resources to turn her small pilot project into a nationwide solution.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "자본(capital)을 끌어올리다(raise), 즉 사업 운영에 필요한 자금을 외부로부터 모으는 것을 의미한다.",
+    "realUsageKo": "스타트업이나 기업이 투자자, 은행, 주식 발행 등을 통해 사업 자금을 확보할 때 주로 사용된다. 공식적인 비즈니스 맥락에서 자주 쓰이는 표현이다.",
+    "etymologyKo": "'raise'는 고대 노르드어 'reisa(세우다, 들어올리다)'에서 유래했으며, 'capital'은 라틴어 'capitalis(머리, 주된 것)'에서 비롯되어 핵심 자산인 자금을 뜻하게 되었다.",
+    "nuanceKo": "단순히 돈을 빌린다는 의미보다는 투자 유치나 자금 조달이라는 능동적·전략적 뉘앙스가 강하며, 주로 규모 있는 비즈니스 맥락에서 사용된다.",
+    "shortExampleEn": "The company plans to raise capital through a public stock offering next quarter.",
+    "shortExampleKo": "그 회사는 다음 분기에 공개 주식 발행을 통해 자본을 조달할 계획이다."
+  }
+}

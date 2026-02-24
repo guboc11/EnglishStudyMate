@@ -1,0 +1,30 @@
+{
+  "id": "feel-under-the-weather_5893cdf4",
+  "expression": "feel under the weather",
+  "selectionMeta": {
+    "selectedPhrase": "feel under the weather",
+    "selectedSenseLabelKo": "몸이 좋지 않다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "She decided to stay home from work because she was feeling under the weather and didn't want to spread her cold to her colleagues."
+  },
+  "step2": {
+    "story": "Tom woke up with a sore throat and a heavy head, feeling completely under the weather. He texted his gym buddy to cancel their morning workout and went back to bed with a hot cup of tea.",
+    "topicTag": "health",
+    "moodTag": "gloomy"
+  },
+  "step3": {
+    "story": "Maya had been looking forward to the weekend hiking trip for weeks, but on Friday morning she woke up feeling under the weather — her nose was stuffy, her body ached, and every step felt like an effort. She called her friend to apologize and promised to make it up next time. Wrapped in a blanket on the couch, she sipped warm soup and watched the rain streak down the window. By Sunday evening, after plenty of rest and fluids, she finally started to feel like herself again.",
+    "topicTag": "recovery",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "날씨 아래에 있다는 뜻으로, 어딘가 불편하고 컨디션이 좋지 않은 상태를 가리킨다.",
+    "realUsageKo": "몸이 좀 안 좋거나 기운이 없을 때 사용하며, 심각한 병보다는 감기 기운이나 피로감처럼 가벼운 불쾌감을 표현할 때 주로 쓴다.",
+    "etymologyKo": "항해 시대에 배가 폭풍을 만나면 선원들이 갑판 아래로 내려가 쉬었는데, 이때 '날씨 아래(under the weather)' 있다는 표현이 몸이 좋지 않다는 의미로 발전했다.",
+    "nuanceKo": "가볍고 일상적인 표현으로, 심각한 병보다는 일시적으로 컨디션이 떨어진 상황에 어울리며 격식과 비격식 모두에서 자연스럽게 사용된다.",
+    "shortExampleEn": "I'm feeling a bit under the weather today, so I'll skip the party.",
+    "shortExampleKo": "오늘 몸이 좀 안 좋아서 파티는 빠질게."
+  }
+}

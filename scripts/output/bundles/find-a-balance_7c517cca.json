@@ -1,0 +1,30 @@
+{
+  "id": "find-a-balance_7c517cca",
+  "expression": "find a balance",
+  "selectionMeta": {
+    "selectedPhrase": "find a balance",
+    "selectedSenseLabelKo": "균형을 찾다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She realized she needed to find a balance between her demanding career and her personal life."
+  },
+  "step2": {
+    "story": "After months of working late every night, Daniel finally decided to find a balance between his job and his health. He started leaving the office on time and spending evenings at the gym. Slowly, he felt more energized and focused than ever before.",
+    "topicTag": "work-life balance",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had always been the type to give everything she had to whatever she was doing — when she worked, she worked obsessively, and when she rested, she felt guilty. Her therapist gently pointed out that she needed to find a balance, not just between work and rest, but between ambition and self-compassion. It wasn't easy at first; Maya kept slipping back into old habits, staying up too late or skipping meals to finish one more task. But over time, she started setting small boundaries: a firm cutoff time for emails, a weekly dinner with friends, a morning walk before sitting at her desk. Gradually, she found that finding a balance didn't mean doing less — it meant sustaining her energy so she could keep going without burning out.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "두 가지 이상의 상충되는 요소 사이에서 적절한 균형점을 찾아내다.",
+    "realUsageKo": "일과 삶, 자유와 책임처럼 서로 상반되는 두 가지를 모두 충족시키는 적당한 지점을 찾는다는 의미로 사용됩니다. 주로 과도함이나 부족함 없이 균형 잡힌 상태를 추구할 때 씁니다.",
+    "etymologyKo": "'balance'는 라틴어 'bilanx'(저울 두 접시)에서 유래했으며, 두 무게가 동등하게 맞춰지는 상태를 뜻합니다. 'find'와 결합해 그 균형점을 능동적으로 찾아가는 행위를 표현합니다.",
+    "nuanceKo": "단순히 균형을 '유지'하는 것이 아니라 노력을 통해 '찾아내는' 과정에 초점이 있습니다. 어려움을 인정하면서도 해결 의지를 내포하는 긍정적인 뉘앙스를 지닙니다.",
+    "shortExampleEn": "Parents often struggle to find a balance between setting rules and giving their children freedom.",
+    "shortExampleKo": "부모들은 규칙을 세우는 것과 아이들에게 자유를 주는 것 사이에서 균형을 찾으려 종종 고심합니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a-penny-saved-is-a-penny-earned_7086143a",
+  "expression": "a penny saved is a penny earned",
+  "selectionMeta": {
+    "selectedPhrase": "a penny saved is a penny earned",
+    "selectedSenseLabelKo": "절약이 곧 저축이다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My grandfather always reminded me that a penny saved is a penny earned whenever I wanted to splurge on things I didn't need."
+  },
+  "step2": {
+    "story": "Lisa started packing her own lunch instead of eating out every day. Her coworkers teased her at first, but she just smiled and said, 'A penny saved is a penny earned.' By the end of the year, she had enough saved for a trip to Europe.",
+    "topicTag": "personal finance",
+    "moodTag": "practical"
+  },
+  "step3": {
+    "story": "When Daniel got his first paycheck, he felt the urge to buy the latest smartphone and new clothes all at once. His older sister sat him down and told him about how she had struggled with debt in her twenties. 'A penny saved is a penny earned,' she said firmly, sliding a simple budget notebook across the table. Daniel looked at the numbers and realized that even small daily savings could add up to something real over time. He put half the phone money into a savings account and felt unexpectedly proud of himself. That conversation changed the way he thought about money for good.",
+    "topicTag": "financial habits",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "절약한 1페니는 버는 1페니와 같다.",
+    "realUsageKo": "돈을 아끼는 것이 돈을 버는 것만큼 가치 있다는 의미로, 불필요한 지출을 줄이고 절약하는 태도를 권장할 때 사용한다.",
+    "etymologyKo": "17세기 영국 속담에서 유래했으며, 벤저민 프랭클린이 자신의 격언집 '가난한 리처드의 연감'에서 이 표현을 대중화시키면서 널리 알려졌다.",
+    "nuanceKo": "조언이나 교훈을 전달할 때 사용되는 다소 고풍스러운 표현으로, 어른이 젊은 세대에게 재정적 지혜를 전할 때 자주 쓰이며 긍정적이고 실용적인 뉘앙스를 가진다.",
+    "shortExampleEn": "Instead of buying coffee every morning, she makes her own at home — a penny saved is a penny earned.",
+    "shortExampleKo": "그녀는 매일 아침 커피를 사 마시는 대신 집에서 직접 만들어 마신다 — 절약이 곧 저축이니까."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "yield-results_fd6b6f14",
+  "expression": "yield results",
+  "selectionMeta": {
+    "selectedPhrase": "yield results",
+    "selectedSenseLabelKo": "결과를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Consistent daily practice will eventually yield results, even when progress feels slow at first."
+  },
+  "step2": {
+    "story": "Maya had been training for months without seeing much improvement. One morning, her coach reminded her that hard work always yields results if you stay patient. That week, she finally broke her personal record.",
+    "topicTag": "personal growth",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "After six months of quiet research, Dr. Patel's team was beginning to doubt their approach. The experiments had been carefully designed, the data meticulously recorded, yet nothing seemed to yield results. One late evening, a junior researcher noticed an anomaly in the data that everyone else had overlooked. They adjusted a single variable and ran the trial again. By morning, the results were undeniable — their method worked. Years of persistent effort had finally paid off, proving that patience and rigor could yield results where others had given up.",
+    "topicTag": "scientific research",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "노력이나 행동이 결과나 성과를 만들어내다.",
+    "realUsageKo": "주로 노력·전략·연구 등이 기대한 성과나 효과를 낼 때 사용하며, 긍정적인 결과를 강조하는 맥락에서 자주 쓰입니다.",
+    "etymologyKo": "'yield'는 고대 영어 'gieldan(보답하다, 생산하다)'에서 유래했으며, 농업에서 수확물을 내다는 의미에서 발전해 '성과를 내다'는 뜻으로 확장되었습니다.",
+    "nuanceKo": "단순히 '결과가 나왔다'는 사실보다 노력이나 과정의 가치를 내포하며, 격식체 및 비즈니스·학술 문맥에서 자주 사용됩니다.",
+    "shortExampleEn": "The new marketing strategy finally began to yield results after three months.",
+    "shortExampleKo": "새 마케팅 전략이 3개월 만에 드디어 결과를 내기 시작했다."
+  }
+}

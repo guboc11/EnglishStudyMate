@@ -1,0 +1,30 @@
+{
+  "id": "hit-rock-bottom_79294645",
+  "expression": "hit rock bottom",
+  "selectionMeta": {
+    "selectedPhrase": "hit rock bottom",
+    "selectedSenseLabelKo": "바닥을 치다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After losing his job and his apartment in the same week, Marcus felt he had finally hit rock bottom."
+  },
+  "step2": {
+    "story": "After months of gambling, Daniel hit rock bottom when he couldn't afford groceries. Sitting alone in his empty apartment, he finally admitted he needed help. That night, he called a recovery hotline for the first time.",
+    "topicTag": "personal struggle",
+    "moodTag": "desperate"
+  },
+  "step3": {
+    "story": "For two years, Elena had watched her life slowly unravel—first her marriage, then her career, and finally her health. The morning she hit rock bottom, she woke up on a park bench with no memory of how she'd gotten there. She stared at her reflection in a puddle and barely recognized the person looking back at her. Something shifted inside her in that moment, a quiet but fierce determination she hadn't felt in years. She called her sister, the first honest call she'd made in a long time, and said three words: 'I need help.' That phone call became the first step of a long, painful, and ultimately remarkable climb back.",
+    "topicTag": "recovery and resilience",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "단단한 바닥에 부딪히다.",
+    "realUsageKo": "인생에서 더 이상 나빠질 수 없을 정도로 최악의 상황에 처했을 때 사용한다. 주로 재정적, 정서적, 혹은 신체적 위기의 가장 낮은 지점을 표현할 때 쓰인다.",
+    "etymologyKo": "'rock bottom'은 원래 광산이나 강바닥의 '암반층', 즉 더 이상 내려갈 수 없는 최저 지층을 의미한다. 19세기부터 '최저 가격'이나 '최저점'의 비유적 표현으로 쓰이기 시작했다.",
+    "nuanceKo": "단순히 힘든 상황이 아닌 절대적 최저점을 강조한다. 부정적인 뉘앙스가 강하지만, 종종 '바닥을 찍어야 올라올 수 있다'는 회복의 전환점으로 쓰이기도 한다.",
+    "shortExampleEn": "She hit rock bottom before finally deciding to seek professional help.",
+    "shortExampleKo": "그녀는 바닥을 친 후에야 전문적인 도움을 받기로 결심했다."
+  }
+}

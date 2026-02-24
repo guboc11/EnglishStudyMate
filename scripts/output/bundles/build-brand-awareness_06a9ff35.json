@@ -1,0 +1,30 @@
+{
+  "id": "build-brand-awareness_06a9ff35",
+  "expression": "build brand awareness",
+  "selectionMeta": {
+    "selectedPhrase": "build brand awareness",
+    "selectedSenseLabelKo": "브랜드 인지도를 높이다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup launched a social media campaign to build brand awareness among younger consumers."
+  },
+  "step2": {
+    "story": "After months of hard work, the small coffee shop decided to partner with local influencers to build brand awareness in the neighborhood. Within weeks, their logo was appearing on feeds across the city, and new customers started pouring in every day.",
+    "topicTag": "marketing strategy",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maya had poured her savings into launching an organic skincare line, but without a big advertising budget, she worried no one would ever hear of it. She decided the best way to build brand awareness was to start small — sending samples to micro-influencers and attending weekend farmers' markets. Slowly, genuine reviews began to spread online, and her brand's name started coming up in conversations she wasn't even part of. Local boutiques reached out asking to stock her products, and a regional magazine featured her story. What began as a grassroots effort had grown into a recognizable name that customers actively sought out and recommended to friends.",
+    "topicTag": "entrepreneurship",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "브랜드에 대한 인식이나 인지도를 쌓아 올리다.",
+    "realUsageKo": "소비자들이 특정 브랜드를 알고 기억하도록 마케팅 활동을 통해 노출을 높이는 행위를 가리킨다. 광고, SNS, 이벤트 등 다양한 채널을 활용할 때 자주 쓰인다.",
+    "etymologyKo": "'Build'는 '쌓다·구축하다'는 뜻의 고대 영어 'byldan'에서 유래했으며, 'brand'는 가축에 낙인을 찍던 것에서 비롯해 상품 식별 표시로 의미가 확장됐다. 'Awareness'는 '알아차림'을 뜻하는 'aware'에 명사형 접미사 '-ness'를 붙인 단어다.",
+    "nuanceKo": "단기 판매 촉진보다는 장기적인 브랜드 이미지 구축에 초점을 맞출 때 사용하며, 스타트업·신제품 론칭·비영리 캠페인 등 인지도가 낮은 상황에서 특히 자주 등장한다.",
+    "shortExampleEn": "They used podcasts and community events to build brand awareness without a large budget.",
+    "shortExampleKo": "그들은 큰 예산 없이 팟캐스트와 지역 행사를 활용해 브랜드 인지도를 높였다."
+  }
+}

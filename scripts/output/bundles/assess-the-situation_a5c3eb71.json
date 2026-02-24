@@ -1,0 +1,30 @@
+{
+  "id": "assess-the-situation_a5c3eb71",
+  "expression": "assess the situation",
+  "selectionMeta": {
+    "selectedPhrase": "assess the situation",
+    "selectedSenseLabelKo": "상황을 평가하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before making any decisions, the team leader paused to assess the situation and gather all the relevant facts."
+  },
+  "step2": {
+    "story": "The fire alarm went off in the middle of the office. Sarah stayed calm and took a moment to assess the situation before guiding her colleagues to the nearest exit. Her quick thinking prevented any panic.",
+    "topicTag": "workplace emergency",
+    "moodTag": "calm and focused"
+  },
+  "step3": {
+    "story": "When Marcus arrived at the scene of the accident, he resisted the urge to act immediately. Instead, he took a deep breath and began to assess the situation methodically—checking for injured people, looking for hazards, and estimating how many bystanders were present. Only once he had a clear picture did he start calling for help and directing others. His training had taught him that a few seconds spent assessing could prevent far greater mistakes down the line. The other volunteers watched him and followed his lead, each one learning the value of pausing before acting.",
+    "topicTag": "emergency response",
+    "moodTag": "composed and deliberate"
+  },
+  "meaning": {
+    "literalMeaningKo": "주어진 상황을 주의 깊게 살펴보고 판단하다.",
+    "realUsageKo": "위기나 불확실한 상황에서 행동하기 전에 현재 상태를 파악하고 평가할 때 사용한다. 직장, 긴급 상황, 일상적인 의사결정 등 다양한 맥락에서 쓰인다.",
+    "etymologyKo": "'assess'는 라틴어 'assidere(옆에 앉아 판단하다)'에서 유래했으며, 중세 영어에서 세금 평가 등에 사용되다가 점차 '상황이나 가치를 판단하다'는 의미로 확장되었다.",
+    "nuanceKo": "단순히 '보다'보다 더 신중하고 분석적인 뉘앙스를 가진다. 충동적으로 반응하는 대신 이성적으로 판단하는 침착함을 내포한다.",
+    "shortExampleEn": "The manager needed a few minutes to assess the situation before responding to the client's complaint.",
+    "shortExampleKo": "매니저는 고객의 불만에 응답하기 전에 상황을 평가할 시간이 몇 분 필요했다."
+  }
+}

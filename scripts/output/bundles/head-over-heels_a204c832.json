@@ -1,0 +1,30 @@
+{
+  "id": "head-over-heels_a204c832",
+  "expression": "head over heels",
+  "selectionMeta": {
+    "selectedPhrase": "head over heels",
+    "selectedSenseLabelKo": "완전히 빠지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She fell head over heels for him the moment they met at the coffee shop."
+  },
+  "step2": {
+    "story": "Marcus had never expected to fall head over heels in love with someone he met at a used bookstore. He reached for the same worn copy of Gatsby, their fingers brushing, and something clicked. By the time they left together, laughing over shared favorites, he knew his life had quietly changed.",
+    "topicTag": "romance",
+    "moodTag": "enchanted"
+  },
+  "step3": {
+    "story": "Priya had always been skeptical of the idea of love at first sight — until she joined the community garden project on a whim. On her first morning there, she met Daniel, who was patiently teaching an elderly neighbor how to stake tomatoes. She found herself watching him more than she watched her own seedlings. Within weeks, she was volunteering every spare hour she had, and her friends noticed the glow she couldn't hide. She had fallen head over heels without ever deciding to, and for once, that felt like exactly the right thing.",
+    "topicTag": "unexpected love",
+    "moodTag": "warm and hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "머리가 발꿈치 위에 있다는 뜻으로, 물구나무를 선 상태처럼 뒤집힌 모습을 묘사한다.",
+    "realUsageKo": "주로 누군가에게 깊이 사랑에 빠졌을 때 사용하며, 감정이 너무 강렬해서 이성적인 판단이 어려울 정도임을 나타낸다. 'head over heels in love'의 형태로 자주 쓰인다.",
+    "etymologyKo": "원래 14세기 영어에서는 'heels over head'였으며, 완전히 뒤집히거나 구르는 동작을 의미했다. 18세기 이후 현재의 어순인 'head over heels'로 굳어지면서 '완전히 빠져든' 상태를 뜻하게 되었다.",
+    "nuanceKo": "긍정적이고 다소 낭만적인 뉘앙스를 가지며, 주로 사랑에 빠진 상황에 쓰이지만 어떤 일이나 취미에 열정적으로 빠져드는 경우에도 사용할 수 있다. 구어체에서 자연스럽게 쓰인다.",
+    "shortExampleEn": "He's head over heels about his new guitar — he hasn't put it down all week.",
+    "shortExampleKo": "그는 새 기타에 완전히 빠져서 일주일 내내 손에서 놓지 않고 있다."
+  }
+}

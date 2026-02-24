@@ -1,0 +1,30 @@
+{
+  "id": "measure-success_d2f5a520",
+  "expression": "measure success",
+  "selectionMeta": {
+    "selectedPhrase": "measure success",
+    "selectedSenseLabelKo": "성공을 측정하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "It's important to measure success not just by profit, but by the positive impact you have on others."
+  },
+  "step2": {
+    "story": "After a year of hard work, Lena finally paused to measure success in her new business. She realized the numbers were only part of the picture — the loyal customers and glowing reviews told a richer story.",
+    "topicTag": "personal growth",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Marcus had always measured success by the size of his paycheck, but a serious illness forced him to slow down and reconsider. Lying in a hospital bed, he thought about the relationships he had neglected and the experiences he had postponed. When he recovered, he decided to measure success differently — by the quality of his connections and the joy he found in everyday moments. He cut back his work hours, spent more time with his family, and started volunteering on weekends. By the time his annual review came around, his manager noticed something unexpected: his productivity had actually improved. Measuring success on his own terms had given Marcus a clarity and motivation he had never felt before.",
+    "topicTag": "work-life balance",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "성공을 수치나 기준으로 평가하고 측정한다는 뜻이다.",
+    "realUsageKo": "목표 달성 여부나 성과를 특정 기준에 따라 판단할 때 사용하며, 단순한 수량 측정뿐 아니라 가치 기준을 정의하는 맥락에서도 자주 쓰인다.",
+    "etymologyKo": "'measure'는 라틴어 'mensura(측정)'에서 유래했으며, 'success'는 라틴어 'successus(잘 따라옴, 좋은 결과)'에서 왔다. 두 단어의 결합은 '좋은 결과를 어떤 기준으로 판단하다'는 의미를 형성한다.",
+    "nuanceKo": "단순한 수치 계산보다는 '어떤 가치 기준으로 성공을 정의하고 평가하는가'라는 성찰적 뉘앙스를 띠는 경우가 많다. 비즈니스, 자기계발, 교육 등 다양한 분야에서 폭넓게 사용된다.",
+    "shortExampleEn": "How do you measure success in your career?",
+    "shortExampleKo": "당신은 커리어에서 성공을 어떻게 측정하나요?"
+  }
+}

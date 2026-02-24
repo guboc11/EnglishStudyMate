@@ -1,0 +1,30 @@
+{
+  "id": "live-by_eafbde1f",
+  "expression": "live by",
+  "selectionMeta": {
+    "selectedPhrase": "live by",
+    "selectedSenseLabelKo": "~에 따라 살다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She has always chosen to live by the principle that honesty, even when uncomfortable, builds the kind of trust that lasts a lifetime."
+  },
+  "step2": {
+    "story": "Marcus inherited his grandfather's old workshop along with a handwritten note that read: 'Live by your craft, not by shortcuts.' For years he had ignored that advice, cutting corners to finish jobs faster. But after a client returned a chair he'd rushed, he finally understood what his grandfather meant.",
+    "topicTag": "personal values",
+    "moodTag": "reflective"
+  },
+  "step3": {
+    "story": "Elena grew up watching her mother rise before dawn every single day, tending the garden, preparing breakfast, and setting aside time for quiet reading before the house came alive. Her mother never preached about discipline—she simply lived by it, day after day, without exception. When Elena left for university and struggled to keep her own routines, she would close her eyes and picture that kitchen in the early morning light. She began to understand that the values we truly hold are not the ones we talk about but the ones we live by without needing a reason. Slowly, she built her own small rituals: a morning walk, a journal, a cup of tea before checking her phone. Years later, when a younger colleague asked how she stayed so grounded, Elena smiled and said, 'Find what you believe in, then live by it every day.'",
+    "topicTag": "personal values",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 원칙이나 규칙에 따라 삶을 영위하다.",
+    "realUsageKo": "특정 신념, 가치관, 규칙, 혹은 격언을 삶의 기준으로 삼아 그것에 따라 행동하고 결정을 내릴 때 사용한다. 일시적인 행동이 아니라 지속적인 삶의 방식을 나타낸다.",
+    "etymologyKo": "'live'는 고대 영어 'libban'에서 유래하며, 'by'는 '~에 의해, ~에 따라'라는 방법·기준을 나타내는 전치사로 쓰인다. 두 단어가 결합하여 '어떤 기준을 좇아 살다'라는 의미가 됐다.",
+    "nuanceKo": "단순히 규칙을 따른다는 것을 넘어, 그 원칙이 그 사람의 정체성과 깊이 연결되어 있다는 뉘앙스를 담고 있다. 다소 진지하고 도덕적인 맥락에서 자주 쓰이며, 격언이나 신조와 함께 쓰일 때 더욱 자연스럽다.",
+    "shortExampleEn": "He lives by the motto 'do no harm.'",
+    "shortExampleKo": "그는 '해를 끼치지 말라'는 좌우명에 따라 산다."
+  }
+}

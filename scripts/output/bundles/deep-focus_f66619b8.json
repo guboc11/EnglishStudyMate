@@ -1,0 +1,30 @@
+{
+  "id": "deep-focus_f66619b8",
+  "expression": "deep focus",
+  "selectionMeta": {
+    "selectedPhrase": "deep focus",
+    "selectedSenseLabelKo": "깊은 집중",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She put her phone on silent and entered a state of deep focus to finish the report before the deadline."
+  },
+  "step2": {
+    "story": "Marcus closed his office door, turned off notifications, and settled into deep focus. For two uninterrupted hours, the complex problem that had stumped him for days finally began to unravel. By the time he looked up, the solution was written clearly on the whiteboard.",
+    "topicTag": "productivity",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Every morning, Lena followed the same ritual: a cup of green tea, noise-cancelling headphones, and a blank page waiting for words. She believed deep focus was not a gift but a discipline—something you chose again and again. On this particular Tuesday, she sat down to revise a chapter that had felt shapeless for weeks. The outside world faded; only the sentences existed. Three hours later, she surfaced as if from water, blinking at the afternoon light streaming through the window. The chapter was finally alive.",
+    "topicTag": "writing",
+    "moodTag": "absorbed"
+  },
+  "meaning": {
+    "literalMeaningKo": "어떤 한 가지 일에 깊고 완전하게 몰두한 집중 상태.",
+    "realUsageKo": "업무, 공부, 창작 등에서 방해 없이 완전히 몰입한 상태를 묘사할 때 사용하며, 단순한 집중보다 더 깊고 지속적인 몰입을 강조한다.",
+    "etymologyKo": "'deep'은 고대 영어 'dēop'에서 유래해 '깊은, 강렬한'을 뜻하고, 'focus'는 라틴어로 '화덕, 중심점'을 의미하며 17세기부터 '집중'의 뜻으로 쓰이기 시작했다.",
+    "nuanceKo": "단순히 집중한다는 'focus'보다 훨씬 깊고 완전한 몰입을 의미하며, 생산성·창의성 맥락에서 긍정적이고 가치 있는 상태로 자주 묘사된다.",
+    "shortExampleEn": "He needs at least two hours of deep focus to write anything meaningful.",
+    "shortExampleKo": "그는 의미 있는 글을 쓰려면 적어도 두 시간의 깊은 집중이 필요하다."
+  }
+}

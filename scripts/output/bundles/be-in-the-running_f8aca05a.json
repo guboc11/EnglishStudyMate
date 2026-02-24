@@ -1,0 +1,30 @@
+{
+  "id": "be-in-the-running_f8aca05a",
+  "expression": "be in the running",
+  "selectionMeta": {
+    "selectedPhrase": "be in the running",
+    "selectedSenseLabelKo": "경쟁하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of hard work, she was finally in the running for the company's top leadership position."
+  },
+  "step2": {
+    "story": "David had applied for the grant three times before, but this year he was genuinely in the running. His research proposal had impressed the committee, and he couldn't stop checking his email for updates. For the first time, winning felt like a real possibility.",
+    "topicTag": "career ambition",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "Maya had spent months preparing her portfolio, determined to prove herself at the design firm. When the hiring manager told her she was in the running for the senior designer role, she felt a rush of nervous excitement she hadn't experienced in years. She knew three other candidates were equally strong, and the competition would be fierce. Every night she stayed late refining her concepts, pushing her creativity to its limits. The uncertainty was exhausting, but the possibility of winning kept her going. When the call finally came, she answered on the first ring.",
+    "topicTag": "job competition",
+    "moodTag": "tense and driven"
+  },
+  "meaning": {
+    "literalMeaningKo": "달리기 경주에 참가하고 있는 상태를 의미한다.",
+    "realUsageKo": "어떤 경쟁이나 선발 과정에서 아직 탈락하지 않고 승산이 있는 상태를 나타낼 때 사용한다. 주로 취업, 상 수상, 선거 등의 맥락에서 쓰인다.",
+    "etymologyKo": "경마나 육상 경주에서 '달리기(running)'에 참가 중임을 뜻하는 표현에서 유래했으며, 이후 다양한 경쟁 상황에 비유적으로 확장되었다.",
+    "nuanceKo": "결과가 아직 결정되지 않았지만 충분히 가능성이 있다는 뉘앙스를 담고 있으며, 반대 표현인 'out of the running'은 이미 탈락했음을 의미한다.",
+    "shortExampleEn": "He's still in the running for the championship title.",
+    "shortExampleKo": "그는 아직 챔피언십 타이틀 경쟁에서 살아남아 있다."
+  }
+}

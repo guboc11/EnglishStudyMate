@@ -1,0 +1,30 @@
+{
+  "id": "change-lanes_0447ca30",
+  "expression": "change lanes",
+  "selectionMeta": {
+    "selectedPhrase": "change lanes",
+    "selectedSenseLabelKo": "방향을 바꾸다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years in finance, she decided to change lanes and pursue a career in teaching."
+  },
+  "step2": {
+    "story": "Marcus had spent a decade climbing the corporate ladder, but the long hours left him hollow. One morning, he woke up and decided it was time to change lanes entirely. He enrolled in culinary school that afternoon and never looked back.",
+    "topicTag": "career change",
+    "moodTag": "hopeful"
+  },
+  "step3": {
+    "story": "For seven years, Dana had been a successful attorney, winning case after case, but the work never felt like her own. Her colleagues admired her sharp mind, yet she found herself dreading Monday mornings more with each passing month. One weekend retreat changed everything — surrounded by nature, she realized she needed to change lanes before the current path swallowed her completely. She began taking weekend photography courses, quietly building a second identity. Within a year, she had enough clients to make the leap, leaving the firm on good terms with a lighter heart. Looking back, she would say that choosing to change lanes was the bravest and most honest decision of her life.",
+    "topicTag": "career change",
+    "moodTag": "liberating"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 운전 중 차선을 바꾼다는 뜻이다.",
+    "realUsageKo": "실제로는 현재의 방향이나 목표, 직업, 삶의 방식을 의도적으로 바꾼다는 의미로 쓰인다. 주로 커리어 전환이나 인생의 중요한 방향 전환을 묘사할 때 사용된다.",
+    "etymologyKo": "자동차 운전에서 차선(lane)을 바꾸는 행위에서 유래한 표현으로, 20세기 자동차 문화가 일상에 깊이 스며들면서 비유적 의미로 확장되었다.",
+    "nuanceKo": "단순한 변화보다는 의도적이고 결단력 있는 전환을 강조하는 뉘앙스가 있다. 긍정적인 맥락에서 자주 쓰이며, 용기 있는 선택이라는 함의를 담고 있다.",
+    "shortExampleEn": "He changed lanes mid-career and became one of the most respected chefs in the city.",
+    "shortExampleKo": "그는 커리어 중반에 방향을 바꾸어 도시에서 가장 존경받는 셰프 중 한 명이 되었다."
+  }
+}

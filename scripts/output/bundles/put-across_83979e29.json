@@ -1,0 +1,30 @@
+{
+  "id": "put-across_83979e29",
+  "expression": "put across",
+  "selectionMeta": {
+    "selectedPhrase": "put across",
+    "selectedSenseLabelKo": "전달하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She struggled to put across her concerns clearly during the tense board meeting."
+  },
+  "step2": {
+    "story": "Marcus had a brilliant idea for the project, but he found it hard to put across his vision to the skeptical team. He spent the whole evening preparing diagrams and examples, determined to make himself understood. The next morning, he walked into the meeting room ready to finally put across what he had been trying to say.",
+    "topicTag": "workplace communication",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Elena had been researching climate solutions for years, but every time she presented her findings, people's eyes seemed to glaze over. She realized that knowing the facts was not enough — she needed to put across the urgency in a way that truly resonated. She rewrote her entire presentation, replacing dense statistics with personal stories and vivid comparisons. Standing before the crowd at the community hall, she spoke slowly and deliberately, watching as understanding began to spread across their faces. By the end, several audience members approached her with questions and offers to help. For the first time, she felt she had genuinely put across the message that had driven her for so long.",
+    "topicTag": "environmental awareness",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "'put across'는 생각이나 의견 등을 상대방에게 건네어(across) 놓는다(put)는 의미입니다.",
+    "realUsageKo": "생각, 감정, 정보 등을 상대방이 이해할 수 있도록 효과적으로 전달할 때 사용합니다. 단순히 말하는 것이 아니라 상대방이 실제로 납득하거나 이해하게 만드는 데 초점이 있습니다.",
+    "etymologyKo": "'put'(놓다)과 방향·도달을 나타내는 부사 'across'(가로질러, 건너편에)가 결합한 구동사입니다. 의사소통의 장벽을 넘어 상대방에게 도달한다는 공간적 은유에서 비롯되었습니다.",
+    "nuanceKo": "메시지나 주장을 전달하는 데 어느 정도 노력이나 기술이 필요함을 내포합니다. 'explain'보다 설득력 있게 이해시킨다는 뉘앙스가 강하며, 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "shortExampleEn": "It's difficult to put across complex ideas in just a few sentences.",
+    "shortExampleKo": "복잡한 생각을 단 몇 문장으로 전달하기란 쉽지 않다."
+  }
+}

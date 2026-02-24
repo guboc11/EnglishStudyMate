@@ -1,0 +1,30 @@
+{
+  "id": "close-in-on_4b69c48a",
+  "expression": "close in on",
+  "selectionMeta": {
+    "selectedPhrase": "close in on",
+    "selectedSenseLabelKo": "다가오다 / 좁혀오다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After three days of searching, the rescue team was finally closing in on the missing hiker's last known location."
+  },
+  "step2": {
+    "story": "The detective had been on the case for months, and now the evidence was unmistakable — they were closing in on the suspect. Every lead pointed to the same abandoned warehouse on the edge of town. Tonight, it would all be over.",
+    "topicTag": "investigation",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Maya had been trailing the frontrunner for the entire race, conserving her energy for this moment. With two laps left, she could feel herself closing in on the leader, the gap shrinking with every powerful stride. Her lungs burned and her legs ached, but she refused to let the pain slow her down. The crowd's roar grew deafening as she drew closer and closer. In the final stretch, she closed in on her rival completely, and the two crossed the finish line almost simultaneously. The scoreboard flickered — Maya had won by a fraction of a second.",
+    "topicTag": "competition",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '~에 가까이 좁혀 들어오다'라는 뜻이다.",
+    "realUsageKo": "실제로는 누군가를 추격하거나 목표물에 점점 더 가까이 다가가는 상황에서 사용되며, 포위하듯 거리를 좁혀가는 뉘앙스가 있다.",
+    "etymologyKo": "'close'(가까이 오다)와 'in on'(~을 향해 집중적으로 좁혀 들어오다)이 결합된 구동사로, 공간적·심리적으로 포위해 들어가는 이미지에서 유래했다.",
+    "nuanceKo": "주로 긴장감이나 압박감이 느껴지는 상황에서 쓰이며, 포식자가 먹잇감에 다가가거나 경찰이 용의자를 추격하는 장면처럼 위협적이거나 집중적인 접근을 암시한다.",
+    "shortExampleEn": "The police were closing in on the suspect's last known location.",
+    "shortExampleKo": "경찰은 용의자의 마지막 목격 장소로 좁혀 들어가고 있었다."
+  }
+}

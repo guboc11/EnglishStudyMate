@@ -1,0 +1,30 @@
+{
+  "id": "have-the-last-laugh_e8fea630",
+  "expression": "have the last laugh",
+  "selectionMeta": {
+    "selectedPhrase": "have the last laugh",
+    "selectedSenseLabelKo": "결국 웃다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of being overlooked for promotions, Elena finally had the last laugh when she left to start her own company and outperformed her former employer."
+  },
+  "step2": {
+    "story": "Everyone at the office laughed when Daniel pitched his unconventional marketing idea, and his manager rejected it without a second thought. Six months later, a rival company adopted the same concept and tripled their sales. Daniel had the last laugh when his boss called to admit he had been right all along.",
+    "topicTag": "workplace vindication",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "When Sophie entered the regional cooking competition, the veteran chefs barely glanced at her entry, whispering that she was too young and self-taught to stand a chance. She had spent two years perfecting her signature dish, drawing inspiration from her grandmother's recipes and countless failed experiments in her tiny apartment kitchen. Round after round, the judges praised her bold flavors and precise technique, and the crowd grew louder with each announcement. When the final scores were read aloud, Sophie's name was called first. Standing on the podium, she felt no need for words — she had the last laugh, and the trophy in her hands said everything.",
+    "topicTag": "perseverance and recognition",
+    "moodTag": "triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "직역하면 '마지막으로 웃다'라는 뜻으로, 처음에는 비웃음이나 실패를 겪었지만 결국에는 승리하거나 옳음을 증명하는 상황을 나타냅니다.",
+    "realUsageKo": "처음에 조롱당하거나 무시당했던 사람이 나중에 성공하거나 상대방이 틀렸음을 입증할 때 사용합니다. 이미 벌어진 일을 회고할 때도, 앞으로의 승리를 다짐할 때도 모두 쓸 수 있습니다.",
+    "etymologyKo": "'He who laughs last, laughs best(longest)'라는 영어 속담에서 유래한 표현입니다. 진정한 승자는 처음이 아니라 마지막에 웃는 사람이라는 의미에서 비롯되었습니다.",
+    "nuanceKo": "단순한 성공보다 '역전'의 뉘앙스가 강하며, 과거에 받은 부당한 대우나 의심에 대한 통쾌한 반전을 내포합니다. 자부심과 약간의 통쾌함이 함께 담긴 표현입니다.",
+    "shortExampleEn": "They said she'd never make it as a writer, but she had the last laugh when her debut novel became a bestseller.",
+    "shortExampleKo": "그녀가 작가로 성공할 수 없을 거라고 했지만, 첫 소설이 베스트셀러가 되면서 결국 그녀가 웃었다."
+  }
+}

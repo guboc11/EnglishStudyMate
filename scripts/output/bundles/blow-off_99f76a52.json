@@ -1,0 +1,30 @@
+{
+  "id": "blow-off_99f76a52",
+  "expression": "blow off",
+  "selectionMeta": {
+    "selectedPhrase": "blow off",
+    "selectedSenseLabelKo": "무시하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to blow off her coworker's repeated complaints instead of getting into an argument."
+  },
+  "step2": {
+    "story": "Marcus had been working late every night that week, and when his friend called to vent about minor problems, he just blew him off with a quick 'I'm busy.' Later, he felt guilty for dismissing someone who genuinely needed to talk.",
+    "topicTag": "friendship",
+    "moodTag": "guilty"
+  },
+  "step3": {
+    "story": "During the team meeting, Claire raised a concern about the project timeline, but the manager blew off her suggestion without even looking up from his laptop. The rest of the team exchanged uncomfortable glances, unsure whether to speak up. Claire kept her composure and jotted down her points, determined to bring them up again in a one-on-one. By the end of the week, the very issue she had flagged caused a significant delay, and suddenly no one was blowing off her ideas anymore.",
+    "topicTag": "workplace dynamics",
+    "moodTag": "frustrated"
+  },
+  "meaning": {
+    "literalMeaningKo": "바람으로 날려 버리다.",
+    "realUsageKo": "누군가의 말이나 제안을 대수롭지 않게 여기며 무시하거나 묵살할 때 쓴다. 약속이나 책임을 그냥 넘겨버리는 상황에도 사용된다.",
+    "etymologyKo": "'blow'(바람으로 날리다)와 'off'(떨어지게)가 결합하여 '훅 날려 버리다'는 이미지에서 비롯된 표현으로, 가볍게 내쳐 버리는 뉘앙스로 발전했다.",
+    "nuanceKo": "상대방을 경시하거나 존중하지 않는 뉘앙스가 강해서 다소 무례한 느낌을 줄 수 있다. 격식 없는 구어체에서 주로 사용된다.",
+    "shortExampleEn": "He blew off the warning signs and ended up making a costly mistake.",
+    "shortExampleKo": "그는 경고 신호를 무시하다가 결국 큰 실수를 저질렀다."
+  }
+}

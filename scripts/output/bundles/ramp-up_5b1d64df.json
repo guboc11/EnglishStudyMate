@@ -1,0 +1,30 @@
+{
+  "id": "ramp-up_5b1d64df",
+  "expression": "ramp up",
+  "selectionMeta": {
+    "selectedPhrase": "ramp up",
+    "selectedSenseLabelKo": "급격히 늘리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The company decided to ramp up production ahead of the holiday season to meet the surge in demand."
+  },
+  "step2": {
+    "story": "With the product launch just weeks away, the team had to ramp up their marketing efforts dramatically. They doubled their ad spend and hired three new campaign managers overnight.",
+    "topicTag": "product launch",
+    "moodTag": "urgent"
+  },
+  "step3": {
+    "story": "Sarah stared at the sales projections on her screen and felt her pulse quicken. The board had made it clear: they needed to ramp up revenue by thirty percent before the end of the quarter. She called an all-hands meeting and laid out an aggressive new strategy, asking every department to push harder than they ever had. The team was exhausted but motivated, staying late every night to hit their targets. By the final week, the numbers were climbing steadily, and for the first time in months, Sarah allowed herself to breathe.",
+    "topicTag": "business growth",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "경사로(ramp)를 올라가듯 무언가를 위로 끌어올린다는 뜻이다.",
+    "realUsageKo": "생산량, 속도, 노력 등을 급격하고 빠르게 늘릴 때 사용하며, 비즈니스·기술·일상 상황 모두에서 자주 쓰인다.",
+    "etymologyKo": "'ramp'는 '경사로'를 뜻하는 프랑스어 'rampe'에서 유래했으며, 'ramp up'은 경사로를 오르듯 수치나 활동이 빠르게 올라간다는 이미지에서 비롯되었다.",
+    "nuanceKo": "단순히 '늘리다'보다 속도감과 긴박함이 강조되며, 계획적이고 의도적인 확대를 암시한다. 부정적 뉘앙스 없이 목표 달성을 위한 적극적 행동으로 쓰인다.",
+    "shortExampleEn": "The factory had to ramp up output to fill the sudden influx of orders.",
+    "shortExampleKo": "공장은 갑자기 밀려든 주문을 처리하기 위해 생산량을 급격히 늘려야 했다."
+  }
+}

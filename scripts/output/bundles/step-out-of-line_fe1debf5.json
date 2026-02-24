@@ -1,0 +1,30 @@
+{
+  "id": "step-out-of-line_fe1debf5",
+  "expression": "step out of line",
+  "selectionMeta": {
+    "selectedPhrase": "step out of line",
+    "selectedSenseLabelKo": "선을 넘다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "He stepped out of line when he publicly criticized his manager during the team meeting."
+  },
+  "step2": {
+    "story": "During the company dinner, Jake made a joke about the CEO's decision that clearly stepped out of line. The room fell silent, and his colleagues exchanged uncomfortable glances. By the end of the night, his boss pulled him aside for a serious conversation.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sarah had always been known as the quiet one in the neighborhood, careful never to cause trouble. But when the new landlord raised the rent without warning, something inside her shifted. At the tenants' meeting, she stood up and told him directly that he had stepped out of line by ignoring the terms of their leases. The other residents stared in stunned silence, then slowly began to nod in agreement. The landlord's face flushed red, clearly unprepared for her boldness. By the end of the meeting, he had agreed to hold off on the increase until a proper review could be done.",
+    "topicTag": "standing up for rights",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "줄에서 벗어나다, 즉 정해진 선이나 대열 밖으로 발을 내딛다.",
+    "realUsageKo": "사회적으로 용납되는 행동 범위를 벗어나 무례하거나 부적절한 행동을 할 때 사용한다. 주로 권위 있는 사람이나 규범에 어긋나는 언행을 했을 때 쓰인다.",
+    "etymologyKo": "군대나 학교에서 '줄'을 지키는 것이 규율과 복종을 의미하던 데서 유래했으며, 줄 밖으로 나간다는 것은 곧 규칙을 어기는 것을 뜻하게 되었다.",
+    "nuanceKo": "단순한 실수보다는 의도적이거나 명백한 선 넘기에 쓰이며, 다소 공식적이고 질책하는 뉘앙스를 담고 있다. 윗사람이 아랫사람의 행동을 지적할 때 자주 사용된다.",
+    "shortExampleEn": "The student stepped out of line by talking back to the teacher in front of the class.",
+    "shortExampleKo": "그 학생은 수업 중에 선생님께 반말로 대꾸하며 선을 넘었다."
+  }
+}

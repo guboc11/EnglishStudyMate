@@ -1,0 +1,30 @@
+{
+  "id": "dance-around-the-issue_d3cdf1ac",
+  "expression": "dance around the issue",
+  "selectionMeta": {
+    "selectedPhrase": "dance around the issue",
+    "selectedSenseLabelKo": "문제를 빙빙 돌리다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Instead of admitting his mistake, he kept dancing around the issue and changing the subject."
+  },
+  "step2": {
+    "story": "During the budget meeting, the manager danced around the issue of layoffs for nearly an hour. Everyone in the room could sense the tension, but no one dared to ask directly. Finally, a junior employee raised her hand and asked what everyone was afraid to say.",
+    "topicTag": "workplace communication",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Sarah had been dancing around the issue for weeks, unable to tell her best friend that she hadn't enjoyed her wedding at all. Every time the subject came up, she would pivot to complimenting the flowers or the music, carefully sidestepping her true feelings. Her friend, however, was sharp enough to notice the evasion and finally cornered her over coffee one afternoon. 'Just say it,' she said with a knowing smile. 'I know something bothered you.' Sarah took a deep breath, realizing that dancing around the issue was only making things more awkward between them. She finally spoke honestly, and to her relief, her friend laughed it off and thanked her for her candor.",
+    "topicTag": "friendship and honesty",
+    "moodTag": "relieved"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '문제 주위를 빙빙 춤추며 돌다'라는 뜻이다.",
+    "realUsageKo": "실제로는 핵심 문제나 불편한 주제를 직접 언급하지 않고 빙 돌려 말하거나 회피하는 행동을 묘사할 때 사용한다.",
+    "etymologyKo": "'춤을 추며 돌다'라는 이미지에서 유래했으며, 무언가를 중심에 두고 그 주위를 맴도는 동작이 핵심을 피하는 태도를 시각적으로 표현한다.",
+    "nuanceKo": "상대방이 의도적으로 문제를 회피하거나 솔직하지 못하다는 뉘앙스를 담고 있으며, 약간의 답답함이나 비판적인 시각이 포함될 수 있다.",
+    "shortExampleEn": "Stop dancing around the issue and tell me what's really going on.",
+    "shortExampleKo": "빙빙 돌리지 말고 실제로 무슨 일인지 말해줘."
+  }
+}

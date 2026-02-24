@@ -1,0 +1,30 @@
+{
+  "id": "give-someone-space_b3940957",
+  "expression": "give someone space",
+  "selectionMeta": {
+    "selectedPhrase": "give someone space",
+    "selectedSenseLabelKo": "여유를 주다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After their argument, Maya decided to give her partner space for a few days before they talked things through."
+  },
+  "step2": {
+    "story": "David noticed his friend had been unusually quiet, so he chose to give him space rather than push for answers. A week later, his friend reached out on his own and thanked David for not pressuring him.",
+    "topicTag": "friendship",
+    "moodTag": "considerate"
+  },
+  "step3": {
+    "story": "After the promotion fell through, Lena came home and went straight to her room without a word. Her husband, sensing her frustration, decided to give her space instead of asking questions right away. He left a warm cup of tea outside her door and kept the kids occupied downstairs. An hour later, Lena emerged looking calmer, and she quietly said, 'Thank you for not hovering.' He simply nodded, understanding that sometimes the most caring thing you can do is step back and let someone breathe.",
+    "topicTag": "relationship",
+    "moodTag": "empathetic"
+  },
+  "meaning": {
+    "literalMeaningKo": "누군가에게 물리적·심리적 공간을 주다.",
+    "realUsageKo": "상대방이 혼자만의 시간이나 감정적 여유가 필요할 때 압박하거나 간섭하지 않고 물러서는 행동을 뜻한다. 관계(연인, 친구, 가족) 맥락에서 자주 쓰인다.",
+    "etymologyKo": "'space'는 고대 프랑스어 'espace'에서 유래하여 '빈 공간'을 의미했으며, 시간이 지나면서 물리적 공간뿐 아니라 심리적·감정적 여유라는 추상적 의미로 확장되었다.",
+    "nuanceKo": "단순히 '혼자 두다'보다 상대의 감정을 존중하며 배려하는 뉘앙스가 강하다. 통제나 방치가 아닌, 의도적이고 따뜻한 물러섬을 함축한다.",
+    "shortExampleEn": "She asked him to give her space after the breakup.",
+    "shortExampleKo": "그녀는 이별 후 그에게 여유를 달라고 부탁했다."
+  }
+}

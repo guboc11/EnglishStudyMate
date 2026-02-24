@@ -1,0 +1,30 @@
+{
+  "id": "touch-down_7907d0ab",
+  "expression": "touch down",
+  "selectionMeta": {
+    "selectedPhrase": "touch down",
+    "selectedSenseLabelKo": "착륙하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The pilot announced that the plane would touch down at Incheon International Airport in approximately twenty minutes."
+  },
+  "step2": {
+    "story": "After a long fourteen-hour flight, Maria gripped her armrest as the aircraft began its final descent. The wheels finally touched down with a gentle thud, and a wave of relief washed over her. She was home.",
+    "topicTag": "travel",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "Captain Park had been flying commercial jets for over two decades, but every landing still demanded his full attention. As the runway lights came into view through the cockpit window, he steadied his breathing and made the final adjustments. The plane touched down smoothly, perfectly on the centerline, and passengers erupted in spontaneous applause. He smiled quietly to himself — not out of pride, but because every safe touchdown was a promise kept. He taxied to the gate and began his post-landing checklist, already thinking about the return flight.",
+    "topicTag": "aviation",
+    "moodTag": "calm"
+  },
+  "meaning": {
+    "literalMeaningKo": "바퀴나 기체가 땅에 닿다, 즉 항공기가 지면에 접촉하다.",
+    "realUsageKo": "비행기가 착륙하는 순간을 묘사할 때 주로 사용하며, 뉴스 보도나 일상 대화에서 'land'보다 구체적인 착지 동작을 강조할 때 씁니다.",
+    "etymologyKo": "'touch'(접촉하다)와 'down'(아래로)이 결합된 구동사로, 항공기 바퀴가 활주로에 처음 닿는 순간을 직관적으로 표현합니다.",
+    "nuanceKo": "공식적인 항공 용어이면서도 일상적으로도 자연스럽게 쓰이며, 착륙 과정 전체보다 땅에 닿는 그 순간을 강조하는 뉘앙스가 있습니다.",
+    "shortExampleEn": "The flight touched down right on schedule.",
+    "shortExampleKo": "비행기가 정확히 예정 시간에 착륙했다."
+  }
+}

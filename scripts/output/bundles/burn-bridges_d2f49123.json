@@ -1,0 +1,30 @@
+{
+  "id": "burn-bridges_d2f49123",
+  "expression": "burn bridges",
+  "selectionMeta": {
+    "selectedPhrase": "burn bridges",
+    "selectedSenseLabelKo": "다리를 불태우다 (관계를 끊다)",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She decided to quit without giving notice, but her mentor warned her not to burn bridges with people who could help her career later."
+  },
+  "step2": {
+    "story": "After a heated argument with his manager, Daniel stormed out of the office and sent an angry resignation email to the entire company. His friend called him immediately and said, 'You're burning bridges you might need to cross again someday.' Daniel took a deep breath and realized he needed to handle the situation more carefully.",
+    "topicTag": "workplace conflict",
+    "moodTag": "impulsive"
+  },
+  "step3": {
+    "story": "Maya had worked at the firm for six years before landing her dream job at a rival company. On her last day, a colleague pulled her aside and whispered, 'Don't burn bridges — this industry is smaller than you think.' Maya had been tempted to share her frustrations with management on the way out, but those words made her pause. Instead, she wrote thoughtful thank-you notes to each team member and offered to help with the transition for two extra weeks. Years later, her former boss became a key reference that helped her secure a major promotion. She was grateful she had resisted the urge to burn bridges when emotions were running high.",
+    "topicTag": "career transition",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "말 그대로는 '다리를 불태우다'는 뜻으로, 도망칠 때 적이 따라오지 못하도록 다리를 불태우던 군사 전술에서 유래했습니다.",
+    "realUsageKo": "실제로는 관계나 기회를 돌이킬 수 없을 정도로 망가뜨리는 행동을 묘사할 때 사용합니다. 주로 직장, 인간관계, 비즈니스 상황에서 '두 번 다시 돌아오기 어렵게 관계를 끊어버리다'라는 의미로 쓰입니다.",
+    "etymologyKo": "고대 전쟁에서 후퇴하는 군대가 적의 추격을 막기 위해 다리를 불태웠던 전술에서 비롯된 표현입니다. 이 행위가 '돌아갈 길을 스스로 차단한다'는 의미로 확장되어 인간관계에 적용되었습니다.",
+    "nuanceKo": "대개 부정적인 뉘앙스를 가지며, 경고나 조언의 맥락에서 '~하지 마라'는 형태로 자주 등장합니다. 충동적이거나 감정적인 행동의 결과를 경계할 때 사용되는 표현입니다.",
+    "shortExampleEn": "Think carefully before you resign — you don't want to burn bridges with people you may work with again.",
+    "shortExampleKo": "사직하기 전에 신중하게 생각하세요 — 나중에 다시 함께 일할 수도 있는 사람들과의 관계를 끊고 싶지는 않을 테니까요."
+  }
+}

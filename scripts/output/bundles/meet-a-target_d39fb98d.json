@@ -1,0 +1,30 @@
+{
+  "id": "meet-a-target_d39fb98d",
+  "expression": "meet a target",
+  "selectionMeta": {
+    "selectedPhrase": "meet a target",
+    "selectedSenseLabelKo": "목표를 달성하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The sales team worked overtime to meet a target of 500 units before the quarter ended."
+  },
+  "step2": {
+    "story": "Sarah checked the dashboard one last time and let out a slow breath. Her team had just managed to meet a target that everyone thought was impossible. She sent a quick message to the group chat: 'We did it.'",
+    "topicTag": "sales performance",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "The pressure had been building for weeks. Marcus's division was behind on revenue, and the board had made it clear that failing to meet a target two quarters in a row would trigger a restructuring review. Every morning he came in early, every evening he stayed late, coaching his team through cold calls and client follow-ups. On the final day of the quarter, a large contract came through just after lunch. By close of business, they had met the target — barely, but completely. Marcus sat quietly at his desk for a moment, finally letting himself feel the relief he had been holding back for thirty days.",
+    "topicTag": "quarterly pressure",
+    "moodTag": "tense then triumphant"
+  },
+  "meaning": {
+    "literalMeaningKo": "'목표(target)에 도달하다(meet)'는 뜻으로, 설정된 수치나 기준에 정확히 닿는다는 의미입니다.",
+    "realUsageKo": "비즈니스 환경에서 매출 목표, 생산량, KPI 등 정량적인 기준을 달성했을 때 사용합니다. 단순히 '성공했다'보다 구체적인 수치 달성을 강조할 때 씁니다.",
+    "etymologyKo": "'meet'는 고대 영어 'mētan(마주치다, 접촉하다)'에서 유래했으며, 여기서는 '기준점에 닿다'는 의미로 확장되었습니다. 'target'은 중세 프랑스어 'targe(작은 방패)'에서 비롯된 단어로 나중에 '조준점, 목표치'를 뜻하게 됐습니다.",
+    "nuanceKo": "단순히 목표를 넘어선 것이 아니라 정확히 충족시켰다는 뉘앙스가 강합니다. 초과 달성은 'exceed a target', 미달은 'miss a target'으로 표현합니다.",
+    "shortExampleEn": "We finally met our sales target for the year.",
+    "shortExampleKo": "우리는 마침내 연간 매출 목표를 달성했습니다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fall-flat_b4c70e78",
+  "expression": "fall flat",
+  "selectionMeta": {
+    "selectedPhrase": "fall flat",
+    "selectedSenseLabelKo": "실패하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "His attempt at humor fell flat, and the room went completely silent."
+  },
+  "step2": {
+    "story": "The marketing team spent weeks crafting their new campaign, but it fell flat with customers who found the message confusing. Sales barely moved, and the manager called an emergency meeting to rethink their approach.",
+    "topicTag": "marketing failure",
+    "moodTag": "disappointed"
+  },
+  "step3": {
+    "story": "Sarah had rehearsed her presentation for days, convinced it would win over the investors. But when she finally stood in front of the panel and began speaking, her pitch fell flat almost immediately. The investors exchanged skeptical glances, and no one asked a single follow-up question. She walked out of the room knowing she had failed to connect. That evening, she sat at her desk and rewrote the entire deck, determined not to let her passion for the project get buried under vague data and weak storytelling.",
+    "topicTag": "startup pitch",
+    "moodTag": "deflated but determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "납작하게 떨어지다, 즉 기대했던 효과 없이 바닥에 쓰러지듯 실패하다.",
+    "realUsageKo": "농담, 발표, 계획, 캠페인 등이 기대한 반응이나 효과를 전혀 얻지 못하고 실패했을 때 사용한다. 특히 분위기를 살리려 했지만 오히려 어색해졌을 때 자주 쓰인다.",
+    "etymologyKo": "물체가 기세 없이 평평하게(flat) 떨어지는(fall) 이미지에서 유래했다. 힘이나 탄력 없이 그냥 주저앉는 모습이 '실패'의 의미로 굳어졌다.",
+    "nuanceKo": "단순한 실패보다 '기대와 달리 아무런 반응도 얻지 못한' 허탈한 실패의 뉘앙스가 강하다. 노력했지만 허공을 치는 느낌을 줄 때 적합하다.",
+    "shortExampleEn": "Her joke fell flat because no one understood the reference.",
+    "shortExampleKo": "아무도 그 레퍼런스를 이해하지 못해서 그녀의 농담은 완전히 실패했다."
+  }
+}

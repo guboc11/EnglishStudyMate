@@ -1,0 +1,30 @@
+{
+  "id": "keep-a-distance_9a0655d4",
+  "expression": "keep a distance",
+  "selectionMeta": {
+    "selectedPhrase": "keep a distance",
+    "selectedSenseLabelKo": "거리를 두다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After the argument, she decided to keep a distance from her coworker until things calmed down."
+  },
+  "step2": {
+    "story": "Tom noticed his friend had been acting cold lately, so he chose to keep a distance and give her some space. He focused on his own work and waited patiently for her to come around.",
+    "topicTag": "friendship tension",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "After the heated disagreement during the team meeting, Marcus decided to keep a distance from his manager for the rest of the week. He ate lunch alone, replied to emails formally, and avoided casual conversation in the hallway. It wasn't about being cold—he simply needed time to process his feelings before speaking again. By Friday, the tension had eased, and he felt ready to approach her with a calm and open mind.",
+    "topicTag": "workplace conflict",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적으로 또는 감정적으로 누군가나 무언가로부터 일정한 거리를 유지하다.",
+    "realUsageKo": "주로 감정적 갈등, 불편한 관계, 또는 개인적인 공간이 필요할 때 상대방과 가까이하지 않는 상황에서 사용된다. 물리적 거리뿐만 아니라 심리적 거리를 두는 경우에도 자주 쓰인다.",
+    "etymologyKo": "'keep'은 '유지하다'는 의미의 고대 영어 'cēpan'에서 유래했으며, 'distance'는 라틴어 'distantia(간격, 사이)'에서 비롯되었다. 두 단어가 결합해 '거리를 유지하다'는 표현이 되었다.",
+    "nuanceKo": "단순히 멀리 떨어져 있다는 의미를 넘어, 의도적으로 관계를 가깝게 하지 않으려는 뉘앙스를 담고 있다. 냉담함보다는 신중한 자기 보호나 배려의 느낌이 강하다.",
+    "shortExampleEn": "He tends to keep a distance from people he doesn't trust.",
+    "shortExampleKo": "그는 믿지 않는 사람들과는 거리를 두는 편이다."
+  }
+}

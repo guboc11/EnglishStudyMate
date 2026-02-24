@@ -1,0 +1,30 @@
+{
+  "id": "fall-away_407c656e",
+  "expression": "fall away",
+  "selectionMeta": {
+    "selectedPhrase": "fall away",
+    "selectedSenseLabelKo": "줄어들다 / 멀어지다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "As the months passed without contact, their once-close friendship began to fall away."
+  },
+  "step2": {
+    "story": "After the project ended, the team's enthusiasm started to fall away. Without a shared goal, people drifted back to their own routines and the group chat went silent.",
+    "topicTag": "friendship",
+    "moodTag": "melancholic"
+  },
+  "step3": {
+    "story": "When Jana moved to a new city, she promised herself she would stay in touch with everyone back home. For the first few weeks, the calls and messages came regularly. But as new routines took hold, the connections began to fall away one by one. Old friends grew busy with their own lives, and the silence between check-ins stretched longer each time. She hadn't expected distance to work so quietly, dissolving bonds she had assumed were permanent.",
+    "topicTag": "relationships",
+    "moodTag": "reflective"
+  },
+  "meaning": {
+    "literalMeaningKo": "떨어져 나가다, 서서히 줄어들거나 멀어지다.",
+    "realUsageKo": "지지자·관심·인원 등이 점차 줄어드는 상황, 또는 관계·감정이 서서히 희미해지거나 멀어지는 상황에 사용된다.",
+    "etymologyKo": "'fall(떨어지다)'과 'away(멀리)'가 결합한 구동사로, 물체나 사람이 원래 위치에서 떨어져 나가는 이미지에서 유래했다.",
+    "nuanceKo": "갑작스럽게 끊어지는 것이 아니라 자연스럽고 점진적으로 줄거나 멀어지는 뉘앙스를 지닌다. 아쉬움이나 쓸쓸함이 담긴 맥락에 자주 쓰인다.",
+    "shortExampleEn": "Support for the policy began to fall away as new evidence emerged.",
+    "shortExampleKo": "새로운 증거가 나오면서 그 정책에 대한 지지가 줄어들기 시작했다."
+  }
+}

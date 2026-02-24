@@ -1,0 +1,30 @@
+{
+  "id": "do-away-with_56b1c67d",
+  "expression": "do away with",
+  "selectionMeta": {
+    "selectedPhrase": "do away with",
+    "selectedSenseLabelKo": "없애다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The city council voted to do away with the outdated parking restrictions that had frustrated residents for years."
+  },
+  "step2": {
+    "story": "After years of drowning in paperwork, the manager finally convinced her team to do away with the weekly status reports. Instead, they switched to a shared dashboard everyone could update in real time. The change was small, but it saved hours every week and lifted the mood across the entire office.",
+    "topicTag": "workplace efficiency",
+    "moodTag": "relieved"
+  },
+  "step3": {
+    "story": "For as long as anyone could remember, the small town of Millbrook had a strict rule: no music after nine o'clock on weeknights. The rule had made sense decades ago, but the world had changed. A young councilwoman named Clara stood up at the town hall meeting and proposed they finally do away with the outdated ordinance. At first, the older residents resisted, clinging to the familiar quiet of their evenings. But Clara played recordings of local musicians who had left town because there was nowhere to perform. Slowly, heads began to nod, and by the end of the night the council voted unanimously to do away with the old rule — and a week later, the sound of live music drifted through the streets of Millbrook for the first time in years.",
+    "topicTag": "community change",
+    "moodTag": "hopeful"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 완전히 없애거나 제거한다는 뜻의 구동사.",
+    "realUsageKo": "오래된 규칙, 제도, 관행, 또는 불필요한 것을 폐지하거나 없앨 때 사용합니다. 격식체와 비격식체 모두에서 자연스럽게 쓰입니다.",
+    "etymologyKo": "'do away with'는 16세기부터 사용된 표현으로, 'do'(행하다)와 'away'(멀리)가 결합해 '어떤 것을 멀리 보내다', 즉 '제거하다'는 의미로 발전했습니다.",
+    "nuanceKo": "단순히 '버리다(throw away)'보다 더 공식적이고 의도적인 폐지의 느낌을 줍니다. 주로 제도·규칙·관행처럼 다소 추상적인 대상에 씁니다.",
+    "shortExampleEn": "The new government promised to do away with unnecessary regulations.",
+    "shortExampleKo": "새 정부는 불필요한 규제를 없애겠다고 약속했다."
+  }
+}

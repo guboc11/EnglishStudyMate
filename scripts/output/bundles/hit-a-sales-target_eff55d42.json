@@ -1,0 +1,30 @@
+{
+  "id": "hit-a-sales-target_eff55d42",
+  "expression": "hit a sales target",
+  "selectionMeta": {
+    "selectedPhrase": "hit a sales target",
+    "selectedSenseLabelKo": "판매 목표를 달성하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The entire sales team celebrated when they finally hit a sales target that had seemed out of reach for months."
+  },
+  "step2": {
+    "story": "Marcus stared at the dashboard as the clock ticked toward the end of the quarter. With one last call closed, his team had managed to hit a sales target everyone thought was impossible. The office erupted in cheers.",
+    "topicTag": "sales achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "It had been the most grueling quarter of Priya's career. Her regional team was behind by thirty percent with two weeks left, and morale was crumbling. She held a late-night strategy session, reshuffled territories, and personally coached the junior reps through their toughest deals. On the final day of the quarter, a flurry of last-minute contracts pushed them over the edge—they had hit a sales target that none of their rivals had even come close to. The VP of revenue sent a company-wide message applauding the team's resilience. For Priya, it wasn't just a number; it was proof that the right leadership could turn the tide when everything felt lost.",
+    "topicTag": "team leadership under pressure",
+    "moodTag": "resilient"
+  },
+  "meaning": {
+    "literalMeaningKo": "'hit'(치다/맞히다)와 'sales target'(판매 목표)의 결합으로, 목표 수치에 정확히 도달한다는 의미다.",
+    "realUsageKo": "영업·비즈니스 맥락에서 설정된 매출 또는 판매 수량 목표를 달성했을 때 사용한다. 'meet a target', 'reach a target'과 유사하지만 'hit'은 더 구어적이고 즉각적인 성취감을 강조한다.",
+    "etymologyKo": "'hit'은 고대 영어 'hittan'(목표물에 닿다)에서 유래했으며, 목표물을 정확히 맞히는 이미지에서 비롯됐다. 현대 비즈니스 영어에서 목표 달성의 의미로 자연스럽게 확장됐다.",
+    "nuanceKo": "단순한 달성보다 노력 끝에 이뤄낸 성취를 암시하는 경우가 많다. 팀 단위 보고나 실적 리뷰 자리에서 자주 쓰이며, 긍정적이고 에너지 넘치는 어감을 지닌다.",
+    "shortExampleEn": "We worked overtime every day this month to hit a sales target set by headquarters.",
+    "shortExampleKo": "이번 달 매일 야근을 해서야 본사가 설정한 판매 목표를 달성할 수 있었다."
+  }
+}

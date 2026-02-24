@@ -1,0 +1,30 @@
+{
+  "id": "gather-courage_9629b56b",
+  "expression": "gather courage",
+  "selectionMeta": {
+    "selectedPhrase": "gather courage",
+    "selectedSenseLabelKo": "용기를 내다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She took a deep breath and gathered her courage before stepping onto the stage."
+  },
+  "step2": {
+    "story": "For weeks, Daniel had wanted to ask his manager for a promotion but kept putting it off. One morning, he gathered his courage and knocked on her office door. The conversation went better than he had ever imagined.",
+    "topicTag": "workplace confidence",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Maya had been standing outside the counselor's office for ten minutes, her hand hovering over the door handle. She had kept her struggles to herself for so long, afraid of being judged or dismissed. But the weight of carrying everything alone had become unbearable. She closed her eyes, took a slow breath, and gathered her courage. When she finally walked in and sat down, the counselor smiled warmly and said, 'I'm glad you came.' In that moment, Maya realized that reaching out had been the bravest thing she had ever done.",
+    "topicTag": "asking for help",
+    "moodTag": "vulnerable yet brave"
+  },
+  "meaning": {
+    "literalMeaningKo": "용기를 한데 모으다, 즉 흩어진 용기를 끌어모으다.",
+    "realUsageKo": "두려움이나 불안을 느끼면서도 어떤 행동을 하기 위해 마음속의 용기를 끌어올리는 상황에 쓰인다. 주로 어렵거나 불편한 상황에 맞닥뜨리기 직전에 사용된다.",
+    "etymologyKo": "'gather'는 고대 영어 'gaderian'(모으다)에서 유래했으며, 'courage'는 라틴어 'cor'(심장)에서 비롯된 프랑스어 'corage'에서 왔다. 심장에 힘을 모은다는 이미지에서 발전한 표현이다.",
+    "nuanceKo": "단순히 용감하다는 뜻보다 두려움을 의식하면서도 의지로 극복하는 느낌이 강하다. 내면의 갈등과 결단을 동시에 내포한 표현으로, 진지하고 감동적인 맥락에서 자주 쓰인다.",
+    "shortExampleEn": "He finally gathered his courage and told her how he felt.",
+    "shortExampleKo": "그는 마침내 용기를 내어 그녀에게 자신의 마음을 고백했다."
+  }
+}

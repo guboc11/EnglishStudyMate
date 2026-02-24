@@ -1,0 +1,30 @@
+{
+  "id": "track-key-metrics_4f33a551",
+  "expression": "track key metrics",
+  "selectionMeta": {
+    "selectedPhrase": "track key metrics",
+    "selectedSenseLabelKo": "핵심 지표를 추적하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The product manager set up a dashboard to track key metrics like user retention and conversion rate every week."
+  },
+  "step2": {
+    "story": "After the app launch, Sarah knew she had to track key metrics closely to understand how users were engaging. She checked the dashboard every morning, watching the numbers shift in real time. The data gave her team the clarity to make fast, confident decisions.",
+    "topicTag": "product analytics",
+    "moodTag": "focused"
+  },
+  "step3": {
+    "story": "When David joined the startup as head of growth, the team had no system in place to track key metrics. Revenue was climbing, but no one knew which campaigns were actually working. He spent his first week building a simple analytics dashboard that pulled data from every channel. Within a month, the team could see exactly where customers were dropping off and what kept them coming back. Armed with that insight, they doubled down on what worked and cut what didn't. By the end of the quarter, conversion rates had improved by thirty percent.",
+    "topicTag": "growth strategy",
+    "moodTag": "analytical"
+  },
+  "meaning": {
+    "literalMeaningKo": "'핵심 지표들을 추적하다'는 뜻으로, 중요한 수치나 성과 지표를 지속적으로 관찰하고 기록하는 행위를 말한다.",
+    "realUsageKo": "비즈니스나 제품 개발 현장에서 성과를 측정할 때 자주 쓰이며, 단순한 모니터링을 넘어 데이터를 기반으로 의사결정을 내리는 문화를 내포한다.",
+    "etymologyKo": "'track'은 '발자국을 따라가다'는 의미의 고대 프랑스어 'trac'에서 유래했으며, 'metric'은 '측정'을 의미하는 그리스어 'metron'에서 왔다.",
+    "nuanceKo": "단순히 숫자를 보는 것이 아니라 목표 달성 여부를 체계적으로 점검한다는 능동적이고 전문적인 뉘앙스가 있다. 비즈니스 미팅이나 보고서에서 자연스럽게 쓰이는 표현이다.",
+    "shortExampleEn": "We need to track key metrics to see if the new feature is actually driving engagement.",
+    "shortExampleKo": "새 기능이 실제로 참여도를 높이고 있는지 확인하려면 핵심 지표를 추적해야 합니다."
+  }
+}

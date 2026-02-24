@@ -1,0 +1,30 @@
+{
+  "id": "act-up_e6138c27",
+  "expression": "act up",
+  "selectionMeta": {
+    "selectedPhrase": "act up",
+    "selectedSenseLabelKo": "문제를 일으키다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "My laptop started acting up right before the big presentation, freezing every few minutes."
+  },
+  "step2": {
+    "story": "The car began acting up on the highway, making a loud rattling noise and losing speed. Mia pulled over and called for help, frustrated that this had happened on such an important day.",
+    "topicTag": "car trouble",
+    "moodTag": "frustrated"
+  },
+  "step3": {
+    "story": "Jake had barely sat down at his desk when his computer started acting up again. The screen flickered, the mouse lagged, and half his files refused to open. He had a report due in two hours and now this. He called IT support, but they said they couldn't come until the afternoon. Taking a deep breath, he borrowed a colleague's laptop and began transferring his files, determined not to let a malfunctioning machine ruin his day.",
+    "topicTag": "work stress",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "문자 그대로는 '이상하게 행동하다'는 뜻이다.",
+    "realUsageKo": "사람이나 기계, 신체 등이 예상대로 작동하지 않거나 말썽을 부릴 때 사용한다. 예를 들어 아이가 말을 안 듣거나 기기가 오작동할 때 자주 쓴다.",
+    "etymologyKo": "'act'(행동하다)와 'up'(강조 부사)이 결합한 구동사로, 18~19세기부터 '비정상적으로 행동하다'는 의미로 영어권에서 사용되어 왔다.",
+    "nuanceKo": "가벼운 불평이나 불만을 담은 구어적 표현으로, 격식 없는 일상 대화에서 주로 쓰인다. 심각한 고장보다는 일시적인 말썽이나 이상 동작에 어울린다.",
+    "shortExampleEn": "My knee has been acting up since the soccer game.",
+    "shortExampleKo": "축구 경기 이후로 무릎이 말썽이다."
+  }
+}

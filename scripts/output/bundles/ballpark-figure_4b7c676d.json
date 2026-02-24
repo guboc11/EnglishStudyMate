@@ -1,0 +1,30 @@
+{
+  "id": "ballpark-figure_4b7c676d",
+  "expression": "ballpark figure",
+  "selectionMeta": {
+    "selectedPhrase": "ballpark figure",
+    "selectedSenseLabelKo": "대략적인 수치",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Before signing the contract, the client asked for a ballpark figure on the total project cost."
+  },
+  "step2": {
+    "story": "Sarah's team needed to present a budget proposal by Friday, but the vendor hadn't sent the official quote yet. Her manager told her to just use a ballpark figure for now so they could move forward with planning. She estimated around $50,000 and marked it as preliminary.",
+    "topicTag": "budget planning",
+    "moodTag": "pragmatic"
+  },
+  "step3": {
+    "story": "When the startup founders met with potential investors for the first time, they knew the numbers weren't finalized yet. One investor leaned forward and asked, 'Can you at least give us a ballpark figure for your projected revenue in year two?' The founders exchanged a quick glance, then confidently cited a range based on their market research. The investor nodded, satisfied with the estimate, and said it was enough to keep the conversation going. They left the meeting feeling cautiously optimistic, knowing that a rough number had been enough to open the door.",
+    "topicTag": "startup fundraising",
+    "moodTag": "cautiously optimistic"
+  },
+  "meaning": {
+    "literalMeaningKo": "야구장(ballpark)의 크기처럼 대략적인 범위 안에 있는 수치를 의미합니다.",
+    "realUsageKo": "정확한 수치를 모르거나 아직 확정되지 않았을 때, 대략적인 추정치나 어림잡은 숫자를 요청하거나 제시할 때 씁니다. 비즈니스 협상, 예산 논의, 프로젝트 기획 등 다양한 상황에서 자주 사용됩니다.",
+    "etymologyKo": "미국 야구장(ballpark)은 매우 넓은 공간으로, '야구장 범위 안에 있다'는 표현이 '대략 맞다' '어림잡아 맞다'는 의미로 쓰이기 시작했습니다. 20세기 중반 미국 구어체에서 유래했습니다.",
+    "nuanceKo": "격식체와 비격식체 모두에서 자연스럽게 사용할 수 있으며, 정확성보다 신속한 의사소통이 필요할 때 적합합니다. 정확한 수치를 요구하는 상황에서는 부적절할 수 있습니다.",
+    "shortExampleEn": "Just give me a ballpark figure — we don't need exact numbers yet.",
+    "shortExampleKo": "정확한 수치는 아직 필요 없으니 대략적인 수치만 알려주세요."
+  }
+}

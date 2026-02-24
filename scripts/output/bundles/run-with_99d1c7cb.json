@@ -1,0 +1,30 @@
+{
+  "id": "run-with_99d1c7cb",
+  "expression": "run with",
+  "selectionMeta": {
+    "selectedPhrase": "run with",
+    "selectedSenseLabelKo": "진행하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The manager decided to run with the new marketing strategy after seeing the positive test results."
+  },
+  "step2": {
+    "story": "The team had debated two different approaches for weeks. Finally, the director said, 'Let's just run with the simpler one and see what happens.' Within a month, they had their answer—it worked.",
+    "topicTag": "workplace decision",
+    "moodTag": "decisive"
+  },
+  "step3": {
+    "story": "Sarah had pitched the idea almost as a joke during the brainstorming session, never expecting anyone to take it seriously. But her boss leaned forward and said, 'I like it—let's run with it.' Suddenly she found herself leading a full project team, turning her offhand suggestion into a real initiative. There were moments of doubt when the obstacles piled up, but the team kept pushing forward. By launch day, what had started as a throwaway idea had become the company's most talked-about product of the year.",
+    "topicTag": "project launch",
+    "moodTag": "motivated"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 들고 달리다, 즉 어떤 아이디어나 계획을 그대로 가지고 나아가다.",
+    "realUsageKo": "주로 아이디어, 계획, 제안 등을 검토 없이 또는 승인 후 바로 실행에 옮길 때 사용한다. '그냥 진행하다', '밀고 나가다'의 뉘앙스다.",
+    "etymologyKo": "미식축구에서 공을 받은 선수가 그대로 들고 달리는 행위에서 유래했으며, 이후 '계획이나 아이디어를 그대로 추진한다'는 비유적 의미로 굳어졌다.",
+    "nuanceKo": "다소 즉흥적이거나 과감한 결정을 내릴 때 자주 쓰이며, 긍정적인 추진력과 실행력을 강조하는 표현이다. 격식체보다는 구어체나 직장 내 캐주얼한 대화에서 많이 사용된다.",
+    "shortExampleEn": "We only had a rough outline, but the client said to run with it.",
+    "shortExampleKo": "대략적인 개요만 있었지만, 클라이언트는 그냥 진행하라고 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sell-off_fd5ffbc7",
+  "expression": "sell off",
+  "selectionMeta": {
+    "selectedPhrase": "sell off",
+    "selectedSenseLabelKo": "매각하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The struggling company decided to sell off its real estate holdings to pay down debt."
+  },
+  "step2": {
+    "story": "After years of losses, the founder reluctantly agreed to sell off the company's overseas division. The proceeds helped stabilize the business, but it still felt like giving up a piece of his dream.",
+    "topicTag": "business decision",
+    "moodTag": "bittersweet"
+  },
+  "step3": {
+    "story": "The board meeting ran past midnight as executives debated whether to sell off the manufacturing unit. For the CEO, it wasn't just a financial calculation — that factory had been the company's heart for three decades. She argued for alternatives, but the numbers were undeniable. By morning, they had voted to proceed. Within weeks, a rival firm acquired it, and the employees learned their fates from a press release. The CEO signed the paperwork in silence, knowing she had done what was necessary but not what she had wanted.",
+    "topicTag": "corporate restructuring",
+    "moodTag": "somber"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가를 팔아 없애다, 특히 자산이나 사업 부문을 처분하다.",
+    "realUsageKo": "주로 기업이나 개인이 재정적 압박을 받아 자산, 주식, 사업부 등을 매각할 때 사용한다. 단순한 판매보다 '처분'의 뉘앙스가 강하다.",
+    "etymologyKo": "'sell'(팔다)과 방향·완료를 나타내는 부사 'off'가 결합한 구동사로, 완전히 팔아치운다는 의미를 강조한다.",
+    "nuanceKo": "단순히 팔다는 의미보다 어쩔 수 없이 또는 서둘러 처분한다는 느낌이 담겨 있어, 다소 아쉬움이나 절박함이 함축될 수 있다.",
+    "shortExampleEn": "They had to sell off their vintage car collection to cover the medical bills.",
+    "shortExampleKo": "그들은 의료비를 충당하기 위해 빈티지 자동차 컬렉션을 매각해야 했다."
+  }
+}

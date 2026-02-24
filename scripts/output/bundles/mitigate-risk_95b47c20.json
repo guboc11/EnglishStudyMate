@@ -1,0 +1,30 @@
+{
+  "id": "mitigate-risk_95b47c20",
+  "expression": "mitigate risk",
+  "selectionMeta": {
+    "selectedPhrase": "mitigate risk",
+    "selectedSenseLabelKo": "위험을 완화하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "The project manager introduced a thorough testing phase to mitigate risk before the product launch."
+  },
+  "step2": {
+    "story": "Before signing the contract, Sarah spent a week reviewing every clause to mitigate risk for her company. Her careful approach impressed her supervisor, who had seen too many deals go wrong from overlooked details.",
+    "topicTag": "business decision",
+    "moodTag": "cautious"
+  },
+  "step3": {
+    "story": "When the startup decided to expand into a new market, the team knew they had to mitigate risk at every step. They conducted in-depth research, ran a small pilot program, and consulted legal experts before fully committing. The CEO reminded everyone that moving fast was fine, but moving recklessly could sink the entire company. After months of preparation, they launched with confidence, knowing they had done everything possible to mitigate risk and protect their investment.",
+    "topicTag": "startup expansion",
+    "moodTag": "determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "'mitigate'는 '완화하다', 'risk'는 '위험'을 뜻하며, 합쳐서 '위험을 줄이거나 완화하다'는 의미입니다.",
+    "realUsageKo": "비즈니스, 법률, 금융, 프로젝트 관리 등 다양한 분야에서 잠재적 손실이나 부정적 결과를 사전에 예방하거나 최소화하는 행동을 나타낼 때 쓰입니다.",
+    "etymologyKo": "'mitigate'는 라틴어 'mitigare(부드럽게 하다, 달래다)'에서 유래했으며, 'mitis(부드러운)'와 'agere(행동하다)'의 합성어입니다.",
+    "nuanceKo": "단순히 '피한다'는 의미보다 적극적으로 대비하고 관리한다는 뉘앙스가 강하며, 공식적이고 전문적인 맥락에서 자주 사용됩니다.",
+    "shortExampleEn": "Diversifying your investments is one of the best ways to mitigate risk.",
+    "shortExampleKo": "투자를 다양화하는 것은 위험을 완화하는 가장 좋은 방법 중 하나입니다."
+  }
+}

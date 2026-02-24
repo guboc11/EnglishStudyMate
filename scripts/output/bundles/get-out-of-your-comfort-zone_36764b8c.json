@@ -1,0 +1,30 @@
+{
+  "id": "get-out-of-your-comfort-zone_36764b8c",
+  "expression": "get out of your comfort zone",
+  "selectionMeta": {
+    "selectedPhrase": "get out of your comfort zone",
+    "selectedSenseLabelKo": "편안함에서 벗어나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "Taking on the leadership role forced her to get out of her comfort zone and develop skills she never knew she had."
+  },
+  "step2": {
+    "story": "Marcus had always worked in the same department, doing the same tasks for years. When his manager urged him to get out of his comfort zone and lead the new product launch, he hesitated at first. But once he embraced the challenge, he discovered a confidence he had never felt before.",
+    "topicTag": "personal growth",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "Aisha had spent most of her life avoiding public speaking — even raising her hand in class felt unbearable. One afternoon, her mentor sat her down and told her that real growth only happens when you get out of your comfort zone. Reluctantly, Aisha signed up for a local storytelling event, her hands trembling as she stepped onto the stage. The words came out slowly at first, then with surprising ease, and by the end the audience was laughing and nodding along. Walking off the stage, she realized the fear she had carried for years had quietly dissolved. She signed up for the next event before she even got home.",
+    "topicTag": "overcoming fear",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "자신이 편안하게 느끼는 영역 밖으로 나가다.",
+    "realUsageKo": "익숙하고 안전한 상황에서 벗어나 새롭고 도전적인 것을 시도하라고 권유하거나 스스로 그렇게 결심할 때 사용합니다.",
+    "etymologyKo": "'comfort zone'은 1990년대 심리학·경영학에서 대중화된 개념으로, 스트레스 없이 수행할 수 있는 행동 범위를 뜻합니다. 'get out of'는 '~에서 벗어나다'는 의미로 결합되어 현재의 관용 표현이 되었습니다.",
+    "nuanceKo": "긍정적이고 격려하는 어조로 주로 쓰이며, 두려움을 이겨내고 성장을 추구하는 맥락에서 자주 등장합니다. 다소 진부한(cliché) 표현으로 느껴질 수 있으므로 상황에 맞게 사용하세요.",
+    "shortExampleEn": "You should get out of your comfort zone and try traveling alone at least once.",
+    "shortExampleKo": "적어도 한 번은 편안함에서 벗어나 혼자 여행해 보세요."
+  }
+}

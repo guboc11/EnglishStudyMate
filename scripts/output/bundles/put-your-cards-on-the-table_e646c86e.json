@@ -1,0 +1,30 @@
+{
+  "id": "put-your-cards-on-the-table_e646c86e",
+  "expression": "put your cards on the table",
+  "selectionMeta": {
+    "selectedPhrase": "put your cards on the table",
+    "selectedSenseLabelKo": "솔직하게 모든 것을 공개하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After weeks of vague promises, she finally put her cards on the table and told him exactly what she needed from the relationship."
+  },
+  "step2": {
+    "story": "During the tense salary negotiation, Marcus decided to put his cards on the table and told his manager exactly what competing offer he had received. The honesty caught his manager off guard, but it quickly moved the conversation forward.",
+    "topicTag": "workplace negotiation",
+    "moodTag": "candid"
+  },
+  "step3": {
+    "story": "The business partnership had been strained for months, with both sides dancing around the real issues. Finally, at a quiet corner table in a coffee shop, Elena put her cards on the table—she wanted a larger share of the profits or she was walking away. Her partner sat back, surprised by her directness, but also relieved that someone had broken the silence. They spent the next two hours hashing out an agreement that worked for both of them. Sometimes, honesty is the only move left.",
+    "topicTag": "business partnership",
+    "moodTag": "tense but honest"
+  },
+  "meaning": {
+    "literalMeaningKo": "카드 게임에서 자신의 패를 테이블 위에 공개적으로 올려놓는다는 뜻이다.",
+    "realUsageKo": "숨기지 않고 자신의 생각, 의도, 조건 등을 상대방에게 솔직하게 모두 밝힐 때 사용한다. 협상, 대화, 관계에서 투명하게 입장을 드러내는 상황에 자주 쓰인다.",
+    "etymologyKo": "카드 게임(특히 포커)에서 유래했으며, 패를 테이블에 뒤집어 보여주는 행위(showdown)에서 비롯된 표현이다. 19세기부터 영어 관용어로 자리 잡았다.",
+    "nuanceKo": "용기 있는 솔직함이나 결단력 있는 투명성을 내포한다. 자신에게 불리할 수도 있지만 더 이상 감추지 않겠다는 의지가 담겨 있으며, 긍정적이고 성숙한 뉘앙스로 쓰인다.",
+    "shortExampleEn": "It's time to put your cards on the table and tell us what you really want.",
+    "shortExampleKo": "이제 솔직하게 털어놓고 당신이 진짜 원하는 것을 말해줄 때가 됐어요."
+  }
+}

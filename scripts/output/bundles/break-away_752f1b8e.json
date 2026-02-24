@@ -1,0 +1,30 @@
+{
+  "id": "break-away_752f1b8e",
+  "expression": "break away",
+  "selectionMeta": {
+    "selectedPhrase": "break away",
+    "selectedSenseLabelKo": "탈출하다 / 벗어나다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After years of following her family's expectations, she finally decided to break away and pursue her passion for music."
+  },
+  "step2": {
+    "story": "Marcus had worked at his father's accounting firm for a decade, feeling trapped in a life he never chose. One morning, he handed in his resignation and decided to break away from the comfortable but suffocating routine. Within a month, he was traveling across Southeast Asia with nothing but a backpack and a sense of freedom.",
+    "topicTag": "life change",
+    "moodTag": "liberating"
+  },
+  "step3": {
+    "story": "For as long as she could remember, Elena had lived under the shadow of her older sister—always compared, always falling short in her parents' eyes. Every career choice, every relationship, every small decision was scrutinized against what her sister had done first. The pressure built slowly, like water filling a sealed room. Then one autumn, Elena packed her bags and moved to a different city, determined to break away from the family dynamic that had defined her whole identity. She found a small apartment, a job she loved, and slowly began to discover who she actually was. It wasn't easy, and there were moments of loneliness, but she never once wished she hadn't done it.",
+    "topicTag": "family pressure",
+    "moodTag": "courageous"
+  },
+  "meaning": {
+    "literalMeaningKo": "무언가로부터 물리적으로 떨어져 나오거나 벗어나다.",
+    "realUsageKo": "억압적인 상황, 틀에 박힌 환경, 혹은 통제하는 관계에서 자유를 찾기 위해 벗어나는 것을 표현할 때 쓰인다. 자발적이고 결단력 있는 행동을 내포한다.",
+    "etymologyKo": "'break'는 고대 영어 'brecan(깨다, 부수다)'에서 유래했으며, 'away'와 결합해 '완전히 분리되다'라는 의미를 강화한다. 속박이나 연결을 끊고 이탈한다는 이미지에서 발전한 표현이다.",
+    "nuanceKo": "단순히 떠나는 것보다 훨씬 강한 의지와 결단이 담긴 표현이다. 기존의 것을 '깨고' 나온다는 뉘앙스가 있어, 쉽지 않은 탈출이나 독립을 묘사할 때 적합하다.",
+    "shortExampleEn": "He needed to break away from his toxic workplace before it destroyed his health.",
+    "shortExampleKo": "그는 건강을 해치기 전에 독성 가득한 직장에서 벗어나야 했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "attract-investment_56a64f1e",
+  "expression": "attract investment",
+  "selectionMeta": {
+    "selectedPhrase": "attract investment",
+    "selectedSenseLabelKo": "투자를 유치하다",
+    "selectedDomain": "business"
+  },
+  "step1": {
+    "sentence": "The startup worked hard to attract investment by showcasing its rapid user growth and clear path to profitability."
+  },
+  "step2": {
+    "story": "Maya spent weeks refining her pitch deck, determined to attract investment for her clean energy startup. She highlighted not just the technology, but the massive market opportunity ahead. When three venture firms responded with interest, she knew her preparation had paid off.",
+    "topicTag": "startup funding",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "After two years of bootstrapping, Daniel knew it was time to attract investment if his logistics platform was going to scale. He flew to San Francisco, armed with data showing 40% month-over-month growth and a waitlist of enterprise clients. The first meeting went poorly — investors questioned his burn rate and team size. But Daniel listened, adjusted his projections, and came back with sharper answers. By the end of the week, he had term sheets from two top-tier funds. The city that had once felt intimidating now felt like the beginning of something real.",
+    "topicTag": "venture capital",
+    "moodTag": "ambitious"
+  },
+  "meaning": {
+    "literalMeaningKo": "투자를 끌어당기다, 즉 외부로부터 자본을 유치하다.",
+    "realUsageKo": "주로 비즈니스·스타트업 맥락에서 투자자나 벤처 캐피털로부터 자금을 조달하는 행위를 가리킨다. 단순히 돈을 받는 것이 아니라 투자자의 관심과 신뢰를 얻어내는 능동적인 과정을 강조한다.",
+    "etymologyKo": "'attract'는 라틴어 'attrahere(끌어당기다)'에서 유래했으며, 'investment'는 라틴어 'investire(입히다, 둘러싸다)'에서 발전해 자본을 사업에 '입히는' 행위를 뜻하게 됐다.",
+    "nuanceKo": "단순히 '돈을 받다'보다 훨씬 능동적이고 전략적인 뉘앙스를 담고 있다. 투자자의 눈길을 사로잡기 위한 노력과 매력을 갖춰야 한다는 의미가 내포되어 있어, 경쟁적인 자금 조달 환경을 암시한다.",
+    "shortExampleEn": "The company redesigned its pitch to attract investment from overseas markets.",
+    "shortExampleKo": "그 회사는 해외 시장에서 투자를 유치하기 위해 피치를 새롭게 구성했다."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cross-the-finish-line_6fdc17c7",
+  "expression": "cross the finish line",
+  "selectionMeta": {
+    "selectedPhrase": "cross the finish line",
+    "selectedSenseLabelKo": "완주하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of setbacks and late nights, the team finally crossed the finish line and shipped the product."
+  },
+  "step2": {
+    "story": "Maya had been training for the marathon for six months, pushing through injuries and self-doubt. On race day, with the crowd cheering and her legs burning, she crossed the finish line with tears in her eyes. It was the proudest moment of her life.",
+    "topicTag": "personal achievement",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "The startup had been on the verge of collapse three times over the past two years. Investors had pulled out, key engineers had quit, and the product kept failing at the last moment. But the founder refused to give up, rallying the remaining team with a quiet but unwavering belief. They restructured, simplified, and rebuilt from scratch. When they finally launched and crossed the finish line with their first paying customers, no one celebrated loudly — they just sat in silence, smiling, knowing exactly what it had cost them to get there.",
+    "topicTag": "startup perseverance",
+    "moodTag": "quietly determined"
+  },
+  "meaning": {
+    "literalMeaningKo": "결승선을 넘다, 즉 경주나 경기에서 마지막 선을 통과하다.",
+    "realUsageKo": "목표를 달성하거나 어떤 과정을 끝까지 완수했을 때 비유적으로 사용한다. 프로젝트 완료, 시험 합격, 목표 달성 등 다양한 상황에 쓰인다.",
+    "etymologyKo": "육상 경기에서 결승선(finish line)을 실제로 통과하는 행위에서 유래한 표현으로, 이후 어떤 도전이나 과정의 성공적인 완료를 뜻하는 관용어로 확장되었다.",
+    "nuanceKo": "단순히 완료했다는 의미를 넘어, 힘든 과정을 버텨내고 끝까지 해냈다는 뉘앙스를 담고 있다. 노력과 인내가 수반된 성취를 강조할 때 특히 잘 어울린다.",
+    "shortExampleEn": "We worked around the clock for weeks, but we finally crossed the finish line before the deadline.",
+    "shortExampleKo": "몇 주 동안 밤낮없이 일했지만, 우리는 마침내 마감 전에 목표를 완수했다."
+  }
+}

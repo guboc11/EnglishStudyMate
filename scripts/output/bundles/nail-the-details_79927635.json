@@ -1,0 +1,30 @@
+{
+  "id": "nail-the-details_79927635",
+  "expression": "nail the details",
+  "selectionMeta": {
+    "selectedPhrase": "nail the details",
+    "selectedSenseLabelKo": "세부 사항을 완벽하게 하다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She stayed up late to nail the details of her presentation before the board meeting."
+  },
+  "step2": {
+    "story": "Marcus had one week to prepare the project proposal. He worked methodically, determined to nail the details that would make or break the deal. When he finally submitted it, every figure and clause was airtight.",
+    "topicTag": "work preparation",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "The launch was three days away, and the product team huddled around a whiteboard covered in sticky notes. Every feature was built, but the design lead insisted they needed to nail the details before anything went live. She pointed to the onboarding flow, highlighting inconsistent button labels and an unclear error message. One by one, the team tackled each issue, testing and refining until nothing felt out of place. When they finally shipped, users noticed the polish — and the reviews reflected it. Sometimes it's not the big ideas that win people over, but the care put into the small things.",
+    "topicTag": "product launch",
+    "moodTag": "meticulous"
+  },
+  "meaning": {
+    "literalMeaningKo": "못을 박듯 세부 사항을 정확하게 고정시키다.",
+    "realUsageKo": "어떤 일의 세세한 부분까지 빠짐없이 완벽하게 처리하거나 마무리할 때 쓴다. 주로 발표, 프로젝트, 계획 등의 맥락에서 사용된다.",
+    "etymologyKo": "'nail'은 원래 '못을 박다'는 뜻으로, 무언가를 정확히 제자리에 고정시킨다는 의미에서 '완벽하게 해내다'라는 뜻으로 확장되었다.",
+    "nuanceKo": "단순히 '잘 한다'는 것을 넘어, 꼼꼼함과 철저함을 강조하는 표현이다. 마감이나 완성도가 중요한 상황에서 긍정적인 뉘앙스로 쓰인다.",
+    "shortExampleEn": "We need to nail the details of the contract before signing.",
+    "shortExampleKo": "서명하기 전에 계약서의 세부 사항을 완벽하게 다듬어야 한다."
+  }
+}

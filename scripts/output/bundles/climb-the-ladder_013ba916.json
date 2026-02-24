@@ -1,0 +1,30 @@
+{
+  "id": "climb-the-ladder_013ba916",
+  "expression": "climb the ladder",
+  "selectionMeta": {
+    "selectedPhrase": "climb the ladder",
+    "selectedSenseLabelKo": "사다리를 오르다 (성공하다)",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "She worked tirelessly for years, determined to climb the ladder and become the company's youngest director."
+  },
+  "step2": {
+    "story": "Marcus took every extra project his boss offered, knowing it was the only way to climb the ladder at such a competitive firm. He stayed late, asked the right questions, and never turned down a chance to learn. Within three years, he had gone from intern to team lead.",
+    "topicTag": "career ambition",
+    "moodTag": "determined"
+  },
+  "step3": {
+    "story": "When Priya joined the marketing agency fresh out of college, everyone told her it would take decades to climb the ladder in such a cutthroat industry. She refused to believe that. Every morning she arrived before her manager, and every evening she spent an hour studying the accounts she wasn't yet assigned to. She volunteered to present in meetings, even when her voice trembled. Slowly, her name became synonymous with reliability and creativity. Five years later, she stood at the front of the boardroom — not as a junior analyst, but as Head of Strategy.",
+    "topicTag": "professional growth",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "사다리를 오르다 — 물리적으로 사다리를 발판 삼아 위로 올라간다는 뜻.",
+    "realUsageKo": "실제로는 직장·사회·조직 내에서 직위나 지위를 단계적으로 높여 성공해 나가는 과정을 묘사할 때 사용한다. 주로 'climb the corporate ladder(사내 출세 사다리를 오르다)'처럼 함께 쓰인다.",
+    "etymologyKo": "사다리(ladder)가 위계와 성취의 상징으로 쓰인 것은 중세 유럽까지 거슬러 올라간다. 'ladder of success'라는 표현은 19세기 미국 자수성가 문화 속에서 널리 퍼졌으며, 이후 'climb the ladder'가 관용어로 굳어졌다.",
+    "nuanceKo": "노력과 야망을 긍정적으로 강조하는 표현이지만, 맥락에 따라 지나친 경쟁심이나 출세주의를 비판적으로 묘사할 때도 쓰인다. 중립적이거나 약간 긍정적인 어조가 기본이다.",
+    "shortExampleEn": "He's always been ambitious, eager to climb the ladder as fast as possible.",
+    "shortExampleKo": "그는 항상 야심이 넘쳐서 최대한 빨리 출세하고 싶어 한다."
+  }
+}

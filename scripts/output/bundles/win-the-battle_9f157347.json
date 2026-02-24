@@ -1,0 +1,30 @@
+{
+  "id": "win-the-battle_9f157347",
+  "expression": "win the battle",
+  "selectionMeta": {
+    "selectedPhrase": "win the battle",
+    "selectedSenseLabelKo": "싸움에서 이기다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "After months of treatment, she finally managed to win the battle against her illness and returned to full health."
+  },
+  "step2": {
+    "story": "Jake had been struggling with his fear of public speaking for years. He signed up for a local debate club and practiced every night, determined to win the battle over his anxiety. The night of his first speech, he stepped up to the podium and delivered his words with confidence.",
+    "topicTag": "personal growth",
+    "moodTag": "triumphant"
+  },
+  "step3": {
+    "story": "For three grueling seasons, the small-town soccer team had finished last in the regional league. Their new coach, a quiet but intense woman named Clara, restructured their training and demanded they believe in themselves. The players pushed through exhaustion, injuries, and self-doubt, week after week. In the championship final, trailing by one goal with five minutes left, the team rallied and scored twice. When the final whistle blew, they had won the battle they had been fighting for years. Tears streamed down their faces as the crowd erupted in celebration.",
+    "topicTag": "teamwork and perseverance",
+    "moodTag": "inspiring"
+  },
+  "meaning": {
+    "literalMeaningKo": "전투나 싸움에서 승리를 거두다.",
+    "realUsageKo": "실제로는 신체적 전투뿐 아니라 질병, 두려움, 어려운 상황 등 다양한 내적·외적 도전을 극복했을 때 폭넓게 사용된다.",
+    "etymologyKo": "'win'은 고대 영어 'winnan(싸우다, 노력하다)'에서 유래하였으며, 'battle'은 고대 프랑스어 'bataille'에서 온 말로 전투나 격전을 의미한다.",
+    "nuanceKo": "단순한 승리보다 상당한 노력이나 고난 끝에 이룬 승리를 강조할 때 자주 쓰이며, 긍정적이고 격려하는 어조를 띤다.",
+    "shortExampleEn": "He worked hard every day to win the battle against procrastination.",
+    "shortExampleKo": "그는 미루는 습관을 극복하기 위해 매일 열심히 노력했다."
+  }
+}

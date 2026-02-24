@@ -1,0 +1,30 @@
+{
+  "id": "cross-a-line_bb687abd",
+  "expression": "cross a line",
+  "selectionMeta": {
+    "selectedPhrase": "cross a line",
+    "selectedSenseLabelKo": "선을 넘다",
+    "selectedDomain": "general"
+  },
+  "step1": {
+    "sentence": "When he started mocking her personal struggles in front of everyone, he really crossed a line."
+  },
+  "step2": {
+    "story": "During the heated debate, Marcus made a joke about his colleague's recent divorce. Everyone in the room went silent — he had clearly crossed a line. He apologized immediately, but the damage was already done.",
+    "topicTag": "workplace conflict",
+    "moodTag": "tense"
+  },
+  "step3": {
+    "story": "Priya and her manager had always had a direct, honest working relationship, and she appreciated his candid feedback. But one afternoon, during a team review, he singled her out and questioned her competence in front of the entire department. She felt her face flush with humiliation. He had crossed a line — and everyone in the room knew it. That evening, she drafted a formal complaint to HR, choosing to address it professionally rather than let it slide. Some boundaries, once crossed, change a relationship forever.",
+    "topicTag": "workplace respect",
+    "moodTag": "serious"
+  },
+  "meaning": {
+    "literalMeaningKo": "물리적으로 선을 넘어서다, 즉 어떤 경계를 건너다.",
+    "realUsageKo": "사회적·도덕적으로 용납하기 어려운 행동을 했을 때, 즉 허용 범위를 초과하거나 타인의 한계를 침범했을 때 사용한다.",
+    "etymologyKo": "'line'은 경계선이나 한계를 뜻하며, 'cross'는 그것을 가로지른다는 의미다. 두 단어가 결합해 '허용된 한계를 위반하다'라는 관용적 의미를 갖게 되었다.",
+    "nuanceKo": "가벼운 실수보다는 타인에게 상처를 주거나 사회적 규범을 어긴 행동에 주로 쓰이며, 다소 심각한 뉘앙스를 띤다.",
+    "shortExampleEn": "You crossed a line when you shared her private messages without permission.",
+    "shortExampleKo": "허락 없이 그녀의 개인 메시지를 공유했을 때 당신은 선을 넘은 거예요."
+  }
+}

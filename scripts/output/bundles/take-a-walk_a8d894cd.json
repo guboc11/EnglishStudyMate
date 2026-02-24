@@ -1,0 +1,30 @@
+{
+  "id": "take-a-walk_a8d894cd",
+  "expression": "take a walk",
+  "selectionMeta": {
+    "selectedPhrase": "take a walk",
+    "selectedSenseLabelKo": "산책하다",
+    "selectedDomain": "daily"
+  },
+  "step1": {
+    "sentence": "After dinner, she likes to take a walk around the neighborhood to clear her mind."
+  },
+  "step2": {
+    "story": "After a long day at work, Marcus decided to take a walk along the riverside trail. The cool evening air and gentle sounds of the water helped him unwind. By the time he returned home, he felt refreshed and ready for a good night's sleep.",
+    "topicTag": "evening routine",
+    "moodTag": "relaxed"
+  },
+  "step3": {
+    "story": "Every morning before breakfast, Elena would take a walk through the quiet park near her apartment. She enjoyed watching the ducks glide across the pond and listening to birdsong fill the air. One day, she noticed an elderly man sketching the scenery from a bench and paused to admire his work. They ended up chatting for nearly an hour, sharing stories about the neighborhood's history. From that day on, she always looked forward to her morning walk, never knowing who she might meet along the way.",
+    "topicTag": "morning routine",
+    "moodTag": "peaceful"
+  },
+  "meaning": {
+    "literalMeaningKo": "걷기 위해 나가다, 즉 걸어서 돌아다니다.",
+    "realUsageKo": "주로 가벼운 운동이나 기분 전환을 위해 짧게 야외를 걷는 행위를 가리키며, 일상적인 대화에서 매우 자연스럽게 쓰인다.",
+    "etymologyKo": "'take'는 '(행동을) 하다'는 의미로 쓰이는 동사이며, 'walk'는 명사로 '걷기, 산책'을 뜻한다. 이 조합은 중세 영어부터 사용되어 온 전형적인 '동사 + 명사' 구조다.",
+    "nuanceKo": "격식 없이 일상적으로 사용되는 표현으로, 가볍고 여유로운 느낌을 준다. 운동이나 스트레스 해소를 목적으로 한 짧은 외출을 묘사할 때 적합하다.",
+    "shortExampleEn": "Let's take a walk after lunch to get some fresh air.",
+    "shortExampleKo": "점심 식사 후 신선한 공기를 마시러 산책하러 가자."
+  }
+}
