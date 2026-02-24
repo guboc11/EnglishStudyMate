@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: english-study-mate-backend
+    runtime: node
+    rootDir: Product/apps/backend
+    buildCommand: npm install -g pnpm && pnpm install
+    startCommand: node src/server.js
+    envVars:
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        sync: false
+
+  - type: static
+    name: english-study-mate-web
+    rootDir: Product/apps/mobile
+    buildCommand: npm install -g pnpm && pnpm install && pnpm run build:web
+    staticPublishPath: dist
+    envVars:
+      - key: EXPO_PUBLIC_GEMINI_API_KEY
+        sync: false
+      - key: EXPO_PUBLIC_API_BASE_URL
+        sync: false
