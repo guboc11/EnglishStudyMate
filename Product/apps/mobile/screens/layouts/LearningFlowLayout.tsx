@@ -1,8 +1,7 @@
 import type { ReactNode } from 'react';
-import { View } from 'react-native';
+import { ScrollView, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { Box } from '@/components/ui/box';
 import { Button, ButtonText } from '@/components/ui/button';
 
 type LearningFlowLayoutProps = {
@@ -28,7 +27,17 @@ export function LearningFlowLayout({
           <ButtonText size="xl">X</ButtonText>
         </Button>
       </View>
-      <Box className="flex-1 items-center justify-center px-4">{children}</Box>
+      <ScrollView
+        contentContainerStyle={{
+          flexGrow: 1,
+          alignItems: 'center',
+          justifyContent: 'center',
+          paddingHorizontal: 16,
+          paddingVertical: 24,
+        }}
+      >
+        {children}
+      </ScrollView>
     </SafeAreaView>
   );
 }

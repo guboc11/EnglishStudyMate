@@ -26,7 +26,6 @@ type ExampleFlowScreenProps = {
 
 type ExampleStep = 1 | 2 | 3;
 
-const FALLBACK_IMAGE = require('../assets/example2.png');
 
 function StepIndicator({ current }: { current: ExampleStep }) {
   return (
@@ -153,6 +152,7 @@ export function ExampleFlowScreen({
             <View
               style={{
                 width: contentWidth,
+                maxHeight: 240,
                 borderRadius: 12,
                 overflow: 'hidden',
                 backgroundColor: '#E8E0D5',
@@ -161,22 +161,21 @@ export function ExampleFlowScreen({
               }}
             >
               {stepImage.status === 'loading' ? (
-                <VStack className="items-center gap-2">
+                <VStack className="items-center gap-2" style={{ paddingVertical: 32 }}>
                   <ActivityIndicator size="small" color="#374151" />
                   <Text size="sm">이미지 생성중...</Text>
                 </VStack>
-              ) : (
+              ) : stepImage.status === 'ready' && stepImage.uri ? (
                 <Image
-                  source={
-                    stepImage.status === 'ready' && stepImage.uri
-                      ? { uri: stepImage.uri }
-                      : FALLBACK_IMAGE
-                  }
-                  defaultSource={FALLBACK_IMAGE}
+                  source={{ uri: stepImage.uri }}
                   resizeMode="contain"
                   onLoad={handleImageLoad}
-                  style={{ width: '100%', aspectRatio: imageAspectRatio }}
+                  style={{ width: '100%', aspectRatio: imageAspectRatio, maxHeight: 240 }}
                 />
+              ) : (
+                <VStack className="items-center gap-2" style={{ paddingVertical: 32 }}>
+                  <Text size="sm" style={{ color: '#9CA3AF' }}>이미지 없음</Text>
+                </VStack>
               )}
             </View>
             {stepImage.status === 'error' ? (
