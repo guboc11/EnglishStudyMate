@@ -12,39 +12,44 @@ const { createClient } = require('@supabase/supabase-js');
 const { findExpressionsByPhraseLike, rowsToBundle } = require('../../lib/supabase');
 
 describe('findExpressionsByPhraseLike', () => {
-  const filterMock = jest.fn();
+  const ilikeMock = jest.fn();
   const limitMock = jest.fn();
 
   beforeAll(() => {
-    filterMock.mockReturnValue({ limit: limitMock });
+    ilikeMock.mockReturnValue({ limit: limitMock });
 
     createClient.mockReturnValue({
       from: jest.fn().mockReturnValue({
         select: jest.fn().mockReturnValue({
-          filter: filterMock,
+          ilike: ilikeMock,
         }),
       }),
     });
   });
 
   beforeEach(() => {
-    filterMock.mockClear();
+    ilikeMock.mockClear();
     limitMock.mockClear();
     limitMock.mockResolvedValue({ data: [], error: null });
   });
 
-  it('calls .filter() with ~* operator and \\m...\\M word-boundary pattern (regression guard)', async () => {
+  it('calls .ilike() with %...% wildcard pattern', async () => {
     await findExpressionsByPhraseLike('put');
-    expect(filterMock).toHaveBeenCalledWith('phrase', '~*', '\\mput\\M');
+    expect(ilikeMock).toHaveBeenCalledWith('phrase', '%put%');
   });
 
-  it('passes the search word verbatim inside \\m...\\M', async () => {
+  it('passes the search phrase verbatim inside wildcards', async () => {
     await findExpressionsByPhraseLike('give up');
-    expect(filterMock).toHaveBeenCalledWith('phrase', '~*', '\\mgive up\\M');
+    expect(ilikeMock).toHaveBeenCalledWith('phrase', '%give up%');
+  });
+
+  it('calls .limit(50) to fetch enough rows for client-side filtering', async () => {
+    await findExpressionsByPhraseLike('put');
+    expect(limitMock).toHaveBeenCalledWith(50);
   });
 
   it('returns an empty array when DB returns an error', async () => {
-    limitMock.mockResolvedValueOnce({ data: null, error: { message: 'connection timeout' } });
+    limitMock.mockResolvedValueOnce({ data: null, error: { message: 'connection timeout', code: 'PGRST100' } });
     const result = await findExpressionsByPhraseLike('test');
     expect(result).toEqual([]);
   });
@@ -53,6 +58,30 @@ describe('findExpressionsByPhraseLike', () => {
     limitMock.mockResolvedValueOnce({ data: null, error: null });
     const result = await findExpressionsByPhraseLike('test');
     expect(result).toEqual([]);
+  });
+
+  it('returns word-boundary matches and filters out partial-word matches', async () => {
+    const mockData = [
+      { id: '1', phrase: 'take a break', sense_label_ko: '휴식하다', domain: 'daily', meaning: {} },
+      { id: '2', phrase: 'overtake the lead', sense_label_ko: '추월하다', domain: 'sports', meaning: {} },
+      { id: '3', phrase: 'take it easy', sense_label_ko: '편하게 하다', domain: 'daily', meaning: {} },
+    ];
+    limitMock.mockResolvedValueOnce({ data: mockData, error: null });
+    const result = await findExpressionsByPhraseLike('take');
+    expect(result.map((r) => r.phrase)).toEqual(['take a break', 'take it easy']);
+  });
+
+  it('returns up to 10 results', async () => {
+    const mockData = Array.from({ length: 20 }, (_, i) => ({
+      id: String(i),
+      phrase: `take ${i}`,
+      sense_label_ko: '테스트',
+      domain: 'daily',
+      meaning: {},
+    }));
+    limitMock.mockResolvedValueOnce({ data: mockData, error: null });
+    const result = await findExpressionsByPhraseLike('take');
+    expect(result.length).toBeLessThanOrEqual(10);
   });
 
   it('returns the data array on success', async () => {

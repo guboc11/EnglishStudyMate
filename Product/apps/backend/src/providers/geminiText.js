@@ -56,129 +56,89 @@ function toLearningBundle(parsed, params) {
 
 async function requestJsonFromGemini(prompt) {
   const { endpoint, apiKey } = getEndpoint();
-  const response = await fetch(`${endpoint}?key=${apiKey}`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ role: 'user', parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.95,
-        topP: 0.95,
-        maxOutputTokens: 2000,
-        responseMimeType: 'application/json',
-      },
-    }),
-  });
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 30_000);
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(`Gemini API error (${response.status}): ${errorText}`);
-  }
-
-  const payload = await response.json();
-  const raw = extractGeneratedText(payload);
-  if (!raw) throw new Error('Gemini API returned empty content');
-
-  return JSON.parse(extractJsonText(raw));
-}
-
-async function generateBundle(params) {
-  let lastError = null;
-
-  for (let attempt = 1; attempt <= 3; attempt += 1) {
-    try {
-      const slots = buildDiversitySlots();
-      const parsed = await requestJsonFromGemini(buildBundlePrompt(params, slots));
-      const bundle = toLearningBundle(parsed, params);
-      const result = validateLearningBundle(bundle);
-      if (result.valid) return bundle;
-      lastError = new Error(`bundle_validation_failed:${result.reason}`);
-    } catch (error) {
-      lastError = error;
-    }
-  }
-
-  throw new Error(`Learning bundle generation failed: ${String(lastError)}`);
-}
-
-async function resolveAndGenerate(input) {
-  const slots = buildDiversitySlots();
-  const parsed = await requestJsonFromGemini(buildResolveAndGeneratePrompt(input, slots));
-  const status = String(parsed?.status || '').trim();
-
-  if (status === 'invalid') {
-    return {
-      status: 'invalid',
-      reasonKo: String(parsed?.reasonKo || '존재하지 않거나 학습용 표현이 아닙니다.'),
-      retryHintKo: String(parsed?.retryHintKo || '다른 단어/구문으로 다시 시도해 주세요.'),
-    };
-  }
-
-  if (status === 'needs_selection') {
-    const candidates = sanitizeCandidates(parsed?.candidates);
-    if (candidates.length === 0) {
-      return {
-        status: 'invalid',
-        reasonKo: '의미를 판별할 수 없는 입력입니다.',
-        retryHintKo: '학습하려는 단어/구문을 다시 입력해 주세요.',
-      };
-    }
-
-    return {
-      status: 'needs_selection',
-      normalizedInput: String(parsed?.normalizedInput || input).trim() || input,
-      candidates,
-    };
-  }
-
-  if (status === 'ready') {
-    const selectedPhrase = String(parsed?.selected?.phrase || '').trim();
-    const selectedSenseLabelKo = String(parsed?.selected?.senseLabelKo || '').trim();
-    const selectedDomain = normalizeDomain(String(parsed?.selected?.domain || 'general'));
-
-    if (!selectedPhrase || !selectedSenseLabelKo) {
-      return {
-        status: 'invalid',
-        reasonKo: '표현 의미를 확정하지 못했습니다.',
-        retryHintKo: '다시 시도해 주세요.',
-      };
-    }
-
-    const bundle = toLearningBundle(parsed?.bundle || {}, {
-      expression: input,
-      phrase: selectedPhrase,
-      senseLabelKo: selectedSenseLabelKo,
-      domain: selectedDomain,
+  try {
+    const response = await fetch(`${endpoint}?key=${apiKey}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      signal: controller.signal,
+      body: JSON.stringify({
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.95,
+          topP: 0.95,
+          maxOutputTokens: 2000,
+          responseMimeType: 'application/json',
+        },
+      }),
     });
 
-    const validation = validateLearningBundle(bundle);
-    if (!validation.valid) {
-      return {
-        status: 'needs_selection',
-        normalizedInput: input,
-        candidates: [
-          {
-            id: 'fallback_selected',
-            phrase: selectedPhrase,
-            senseLabelKo: selectedSenseLabelKo,
-            shortHintKo: '자동 확정 결과를 검토해 주세요.',
-            domains: [selectedDomain],
-          },
-        ],
-      };
+    if (!response.ok) {
+      const errorText = await response.text();
+      throw new Error(`Gemini API error (${response.status}): ${errorText}`);
     }
 
-    return {
-      status: 'ready',
-      expression: selectedPhrase,
-      bundle,
-    };
-  }
+    const payload = await response.json();
+    const raw = extractGeneratedText(payload);
+    if (!raw) throw new Error('Gemini API returned empty content');
 
+    return JSON.parse(extractJsonText(raw));
+  } catch (err) {
+    if (err.name === 'AbortError') throw new Error('Gemini API timeout (30s)');
+    throw err;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+// TODO: Gemini 연동 활성화 전까지 하드코딩 스텁
+async function generateBundle(params) {
+  const phrase = params.phrase || 'stub expression';
   return {
-    status: 'invalid',
-    reasonKo: '의미를 판별할 수 없는 입력입니다.',
-    retryHintKo: '학습하려는 단어/구문을 다시 입력해 주세요.',
+    expression: phrase,
+    step1: {
+      sentence: `This is a stub sentence for "${phrase}".`,
+    },
+    step2: {
+      story: `[STUB] Short story using "${phrase}". Character A tried to use it. It worked.`,
+      topicTag: 'daily',
+      moodTag: 'neutral',
+    },
+    step3: {
+      story: `[STUB] Longer story using "${phrase}". Character A and B had a conversation. They used the expression naturally. Everyone understood.`,
+      topicTag: 'daily',
+      moodTag: 'neutral',
+    },
+    meaning: {
+      literalMeaningKo: `[STUB] "${phrase}"의 직역`,
+      realUsageKo: `[STUB] 실제 용법`,
+      etymologyKo: '[STUB] 어원',
+      nuanceKo: '[STUB] 뉘앙스',
+      shortExampleEn: `Use "${phrase}" in context.`,
+      shortExampleKo: `"${phrase}"을 문맥에서 사용.`,
+    },
+    selectionMeta: {
+      selectedPhrase: phrase,
+      selectedSenseLabelKo: params.senseLabelKo || '[STUB] 의미',
+      selectedDomain: params.domain || 'general',
+    },
+  };
+}
+
+// TODO: Gemini 연동 활성화 전까지 하드코딩 스텁
+async function resolveAndGenerate(input) {
+  const phrase = input;
+  const bundle = await generateBundle({
+    phrase,
+    senseLabelKo: '[STUB] 의미',
+    domain: 'general',
+  });
+  return {
+    status: 'ready',
+    expression: phrase,
+    bundle,
   };
 }
 

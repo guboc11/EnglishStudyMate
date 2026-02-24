@@ -138,11 +138,19 @@ async function findExpressionsByPhraseLike(phrase) {
   const { data, error } = await supabase
     .from('expressions')
     .select('id, phrase, sense_label_ko, domain, meaning')
-    .filter('phrase', '~*', `\\m${phrase}\\M`)
-    .limit(10);
+    .ilike('phrase', `%${phrase}%`)
+    .limit(50);
 
-  if (error || !data) return [];
-  return data;
+  if (error) {
+    console.error('[Supabase LIKE error]', error.message, error.code);
+    return [];
+  }
+  if (!data) return [];
+
+  // PostgREST는 \m...\M 파싱 불가 → JS 단에서 단어 경계 필터링
+  const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(`\\b${escaped}\\b`, 'i');
+  return data.filter((row) => re.test(row.phrase)).slice(0, 10);
 }
 
 module.exports = {

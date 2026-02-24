@@ -1,13 +1,14 @@
 const express = require('express');
-const { findExpressionByPhrase, findExpressionsByPhraseLike, rowsToBundle } = require('../../lib/supabase');
+const { findExpressionByPhrase, findExpressionsByPhraseLike, rowsToBundle, insertExpressionAndStory } = require('../../lib/supabase');
+const { resolveAndGenerate, generateBundle } = require('../providers/geminiText');
 
 const router = express.Router();
 
 router.post('/resolve-and-generate', async (req, res, next) => {
   try {
     const input = String(req.body?.input || '').trim();
-    if (!input) {
-      res.status(400).json({ error: 'invalid_input', message: 'input is required' });
+    if (!input || input.length > 100) {
+      res.status(400).json({ error: 'invalid_input', message: 'input must be 1–100 characters' });
       return;
     }
 
@@ -37,13 +38,25 @@ router.post('/resolve-and-generate', async (req, res, next) => {
       return;
     }
 
-    // 3. 없음
-    console.log(`[Supabase miss] ${normalized}`);
-    res.json({
-      status: 'invalid',
-      reasonKo: `"${input}"에 해당하는 표현을 찾지 못했습니다.`,
-      retryHintKo: '다른 표현을 검색해 보세요.',
-    });
+    // 3. DB miss → Gemini fallback
+    console.log(`[Gemini fallback] ${normalized}`);
+    const aiResult = await resolveAndGenerate(normalized);
+
+    if (aiResult.status === 'ready') {
+      await insertExpressionAndStory(aiResult.bundle).catch((err) =>
+        console.error('[insert error]', err.message)
+      );
+      res.json({ status: 'ready', expression: aiResult.expression, bundle: aiResult.bundle });
+      return;
+    }
+
+    if (aiResult.status === 'needs_selection') {
+      res.json({ status: 'needs_selection', normalizedInput: normalized, candidates: aiResult.candidates });
+      return;
+    }
+
+    // invalid
+    res.json({ status: 'invalid', reasonKo: aiResult.reasonKo, retryHintKo: aiResult.retryHintKo });
   } catch (error) {
     next(error);
   }
@@ -52,14 +65,20 @@ router.post('/resolve-and-generate', async (req, res, next) => {
 router.post('/generate-bundle', async (req, res, next) => {
   try {
     const phrase = String(req.body?.phrase || '').trim().toLowerCase();
-    if (!phrase) {
-      res.status(400).json({ error: 'invalid_input', message: 'phrase is required' });
+    if (!phrase || phrase.length > 100) {
+      res.status(400).json({ error: 'invalid_input', message: 'phrase must be 1–100 characters' });
       return;
     }
 
     const cached = await findExpressionByPhrase(phrase);
     if (!cached) {
-      res.status(404).json({ error: 'not_found', message: 'Expression not found.' });
+      const senseLabelKo = String(req.body?.senseLabelKo || '').trim();
+      const domain      = String(req.body?.domain || 'general').trim();
+      const bundle      = await generateBundle({ phrase, senseLabelKo, domain });
+      await insertExpressionAndStory(bundle).catch((err) =>
+        console.error('[insert error]', err.message)
+      );
+      res.json(bundle);
       return;
     }
 
