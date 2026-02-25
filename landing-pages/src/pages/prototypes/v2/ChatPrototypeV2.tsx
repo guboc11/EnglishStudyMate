@@ -1,4 +1,5 @@
 import { useState, useEffect, useLayoutEffect, useRef } from "react";
+import { Link } from "react-router-dom";
 import { toast, Toaster } from "sonner";
 
 /* ───────── types ───────── */
@@ -288,6 +289,12 @@ export default function ChatPrototypeV2() {
   /* ── Render ── */
   return (
     <div className="min-h-screen bg-zinc-800 flex items-center justify-center py-10">
+      <Link
+        to="/"
+        className="fixed top-5 left-5 text-zinc-400 hover:text-white text-sm transition-colors z-50"
+      >
+        ← 돌아가기
+      </Link>
       {/* Phone frame */}
       <div className="relative shrink-0" style={{ width: 375, height: 812 }}>
 
