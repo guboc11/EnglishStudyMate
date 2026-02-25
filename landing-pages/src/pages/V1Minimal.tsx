@@ -148,6 +148,15 @@ export default function V1Minimal() {
             </Link>
           ))}
         </div>
+        <p className="text-xs text-gray-500 text-center mt-5 mb-3 uppercase tracking-widest">Prototype v2</p>
+        <div className="flex justify-center gap-3 flex-wrap">
+          <Link
+            to="/prototype/v2/chat"
+            className="px-4 py-2 rounded-lg bg-blue-900 text-blue-200 text-sm hover:bg-blue-800 hover:text-white transition-colors"
+          >
+            💬 채팅 v2
+          </Link>
+        </div>
       </section>
 
       <footer className="px-6 py-8 text-center text-xs text-gray-400">
