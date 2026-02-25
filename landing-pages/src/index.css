@@ -52,3 +52,8 @@ body {
 .typing-dot:nth-child(3) {
   animation-delay: 0.4s;
 }
+
+@keyframes wave-bounce {
+  0% { transform: scaleY(0.5); }
+  100% { transform: scaleY(1.4); }
+}
