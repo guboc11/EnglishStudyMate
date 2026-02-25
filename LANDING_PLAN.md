@@ -30,10 +30,12 @@ V1 페이지만 교체. V2/V3는 그대로 유지.
 | `JobsEconomy.tsx` | §5 알바/경제 카드 |
 | `RestaurantSimulation.tsx` | §6 식당 시뮬레이션 4단계 |
 | `AdministrativeLife.tsx` | §7 행정 서류 목업 |
-| `ProficiencyTest.tsx` | §8 시험 UI 목업 |
-| `AIPersonality.tsx` | §9 AI 감정/반응 |
-| `ItemsGifts.tsx` | §10 싸이월드 아이템샵 |
-| `ProgressionStory.tsx` | §11 Day 1→Level 1 타임라인 |
+| `LectureSection.tsx` | §8 마을 선생님 — 3개 MiniPhone 화면 |
+| `FlashCardReview.tsx` | §9 플래시카드 복습 — 2개 MiniPhone 화면 |
+| `ProficiencyTest.tsx` | §10 시험 UI 목업 |
+| `AIPersonality.tsx` | §11 AI 감정/반응 |
+| `ItemsGifts.tsx` | §12 싸이월드 아이템샵 |
+| `ProgressionStory.tsx` | §13 Day 1→Level 1 타임라인 |
 | `PhoneCallOverlay.tsx` | 전화 수신 UI (§5, §6 공유) |
 | `KoreanMenuUI.tsx` | 메뉴판 UI (§6에서 사용) |
 
@@ -53,7 +55,7 @@ V1 페이지만 교체. V2/V3는 그대로 유지.
 
 ---
 
-## 14개 섹션 상세
+## 16개 섹션 상세 (현재 구현 기준)
 
 ### §1 HeroArrival — "입국"
 - 풀스크린, 화이트→라이트그레이 그라데이션
@@ -116,7 +118,38 @@ V1 페이지만 교체. V2/V3는 그대로 유지.
   - 세금 고지서 (국세청, ₩15,000, 납부기한, 경고문)
 - 주석: "You'll learn vocabulary you can't find in any textbook."
 
-### §8 ProficiencyTest — "한국어 능력 시험"
+### §8 LectureSection — "마을 선생님 강의"
+- **헤딩**: "Your village teacher is waiting."
+- 3개 MiniPhone 화면 (데스크톱: 3열 그리드, 모바일: 가로 스크롤):
+  - **① Intro**: 마을 선생님 아바타 + "사랑의 이야기" 강의 소개 + 시작하기 CTA
+  - **② Story**: 나레이션 슬라이드
+    - 배경: 보라~인디고 그라데이션 + `VillageScene` 인라인 SVG (산·달·별·초가집·강)
+    - SVG 애니메이션: 별 4각 스파클 블링블링(opacity+scale 펄스), 구름 2개 좌우 드리프트
+    - 한국어 나레이션 텍스트 + 영어 번역
+    - 음성 웨이브폼(컴팩트, wave-bounce 애니) + 슬라이드 dot 네비
+  - **③ Ask**: Q&A 채팅 팝업
+    - 상단 배경: Story 화면 축소+`bg-black/50` 오버레이
+    - 카카오스타일 채팅 버블 (유저 질문 → 선생님 한국어 답변)
+- 하단: 주제 카드 3개 (어원/드라마/발음)
+
+### §9 FlashCardReview — "플래시카드 복습"
+- **헤딩**: "10 seconds. That's all it takes."
+- 2개 MiniPhone 화면 (데스크톱: 나란히, 모바일: 가로 스크롤):
+  - **① Flash Card** (밝은 화면):
+    - 회색 배경 위 흰색 종이 단어 카드 (여백 큰 물리 카드 느낌)
+    - 뒤에 카드 2장 겹침 depth 효과
+    - 카드 내: 태그(슬랭/기본) + 한국어 단어 + 영어 힌트 + 오디오 버튼
+    - 하단: 카드 dot 인디케이터 + 🔥 streak + "← swipe to next →"
+    - 타이머 빨간색 깜빡임 (animate-timer-pulse)
+  - **② Review Alerts** (다크 잠금화면):
+    - 날짜/시각 표시 (잠금화면 스타일)
+    - 알림 5개 (동사무소/끝내주다/그러니까/세탁기/갑분싸):
+      - 각 알림: 앱 아이콘 + "'단어' 기억나? 복습할 시간!" + 영어 설명
+      - 복습 단계 배지: 1단계(파랑) / 2단계(노랑) / 3단계(초록) + 진행 도트 3개
+      - #태그 (행정/슬랭/회화/생활 등)
+- 하단 스탯 3개: ⚡~10sec / 🧠 92% / 📲 Automatic
+
+### §10 ProficiencyTest — "한국어 능력 시험"
 - **헤딩**: "The test that changes everything."
 - 폰 프레임 안 시험 UI:
   - 3급, 문제 7/20, 타이머 00:05 (원형 프로그레스 SVG)
@@ -124,7 +157,7 @@ V1 페이지만 교체. V2/V3는 그대로 유지.
 - 하단: 3개 등급 배지 (3급 브론즈 / 2급 실버 / 1급 골드+글로우)
 - 응시료 주석: ₩50,000
 
-### §9 AIPersonality — "감정"
+### §11 AIPersonality — "감정"
 - **네이비 배경**
 - **헤딩**: "They're not just chatbots. They have feelings."
 - 2개 채팅 목업 나란히:
@@ -132,14 +165,14 @@ V1 페이지만 교체. V2/V3는 그대로 유지.
   - B) 민호 퇴장: "나 이제 진짜 간다" → 시스템 메시지 "박민호님이 채팅방을 나갔습니다" → 입력창 비활성
 - 주석: "Treat them like real people."
 
-### §10 ItemsGifts — "아이템샵"
+### §12 ItemsGifts — "아이템샵"
 - **헤딩**: "Buy gifts. Build friendships."
 - 폰 프레임 안 싸이월드 느낌 아이템 그리드 (3x3):
   - 커피 ₩3,000 / 떡볶이 ₩4,500 / 인형 ₩12,000 / 편지 ₩1,000 / 케이크 ₩15,000 / 꽃다발 ₩8,000 / 귀걸이 ₩20,000 / 책 ₩7,000 / ??? 잠김
 - 소지금 표시, "선물하기" 버튼
 - 옆: 수진 반응 채팅 "헉 커피?! 고마워!! ☕💕"
 
-### §11 ProgressionStory — "여정 타임라인"
+### §13 ProgressionStory — "여정 타임라인"
 - **헤딩**: "From lost to fluent."
 - 수직(모바일)/수평(데스크톱) 타임라인 6단계:
   - Day 1: 도착 — 아무것도 모르는 상태
@@ -149,40 +182,44 @@ V1 페이지만 교체. V2/V3는 그대로 유지.
   - Day 120: 한국어로 첫 말다툼
   - Day 180: 1급 합격 — "The real world is next."
 
-### §12 CTA — 네이비 배경
+### §14 CTA — 네이비 배경
 - "Enter the world. Start your journey."
 - 두 단계 CTA (Early Access + Waitlist)
 
-### §13 FAQ — 6개 항목
+### §15 FAQ — 6개 항목
 - "Is this a game?" / "What level needed?" / "How does economy work?" / "Can AI leave?" / "How long to Level 1?" / "Mobile available?"
 
-### §14 Final CTA + Footer
+### §16 Final CTA + Footer
 - "당신의 한국어 여정이 시작됩니다."
 
 ---
 
-## 실행 순서
+## 실행 순서 (완료 기준)
 
-**Phase 0** — 인프라
+**Phase 0** — 인프라 ✅
 1. `tailwind.config.js` 커스텀 색상/애니메이션 확장
 2. `index.html` Noto Sans KR 폰트 추가
-3. `src/index.css` keyframe 애니메이션 추가
+3. `src/index.css` keyframe 애니메이션 추가 (`wave-bounce` 포함)
 
-**Phase 1** — 공유 유틸리티 (4개, 병렬 가능)
+**Phase 1** — 공유 유틸리티 ✅
 4. `SectionWrapper.tsx`
 5. `MockupFrame.tsx`
 6. `PhoneCallOverlay.tsx`
 7. `KoreanMenuUI.tsx`
 
-**Phase 2** — 독립 섹션 (9개, 병렬 가능)
+**Phase 2** — 독립 섹션 ✅
 8~16. HeroArrival, ChatListMockup, ChatDetailMockup, WorldOverview, AdministrativeLife, ProficiencyTest, AIPersonality, ItemsGifts, ProgressionStory
 
-**Phase 3** — 의존 섹션 (2개)
+**Phase 3** — 의존 섹션 ✅
 17. `JobsEconomy.tsx` (PhoneCallOverlay 사용)
 18. `RestaurantSimulation.tsx` (PhoneCallOverlay + KoreanMenuUI 사용)
 
-**Phase 4** — 조립
-19. `V1Minimal.tsx` 리라이트
+**Phase 4** — 조립 ✅
+19. `V1Minimal.tsx` 리라이트 (16개 섹션)
+
+**Phase 5** — §8·§9 추가 및 개선 ✅
+20. `LectureSection.tsx` 신규: MiniPhone 3화면 + VillageScene SVG 일러스트
+21. `FlashCardReview.tsx` 전면 리디자인: MiniPhone 2화면 (Flash Card + 알림 잠금화면)
 
 ---
 
