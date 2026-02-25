@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import HeroArrival from "../components/world/HeroArrival";
 import ChatListMockup from "../components/world/ChatListMockup";
 import ChatDetailMockup from "../components/world/ChatDetailMockup";
@@ -126,6 +127,27 @@ export default function V1Minimal() {
           label="Enter the World"
           className="bg-navy text-white hover:bg-navy-dark"
         />
+      </section>
+
+      {/* 🔧 Prototype Nav — internal only */}
+      <section className="px-6 py-6 bg-gray-950 border-t border-gray-800">
+        <p className="text-xs text-gray-500 text-center mb-3 uppercase tracking-widest">Prototype v1</p>
+        <div className="flex justify-center gap-3 flex-wrap">
+          {[
+            { label: "💬 채팅", to: "/prototype/v1/chat" },
+            { label: "📋 작업", to: "/prototype/v1/work" },
+            { label: "📚 강의", to: "/prototype/v1/lecture" },
+            { label: "🃏 플래시카드", to: "/prototype/v1/flashcard" },
+          ].map(({ label, to }) => (
+            <Link
+              key={to}
+              to={to}
+              className="px-4 py-2 rounded-lg bg-gray-800 text-gray-300 text-sm hover:bg-gray-700 hover:text-white transition-colors"
+            >
+              {label}
+            </Link>
+          ))}
+        </div>
       </section>
 
       <footer className="px-6 py-8 text-center text-xs text-gray-400">
