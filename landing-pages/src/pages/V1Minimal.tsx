@@ -5,6 +5,8 @@ import WorldOverview from "../components/world/WorldOverview";
 import JobsEconomy from "../components/world/JobsEconomy";
 import RestaurantSimulation from "../components/world/RestaurantSimulation";
 import AdministrativeLife from "../components/world/AdministrativeLife";
+import LectureSection from "../components/world/LectureSection";
+import FlashCardReview from "../components/world/FlashCardReview";
 import ProficiencyTest from "../components/world/ProficiencyTest";
 import AIPersonality from "../components/world/AIPersonality";
 import ItemsGifts from "../components/world/ItemsGifts";
@@ -69,19 +71,25 @@ export default function V1Minimal() {
       {/* §7 Administrative Life */}
       <AdministrativeLife />
 
-      {/* §8 Proficiency Test */}
+      {/* §8 Lecture */}
+      <LectureSection />
+
+      {/* §9 Flash Card Review */}
+      <FlashCardReview />
+
+      {/* §10 Proficiency Test */}
       <ProficiencyTest />
 
-      {/* §9 AI Personality */}
+      {/* §11 AI Personality */}
       <AIPersonality />
 
-      {/* §10 Items & Gifts */}
+      {/* §12 Items & Gifts */}
       <ItemsGifts />
 
-      {/* §11 Progression Story */}
+      {/* §13 Progression Story */}
       <ProgressionStory />
 
-      {/* §12 CTA */}
+      {/* §14 CTA */}
       <section className="px-6 py-20 bg-navy text-white text-center">
         <h2 className="text-3xl sm:text-4xl font-bold mb-4">
           Enter the world. Start your journey.
@@ -103,10 +111,10 @@ export default function V1Minimal() {
         </div>
       </section>
 
-      {/* §13 FAQ */}
+      {/* §15 FAQ */}
       <FAQ items={faqItems} className="bg-white text-gray-900" />
 
-      {/* §14 Final CTA + Footer */}
+      {/* §16 Final CTA + Footer */}
       <section className="px-6 py-16 bg-slate-50 text-center">
         <p className="text-lg font-korean text-gray-400 mb-2">
           당신의 한국어 여정이 시작됩니다.
