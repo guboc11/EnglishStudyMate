@@ -7,6 +7,7 @@ import WorkPrototype from "./pages/prototypes/v1/WorkPrototype";
 import LecturePrototype from "./pages/prototypes/v1/LecturePrototype";
 import FlashcardPrototype from "./pages/prototypes/v1/FlashcardPrototype";
 import ChatPrototypeV2 from "./pages/prototypes/v2/ChatPrototypeV2";
+import WorkPrototypeV2 from "./pages/prototypes/v2/WorkPrototypeV2";
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
       <Route path="/prototype/v1/lecture" element={<LecturePrototype />} />
       <Route path="/prototype/v1/flashcard" element={<FlashcardPrototype />} />
       <Route path="/prototype/v2/chat" element={<ChatPrototypeV2 />} />
+      <Route path="/prototype/v2/work" element={<WorkPrototypeV2 />} />
     </Routes>
   );
 }

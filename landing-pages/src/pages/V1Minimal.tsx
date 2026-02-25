@@ -156,6 +156,12 @@ export default function V1Minimal() {
           >
             💬 채팅 v2
           </Link>
+          <Link
+            to="/prototype/v2/work"
+            className="px-4 py-2 rounded-lg bg-blue-900 text-blue-200 text-sm hover:bg-blue-800 hover:text-white transition-colors"
+          >
+            💼 파트타임 워크 v2
+          </Link>
         </div>
       </section>
 

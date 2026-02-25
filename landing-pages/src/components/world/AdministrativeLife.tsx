@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import SectionWrapper from "./SectionWrapper";
 
 export default function AdministrativeLife() {
@@ -105,6 +106,15 @@ export default function AdministrativeLife() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div className="flex justify-center mt-8">
+        <Link
+          to="/prototype/v2/work?tab=admin"
+          className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
+        >
+          직접 해보기 →
+        </Link>
       </div>
     </SectionWrapper>
   );
