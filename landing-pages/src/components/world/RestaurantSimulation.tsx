@@ -25,10 +25,6 @@ export default function RestaurantSimulation() {
         A real work simulation. Take calls, listen to orders, pick the right
         items.
       </p>
-      <p className="text-center text-xs text-gray-400 mb-12">
-        ⏱ 실제 5분 = 게임 내 1시간
-      </p>
-
       {/* Step indicators */}
       <div className="flex items-center justify-center gap-2 sm:gap-4 mb-12">
         {simSteps.map((s, i) => (

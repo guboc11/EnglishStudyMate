@@ -53,21 +53,24 @@ const ADMIN_TASKS: AdminTask[] = [
     ],
   },
   {
-    id: "resident", icon: "📄", name: "주민등록증 발급",
+    id: "visa", icon: "📋", name: "비자 연장 신청",
     fields: [
       { label: "성명",       type: "text" },
-      { label: "주민등록번호",type: "text" },
-      { label: "주소",       type: "text" },
-      { label: "발급 사유",  type: "select", options: ["최초 발급", "분실", "훼손", "정보 변경"] },
+      { label: "생년월일",   type: "date" },
+      { label: "국적",       type: "text" },
+      { label: "체류 자격",  type: "select", options: ["D-2 유학", "E-7 특정활동", "F-2 거주", "F-4 재외동포"] },
+      { label: "연장 기간",  type: "select", options: ["6개월", "1년", "2년"] },
+      { label: "체류 만료일",type: "date" },
     ],
   },
   {
-    id: "passport", icon: "✈️", name: "여권 발급 / 갱신",
+    id: "insurance", icon: "🏥", name: "건강보험 가입 신청",
     fields: [
-      { label: "성명 (영문)",type: "text" },
+      { label: "성명",      type: "text" },
       { label: "생년월일",  type: "date" },
-      { label: "신청 구분", type: "select", options: ["신규 발급", "갱신", "분실 재발급"] },
-      { label: "유효 기간", type: "select", options: ["5년", "10년"] },
+      { label: "가입 유형", type: "select", options: ["지역가입자", "직장가입자", "피부양자"] },
+      { label: "소득 유형", type: "select", options: ["근로소득", "사업소득", "없음"] },
+      { label: "연락처",    type: "text" },
     ],
   },
   {
@@ -170,7 +173,7 @@ export default function WorkPrototypeV2() {
   const [menu, setMenu]                 = useState<MenuItem[]>(INIT_MENU.map(m => ({ ...m })));
 
   // admin
-  const [adminScreen, setAdminScreen]   = useState<"list" | "form">("list");
+  const [adminScreen, setAdminScreen]   = useState<"list" | "form" | "payment">("list");
   const [selectedTask, setSelectedTask] = useState<AdminTask | null>(null);
   const [adminForm, setAdminForm]       = useState<Record<string, string>>({});
 
@@ -478,12 +481,49 @@ export default function WorkPrototypeV2() {
         </div>
         <div className="shrink-0 px-4 py-3 border-t border-gray-200 bg-white">
           <button
-            onClick={() => { toast("접수가 완료되었습니다 🏛️", { description: "처리까지 약 5~7일 소요됩니다", duration: 3000 }); setAdminScreen("list"); }}
+            onClick={() => {
+              if (selectedTask?.id === "visa") {
+                setAdminScreen("payment");
+              } else {
+                toast("접수가 완료되었습니다 🏛️", { description: "처리까지 약 5~7일 소요됩니다", duration: 3000 });
+                setAdminScreen("list");
+              }
+            }}
             className="w-full bg-blue-500 text-white rounded-xl py-3 text-sm font-semibold"
           >제출하기</button>
         </div>
       </div>
     );
+
+    if (adminScreen === "payment") return (
+      <div className="flex flex-col h-full">
+        <div className="shrink-0 px-4 py-3 border-b border-gray-200 bg-white flex items-center gap-3">
+          <button onClick={() => setAdminScreen("form")} className="text-blue-500 text-sm font-medium">← 뒤로</button>
+          <span className="text-sm font-semibold text-gray-900">💳 수수료 결제</span>
+        </div>
+        <div className="flex-1 flex flex-col items-center justify-center px-6 gap-6 bg-gray-50">
+          <div className="bg-white rounded-2xl p-6 w-full shadow-sm border border-gray-100 text-center">
+            <p className="text-xs text-gray-400 mb-1">비자 연장 수수료</p>
+            <p className="text-4xl font-bold text-gray-900 mb-1">₩120,000</p>
+            <p className="text-xs text-gray-400">출입국관리사무소 공식 수수료</p>
+          </div>
+          <div className="w-full space-y-3">
+            {["💳 카드 결제", "🏦 계좌이체"].map(method => (
+              <button
+                key={method}
+                onClick={() => {
+                  toast("결제 완료 ✅", { description: "비자 연장 신청이 접수되었습니다. 처리까지 약 2~3주 소요됩니다.", duration: 3500 });
+                  setAdminScreen("list");
+                }}
+                className="w-full bg-white border border-gray-200 rounded-xl py-3.5 text-sm font-semibold text-gray-800 hover:border-blue-300 transition-colors"
+              >{method}</button>
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+
+    return null;
   }
 
   /* ── Render ── */

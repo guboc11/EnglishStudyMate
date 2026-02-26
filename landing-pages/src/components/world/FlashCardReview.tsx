@@ -5,7 +5,7 @@ import SectionWrapper from "./SectionWrapper";
 
 const flashCards = [
   { word: "끝내주다", hint: "awesome / amazing", tag: "슬랭" },
-  { word: "어떻게", hint: "how / in what way", tag: "기본" },
+  { word: "귀찮다", hint: "can't be bothered", tag: "감정" },
   { word: "혼쭐나다", hint: "get scolded hard", tag: "슬랭" },
 ];
 
@@ -68,7 +68,7 @@ const stageMeta: Record<number, { label: string; color: string; bg: string }> =
 
 const stats = [
   { emoji: "⚡", label: "Review time", value: "~10 sec" },
-  { emoji: "🧠", label: "Retention rate", value: "92%" },
+  { emoji: "🧠", label: "Review Success Rate", value: "87%" },
   { emoji: "📲", label: "Scheduling", value: "Automatic" },
 ];
 

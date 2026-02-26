@@ -7,8 +7,8 @@ interface ChatMessage {
 }
 
 const messages: ChatMessage[] = [
-  { sender: "sujin", text: "야~ 아까 편의점에서 봤지? ㅋㅋ" },
-  { sender: "user", text: "Oh, you saw me? Haha sorry I was confused" },
+  { sender: "sujin", text: "안녕! 너 오늘 전학 온 애지?" },
+  { sender: "user", text: "어, 응! 안녕~ 나 Alex야 ㅎㅎ 😊" },
   { sender: "sujin", text: "ㅋㅋ 괜찮아~ 한국어 할 줄 알아?" },
   { sender: "user", text: "A little... 조금?" },
   { sender: "sujin", text: "오 '조금'! 잘하네~ 👍" },

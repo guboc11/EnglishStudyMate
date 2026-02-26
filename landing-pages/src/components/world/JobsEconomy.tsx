@@ -31,7 +31,7 @@ const jobs: JobCard[] = [
   {
     title: "심부름",
     pay: "₩5,000/건",
-    description: "부대찌개 사서 배달하기",
+    description: "주민들의 부탁 들어주기",
     icon: "🏃",
   },
 ];

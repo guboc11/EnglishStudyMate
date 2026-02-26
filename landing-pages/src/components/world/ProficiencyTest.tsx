@@ -3,9 +3,9 @@ import SectionWrapper from "./SectionWrapper";
 import MockupFrame from "./MockupFrame";
 
 const badges = [
-  { level: "3급", color: "from-amber-600 to-amber-700", label: "Bronze", fee: "₩50,000" },
-  { level: "2급", color: "from-gray-400 to-gray-500", label: "Silver", fee: "₩70,000" },
-  { level: "1급", color: "from-yellow-400 to-amber-400", label: "Gold", fee: "₩100,000", glow: true },
+  { level: "Bronze", color: "from-amber-600 to-amber-700", label: "Bronze", fee: "₩50,000" },
+  { level: "Silver", color: "from-gray-400 to-gray-500", label: "Silver", fee: "₩70,000" },
+  { level: "Gold",   color: "from-yellow-400 to-amber-400", label: "Gold", fee: "₩100,000", glow: true },
 ];
 
 export default function ProficiencyTest() {
@@ -15,7 +15,7 @@ export default function ProficiencyTest() {
         The test that changes everything.
       </h2>
       <p className="text-center text-gray-500 mb-12 max-w-md mx-auto">
-        Pass the Korean Proficiency Test to unlock new areas, jobs, and relationships.
+        Pass the IBIK (이방인 한국어 인증 검정) to unlock new areas, jobs, and relationships.
       </p>
 
       <div className="flex flex-col items-center gap-12">
@@ -23,8 +23,8 @@ export default function ProficiencyTest() {
         <MockupFrame>
           {/* Test header */}
           <div className="bg-navy px-4 py-3 flex items-center justify-between text-white">
-            <span className="text-xs font-korean">한국어 능력 시험</span>
-            <span className="text-xs font-medium">3급</span>
+            <span className="text-xs font-korean">IBIK</span>
+            <span className="text-xs font-medium">Bronze</span>
           </div>
 
           <div className="p-4 space-y-4">

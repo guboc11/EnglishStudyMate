@@ -14,6 +14,7 @@ type Card = {
   sentence: string;
   tag: string;
   stage: number;
+  hasImage?: boolean;
 };
 
 /* ── Data ── */
@@ -21,9 +22,9 @@ type Card = {
 const BASE_CARDS: Card[] = [
   { id:1, word:"처녀",    meaning:"unmarried young woman",     sentence:"한 마을에 춘향이라는 아름다운 처녀가 살았습니다.", tag:"고전", stage:2 },
   { id:2, word:"반드시",  meaning:"definitely / without fail", sentence:"이몽룡이 '반드시 돌아오겠소'라고 말했습니다.",     tag:"고전", stage:3 },
-  { id:3, word:"동사무소",meaning:"community service center",  sentence:"동사무소에서 주민등록증을 발급받았어.",             tag:"행정", stage:6 },
+  { id:3, word:"동사무소",meaning:"community service center",  sentence:"동사무소에서 주민등록증을 발급받았어.",             tag:"행정", stage:6, hasImage:true },
   { id:4, word:"그러니까",meaning:"so / that's what I mean",   sentence:"그러니까 내 말은 그게 아니야.",                   tag:"회화", stage:5 },
-  { id:5, word:"세탁기",  meaning:"washing machine",           sentence:"세탁기가 고장났어.",                             tag:"생활", stage:5 },
+  { id:5, word:"세탁기",  meaning:"washing machine",           sentence:"세탁기가 고장났어.",                             tag:"생활", stage:5, hasImage:true },
   { id:6, word:"혼쭐나다",meaning:"get scolded hard",          sentence:"오늘 사장님한테 혼쭐났어.",                       tag:"슬랭", stage:2 },
 ];
 
@@ -744,14 +745,16 @@ export default function ReviewPrototypeV2() {
 
     if (reviewPhase === "choices" || (reviewPhase === "result" && mcqSelected !== null)) {
       const showResult = reviewPhase === "result";
+      const useImage = card.hasImage;
       return (
         <div className="flex flex-col h-full bg-white">
           <div className="shrink-0 px-5 py-3 border-b border-gray-100">
             <p className="text-[12px] text-gray-500 text-center">
-              '<span className="font-bold font-korean text-gray-800">{card.word}</span>'에 맞는 이미지를 고르세요
+              '<span className="font-bold font-korean text-gray-800">{card.word}</span>'
+              {useImage ? "에 맞는 이미지를 고르세요" : "의 뜻을 고르세요"}
             </p>
           </div>
-          <div className="flex-1 grid grid-cols-2 gap-3 p-4 content-center">
+          <div className={`flex-1 p-4 content-center ${useImage ? "grid grid-cols-2 gap-3" : "flex flex-col gap-3 justify-center"}`}>
             {mcqCards.map((choice, i) => {
               const isSelected = mcqSelected === i;
               const isCorrect = choice.id === card.id;
@@ -790,54 +793,73 @@ export default function ReviewPrototypeV2() {
                   }}
                   className={borderCls}
                 >
-                  {/* Image area — TODO: replace inner div with <img> */}
-                  <div className={`aspect-square relative flex items-center justify-center ${
-                    isSelected && isCorrect ? "bg-emerald-100" :
-                    isSelected && !isCorrect ? "bg-red-100" :
-                    !isSelected && isCorrect && showResult ? "bg-emerald-50" :
-                    "bg-gray-100"
-                  }`}>
-                    {/*
-                      TODO: 아래 placeholder를 실제 이미지로 교체하세요.
-                      <img
-                        src={`/images/review/${choice.word}.jpg`}
-                        className="w-full h-full object-cover"
-                        alt={choice.word}
-                      />
-                    */}
-                    <div className="flex flex-col items-center justify-center gap-2 p-4 w-full h-full">
-                      <span className="text-4xl opacity-20">🖼️</span>
-                      <span className="text-[9px] text-gray-300 font-medium">이미지 준비 중</span>
-                    </div>
-
-                    {/* Correct / wrong overlay badge */}
-                    {isSelected && (
-                      <div className={`absolute top-2 right-2 w-6 h-6 rounded-full flex items-center justify-center text-white text-xs font-bold ${
-                        isCorrect ? "bg-emerald-500" : "bg-red-400"
-                      }`}>
-                        {isCorrect ? "✓" : "✗"}
-                      </div>
-                    )}
-                    {!isSelected && isCorrect && showResult && (
-                      <div className="absolute top-2 right-2 w-6 h-6 rounded-full bg-emerald-400 flex items-center justify-center text-white text-xs font-bold">
-                        ✓
-                      </div>
-                    )}
-                  </div>
-
-                  {/* Word label below image (visible after selection) */}
-                  <div className={`px-2 py-1.5 text-center border-t ${
-                    isSelected && isCorrect ? "bg-emerald-50 border-emerald-100" :
-                    isSelected && !isCorrect ? "bg-red-50 border-red-100" :
-                    !isSelected && isCorrect && showResult ? "bg-emerald-50 border-emerald-100" :
-                    "bg-white border-gray-100"
-                  }`}>
-                    <span className={`text-[11px] font-korean font-bold ${
-                      showHint ? "text-gray-700" : "text-transparent select-none"
+                  {useImage ? (
+                  <>
+                    {/* Image area — TODO: replace inner div with <img> */}
+                    <div className={`aspect-square relative flex items-center justify-center ${
+                      isSelected && isCorrect ? "bg-emerald-100" :
+                      isSelected && !isCorrect ? "bg-red-100" :
+                      !isSelected && isCorrect && showResult ? "bg-emerald-50" :
+                      "bg-gray-100"
                     }`}>
-                      {choice.word}
-                    </span>
+                      {/*
+                        TODO: 아래 placeholder를 실제 이미지로 교체하세요.
+                        <img
+                          src={`/images/review/${choice.word}.jpg`}
+                          className="w-full h-full object-cover"
+                          alt={choice.word}
+                        />
+                      */}
+                      <div className="flex flex-col items-center justify-center gap-2 p-4 w-full h-full">
+                        <span className="text-4xl opacity-20">🖼️</span>
+                        <span className="text-[9px] text-gray-300 font-medium">이미지 준비 중</span>
+                      </div>
+                      {isSelected && (
+                        <div className={`absolute top-2 right-2 w-6 h-6 rounded-full flex items-center justify-center text-white text-xs font-bold ${
+                          isCorrect ? "bg-emerald-500" : "bg-red-400"
+                        }`}>
+                          {isCorrect ? "✓" : "✗"}
+                        </div>
+                      )}
+                      {!isSelected && isCorrect && showResult && (
+                        <div className="absolute top-2 right-2 w-6 h-6 rounded-full bg-emerald-400 flex items-center justify-center text-white text-xs font-bold">
+                          ✓
+                        </div>
+                      )}
+                    </div>
+                    {/* Word label below image (visible after selection) */}
+                    <div className={`px-2 py-1.5 text-center border-t ${
+                      isSelected && isCorrect ? "bg-emerald-50 border-emerald-100" :
+                      isSelected && !isCorrect ? "bg-red-50 border-red-100" :
+                      !isSelected && isCorrect && showResult ? "bg-emerald-50 border-emerald-100" :
+                      "bg-white border-gray-100"
+                    }`}>
+                      <span className={`text-[11px] font-korean font-bold ${
+                        showHint ? "text-gray-700" : "text-transparent select-none"
+                      }`}>
+                        {choice.word}
+                      </span>
+                    </div>
+                  </>
+                  ) : (
+                  /* Text MCQ — for abstract words without images */
+                  <div className={`px-4 py-4 text-left w-full ${
+                    isSelected && isCorrect ? "bg-emerald-50" :
+                    isSelected && !isCorrect ? "bg-red-50" :
+                    !isSelected && isCorrect && showResult ? "bg-emerald-50" :
+                    "bg-white"
+                  }`}>
+                    <p className={`text-sm font-medium font-korean ${
+                      isSelected && isCorrect ? "text-emerald-700" :
+                      isSelected && !isCorrect ? "text-red-600" :
+                      !isSelected && isCorrect && showResult ? "text-emerald-700" :
+                      "text-gray-800"
+                    }`}>{choice.meaning}</p>
+                    {showHint && (
+                      <p className="text-[10px] text-gray-400 mt-0.5 font-korean">{choice.word}</p>
+                    )}
                   </div>
+                  )}
                 </button>
               );
             })}

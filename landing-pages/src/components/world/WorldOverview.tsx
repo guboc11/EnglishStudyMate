@@ -42,7 +42,7 @@ export default function WorldOverview() {
       </h2>
       <p className="text-center text-white/60 mb-12 max-w-lg mx-auto">
         You're a foreigner in a Korean-speaking AI world. Your mission:
-        survive, work, make friends, and pass the Korean Proficiency Test.
+        survive, work, make friends, and pass the IBIK (이방인 한국어 인증 검정).
       </p>
 
       {/* Node map */}

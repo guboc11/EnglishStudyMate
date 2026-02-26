@@ -521,7 +521,7 @@ export default function ChatPrototypeV2() {
                       { icon: "💼", label: "알바", active: false },
                       { icon: "📝", label: "시험", active: false },
                       { icon: "📚", label: "강의", active: false },
-                      { icon: "🔄", label: "복습", active: false },
+                      { icon: "🗂️", label: "복습", active: false },
                     ].map((tab) => (
                       <div key={tab.label} className={`flex flex-col items-center gap-0.5 px-3 py-1 ${tab.active ? "text-blue-500" : "text-gray-400"}`}>
                         <span className="text-xl">{tab.icon}</span>
