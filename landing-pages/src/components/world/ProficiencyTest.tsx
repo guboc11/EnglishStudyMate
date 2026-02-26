@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import SectionWrapper from "./SectionWrapper";
 import MockupFrame from "./MockupFrame";
 
@@ -117,6 +118,15 @@ export default function ProficiencyTest() {
             </div>
           ))}
         </div>
+      </div>
+
+      <div className="flex justify-center mt-10">
+        <Link
+          to="/prototype/v2/exam"
+          className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
+        >
+          직접 해보기 →
+        </Link>
       </div>
     </SectionWrapper>
   );
