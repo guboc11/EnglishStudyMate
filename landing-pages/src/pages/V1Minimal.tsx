@@ -108,12 +108,9 @@ export default function V1Minimal() {
             className="bg-white text-navy hover:bg-gray-100"
             onClick={() => setShowModal(true)}
           />
-          <CTAButton
-            label="Join the free waitlist instead"
-            variant="secondary"
-            className="text-white/70"
-            onClick={() => setShowModal(true)}
-          />
+          <p className="text-xs text-white/40 mt-1">
+            ✦ Founding member price — locked in forever once you join
+          </p>
         </div>
       </section>
 
