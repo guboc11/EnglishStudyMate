@@ -109,10 +109,7 @@ export default function ProficiencyTest() {
                   {badge.level}
                 </span>
               </div>
-              <p className="mt-2 text-sm font-medium text-gray-700">
-                {badge.label}
-              </p>
-              <p className="text-[10px] text-gray-400 font-korean">
+              <p className="text-[10px] text-gray-400 font-korean mt-2">
                 응시료 {badge.fee}
               </p>
             </div>

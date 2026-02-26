@@ -28,7 +28,7 @@ const steps: TimelineStep[] = [
   },
   {
     day: "Day 60",
-    title: "3급 합격",
+    title: "Bronze 합격",
     description: "Bronze-level certification. New doors open.",
     icon: "🥉",
   },
@@ -40,7 +40,7 @@ const steps: TimelineStep[] = [
   },
   {
     day: "Day 180",
-    title: "1급 합격",
+    title: "Gold 합격",
     description: "Gold-level mastery. The real world is next.",
     icon: "🏆",
   },
