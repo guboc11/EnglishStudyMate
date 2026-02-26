@@ -168,6 +168,12 @@ export default function V1Minimal() {
           >
             📝 시험 v2
           </Link>
+          <Link
+            to="/prototype/v2/lecture"
+            className="px-4 py-2 rounded-lg bg-blue-900 text-blue-200 text-sm hover:bg-blue-800 hover:text-white transition-colors"
+          >
+            🏫 학교 v2
+          </Link>
         </div>
       </section>
 

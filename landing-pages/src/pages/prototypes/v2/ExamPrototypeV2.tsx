@@ -411,7 +411,8 @@ function ExpressionScreen({ questions, onDone }: { questions: Question[]; onDone
   if (q.type !== "expression-mcq") return null;
 
   function select(opt: MCQOption) {
-    setFeedback({ correct: opt.correct, answer: opt.correct ? undefined : q.options.find(o => o.correct)?.text });
+    const mcqQ = q as unknown as { type: "expression-mcq"; options: MCQOption[]; label: string; question: string };
+    setFeedback({ correct: opt.correct, answer: opt.correct ? undefined : mcqQ.options.find(o => o.correct)?.text });
     if (opt.correct) setScore(s => s + 1);
   }
 

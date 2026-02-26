@@ -9,6 +9,7 @@ import FlashcardPrototype from "./pages/prototypes/v1/FlashcardPrototype";
 import ChatPrototypeV2 from "./pages/prototypes/v2/ChatPrototypeV2";
 import WorkPrototypeV2 from "./pages/prototypes/v2/WorkPrototypeV2";
 import ExamPrototypeV2 from "./pages/prototypes/v2/ExamPrototypeV2";
+import LecturePrototypeV2 from "./pages/prototypes/v2/LecturePrototypeV2";
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
       <Route path="/prototype/v2/chat" element={<ChatPrototypeV2 />} />
       <Route path="/prototype/v2/work" element={<WorkPrototypeV2 />} />
       <Route path="/prototype/v2/exam" element={<ExamPrototypeV2 />} />
+      <Route path="/prototype/v2/lecture" element={<LecturePrototypeV2 />} />
     </Routes>
   );
 }
