@@ -1,7 +1,12 @@
+import { useState } from "react";
 import CTAButton from "../CTAButton";
+import WaitlistModal from "../WaitlistModal";
 
 export default function HeroArrival() {
+  const [showModal, setShowModal] = useState(false);
+
   return (
+    <>
     <section className="min-h-screen flex flex-col justify-center bg-gradient-to-b from-white to-slate-50 px-6 py-20 text-center">
       {/* Immigration badge */}
       <div className="mb-6 animate-fade-in">
@@ -56,11 +61,12 @@ export default function HeroArrival() {
         <CTAButton
           label="Enter the World"
           className="bg-navy text-white hover:bg-navy-dark"
+          onClick={() => setShowModal(true)}
         />
         <CTAButton
           label="Learn more first"
           variant="secondary"
-          className="text-gray-400"
+          className="text-gray-400 cursor-default pointer-events-none"
         />
         <div className="flex flex-wrap justify-center gap-2 mt-1">
           {[
@@ -83,5 +89,8 @@ export default function HeroArrival() {
         </div>
       </div>
     </section>
+
+    {showModal && <WaitlistModal onClose={() => setShowModal(false)} />}
+    </>
   );
 }

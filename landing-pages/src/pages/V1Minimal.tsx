@@ -1,3 +1,4 @@
+import { useState } from "react";
 import HeroArrival from "../components/world/HeroArrival";
 import ChatListMockup from "../components/world/ChatListMockup";
 import ChatDetailMockup from "../components/world/ChatDetailMockup";
@@ -13,6 +14,7 @@ import ItemsGifts from "../components/world/ItemsGifts";
 import ProgressionStory from "../components/world/ProgressionStory";
 import CTAButton from "../components/CTAButton";
 import FAQ from "../components/FAQ";
+import WaitlistModal from "../components/WaitlistModal";
 
 const faqItems = [
   {
@@ -48,6 +50,8 @@ const faqItems = [
 ];
 
 export default function V1Minimal() {
+  const [showModal, setShowModal] = useState(false);
+
   return (
     <div className="bg-white text-gray-900">
       {/* §1 Hero — Arrival */}
@@ -102,11 +106,13 @@ export default function V1Minimal() {
             label="Get Early Access — $9.99/mo"
             sublabel="50% off forever for early members — normally $19.99"
             className="bg-white text-navy hover:bg-gray-100"
+            onClick={() => setShowModal(true)}
           />
           <CTAButton
             label="Join the free waitlist instead"
             variant="secondary"
             className="text-white/70"
+            onClick={() => setShowModal(true)}
           />
         </div>
       </section>
@@ -125,6 +131,7 @@ export default function V1Minimal() {
         <CTAButton
           label="Enter the World"
           className="bg-navy text-white hover:bg-navy-dark"
+          onClick={() => setShowModal(true)}
         />
       </section>
 
@@ -185,6 +192,8 @@ export default function V1Minimal() {
       <footer className="px-6 py-8 text-center text-xs text-gray-400">
         <p>&copy; 2026 Korean World. All rights reserved.</p>
       </footer>
+
+      {showModal && <WaitlistModal onClose={() => setShowModal(false)} />}
     </div>
   );
 }
