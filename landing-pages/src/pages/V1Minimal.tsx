@@ -99,8 +99,8 @@ export default function V1Minimal() {
         </p>
         <div className="flex flex-col items-center gap-3">
           <CTAButton
-            label="Get Early Access — $4.99/mo"
-            sublabel="50% off forever for early members"
+            label="Get Early Access — $9.99/mo"
+            sublabel="50% off forever for early members — normally $19.99"
             className="bg-white text-navy hover:bg-gray-100"
           />
           <CTAButton
