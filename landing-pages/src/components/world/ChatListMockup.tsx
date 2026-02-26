@@ -126,7 +126,7 @@ export default function ChatListMockup() {
           to="/prototype/v2/chat"
           className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
         >
-          체험 해보기 →
+          Try it yourself →
         </Link>
       </div>
     </SectionWrapper>
