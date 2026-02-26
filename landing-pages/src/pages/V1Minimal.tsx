@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import HeroArrival from "../components/world/HeroArrival";
 import ChatListMockup from "../components/world/ChatListMockup";
 import ChatDetailMockup from "../components/world/ChatDetailMockup";
@@ -130,7 +129,7 @@ export default function V1Minimal() {
       </section>
 
       {/* 🔧 Prototype Nav — internal only */}
-      <section className="px-6 py-6 bg-gray-950 border-t border-gray-800">
+      {/* <section className="px-6 py-6 bg-gray-950 border-t border-gray-800">
         <p className="text-xs text-gray-500 text-center mb-3 uppercase tracking-widest">Prototype v1</p>
         <div className="flex justify-center gap-3 flex-wrap">
           {[
@@ -181,7 +180,7 @@ export default function V1Minimal() {
             🗂️ 복습 v2
           </Link>
         </div>
-      </section>
+      </section> */}
 
       <footer className="px-6 py-8 text-center text-xs text-gray-400">
         <p>&copy; 2026 Korean World. All rights reserved.</p>

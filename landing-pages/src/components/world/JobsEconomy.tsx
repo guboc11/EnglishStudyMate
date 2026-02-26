@@ -38,7 +38,7 @@ const jobs: JobCard[] = [
 
 export default function JobsEconomy() {
   return (
-    <SectionWrapper className="bg-white">
+    <SectionWrapper id="work" className="bg-white">
       <h2 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-4">
         You need money. Time to work.
       </h2>
@@ -88,7 +88,7 @@ export default function JobsEconomy() {
           to="/prototype/v2/work?tab=apply"
           className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
         >
-          직접 해보기 →
+          체험 해보기 →
         </Link>
       </div>
     </SectionWrapper>

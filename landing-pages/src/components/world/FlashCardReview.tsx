@@ -273,7 +273,7 @@ function NotificationScreen() {
 /* ── Main Section ── */
 export default function FlashCardReview() {
   return (
-    <SectionWrapper className="bg-navy text-white">
+    <SectionWrapper id="review" className="bg-navy text-white">
       <h2 className="text-3xl sm:text-4xl font-bold text-center mb-4">
         10 seconds. That's all it takes.
       </h2>
@@ -307,7 +307,7 @@ export default function FlashCardReview() {
             to="/prototype/v2/review"
             className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
           >
-            직접 해보기 →
+            체험 해보기 →
           </Link>
         </div>
 

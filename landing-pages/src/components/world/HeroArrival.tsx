@@ -61,12 +61,26 @@ export default function HeroArrival() {
           label="Learn more first"
           variant="secondary"
           className="text-gray-400"
-          onClick={() =>
-            document
-              .getElementById("chat-list")
-              ?.scrollIntoView({ behavior: "smooth" })
-          }
         />
+        <div className="flex flex-wrap justify-center gap-2 mt-1">
+          {[
+            { label: "💬 채팅", id: "chat-list" },
+            { label: "💼 업무", id: "work" },
+            { label: "🏫 학교", id: "school" },
+            { label: "🗂️ 복습", id: "review" },
+            { label: "📝 시험", id: "exam" },
+          ].map(({ label, id }) => (
+            <button
+              key={id}
+              onClick={() =>
+                document.getElementById(id)?.scrollIntoView({ behavior: "smooth" })
+              }
+              className="px-4 py-2 rounded-full bg-white border border-gray-200 text-gray-600 text-sm hover:border-gray-400 hover:text-gray-900 transition-colors shadow-sm"
+            >
+              {label}
+            </button>
+          ))}
+        </div>
       </div>
     </section>
   );

@@ -10,7 +10,7 @@ const badges = [
 
 export default function ProficiencyTest() {
   return (
-    <SectionWrapper className="bg-white">
+    <SectionWrapper id="exam" className="bg-white">
       <h2 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-4">
         The test that changes everything.
       </h2>
@@ -125,7 +125,7 @@ export default function ProficiencyTest() {
           to="/prototype/v2/exam"
           className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
         >
-          직접 해보기 →
+          체험 해보기 →
         </Link>
       </div>
     </SectionWrapper>
