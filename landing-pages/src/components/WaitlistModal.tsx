@@ -19,6 +19,7 @@ export default function WaitlistModal({ onClose }: WaitlistModalProps) {
       });
       if (res.ok) {
         setStatus("success");
+        (window as any).gtag?.('event', 'waitlist_join');
       } else {
         setStatus("error");
       }

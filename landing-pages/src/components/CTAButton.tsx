@@ -23,7 +23,10 @@ export default function CTAButton({
   return (
     <button
       className={`${base} ${variants[variant]} ${className}`}
-      onClick={onClick}
+      onClick={() => {
+        (window as any).gtag?.('event', 'cta_click', { button_label: label });
+        onClick?.();
+      }}
     >
       <span>{label}</span>
       {sublabel && (

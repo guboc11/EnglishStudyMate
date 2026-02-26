@@ -15,23 +15,24 @@ type Card = {
   tag: string;
   stage: number;
   hasImage?: boolean;
+  imageName?: string;
 };
 
 /* ── Data ── */
 
 const BASE_CARDS: Card[] = [
-  { id:1, word:"처녀",    meaning:"unmarried young woman",     sentence:"한 마을에 춘향이라는 아름다운 처녀가 살았습니다.", tag:"고전", stage:2 },
-  { id:2, word:"반드시",  meaning:"definitely / without fail", sentence:"이몽룡이 '반드시 돌아오겠소'라고 말했습니다.",     tag:"고전", stage:3 },
-  { id:3, word:"동사무소",meaning:"community service center",  sentence:"동사무소에서 주민등록증을 발급받았어.",             tag:"행정", stage:6, hasImage:true },
-  { id:4, word:"그러니까",meaning:"so / that's what I mean",   sentence:"그러니까 내 말은 그게 아니야.",                   tag:"회화", stage:5 },
-  { id:5, word:"세탁기",  meaning:"washing machine",           sentence:"세탁기가 고장났어.",                             tag:"생활", stage:5, hasImage:true },
-  { id:6, word:"혼쭐나다",meaning:"get scolded hard",          sentence:"오늘 사장님한테 혼쭐났어.",                       tag:"슬랭", stage:2 },
+  { id:1, word:"처녀",    meaning:"unmarried young woman",     sentence:"한 마을에 춘향이라는 아름다운 처녀가 살았습니다.", tag:"고전", stage:2, hasImage:true, imageName:"young-woman"        },
+  { id:2, word:"반드시",  meaning:"definitely / without fail", sentence:"이몽룡이 '반드시 돌아오겠소'라고 말했습니다.",     tag:"고전", stage:3, hasImage:true, imageName:"definitely"          },
+  { id:3, word:"동사무소",meaning:"community service center",  sentence:"동사무소에서 주민등록증을 발급받았어.",             tag:"행정", stage:6, hasImage:true, imageName:"community-center"   },
+  { id:4, word:"그러니까",meaning:"so / that's what I mean",   sentence:"그러니까 내 말은 그게 아니야.",                   tag:"회화", stage:5, hasImage:true, imageName:"so-you-see"         },
+  { id:5, word:"세탁기",  meaning:"washing machine",           sentence:"세탁기가 고장났어.",                             tag:"생활", stage:5, hasImage:true, imageName:"washing-machine"    },
+  { id:6, word:"혼쭐나다",meaning:"get scolded hard",          sentence:"오늘 사장님한테 혼쭐났어.",                       tag:"슬랭", stage:2, hasImage:true, imageName:"got-scolded"        },
 ];
 
 const QA_CARDS: Card[] = [
-  { id:7, word:"눈치",    meaning:"reading the room",  sentence:"눈치가 없으면 한국 생활이 힘들어.",     tag:"회화", stage:1 },
-  { id:8, word:"끝내주다",meaning:"awesome / amazing", sentence:"어제 그 영화 끝내주지 않았어?",         tag:"슬랭", stage:1 },
-  { id:9, word:"갑분싸",  meaning:"sudden mood kill",  sentence:"갑분싸... 분위기 다 죽었어.",           tag:"슬랭", stage:1 },
+  { id:7, word:"눈치",    meaning:"reading the room",  sentence:"눈치가 없으면 한국 생활이 힘들어.",     tag:"회화", stage:1, hasImage:true, imageName:"reading-the-room" },
+  { id:8, word:"끝내주다",meaning:"awesome / amazing", sentence:"어제 그 영화 끝내주지 않았어?",         tag:"슬랭", stage:1, hasImage:true, imageName:"awesome"          },
+  { id:9, word:"갑분싸",  meaning:"sudden mood kill",  sentence:"갑분싸... 분위기 다 죽었어.",           tag:"슬랭", stage:1, hasImage:true, imageName:"mood-kill"        },
 ];
 
 const NOTIFICATIONS = [
@@ -726,22 +727,44 @@ export default function ReviewPrototypeV2() {
     function start() {
       setMcqCards(getImageMCQChoices(card));
       setReviewPhase("show");
-      after(1000, () => setReviewPhase("choices"));
     }
 
     if (reviewPhase === "idle") return (
       <ReviewIdleCard card={card} onStart={start}
         label={`🎯 ${card.stage}단계 · 이미지 선택`}
-        modeDesc="단어 1초 표시 → 올바른 이미지를 선택" />
+        modeDesc="문장 제시 → 올바른 이미지를 선택" />
     );
 
-    if (reviewPhase === "show") return (
-      <div className="flex flex-col h-full items-center justify-center bg-amber-500 gap-4">
-        <p className="text-[11px] text-amber-100 uppercase tracking-wider">기억하세요</p>
-        <p className="text-5xl font-bold text-white font-korean">{card.word}</p>
-        <p className="text-sm text-amber-100/70">{card.meaning}</p>
-      </div>
-    );
+    if (reviewPhase === "show") {
+      const parts = card.sentence.split(new RegExp(`(${card.word})`, "g"));
+      return (
+        <div className="flex flex-col h-full bg-white">
+          <div className="flex-1 flex flex-col justify-center px-6 gap-4">
+            <p className="text-[11px] text-amber-600 uppercase tracking-wider text-center">문장을 읽어보세요</p>
+            <div className="bg-amber-50 rounded-2xl p-4 border border-amber-100">
+              <p className="text-sm leading-relaxed font-korean text-gray-800">
+                {parts.map((part, i) =>
+                  part === card.word
+                    ? <span key={i} className="font-bold text-amber-600 underline decoration-wavy decoration-amber-300">{part}</span>
+                    : <span key={i}>{part}</span>
+                )}
+              </p>
+            </div>
+            <p className="text-[12px] text-gray-500 text-center">
+              밑줄 친 '<span className="font-bold font-korean text-gray-700">{card.word}</span>'에 맞는 이미지를 고르세요
+            </p>
+          </div>
+          <div className="shrink-0 px-6 pb-8">
+            <button
+              onClick={() => setReviewPhase("choices")}
+              className="w-full py-3 bg-amber-500 text-white rounded-2xl text-sm font-bold"
+            >
+              이미지 선택하기 →
+            </button>
+          </div>
+        </div>
+      );
+    }
 
     if (reviewPhase === "choices" || (reviewPhase === "result" && mcqSelected !== null)) {
       const showResult = reviewPhase === "result";
@@ -750,8 +773,7 @@ export default function ReviewPrototypeV2() {
         <div className="flex flex-col h-full bg-white">
           <div className="shrink-0 px-5 py-3 border-b border-gray-100">
             <p className="text-[12px] text-gray-500 text-center">
-              '<span className="font-bold font-korean text-gray-800">{card.word}</span>'
-              {useImage ? "에 맞는 이미지를 고르세요" : "의 뜻을 고르세요"}
+              밑줄 친 단어에 맞는 이미지를 고르세요
             </p>
           </div>
           <div className={`flex-1 p-4 content-center ${useImage ? "grid grid-cols-2 gap-3" : "flex flex-col gap-3 justify-center"}`}>
@@ -802,18 +824,12 @@ export default function ReviewPrototypeV2() {
                       !isSelected && isCorrect && showResult ? "bg-emerald-50" :
                       "bg-gray-100"
                     }`}>
-                      {/*
-                        TODO: 아래 placeholder를 실제 이미지로 교체하세요.
-                        <img
-                          src={`/images/review/${choice.word}.jpg`}
-                          className="w-full h-full object-cover"
-                          alt={choice.word}
-                        />
-                      */}
-                      <div className="flex flex-col items-center justify-center gap-2 p-4 w-full h-full">
-                        <span className="text-4xl opacity-20">🖼️</span>
-                        <span className="text-[9px] text-gray-300 font-medium">이미지 준비 중</span>
-                      </div>
+                      <img
+                        src={`/images/review/${choice.imageName}.jpg`}
+                        onError={(e) => { (e.target as HTMLImageElement).src = `/images/review/${choice.imageName}.png`; }}
+                        className="w-full h-full object-cover"
+                        alt={choice.word}
+                      />
                       {isSelected && (
                         <div className={`absolute top-2 right-2 w-6 h-6 rounded-full flex items-center justify-center text-white text-xs font-bold ${
                           isCorrect ? "bg-emerald-500" : "bg-red-400"

@@ -429,6 +429,7 @@ export default function LectureSection() {
         <Link
           to="/prototype/v2/lecture"
           className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
+          onClick={() => (window as any).gtag?.('event', 'prototype_click', { section: 'lecture' })}
         >
           Try it yourself →
         </Link>

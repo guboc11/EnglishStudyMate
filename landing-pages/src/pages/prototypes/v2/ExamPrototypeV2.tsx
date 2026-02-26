@@ -23,11 +23,11 @@ type Question =
 // 이미지 경로 — 파일을 landing-pages/public/exam/ 에 넣고 경로를 지정해주세요
 // 예: imageUrl: "/exam/rabbit.jpg"
 const PICTURE_QS: Question[] = [
-  { type: "mcq",   imageUrl: undefined, label: "동물", question: "이것은 무엇인가요?", options: [{ text: "고양이", correct: false }, { text: "토끼", correct: true }, { text: "강아지", correct: false }, { text: "쥐", correct: false }] },
-  { type: "mcq",   imageUrl: undefined, label: "음식", question: "이 음식의 이름은?", options: [{ text: "김치찌개", correct: true }, { text: "된장찌개", correct: false }, { text: "순두부찌개", correct: false }, { text: "설렁탕", correct: false }] },
-  { type: "mcq",   imageUrl: undefined, label: "문화", question: "이것은 무엇인가요?", options: [{ text: "기모노", correct: false }, { text: "한복", correct: true }, { text: "치파오", correct: false }, { text: "아오자이", correct: false }] },
-  { type: "input", imageUrl: undefined, label: "음식", question: "이 음식의 이름은?", answer: "부대찌개" },
-  { type: "input", imageUrl: undefined, label: "음식", question: "이 음식의 이름은?", answer: "떡볶이" },
+  { type: "mcq",   imageUrl: "/exam/rabbit.png",         label: "동물", question: "이것은 무엇인가요?", options: [{ text: "고양이", correct: false }, { text: "토끼", correct: true }, { text: "강아지", correct: false }, { text: "쥐", correct: false }] },
+  { type: "mcq",   imageUrl: "/exam/kimchi-stew.png",    label: "음식", question: "이 음식의 이름은?", options: [{ text: "김치찌개", correct: true }, { text: "된장찌개", correct: false }, { text: "순두부찌개", correct: false }, { text: "설렁탕", correct: false }] },
+  { type: "mcq",   imageUrl: "/exam/hanbok.png",         label: "문화", question: "이것은 무엇인가요?", options: [{ text: "기모노", correct: false }, { text: "한복", correct: true }, { text: "치파오", correct: false }, { text: "아오자이", correct: false }] },
+  { type: "input", imageUrl: "/exam/washing-machine.png", label: "생활", question: "이것은 무엇인가요?", answer: "세탁기" },
+  { type: "input", imageUrl: "/exam/tteokbokki.png",     label: "음식", question: "이 음식의 이름은?", answer: "떡볶이" },
 ];
 
 const DICTATION_QS: Question[] = [
@@ -225,7 +225,7 @@ function PictureScreen({ questions, onDone }: { questions: Question[]; onDone: (
         {/* Image card */}
         <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
           {q.imageUrl ? (
-            <img src={q.imageUrl} alt={q.label} className="w-full h-48 object-cover" />
+            <img src={q.imageUrl} alt={q.label} className="w-full h-48 object-contain p-4" />
           ) : (
             <div className="w-full h-48 border-2 border-dashed border-gray-200 flex flex-col items-center justify-center gap-2 bg-gray-50">
               <span className="text-3xl">🖼️</span>
