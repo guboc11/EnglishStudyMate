@@ -174,6 +174,12 @@ export default function V1Minimal() {
           >
             🏫 학교 v2
           </Link>
+          <Link
+            to="/prototype/v2/review"
+            className="px-4 py-2 rounded-lg bg-indigo-900 text-indigo-200 text-sm hover:bg-indigo-800 hover:text-white transition-colors"
+          >
+            🗂️ 복습 v2
+          </Link>
         </div>
       </section>
 

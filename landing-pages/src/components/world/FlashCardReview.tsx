@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import SectionWrapper from "./SectionWrapper";
 
 /* ── Data ── */
@@ -299,6 +300,15 @@ export default function FlashCardReview() {
           <MiniPhone label="② Review Alerts" dark>
             <NotificationScreen />
           </MiniPhone>
+        </div>
+
+        <div className="flex justify-center">
+          <Link
+            to="/prototype/v2/review"
+            className="px-6 py-3 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-700 transition-colors"
+          >
+            직접 해보기 →
+          </Link>
         </div>
 
         {/* Bottom stats */}
